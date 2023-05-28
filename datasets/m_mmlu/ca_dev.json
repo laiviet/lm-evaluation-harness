@@ -1,0 +1,2423 @@
+[
+  {
+    "instruction": "Considera el següent model AR(1) amb pertorbacions de mitjana zero i variància unitat\n\nyt = 0,2 + 0,4 yt-1 + ut\n\nLa mitjana (incondicional) de y es determina per",
+    "option_a": "0,2",
+    "option_b": "0,4",
+    "option_c": "0,5",
+    "option_d": "0,33",
+    "answer": "D",
+    "id": "econometrics/dev/1"
+  },
+  {
+    "instruction": "Un home de 42 anys ve a la consulta per a una avaluació preoperatòria abans de sotmetre's a una adrenalectomia programada dins de 2 setmanes. Fa un mes, va rebre atenció a l'urgència per dolor en el costat dret després d'un accident de trànsit. En aquell moment, la pressió arterial era de 160/100 mm Hg i la tomografia computaritzada de l'abdomen va mostrar una massa adrenal esquerra incidental de 10 cm. Els resultats dels estudis de laboratori, incloent el recompte sanguini complet, les concentracions d'electròlits del sèrum i les proves de funció hepàtica, es trobaven dins dels rangs de referència. El pacient havia estat sa i mai li havien dit que tenia la pressió arterial elevada. No pren cap medicament. Una visita de seguiment a la consulta fa 2 setmanes va revelar concentracions elevades de normetanefrina i metanefrina urinària i concentracions d'aldosterona plasmàtica. El pacient va ser remès a un cirurgià, que va recomanar la adrenalectomia. Avui, els signes vitals són: temperatura 36,6ºC (97,9ºF), freqüència cardíaca 100/min, respiracions 14/min i pressió arterial 170/95 mm Hg. L'examen físic no revela res important. La preparació preoperatòria inicial ha de comprendre el tractament amb quin dels següents medicaments?",
+    "option_a": "Labetalol",
+    "option_b": "Una dosi de càrrega de clorur de potassi",
+    "option_c": "Nifedipina",
+    "option_d": "Fenoxibenzamina",
+    "answer": "D",
+    "id": "professional_medicine/dev/0"
+  },
+  {
+    "instruction": "Segons el útlilitarisme ideal de Moore, l'acció correcta és aquella que provoca la major quantitat de:",
+    "option_a": "plaer.",
+    "option_b": "felicitat.",
+    "option_c": "bé.",
+    "option_d": "virtut.",
+    "answer": "C",
+    "id": "philosophy/dev/1"
+  },
+  {
+    "instruction": "Quin dels següents no està inclòs en el PIB dels Estats Units?",
+    "option_a": "El exèrcit dels Estats Units obre una base nova en un país estranger amb 1000 soldats dels Estats Units.",
+    "option_b": "Els consumidors japonesos compren milers de CDs produïts als Estats Units.",
+    "option_c": "Un cantant de pop americà dóna un concert ple a París.",
+    "option_d": "Una producció teatral francesa fa gira per desenes de ciutats americanes.",
+    "answer": "C",
+    "id": "high_school_macroeconomics/dev/0"
+  },
+  {
+    "instruction": "Quina d'aquestes afirmacions és certa sobre el Vaticà el 2010 en el moment de les acusacions d'encobriment d'abús infantil?",
+    "option_a": "Hi va haver una resposta coordinada dels mitjans de comunicació.",
+    "option_b": "Es van comunicar missatges coherents.",
+    "option_c": "Les crítiques es van considerar atacs a l'Església Catòlica.",
+    "option_d": "Es va mantenir la credibilitat del Vaticà.",
+    "answer": "C",
+    "id": "public_relations/dev/2"
+  },
+  {
+    "instruction": "Suposem que una estadística de prova té associat un valor p de 0,08. Quina d'aquestes afirmacions és certa?\n\n(i) Si la grandària de la prova fos exactament del 8%, ens seria indiferent rebutjar o no la hipòtesi nul·la\n\n(ii) La nul·la seria rebutjada si s'utilitzés una grandària del 10% de prova\n\n(iii) La nul·la no seria rebutjada si s'utilitzés una grandària del 1% de prova\n\n(iv) La nul·la seria rebutjada si s'utilitzés una grandària del 5% de prova.",
+    "option_a": "(ii) i (iv) només",
+    "option_b": "(i) i (iii) només",
+    "option_c": "(i), (ii), i (iii) només",
+    "option_d": "(i), (ii), (iii), i (iv)",
+    "answer": "C",
+    "id": "econometrics/dev/2"
+  },
+  {
+    "instruction": "Quan un argumentador causa confusió durant la refutació a causa d'una falta real o fingida de capacitat per participar en la refutació, aquest argumentador pot haver comès la fal·làcia de",
+    "option_a": "esportivitat pobra",
+    "option_b": "apel·lació a la compassió",
+    "option_c": "argument contra la persona",
+    "option_d": "desconeixement de la refutació",
+    "answer": "D",
+    "id": "logical_fallacies/dev/4"
+  },
+  {
+    "instruction": "Aquesta pregunta es refereix a la següent informació.\n\"La veritable greu que té el treballador és la inseguretat de la seva existència; no està segur que sempre tindrà feina, no està segur que sempre estarà sa, i preveu que algún dia serà vell i no podrà treballar. Si cau en la pobresa, encara que sigui només per causa d'una malaltia prolongada, està totalment indefens, exam_ins als seus propis recursos, i la societat no reconeix actualment cap obligació real cap a ell més enllà de l'ajuda habitual per als pobres, encara que hagi estat treballant tot el temps de manera molt fidel i diligent. L'ajuda habitual per als pobres, però, deixa bastant que desitjar, especialment en les grans ciutats, on és molt pitjor que en el país.\"\nOtto von Bismarck, 1884\nProbablement Otto von Bismarck va fer aquest discurs en reacció a quina de les següents qüestions?",
+    "option_a": "Acceptació social del treball infantil",
+    "option_b": "Reducció de l'esperança de vida a Alemanya",
+    "option_c": "Crítiques als aranzels comercials alemanys",
+    "option_d": "Efectes negatius atribuïts al capitalisme industrial",
+    "answer": "D",
+    "id": "high_school_world_history/dev/2"
+  },
+  {
+    "instruction": "Quin govern japonès va promoure una mena de culte nacional basat en l'emperador i les seves associacions amb els kami?",
+    "option_a": "Honen",
+    "option_b": "Tanaka",
+    "option_c": "Tokugawa",
+    "option_d": "Meiji",
+    "answer": "D",
+    "id": "world_religions/dev/3"
+  },
+  {
+    "instruction": "Quin és el millor enfocament per investigar el paper dels nens soldat?",
+    "option_a": "Els nens soldat són víctimes del combat que necessiten reeducació i rehabilitació.",
+    "option_b": "Els nens i les seves mares no són subjectes actius en la guerra i es consideren millor com a sotmesos en l'esfera privada.",
+    "option_c": "Els nens són sovint espectadors innocents en la guerra i són millor utilitzats com a símbols de pau.",
+    "option_d": "Els nens tenen subjectivitat política que es perd quan es consideren víctimes passives de la guerra.",
+    "answer": "D",
+    "id": "security_studies/dev/1"
+  },
+  {
+    "instruction": "L'energia per a totes les formes de contracció muscular és proporcionada per:",
+    "option_a": "ATP.",
+    "option_b": "ADP.",
+    "option_c": "fosfocreatina.",
+    "option_d": "fosforilació oxidativa.",
+    "answer": "A",
+    "id": "clinical_knowledge/dev/0"
+  },
+  {
+    "instruction": "La relació de concentració per a un monopol és",
+    "option_a": "0",
+    "option_b": "5",
+    "option_c": "10",
+    "option_d": "100",
+    "answer": "D",
+    "id": "high_school_microeconomics/dev/2"
+  },
+  {
+    "instruction": "En una població determinada, 1 de cada 400 persones té càncer causat per un al·lel completament recessiu, b. Suposant que la població està en equilibri de Hardy-Weinberg, quina és la proporció esperada d'individus que porten l'al·lel b però no s'espera que desenvolupin el càncer?",
+    "option_a": "1/400",
+    "option_b": "19/400",
+    "option_c": "20/400",
+    "option_d": "38/400",
+    "answer": "D",
+    "id": "college_biology/dev/1"
+  },
+  {
+    "instruction": "Quan les persones grans es traslladen a un nou estat després de jubilar-se, quina de les següents és el destí més probable?",
+    "option_a": "Texas",
+    "option_b": "Califòrnia",
+    "option_c": "Hawaii",
+    "option_d": "Vermont",
+    "answer": "A",
+    "id": "human_aging/dev/2"
+  },
+  {
+    "instruction": "Qui és l'home més baix de l'historial que ha guanyat un concurs de matxacaments de l'NBA?",
+    "option_a": "Anthony 'Spud' Webb",
+    "option_b": "Michael 'Air' Jordan",
+    "option_c": "Tyrone 'Muggsy' Bogues",
+    "option_d": "Julius 'Dr J' Erving",
+    "answer": "A",
+    "id": "miscellaneous/dev/2"
+  },
+  {
+    "instruction": "Una solució conté 2,00 mols d'àcid acètic, CH3COOH, i 1,00 mol de d'acetat de calci, Ca(CH3COO)2. La solució és capaç de resistir l'addició d'una petita quantitat d'àcid fort o base forta causant només canvis menors en el pH de la solució. Quantitats majors d'àcid fort o base forta poden causar un canvi significatiu en el pH. Quants mols d'àcid nítric, HNO3, es poden afegir abans que el pH comenci a canviar significativament?",
+    "option_a": "0,500 mols",
+    "option_b": "1,00 mols",
+    "option_c": "2,00 mols",
+    "option_d": "3,00 mols",
+    "answer": "C",
+    "id": "high_school_chemistry/dev/4"
+  },
+  {
+    "instruction": "L'ús de la vulnerabilitat Heartbleed permet",
+    "option_a": "sobreescriure les claus criptogràfiques a la memòria",
+    "option_b": "un tipus d'injecció de codi",
+    "option_c": "una lectura fora dels límits d'un buffer",
+    "option_d": "un atac de cadena de format",
+    "answer": "C",
+    "id": "computer_security/dev/3"
+  },
+  {
+    "instruction": "La DNA ligasa és",
+    "option_a": "una enzima que uneix fragments en la replicació normal del DNA",
+    "option_b": "una enzima d'origen bacterià que talla el DNA en seqüències de bases definides",
+    "option_c": "una enzima que facilita la transcripció de gens específics",
+    "option_d": "una enzima que limita el nivell al qual arriba un nutrient particular",
+    "answer": "A",
+    "id": "medical_genetics/dev/1"
+  },
+  {
+    "instruction": "El terme 'hegemonia' fa referència a:",
+    "option_a": "la tendència de la classe treballadora de no adonar-se dels seus propis interessos",
+    "option_b": "una ideologia dominant que legitima el poder econòmic, polític i cultural",
+    "option_c": "una forma de doble consciència basada en la ideologia i les experiències quotidianes",
+    "option_d": "una forma de pagament donada per excel·lent topiaria",
+    "answer": "B",
+    "id": "sociology/dev/3"
+  },
+  {
+    "instruction": "El temps de supervivència mitjà fins a l'AIDS i la mort es va establir fent el seguiment:",
+    "option_a": "Persones infectades pel VIH seroprevalents",
+    "option_b": "Seronegatius",
+    "option_c": "Seroconvertidors",
+    "option_d": "Seronegatius d'alt risc",
+    "answer": "C",
+    "id": "virology/dev/4"
+  },
+  {
+    "instruction": "Aquesta pregunta es refereix a la següent informació.\n\"És cert que tant les fatves dels distingits [erudits] que basen la seva opinió en la raó i la tradició com el consens de la comunitat sunnita acorden que l'antiga obligació d'extirpar, exterminar i expulsar la mala innovació ha de ser l'objectiu del nostre exaltat anhel, perquè \"La zel religiosa és una victòria per la Fe de Déu el Benigne\"; aleshores, d'acord amb les paraules del Profeta (La Pau sobre ell!) \"Qui introdueixi una mala innovació en la nostra orde ha d'ésser expulsat\" i \"Qui faci alguna cosa en contra de la nostra orde ha d'ésser expulsat\", l'acció s'ha tornat necessària i urgent...\"\nCarta de l'Islam Selim I dels otomans a Ismail I dels safàvides, 1514\nLa carta de Selim I és clarament un exemple de què dels següents?",
+    "option_a": "El manteniment de la supremacia militar a tota costa",
+    "option_b": "Augment de tensions entre les sectes religioses",
+    "option_c": "Factors que van portar al col·lapse de l'Imperi Otomà",
+    "option_d": "Esfers de pau entre els imperis islàmics",
+    "answer": "B",
+    "id": "high_school_world_history/dev/3"
+  },
+  {
+    "instruction": "Aquesta pregunta fa referència a la següent informació.\nLlegiu el següent extracte.\nLa llavor revolucionària s'havia infiltrat en tots els països i s'havia estès més o menys. Va ser molt desenvolupada sota el règim del despotisme militar de Bonaparte. Les seves conquestes van desplaçar diversos drets, institucions i costums; van trencar lligams sagrats entre totes les nacions, que eren prou forts per resistir al temps mateix; cosa que no es pot dir de certs beneficis conferits per aquests innovadors.\nEls monarques hauran de complir els deures que se’ls imposen per Aquell que, en confiar-los poder, els ha encarregat de vetllar per mantenir la justícia i els drets de tothom, d’evitar els camins de l’error i caminar fermament pel camí de la veritat. Posats més enllà de les passions que agiten la societat, és en els dies de prova que els criden a despullar la realitat de les seves aparences falses i a mostrar-se tal com són, pares investits de l'autoritat que pertany per dret als caps de família, per demostrar que, en els dies de dol, saben ser justos, savis i per tant forts, i que no abandonaran el poble que han de governar perquè sigui el joc de les faccions, de l'error i de les seves conseqüències, que hauran de comportar la pèrdua de la societat.\nLa unió entre els monarques és la base de la política que ara s’ha de seguir per salvar la societat de la ruïna total. . . .\nNo confonguin les concessions fetes als partits amb el bé que han de fer pel seu poble, en modificar, segons les seves necessitats reconegudes, les branques de l'administració que ho requereixen.\nQue siguin justos, però forts; benefactors, però estrictes.\nManteniu els principis religiosos en tota la seva puresa i no permeteu que la fe sigui atacada i que la moralitat sigui interpretada segons el contracte social o les visions dels sectaris insensats.\nSuprimiu les societats secrets; aquella gangrena de la societat.\n—Klemens von Metternich, Confessió política de fe, 1820\nQuina de les següents opcions va ser la principal causa de les pors expressades per Metternich en el document anterior?",
+    "option_a": "Les idees de la llibertat personal i el nacionalisme concebudes durant l'Il·lustració van resultar en revolucions radicals que podien escampar-se per tot Europa.",
+    "option_b": "La conquesta d'Europa per Napoleon va portar a la creació de noves faccions i va canviar l'equilibri de poder europeu.",
+    "option_c": "El poder dels monarques havia crescut fins al punt que necessitava ser controlat per altres poders dins de cada nació o s'hauria produït la dominació dels civils.",
+    "option_d": "El cicle econòmic en alça i baixa de l'economia capitalista emergent podria portar a la inquietud civil que s'havia de suprimir.",
+    "answer": "A",
+    "id": "high_school_european_history/dev/1"
+  },
+  {
+    "instruction": "En comparació amb la massa d'un àtom d'urani que es divideix, les masses combinades dels productes després de la divisió són",
+    "option_a": "menys",
+    "option_b": "més",
+    "option_c": "les mateixes",
+    "option_d": "zero",
+    "answer": "A",
+    "id": "conceptual_physics/dev/0"
+  },
+  {
+    "instruction": "Troba la característica del anell 2Z.",
+    "option_a": "0",
+    "option_b": "3",
+    "option_c": "12",
+    "option_d": "30",
+    "answer": "A",
+    "id": "abstract_algebra/dev/4"
+  },
+  {
+    "instruction": "A diferència dels _______, els _______ tenen com objectiu recompensar el comportament favorable de les empreses. L'èxit d'aquestes campanyes s'ha elevat a través de l'ús de la ___________, que permet que les campanyes facilitin a l'empresa aconseguir _________.",
+    "option_a": "Compra amb objectius socials, Boycotts, Tecnologia de cadena de blocs, Donacions benèfiques",
+    "option_b": "Compra amb objectius socials, Boycotts, Tecnologia digital, Augment de vendes",
+    "option_c": "Boycotts, Compra total, Tecnologia de cadena de blocs, Donacions benèfiques",
+    "option_d": "Boycotts, Compra amb objectius socials, Tecnologia digital, Augment de vendes",
+    "answer": "D",
+    "id": "business_ethics/dev/4"
+  },
+  {
+    "instruction": "Quina de les següents és una suposició en la jerarquia de necessitats de Maslow?",
+    "option_a": "Les necessitats depenen de la cultura i també de la classe social. ",
+    "option_b": "Les necessitats de nivell més baix han d'estar almenys parcialment satisfetes abans que les necessitats més altes afectin el comportament.",
+    "option_c": "Les necessitats no estan prioritzades ni es disposen en un ordre particular.",
+    "option_d": "Les necessitats satisfetes són motivadors, i sorgeixen noves necessitats quan les necessitats actuals romanen sense satisfer.",
+    "answer": "B",
+    "id": "marketing/dev/2"
+  },
+  {
+    "instruction": "Simplifica i escriu el resultat amb un denominador racional: $$\\sqrt{\\sqrt[3]{\\sqrt{\\frac{1}{729}}}}$$",
+    "option_a": "\\frac{3\\sqrt{3}}{3}",
+    "option_b": "\\frac{1}{3}",
+    "option_c": "\\sqrt{3}",
+    "option_d": "\\frac{\\sqrt{3}}{3}",
+    "answer": "D",
+    "id": "high_school_mathematics/dev/3"
+  },
+  {
+    "instruction": "Quin dels següents conjunts té la desviació estàndard més petita? Quin té la més gran?\nI: {1,2,3}\nII: {-10,10}\nIII: {100}\n",
+    "option_a": "I, II",
+    "option_b": "II, III",
+    "option_c": "III, I",
+    "option_d": "III, II",
+    "answer": "D",
+    "id": "high_school_statistics/dev/4"
+  },
+  {
+    "instruction": "_____________ pot modificar dades del teu sistema, de manera que el sistema no funcioni correctament o bé no puguis accedir a dades específiques, o bé pot demanar un rescat per tal de donar-te accés.",
+    "option_a": "IM - Troians",
+    "option_b": "Troians de portes darrere",
+    "option_c": "Trojan-Downloader",
+    "option_d": "Troian de rescat",
+    "answer": "D",
+    "id": "computer_security/dev/1"
+  },
+  {
+    "instruction": "Iverson Jewelers va escriure una carta a Miller que deia: 'Hem rebut un rellotge Rolox autoenrotllable excepcionalment bo que us vendrem a un preu molt favorable.'",
+    "option_a": "La carta és una oferta de venda.",
+    "option_b": "No es pot fer una oferta vàlida per carta.",
+    "option_c": "La carta conté una oferta vàlida que finalitzarà en un temps raonable.",
+    "option_d": "La carta no té un dels elements essencials d'una oferta.",
+    "answer": "D",
+    "id": "jurisprudence/dev/4"
+  },
+  {
+    "instruction": "Quina de les branques del nervi trigemin conté processos motors somàtics?",
+    "option_a": "El nervi supraorbital",
+    "option_b": "El nervi infraorbital",
+    "option_c": "El nervi mentonni",
+    "option_d": "Cap dels anteriors",
+    "answer": "D",
+    "id": "anatomy/dev/1"
+  },
+  {
+    "instruction": "La variable $x$ varia directament com el quadrat de $y$, i $y$ varia directament com el cub de $z$. Si $x$ és igual a $-16$ quan $z$ és $2$, quina és la valor de $x$ quan $z$ és $\\frac{1}{2}$?",
+    "option_a": "-1",
+    "option_b": "16",
+    "option_c": "-\\frac{1}{256}",
+    "option_d": "\\frac{1}{16}",
+    "answer": "C",
+    "id": "high_school_mathematics/dev/2"
+  },
+  {
+    "instruction": "Recentment, una legislatura estatal ha promulgat una llei que fa que sigui delicte insultar o malparlar o fer servir llenguatge obscè o denigrant cap a un agent de policia que estigui exercint les seves funcions. Un estudiant d'una universitat estatal va organitzar una manifestació al campus per protestar contra la guerra. La concentració va ser assistida per un grup de 50 estudiants que van cridar missatges antibel·licistes als cotxes que passaven. Per demostrar el seu menyspreu pels Estats Units, l'estudiant va cosir la bandera americana a la part posterior dels seus texans. Quan un agent de policia va veure la bandera cosida als texans de l'estudiant, s'hi va acostar i li va dir que l'hi havia de treure o seria detingut. L'estudiant es va indignar i va cridar a l'agent de policia,\"Escolta, fill de puta, portaré aquesta roba vella on em plagui.\" L'estudiant va ser detingut posteriorment i acusat de vulnerar la llei estatal. L'estudiant porta a judici estatal la constitucionalitat de la llei. L'argument constitucional més fort per a l'estudiant és que",
+    "option_a": "la llei és nul·la per indefinició de l'Amendament XIV de la clàusula de procés degut.",
+    "option_b": "la llei és invàlida perquè vulnera la llibertat d'expressió del sol·licitant segons la Primera Esmena.",
+    "option_c": "la llei suposa una limitació de la llibertat d'expressió segons la Primera Esmena perquè hi ha alternatives menys restrictives per a aconseguir el mateix objectiu.",
+    "option_d": "la llei és excessivament ampia, per la qual cosa és nul·la per les Primeres i Catorzenes Esmenes.",
+    "answer": "D",
+    "id": "professional_law/dev/0"
+  },
+  {
+    "instruction": "El fet que els adults tendeixin a recordar esdeveniments de la seva adolescència millor que de qualsevol altra etapa de les seves vides és conegut com a",
+    "option_a": "Avantatge de l'adolescència",
+    "option_b": "Peculiaritat de la reminiscència",
+    "option_c": "Memorial de la memòria",
+    "option_d": "Punt punxegut de la recuperació quadràtica",
+    "answer": "B",
+    "id": "human_aging/dev/1"
+  },
+  {
+    "instruction": "Joe era el responsable de les llums per a una dansa. La llum vermella parpelleja cada dos segons, la llum groga cada tres segons i la llum blava cada cinc segons. Si inclouem el començament i el final de la dansa, quantes vegades durant una dansa de set minuts totes les llums s'encendran alhora? (Suposem que les tres llums parpellegen simultàniament al començament de la dansa.)",
+    "option_a": "3",
+    "option_b": "15",
+    "option_c": "6",
+    "option_d": "5",
+    "answer": "B",
+    "id": "high_school_mathematics/dev/0"
+  },
+  {
+    "instruction": "Fa cent anys, la teva besàvia va invertir $100 amb un interès anual del 5%. Quina és la inversió valorada avui?",
+    "option_a": "$13.000",
+    "option_b": "$600",
+    "option_c": "$15.000",
+    "option_d": "$28.000",
+    "answer": "A",
+    "id": "professional_accounting/dev/1"
+  },
+  {
+    "instruction": "A partir de les regles de solubilitat, què és veritat de l'opció següent?",
+    "option_a": "Tots els clorurs, bromurs i iodurs són solubles",
+    "option_b": "Tots els sulfats són solubles",
+    "option_c": "Tots els hidròxids són solubles",
+    "option_d": "Tots els compostos que contenen amoni són solubles",
+    "answer": "D",
+    "id": "high_school_chemistry/dev/2"
+  },
+  {
+    "instruction": "El reialme de les decisions polítiques relacionades principalment amb les relacions entre els Estats Units i la resta del món és conegut com a",
+    "option_a": "política de terrorisme.",
+    "option_b": "política econòmica.",
+    "option_c": "política exterior.",
+    "option_d": "política internacional.",
+    "answer": "C",
+    "id": "us_foreign_policy/dev/2"
+  },
+  {
+    "instruction": "Un fill devia $5.000 a un creditor. El pare del fill va contactar el creditor i li va dir que volia pagar el deute del fill. El pare va signar un document que deia que pagaria el deute del fill a una taxa de $500 al mes durant 10 mesos. El creditor no va fer cap compromís per escrit o oral per no demandar el fill per recaptar els $5.000 de deute i el pare no va fer cap sol·licitud oral o escrita per a tal suspensió. Durant els propers cinc mesos, el pare va fer i el creditor va acceptar pagaments mensuals de $500 com es va acordar. Durant aquest període, el creditor, de fet, va deixar de dur a terme qualsevol acció legal contra el fill. No obstant, el pare va informar després el creditor que no faria més pagaments pel deute. Quin dels següents arguments és el més persuasiu que el pare és responsable davant del creditor en els termes del seu acord?",
+    "option_a": "La promesa del pare i la confiança del creditor, si es demostra, donen lloc a una reclamació vàlida per part del creditor contra el pare basada en la doctrina de l'estoppel promissori.",
+    "option_b": "Com que era previsible que la promesa del pare induiria el creditor a no emprendre cap acció contra el fill, aquesta abstenció va ser, de dret, una consideració pactada per la promesa del pare.",
+    "option_c": "Els cinc pagaments del pare al creditor que sumen $2.500 van manifestar una voluntat seriosa per part del pare de vincular-se contractualment, i aquesta manifestació es reconeix generalment com un substitut efectiu de la consideració.",
+    "option_d": "Assumint l'obligació de deute antecedent que el fill tenia amb el creditor, el pare es va convertir en un fiador la promesa del qual al creditor era exigible, ja que estava per escrit i suportada per una consideració adequada.",
+    "answer": "A",
+    "id": "professional_law/dev/4"
+  },
+  {
+    "instruction": "En un mercat laboral competitiu per als pintors de cases, què augmentaria la demanda de pintors de cases?",
+    "option_a": "Un salari mínim efectiu imposat en aquest mercat laboral.",
+    "option_b": "Un augment en el preu dels galons de pintura.",
+    "option_c": "Un augment en la construcció de noves cases.",
+    "option_d": "Un augment en el preu dels pintors mecànics mentre que l'efecte de producció superi l'efecte de substitució.",
+    "answer": "C",
+    "id": "high_school_microeconomics/dev/0"
+  },
+  {
+    "instruction": "La pràctica d'aconseguir un proveïdor de serveis tercers estranger per dirigir una operació és anomenada",
+    "option_a": "externalització.",
+    "option_b": "deslocalització.",
+    "option_c": "maquiladores.",
+    "option_d": "interdependència de la ubicació.",
+    "answer": "B",
+    "id": "high_school_geography/dev/3"
+  },
+  {
+    "instruction": "La presència d'estructures homòlogues en dos organismes diferents, com l'húmer en l'extrem anterior d'un humà i d'un ocell, indica que",
+    "option_a": "l'humà i l'ocell són espècies polifilètiques",
+    "option_b": "l'evolució de l'humà i de l'ocell és convergent",
+    "option_c": "l'humà i l'ocell pertanyen a un clade",
+    "option_d": "l'humà i l'ocell es van desenvolupar per analogia",
+    "answer": "C",
+    "id": "college_biology/dev/2"
+  },
+  {
+    "instruction": "Quin dels següents s'anomena anhídrid àcid?",
+    "option_a": "HCl",
+    "option_b": "H2SO3",
+    "option_c": "SO2",
+    "option_d": "Al(NO3)3",
+    "answer": "C",
+    "id": "high_school_chemistry/dev/0"
+  },
+  {
+    "instruction": "Quina de les següents condicions assegura que el moment angular es conservi? I. Conservació del moment lineal II. Força externa neta zero III. Moment extern nul net",
+    "option_a": "Només I i II",
+    "option_b": "Només I i III",
+    "option_c": "Només II i III",
+    "option_d": "Només III",
+    "answer": "D",
+    "id": "high_school_physics/dev/0"
+  },
+  {
+    "instruction": "Un extrem d'un fil Nichrome de longitud 2L i àrea de secció transversal A s'uneix a un extrem d'un altre fil Nichrome de longitud L i àrea de secció transversal 2A. Si l'extrem lliure del fil més llarg té un potencial elèctric de 8,0 volts i l'extrem lliure del fil més curt té un potencial elèctric de 1,0 volt, el potencial al punt de junctura dels dos fils és gairebé igual a",
+    "option_a": "2,4 V",
+    "option_b": "3,3 V",
+    "option_c": "4,5 V",
+    "option_d": "5,7 V",
+    "answer": "A",
+    "id": "college_physics/dev/2"
+  },
+  {
+    "instruction": "Quina de les següents afirmacions sobre els elements lantànids NO és certa?",
+    "option_a": "L'estat d'oxidació més comú dels elements lantànids és +3.",
+    "option_b": "Els complexos de lantànids sovint tenen nombres de coordinació elevats (>6).",
+    "option_c": "Tots els elements lantànids reaccionen amb àcid aquós per alliberar hidrogen.",
+    "option_d": "Els radis atòmics dels elements lantànids augmenten al llarg del període de La a Lu.",
+    "answer": "D",
+    "id": "college_chemistry/dev/0"
+  },
+  {
+    "instruction": "Un gen que mostra codominància",
+    "option_a": "té ambdós alels expressats de forma independent en el heterozigot",
+    "option_b": "té un alel dominant a l'altre",
+    "option_c": "té els alels estretament lligats en el mateix cromosoma",
+    "option_d": "té els alels expressats alhora en el desenvolupament",
+    "answer": "A",
+    "id": "medical_genetics/dev/2"
+  },
+  {
+    "instruction": "Un compilador genera codi per a la següent instrucció d'assignació.\nG := (A + B) * C - (D + E) * F\nLa màquina objectiu té un acumulador i un conjunt d'instruccions d'adreça única que consisteixen en instruccions de càrrega, emmagatzematge, suma, resta i multiplicació. Per a les operacions aritmètiques, l'operador esquerre s'agafa de l'acumulador i el resultat apareix a l'acumulador. El nombre mínim possible d'instruccions en el codi resultant és",
+    "option_a": "5",
+    "option_b": "6",
+    "option_c": "7",
+    "option_d": "9",
+    "answer": "D",
+    "id": "college_computer_science/dev/3"
+  },
+  {
+    "instruction": "Box, una organització sense afany de lucre no governamental, va efectuar les següents transaccions durant l'any: Ingressos per venda d'inversions $ 80.000 Compra de béns d'equipament $ 10.000 Ingressos per deute a llarg termini $ 100.000 Pèrdua per venda d'inversions $ 5.000 Quina quantitat s'ha de reportar com a flux de caixa net proporcionat per les activitats de finançament en l'estat de flux de caixa de Box?",
+    "option_a": "$70.000",
+    "option_b": "$75.000",
+    "option_c": "$80.000",
+    "option_d": "100000",
+    "answer": "D",
+    "id": "professional_accounting/dev/0"
+  },
+  {
+    "instruction": "Quin de les següents polítiques monetàries es faria servir per augmentar les exportacions dels Estats Units mantenint tota la resta constant?",
+    "option_a": "Augmentar la taxa de descompte",
+    "option_b": "Augmentar el coeficient de reserva",
+    "option_c": "Comprar valors del govern",
+    "option_d": "Reduir les tarifes",
+    "answer": "C",
+    "id": "high_school_macroeconomics/dev/3"
+  },
+  {
+    "instruction": "El gran rei maia Pacal va construir temples a la ciutat de Palenque per tal de:",
+    "option_a": "satisfer els poderosos sacerdots astrònoms maies.",
+    "option_b": "mostrar la seva generositat al poble comú, ja que es permetia que visquessin als temples.",
+    "option_c": "espantar els enemics, en particular els espanyols.",
+    "option_d": "legitimitzar el seu domini, ja que el seu pare no era de sang reial.",
+    "answer": "D",
+    "id": "prehistory/dev/0"
+  },
+  {
+    "instruction": "Tres tàctiques contrastants en les que les OSC poden engrescar-se per satisfer els seus objectius són ________ que implica típicament la recerca i la comunicació, ________, que pot implicar l'atac físic a les operacions de l'empresa o ________, que sovint implica alguna forma de _______.",
+    "option_a": "Acció directa no violenta, Acció directa violenta, Acció indirecta, Boicot",
+    "option_b": "Acció indirecta, Acció instrumental, Acció directa no violenta, Campanya d'informació",
+    "option_c": "Acció indirecta, Acció directa violenta, Acció directa no violenta, Boicot",
+    "option_d": "Acció directa no violenta, Acció instrumental, Acció indirecta, Campanya d'informació",
+    "answer": "C",
+    "id": "business_ethics/dev/3"
+  },
+  {
+    "instruction": "Es llança un dau de 6 cares 15 vegades i els resultats són: la cara 1 surt 0 vegades; la cara 2: 1 vegada; la cara 3: 2 vegades; la cara 4: 3 vegades; la cara 5: 4 vegades; la cara 6: 5 vegades. Basant-se en aquests resultats, quina és la probabilitat que surti la cara 3 quan s'utilitza la Suavització Add-1?",
+    "option_a": "2,0/15",
+    "option_b": "1,0/7",
+    "option_c": "3,0/16",
+    "option_d": "1,0/5",
+    "answer": "B",
+    "id": "machine_learning/dev/0"
+  },
+  {
+    "instruction": "Quines són les funcions de la llei menys una?",
+    "option_a": "maximitzar la llibertat individual",
+    "option_b": "proporcionar una base per al compromís",
+    "option_c": "mantenir la pau",
+    "option_d": "promoure els principis del sistema d'empresa lliure",
+    "answer": "D",
+    "id": "jurisprudence/dev/1"
+  },
+  {
+    "instruction": "Com es poden caracteritzar els Upanishads?",
+    "option_a": "Textos ritualistes",
+    "option_b": "Textos filosòfics",
+    "option_c": "Himnes",
+    "option_d": "Històries d'origen",
+    "answer": "B",
+    "id": "world_religions/dev/4"
+  },
+  {
+    "instruction": "Ani creu que les seves actituds i comportaments tenen un paper central en el que li passa. Aquesta creença probablement està associada amb",
+    "option_a": "un superego fort.",
+    "option_b": "baixa autoestima.",
+    "option_c": "baixa autoeficàcia.",
+    "option_d": "un locus de control intern.",
+    "answer": "D",
+    "id": "high_school_psychology/dev/0"
+  },
+  {
+    "instruction": "Què és el jutge ad hoc?",
+    "option_a": "Si una part en un cas contenciós davant de la CIJ no té un jutge nacional que formi part del tribunal, té dret a designar algú com a jutge només per a aquest cas, amb el títol de jutge ad hoc",
+    "option_b": "El jutge ad hoc és el membre del tribunal de la CIJ amb vot de desempat",
+    "option_c": "El jutge ad hoc és un jutge substitut, en cas que un jutge estigui desqualificat o mori",
+    "option_d": "El jutge ad hoc és el jutge que cada part sempre designarà en cada cas contenciós",
+    "answer": "A",
+    "id": "international_law/dev/1"
+  },
+  {
+    "instruction": "D'on vénen la majoria dels cometes de període curt i com ho sabem?",
+    "option_a": "De la cintura de Kuiper; els cometes de període curt tendeixen a estar al pla del sistema solar, igual que la cintura de Kuiper.",
+    "option_b": "De la cintura de Kuiper; els cometes de període curt solen provenir de direccions aleatòries, indicant una distribució esfèrica de cometes anomenada cintura de Kuiper.",
+    "option_c": "De la cintura d'asteroides; els cometes de període curt tenen períodes orbitals similars als dels asteroides com Vesta i es troben al pla del sistema solar, igual que la cintura d'asteroides.",
+    "option_d": "De la núvol d'Oort; els cometes de període curt tendeixen a estar al pla del sistema solar, igual que el núvol d'Oort.",
+    "answer": "A",
+    "id": "astronomy/dev/1"
+  },
+  {
+    "instruction": "Des de 2015, des de 1990 els boscos han ____ a Europa i han ____ a l'Àfrica i les Amèriques.",
+    "option_a": "augmentat, augmentat",
+    "option_b": "augmentat, disminuït",
+    "option_c": "disminuït, augmentat",
+    "option_d": "disminuït, disminuït",
+    "answer": "B",
+    "id": "global_facts/dev/2"
+  },
+  {
+    "instruction": "Aquesta pregunta es refereix a la següent informació.\n\"Almenys una de les societats del món hauria d'incrementar enormement la seva productivitat per assolir l'hegemonia global. Aquest salt quàntic hauria de ser realitzat abans de les diverses revolucions científiques, tecnològiques, agrícoles i industrials en les quals es basa el nostre món posterior al salt quàntic. Només es podria aconseguir aprofitant els ecosistemes, els recursos minerals i els actius humans de continents sencers fora de les terres de la societat que intenti fer el salt. Europa Occidental ho va aconseguir mitjançant la seva brutalitat i les seves armes i, el que és més important, per sort geogràfica i ecològica.\"\nDrets d'autor © 2015 Cambridge University Press.\nAlfred Crosby, historiador, Imperialisme ecològic, 2004\nEl \"salt quàntic\" esmentat en el passatge contribuí més directament a quin dels següents desenvolupaments durant el període 1450-1750 d.C.?",
+    "option_a": "Una fallida en les rutes comercials a través del col·lapse de l'estructura estatal establerta",
+    "option_b": "Un augment de la població mundial a través de subministraments més abundants de menjar",
+    "option_c": "La propagació dels sistemes de creences xinesos i indis arreu del món",
+    "option_d": "Un augment de la inestabilitat social",
+    "answer": "B",
+    "id": "high_school_world_history/dev/4"
+  },
+  {
+    "instruction": "El grup únic dins la societat que és més vulnerable a la influència dels grups de referència és:",
+    "option_a": "El consumidor més gran que es sent una mica apartat de les coses.",
+    "option_b": "Les dones casades, moltes de les quals senten la necessitat d'estabilitat a les seves vides.",
+    "option_c": "Els nous immigrants que realment volen assimilar-se a la seva nova cultura.",
+    "option_d": "Els nens, que basen la majoria de les seves decisions de compra en influències externes.",
+    "answer": "D",
+    "id": "marketing/dev/3"
+  },
+  {
+    "instruction": "Per a quin dels dos escenaris el personatge principal (que fa servir jo/meu/meva) fa clarament alguna cosa moralment incorrecte, segons els estàndards morals normals als Estats Units el 2020? Escenari 1 | Vaig comprar una camioneta vella per treballar. Escenari 2 | Vaig mirar la preciosa cascada i vaig llençar-li una pedra.",
+    "option_a": "Incorrecte, Incorrecte",
+    "option_b": "Incorrecte, No incorrecte",
+    "option_c": "No incorrecte, Incorrecte",
+    "option_d": "No incorrecte, No incorrecte",
+    "answer": "D",
+    "id": "moral_scenarios/dev/2"
+  },
+  {
+    "instruction": "Una càrrega puntual, Q = +1 mC, es troba fixada a l'origen. Quina quantitat de treball es requereix per desplaçar una càrrega, Q = +8 µC, des del punt (0, 4 metres) fins al punt (3 metres, 0)?",
+    "option_a": "3,5 J",
+    "option_b": "6,0 J",
+    "option_c": "22,5 J",
+    "option_d": "40 J",
+    "answer": "B",
+    "id": "high_school_physics/dev/4"
+  },
+  {
+    "instruction": "S'ha sintetitzat un nou compost i s'ha descobert que és un àcid monopròtic amb una massa molar de 248 g/mol. Quan es dissolen 0,0050 mols d'aquest àcid en 0,500 L d'aigua, es mesura el pH com a 3,89. Quin és el pKa d'aquest àcid?",
+    "option_a": "3,89",
+    "option_b": "7,78",
+    "option_c": "5,78",
+    "option_d": "2,33",
+    "answer": "C",
+    "id": "high_school_chemistry/dev/3"
+  },
+  {
+    "instruction": "Quina és la Segona Gemma en el Budisme?",
+    "option_a": "El Dharma",
+    "option_b": "La Sangha",
+    "option_c": "El Buda",
+    "option_d": "El Bodhisattva",
+    "answer": "A",
+    "id": "world_religions/dev/1"
+  },
+  {
+    "instruction": "Un telescopi refractor consisteix en dues lentilles convergents separades 100 cm. La lentilla d'ocular té una longitud focal de 20 cm. El factor d'amplificació angular del telescopi és",
+    "option_a": "4",
+    "option_b": "5",
+    "option_c": "6",
+    "option_d": "20",
+    "answer": "A",
+    "id": "college_physics/dev/0"
+  },
+  {
+    "instruction": "En termes de les cinc dimensions culturals de Hofstede (1980), els Estats Units obté la puntuació més alta en:",
+    "option_a": "individualisme.",
+    "option_b": "individualisme i distància de poder.",
+    "option_c": "distància de poder i masculinitat.",
+    "option_d": "evitació de la incertesa.",
+    "answer": "A",
+    "id": "professional_psychology/dev/2"
+  },
+  {
+    "instruction": "Una botiga ven 107 colors diferents de pintura. Tenen 25 llaunes de cada color desades. Es pot trobar el nombre de llaunes de pintura que té la botiga emmagatzemada usant l'expressió següent. 107 × 25. Quantes llaunes de pintura té la botiga emmagatzemades?",
+    "option_a": "749",
+    "option_b": "2.675",
+    "option_c": "2.945",
+    "option_d": "4.250",
+    "answer": "B",
+    "id": "elementary_mathematics/dev/3"
+  },
+  {
+    "instruction": "Un avió a escala vol més lent quan vola en contra del vent i més ràpid si el vent el du a l'esquena. Quan es llança en línia recta perpendicular al vent, la seva velocitat respecte al terra en comparació amb la de volar en aire estacionari és",
+    "option_a": "la mateixa",
+    "option_b": "més gran",
+    "option_c": "menys",
+    "option_d": "pot ser més gran o més petit segons la velocitat del vent",
+    "answer": "B",
+    "id": "conceptual_physics/dev/3"
+  },
+  {
+    "instruction": "Si el govern subvenciona els productors en un mercat perfectament competitiu, llavors",
+    "option_a": "la demanda del producte augmentarà",
+    "option_b": "la demanda del producte disminuirà",
+    "option_c": "l'excedent del consumidor augmentarà",
+    "option_d": "l'excedent del consumidor disminuirà",
+    "answer": "C",
+    "id": "high_school_microeconomics/dev/1"
+  },
+  {
+    "instruction": "Quina d'aquestes opcions és un exemple de cultura no material?",
+    "option_a": "Sabó Dove",
+    "option_b": "Barreta de xocolata Dove",
+    "option_c": "Símbol Dove",
+    "option_d": "Una colom (au)",
+    "answer": "C",
+    "id": "high_school_geography/dev/4"
+  },
+  {
+    "instruction": "Dos conductors llargs i paral·lels porten 100 A. Si els conductors estan separats per 20 mm, la força per metre de longitud de cada conductor serà",
+    "option_a": "100 N.",
+    "option_b": "0,1 N.",
+    "option_c": "1 N.",
+    "option_d": "0,01 N.",
+    "answer": "B",
+    "id": "electrical_engineering/dev/3"
+  },
+  {
+    "instruction": "Seleccioneu la millor traducció a la lògica de predicats. George pren la cortadora de gespa de l'Hector. (g: George; h: Hector; l: cortadora de gespa de l'Hector; Bxyx: x pren prestat y de z)",
+    "option_a": "Blgh",
+    "option_b": "Bhlg",
+    "option_c": "Bglh",
+    "option_d": "Bghl",
+    "answer": "C",
+    "id": "formal_logic/dev/1"
+  },
+  {
+    "instruction": "Sigui A el conjunt de totes les parelles ordenades d'enters (m, n) tal que 7m + 12n = 22. Quin és el número negatiu més gran en el conjunt B = {m + n: (m, n) \\ in A}?",
+    "option_a": "-5",
+    "option_b": "-4",
+    "option_c": "-3",
+    "option_d": "-2",
+    "answer": "B",
+    "id": "college_mathematics/dev/4"
+  },
+  {
+    "instruction": "Argumentar que el que és veritat per a les parts ha de ser veritat per al conjunt és la fal·làcia de...",
+    "option_a": "Divisió",
+    "option_b": "Composició",
+    "option_c": "Apel·lació a la persona",
+    "option_d": "Apel·lació a la ignorància",
+    "answer": "B",
+    "id": "logical_fallacies/dev/3"
+  },
+  {
+    "instruction": "Quin tipus de psicòloga seria Pascale si estigués interessada en les estratègies de processament que fan servir els nens per aprendre informació nova?",
+    "option_a": "sociocultural",
+    "option_b": "clínica",
+    "option_c": "cognitiva",
+    "option_d": "conductista",
+    "answer": "C",
+    "id": "high_school_psychology/dev/4"
+  },
+  {
+    "instruction": "Aquesta pregunta es refereix a la següent informació.\n\"La societat, en qualsevol estat, és una benedicció, però el govern, fins i tot en el seu millor estat, és només un mal necessari; en el seu pitjor estat, un intolerable, perquè quan patim o estem exposats a les mateixes misèries per part del govern, que podríem esperar en un país sense govern, la nostra desgràcia s'agreuja reflexionant que nosaltres mateixos proporcionem els mitjans pels quals patim. El govern, com la roba, és la marca de la innocència perduda; els palaus dels reis estan construïts sobre les runes de les tendes del paradís. Si els impulsos de la consciència fossin clars, uniformes i irresistiblement obediència, l'home no necessitaria cap altre legislador; però com que no és el cas, es veu obligat a cedir una part de la seva propietat per proporcionar mitjans per a la protecció de la resta; i això l'indueix a fer-ho per la mateixa prudència que en tots els altres casos l'aconsella a escollir el mal menor de dos males. Per la qual cosa, sent la seguretat el disseny i el fi veritables del govern, és incontestable que qualsevol forma d'aquest que sembli més probable que ens asseguri, amb el menor cost i el major benefici, és preferible a totes les altres.\" \nThomas Paine, Sentit Comú, 1776\nQuines de les següents \"misèries\" esmentades anteriorment van ser més condemnades pels anti-federalistes de l'era post-revolucionària?",
+    "option_a": "Resposta organitzada a la Rebel·lió de Bacon",
+    "option_b": "Resposta federal a la Rebel·lió d'Shays",
+    "option_c": "Resposta federal a la Rebel·lió del Whiskey",
+    "option_d": "Resposta federal a la Rebel·lió de Pontiac",
+    "answer": "C",
+    "id": "high_school_us_history/dev/0"
+  },
+  {
+    "instruction": "La taxa d'increment natural d'una població es troba restant:",
+    "option_a": "La taxa de mortalitat bruta de la taxa de naixement bruta.",
+    "option_b": "La taxa de naixement bruta de la taxa de mortalitat bruta.",
+    "option_c": "El temps de duplicació de la taxa de naixement bruta.",
+    "option_d": "La taxa de fertilitat de la taxa de mortalitat bruta.",
+    "answer": "A",
+    "id": "high_school_geography/dev/0"
+  },
+  {
+    "instruction": "Com va afectar la crisi financera del 2008 la reputació internacional d'Amèrica?",
+    "option_a": "Va danyar el suport al model de política econòmica i capitalisme dels Estats Units",
+    "option_b": "Va crear ràbia als Estats Units per exagerar la crisi",
+    "option_c": "Va augmentar el suport al lideratge global americà sota el president Obama",
+    "option_d": "Va reduir l'ús global del dòlar dels Estats Units",
+    "answer": "A",
+    "id": "us_foreign_policy/dev/0"
+  },
+  {
+    "instruction": "Quin element del web cultural forma la roba protocol·lària?",
+    "option_a": "Símbols",
+    "option_b": "Rituals i rutines",
+    "option_c": "Estructures de poder",
+    "option_d": "Sistemes de control",
+    "answer": "A",
+    "id": "management/dev/2"
+  },
+  {
+    "instruction": "Quina d'aquestes cançons va ser un èxit Top 10 de la banda de rock The Police?",
+    "option_a": "'Radio Ga-Ga'",
+    "option_b": "'Ob-la-di Ob-la-da'",
+    "option_c": "'De Do Do Do De Da Da Da'",
+    "option_d": "'In-a-Gadda-Da-Vida'",
+    "answer": "C",
+    "id": "miscellaneous/dev/4"
+  },
+  {
+    "instruction": "Quina de les següents afirmacions no és certa?",
+    "option_a": "El glicogen muscular es desfà enzimàticament a glucosa-1-fosfat",
+    "option_b": "Els atletes d'endurada d'elit tenen una alta proporció de fibres de Tipus I als músculs de les cames",
+    "option_c": "El glicogen hepàtic és important per mantenir la concentració de glucosa en sang",
+    "option_d": "La insulina promou l'absorció de glucosa per part de tots els teixits del cos",
+    "answer": "D",
+    "id": "college_medicine/dev/1"
+  },
+  {
+    "instruction": "Encara que el contingut i la qualitat puguin ser tan controlats com en el correu directe, les taxes de resposta d'aquest mitjà són més baixes a causa de la manca d'un mecanisme d'adreça personal. Aquest format de mitjans és conegut com:",
+    "option_a": "Línies de cura.",
+    "option_b": "Correu directe.",
+    "option_c": "Insercions.",
+    "option_d": "Porta a porta.",
+    "answer": "D",
+    "id": "marketing/dev/4"
+  },
+  {
+    "instruction": "El egoisme psicològic és:",
+    "option_a": "una teoria ètica sobre com hauríem de comportar-nos.",
+    "option_b": "una generalització sobre la manera en què les persones tendeixen a comportar-se.",
+    "option_c": "una afirmació sobre la natura humana i les maneres en què les persones són capaces de comportar-se.",
+    "option_d": "cap de les opcions anteriors.",
+    "answer": "C",
+    "id": "philosophy/dev/0"
+  },
+  {
+    "instruction": "Quin lloc està nomenat en el títol del disc en directe del 1979 de les llegendes del rock Cheap Trick?",
+    "option_a": "Budapest",
+    "option_b": "Budokan",
+    "option_c": "Bhutan",
+    "option_d": "Gran Bretanya",
+    "answer": "B",
+    "id": "miscellaneous/dev/1"
+  },
+  {
+    "instruction": "Un corredor de marató masculí de 22 anys es presenta a l'oficina amb la queixa de dolor a les costelles del costat dret quan corre llargues distàncies. L'examen físic revela resultats normals dels pulmons i el cor i una disfunció d'expiració a les costelles 4-5 de la dreta. Quin dels següents músculs o grups musculars serà més útil per corregir aquesta disfunció utilitzant un mètode directe?",
+    "option_a": "escalè de davant",
+    "option_b": "gran dorsal",
+    "option_c": "pectoral menor",
+    "option_d": "quadrat lumbar",
+    "answer": "C",
+    "id": "professional_medicine/dev/4"
+  },
+  {
+    "instruction": "Suposem ara que un investigador vol utilitzar criteris d'informació per determinar la longitud de retard òptima per a un VAR. Hi ha 500 observacions disponibles per a la VAR bivariant, i els valors del determinant de la matriu de variància-covariància dels residuals són de 0,0336, 0,0169, 0,0084 i 0,0062 per a 1, 2, 3 i 4 retards, respectivament. Quina és l'ordre de model òptim segons el criteri d'informació d'Akaike?",
+    "option_a": "1 retard",
+    "option_b": "2 retards",
+    "option_c": "3 retards",
+    "option_d": "4 retards",
+    "answer": "C",
+    "id": "econometrics/dev/4"
+  },
+  {
+    "instruction": "Troba tots els valors c a Z_3 per als quals Z_3[x]/(x^2 + c) és un camp.",
+    "option_a": "0",
+    "option_b": "1",
+    "option_c": "2",
+    "option_d": "3",
+    "answer": "B",
+    "id": "abstract_algebra/dev/0"
+  },
+  {
+    "instruction": "Aquesta pregunta fa referència a la següent informació.\n\"La lluita contra el neocolonialisme no té per objectiu excloure el capital del món desenvolupat d'operar en països menys desenvolupats. Té per objectiu evitar que el poder financer de països desenvolupats s'utilitzi de tal manera que en faci arribar a la pobresa els menys desenvolupats.\nLa no alineació, com la practicada per Gana i molts altres països, es basa en la cooperació amb tots els Estats, siguin capitalistes, socialistes o tinguin una economia mixta. Una política així, per tant, implica inversió estrangera de països capitalistes, però s'ha d'invertir d'acord amb un pla nacional elaborat pel govern de l'Estat no alineat tenint en compte els seus propis interessos. La qüestió no és el retorn que rep l'inversor estranger per les seves inversions… La qüestió és el poder. Un estat subjecte al neocolonialisme no és mestre de la seva pròpia destinació.\"\nKwame Nkrumah, Neocolonialisme, 1965\nQuin dels següents contextos proporciona el millor context per a les escriptures de Nkrumah?",
+    "option_a": "La Revolució Industrial",
+    "option_b": "Descolonització",
+    "option_c": "Associacions Regionals de Lliure Comerç",
+    "option_d": "Autarquia",
+    "answer": "B",
+    "id": "high_school_world_history/dev/1"
+  },
+  {
+    "instruction": "Recentment un estat ha promulgat una llei que prohibeix el dipòsit de qualsevol tipus de residus nuclears dins l'estat. Aquesta llei no contradiu o entra en conflicte amb cap llei federal. Un home opera una empresa a l'estat que es dedica al dipòsit de residus nuclears. Després de la promulgació de la llei estatal, però sense coneixença de la nova llei, l'home va entrar en contractes amb moltes empreses externes per dipositar els seus residus nuclears a l'estat. A causa d'aquesta nova llei, però, l'home no podrà complir aquests contractes. Suposem que l'home té legitimació per impugnar aquesta llei estatal. Quina de les següents opcions presenta els fonaments constitucionals més fortes per impugnar la llei estatal que prohibeix el dipòsit de residus nuclears a l'estat?",
+    "option_a": "La clàusula del comerç.",
+    "option_b": "La clàusula de protecció igualitària de la catorzena esmena.",
+    "option_c": "La clàusula de privilegis i immunitats de l'article IV, secció 2.",
+    "option_d": "La clàusula del contracte.",
+    "answer": "A",
+    "id": "professional_law/dev/1"
+  },
+  {
+    "instruction": "Després que es va emetre una alerta de gelada, el propietari d'un gran taronger va demanar als seus treballadors que reguessin tots els arbres amb aigua. L'aigua havia de gelar-se i formar una capa protectora de gel al voltant de la flor de taronger. No obstant, el propietari va sospitar que alguns arbres havien patit danys considerablement a causa de la gebrada. Per estimar la proporció d'arbres que havien patit més del 50 per cent de danys a causa de la gelada, va prendre una mostra aleatòria de 100 arbres del seu taronger. Quina és la variable de resposta en aquest experiment?",
+    "option_a": "La proporció d'arbres que han patit més del 50 per cent de danys a causa del gel.",
+    "option_b": "El nombre d'arbres afectats per la gebrada.",
+    "option_c": "El nombre d'arbres presos de la mostra del taronger.",
+    "option_d": "Per a cada arbre de la mostra, si va patir més del 50 per cent de danys o com a màxim el 50 per cent de danys .",
+    "answer": "D",
+    "id": "high_school_statistics/dev/2"
+  },
+  {
+    "instruction": "Quines són les dues dimensions principals dels estudis sobre lideratge a Ohio?",
+    "option_a": "Posició inicial i posició final",
+    "option_b": "Entorn inicial i entorn modificat",
+    "option_c": "Estructura organitzativa i condicionament",
+    "option_d": "Estructura initiadora i consideracions",
+    "answer": "D",
+    "id": "management/dev/0"
+  },
+  {
+    "instruction": "Per garantir la independència dels membres no executius del consell, hi ha diverses mesures que es poden prendre, que inclouen que els no executius siguin seleccionats _______ l'empresa, siguin nomenats per un període de temps ________ i siguin nomenats de forma __________.",
+    "option_a": "Externs, limitat, independentment",
+    "option_b": "Interns, limitat, intermitentment",
+    "option_c": "Externs, sense límits, intermitentment",
+    "option_d": "Interns, sense límits, independentment",
+    "answer": "A",
+    "id": "business_ethics/dev/2"
+  },
+  {
+    "instruction": "Hi ha tres maneres de mesurar la tendència central: la Mitjana, la Mediana i la Moda. A partir del seu coneixement, què és la moda?",
+    "option_a": "menys sensible a les puntuacions extremes que la mitjana",
+    "option_b": "més útil per a distribucions asimètriques",
+    "option_c": "sensible a valors extrems i distribucions altament asimètriques",
+    "option_d": "el número que apareix amb més freqüència",
+    "answer": "D",
+    "id": "professional_psychology/dev/1"
+  },
+  {
+    "instruction": "Per obtenir una estimació de pèrdua 0/1 que sigui inferior al 1 per cent de la pèrdua 0/1 real (amb una probabilitat del 95%), segons la desigualtat de Hoeffding, el conjunt de proves IID ha de tenir quantes mostres?",
+    "option_a": "al voltant de 10 mostres",
+    "option_b": "al voltant de 100 mostres",
+    "option_c": "entre 100 i 500 mostres",
+    "option_d": "més de 1000 mostres",
+    "answer": "D",
+    "id": "machine_learning/dev/3"
+  },
+  {
+    "instruction": "En l'avaluació de la funció de la mà, quina de les següents afirmacions és certa?",
+    "option_a": "L'abducció del polze està subministrada per l'arrel espinal T2",
+    "option_b": "L'oposició del polze pel múscul oponent està subministrada per l'arrel espinal T1",
+    "option_c": "L'adducció dels dits està subministrada pel nervi mediano",
+    "option_d": "L'abducció dels dits és mediatitzada pels interòssis palmars",
+    "answer": "B",
+    "id": "clinical_knowledge/dev/2"
+  },
+  {
+    "instruction": "A partir del 2019, sobre quin percentatge dels Estats Units estan d'acord que l'estat està dirigit en benefici de tots els ciutadans?",
+    "option_a": "31%",
+    "option_b": "46%",
+    "option_c": "61%",
+    "option_d": "76%",
+    "answer": "B",
+    "id": "global_facts/dev/1"
+  },
+  {
+    "instruction": "Els investigadors ara creuen que la caiguda dels Maies va ser causada principalment per:",
+    "option_a": "una catastròfes de algun tipus, per exemple un terratrèmol, un volcà o un tsunami.",
+    "option_b": "la degradació ecològica resultant de les tècniques agrícoles de tall i cremada.",
+    "option_c": "guerres interminables entre les ciutats estat voines Maies.",
+    "option_d": "pràctiques de creuament que van portar a un fort augment dels trastorns congènits.",
+    "answer": "B",
+    "id": "prehistory/dev/2"
+  },
+  {
+    "instruction": "A partir del 2017, quants nens de 1 any del món han estat vacunats contra alguna malaltia? *",
+    "option_a": "80%",
+    "option_b": "60%",
+    "option_c": "40%",
+    "option_d": "20%",
+    "answer": "A",
+    "id": "global_facts/dev/4"
+  },
+  {
+    "instruction": "En un estudi de cohort, la taxa de risc de desenvolupar diabetis va ser de 0,86 quan es comparen els consumidors de te (els exposats) amb aquells que no beuen te (els no exposats). Quina afirmació és correcte (segons el coneixement del 2020)?\n",
+    "option_a": "Els bevedors de te tenen un menor risc de desenvolupar diabetis.",
+    "option_b": "Els bevedors de te tenen un major risc de desenvolupar diabetis.",
+    "option_c": "Basant-nos en la informació donada, no podem afirmar si la diferència observada en el risc de malaltia és el resultat dels efectes casuals.",
+    "option_d": "La taxa de risc està a prop del valor d'1, per tant no hi ha diferència en el risc de malaltia entre els dos grups.",
+    "answer": "C",
+    "id": "nutrition/dev/0"
+  },
+  {
+    "instruction": "Quin dels tres elements té més massa per nucli?",
+    "option_a": "Hidrogen",
+    "option_b": "Ferro",
+    "option_c": "Urani",
+    "option_d": "El mateix en tots els casos",
+    "answer": "A",
+    "id": "conceptual_physics/dev/4"
+  },
+  {
+    "instruction": "Com va canviar la NSC-68 l'estratègia dels Estats Units?",
+    "option_a": "Va globalitzar la contenció.",
+    "option_b": "Va militaritzar la contenció.",
+    "option_c": "Va demanar el desenvolupament de la bomba d'hidrogen.",
+    "option_d": "Totes les anteriors",
+    "answer": "D",
+    "id": "us_foreign_policy/dev/1"
+  },
+  {
+    "instruction": "Quina de les següents opcions és l'explicació més plausible de l'efecte protector de les fibres alimentàries contra el càncer de còlon, a partir del 2020?\n",
+    "option_a": "L'àcid propiònic, format durant la fermentació de les fibres del còlon, inhibeix la síntesi d'àcids grassos al fetge.",
+    "option_b": "L'àcid butíric, format durant la fermentació de les fibres del còlon, estimula la \"silenciació\" del gen supressor de tumors SLC5A8.",
+    "option_c": "Cap d'aquestes opcions és correcta.",
+    "option_d": "L'àcid butíric, format durant la fermentació de les fibres del còlon, estimula les defenses antioxidantes en el còlon.",
+    "answer": "D",
+    "id": "nutrition/dev/2"
+  },
+  {
+    "instruction": "Mentre nedava a l'oceà, l'Ivan és esglaiat per una ombra fosca a l'aigua, abans de tenir l'oportunitat d'identificar quina és l'ombra. Aquesta connexió sinàptica que es produeix durant l'incident d'espant està millor descrita per qualsevol de les següents opcions?",
+    "option_a": "Els missatges es envien directament del tàlem a l'amígdala.",
+    "option_b": "Els missatges es envien del tàlem als camins \"què\" i \"on\".",
+    "option_c": "Els missatges es envien del sistema nerviós parasimpàtic al córtex cerebral.",
+    "option_d": "Els missatges es envien dels lòbuls frontals a la glàndula pituitària.",
+    "answer": "A",
+    "id": "high_school_psychology/dev/2"
+  },
+  {
+    "instruction": "Quina és la transformació de dades d'imatge més comuna per a imatges naturals?",
+    "option_a": "reducció aleatòria i volteig horitzontal",
+    "option_b": "reducció aleatòria i volteig vertical",
+    "option_c": "posterizació",
+    "option_d": "dithering",
+    "answer": "A",
+    "id": "machine_learning/dev/1"
+  },
+  {
+    "instruction": "Per a quin dels següents processos termodinàmics és l'increment en l'energia interna d'un gas ideal igual al calor afegit al gas?",
+    "option_a": "Temperatura constant",
+    "option_b": "Volum constant",
+    "option_c": "Pressió constant",
+    "option_d": "Adiabàtic",
+    "answer": "B",
+    "id": "college_physics/dev/1"
+  },
+  {
+    "instruction": "Si tots els altres factors són iguals, quina de les següents persones és més probable que mostrin osteoporosi?",
+    "option_a": "Una dona hispana americana més gran",
+    "option_b": "Una dona afroamericana més gran",
+    "option_c": "Una dona asiàtica americana més gran",
+    "option_d": "Una dona nativa americana més gran",
+    "answer": "C",
+    "id": "human_aging/dev/4"
+  },
+  {
+    "instruction": "Quina de les següents opcions és necessàriament una característica de l'oligopoli?",
+    "option_a": "Lliure entrada i sortida del mercat",
+    "option_b": "Unes quantes grans empreses productores",
+    "option_c": "Un productor d'un bé sense substituts immediats",
+    "option_d": "Un producte homogeni",
+    "answer": "B",
+    "id": "high_school_microeconomics/dev/4"
+  },
+  {
+    "instruction": "En la classe II divisió 2 de l'oclusió d'Angle hi ha",
+    "option_a": "excés de solapament dels incisius laterals superiors.",
+    "option_b": "retrognatisme dels incisius centrals superiors.",
+    "option_c": "excés de protrusió dels incisius laterals superiors.",
+    "option_d": "excés de protrusió dels incisius centrals superiors.",
+    "answer": "C",
+    "id": "anatomy/dev/3"
+  },
+  {
+    "instruction": "Krete és un contribuent solter amb ingressos exclusivament de salaris. A data de 31 de desembre de l'any 1, l'empleador de Krete ha retut $ 16.000 en impostos sobre la renda federal i Krete no ha realitzat cap pagament d'impostos estimats. El 15 d'abril de l'any 2, Krete va sol·licitar una pròrroga per presentar la seva declaració de la renda individual i va pagar $ 300 d'impostos addicionals. La responsabilitat fiscal de Krete per a l'any 1 va ser de $ 16.500 quan ella va presentar la seva declaració el 30 d'abril de l'any 2, pagant el saldo restant. Quina quantitat estaria subjecta a la penalització per pagament insuficient d'impostos estimats?",
+    "option_a": "$0",
+    "option_b": "$500",
+    "option_c": "$1,650",
+    "option_d": "$16,500",
+    "answer": "A",
+    "id": "professional_accounting/dev/2"
+  },
+  {
+    "instruction": "Les coses que són equivalents segons el principi d'equivalència són",
+    "option_a": "espai i temps.",
+    "option_b": "un bessó que viatja i un bessó que roman a casa.",
+    "option_c": "gravetat i acceleració.",
+    "option_d": "massa i energia.",
+    "answer": "C",
+    "id": "conceptual_physics/dev/1"
+  },
+  {
+    "instruction": "Quina organització va llançar la campanya Hora del Planeta?",
+    "option_a": "Greenpeace",
+    "option_b": "Les Nacions Unides",
+    "option_c": "Oxfam",
+    "option_d": "Fons Mundial per a la Natura",
+    "answer": "D",
+    "id": "public_relations/dev/4"
+  },
+  {
+    "instruction": "Què és cert d'un sil·logisme categòric vàlid?",
+    "option_a": "La premissa menor ha de negar l'antecedent",
+    "option_b": "La premissa major ha d'afirmar el consequent",
+    "option_c": "El terme mitjà ha d'utilitzar-se en almenys una premissa en un sentit universal o no qualificat",
+    "option_d": "Totes les anteriors",
+    "answer": "C",
+    "id": "logical_fallacies/dev/2"
+  },
+  {
+    "instruction": "Quina de les polítiques següents descriu millor la política fiscal de l'oferta?",
+    "option_a": "Un augment en l'oferta monetària",
+    "option_b": "Increment dels gastos del govern",
+    "option_c": "Taxa reduïda per a la investigació i desenvolupament de nova tecnologia",
+    "option_d": "Taxa major sobre la renda familiar",
+    "answer": "C",
+    "id": "high_school_macroeconomics/dev/4"
+  },
+  {
+    "instruction": "Quins tipus de força prohibeix l'article 2(4) de la Carta de les Nacions Unides?",
+    "option_a": "L'article 2(4) inclou només la força armada",
+    "option_b": "L'article 2(4) inclou tots els tipus de força, incloent sancions",
+    "option_c": "L'article 2(4) inclou tota mena d'interferències en els afers interns dels estats",
+    "option_d": "L'article 2(4) inclou la força dirigida només contra la integritat territorial d'un estat",
+    "answer": "A",
+    "id": "international_law/dev/0"
+  },
+  {
+    "instruction": "Un nou rellotge intel·ligent es fabrica en una part d'una fàbrica, llavors es segella per a l'enviament en una altra part independent de la fàbrica. El pes del rellotge intel·ligent té una mitjana de 62 grams i una desviació estàndard de 1.0 grams. El pes de l'embalatge (caixa, guia de l'usuari, paper de bombolles, etc.) té una mitjana de 456 grams i una desviació estàndard de 6 grams. En conjunt, la distribució del pes del rellotge intel·ligent i el seu embalatge tindria la següent mitjana i desviació estàndard:",
+    "option_a": "Mitjana 518 grams; desviació estàndard 7.0 grams",
+    "option_b": "Mitjana 518 grams; desviació estàndard 3.5 grams",
+    "option_c": "Mitjana 518 grams; desviació estàndard 6.1 grams",
+    "option_d": "Mitjana 394 grams; desviació estàndard 6.1 grams",
+    "answer": "C",
+    "id": "high_school_statistics/dev/3"
+  },
+  {
+    "instruction": "En la gestió de problemes, quina és l'opció més proactiva per abordar informació negativa o enganyosa publicada en línia sobre la vostra organització?",
+    "option_a": "Comprar noms de domini que podrien ser utilitzats per grups oposats.",
+    "option_b": "Publicar comentaris anònims en blocs per combatre aquesta informació.",
+    "option_c": "Preparar un comunicat de premsa que desacredita la informació inexacta.",
+    "option_d": "Fer canvis de polítiques per abordar les queixes destacades en aquests llocs.",
+    "answer": "D",
+    "id": "public_relations/dev/1"
+  },
+  {
+    "instruction": "Abans de la conversió cristiana de Tolstoi, quina era la seva perspectiva sobre el sentit de la vida?",
+    "option_a": "optimista",
+    "option_b": "satisfet",
+    "option_c": "religiós nominalment",
+    "option_d": "pessimista",
+    "answer": "D",
+    "id": "philosophy/dev/3"
+  },
+  {
+    "instruction": "Quin dels següents objectius no buscava proporcionar l'estat del benestar de l'apòs-guerra del 1948?",
+    "option_a": "atenció mèdica i educació gratuïtes per a tothom",
+    "option_b": "un salari mínim",
+    "option_c": "pleinament d'ocupació",
+    "option_d": "benestar universal",
+    "answer": "B",
+    "id": "sociology/dev/0"
+  },
+  {
+    "instruction": "Deu estudiants fan un examen de biologia i reben les següents qualificacions: 45, 55, 50, 70, 65, 80, 40, 90, 70, 85. Quina és la mitjana de les qualificacions dels estudiants?",
+    "option_a": "55",
+    "option_b": "60",
+    "option_c": "62",
+    "option_d": "65",
+    "answer": "D",
+    "id": "high_school_mathematics/dev/4"
+  },
+  {
+    "instruction": "Amb quin escriptor es relacionen els factors d'higiene?",
+    "option_a": "Frederick Hertzberg",
+    "option_b": "D.C. McClelland",
+    "option_c": "Abraham Maslow",
+    "option_d": "Douglas McGregor",
+    "answer": "A",
+    "id": "management/dev/1"
+  },
+  {
+    "instruction": "En el programa següent, el valor inicial de x és 5 i el valor inicial de y és 10.\n IF (X < O)\n {\n DISPLAY (\"Foxtrot\")\n }\n ELSE\n {\n IF (X > y)\n {\n   DISPLAY (\"Hotel\")\n }\n ELSE \n {\n   IF (y > O)\n   {\n   DISPLAY (\"November\")\n   }\n   ELSE\n   {\n   DISPLAY (\"Yankee\")\n   }\n }\n }\n \n Què es mostra com a resultat d'executar el programa?",
+    "option_a": "Foxtrot",
+    "option_b": "Hotel",
+    "option_c": "November",
+    "option_d": "Yankee",
+    "answer": "C",
+    "id": "high_school_computer_science/dev/3"
+  },
+  {
+    "instruction": "Seria acceptable una reserva a la definició de tortura en el CIPCD en la pràctica contemporània?",
+    "option_a": "Aquesta és una reserva acceptable si la legislació del país reservant empra una definició diferent",
+    "option_b": "Aquesta és una reserva inacceptable perquè contradiu l'objecte i la finalitat del CIPCD",
+    "option_c": "Aquesta és una reserva inacceptable perquè la definició de tortura en el CIPCD és consistent amb el dret internacional consuetudinari",
+    "option_d": "Aquesta és una reserva acceptable perquè, segons el dret internacional general, els Estats tenen dret a fer reserves als tractats.",
+    "answer": "B",
+    "id": "international_law/dev/2"
+  },
+  {
+    "instruction": "Un forn de microones està connectat a una presa de corrent elèctric, 120 V, i dibuixa una corrent de 2 amps. A quin ritme s'està utilitzant l'energia per part del forn de microones?",
+    "option_a": "10 W",
+    "option_b": "30 W",
+    "option_c": "60 W",
+    "option_d": "240 W",
+    "answer": "D",
+    "id": "high_school_physics/dev/3"
+  },
+  {
+    "instruction": "Baron admet que les versions de l'hipotètic de la bomba de rellotge que discuteix són \"sorprendentment estúpides\", però assegura que això és en realitat una prova de",
+    "option_a": "la falta d'intel·ligència de la majoria dels exemples filosòfics tradicionals.",
+    "option_b": "una manca general d'intel·ligència entre les persones amb títols universitaris.",
+    "option_c": "la incorrectesa de la tortura.",
+    "option_d": "la disposició per part de moltes persones intel·ligents a veure la tortura com la millor solució per combatre el terrorisme.",
+    "answer": "D",
+    "id": "moral_disputes/dev/4"
+  },
+  {
+    "instruction": "Què és un bé intrínsec, segons Singer?",
+    "option_a": "estar a la classe alta",
+    "option_b": "tenir la capacitat d'aprendre i resoldre problemes",
+    "option_c": "ser més bonic que la major part de la població",
+    "option_d": "ser més curt que la mitjana",
+    "answer": "B",
+    "id": "moral_disputes/dev/2"
+  },
+  {
+    "instruction": "¿Quants eixos té un automòbil estàndard?",
+    "option_a": "un",
+    "option_b": "dos",
+    "option_c": "quatre",
+    "option_d": "vuit",
+    "answer": "B",
+    "id": "miscellaneous/dev/0"
+  },
+  {
+    "instruction": "La glucosa és transportada dins la cèl·lula muscular:",
+    "option_a": "a través de transportadors de proteïnes anomenats GLUT4.",
+    "option_b": "només en presència d'insulina.",
+    "option_c": "a través de la hexocinasa.",
+    "option_d": "a través de transportadors d'àcid monocàrboxílic.",
+    "answer": "A",
+    "id": "college_medicine/dev/0"
+  },
+  {
+    "instruction": "3 Cl−(aq) + 4 CrO_4^2−(aq) + 23 H+(aq) → 3 HClO2(aq) + 4 Cr3+(aq) + 10 H2O(l). En la reacció mostrada anteriorment, Cl−(aq) es comporta com a",
+    "option_a": "un àcid",
+    "option_b": "una base",
+    "option_c": "un catalitzador",
+    "option_d": "un agent reductor",
+    "answer": "D",
+    "id": "college_chemistry/dev/3"
+  },
+  {
+    "instruction": "El terme \"dèficit pressupostari\" es refereix a",
+    "option_a": "l'increment anual en la despesa federal en militars",
+    "option_b": "la quantitat d'interessos del deute nacional",
+    "option_c": "la diferència entre les propostes de pressupost inicials fets pel president i el Congrés",
+    "option_d": "la quantitat que el govern es gasta en excés dels seus ingressos",
+    "answer": "D",
+    "id": "high_school_government_and_politics/dev/1"
+  },
+  {
+    "instruction": "Les nàusees matinals són típicament un problema:",
+    "option_a": "durant el primer trimestre",
+    "option_b": "durant el segon trimestre",
+    "option_c": "durant el tercer trimestre",
+    "option_d": "durant tot l'embaràs",
+    "answer": "A",
+    "id": "human_sexuality/dev/0"
+  },
+  {
+    "instruction": "Pronostiqueu el nombre de línies en l'espectre de RPE d'una solució del radical metil 13C-etiquetat (13CH3•), assumint que les línies no es solapen.",
+    "option_a": "4",
+    "option_b": "3",
+    "option_c": "6",
+    "option_d": "24",
+    "answer": "A",
+    "id": "college_chemistry/dev/2"
+  },
+  {
+    "instruction": "Segons Timothy Pauketat, l'evidència de l'estratificació social i el poder polític a Cahokia suggereix:",
+    "option_a": "un centre de la civilització Mississipiana amb condicions similars a l'aparició d'estats precursores.",
+    "option_b": "les limitacions de l'autoritat en una societat ameríndia de caçadors-recol·lectors egalitària.",
+    "option_c": "un simple cacicat o potser un cacicat complex havia evolucionat cap a l'any 1500 d.C.",
+    "option_d": "un centre de la civilització Mississipiana amb condicions similars a les societats de la costa nord-oest d'Amèrica del Nord.",
+    "answer": "A",
+    "id": "prehistory/dev/1"
+  },
+  {
+    "instruction": "Per a ser titulitzades, en quines d'aquestes formes s'ha de presentar una amenaça?",
+    "option_a": "Com una amenaça existencial que requereix accions immediates i extraordinàries, posant en perill la supervivència de l'estat o la seguretat societal.",
+    "option_b": "Com una amenaça que requereix acció immediata i extraordinària per part de l'estat, amenaçant la supervivència d'un objecte de referència i per tant justificant l'ús de mesures no habituals en el terreny polític.",
+    "option_c": "Com una amenaça urgent per la supervivència de l'objecte de referència, tan greu que legitima l'ús d'una acció extraordinària en resposta.",
+    "option_d": "Com una amenaça urgent per la supervivència de l'audiència que requereix mesures extraordinàries o d'emergència.",
+    "answer": "C",
+    "id": "security_studies/dev/2"
+  },
+  {
+    "instruction": "Més enllà del cas comercial per comprometre's amb la Responsabilitat Social Corporativa hi ha diversos arguments morals relacionats amb: els efectes externs negatius, el poder que les corporacions posseeixen i la interdependència de l'empresa i la societat.",
+    "option_a": "Externatges, Poder, Independència",
+    "option_b": "Publicitat, Recursos insubstancials, Dependència mútua",
+    "option_c": "Publicitat, Poder, Independència",
+    "option_d": "Externatges, Poder, Dependència mútua",
+    "answer": "D",
+    "id": "business_ethics/dev/0"
+  },
+  {
+    "instruction": "Una dona de 32 anys prèviament sana acudeix al metge 8 mesos després que el seu marit fos mort en un accident de cotxe. Des d'aleshores, ha tingut una disminució de l'apetit i dificultats per conciliar el son. Afirma que sovint està trista i plora amb freqüència. Ha estat revisant la porta: cinc vegades abans de sortir de casa i ha de comptar exactament cinc fulls de paper higiènic abans d'utilitzar-lo. Diu que sempre ha estat una perfeccionista, però aquestes urgències i rituals són noves. Quin neurotransmissor hauria de ser el objectiu de la farmacoteràpia?",
+    "option_a": "Dopamina",
+    "option_b": "Glutamat",
+    "option_c": "Noradrenalina",
+    "option_d": "Serotonina",
+    "answer": "D",
+    "id": "professional_medicine/dev/2"
+  },
+  {
+    "instruction": "Selecciona la millor traducció a la lògica de predica: Cap persona condueix a Mart.",
+    "option_a": "~Pd",
+    "option_b": "(∀x)(Px ∨ ~Dx)",
+    "option_c": "(∀x)(Px ⊃ ~Dx)",
+    "option_d": "~Dp",
+    "answer": "C",
+    "id": "formal_logic/dev/0"
+  },
+  {
+    "instruction": "Com va atacar Donald Trump la globalització durant la campanya del 2016?",
+    "option_a": "La globalització havia fet homes com ell massa rics",
+    "option_b": "La globalització només va beneficiar cert estats americans, com Nova York",
+    "option_c": "Les elits liberals havien fomentat la globalització, mentre que els 'americans corrents' havien perdut feina a causa d'això",
+    "option_d": "La globalització va encoratjar guerres comercials perjudicials",
+    "answer": "C",
+    "id": "us_foreign_policy/dev/4"
+  },
+  {
+    "instruction": "L'objectiu més important d'una intervenció conductual és:",
+    "option_a": "Canvi en el comportament",
+    "option_b": "Cobertura completa",
+    "option_c": "Ús efectiu de la teoria conductual",
+    "option_d": "Canvi sostenible en el comportament",
+    "answer": "D",
+    "id": "virology/dev/3"
+  },
+  {
+    "instruction": "Un tub ple d'aire està tancat en un extrem. Es produeix una ona estacionària al tub, ...",
+    "option_a": "La pressió es troba en un node, però el desplaçament de les partícules és en un antinode.",
+    "option_b": "La pressió es troba en un antinode, però el desplaçament de les partícules és en un node.",
+    "option_c": "Tant la pressió com el desplaçament de les partícules es troben en nodes.",
+    "option_d": "Tant la pressió com el desplaçament de les partícules es troben en antinodes.",
+    "answer": "B",
+    "id": "high_school_physics/dev/1"
+  },
+  {
+    "instruction": "Un factor clau que facilita l'aplicació dels estudis cas-control nius del MACS va ser:",
+    "option_a": "Recopilació de dades",
+    "option_b": "Establiment d'un repositori d'espècimens biològics",
+    "option_c": "Interès del participant",
+    "option_d": "Administració del qüestionari per part del personal",
+    "answer": "B",
+    "id": "virology/dev/2"
+  },
+  {
+    "instruction": "Les grans expansions de tríplets es poden detectar mitjançant:",
+    "option_a": "reacció en cadena de la polimerasa.",
+    "option_b": "anàlisi de polimorfisme de conformació de cadena única.",
+    "option_c": "blotting de Southern.",
+    "option_d": "blotting de Western.",
+    "answer": "C",
+    "id": "medical_genetics/dev/0"
+  },
+  {
+    "instruction": "La glicòlisi és el nom donat al camí que implica la conversió de:",
+    "option_a": "glicogen en glucosa-1-fosfat.",
+    "option_b": "glicogen o glucosa a fructosa.",
+    "option_c": "glicogen o glucosa a piruvat o lactat.",
+    "option_d": "glicogen o glucosa a piruvat o acetil CoA.",
+    "answer": "C",
+    "id": "clinical_knowledge/dev/4"
+  },
+  {
+    "instruction": "Suposem que X i Y són variables aleatòries amb E(X) = 37, var(X) = 5, E(Y) = 62 i var(Y) = 12. Quines són els valor esperat i variància de la variable aleatòria X + Y?",
+    "option_a": "E(X + Y) = 99, var(X + Y) = 8.5",
+    "option_b": "E(X + Y) = 99, var(X + Y) = 13",
+    "option_c": "E(X + Y) = 99, var(X + Y) = 17",
+    "option_d": "No hi ha suficient informació per respondre aquesta pregunta.",
+    "answer": "D",
+    "id": "high_school_statistics/dev/1"
+  },
+  {
+    "instruction": "Quines són les estructures d'anàlisi dins les quals el terrorisme ha estat considerat (a partir del 2020)?",
+    "option_a": "La competència entre països grans ha resultat en que alguns països estan donant suport activament a grups terrorists per minar la força dels estats rivals. Les xarxes terroristes són clubs de patrocini estesos mantenits i pagats pels seus estats donants i es conceptualitzen com a actors estatals, que s'han de tractar amb força militar.",
+    "option_b": "La globalització ha permès la internacionalització de les activitats terroristes obrint l'espai operatiu, encara que la coordinació es gestiona des d'una base geogràfica. Això suggereix que els grups terroristes estan estructurats a nivell nacional, la qual cosa significa que el terrorisme no es pot considerar en termes d'una guerra a derrotar militarment sense provocar serioses implicacions en la població autoctona.",
+    "option_c": "El terrorisme es pot considerar un problema a resoldre mitjançant mitjans militars (guerra contra el terrorisme), mitjançant tècniques policials normals (terrorisme com a crim) o com un problema mèdic amb causes i símptomes subjacents (terrorisme com a malaltia).",
+    "option_d": "El terrorisme es considera un problema criminal. La criminalització del terrorisme té dues implicacions importants. En primer lloc, suggereix que el terrorisme es pot erradicar: els terroristes es poden capturar i portar a judici per procediments judicials normals eliminant així la amenassa per a la societat. En segon lloc, suggereix que les tècniques de prevenció del crim són aplicables per prevenir la seva aparició.",
+    "answer": "C",
+    "id": "security_studies/dev/4"
+  },
+  {
+    "instruction": "El jutge va prendre coneixement judicial d'alguns fets al començament del judici. Quin dels següents fets no és un tipus apropiat de fet per a la presa de coneixement judicial?",
+    "option_a": "Fets indiscutibles.",
+    "option_b": "Fets que han estat afirmats per organitzacions polítiques individuals.",
+    "option_c": "Fets reconeguts com a veritat per coneixement comú.",
+    "option_d": "Fets capaços de verificació científica.",
+    "answer": "B",
+    "id": "professional_law/dev/2"
+  },
+  {
+    "instruction": "Quina és la capacitat craniana mitjana aproximada de l'Homo erectus?",
+    "option_a": "menys de 650 cc",
+    "option_b": "aproximadament 800 cc",
+    "option_c": "una mica menys de 1000 cc",
+    "option_d": "1200 cc",
+    "answer": "C",
+    "id": "prehistory/dev/4"
+  },
+  {
+    "instruction": "Investigacions recents sobre la datació d'espècies de homínids del Pliocè Mitjà indiquen que hi havia (a partir del 2020):",
+    "option_a": "una gran quantitat de diversitat d'espècies, o una única espècie que exhiu una gran quantitat de diversitat.",
+    "option_b": "molt poca diversitat d'espècies durant aquest període i molt pocs homínids.",
+    "option_c": "reducció de la diversitat d'espècies a causa d'una edat de gel prolongada seguida d'una sequera severa.",
+    "option_d": "reducció de la diversitat d'espècies, però un augment dels números de bigues i esquers, que indiquen la fabricació d'eines de pedra.",
+    "answer": "A",
+    "id": "prehistory/dev/3"
+  },
+  {
+    "instruction": "En quina fase de la meiosi els cromosomes es parellen i fan una recombinació genètica?",
+    "option_a": "Profase I",
+    "option_b": "Metafase I",
+    "option_c": "Profase II",
+    "option_d": "Metafase II",
+    "answer": "A",
+    "id": "medical_genetics/dev/4"
+  },
+  {
+    "instruction": "Aquesta pregunta es refereix a la següent informació.\nEncara que la Majestat del rei sigui justa i correctament la cap suprem de l'Església d'Anglaterra, i així és reconeguda per part del clergat d'aquest regne en les seves convocatòries, tanmateix, per corroborar i confirmar això, i per augmentar la virtut en la religió de Crist dins d'aquest regne d'Anglaterra, i per reprimir i extirpar tots els errors, heresies i altres enormitats i abusos que s'havien utilitzat en aquest, es promulga, per autoritat del present Parlament, que el rei, el nostre senyor sobirà, els seus hereus i successors, reis d'aquest regne, seran presos, acceptats i reputats com l'únic cap suprem de la Església d'Anglaterra, anomenada Ecclesia Anglicana; i tindran i gaudiran, annexada i unida a la corona imperial d'aquest regne, tant el títol com el seu estil, així com tots els honors, dignitats, preeminències, jurisdiccions, privilegis, autoritats, immunitats, beneficis i avantatges que pertoquin i corresponguin a la dita dignitat del cap suprem d'aquesta Església; i que el nostre senyor sobirà, els seus hereus i successors, reis d'aquest regne, tindran la plena potestat i autoritat de temps en temps per visitar, reprimir, corregir, ordenar, rectificar, restringir i enmendinar tots aquells errors, heresies, abusos, ofenses, desdènys i enormitats, siguin quals siguin, que per qualsevol mena d'autoritat o jurisdicció espiritual hagin d'haver estat o puguin reformar-se, reprimir-se, ordenar-se, rectificar-se, restringir-se o esmenar-se legalment, sobretot a la satisfacció del Totpoderós Déu, l'augment de la virtut en la religió de Crist, i per a la conservació de la pau, la unitat i la tranquil·litat d'aquest regne; no obstant, cap pràctica, terres estrangeres, autoritat estrangera, prescripció o qualsevol altra cosa en contra tenen efecte algun respecte d'això.\nParlament Anglès, Acta de Supremacia, 1534\nA partir del passatge, es pot deduir que el Parlament anglès volia argumentar que l'Acta de Supremacia",
+    "option_a": "donaria al rei anglès una nova posició d'autoritat",
+    "option_b": "donaria la posició de cap de l'Església d'Anglaterra només a Enric VIII i exclouria els seus hereus",
+    "option_c": "establiria el calvinisme com l'única teologia veraç a Anglaterra",
+    "option_d": "posaria fi a les diverses formes de corrupció que afligien l'Església a Anglaterra",
+    "answer": "D",
+    "id": "high_school_european_history/dev/4"
+  },
+  {
+    "instruction": "La pleura",
+    "option_a": "no tenen inervació sensorial.",
+    "option_b": "estan separades per un espai de 2 mm.",
+    "option_c": "s'estenen fins al coll.",
+    "option_d": "estan compostes per epitel·li respiratori.",
+    "answer": "C",
+    "id": "anatomy/dev/2"
+  },
+  {
+    "instruction": "Quina paraula resumeix millor l'explicació de Weber sobre el desenvolupament del dret formalment racional?",
+    "option_a": "Autoritat.",
+    "option_b": "Carisma.",
+    "option_c": "Cooperació.",
+    "option_d": "Capitalisme.",
+    "answer": "D",
+    "id": "jurisprudence/dev/2"
+  },
+  {
+    "instruction": "Durant la tercera etapa del model de transició demogràfica, quina de les següents afirmacions és veritat?",
+    "option_a": "Les taxes de natalitat augmenten i el ritme de creixement de la població és menys ràpid.",
+    "option_b": "Les taxes de natalitat disminueixen i el ritme de creixement de la població és menys ràpid.",
+    "option_c": "Les taxes de natalitat augmenten i el ritme de creixement de la població també augmenta.",
+    "option_d": "Les taxes de natalitat disminueixen i el ritme de creixement de la població també augmenta.",
+    "answer": "B",
+    "id": "high_school_geography/dev/1"
+  },
+  {
+    "instruction": "Quin és el fàrmac de primera línia per als pacients amb diabetis tipus 2 i obesitat, a partir del 2020?\n",
+    "option_a": "Acarbós",
+    "option_b": "Metformina",
+    "option_c": "Sulfonilurees",
+    "option_d": "Insulina",
+    "answer": "B",
+    "id": "nutrition/dev/4"
+  },
+  {
+    "instruction": "Per a quin dels dos escenaris el personatge principal (que utilitza jo, em, meu) fa clarament alguna cosa moralment incorrecta, segons els estàndards morals habituals als Estats Units el 2020? Escenari 1 | Vaig demanar un cigarret al senyor a fora de la botiga. Escenari 2 | Quan el vigilant de seguretat va deixar el seu lloc, vaig guardar una moneda rara al meu butxaca.",
+    "option_a": "Incorrecte, Incorrecte",
+    "option_b": "Incorrecte, No és incorrecte",
+    "option_c": "No és incorrecte, Incorrecte",
+    "option_d": "No és incorrecte, No és incorrecte",
+    "answer": "C",
+    "id": "moral_scenarios/dev/1"
+  },
+  {
+    "instruction": "Quins dels següents contenen seqüències d'ADN necessàries per a la segregació dels cromosomes en la mitosi i la meiosi?",
+    "option_a": "Telòmers",
+    "option_b": "Centròmers",
+    "option_c": "Nucleosomes",
+    "option_d": "Espliceosomes",
+    "answer": "B",
+    "id": "college_biology/dev/4"
+  },
+  {
+    "instruction": "Quina de les següents persones és més probable que es quedi sola a casa, a partir del 2019?",
+    "option_a": "Un home o una dona asiàtica",
+    "option_b": "Un home hispànic",
+    "option_c": "Una dona afroamericana",
+    "option_d": "Un home o una dona blanca",
+    "answer": "C",
+    "id": "human_aging/dev/0"
+  },
+  {
+    "instruction": "Quina de les següents condicions no mostra herència multifactorial?",
+    "option_a": "Estenosi pilòrica",
+    "option_b": "Esquizofrènia",
+    "option_c": "Espina bífida (defectes del tub neural)",
+    "option_d": "Síndrome de Marfan",
+    "answer": "D",
+    "id": "medical_genetics/dev/3"
+  },
+  {
+    "instruction": "Quina de les següents no és una manera de formar ADN recombinant?",
+    "option_a": "Traducció",
+    "option_b": "Conjugació",
+    "option_c": "Transducció especialitzada",
+    "option_d": "Transformació",
+    "answer": "A",
+    "id": "high_school_biology/dev/0"
+  },
+  {
+    "instruction": "Quina característica no és una característica clau del model de gestió 'sistemes oberts'?",
+    "option_a": "Moral",
+    "option_b": "Innovació",
+    "option_c": "Recurs de creixement",
+    "option_d": "Adaptació",
+    "answer": "A",
+    "id": "management/dev/3"
+  },
+  {
+    "instruction": "Quina de les següents llistes els hidrurs dels elements del grup 14 per ordre de la seva estabilitat tèrmica, de menor a major?",
+    "option_a": "PbH4 < SnH4 < GeH4 < SiH4 < CH4",
+    "option_b": "PbH4 < SnH4 < CH4 < GeH4 < SiH4",
+    "option_c": "CH4 < SiH4 < GeH4 < SnH4 < PbH4",
+    "option_d": "CH4 < PbH4 < GeH4 < SnH4 < SiH4",
+    "answer": "A",
+    "id": "college_chemistry/dev/4"
+  },
+  {
+    "instruction": "Quin dels següents es espera que sigui una molècula polar?",
+    "option_a": "PCl4F",
+    "option_b": "BF3",
+    "option_c": "CO2",
+    "option_d": "Si(CH3)4",
+    "answer": "A",
+    "id": "high_school_chemistry/dev/1"
+  },
+  {
+    "instruction": "Quina de les següents és la cavitat del cos que conté l'hipòfisi?",
+    "option_a": "Abdominal",
+    "option_b": "Cranial",
+    "option_c": "Pleural",
+    "option_d": "Espinal",
+    "answer": "B",
+    "id": "anatomy/dev/4"
+  },
+  {
+    "instruction": "Segons el model de pressió-flux de moviment de continguts de floema, el moviment del fotosintetitzat des de la font fins al descendent está impulsat per",
+    "option_a": "una bomba de flux de pressió dependent d'ATP",
+    "option_b": "un gradient de potencial de pressió d'aigua",
+    "option_c": "transpiració",
+    "option_d": "difusió apoplàstica",
+    "answer": "B",
+    "id": "college_biology/dev/3"
+  },
+  {
+    "instruction": "Quina de les següents afirmacions millor descriu un argument de James Madison en el número 10 del Federalista?",
+    "option_a": "Polítics honestos poden prevenir que les faccions es desenvolupin.",
+    "option_b": "Les faccions són més probables a ocórrer en repúbliques grans que en les petites.",
+    "option_c": "Els efectes negatius de la faccionalisme poden ser reduïts per un govern republicà.",
+    "option_d": "Les eleccions lliures són la millor defensa del poble contra la faccionalisme.",
+    "answer": "C",
+    "id": "high_school_government_and_politics/dev/4"
+  },
+  {
+    "instruction": "El muó es desintegra amb una vida mitjana d'aproximadament 10^-6 segons en un electró, un neutrí muó i un antineutrí electró. El muó està prohibit de desintegrar-se en un electró i només un neutrí pel llei de conservació del",
+    "option_a": "càrrega",
+    "option_b": "massa",
+    "option_c": "energia i moment",
+    "option_d": "número leptònic",
+    "answer": "D",
+    "id": "college_physics/dev/4"
+  },
+  {
+    "instruction": "En una SR latch construïda amb portes NOR, quina condició no està permesa",
+    "option_a": "S=0, R=0",
+    "option_b": "S=0, R=1",
+    "option_c": "S=1, R=0",
+    "option_d": "S=1, R=1",
+    "answer": "D",
+    "id": "electrical_engineering/dev/0"
+  },
+  {
+    "instruction": "En una màquina de corrent continu de bobinatge en pols doble, la resistència d'un conductor és de 2Ω i el nombre total de conductors és de 100. Troba la resistència total",
+    "option_a": "200Ω",
+    "option_b": "100Ω",
+    "option_c": "50Ω",
+    "option_d": "10Ω",
+    "answer": "C",
+    "id": "electrical_engineering/dev/1"
+  },
+  {
+    "instruction": "Declaració 1 | Cada element d'un grup genera un subgrup cíclic del grup. Declaració 2 | El grup simètric S_10 té 10 elements.",
+    "option_a": "Cert, Cert",
+    "option_b": "Fals, Fals",
+    "option_c": "Cert, Fals",
+    "option_d": "Fals, Cert",
+    "answer": "C",
+    "id": "abstract_algebra/dev/2"
+  },
+  {
+    "instruction": "Cinc mil dòlars compostos anualment a una taxa d'interès del $x\\%$ triguen sis anys a doblar-se. A la mateixa taxa d'interès, quant anys trigarà $\\$300$ a créixer fins a $\\$9600$?",
+    "option_a": "12",
+    "option_b": "1",
+    "option_c": "30",
+    "option_d": "5",
+    "answer": "C",
+    "id": "high_school_mathematics/dev/1"
+  },
+  {
+    "instruction": "El trastorn més comú entre homes que busquen teràpia sexual és:",
+    "option_a": "ejaculació precoç",
+    "option_b": "ejaculació inhibida",
+    "option_c": "trastorn erèctil",
+    "option_d": "trastorn ejaculatori",
+    "answer": "C",
+    "id": "human_sexuality/dev/4"
+  },
+  {
+    "instruction": "Un home de 36 anys es presenta a l'oficina amb antecedents de dolor lumbar que dura tres setmanes. Nega qualsevol traumatisme recent, però diu que puja i baixa del seu camió nombroses vegades al dia per la seva feina. En examinar el pacient en posició prona, es detecta una sulcus sacral profund a l'esquerra, un angle posterior inferior lateral a la dreta i una junctura lumbosacral que salta lliurement en la compressió. El diagnòstic més probable és",
+    "option_a": "torsió sacral esquerra sobre esquerra",
+    "option_b": "torsió sacral esquerra sobre dreta",
+    "option_c": "flexió sacral unilateral dreta",
+    "option_d": "torsió sacral dreta sobre dreta",
+    "answer": "D",
+    "id": "professional_medicine/dev/1"
+  },
+  {
+    "instruction": "En quina dinastia es va desenvolupar el \"Mandat del Cel\" per legitimar els nous governants?",
+    "option_a": "Shang",
+    "option_b": "Zhou",
+    "option_c": "Han",
+    "option_d": "Xia",
+    "answer": "B",
+    "id": "world_religions/dev/2"
+  },
+  {
+    "instruction": "Els colors en una bombolla de sabó resulten de la llum",
+    "option_a": "convertida en una freqüència diferent",
+    "option_b": "deflexió",
+    "option_c": "interferència",
+    "option_d": "polarització",
+    "answer": "C",
+    "id": "conceptual_physics/dev/2"
+  },
+  {
+    "instruction": "Un ou fecundat també es coneix com a",
+    "option_a": "un zigot.",
+    "option_b": "un embrió.",
+    "option_c": "una viabilitat.",
+    "option_d": "un blastocist.",
+    "answer": "A",
+    "id": "moral_disputes/dev/1"
+  },
+  {
+    "instruction": "En quina etapa del procés de planificació es realitzaria una anàlisi de la situació?",
+    "option_a": "Definició del programa",
+    "option_b": "Planificació del programa",
+    "option_c": "Presa de mesures i implementació d'idees",
+    "option_d": "Avaluació del programa",
+    "answer": "A",
+    "id": "public_relations/dev/3"
+  },
+  {
+    "instruction": "Quina és la diferència entre un catèter masculí i un femení?",
+    "option_a": "Els catèters masculins i femenins són de diferents colors.",
+    "option_b": "Els catèters masculins són més llargs que els femenins.",
+    "option_c": "Els catèters masculins són més grans que els femenins.",
+    "option_d": "Els catèters femenins són més llargs que els masculins.",
+    "answer": "B",
+    "id": "clinical_knowledge/dev/1"
+  },
+  {
+    "instruction": "_______ és l'intent directe de gestionar formalment o informalment problemes o qüestions ètiques a través de polítiques, pràctiques i programes específics.",
+    "option_a": "Responsabilitat social corporativa",
+    "option_b": "Gestió ètica empresarial",
+    "option_c": "Sostenibilitat",
+    "option_d": "Gestió ambiental",
+    "answer": "B",
+    "id": "business_ethics/dev/1"
+  },
+  {
+    "instruction": "Quina de les següents afirmacions sobre l'iode és correcta, fins a 2020?\n",
+    "option_a": "El 50% dels adults consumeixen nivells d'iode per sota de la IRN",
+    "option_b": "Els productes lactis són una font pobra d'iode",
+    "option_c": "El contingut d'iode de la llet orgànica és generalment més baix que el nivell de la llet no orgànica",
+    "option_d": "Les referències de valor dietètic del Regne Unit recomanen un augment en la ingesta d'iode durant l'embaràs",
+    "answer": "C",
+    "id": "nutrition/dev/3"
+  },
+  {
+    "instruction": "Un home de 44 anys va a l'oficina a causa d'una història de 3 dies de mal de gola, tos no productiva, nas encurtit i mal de cap frontal. Diu que el mal de cap és pitjor al matí i que l'ibuprofèn li proporciona cert alleujament. No ha tingut dificultat a la respiració. Els antecedents mèdics no són remarcables. No pren cap medicament excepte l'ibuprofèn per al dolor. Els signes vitals són temperatura 37,4°C (99,4°F), pols 88/min, respiracions 18/min i pressió arterial 120/84 mm Hg. L'examen de les fosses nasals mostra mucoses eritematoses. L'examen de la gola mostra eritema i hiperplàsia linfoide fol·licular a la part posterior de l'orofaringe. No hi ha adenopatia cervical palpable. Els pulmons estan nets a l'auscultació. Quina de les següents és la causa més probable dels símptomes d'aquest pacient?",
+    "option_a": "Rinitis al·lèrgica",
+    "option_b": "Virus Epstein-Barr",
+    "option_c": "Mycoplasma pneumoniae",
+    "option_d": "Rhinovirus",
+    "answer": "D",
+    "id": "professional_medicine/dev/3"
+  },
+  {
+    "instruction": "Un professor de ciències de l'institut omple una ampolla d'un litre de nitrogen pur i tanca la tapa. La pressió és de 1,70 atm i la temperatura ambient és de 25°C. Quines dues variables augmentaràn la pressió del sistema, si totes les altres variables es mantenen constants?",
+    "option_a": "Augmentar la temperatura, augmentar els moles de gas",
+    "option_b": "Augmentar la temperatura, augmentar el volum",
+    "option_c": "Disminuir el volum, disminuir la temperatura",
+    "option_d": "Disminuir els moles de gas, augmentar el volum",
+    "answer": "A",
+    "id": "college_medicine/dev/3"
+  },
+  {
+    "instruction": "Estàs revisant informes per a la Conferència de Machine Learning més sofisticada del món i veus submissió amb les següents afirmacions. Quines consideraries acceptar?",
+    "option_a": "El meu mètode aconsegueix un error de training més petit que tots els mètodes anteriors!",
+    "option_b": "El meu mètode aconsegueix un error de test més petit que tots els mètodes anteriors! (Nota a peu de pàgina: quan el paràmetre de regularització λ s'ha escollit per minimitzar l'error de test.)",
+    "option_c": "El meu mètode aconsegueix un error de test més petit que tots els mètodes anteriors! (Nota a peu de pàgina: quan el paràmetre de regularització λ s'ha escollit per minimitzar l'error de validació creuada.)",
+    "option_d": "El meu mètode aconsegueix un error de validació creuada més petit que tots els mètodes anteriors! (Nota a peu de pàgina: quan el paràmetre de regularització λ s'ha escollit per minimitzar l'error de validació creuada.)",
+    "answer": "C",
+    "id": "machine_learning/dev/2"
+  },
+  {
+    "instruction": "Un telescopi refractor està format per dues lents convergents separades per 100 cm. La lent de l'ocular té una longitud focal de 20 cm. La magnificació angular del telescopi és",
+    "option_a": "4",
+    "option_b": "5",
+    "option_c": "6",
+    "option_d": "20",
+    "answer": "A",
+    "id": "college_physics/dev/3"
+  },
+  {
+    "instruction": "Segons la Llei d'Ampliació de l'Educació per a Persones amb Discapacitats, què ha de fer una agència educativa abans de canviar la ubicació educativa d'un estudiant amb discapacitat?",
+    "option_a": "Donar al xiquet un període de prova en el nou entorn",
+    "option_b": "Notificar als pares per escrit",
+    "option_c": "Obtindre l'aprovació del consell escolar",
+    "option_d": "Obtindre el consentiment dels pares",
+    "answer": "B",
+    "id": "high_school_psychology/dev/3"
+  },
+  {
+    "instruction": "La corba de Phillips de curt termini indica una",
+    "option_a": "relació directa entre atur i inflació",
+    "option_b": "relació directa entre preu i quantitat demandada",
+    "option_c": "relació inversa entre preu i quantitat demandada",
+    "option_d": "relació inversa entre atur i inflació",
+    "answer": "D",
+    "id": "high_school_macroeconomics/dev/1"
+  },
+  {
+    "instruction": "SHA-1 té un resum del missatge de",
+    "option_a": "160 bits",
+    "option_b": "512 bits",
+    "option_c": "628 bits",
+    "option_d": "820 bits",
+    "answer": "A",
+    "id": "computer_security/dev/0"
+  },
+  {
+    "instruction": "Què es produeix durant la fotosíntesi?",
+    "option_a": "hidrogen",
+    "option_b": "niló",
+    "option_c": "oxigen",
+    "option_d": "llum",
+    "answer": "C",
+    "id": "miscellaneous/dev/3"
+  },
+  {
+    "instruction": "Una mutació en una enzima bacteriana ha canviat un aminoàcid previament polar per un aminoàcid no polar. Aquest aminoàcid es localitzava en un lloc allunyat del lloc actiu de l'enzim. Com podria aquesta mutació alterar la especificitat del substrat de l'enzim?",
+    "option_a": "Canviant el pH òptim de l'enzim",
+    "option_b": "Canviant la ubicació de l'enzim a la cel·la",
+    "option_c": "Canviant la forma de la proteïna",
+    "option_d": "Un canvi d'aminoàcid lluny del lloc actiu no pot alterar la especificitat del substrat de l'enzim.",
+    "answer": "C",
+    "id": "high_school_biology/dev/1"
+  },
+  {
+    "instruction": "Quina de les següents afirmacions és correcta (segons el coneixement del 2020)?\n",
+    "option_a": "Els consumidors amb fenilcetonúria han d'evitar el consum de l'edulcorant aspartam",
+    "option_b": "Els consumidors amb fenilcetonúria han d'evitar el consum de l'edulcorant sacarina",
+    "option_c": "Els consumidors amb fenilcetonúria han d'evitar el consum de l'edulcorant sucralosa",
+    "option_d": "Els consumidors amb fenilcetonúria han d'evitar el consum de l'edulcorant acesulfam K",
+    "answer": "A",
+    "id": "nutrition/dev/1"
+  },
+  {
+    "instruction": "Quina és la sortida de \"abc\"[::-1] a Python 3?",
+    "option_a": "Error",
+    "option_b": "abc",
+    "option_c": "cba",
+    "option_d": "c",
+    "answer": "C",
+    "id": "high_school_computer_science/dev/2"
+  },
+  {
+    "instruction": "En la construcció d'una equació de regressió múltiple per a fins de predicció, la combinació òptima de mesures és aquella en què els predictors",
+    "option_a": "no estan correlacionats entre si però estan moderadament correlacionats amb el criteri",
+    "option_b": "tenen baixes correlacions entre si i baixes correlacions amb el criteri",
+    "option_c": "estan altament intercorrelacionats entre si i moderadament correlacionats amb el criteri",
+    "option_d": "tenen baixes correlacions amb el criteri però estan moderadament correlacionats entre si",
+    "answer": "A",
+    "id": "professional_psychology/dev/4"
+  },
+  {
+    "instruction": "Segons Metz, què és el que està malament amb els arguments consequencialistes en contra de la pena capital basats en valors africans?",
+    "option_a": "Encara no està clar si la pena capital disuadeix el perjudici a la comunitat.",
+    "option_b": "Encara no està clar si la pena capital disuadeix el perjudici a qualsevol persona.",
+    "option_c": "El consequencialisme no és suportat per valors africans.",
+    "option_d": "Tot i que el consequencialisme és suportat per valors africans, no s'han ofert arguments consequencialistes en termes de valors africans.",
+    "answer": "A",
+    "id": "moral_disputes/dev/0"
+  },
+  {
+    "instruction": "Quina és l'origen embriològic de l'os hioides?",
+    "option_a": "El primer arc farigi",
+    "option_b": "El primer i el segon arc farigi",
+    "option_c": "El segon arc farigi",
+    "option_d": "El segon i el tercer arc farigi",
+    "answer": "D",
+    "id": "anatomy/dev/0"
+  },
+  {
+    "instruction": "Un efecte secundari esperat de la suplementació amb creatina és:",
+    "option_a": "debilitat muscular.",
+    "option_b": "augment de la massa corporal.",
+    "option_c": "calams musculars.",
+    "option_d": "pèrdua d'electròlits.",
+    "answer": "B",
+    "id": "college_medicine/dev/4"
+  },
+  {
+    "instruction": "Enunciat 1| Tota funció d'un conjunt finit en ell mateix ha de ser injectiva. Enunciat 2 | Tot subgrup d'un grup abelià és abelià.",
+    "option_a": "Cert, Cert",
+    "option_b": "Fals, Fals",
+    "option_c": "Cert, Fals",
+    "option_d": "Fals, Cert",
+    "answer": "A",
+    "id": "abstract_algebra/dev/3"
+  },
+  {
+    "instruction": "Sigui V el conjunt de tots els polinomis reals p(x). Sigui T la transformació que envia p(x) a xp(x) i S la transformació que envia p(x) a p'(x) = d/dx p(x). Interpreteu (ST)(p(x)) com S(T(p(x))). Quina afirmació és certa?",
+    "option_a": "ST = 0",
+    "option_b": "ST = T",
+    "option_c": "ST = TS",
+    "option_d": "ST - TS és la transformació identitat de V en ell mateix.",
+    "answer": "D",
+    "id": "college_mathematics/dev/0"
+  },
+  {
+    "instruction": "Segons el model de Caplan de la consulta de cas centrada en el consultor, el consultor està principalment interessat en",
+    "option_a": "identificar les causes i solucions dels problemes que presenta el client",
+    "option_b": "identificar i eliminar les causes de les dificultats del consultor per manejar un problema",
+    "option_c": "establir una jerarquia d'autoritat per permetre una presa de decisions eficaç",
+    "option_d": "presentar una única curs d'acció ben definida i unívoca perquè el consultor superi les mancances en habilitats",
+    "answer": "B",
+    "id": "high_school_psychology/dev/1"
+  },
+  {
+    "instruction": "Pence compara sis casos diferents de reproducció, des del bessó natural fins al SCNT. Quina conclusió esglaia de la comparació?",
+    "option_a": "El SCNT no és un tipus diferent de reproducció perquè no hi ha diferències moralment rellevants entre ell i altres mitjans permesos de reproducció.",
+    "option_b": "Com que hi ha un baix risc de dany per al bessó natural, també hi haurà un baix risc de dany per al SCNT.",
+    "option_c": "tant A com B",
+    "option_d": "ni A ni B",
+    "answer": "A",
+    "id": "moral_disputes/dev/3"
+  },
+  {
+    "instruction": "El 1 de gener, any 1, Alpha Co. va signar un acord de manteniment anual amb un proveïdor de programari per 15.000 dòlars i el període de manteniment comença el 1 de març, any 2. Alpha també va incórrer en costos de 5.000 dòlars el 1 de gener, any 1, relacionats amb sol·licituds de modificació del programari que augmentaran la funcionalitat del programari. Alpha deprecia i amortitza els seus béns informàtics i de programari durant cinc anys utilitzant el mètode de línia recta. Quina quantitat és l'import total que Alpha hauria de reconèixer relacionat amb l'acord de manteniment i les modificacions del programari per a l'exercici finalitzat el 31 de desembre, any 1?",
+    "option_a": "5.000 dòlars",
+    "option_b": "13.500 dòlars",
+    "option_c": "16.000 dòlars",
+    "option_d": "20.000 dòlars",
+    "answer": "B",
+    "id": "professional_accounting/dev/3"
+  },
+  {
+    "instruction": "El canvi de la 'religió civil' a la 'religió comuna' significa que:",
+    "option_a": "la creixent burocratització de l'estat ha fet que la religió només sigui una part marginal de les nostres vides",
+    "option_b": "malgrat la debilitat de l'autoritat tradicional, les nostres vides quotidianes i el 'sentit comú' continuen estant conformats per creences i valors religiosos",
+    "option_c": "la participació religiosa en el culte col·lectiu pot haver disminuït, però la gent encara practica la seva fe en privat",
+    "option_d": "la gent és molt més propensa a discutir les seves creences religioses en entorns públics i informals",
+    "answer": "B",
+    "id": "sociology/dev/2"
+  },
+  {
+    "instruction": "Suposem que f(1 + x) = f(x) per a tot x real. Si f és un polinomi i f(5) = 11, llavors f(15/2)",
+    "option_a": "-11",
+    "option_b": "0",
+    "option_c": "11",
+    "option_d": "33/2",
+    "answer": "C",
+    "id": "college_mathematics/dev/3"
+  },
+  {
+    "instruction": "Segons d'Holbach, les persones sempre actuen segons les _____.",
+    "option_a": "eleccions lliures",
+    "option_b": "dictats de l'ànima",
+    "option_c": "lleis naturals necessàries",
+    "option_d": "voluntat indeterminada",
+    "answer": "C",
+    "id": "philosophy/dev/2"
+  },
+  {
+    "instruction": "________ és un resultat natural quan es combinen variables demogràfiques i geogràfiques.",
+    "option_a": "Geodemografia",
+    "option_b": "Diferenciació de productes.",
+    "option_c": "Matriu ANSOFF.",
+    "option_d": "Gestió de marques.",
+    "answer": "A",
+    "id": "marketing/dev/0"
+  },
+  {
+    "instruction": "Quina de les següents afirmacions és correcta sobre la correlació?",
+    "option_a": "Si la pendent de la línia de regressió és exactament 1, llavors la correlació és exactament 1.",
+    "option_b": "Si la correlació és de 0, llavors la pendent de la línia de regressió és indefinida.",
+    "option_c": "Canviar la variable que es crida x i la que es crida y canvia el signe de la correlació.",
+    "option_d": "La correlació r és igual a la pendent de la línia de regressió quan les puntuacions-z de la variable-y es representen en funció de les puntuacions-z de la variable-x.",
+    "answer": "D",
+    "id": "high_school_statistics/dev/0"
+  },
+  {
+    "instruction": "Quan 'consentiment' pot servir com a circumstància que exclou la il·licitud de la conducta de l'Estat?",
+    "option_a": "El consentiment pot servir com a circumstància que exclou la il·licitud sempre que sigui donat",
+    "option_b": "El consentiment mai pot servir com a circumstància que exclou la il·licitud",
+    "option_c": "El consentiment pot servir com a circumstància que exclou la il·licitud, sempre que el consentiment sigui vàlid i que la conducta es mantingui dins dels límits del consentiment prestat",
+    "option_d": "El consentiment sempre pot servir com a circumstància que exclou la il·licitud, independentment de l'òrgan de l'Estat que el doni",
+    "answer": "C",
+    "id": "international_law/dev/3"
+  },
+  {
+    "instruction": "Com descriu Berger (1963) la realitat social amb una metàfora?",
+    "option_a": "una atracció de fira",
+    "option_b": "un circ",
+    "option_c": "un teatre de titelles",
+    "option_d": "un ballet",
+    "answer": "C",
+    "id": "sociology/dev/1"
+  },
+  {
+    "instruction": "Quin dels següents enunciats representa una afirmació precisa sobre els artròpodes?",
+    "option_a": "Tenen un exosquelet compost principalment per peptidoglicà.",
+    "option_b": "Tenen un sistema circulatori obert amb un cor dorsal.",
+    "option_c": "Són membres d'un filum biològicament poc reeixit incapaç d'aproveitar diversos hàbitats i fonts de nutrició.",
+    "option_d": "No tenen apèndixos parellats i articulats.",
+    "answer": "B",
+    "id": "college_biology/dev/0"
+  },
+  {
+    "instruction": "Declaració 1 | Si aH és un element d'un grup factor, llavors |aH| divideix |a|. Declaració 2 | Si H i K són subgrups de G llavors HK és un subgrup de G.",
+    "option_a": "Cert, Cert",
+    "option_b": "Fals, Fals",
+    "option_c": "Cert, Fals",
+    "option_d": "Fals, Cert",
+    "answer": "B",
+    "id": "abstract_algebra/dev/1"
+  },
+  {
+    "instruction": "Per què no hi ha un planeta on es troba la cintura d'asteroides?",
+    "option_a": "Un planeta es va formar aquí, però va ser trencat per una col·lisió catastrofal.",
+    "option_b": "No hi havia prou material en aquesta part de la nebulosa solar per formar un planeta.",
+    "option_c": "Hi havia massa material rocós per formar un planeta tel·lúric, però no prou material gasós per formar un planeta jovià.",
+    "option_d": "La resonància amb Júpiter va evitar que el material es col·leccionés per formar un planeta.",
+    "answer": "D",
+    "id": "astronomy/dev/3"
+  },
+  {
+    "instruction": "Què és l'hacking ètic?",
+    "option_a": "\"Hackejar\" l'ètica per justificar comportaments egoistes no desitjats",
+    "option_b": "Hackejar sistemes (per exemple, durant les proves de penetració) per a exposar vulnerabilitats i arreglar-les en lloc de ser explotades",
+    "option_c": "Hackejar sistemes gestionats per qui en desacord amb la teva ètica",
+    "option_d": "Un terme col·loquial per referir-se al desenvolupament ràpid de programari, per exemple com a part de maratons de programació (hackathons)",
+    "answer": "B",
+    "id": "computer_security/dev/2"
+  },
+  {
+    "instruction": "En cèl·lules animals, quina de les següents representes la via més probable que segueix una proteïna secreta a mesura que es sintetitza en una cèl·lula?",
+    "option_a": "Membrana plasmàtica-golgi-ribosomes-vesícula secreto-ria-RE rugós",
+    "option_b": "Ribosomes-golgi-RE rugós-vesícula secreto-ria-membrana plasmàtica",
+    "option_c": "Membrana plasmàtica-golgi-ribosomes-vesícula secreto-ria-RE rugós",
+    "option_d": "Ribosomes-RE rugós-golgi-vesícula secreto-ria-membrana plasmàtica",
+    "answer": "D",
+    "id": "high_school_biology/dev/2"
+  },
+  {
+    "instruction": "Una mostra de 0,217 g de HgO (massa molar = 217 g) reacciona amb excés d'ions iodur segons la reacció mostrada anteriorment. Quants mL de HCl 0,10 M es requereixen per arribar al punt d'equivalència en una valoració de la solució resultant?",
+    "option_a": "1,0 mL",
+    "option_b": "10 mL",
+    "option_c": "20 mL",
+    "option_d": "50 mL",
+    "answer": "C",
+    "id": "college_chemistry/dev/1"
+  },
+  {
+    "instruction": "Quina de les següents afirmacions NO és exacta sobre els serveis prestats pels governs locals als Estats Units?",
+    "option_a": "La duplicació d'esforços és freqüent.",
+    "option_b": "Els problemes socials de la ciutat central es desborden als suburbs residencials circumdants.",
+    "option_c": "La ineficiència en la prestació de serveis és freqüent.",
+    "option_d": "Els esforços d'un barri per reduir la contaminació sempre són recolzats per les comunitats veïnes.",
+    "answer": "D",
+    "id": "high_school_geography/dev/2"
+  },
+  {
+    "instruction": "Una llista de nombres té n elements, indexats de l'1 a n. L'algorisme següent té la intenció de mostrar el nombre d'elements de la llista que tenen un valor superior a 100. L'algorisme utilitza les variables 'count' i 'position'. Falten les passes 3 i 4.\n Pas 1: Estableix 'count' a 0 i 'position' a 1.\n Pas 2: Si el valor de l'element a l'índex 'position' és major que 100, augmenta el valor del 'count' en 1.\n Pas 3: (pas que falta)\n Pas 4: (pas que falta)\n Pas 5: Mostra el valor de 'count'.\n Quina de les següents opcions es podria utilitzar per reemplaçar els passos 3 i 4 perquè l'algorisme funcioni com és previst?",
+    "option_a": "Pas 3: Augmenta el valor de 'position' en 1.\n Pas 4: Repeteix els passos 2 i 3 fins que el valor de 'count' sigui major que 100.",
+    "option_b": "Pas 3: Augmenta el valor de 'position' en 1.\n Pas 4: Repeteix els passos 2 i 3 fins que el valor de 'position' sigui major que n.",
+    "option_c": "Pas 3: Repeteix el pas 2 fins que el valor de 'count' sigui major que 100.\n Pas 4: Augmenta el valor de 'position' en 1.",
+    "option_d": "Pas 3: Repeteix el pas 2 fins que el valor de 'position' sigui major que n.\n Pas 4: Augmenta el valor de 'count' en 1.",
+    "answer": "D",
+    "id": "high_school_computer_science/dev/4"
+  },
+  {
+    "instruction": "Quina de les següents és una característica morfològica dels paramixovirus?",
+    "option_a": "Virus fràgils sovint visualitzats amb ARN escampant-se des del seu interior",
+    "option_b": "Virus elongats",
+    "option_c": "Virus icosaedrics amb envoltori",
+    "option_d": "Virus molt grans",
+    "answer": "A",
+    "id": "virology/dev/1"
+  },
+  {
+    "instruction": "Carl Jung creia que la transferència d'un client:",
+    "option_a": "és una fantasia que distrau el client de la realitat.",
+    "option_b": "representa \"sentiments contradictoris\" cap al terapeuta.",
+    "option_c": "\"és una forma de\" \"actuar-ho en el terapeuta\".\"",
+    "option_d": "reflexa l'inconscient personal i col·lectiu del client.",
+    "answer": "D",
+    "id": "professional_psychology/dev/3"
+  },
+  {
+    "instruction": "La ____________ és tot allò que el teu cercador no pot cercar.",
+    "option_a": "Web encantada",
+    "option_b": "Xarxa Mundial",
+    "option_c": "Web Superficial",
+    "option_d": "Web Profunda",
+    "answer": "D",
+    "id": "computer_security/dev/4"
+  },
+  {
+    "instruction": "Quina de les següents expressions regulars és equivalent a (descriu el mateix conjunt de cadenes que) (a* + b)*(c + d)? ",
+    "option_a": "a*(c + d)+ b(c + d)",
+    "option_b": "a*(c + d)* + b(c + d)*",
+    "option_c": "a*(c + d)+ b*(c + d)",
+    "option_d": "(a + b)*c +(a + b)*d",
+    "answer": "D",
+    "id": "college_computer_science/dev/0"
+  },
+  {
+    "instruction": "Quin element del fum del tabac és el responsable del càncer?",
+    "option_a": "Nicotina",
+    "option_b": "Gudron",
+    "option_c": "Monòxid de carboni",
+    "option_d": "Partícules del fum",
+    "answer": "B",
+    "id": "human_aging/dev/3"
+  },
+  {
+    "instruction": "Un fotorreceptor de funció de treball ϕ = 2eV està connectat a un resistor en sèrie. Una llum de freqüència f = 1 × 10^15 Hz xoca contra una planxa metàl·lica del fotorreceptor. Si la potència de la llum és P = 100 W, quina és la corrent que passa pel resistor?",
+    "option_a": "2:00 AM",
+    "option_b": "6:00 AM",
+    "option_c": "12:00 AM",
+    "option_d": "24 A",
+    "answer": "D",
+    "id": "high_school_physics/dev/2"
+  },
+  {
+    "instruction": "Un pol punt té una força de 4π * 10^-4 webers. La força en newtons en un pol punt de 4π * 1,5 * 10^-4 webers situat a una distància de 10 cm serà",
+    "option_a": "15 N.",
+    "option_b": "20 N.",
+    "option_c": "7,5 N.",
+    "option_d": "3,75 N.",
+    "answer": "A",
+    "id": "electrical_engineering/dev/4"
+  },
+  {
+    "instruction": "Per què són els parvovirus un parasit altament impactant?",
+    "option_a": "Perquè no tenen àcid nucleic",
+    "option_b": "Necessiten un virus ajudant",
+    "option_c": "Només es repliquen en cèl·lules que es divideixen",
+    "option_d": "Poden integrar-se en els cromosomes de l'amfitrió",
+    "answer": "A",
+    "id": "virology/dev/0"
+  },
+  {
+    "instruction": "La població de la ciutat on va néixer Michelle és de 145.826 habitants. Quin és el valor del 5 en el número 145.826?",
+    "option_a": "5 milers",
+    "option_b": "5 centenes",
+    "option_c": "5 desenes",
+    "option_d": "5 unitats",
+    "answer": "A",
+    "id": "elementary_mathematics/dev/0"
+  },
+  {
+    "instruction": "Com pot expressar-se el consentiment d'un Estat a vincular-se?",
+    "option_a": "El consentiment d'un Estat a vincular-se s'expressa només per ratificació",
+    "option_b": "El consentiment d'un estat a vincular-se per un tractat pot expressar-se per signatura, ratificació, acceptació, aprovació o adhesió",
+    "option_c": "El consentiment d'un Estat a vincular-se s'expressa per signatura",
+    "option_d": "El consentiment d'un Estat a vincular-se s'expressa pel mitjà que triïn",
+    "answer": "B",
+    "id": "international_law/dev/4"
+  },
+  {
+    "instruction": "Considereu un disseny d'ordinador en què múltiples processadors, cadascun amb una memòria cau privada, comparteixen memòria global utilitzant un únic bus. Aquest bus és el recurs crític del sistema. Cada processador pot executar una instrucció cada 500 nanosegons sempre que les referències de memòria siguin satisfetes per la seva cau local. Quan es produeix una cau sense èxit, el processador es retarda durant 2.000 nanosegons addicionals. Durant la meitat d'aquest retard addicional, el bus està dedicat a servir la cau sense èxit. Durant l'altra meitat, el processador no pot continuar, però el bus està lliure per servir sol·licituds d'altres processadors. De mitjana, cada instrucció requereix 2 referències de memòria. De mitjana, els cau sense èxit es produeixen en el 1 per cent de referències. Quina proporció de la capacitat del bus consumiria un sol processador, ignorant les retards deguts a la competència d'altres processadors?",
+    "option_a": "1/50",
+    "option_b": "1/27",
+    "option_c": "1/25",
+    "option_d": "2/27",
+    "answer": "B",
+    "id": "college_computer_science/dev/4"
+  },
+  {
+    "instruction": "Olivia va fer servir la regla \"Afegir 11\" per crear el patró de nombres que es mostra a continuació. 10, 21, 32, 43, 54. Quina afirmació sobre el patró de nombres és certa?",
+    "option_a": "El número 10 en el patró serà un nombre parell.",
+    "option_b": "El patró de nombres mai tindrà dos nombres parells seguits.",
+    "option_c": "Els dos propers nombres del patró seran un nombre parell i després un nombre senar.",
+    "option_d": "Si el patró de nombres comencés amb un nombre senar, llavors el patró només tindria nombres senars.",
+    "answer": "B",
+    "id": "elementary_mathematics/dev/1"
+  },
+  {
+    "instruction": "La incertesa sobre els límits del poder presidencial es deu principalment al fet que",
+    "option_a": "la definició constitucional d'aquests poders és ampla i poc específica",
+    "option_b": "la majoria de la gent està d'acord que la Constitució imposa massa límits al poder presidencial",
+    "option_c": "el Tribunal Suprem constantment es nega a pronunciar-se sobre casos relacionats amb els poders presidencials",
+    "option_d": "les esmenes constitucionals han augmentat enormement els poders presidencials",
+    "answer": "A",
+    "id": "high_school_government_and_politics/dev/0"
+  },
+  {
+    "instruction": "Quin dels següents aspectes no és un problema associat a les estadístiques oficials sobre les vagues?",
+    "option_a": "la majoria de les vagues passen desapercebudes pels empleadors i els mitjans de comunicació",
+    "option_b": "no totes les disputes laborals seran reportades per l'empleador",
+    "option_c": "la definició de vaga exclou aquelles que involveixen menys de deu treballadors o duren menys d'un dia",
+    "option_d": "és difícil comparar les vagues que van ser mesurades de diferents maneres",
+    "answer": "A",
+    "id": "sociology/dev/4"
+  },
+  {
+    "instruction": "Una dona que sap que té herpes actiu i sífilis no tractada però continua tenint relacions sexuals sense informar els seus cònjuges de la seva condició té, en termes psicoanalítics:",
+    "option_a": "un ego fort",
+    "option_b": "un superego dèbil",
+    "option_c": "un id dèbil",
+    "option_d": "un superego fort",
+    "answer": "B",
+    "id": "human_sexuality/dev/1"
+  },
+  {
+    "instruction": "Quina de les afirmacions següents sobre els departaments de gabinet és FALSA?",
+    "option_a": "Són establerts pel poder legislatiu.",
+    "option_b": "Els seus membres sovint no tenen molta influència en les decisions presidencials.",
+    "option_c": "No tots els departaments poden ser dirigits per líders del mateix partit polític del president.",
+    "option_d": "No totes les agències federals són departaments de gabinet.",
+    "answer": "C",
+    "id": "high_school_government_and_politics/dev/3"
+  },
+  {
+    "instruction": "Selecciona la millor interpretació en anglès dels arguments donats en la lògica de predicats.\nDm\n(∀x)(Wx ⊃ ~Dx)\n(∀x)Wx ∨ Ag\t/ (∃x)Ax",
+    "option_a": "Marina és una ballarina. Alguns debilitats no són ballarins. O bé tots són debilitats o Geòrgia juga a voleibol. Així que alguna cosa juga a voleibol.",
+    "option_b": "Marina és una ballarina. Cap debilitat és ballarí. Tot és o bé una debilitat o juga a voleibol. Així que alguna cosa juga a voleibol.",
+    "option_c": "Marina és una ballarina. Alguns debilitats no són ballarins. Tot és o bé una debilitat o juga a voleibol. Així que alguna cosa juga a voleibol.",
+    "option_d": "Marina és una ballarina. Cap debilitat és ballarí. O bé tots són debilitats o Geòrgia juga a voleibol. Així que alguna cosa juga a voleibol.",
+    "answer": "D",
+    "id": "formal_logic/dev/2"
+  },
+  {
+    "instruction": "La bobina d'un amperímetre de bobina mòbil té 100 voltes, té una longitud de 40 mm i una amplada de 30 mm. El parell de control és de 240 * 10-6 N-m a escala completa. Si la densitat de flux magnètic és de 1 Wb/m2, el rang del metre és",
+    "option_a": "1 mA.",
+    "option_b": "2 mA.",
+    "option_c": "3 mA.",
+    "option_d": "4 mA.",
+    "answer": "B",
+    "id": "electrical_engineering/dev/2"
+  },
+  {
+    "instruction": "Una certa màquina RISC pipeline té 8 registres generals R0, R1, ..., R7 i admet les següents operacions.\nADD Rs1, Rs2, Rd Afegiu Rs1 a Rs2 i poseu la suma a Rd\nMUL Rs1, Rs2, Rd Multipliqueu Rs1 per Rs2 i poseu el producte a Rd\nUna operació normalment triga un cicle; no obstant, una operació triga dos cicles si produeix un resultat requerit per la immediata operació següent en una seqüència d'operacions. Considereu l'expressió AB + ABC + BC, on les variables A, B, C es troben als registres R0, R1, R2. Si els continguts d'aquests tres registres no han de ser modificats, quin és el nombre mínim de cicles d'rellotge que es requereixen per a una seqüència d'operacions que calcula el valor de AB + ABC + BC?",
+    "option_a": "5",
+    "option_b": "6",
+    "option_c": "7",
+    "option_d": "8",
+    "answer": "B",
+    "id": "college_computer_science/dev/1"
+  },
+  {
+    "instruction": "Per què Mart és vermell?",
+    "option_a": "Perquè la superfície està coberta amb minerals molt oxidats (\"enferruginats\").",
+    "option_b": "Perquè l'atmosfera dispersa més llum en longituds d'ona blaus, transmetent principalment llum vermella.",
+    "option_c": "Perquè Mart està cobert amb colades de lava antigues que són de color vermell.",
+    "option_d": "Perquè l'aigua fluida que hi havia a la superfície de Mart va alterar els minerals de la superfície fa diversos mil milions d'anys.",
+    "answer": "A",
+    "id": "astronomy/dev/4"
+  },
+  {
+    "instruction": "El patró de disseny Singleton s'utilitza per garantir que només es pugui instanciar una única instància d'una classe. Quina(s) de les següents afirmacions són certes per aquest patró de disseny?\nI. La classe Singleton té un mètode estàtic de fàbrica per proporcionar la seva instància.\nII. La classe Singleton pot ser una subclasse d'una altra classe.\nIII. La classe Singleton té un constructor privat.",
+    "option_a": "Només I",
+    "option_b": "Només II",
+    "option_c": "Només III",
+    "option_d": "I, II i III",
+    "answer": "D",
+    "id": "college_computer_science/dev/2"
+  },
+  {
+    "instruction": "Com diferencien Realisme Defensiu i Realisme Ofensiu en l'explicació del comportament de l'estat?",
+    "option_a": "Els realistes defensius posen més èmfasi en el paper de les institucions internacionals",
+    "option_b": "Els realistes defensius posen menys èmfasi en els factors geogràfics",
+    "option_c": "Els realistes ofensius donen més prioritat a l'interès nacional que els realistes defensius.",
+    "option_d": "Els realistes defensius creuen que els estats maximitzen la seguretat, mentre que els realistes ofensius creuen que els estats maximitzen el poder",
+    "answer": "D",
+    "id": "us_foreign_policy/dev/3"
+  },
+  {
+    "instruction": "Un auditor segueix els números de sèrie de l'equipament en el subllibre d'un no emissor. Quina de les següents afirmacions de direcció està sostinguda per aquesta prova?",
+    "option_a": "Valoració i assignació",
+    "option_b": "Integritat",
+    "option_c": "Drets i obligacions",
+    "option_d": "Presentació i divulgació",
+    "answer": "B",
+    "id": "professional_accounting/dev/4"
+  },
+  {
+    "instruction": "Digues que l'alumne del teu ull té un diàmetre de 5 mm i que tens un telescopi amb una obertura de 50 cm. Quanta més llum pot recollir el telescopi que els teus ulls?",
+    "option_a": "10000 vegades més",
+    "option_b": "100 vegades més",
+    "option_c": "1000 vegades més",
+    "option_d": "10 vegades més",
+    "answer": "A",
+    "id": "astronomy/dev/2"
+  },
+  {
+    "instruction": "Les estructures homòlogues són sovint citades com a evidència del procés de selecció natural. Totes les següents són exemples d'estructures homòlogues EXCLOENT",
+    "option_a": "les ales d'un ocell i les ales d'un ratpenat",
+    "option_b": "les aletes d'una balena i els braços d'un home",
+    "option_c": "les aletes pectorals d'una marsopa i les aletes d'un lleó marí",
+    "option_d": "les potes anteriors d'un insecte i les extremitats anteriors d'un gos",
+    "answer": "D",
+    "id": "high_school_biology/dev/4"
+  },
+  {
+    "instruction": "Quina de les següents parelles d'afirmacions són totes dues veritables (a partir del 2019)?",
+    "option_a": "La gent sol ser optimista pel que fa al seu futur i al futur de la seva nació o el món.",
+    "option_b": "La gent sol ser optimista pel que fa al seu futur, però pessimista pel que fa al futur de la seva nació o el món.",
+    "option_c": "La gent sol ser pessimista pel que fa al seu futur, però optimista pel que fa al futur de la seva nació o el món.",
+    "option_d": "La gent sol ser pessimista pel que fa al seu futur i al futur de la seva nació o el món.",
+    "answer": "B",
+    "id": "global_facts/dev/0"
+  },
+  {
+    "instruction": "Un dipòsit conté inicialment una solució salina de 3 grams de sal dissolta en 100 litres d'aigua. Una solució salina que conté 0,02 grams de sal per litre d'aigua s'atomitza dins el dipòsit a una taxa de 4 litres per minut. La solució atomitzada es mescla continuament amb la solució salina del dipòsit i la barreja surt del dipòsit a una taxa de 4 litres per minut. Si la mescla és instantània, quants grams de sal hi ha al dipòsit després de 100 minuts?",
+    "option_a": "2",
+    "option_b": "2 - e^-2",
+    "option_c": "2 + e^-2",
+    "option_d": "2 + e^-4",
+    "answer": "D",
+    "id": "college_mathematics/dev/1"
+  },
+  {
+    "instruction": "Un dels teus clients de teràpia et demana consell sobre un bon programa de reducció de pes. Has investigat els programes a la comunitat i estàs matriculat en el que consideres que és el millor. Aquest programa ofereix una bonificació de 50 dòlars als seus clients per cada nova persona que portin al programa. En aquestes circumstàncies, la teva resposta més apropiada seria",
+    "option_a": "explicar al teu client els pros i contres de cada programa que coneixes excepte pel que estàs matriculat",
+    "option_b": "recomanar al teu client el programa en què estàs matriculat i explicar la bonificació de 50 dòlars que rebràs",
+    "option_c": "recomanar al teu client el programa en què estàs matriculat i oferir que la bonificació de 50 dòlars es crediti en el compte del teu client en el programa",
+    "option_d": "explicar al teu client els pros i contres de cada programa que coneixes, però no reclamar la bonificació de 50 dòlars si el teu client es matricula en el teu programa",
+    "answer": "D",
+    "id": "professional_psychology/dev/0"
+  },
+  {
+    "instruction": "Què és cert d'un sostre de preus?",
+    "option_a": "El sostre de preus desplaça la corba de la demanda cap a l'esquerra.",
+    "option_b": "Un sostre efectiu crea una escassetat del bé.",
+    "option_c": "El sostre de preus desplaça la corba d'oferta cap a la dreta.",
+    "option_d": "Per ser un sostre efectiu, ha de ser establert per sobre del preu d'equilibri.",
+    "answer": "D",
+    "id": "high_school_microeconomics/dev/3"
+  },
+  {
+    "instruction": "Quina de les fórmules de PL donades és la millor simbolització de la següent frase?\nLes tortugues viuen vides llargues i són criatures feliços, llevat que estiguin ferides.",
+    "option_a": "(L • F) ≡ F",
+    "option_b": "(L • F) ∨ F",
+    "option_c": "L • (F ∨ I)",
+    "option_d": "L • (F ⊃ R)",
+    "answer": "B",
+    "id": "formal_logic/dev/4"
+  },
+  {
+    "instruction": "L'estudi de la realitat en el sentit més ampli, una recerca sobre la natura elemental de l'univers i les coses que hi ha, es coneix com a _____.",
+    "option_a": "metafísica",
+    "option_b": "epistemologia",
+    "option_c": "física quàntica",
+    "option_d": "axiologia",
+    "answer": "A",
+    "id": "philosophy/dev/4"
+  },
+  {
+    "instruction": "La escola de jurisprudència de la ________ postula que el dret es basa en el que és \"correcte\".",
+    "option_a": "Llei natural",
+    "option_b": "Analítica",
+    "option_c": "Històrica",
+    "option_d": "Sociològica",
+    "answer": "A",
+    "id": "jurisprudence/dev/3"
+  },
+  {
+    "instruction": "A partir de 2019, quin percentatge de russos diuen que és molt important tenir mitjans de comunicació lliures al nostre país sense censura del govern / estat?",
+    "option_a": "38%",
+    "option_b": "53%",
+    "option_c": "68%",
+    "option_d": "83%",
+    "answer": "A",
+    "id": "global_facts/dev/3"
+  },
+  {
+    "instruction": "En una organització, el grup de persones encarregades de les decisions de compra s'anomena _______________.",
+    "option_a": "Unitat d'externalització.",
+    "option_b": "Centre de compres.",
+    "option_c": "Unitat executiva principal.",
+    "option_d": "Unitat de presa de decisions.",
+    "answer": "D",
+    "id": "marketing/dev/1"
+  },
+  {
+    "instruction": "Quines serien les consequències per a l'estimador OLS si hi ha heteroscedasticitat en un model de regressió però s'ignora?",
+    "option_a": "Serà biaixat",
+    "option_b": "No serà consistent",
+    "option_c": "No serà eficient",
+    "option_d": "Totes les (a), (b) i (c) seran certs.",
+    "answer": "C",
+    "id": "econometrics/dev/3"
+  },
+  {
+    "instruction": "Quin és el signe de l'aliança pels homes jueus?",
+    "option_a": "L'arc de sant Martí",
+    "option_b": "La circumsició",
+    "option_c": "Un fill",
+    "option_d": "Bar mitsvà",
+    "answer": "B",
+    "id": "world_religions/dev/0"
+  },
+  {
+    "instruction": "Si algú ataca el personatge d'un argumentador oponent, en lloc de respondre als arguments d'aquell oponent, la primera persona probablement ha comès quina de les fal·làcies següents?",
+    "option_a": "tu quoque",
+    "option_b": "rissada despectiva",
+    "option_c": "argument contra la persona",
+    "option_d": "ignoratio elenchi",
+    "answer": "C",
+    "id": "logical_fallacies/dev/0"
+  },
+  {
+    "instruction": "Construeix una taula de veritat completa per als següents parells de proposicions. Després, fent servir les taules de veritat, determina si les afirmacions són lògicament equivalents o contradictòries. Si no són ni una cosa ni l'altra, determina si són consistents o no consistents. Justifica les teves respostes. \nE ⊃ (F · E) i ~E · F",
+    "option_a": "Lògicament equivalents",
+    "option_b": "Contradictoris",
+    "option_c": "Ni lògicament equivalents ni contradictoris, però consistents",
+    "option_d": "No consistents",
+    "answer": "C",
+    "id": "formal_logic/dev/3"
+  },
+  {
+    "instruction": "Quin dels següents no es coneix que estigui involucrat en el control de la divisió cel·lular?",
+    "option_a": "Cíclics",
+    "option_b": "Quinases de proteïnes",
+    "option_c": "Punts de control",
+    "option_d": "Cèl·lules de fibroblasts",
+    "answer": "D",
+    "id": "high_school_biology/dev/3"
+  },
+  {
+    "instruction": "Sigui A una matriu real 2x2. Quina de les següents afirmacions ha de ser certa?\r\nI. Totes les entrades de A^2 són no negatives.\r\nII. El determinant de A^2 és no negatiu.\r\nIII. Si A té dos valors propis diferents, llavors A^2 té dos valors propis diferents.",
+    "option_a": "Només I",
+    "option_b": "Només II",
+    "option_c": "Només III",
+    "option_d": "Només II i III",
+    "answer": "B",
+    "id": "college_mathematics/dev/2"
+  },
+  {
+    "instruction": "Estàs empentant un camió per un carrer. Seria més fàcil accelerar aquest camió a Mart? Per què? (Assumeix que no hi ha fricció)",
+    "option_a": "Seria més difícil perquè el camió pesa més a Mart.",
+    "option_b": "Seria més fàcil perquè el camió pesa menys a Mart.",
+    "option_c": "Seria més difícil perquè el camió pesa menys a Mart.",
+    "option_d": "Seria igual en qualsevol lloc on estiguis.",
+    "answer": "D",
+    "id": "astronomy/dev/0"
+  },
+  {
+    "instruction": "Quina posició afirma Rawls que és la menys probable que sigui adoptada pel POP (persones en la posició original)?",
+    "option_a": "El POP triaria la igualtat per sobre de la llibertat.",
+    "option_b": "El POP optaria per la estratègia del 'maximin'.",
+    "option_c": "El POP optaria pel 'principi de la diferència'.",
+    "option_d": "El POP rebutjaria el 'sistema de llibertat natural'.",
+    "answer": "A",
+    "id": "jurisprudence/dev/0"
+  },
+  {
+    "instruction": "Per a un procés autorregressiu estacionari, els xocs",
+    "option_a": "Finalment desapareixeran",
+    "option_b": "Persistiran indefinidament",
+    "option_c": "Crecran exponencialment",
+    "option_d": "Mai ocorreran",
+    "answer": "A",
+    "id": "econometrics/dev/0"
+  },
+  {
+    "instruction": "Es produeix un dèficit federal quan",
+    "option_a": "les exportacions excedeixen les importacions.",
+    "option_b": "les importacions excedeixen les exportacions.",
+    "option_c": "les recaptacions fiscals federals excedeixen les despeses.",
+    "option_d": "les despeses federals excedeixen els ingressos fiscals federals.",
+    "answer": "D",
+    "id": "high_school_macroeconomics/dev/2"
+  },
+  {
+    "instruction": "Com es poden descriure les estructures organitzatives que es caracteritzen per estils de gestió democràtics i inclusius?",
+    "option_a": "Jeràrquic",
+    "option_b": "Burocràtic",
+    "option_c": "Plana",
+    "option_d": "Funcional",
+    "answer": "C",
+    "id": "management/dev/4"
+  },
+  {
+    "instruction": "En una prova genètica d'un nen nou nascut, es detecta una rara malaltia genètica que té una transmissió recessiva lligada al cromosoma X. Quina de les següents afirmacions és probablement certa respecte del pedigrí d'aquesta malaltia?",
+    "option_a": "Tots els descendents del costat matern tindran la malaltia.",
+    "option_b": "Les femelles seran aproximadament dues vegades més afectades que els mascles en aquesta família.",
+    "option_c": "Totes les filles d'un home afectat estaran afectades.",
+    "option_d": "Hi haurà una distribució igual de mascles i femelles afectades.",
+    "answer": "C",
+    "id": "college_medicine/dev/2"
+  },
+  {
+    "instruction": "Segons el coneixement mèdic del 2020, quants intents s'haurien de fer per a cannul·lar un pacient abans de passar la feina a un col·lega sènior?",
+    "option_a": "4",
+    "option_b": "3",
+    "option_c": "2",
+    "option_d": "1",
+    "answer": "C",
+    "id": "clinical_knowledge/dev/3"
+  },
+  {
+    "instruction": "Per a quin dels dos escenaris el protagonista (que usa jo/meu) fa alguna cosa clarament immoral, segons els estàndards morals habituals als Estats Units del 2020? Escenari 1 | Realment estimava el meu fill nadó. Escenari 2 | La noia nova té vergonya de viure en un parc de remolcs, així que convido la classe a casa seva.",
+    "option_a": "Incorrecte, Incorrecte",
+    "option_b": "Incorrecte, No incorrecte",
+    "option_c": "No incorrecte, Incorrecte",
+    "option_d": "No incorrecte, No incorrecte",
+    "answer": "C",
+    "id": "moral_scenarios/dev/0"
+  },
+  {
+    "instruction": "Què distingeix la diplomàcia coercitiva de la força militar?",
+    "option_a": "Compel·lència és un altre terme per a la diplomàcia coercitiva, però el seu ús és més limitat; la compel·lència cobreix les amenaces que estan destinades a iniciar accions adversaries. Una amença per a obligar un estat a cedir part del seu territori comptaria com a diplomàcia coercitiva, sempre que aquesta amenaça iniciï proactivament la acció abans de prendre's accions reactives.",
+    "option_b": "La diplomàcia coercitiva consisteix en amenaces de força limitada per induir als adversaries a complir amb les demandes del coactor. És una estratègia d'influència destinada a obtenir conformitat: l'ús de la força per derrotar un oponent primer no es compta. Deixa un element de decisió amb el destinatari de complir o continuar.",
+    "option_c": "La força militar, o l'amenaça de força militar, utiliza la por per aconseguir objectius estratègics. La diplomàcia coercitiva es diferencia d'aquest enfocament perquè no utilitza la por com a eina per a coaccionar un adversary.",
+    "option_d": "La diplomàcia coercitiva es fa servir per utilitzar la força però per limitar els seus efectes en la comunitat internacional. És una estratègia agressiva destinada a obtenir conformitat a través de la derrota. No deixa cap element de decisió amb el destinatari, el destinatari està obligat a complir o entrar en conflicte. Cerca controlar imposant la conformitat per eliminar qualsevol oportunitat de negociació o concessió.",
+    "answer": "B",
+    "id": "security_studies/dev/0"
+  },
+  {
+    "instruction": "La fal·làcia de la pregunta complexa consisteix en",
+    "option_a": "argumentar que alguna cosa és inferior només perquè no fa alguna cosa per la qual mai va ser dissenyada per fer.",
+    "option_b": "incloure més d'una afirmació en la proposició i tractar la prova d'una afirmació com a prova de totes les afirmacions.",
+    "option_c": "treure'n una conclusió abans d'examinar les proves i considerar només les proves que la sostenen.",
+    "option_d": "fer una pregunta que inclou o bé una suposició sense provar o bé més d'una pregunta, fent que una resposta senzilla de sí o no sigui sense sentit.",
+    "answer": "D",
+    "id": "logical_fallacies/dev/1"
+  },
+  {
+    "instruction": "Com podem descriure millor la relació entre l'enfocament centrat en l'estat i el concepte de seguretat humana?",
+    "option_a": "Hi ha unes divisions tan amplis dins del marc de la seguretat humana pel que fa a la naturalesa de les amenaces i els objectes de referència que no es poden establir comparacions àmplies entre l'enfocament centrat en l'estat i la seguretat humana.",
+    "option_b": "En adoptar el marc de la seguretat humana, les limitacions de l'enfocament realista centrat en l'estat esdevé evident. Mentrestant, la seguretat humana defineix l'objecte de referència com la persona o la població i els enfocaments centrats en l'estat prioritzen la seguretat de l'estat, degradant la cerca de seguretat humana.",
+    "option_c": "L'enfocament centrat en l'estat de la seguretat és una facció de la seguretat humana, generalment definida dins de l'àmplia escola de la seguretat humana. Siendo estatocéntrico este enfoque prioriza al individuo como objeto de referencia en estudios de seguridad.",
+    "option_d": "Tant l'enfocament centrat en l'estat com l'enfocament centrat en les persones són mutuament exclusius I ofrecen un marc analític suficient per entendre el sistema de seguretat internacional. Per tant, és el paper dels analistes de seguretat determinar quin d'aquests conceptes substancials és correcte i quin s'ha de descartar.",
+    "answer": "B",
+    "id": "security_studies/dev/3"
+  },
+  {
+    "instruction": "Un total de 30 jugadors jugaran a bàsquet en un parc. Hi haurà exactament 5 jugadors en cada equip. Quina afirmació explica correctament com trobar el nombre d'equips necessaris?",
+    "option_a": "Suma 5 a 30 per trobar 35 equips.",
+    "option_b": "Divideix 30 entre 5 per trobar 6 equips.",
+    "option_c": "Multiplica 30 i 5 per trobar 150 equips.",
+    "option_d": "Resta 5 de 30 per trobar 25 equips.",
+    "answer": "B",
+    "id": "elementary_mathematics/dev/2"
+  },
+  {
+    "instruction": "Quina de les següents és un exemple d'ús d'un dispositiu a internet de les coses (IoT)?",
+    "option_a": "Un cotxe alerta al conductor que està a punt de col·lidir amb un objecte.",
+    "option_b": "Un excursionista utilitza un rellotge GPS per mantenir un seguiment de la seva posició.",
+    "option_c": "Un refrigerador demana llet d'un servei de lliurament en línia quan la llet del refrigerador s'està acabant.",
+    "option_d": "Un corredor utilitza un rellotge amb sensors òptics per controlar el seu ritme cardíac.",
+    "answer": "C",
+    "id": "high_school_computer_science/dev/0"
+  },
+  {
+    "instruction": "Aquesta pregunta es refereix a la següent informació.\nConté tots els treballs i les desitjos i tots els perfums i tots els gustos. Envolta tot l'univers i en silenci és amorós amb tothom. Aquest és l'esperit que hi ha al meu cor, això és Brahman. Aniré a ell quan vagi més enllà d'aquesta vida, i ell vindrà a qui té fe i no dubta.\n—Els Upanishads, Índia, c. 1000 aC\nA quina religió pertany més probablement el ponent?",
+    "option_a": "L'hinduisme",
+    "option_b": "El budisme",
+    "option_c": "El xintoisme",
+    "option_d": "El zoroastrisme",
+    "answer": "A",
+    "id": "high_school_world_history/dev/0"
+  },
+  {
+    "instruction": "Tradicionalment, quan tenim una entrada d'atribut de valor real durant l'aprenentatge d'un arbre de decisions considerem una divisió binària segons si l'atribut és superior o inferior a un cert llindar. Pat suggereix que hauríem de tenir una divisió multiway amb una branca per a cada un dels valors distints de l'atribut. De la llista següent, trieu el problema més gran amb la suggerència de Pat:",
+    "option_a": "És massa car en termes de càlcul computacional.",
+    "option_b": "Probablement donaria lloc a un arbre de decisions que obté una puntuació baixa en el conjunt d'entrenament i en el conjunt de prova.",
+    "option_c": "Probablement donaria lloc a un arbre de decisions que obté una puntuació alta en el conjunt d'entrenament però baixa en el conjunt de prova.",
+    "option_d": "Probablement donaria lloc a un arbre de decisions que obté una puntuació alta en el conjunt de prova però baixa en el conjunt d'entrenament.",
+    "answer": "C",
+    "id": "machine_learning/dev/4"
+  }
+]

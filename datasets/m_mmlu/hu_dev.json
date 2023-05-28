@@ -1,0 +1,2504 @@
+[
+  {
+    "instruction": "Tekintsük az alábbi AR(1) modellt, ahol a zajoknak középértéke nulla, a varianciája pedig egység:\n\nyt = 0,2 + 0,4 yt-1 + ut\n\ny feltételes várható értéke:",
+    "option_a": "0,2",
+    "option_b": "0,4",
+    "option_c": "0,5",
+    "option_d": "0,33",
+    "answer": "D",
+    "id": "econometrics/dev/1"
+  },
+  {
+    "instruction": "Egy 42 éves férfi előzetes vizsgálatra jön az adrenalektómia előtt, amely két héten belül lesz esedékes. Egy hónapja a mentőosztályon fájdalmat érzett a jobb oldali oldalsó részén egy közlekedési balesetet követően. Ekkor a vérnyomása 160/100 Hgmm volt, CT vizsgálat pedig egy mellékesen észlelt 10 cm-es balra eső mellékvese-masszát mutatott. A laboratóriumi vizsgálatok eredményei, beleértve a teljes vérképet, a szérum elektrolit koncentrációkat és a májfunkciós teszteket a referencia értékeken belül voltak. A beteg egyébként egészséges volt és sosem mondták neki, hogy magas vérnyomása van. Nem szed gyógyszereket. Két héttel ezelőtt az orvosi rendelőben a következőket mutatták ki: megemelkedett húgyúti normetanefrin és metanefrin szintje, valamint plazma aldoszteron koncentrációja. Az orvos sebészhez irányította a beteget, aki az adrenalektómiát javasolta. Ma az alábbiakat figyelték meg: testhőmérséklet 36,6°C (97,9°F), pulzus 100/perc, légzésszám 14/perc, vérnyomás 170/95 Hgmm. A fizikai vizsgálat nem adott jelentős eredményt. Az elsődleges előkészítés a műtét előtt a következő kezelést kell tartalmazza:",
+    "option_a": "Labetalol",
+    "option_b": "Egy töltő dózisú kálium-klorid",
+    "option_c": "Nifedipin",
+    "option_d": "Phenoxybenzamin",
+    "answer": "D",
+    "id": "professional_medicine/dev/0"
+  },
+  {
+    "instruction": "Moore “ideális utilitarizmusa” értelmében a helyes cselekedet az, amely a legnagyobb mennyiségű",
+    "option_a": "örömöt",
+    "option_b": "boldogságot",
+    "option_c": "jót",
+    "option_d": "erkölcsösséget",
+    "answer": "C",
+    "id": "philosophy/dev/1"
+  },
+  {
+    "instruction": "Melyik az alábbiak közül nem szerepel az amerikai GDP-ben?",
+    "option_a": "Az amerikai katonaság új bázist nyit egy külföldi országban 1000 amerikai személyzettel.",
+    "option_b": "Japán fogyasztói ezreket vásárolnak CD-ket, amik az Egyesült Államokban készültek.",
+    "option_c": "Egy amerikai popsztár telt házas koncertet ad Párizsban.",
+    "option_d": "Egy francia színházi előadás bejárja tucatnyi amerikai várost.",
+    "answer": "C",
+    "id": "high_school_macroeconomics/dev/0"
+  },
+  {
+    "instruction": "Melyik állítás igaz a Vatikánra 2010-ben a gyermekmolesztálás-okozta titkolózás vádjaira vonatkozóan?",
+    "option_a": "Volt egy összehangolt média reakció.",
+    "option_b": "Következetes üzeneteket közöltek.",
+    "option_c": "A kritikákat támadásnak tekintették a katolikus egyház ellen.",
+    "option_d": "A Vatikán hitelessége megmaradt.",
+    "answer": "C",
+    "id": "public_relations/dev/2"
+  },
+  {
+    "instruction": "Tegyük fel, hogy egy teszthatárhoz 0,08 p-érték társul. Melyik az alábbi állítások közül igaz?\n\n(i) Ha a teszt mérete pontosan 8% lenne, közömbösek lennénk abban, hogy elutasítjuk-e vagy nem utasítjuk el a nullhipotézist.\n\n(ii) A nullhipotézis elutasításra kerülne, ha a teszt mérete 10% lenne.\n\n(iii) A nullhipotézis nem kerülne elutasításra, ha a teszt mérete 1% lenne.\n\n(iv) A nullhipotézis elutasításra kerülne, ha a teszt mérete 5% lenne.",
+    "option_a": "csak (ii) és (iv)",
+    "option_b": "csak (i) és (iii)",
+    "option_c": "(i), (ii) és (iii)",
+    "option_d": "(i), (ii), (iii) és (iv)",
+    "answer": "C",
+    "id": "econometrics/dev/2"
+  },
+  {
+    "instruction": "Amikor egy érvelő a cáfolat során valódi vagy látszólagos képtelenség miatt okoz zavart, az érvelő a következő félrevezető eljárások egyikét alkalmazhatta:",
+    "option_a": "rossz sportszerűség",
+    "option_b": "könyörgés",
+    "option_c": "személy elleni érvelés",
+    "option_d": "cáfolat hiánya",
+    "answer": "D",
+    "id": "logical_fallacies/dev/4"
+  },
+  {
+    "instruction": "Ez a kérdés az alábbi információkra vonatkozik. \n\"A munkás valós sérelme az életbizonytalansága; nem biztos abban, hogy mindig lesz munkája, nem biztos abban sem, hogy mindig egészséges lesz, előre látja, hogy majd egyszer öreg és alkalmatlanná válik a munkára. Ha szegénységbe esik, még ha hosszan tartó betegség miatt is, akkor teljesen tehetetlenné válik, és társadalom jelenleg nem ismer el reális kötelezettséget vele szemben, csak a szegények szokásos segítése által, még akkor is, ha mindvégig rendkívül hű és szorgalmas volt a munkájában. A szegényeknek szokásos segítésének azonban sok kívánnivalót hagy maga után, különösen nagy városokban, ahol sokkal rosszabb, mint a vidéken.\"\nOtto von Bismarck, 1884\nOtto von Bismarck valószínűleg melyik problémára reagált e beszédével?",
+    "option_a": "A gyermekmunka társadalmi elfogadására",
+    "option_b": "Az élettartam csökkenésére Németországban",
+    "option_c": "Kritikákra a német kereskedelmi vámokkal szemben",
+    "option_d": "Negatív hatásokra, amelyeket az ipari kapitalizmusnak tulajdonítanak",
+    "answer": "D",
+    "id": "high_school_world_history/dev/2"
+  },
+  {
+    "instruction": "Melyik Japán kormány támogatta a császárral és a kami-jelentéssel való kapcsolata alapján létrehozott nemzeti kultuszt?",
+    "option_a": "Honen",
+    "option_b": "Tanaka",
+    "option_c": "Tokugawa",
+    "option_d": "Meiji",
+    "answer": "D",
+    "id": "world_religions/dev/3"
+  },
+  {
+    "instruction": "Melyik lencsén keresztül érdemes a gyermek katonák szerepét vizsgálni?",
+    "option_a": "A gyermek katonák áldozatai a harcnak, akiknek újra kell képezni és rehabilitálni őket.",
+    "option_b": "A gyermekek és anyáik nem aktív szereplői a háborúnak, inkább a magánéleti szférában kell őket vizsgálni.",
+    "option_c": "A gyermekek leggyakrabban ártatlan szemtanúk a háborúban és legjobban a béke jelképeiként használhatóak.",
+    "option_d": "A gyermekek politikai alanyi jogai elvesznek, ha csak áldozatként tekintünk rájuk a háborúban.",
+    "answer": "D",
+    "id": "security_studies/dev/1"
+  },
+  {
+    "instruction": "Az összes izomösszehúzódás energiaellátását az alábbi biztosítja:",
+    "option_a": "ATP.",
+    "option_b": "ADP.",
+    "option_c": "foszfokreatin.",
+    "option_d": "oxidatív foszforiláció.",
+    "answer": "A",
+    "id": "clinical_knowledge/dev/0"
+  },
+  {
+    "instruction": "Az egyetlen vállalat koncentrációs aránya",
+    "option_a": "0",
+    "option_b": "5",
+    "option_c": "10",
+    "option_d": "100",
+    "answer": "D",
+    "id": "high_school_microeconomics/dev/2"
+  },
+  {
+    "instruction": "Egy adott populációban az emberek 1/400-a szenved recesszív b gén okozta ráktól. Feltéve, hogy a populáció Hardy-Weinberg egyensúlyban van, melyik azoknak a várható aránya, akik hordozzák a b gént, de nem várható tőlük a rák kialakulása?",
+    "option_a": "1/400",
+    "option_b": "19/400",
+    "option_c": "20/400",
+    "option_d": "38/400",
+    "answer": "D",
+    "id": "college_biology/dev/1"
+  },
+  {
+    "instruction": "Ha az idősebb felnőttek nyugdíj után új államba költöznek, akkor melyik a valószínűbb célállomás az alábbiak közül?",
+    "option_a": "Texas",
+    "option_b": "California",
+    "option_c": "Hawaii",
+    "option_d": "Vermont",
+    "answer": "A",
+    "id": "human_aging/dev/2"
+  },
+  {
+    "instruction": "Ki az NBA-s karrierje során valaha legkisebb játékos, aki megnyerte az NBA zsákolóversenyt?",
+    "option_a": "Anthony 'Spud' Webb",
+    "option_b": "Michael 'Air' Jordan",
+    "option_c": "Tyrone 'Muggsy' Bogues",
+    "option_d": "Julius 'Dr J' Erving",
+    "answer": "A",
+    "id": "miscellaneous/dev/2"
+  },
+  {
+    "instruction": "Egy oldat 2,00 mol ecetsavat, CH3COOH-t és 1,00 mol kalcium-acetátot, Ca(CH3COO)2-t tartalmaz. Az oldat képes ellenállni egy kis mennyiségű erős sav vagy erős bázis hozzáadására, csak minimális változásokat okozva az oldat pH-jában. Nagyobb mennyiségű erős sav vagy erős bázis jelentős pH-változást okozhat. Hány mol salétromsav, HNO3 adható hozzá, mielőtt a pH jelentősen megváltozna?",
+    "option_a": "0,500 mol",
+    "option_b": "1,00 mol",
+    "option_c": "2,00 mol",
+    "option_d": "3,00 mol",
+    "answer": "C",
+    "id": "high_school_chemistry/dev/4"
+  },
+  {
+    "instruction": "A Heartbleed hiba kihasználása lehetővé teszi",
+    "option_a": "titkosítási kulcsok felülírását a memóriában",
+    "option_b": "egyfajta kódinjekciót",
+    "option_c": "egy buffer határain kívüli olvasást",
+    "option_d": "formátum string támadást",
+    "answer": "C",
+    "id": "computer_security/dev/3"
+  },
+  {
+    "instruction": "Mi az a DNS ligáz?",
+    "option_a": "Egy enzim, amely összeköti a darabokat a normál DNS-replikáció során.",
+    "option_b": "Egy baktériumokból származó enzim, amely meghatározott bázissorozatokat vág el a DNS-ben.",
+    "option_c": "Egy enzim, amely elősegíti bizonyos gének transzkripcióját.",
+    "option_d": "Egy enzim, amely korlátozza egy adott tápanyag szintjét.",
+    "answer": "A",
+    "id": "medical_genetics/dev/1"
+  },
+  {
+    "instruction": "A 'hegemónia' kifejezés arra utal, hogy:",
+    "option_a": "a munkásosztálynak van egy hajlama arra, hogy ne ismerjék fel a saját érdekeiket",
+    "option_b": "egy uralkodó ideológia, amely legitimitást ad az gazdasági, politikai és kulturális hatalomnak",
+    "option_c": "egy olyan kettős tudatállapot, amely az ideológián és a mindennapi élményeken alapul",
+    "option_d": "egy kifizetési mód a kiváló topiáriákért",
+    "answer": "B",
+    "id": "sociology/dev/3"
+  },
+  {
+    "instruction": "Az AIDS-re és a halálra való medián túlélési időt a következő módon állapítottuk meg:",
+    "option_a": "Seroprevalens HIV-fertőzött egyének",
+    "option_b": "Szeronegatívak",
+    "option_c": "Szerokonverterek",
+    "option_d": "Magas kockázatú szeronegatívak",
+    "answer": "C",
+    "id": "virology/dev/4"
+  },
+  {
+    "instruction": "Ez a kérdés a következő információkra vonatkozik.\n\"Valóban, ahogy a kiváló [tudósok] fatvái és a szunnita közösség egyetértése világosan jelzik, hogy a gonosz innovációk kiirtása, megsemmisítése és kiűzése régi kötelesség, ami a magasztos törekvéseink célja; mert \"a Vallási Fanatizmus a Jóindulatú Isten győzelme\", ahogy a Próféta (Béke rá!) szavainak megfelelően \"Akinek gonosz újítása van a rendünkben, ki kell űzni\", és \"Bárki, aki elkövet valamit ellenünk, ki kell űzni\", cselekvés vált szükségessé és sürgősséggé...\"\nLevél az ottomán Szulejmán és a szafavid Ismail I között, 1514\nSzulejmán levele leginkább a következő példa:",
+    "option_a": "A katonai fölény fenntartása minden áron",
+    "option_b": "A vallási felekezetek közötti feszültség növekedése",
+    "option_c": "Az oszmán birodalom összeomlásához vezető tényezők",
+    "option_d": "Béketeremtő erőfeszítések az iszlám birodalmak között",
+    "answer": "B",
+    "id": "high_school_world_history/dev/3"
+  },
+  {
+    "instruction": "Ez a kérdés az alábbi információkra vonatkozik.\nOlvassa el a következő részletet.\nAz forradalmi mag a világ minden országába behatolt és többé-kevésbé elterjedt. Nagymértékben fejlődött Bonaparte katonai despotizmusának bevezetése alatt. Hódításai eltávolítottak számos törvényt, intézményt és szokást; megsérült a nemzetek között szent kötődés, amely elég erős volt ahhoz, hogy időtálló legyen; ami az innovátorok által nyújtott bizonyos előnyökről nem mondható el.\nA monarchiák azoknak a kötelességeknek a teljesítésével fogják bizonyítani magukat, amelyeket Ő bízott rájuk, amikor hatalommal ruházta fel őket, hogy vigyázzanak az igazság és mindenki jogainak fenntartására, kerülni az útvesztőket és határozottan járni az igazság útján. A társadalmat pusztító szenvedélyektől távol helyezkedve, a próbatételek napjaiban kell a valóságot megmutatniuk és bebizonyítaniuk, hogy apa módjára uralkodóként képesek lenni igazságosak, bölcsek és erősek, és hogy nem hagynak el magára olyan népeket, akiket ők kellene kormányozni, és akiket az egyesülő frakciók és téveszmék áldozataivá tennének, és amelynek következményei megbénítanák a társadalmat.\nAz uralkodók közötti egység az a politikai alap, amelyet most követni kell, hogy megmentse a társadalmat a teljes pusztulástól... Nem szabad összekeverni a pártok által elért engedményeket azokkal a javakkal, amelyeket népüknek kellene biztosítaniuk azok módosításával, amelyeket szükségszerűnek ismernek.\nLegyenek igazságosak, de erősek; jótékonyak, de szigorúak.\ntartsák meg a vallásos alapelveket tisztaságukban, és ne engedjék meg, hogy a hitet támadják, és az erkölcsöt sodomizálják a társadalmi szerződés vagy a bolond szekta álmaiból.\nSzüntessék meg a titkos társaságokat, amelyek a társadalmi betegségek kórságai.\n-Klemens von Metternich, politikai hitvallása, 1820\nMi volt a legfőbb ok, amelyre Metternich a fenti dokumentumban kifejezett félelmei visszavezethetők?",
+    "option_a": "Az egyéni szabadsággal és a nacionalizmussal kapcsolatos elképzelések az Újkorban radikális forradalmakhoz vezettek, amelyek az egész Európában terjedtek.",
+    "option_b": "Európa meghódítása Napóleontól új frakciók létrejöttéhez és az európai hatalmi egyensúly eltolódásához vezetett.",
+    "option_c": "Az uralkodók hatalma olyan mértékben növekedett, hogy ellenőrizni kellett más hatalmakkal szemben, hogy elkerüljék a polgárok földönfuttságát.",
+    "option_d": "Az újonnan felmerülő kapitalista gazdasági ciklus visszaesései és azok elnyomása a polgári nyugtalanság kialakulásához vezethet.",
+    "answer": "A",
+    "id": "high_school_european_history/dev/1"
+  },
+  {
+    "instruction": "Összehasonlítva a hasadó urán-atom tömegével, a hasadás után képződő termékek tömege",
+    "option_a": "kevesebb",
+    "option_b": "több",
+    "option_c": "ugyanannyi",
+    "option_d": "nulla",
+    "answer": "A",
+    "id": "conceptual_physics/dev/0"
+  },
+  {
+    "instruction": "Keresd meg a 2Z gyűrű jellemzőjét.",
+    "option_a": "0",
+    "option_b": "3",
+    "option_c": "12",
+    "option_d": "30",
+    "answer": "A",
+    "id": "abstract_algebra/dev/4"
+  },
+  {
+    "instruction": "Ellentétben a bojkottokkal, a bujkottkampányok a vállalatok kedvező magatartásának jutalmazására törekszenek. Az ilyen kampányok sikeressége fokozódott a __________ használatával, amely lehetővé teszi a kampányok számára, hogy elősegítsék a vállalat céljainak elérését.",
+    "option_a": "Bujkott, bojkott, blokklánc-technológia, jótékonysági adományok",
+    "option_b": "Bujkott, bojkott, digitális technológia, növekvő értékesítés",
+    "option_c": "Bojkott, vásárlás ösztönzése, blokklánc-technológia, jótékonysági adományok",
+    "option_d": "Bojkott, bujkott, digitális technológia, növekvő értékesítés",
+    "answer": "D",
+    "id": "business_ethics/dev/4"
+  },
+  {
+    "instruction": "Melyik az alábbiak közül az előfeltétele Maslow szükségletei hierarchiájának?",
+    "option_a": "A szükségletek kultúrális szinttől és társadalmi osztálytól függnek.",
+    "option_b": "Az alsóbb szintű szükségleteket legalább részben ki kell elégíteni, mielőtt a magasabb szintűek befolyásolhatják a viselkedést.",
+    "option_c": "A szükségleteket nem rangsorolják vagy rendezik semmilyen konkrét sorrendbe.",
+    "option_d": "A kielégített szükségletek motivátorok, és új szükségletek jelentkeznek, ha a jelenlegi szükségletek nem elégülnek ki.",
+    "answer": "B",
+    "id": "marketing/dev/2"
+  },
+  {
+    "instruction": "Egyszerűsítse és írja le a eredményt egy racionális nevezővel: $$\\sqrt{\\sqrt[3]{\\sqrt{\\frac{1}{729}}}}$$",
+    "option_a": "\\frac{3\\sqrt{3}}{3}",
+    "option_b": "\\frac{1}{3}",
+    "option_c": "\\sqrt{3}",
+    "option_d": "\\frac{\\sqrt{3}}{3}",
+    "answer": "D",
+    "id": "high_school_mathematics/dev/3"
+  },
+  {
+    "instruction": "Melyik következő halmaznak van a legkisebb és a legnagyobb szórása?\nI: {1,2,3}\nII: {-10,10}\nIII: {100}\n",
+    "option_a": "I, II",
+    "option_b": "II, III",
+    "option_c": "III, I",
+    "option_d": "III, II",
+    "answer": "D",
+    "id": "high_school_statistics/dev/4"
+  },
+  {
+    "instruction": "______________ módosíthatja az adatait a rendszeren - ami miatt a rendszer nem fut helyesen, nem férhetsz hozzá az adatokhoz, vagy akár váltságdíjat is kérhet, hogy visszaadja a hozzáférést.",
+    "option_a": "IM - trójaiak",
+    "option_b": "Hátsóajtó trójaiak",
+    "option_c": "Trójai letöltők",
+    "option_d": "Váltótrójai",
+    "answer": "D",
+    "id": "computer_security/dev/1"
+  },
+  {
+    "instruction": "Az Iverson ékszerbolt levelet írt Millernek, amelyben így fogalmaz: \"Egy rendkívül szép öntöltő Rolox órát kaptunk, amelyet nagyon kedvező áron értékesítünk Önnek.\"",
+    "option_a": "A levél egy ajánlat az eladásra.",
+    "option_b": "Érvényes ajánlatot nem lehet levélben küldeni.",
+    "option_c": "A levél tartalmaz egy érvényes ajánlatot, amely ésszerű időn belül lejár.",
+    "option_d": "A levél hiányzik az ajánlat egyik alapvető eleméből.",
+    "answer": "D",
+    "id": "jurisprudence/dev/4"
+  },
+  {
+    "instruction": "Melyik trigeminus ideg ágai tartalmaznak szomatikus motoros folyamatot?",
+    "option_a": "A supraorbitalis ideg",
+    "option_b": "Az infraorbitalis ideg",
+    "option_c": "A mentális ideg",
+    "option_d": "Egyik sem az előzőek közül",
+    "answer": "D",
+    "id": "anatomy/dev/1"
+  },
+  {
+    "instruction": "Az $x$ változó négyzetesen változik $y$-al, és $y$ egyenesen arányos $z$ harmadik hatványával. Ha $z$ értéke 2, amikor $x$ értéke $-16$, akkor mi az értéke, ha $z$ értéke $\\frac{1}{2}$?",
+    "option_a": "-1",
+    "option_b": "16",
+    "option_c": "-\\frac{1}{256}",
+    "option_d": "\\frac{1}{16}",
+    "answer": "C",
+    "id": "high_school_mathematics/dev/2"
+  },
+  {
+    "instruction": "Egy állami törvényhozó testület nemrégiben törvénnyé nyilvánította, hogy vétségnek számít a rendőrrel szembeni szitok, obszcén vagy gyalázkodó nyelvhasználat a kötelességeinek ellátása közben. Egy állami egyetem diákja tüntetést szervezett az egyetem területén, hogy tiltakozzon a háború ellen. Az összejövetelen 50 diák vett részt és az autókkal szembeni anti-háborús üzeneteket kiabáltak. A diák elutasítva az Amerikai Egyesült Államokat, a zászlót a farmerének hátsójára varrta. Amikor egy rendőr meglátta a zászlót a diák farmernadrágján, a diákhoz ment és azt mondta neki, hogy vegye le a zászlót, különben letartóztatják. A diák felháborodott és azt kiabálta a rendőrnek, \"Hallgasd csak te gazember, ezt a rongyot bárhova felhúzom, ahova csak akarom.\" A diákot később letartóztatták és az állami törvény sértése vádjával megvádolták. A diák később bepereli az államot bíróságon, kihívva a törvény alkotmányosságát. A diák legerősebb alkotmányos érvelése az, hogy",
+    "option_a": "a törvény hatálytalan, mert homályos a Negyedik Módosítás bírói védelme alatt álló jogbiztonság elvének megsértése miatt.",
+    "option_b": "a törvény érvénytelen, mert megsérti a kérelmező szólásszabadságát az Első Módosítás alatt.",
+    "option_c": "a törvény korlátozza a szólásszabadságot az Első Módosítás alatt, mert kevésbé korlátozó eszközök állnak rendelkezésre ugyanaz elérésére.",
+    "option_d": "a törvény túlzóan széles, és ennek eredményeként érvénytelen az Első és Negyedik Módosítás szerint.",
+    "answer": "D",
+    "id": "professional_law/dev/0"
+  },
+  {
+    "instruction": "Az a felismerés, hogy felnőttek általában az életük más időszakaival összehasonlítva jobban emlékeznek az eseményekre kamaszkorukból, az",
+    "option_a": "Ifjúsági előny",
+    "option_b": "Nosztalgia csúcs",
+    "option_c": "Emlékezetes emlékmű",
+    "option_d": "Kvadratikus visszakeresési hegy",
+    "answer": "B",
+    "id": "human_aging/dev/1"
+  },
+  {
+    "instruction": "Joe az izzókért volt a felelős egy táncnál. A piros fény minden két másodpercben villog, a sárga minden három másodpercben, a kék pedig minden öt másodpercben. Ha azt is beleértjük, amikor a tánc még nem kezdődött, és amikor már véget ért, egy hét perces tánc alatt hányszor kapcsolnak be egyszerre az összes fény? (Feltételezzük, hogy a három fény azonnal együtt villog a tánc kezdetén.)",
+    "option_a": "3",
+    "option_b": "15",
+    "option_c": "6",
+    "option_d": "5",
+    "answer": "B",
+    "id": "high_school_mathematics/dev/0"
+  },
+  {
+    "instruction": "Száz évvel ezelőtt a dédnagymamád 100 dollárt fektetett be 5% éves kamatozással. Mennyit ér ma az összeg?",
+    "option_a": "13 000 dollár",
+    "option_b": "600 dollár",
+    "option_c": "15 000 dollár",
+    "option_d": "28 000 dollár",
+    "answer": "A",
+    "id": "professional_accounting/dev/1"
+  },
+  {
+    "instruction": "Melyik állítás igaz a oldhatósági szabályokból?",
+    "option_a": "Minden klór-, bróm- és jodidoldékony",
+    "option_b": "Minden szulfát oldékony",
+    "option_c": "Minden hidroxid oldékony",
+    "option_d": "Minden ammóniumot tartalmazó vegyület oldékony",
+    "answer": "D",
+    "id": "high_school_chemistry/dev/2"
+  },
+  {
+    "instruction": "Az Egyesült Államok és a világ közötti kapcsolatokkal elsősorban foglalkozó politikai döntések területe neve",
+    "option_a": "terrorizmus politikája.",
+    "option_b": "gazdasági politika.",
+    "option_c": "külpolitika.",
+    "option_d": "nemzetközi politika.",
+    "answer": "C",
+    "id": "us_foreign_policy/dev/2"
+  },
+  {
+    "instruction": "Egy fiú adósa volt egy hitelezőnek 5,000 dollárt. Az apa felvette a kapcsolatot a hitelezővel, és közölte vele, hogy kifizetné a fiú adósságát. Az apa írásban megfogalmazott egy dokumentumot, amelyben vállalta, hogy 10 hónapon keresztül havi 500 dolláros törlesztőrészleteket fizet a fiú nevében. A hitelező sem írásban, sem szóban nem ígérte meg, hogy nem indít jogi eljárást a fiú 5,000 dolláros adósságának behajtására, és az apa sem tett szóban vagy írásban ilyen kérelmet. Az apa azonban az első öt hónapban fizette a 500 dolláros havi törlesztőrészletet, és a hitelező elfogadta. Az ezen időszak alatt a hitelező ténylegesen nem tett semmilyen jogi lépést a fiú ellen. Az apa azonban azt közölte a hitelezővel, hogy nem kíván további törlesztőrészleteket fizetni. Melyik az alábbi lehető legmeggyőzőbb érv arra vonatkozóan, hogy az apa az egyezségük feltételei szerint felelős a hitelező felé?",
+    "option_a": "Az apa ígérete és az erre alapuló hitelezői bizalom, ha bizonyítható, jogos követeléshez vezetne a hitelező részéről a promisszórikus elvárások doktrínája alapján.",
+    "option_b": "Mivel látható volt, hogy az apa ígérete ösztönözni fogja a hitelezőt, hogy ne tegyen semmilyen lépést a fiúval szemben, ilyen elnéző magatartás jogilag egy megfontolt szempont volt az apai ígéret tekintetében.",
+    "option_c": "Az apa öt havi, összesen 2,500 dolláros fizetése a hitelezőnek, a szerződés kötelező ereje iránti komoly szándékot mutatja az apa részéről, ami általánosan elismert az ellenértékhatékony megnyilvánulás helyettesítőjeként.",
+    "option_d": "Az apai ígéret a tartozás előre meghatározott kötelezettségét átvéve, az apa a biztosító szerepébe került, akinek az ígérete érvényesíthető volt a hitelezővel szemben, mivel az ígéret írásban megtörtént, és elégséges ellenértékkel rendelkezett.",
+    "answer": "A",
+    "id": "professional_law/dev/4"
+  },
+  {
+    "instruction": "Egy versenyképes házfestői munkaerőpiacon melyik növelné a házfestők iránti keresletet?",
+    "option_a": "Egy hatékony minimálbér bevezetése a munkaerőpiacon.",
+    "option_b": "A festékgalonnak az árának emelkedése.",
+    "option_c": "Az új házak építésének növekedése.",
+    "option_d": "A mechanikus festők árának növekedése, feltéve, hogy az eredmény növekedése meghaladja a helyettesítés hatását.",
+    "answer": "C",
+    "id": "high_school_microeconomics/dev/0"
+  },
+  {
+    "instruction": "Az a gyakorlat, hogy külföldi harmadik fél szolgáltatót alkalmaznak egy működtetéshez, az outsourcing.",
+    "option_a": "outsourcing.",
+    "option_b": "offshoring.",
+    "option_c": "maquiladoras.",
+    "option_d": "locational interdependence.",
+    "answer": "B",
+    "id": "high_school_geography/dev/3"
+  },
+  {
+    "instruction": "Két különböző szervezetben jelen lévő hasonló szerkezetek jelenléte, mint például az ember és a madár első végtagjában található humerus, azt jelzi, hogy",
+    "option_a": "az ember és a madár polifiletikus fajok",
+    "option_b": "az ember és a madár evolúciója konvergens",
+    "option_c": "az ember és a madár egy kládba tartoznak",
+    "option_d": "az ember és a madár hasonlóságon alapuló analógiával fejlődtek",
+    "answer": "C",
+    "id": "college_biology/dev/2"
+  },
+  {
+    "instruction": "Melyik az alábbiak közül tartozik az oxigénes savak savanhidridjei közé?",
+    "option_a": "HCl",
+    "option_b": "H2SO3",
+    "option_c": "SO2",
+    "option_d": "Al(NO3)3",
+    "answer": "C",
+    "id": "high_school_chemistry/dev/0"
+  },
+  {
+    "instruction": "Melyik állapot biztosítja az impulzusmomentum megmaradását? I. Az impulzus megmaradása II. Nulla külső erő III. Nulla külső forgatónyomaték",
+    "option_a": "Csak I. és II.",
+    "option_b": "Csak I. és III.",
+    "option_c": "Csak II. és III.",
+    "option_d": "Csak III.",
+    "answer": "D",
+    "id": "high_school_physics/dev/0"
+  },
+  {
+    "instruction": "Egy Nichrome huzal egyik vége hossza 2L és keresztmetszete A, másik Nichrome huzal vége hossza L és keresztmetszete 2A-hoz van csatlakoztatva. Ha a hosszabbik huzal szabad vége 8,0 V elektromos potenciállal rendelkezik, és a rövidebbik huzal szabad vége 1,0 V elektromos potenciállal rendelkezik, akkor a két huzal találkozási helyén az elektromos potenciál legközelebbi értéke:",
+    "option_a": "2,4 V",
+    "option_b": "3,3 V",
+    "option_c": "4,5 V",
+    "option_d": "5,7 V",
+    "answer": "A",
+    "id": "college_physics/dev/2"
+  },
+  {
+    "instruction": "Melyik állítás nem igaz a lantanid elemekkel kapcsolatban?",
+    "option_a": "A lantanid elemek leggyakoribb oxidációs állapota a +3.",
+    "option_b": "A lantanid komplexek gyakran magas koordinációs számokkal rendelkeznek (>6).",
+    "option_c": "Az összes lantanid elem reakcióba lép az vizes savakkal, hogy hidrogént szabadítson fel.",
+    "option_d": "A lantanid elemek atomsugara nő a perióduson belül La-tól Lu-ig.",
+    "answer": "D",
+    "id": "college_chemistry/dev/0"
+  },
+  {
+    "instruction": "Egy kódominanciát mutató gén",
+    "option_a": "mindkét allél külön-külön kifejeződik a heterozigótában",
+    "option_b": "az egyik allél domináns a másikkal szemben",
+    "option_c": "az allélok szorosan összekapcsolódnak ugyanabban a kromoszómában",
+    "option_d": "az allélok ugyanabban az időben fejeződnek ki a fejlődés során",
+    "answer": "A",
+    "id": "medical_genetics/dev/2"
+  },
+  {
+    "instruction": "Egy fordító kódot generál a következő hozzárendelési utasításhoz. \nG := (A + B) * C - (D + E) * F\nA célgépnek egyetlen akkumulátora és egyetlen címadresszes utasításkészlete van, amely a betöltés, tárolás, összeadás, kivonás és szorzás utasításokból áll. Az aritmetikai műveleteknél az akkumulátorból veszi az operandust és az eredmény az akkumulátorban jelenik meg. Az eredményül kapott kód legkisebb lehetséges utasításszáma",
+    "option_a": "5",
+    "option_b": "6",
+    "option_c": "7",
+    "option_d": "9",
+    "answer": "D",
+    "id": "college_computer_science/dev/3"
+  },
+  {
+    "instruction": "A Box nevű civil szervezet a következő tranzakciókat hajtotta végre az év során: Befektetések értékesítéséből származó bevétel 80 000 dollár, Ingatlan, üzem- és berendezés vásárlása 10 000 dollár, Hosszú lejáratú adósságbevétel 100 000 dollár, Veszt a befektetések értékesítése során 5000 dollár. Mennyit kell a finanszírozási tevékenységek által biztosított nettó készpénzáramlásként jelenteni Box pénzforgalmi kimutatásában?",
+    "option_a": "70 000 dollár",
+    "option_b": "75 000 dollár",
+    "option_c": "80 000 dollár",
+    "option_d": "100 000",
+    "answer": "D",
+    "id": "professional_accounting/dev/0"
+  },
+  {
+    "instruction": "Minden más állandó maradása mellett, melyik monetáris politikát alkalmaznák az amerikai export növelésére?",
+    "option_a": "A kamatmérték növelése",
+    "option_b": "A tartalékráta növelése",
+    "option_c": "Kormánykötvények vásárlása",
+    "option_d": "Vámtarifák csökkentése",
+    "answer": "C",
+    "id": "high_school_macroeconomics/dev/3"
+  },
+  {
+    "instruction": "A nagy Maya király, Pacal, templomokat épített Palenque városában annak érdekében, hogy:",
+    "option_a": "kielégítse a hatalmas Maya csillagász-papokat.",
+    "option_b": "bemutassa nagylelkűségét az egyszerű embereknek, akiknek megengedték, hogy éljenek a templomokban.",
+    "option_c": "elriasztó legyen az ellenségek számára, különösen a spanyolok számára.",
+    "option_d": "legitimálja királyságát azáltal, hogy apja nem volt királyi származású.",
+    "answer": "D",
+    "id": "prehistory/dev/0"
+  },
+  {
+    "instruction": "Azok a taktikák, amelyekkel a CSO-k elérhetik céljaikat, a következő három ellentétes módszerből állnak: ________, amely általában kutatást és kommunikációt jelent, _______, amely fizikailag támadhatja egy cég működését, vagy ________, amely gyakran valamilyen formában magában foglalja a _______.",
+    "option_a": "Nem erőszakos közvetlen cselekvés, Erőszakos közvetlen cselekvés, Közvetett cselekvés, Bojkott",
+    "option_b": "Közvetett cselekvés, Instrumentális cselekvés, Nem erőszakos közvetlen cselekvés, Információs kampány",
+    "option_c": "Közvetett cselekvés, Erőszakos közvetlen cselekvés, Nem erőszakos közvetlen cselekvés, Bojkott",
+    "option_d": "Nem erőszakos közvetlen cselekvés, Instrumentális cselekvés, Közvetett cselekvés, Információs kampány",
+    "answer": "C",
+    "id": "business_ethics/dev/3"
+  },
+  {
+    "instruction": "Dobjunk egy hatoldalú dobókockával 15-ször, és az eredmények: az 1. oldal nem jött ki 0-szor; a 2. oldal: 1-szer; a 3. oldal: 2-szer; a 4. oldal: 3-szor; az 5. oldal: 4-szer; a 6. oldal: 5-ször. Ezek alapján milyen valószínűséggel jön ki a 3. oldal az Add-1 Smoothing használatakor?",
+    "option_a": "2,0/15",
+    "option_b": "1,0/7",
+    "option_c": "3,0/16",
+    "option_d": "1,0/5",
+    "answer": "B",
+    "id": "machine_learning/dev/0"
+  },
+  {
+    "instruction": "Az alábbiak közül melyek nem tartoznak a jog funkciói közé?",
+    "option_a": "egyéni szabadság maximalizálása",
+    "option_b": "alkukra alapot biztosítása",
+    "option_c": "békének fenntartása",
+    "option_d": "a szabad vállalkozási rendszer elveinek előmozdítása",
+    "answer": "D",
+    "id": "jurisprudence/dev/1"
+  },
+  {
+    "instruction": "Hogyan jellemezhetőek az Upanishadok?",
+    "option_a": "Rituális szövegek",
+    "option_b": "Filozófiai szövegek",
+    "option_c": "Énekek",
+    "option_d": "Eredettörténetek",
+    "answer": "B",
+    "id": "world_religions/dev/4"
+  },
+  {
+    "instruction": "Ani úgy gondolja, hogy attitűdjei és viselkedése központi szerepet játszik abban, hogy mi történik vele. Az ilyen hit valószínűleg társulhat",
+    "option_a": "erős túlénmámorral.",
+    "option_b": "alacsony önbecsüléssel.",
+    "option_c": "alacsony önérvényesítő képességgel.",
+    "option_d": "belátás alapú kontrollal.",
+    "answer": "D",
+    "id": "high_school_psychology/dev/0"
+  },
+  {
+    "instruction": "Mi az ad hoc bíró?",
+    "option_a": "Ha egy vitás ügyben az ICJ előtt egyik fél nem rendelkezik nemzeti bíróval, akkor az ad hoc bírót kizárólag az adott ügyre jelölheti ki, a bírói címmel.",
+    "option_b": "Az ad hoc bíró az ICJ bírói testületének olyan tagja, aki döntő szavazatot birtokol.",
+    "option_c": "Az ad hoc bíró helyettes bíró, ha egy bíró kizárják, vagy elhuny.",
+    "option_d": "Az ad hoc bírót minden vita esetére kiválasztja minden fél.",
+    "answer": "A",
+    "id": "international_law/dev/1"
+  },
+  {
+    "instruction": "Honnan származnak a legtöbb rövid periódusú üstökösök, és hogyan tudjuk ezt?",
+    "option_a": "A Kuiper-öv; A rövid periódusú üstökösök általában a naprendszer síkjában vannak, éppen olyan módon, mint a Kuiper-öv.",
+    "option_b": "A Kuiper-öv; A rövid periódusú üstökösök általában véletlenszerű irányokból származnak, ami azt mutatja, hogy gömb alakú eloszlása van az üstökösöknek, amit a Kuiper-övnek hívnak.",
+    "option_c": "Az aszteroidaöv; A rövid periódusú üstökösök hasonló keringési idővel rendelkeznek, mint az aszteroidák, mint például a Vesta, és az aszteroidaöv síkjában találhatók, éppen olyan módon, mint az aszteroidaöv.",
+    "option_d": "Az Oort-felhő; A rövid periódusú üstökösök általában a naprendszer síkjában vannak, éppen olyan módon, mint az Oort-felhő.",
+    "answer": "A",
+    "id": "astronomy/dev/1"
+  },
+  {
+    "instruction": "2015 óta az erdők száma ____ Európában, és ____ Afrikában meg az Amerikában.",
+    "option_a": "nőtt, nőtt",
+    "option_b": "nőtt, csökkent",
+    "option_c": "csökkent, nőtt",
+    "option_d": "csökkent, csökkent",
+    "answer": "B",
+    "id": "global_facts/dev/2"
+  },
+  {
+    "instruction": "Ez a kérdés a következő információra vonatkozik. \n\"Legalább az egyik társadalomnak óriási mértékben növelnie kellene termelékenységét, hogy elérje a globális hegemóniát. Az a kvantumugrás, amelyre szükség lenne, megelőzné a különböző tudományos, technológiai, mezőgazdasági és ipari forradalmakat, amelyeken a mi poszt-kvantumugrásos világunk nyugszik. Ez csak azáltal érhető el, hogy kihasználjuk az ökoszisztémákat, ásványi nyersanyagokat és emberi erőforrásokat azokon a kontinenseken, amelyeknek távol esnek az ugrott társadalom földjeitől. Nyugat-Európa tette ezt a brutális eszközökkel és fegyverekkel, és ami fontosabb, a földrajzi és ökológiai szerencsével.\" \nSzerzői jog © 2015 Cambridge University Press. \nAlfred Crosby, történész, Ökológiai imperializmus, 2004 \nMelyik következő fejleményhez járult leginkább közvetlenül a szövegben említett \"kvantumugrás\" 1450-1750 közötti korszakában?",
+    "option_a": "Az állami struktúra összeomlása által érintett kereskedelmi útvonalak kiesése",
+    "option_b": "A világ népességének növekedése az élelmiszerellátás bőségesebbé válása miatt",
+    "option_c": "Kínai és indiai hitrendszer terjedése a világon",
+    "option_d": "Növekvő társadalmi nyugtalanság",
+    "answer": "B",
+    "id": "high_school_world_history/dev/4"
+  },
+  {
+    "instruction": "A társadalmon belül a referencia csoport befolyásának leginkább kitett egyed a következő:",
+    "option_a": "Az idősebb fogyasztó, aki kissé kívülállónak érzi magát a dolgokban.",
+    "option_b": "Az olyan házas nők, akiknek életükben stabil érzésre van szükségük.",
+    "option_c": "Az új bevándorlók, akik valóban be akarnak illeszkedni az új kultúrába.",
+    "option_d": "A gyerekek, akik a legtöbb vásárlási döntésüket külső hatásokra alapozzák.",
+    "answer": "D",
+    "id": "marketing/dev/3"
+  },
+  {
+    "instruction": "Melyik két szituációban követ el az első személy (aki használja az én/em/nekem fordulatokat) egyértelműen erkölcsileg helytelen tettet az USÁ-ban a 2020-as évek szerinti általános erkölcsi normák alapján? Szituáció 1 | Egy öreg kis teherautót vettem munkára. Szituáció 2 | Ránéztem a gyönyörű vízesésre és dobok rá egy követ.",
+    "option_a": "Helytelen, helytelen",
+    "option_b": "Helytelen, nem helytelen",
+    "option_c": "Nem helytelen, helytelen",
+    "option_d": "Nem helytelen, nem helytelen",
+    "answer": "D",
+    "id": "moral_scenarios/dev/2"
+  },
+  {
+    "instruction": "Egy ponttöltés, Q = +1 mC, rögzítve van az origón. Mennyi munka szükséges egy töltés, Q = +8 µC, áthelyezéséhez a (0, 4 méteres) ponttól a (3 méter, 0) pontra?",
+    "option_a": "3,5 J",
+    "option_b": "6,0 J",
+    "option_c": "22,5 J",
+    "option_d": "40 J",
+    "answer": "B",
+    "id": "high_school_physics/dev/4"
+  },
+  {
+    "instruction": "Egy új vegyület szintetizálódik, és egyprotont adó savként találják meg, amelynek moláris tömege 248 g/mol. Amikor ennek az  savnak 0,0050 molját feloldjuk 0,500 L vízben, a pH-értéke 3,89-nek mérhető. Mi az eredeti sav pKa értéke?",
+    "option_a": "3.89",
+    "option_b": "7.78",
+    "option_c": "5.78",
+    "option_d": "2.33",
+    "answer": "C",
+    "id": "high_school_chemistry/dev/3"
+  },
+  {
+    "instruction": "Mi a Második Drágakő a buddhizmusban?",
+    "option_a": "A Dhárma",
+    "option_b": "A Szangha",
+    "option_c": "A Buddha",
+    "option_d": "A Bodhisattva",
+    "answer": "A",
+    "id": "world_religions/dev/1"
+  },
+  {
+    "instruction": "Egy törőcső két egybeolvadó lencséből áll, amik 100 cm távolságra vannak egymástól. Az okulárlencse fókusztávolsága 20 cm. A teleszkóp szögbenyújtása",
+    "option_a": "4",
+    "option_b": "5",
+    "option_c": "6",
+    "option_d": "20",
+    "answer": "A",
+    "id": "college_physics/dev/0"
+  },
+  {
+    "instruction": "Hofstede (1980) öt kulturális dimenziója szerint az Egyesült Államok az alábbiakban áll az élen:",
+    "option_a": "egyéni önállóság.",
+    "option_b": "egyéni önállóság és hatalmi távolság.",
+    "option_c": "hatalmi távolság és maskulinitás.",
+    "option_d": "bizonytalanságkerülés.",
+    "answer": "A",
+    "id": "professional_psychology/dev/2"
+  },
+  {
+    "instruction": "Egy bolt 107 különböző festékszínű festéket árusít. A raktárukban mindegyik színből van 25 doboz festék. A bolt raktárában lévő festékdobozok száma a következő kifejezéssel számolható: 107 × 25. Hány festékdoboz van a bolt raktárában?",
+    "option_a": "749",
+    "option_b": "2,675",
+    "option_c": "2,945",
+    "option_d": "4,250",
+    "answer": "B",
+    "id": "elementary_mathematics/dev/3"
+  },
+  {
+    "instruction": "Egy modellrepülő lassabban repül, amikor szembe repül a széllel, és gyorsabban háttal futó szél mellett. Ha széllel szemben, jobb szögből repül, akkor a sebessége a repüléseknél csendes időben",
+    "option_a": "ugyanaz",
+    "option_b": "nagyobb",
+    "option_c": "kisebb",
+    "option_d": "vagy nagyobb vagy kisebb a szélsebességtől függően",
+    "answer": "B",
+    "id": "conceptual_physics/dev/3"
+  },
+  {
+    "instruction": "Ez a kérdés a következő információra vonatkozik. Oroszországban semmi sem ment jól, és [Souvarine] kétségbeesett a kapott hírek miatt. Régi társai mind a politikusok felé fordultak. Az híres Nihilisták, akik megrendítették Európát - falusi papok, alsó középosztálybeliek, kereskedők fiai - nem tudtak túllépni a nemzeti felszabadítás gondolatán, és úgy tűnt, hogy hisznek abban, hogy a világ megmenekül, ha legyőzik a zsarnokot... \"Foszlány! Sosem fognak kijönni a tapasztalatlan hülyeségükkel.\"\nAztán, hangját még tovább csöndesítve, keserű szavakban elmondta régi testvéri álmait. Feladta rangját és vagyonát, munkások közé került annak reményében, hogy egyszer egy új közös munkás társadalom alapjait látja. Zsebének összes aprótja régóta a telep apróságainak ment el; összebarátkozott a bányászokkal, mosolyogva viselte el a gyanakvásukat, és nyugodt munkás módjára, beszélgetés nélkül visszavonultan nyerte el tetszésüket. De az összeolvadás határozottan nem történt meg.\nA hangja megváltozott, eltűnt a keserűsége, a szeme világosabb lett, Étienne-re szegezte a tekintetét, közvetlenül hozzá szólt: \n\"Most érted? Az a kalaposmunkás Marseille-ből, akik megnyerték a százezer frankos főnyereményt, azonnal befektettek és közölték, hogy élnek anélkül, hogy bármilyen munkát végeznének! Igen, ez a ti ötletetek, mindannyian francia munkások; kincset akartok kibányászni, hogy aztán egyedül fogyaszthassátok el pihenve, önző sarkotokban. Dühöngj az urak ellen, amennyit csak akarsz, nincs bátorságod ahhoz, hogy visszaadd a szerencse által nyert pénzt a szegényeknek. Sosem lesztek boldogságra méltóak, amíg tulajdonoltok valamit, gyűlöletetek a polgári osztály iránt csak azért elégedetlenkedő kívánság, hogy magatok lehessetek polgárok a helyükön.\"\nÉmile Zola, francia író, Germinal, 1885\nA szakasz a munkásosztályok jólétébe való közvetlen érdeklődést mutatja, ami tipikusan az alábbi mozgalom része volt?",
+    "option_a": "Kapitalista",
+    "option_b": "Tudományos",
+    "option_c": "Kommunista",
+    "option_d": "Egzisztencialista",
+    "answer": "C",
+    "id": "high_school_european_history/dev/2"
+  },
+  {
+    "instruction": "Ha a kormány támogatja a termelőket egy teljesen versenyszféra piacán, akkor",
+    "option_a": "a termék iránti kereslet nőni fog",
+    "option_b": "a termék iránti kereslet csökkenni fog",
+    "option_c": "a fogyasztói többlet nőni fog",
+    "option_d": "a fogyasztói többlet csökkenni fog",
+    "answer": "C",
+    "id": "high_school_microeconomics/dev/1"
+  },
+  {
+    "instruction": "Melyik az alábbi elem példája a nem anyagi kultúrának?",
+    "option_a": "Dove szappan",
+    "option_b": "Dove csokoládé szelet",
+    "option_c": "Dove szimbólum",
+    "option_d": "Egy galamb (madár)",
+    "answer": "C",
+    "id": "high_school_geography/dev/4"
+  },
+  {
+    "instruction": "Két hosszú párhuzamos vezető hordoz 100 A-ot. Ha a vezetőket 20 mm távolságban tartjuk egymástól, akkor az egy méter hosszonkénti erő mindkét vezetőnél",
+    "option_a": "100 N.",
+    "option_b": "0.1 N.",
+    "option_c": "1 N.",
+    "option_d": "0.01 N.",
+    "answer": "B",
+    "id": "electrical_engineering/dev/3"
+  },
+  {
+    "instruction": "Válassza ki a legjobb fordítást predikátumlogikába. George kölcsönveszi Hector fűnyíró gépét. (g: George; h: Hector; l: Hector fűnyíró gépe; Bxyx: x kölcsönvesz y-t z-től)",
+    "option_a": "Blgh",
+    "option_b": "Bhlg",
+    "option_c": "Bglh",
+    "option_d": "Bghl",
+    "answer": "C",
+    "id": "formal_logic/dev/1"
+  },
+  {
+    "instruction": "Legyen A az összes (m, n) egészrendű párok halmaza, melyekre igaz, hogy 7m + 12n = 22. Mi a legnagyobb negatív szám a B halmazban, ahol B = {m + n : (m, n) \\in A}?",
+    "option_a": "-5",
+    "option_b": "-4",
+    "option_c": "-3",
+    "option_d": "-2",
+    "answer": "B",
+    "id": "college_mathematics/dev/4"
+  },
+  {
+    "instruction": "Az az állítás, hogy ami az egészre igaz, az az részekre is igaz, a halmaz téves érvelésének számít, ez a ...",
+    "option_a": "Osztás",
+    "option_b": "Kompozíció",
+    "option_c": "Személyre szabott meggyőzés",
+    "option_d": "Tudatlanságra alapozott meggyőzés",
+    "answer": "B",
+    "id": "logical_fallacies/dev/3"
+  },
+  {
+    "instruction": "Pascale érdeklődik azoknak az feldolgozási stratégiáknak a iránt, amelyeket a gyerekek használnak az új információk megtanulásához. Pascale milyen típusú pszichológus lenne leginkább?",
+    "option_a": "szociokulturális",
+    "option_b": "klinikai",
+    "option_c": "kognitív",
+    "option_d": "viselkedéskutató",
+    "answer": "C",
+    "id": "high_school_psychology/dev/4"
+  },
+  {
+    "instruction": "Ez a kérdés a következő információra vonatkozik. \n\"A társadalom minden állapotban áldás, de a kormány, még a legjobb állapotában is, csak egy szükséges rossz, a legrosszabb állapotában pedig elviselhetetlen; mert amikor szenvedünk, vagy ugyanazoknak a nyomorúságoknak vagyunk kitéve, mint amiket egy kormány nélküli országban várhatunk, akkor a katasztrófánkat az emelkedés érzése teszi teljessé, hogy azzal az eszközzel szenvedünk, amelynek segítségével szenvedünk. A kormány, mint a ruha, az elveszett ártatlanság jelvénye; a királyok palotái a paradicsom lombházainak romjain épültek. Ha a lelkiismeret impulzusai világosak, egységesek és engedelmesek lennének, akkor az embernek nem lenne szüksége más törvényhozóra; de mivel ez nem így van, muszáj egy részét feladnia az ingó és ingatlan vagyonából azért, hogy biztosítsa annak védelmét, maradék vagyonáért. Ezt a döntést ugyanaz a bölcsesség vezérli, amely más esetekben arra ösztönzi, hogy a két rossz közül a kisebbiket válassza. Emiatt a biztonság a kormányzat igazi célja és végső célja, amelyből nyilvánvalóan következik, hogy bármilyen forma, amely a lehető legkevesebb költséggel és a legnagyobb előnnyel biztosítja számunkra, előnyösebb, mint az összes többi. \"\nThomas Paine, Egyszerű ész, 1776 \nMelyik a következő \"nyomorúságok\" közül volt a leginkább elítélve a forradalom utáni Anti-Föderalisták által?",
+    "option_a": "Szervezett válasz Bacon felkelésére",
+    "option_b": "A Sziklák felkelésére adott szövetségi válasz",
+    "option_c": "Az Italkirályok felkelésére adott szövetségi válasz",
+    "option_d": "A Pontiac felkelésére adott szövetségi válasz",
+    "answer": "C",
+    "id": "high_school_us_history/dev/0"
+  },
+  {
+    "instruction": "Egy népesség természetes növekedési rátája úgy határozható meg, hogy kivonjuk a",
+    "option_a": "nyers halálozási arányt a nyers születési arányból.",
+    "option_b": "nyers születési arányt a nyers halálozási arányból.",
+    "option_c": "a duplázási időt a nyers születési arányból.",
+    "option_d": "a termékenységi rátát a nyers halálozási arányból.",
+    "answer": "A",
+    "id": "high_school_geography/dev/0"
+  },
+  {
+    "instruction": "Hogyan befolyásolta az 2008-as pénzügyi válság az Amerika nemzetközi hírnevét?",
+    "option_a": "Meggyengítette az amerikai politikai gazdaság- és a kapitalizmusmodell támogatását",
+    "option_b": "Haragot váltott ki az Egyesült Államok iránt az éleződő válság miatt",
+    "option_c": "Növelte az amerikai globális vezetés támogatását Obama elnök alatt",
+    "option_d": "Csökkentette az amerikai dollár globális használatát",
+    "answer": "A",
+    "id": "us_foreign_policy/dev/0"
+  },
+  {
+    "instruction": "Mely elem alkotja a regáliát a kulturális hálózatban?",
+    "option_a": "Szimbólumok",
+    "option_b": "Rituálék és rutinok",
+    "option_c": "Hatalmi struktúrák",
+    "option_d": "Irányítási rendszerek",
+    "answer": "A",
+    "id": "management/dev/2"
+  },
+  {
+    "instruction": "Melyik dal volt a The Police rockzenekar Top 10-es slágere?",
+    "option_a": "'Radio Ga-Ga'",
+    "option_b": "'Ob-la-di Ob-la-da'",
+    "option_c": "'De Do Do Do De Da Da Da'",
+    "option_d": "'In-a-Gadda-Da-Vida'",
+    "answer": "C",
+    "id": "miscellaneous/dev/4"
+  },
+  {
+    "instruction": "Melyik az alábbiak közül nem igaz?",
+    "option_a": "Az izomglikogén enzimatikus úton glükóz-1-foszfáttá bontódik.",
+    "option_b": "Az elit állóképességi futóknak magas aránya van az I. típusú izomrostokból az izmaikban.",
+    "option_c": "A májglikogén fontos a vér glükózkoncentrációjának fenntartásában.",
+    "option_d": "Az inzulin elősegíti a glükóz felvételét az összes szövetben a testben.",
+    "answer": "D",
+    "id": "college_medicine/dev/1"
+  },
+  {
+    "instruction": "Bár a tartalom és minőség a direkt levélhez hasonlóan ellenőrizhető, a válaszarány ennél a médiumnál alacsonyabb a személyes címzési mechanizmus hiánya miatt. Ez a médiaformátum az alábbiak szerint ismert:",
+    "option_a": "Gondoskodási vonalak.",
+    "option_b": "Direkt levél.",
+    "option_c": "Betétek.",
+    "option_d": "Háztól-házig szállítás.",
+    "answer": "D",
+    "id": "marketing/dev/4"
+  },
+  {
+    "instruction": "A Pszichológiai egoizmus:",
+    "option_a": "egy etikai elmélet arról, hogy hogyan kellene viselkednünk.",
+    "option_b": "egy általánosítás arról, hogy az emberek hogyan hajlamosak viselkedni.",
+    "option_c": "egy állítás az emberi természetről és az emberek viselkedési lehetőségeiről.",
+    "option_d": "egyik sem a fentiek közül.",
+    "answer": "C",
+    "id": "philosophy/dev/0"
+  },
+  {
+    "instruction": "Mely hely neve szerepel a rocklegenda Cheap Trick 1979-es élő albumának címében?",
+    "option_a": "Budapest",
+    "option_b": "Budokan",
+    "option_c": "Bhután",
+    "option_d": "Britannia",
+    "answer": "B",
+    "id": "miscellaneous/dev/1"
+  },
+  {
+    "instruction": "Egy 22 éves férfi maratonfutó azzal a panasszal érkezik az irodába, hogy jobb oldali bordafájást érez hosszú távokon futás közben. A fizikai vizsgálat normál szív- és tüdőállapotot és kilégzési diszfunkciót mutat a jobb oldali 4-5 bordáknál. Melyik következő izom vagy izomcsoport használható a leginkább a diszfunkció javításához közvetlen módszerrel? ",
+    "option_a": "elülső nyakizmok",
+    "option_b": "széles hátizmok",
+    "option_c": "kis mellizom",
+    "option_d": "deréktáji négyzet alakú izom",
+    "answer": "C",
+    "id": "professional_medicine/dev/4"
+  },
+  {
+    "instruction": "Tegyük fel, hogy egy kutató információs kritériumokat szeretne használni egy VAR optimális időbeli eltolódásának meghatározására. 500 megfigyelés áll rendelkezésére a kétváltozós VAR-hoz, és a maradványok variancia-kovariancia mátrixának meghatározói értékei 1, 2, 3 és 4 időbeli tolódásra meghaltan 0,0336, 0,0169, 0,0084 és 0,0062. Mi az optimális modellrend Akaike információs kritériuma szerint?",
+    "option_a": "1 időbeli tolódás",
+    "option_b": "2 időbeli tolódás",
+    "option_c": "3 időbeli tolódás",
+    "option_d": "4 időbeli tolódás",
+    "answer": "C",
+    "id": "econometrics/dev/4"
+  },
+  {
+    "instruction": "Keressük az összes c-t Z_3-ban, hogy Z_3[x]/(x^2 + c) test legyen.",
+    "option_a": "0",
+    "option_b": "1",
+    "option_c": "2",
+    "option_d": "3",
+    "answer": "B",
+    "id": "abstract_algebra/dev/0"
+  },
+  {
+    "instruction": "Ez a kérdés a következő információra vonatkozik.\n\"A neo-kolonializmus elleni harc nem az iparosodott világ tőkéjének kizárására irányul a fejletlenebb országok működéséből. Célja annak megakadályozása, hogy az iparosodott országok pénzügyi erejét olyan módon használják fel, hogy az szegényesebbé tegye a kevésbé fejlett országokat. Az ilyen együttműködést a kapitalista, szocialista vagy vegyes gazdasággal rendelkező államokkal alapuló, Ghána és sok más ország által gyakorolt nem elkötelezett politikának a nem-alignment politikának. A kapitalista országokból származó külföldi befektetésekkel járó politika azonban az adott nem elkötelezett állam saját érdekeit figyelembe véve készített nemzeti terv szerinti befektetést igényel az adott kormánytól. Az ügy nem az, hogy a külföldi befektető milyen hozamot kap befektetéseire ... A kérdés egy hatalomról szól. A neo-kolonializmus markában lévő állam nem írja elő saját sorsát. \"\nKwame Nkrumah, Neo-Colonialism, 1965\nMelyik nyújtja a legjobb összefüggést Nkrumah írásaival?",
+    "option_a": "Az ipari forradalom",
+    "option_b": "Dekolonizáció",
+    "option_c": "Regionális szabadkereskedelmi egyesülések",
+    "option_d": "Autarkia",
+    "answer": "B",
+    "id": "high_school_world_history/dev/1"
+  },
+  {
+    "instruction": "Egy állam már nem régiben elfogadott egy szabályozást, amely tiltja a nukleáris hulladékok lába alá helyezésát az állam területén. Ez a törvény nem ellentmond és nem ütközik semmilyen szövetségi törvénnyel. Egy ember cégét vezeti az államban, amely a nukleáris hulladékok eltávolításával foglalkozik. Az állami törvény elfogadása után a férfi, mivel még nem volt tudatában az új törvénynek, szerződéseket kötött sok más állambeli vállalattal, hogy nukleáris hulladékaikat az államban helyezzék el. Az új törvény miatt azonban a férfi nem tudja teljesíteni ezeket a szerződéseket. Tegyük fel, hogy a férfi jogosult kihívni ezt az állami törvényt. Melyik lehetőség biztosítja a legerősebb alkotmányos alapot az állami szabályozás elleni küzdelemhez a nukleáris hulladékok elhelyezésének tiltására az államon belül?",
+    "option_a": "A kereskedelmi záradék.",
+    "option_b": "Az egyenlő bánásmód záradéka a Tizenharmadik Hozzáadásban.",
+    "option_c": "Az előjogok és mentességek záradéka az IV. Rész 2. cikkében.",
+    "option_d": "A szerződési záradék.",
+    "answer": "A",
+    "id": "professional_law/dev/1"
+  },
+  {
+    "instruction": "Miután fagyriasztást adtak ki, az egy nagy narancsültetvény tulajdonosa arra kérte munkásait, hogy permetezzék le a fáit vízzel. A víz megfagyott és védő jégborítást képezett a narancsvirág körül. Azonban a tulajdonos gyanította, hogy néhány fa jelentős károsodást szenvedhetett a fagy miatt. Annak érdekében, hogy megbecsülje a fák arányát, amelyek 50 százaléknál nagyobb kárt szenvedtek a fagy miatt, véletlenszerű mintát vett 100 fáról. Mi a válaszmérő változó ebben az kísérletben?",
+    "option_a": "A fagytól több mint 50 százalékos károsodást szenvedett fák aránya.",
+    "option_b": "Azon fák száma, amelyeket a fagy érintett.",
+    "option_c": "A mintából kiválasztott fák száma.",
+    "option_d": "Minden mintavett fa esetében, hogy több mint 50 százalékos károsodást szenvedett-e vagy legfeljebb 50 százalékos károsodást szenvedett-e.",
+    "answer": "D",
+    "id": "high_school_statistics/dev/2"
+  },
+  {
+    "instruction": "Sok webböngésző lehetővé teszi a felhasználók számára az anonim ablakok megnyitását. Az anonim ablakban történő böngészési munkamenet során a böngésző nem rögzíti a böngészési előzményeket vagy az letöltött fájlok listáját. Az anonim ablakból kilépéskor a munkamenet során létrehozott sütiök törlődnek. Melyik állítás igaz az anonim ablakban történő böngészési munkamenetről?",
+    "option_a": "Az anonim ablakban böngésző felhasználó tevékenysége nem látható azoknak az embereknek, akik monitorozzák a felhasználó hálózatát, például a rendszergazda.",
+    "option_b": "Azok a tételek, amelyeket a felhasználó a Webáruház kosarába helyez a későbbi vásárlás során az anonim böngészési munkamenet során nem lesznek mentve a felhasználó számítógépére.",
+    "option_c": "Az anonim böngészési munkamenet során a felhasználó nem tud bejelentkezni az e-mail fiókra vagy a közösségi média fiókra.",
+    "option_d": "Az anonim ablakban a böngésző felhasználója védelmet élvez a látogatott webhelyekről induló vírusokkal szemben vagy letöltött fájlokkal szemben.",
+    "answer": "B",
+    "id": "high_school_computer_science/dev/1"
+  },
+  {
+    "instruction": "Milyen két fő dimenziója van az Ohioi tanulmányoknak a vezetésről?",
+    "option_a": "Kezdő pozíció és vég pozíció",
+    "option_b": "Kezdeti környezet és megváltozott környezet",
+    "option_c": "Szervezeti struktúra és feltételek",
+    "option_d": "Kezdeményező szerkezet és szempontok",
+    "answer": "D",
+    "id": "management/dev/0"
+  },
+  {
+    "instruction": "A nem végrehajtó igazgatótanácsi tagok függetlenségének biztosítása érdekében számos lépés tehető, melyek közé tartozik, hogy a nem végrehajtó igazgatótanácsi tagok közül _____-ból kell kiválasztani, korlátozott ideig kell kinevezni, valamint ______ módon kell kinevezni.",
+    "option_a": "kívülről, korlátozottan, függetlenül",
+    "option_b": "belülről, korlátozottan, időszakosan",
+    "option_c": "kívülről, korlátlanul, időszakosan",
+    "option_d": "belülről, korlátlanul, függetlenül",
+    "answer": "A",
+    "id": "business_ethics/dev/2"
+  },
+  {
+    "instruction": "Három módszer ismeretes a Középértékesség mérésére: az Átlag, a Medián és a Módusz. Tudásod alapján, mi a módusz?",
+    "option_a": "kevésbé érzékeny a szélsőséges adatokra, mint az átlag",
+    "option_b": "jobban használható ferde eloszlások esetén",
+    "option_c": "érzékeny a szélsőséges értékekre és magasan ferde eloszlásokra",
+    "option_d": "a leggyakrabban előforduló szám",
+    "answer": "D",
+    "id": "professional_psychology/dev/1"
+  },
+  {
+    "instruction": "Hoeffding egyenlőtlenség szerint mennyi példány kell az IID teszthalmazban ahhoz, hogy az igazi 0/1 veszteségtől kevesebb, mint 1 százalék legyen (95% valószínűséggel)?",
+    "option_a": "kb. 10 példány",
+    "option_b": "kb. 100 példány",
+    "option_c": "100 és 500 példány között",
+    "option_d": "több mint 1000 példány",
+    "answer": "D",
+    "id": "machine_learning/dev/3"
+  },
+  {
+    "instruction": "A kéz funkciójának értékelésekor melyik az alábbiak közül igaz?",
+    "option_a": "A hüvelykujj elhúzása a T2 gerincgyökere által van ellátva.",
+    "option_b": "A hüvelykujj opponálása az opponens pollicis által van ellátva a T1 gerincgyökere által.",
+    "option_c": "Az ujjak összeszedése a medián ideg által van ellátva.",
+    "option_d": "Az ujjak széthúzása a tenyéri interossei által mediált.",
+    "answer": "B",
+    "id": "clinical_knowledge/dev/2"
+  },
+  {
+    "instruction": "Mintegy hány százalékuk ért egyet azzal az állítással kapcsolatban, hogy 2019-ben az állam az összes emberek javát szolgálja?",
+    "option_a": "31%",
+    "option_b": "46%",
+    "option_c": "61%",
+    "option_d": "76%",
+    "answer": "B",
+    "id": "global_facts/dev/1"
+  },
+  {
+    "instruction": "Kutatók most azt hiszik, hogy a Maya hanyatlását főként a következő okok okozták:",
+    "option_a": "valamilyen katasztrófa, például földrengés, vulkánkitörés vagy cunami.",
+    "option_b": "ökológiai degradáció, amely a kiterjesztett földműveléssel jár.",
+    "option_c": "véget nem érő háborúk szomszédos maya városállamok között.",
+    "option_d": "az interbreeding gyakorlatai, amelyek az örökletes betegségek meredek emelkedéséhez vezettek.",
+    "answer": "B",
+    "id": "prehistory/dev/2"
+  },
+  {
+    "instruction": "Hány százaléka az egyéves gyermekeknek lett beoltva valamilyen betegség ellen 2017-től napjainkig? *",
+    "option_a": "80%",
+    "option_b": "60%",
+    "option_c": "40%",
+    "option_d": "20%",
+    "answer": "A",
+    "id": "global_facts/dev/4"
+  },
+  {
+    "instruction": "Egy kohorsz vizsgálatban a cukorbetegség kockázataránya 0,86 volt a teát fogyasztók (expozíció) és azok között, akik nem ittak teát (nem exponáltak). Melyik állítás helytálló (2020-as ismeretek szerint)?\n",
+    "option_a": "A tea fogyasztók kevesebb kockázattal rendelkeznek, hogy cukorbetegséget kapjanak.",
+    "option_b": "A tea fogyasztók nagyobb kockázattal rendelkeznek, hogy cukorbetegséget kapjanak.",
+    "option_c": "Az adatok alapján nem állapítható meg, hogy a betegségkockázat előfordulásának megfigyelt különbsége véletlen eredménye-e.",
+    "option_d": "A kockázati arány közel áll az egyeszámhoz, így nincs különbség a betegségkockázatban a két csoport között.",
+    "answer": "C",
+    "id": "nutrition/dev/0"
+  },
+  {
+    "instruction": "Melyik három elem közül van a legnagyobb tömege a magonként?",
+    "option_a": "Hidrogén",
+    "option_b": "Vas",
+    "option_c": "Urán",
+    "option_d": "Mindenik azonos",
+    "answer": "A",
+    "id": "conceptual_physics/dev/4"
+  },
+  {
+    "instruction": "Hogyan változtatta meg az NSC-68 az Egyesült Államok stratégiáját?",
+    "option_a": "Globalizálta a containment politikát.",
+    "option_b": "Militarizálta a containment politikát.",
+    "option_c": "Felhívta a figyelmet a hidrogénbomba fejlesztésére.",
+    "option_d": "Mindezek fentiek",
+    "answer": "D",
+    "id": "us_foreign_policy/dev/1"
+  },
+  {
+    "instruction": "Mi a legvalószínűbb magyarázata a 2020-as évre tekintettel a táplálkozási rostokrák elleni védőhatásának?\n",
+    "option_a": "A propionsav, amely a vastagbélrost-erjedés során keletkezik, gátolja a máj zsírsav-szintézisét",
+    "option_b": "A butirát sav, amely a vastagbélrost-erjedés során keletkezik, serkenti a SLC5A8 tumorszuppresszor gén „némítását”",
+    "option_c": "Ezen lehetőségek közül egyik sem helyes",
+    "option_d": "A butirát sav, amely a vastagbélrost-erjedés során keletkezik, serkenti az antioxidáns védelmet a vastagbélben",
+    "answer": "D",
+    "id": "nutrition/dev/2"
+  },
+  {
+    "instruction": "1980. október 1-jén egy fejlesztő, aki több száz hektárnyi vidéki terület tulajdonosa volt, általános fejlesztési tervet dolgozott ki a területre. A törvényesen bejegyzett terv bonyolult korlátozásokat és megkötéseket vezetett be az általa tervezett, lakóövezetként fejlesztendő területre vonatkozóan. A megkötések érvényesültek minden olyan személynek, aki bármelyik telket megvásárolta, valamint az örökösöknek, üzembehelyezett rendelkezőknek és bérlőknek. Továbbá elő volt írva, hogy az összes későbbi tulajdonosnak tudomása lesz a korlátozásokról. Az általános tervben a következő korlátozások voltak feltüntetve: (22) Biztosított egy franchise jog egy 10 láb széles földszalagon a hátsó telkek mentén közüzemi vállalatok használatára be- és kilépési jogukkal együtt. (23) Egyetlen ház vagy épület sem építhető említett földszalagon át, ami azon utcákat szeli ketté. 2000-ben az egyik nyugdíjas ilyen telket vásárolt, épített egy lakóházat és kerítést állított fel az ingatlan hátsó részén a korlátozott területen belül. 2004-ben egy tanár vásárolt egy olyan telket, amely az említett nyugdíjas tulajdonával szomszédos volt, és egy új házat épített. Két évvel később, egy könyvtáros vásárolta meg a telket, amely a tanár tulajdonával szomszédos volt. Az ezekre a tulajdonokra vonatkozó három okirat mindegyikében utalások voltak azon könyv számára, ahol az általános tervet bejegyezték. 2008-ban a könyvtáros megkezdte egy hétláb magas kerítés építését az ő és a tanár telekét elválasztó vonalon, azokon a területeken belül, amelyek a franchise jog hatálya alá tartoznak. Bár a tanár tiltakozott a kerítés építése ellen, a kerítést felépítették. Ha a tanár kötelező injunkciót kér, hogy eltávolítsák a könyvtáros kerítését, akkor a bíróság valószínűleg",
+    "option_a": "megsegítené a tanárt, mert a kerítés megsértette az használat-jog korlátozását.",
+    "option_b": "megsegítené a tanárt, mert a kerítés áthatolt a korlátozott területen.",
+    "option_c": "megtagadná a segítséget, mert a tanár nem követelte meg a korlátozások betartását a nyugdíjas ellen.",
+    "option_d": "megtagadná a segítséget, mert a kerítést nem lenne értelme az \"épületnek\" a korlátozások szerinti meghatározása alapján tekinteni.",
+    "answer": "B",
+    "id": "professional_law/dev/3"
+  },
+  {
+    "instruction": "Miközben Ivan az óceánban úszott, egy sötét árnyék ijedtében találta magát a vízben, mielőtt még felismerte volna, mi okozta az árnyékot. Melyik az alábbiak közül írja le a legjobban a félelemmel járó szinaptikus kapcsolatokat, amelyek a helyzet során bekövetkeztek? ",
+    "option_a": "Az üzenetek közvetlenül a thalamusból az amygdalába kerülnek.",
+    "option_b": "Az üzenetek a thalamusból a \"mi\" és a \"hol\" pályákra kerülnek.",
+    "option_c": "Az üzenetek a paraszimpatikus idegrendszerből a kérgi agy felé kerülnek.",
+    "option_d": "Az üzenetek a homloklebenyből az agyalapi mirigybe kerülnek.",
+    "answer": "A",
+    "id": "high_school_psychology/dev/2"
+  },
+  {
+    "instruction": "Melyik képadat-augmentáció a leggyakoribb a természetes képek esetén?",
+    "option_a": "véletlenszerű vágás és vízszintes tükrözés",
+    "option_b": "véletlenszerű vágás és függőleges tükrözés",
+    "option_c": "poszterizáció",
+    "option_d": "pontozás",
+    "answer": "A",
+    "id": "machine_learning/dev/1"
+  },
+  {
+    "instruction": "Melyik a következő termodinamikai folyamatok közül, melyek közül az ideális gázok belső energiája növekedése megegyezik a hozzáadott hőmennyiséggel?",
+    "option_a": "állandó hőmérséklet",
+    "option_b": "állandó térfogat",
+    "option_c": "állandó nyomás",
+    "option_d": "adiabatikus",
+    "answer": "B",
+    "id": "college_physics/dev/1"
+  },
+  {
+    "instruction": "Ha minden más azonos, melyik a következő személyek közül valószínűbb, hogy csontritkulásban szenved?",
+    "option_a": "Egy idősebb latin-amerikai nő",
+    "option_b": "Egy idősebb afro-amerikai nő",
+    "option_c": "Egy idősebb ázsiai-amerikai nő",
+    "option_d": "Egy idősebb őslakos amerikai nő",
+    "answer": "C",
+    "id": "human_aging/dev/4"
+  },
+  {
+    "instruction": "Melyik az alábbiak közül egyenesen oligopóliumhoz kapcsolódó jellemző?",
+    "option_a": "Szabad belépés és kilépés a piacról",
+    "option_b": "Néhány nagy termelő",
+    "option_c": "Egy olyan termelő, akinek egyetlen, hasonló alternatívája nincsen",
+    "option_d": "Homogén termék",
+    "answer": "B",
+    "id": "high_school_microeconomics/dev/4"
+  },
+  {
+    "instruction": "Angle osztály II/2 fogzatrendellenességnél",
+    "option_a": "túlzott harapás van a felső oldalsó metszőfogak felett.",
+    "option_b": "negatív átfedés van a felső középső metszőfogak között.",
+    "option_c": "túlzott előtolódás van a felső oldalsó metszőfogaknál.",
+    "option_d": "túlzott előtolódás van a felső középső metszőfogaknál.",
+    "answer": "C",
+    "id": "anatomy/dev/3"
+  },
+  {
+    "instruction": "Krete egyedülálló adózó, aki kizárólag béren keresett jövedelemre épít. Az év 1. december 31-ig Krete munkaadója már kifizette $16,000 összegű szövetségi jövedelemadót, és Krete nem teljesített előrejelzett adófizetési kötelezettséget. 2. év április 15-én Krete időben benyújtotta az adóbevallása kiterjesztési kérelmét, és $300 összegű további adót fizetett. Krete 1. évben esedékes adókötelezettsége $16,500 volt, amikor időben leadta a bevallását 2. év április 30-án és kifizette a hátralévő adókötelezettséget. Melyik összeg vonatkozik az előrejelzett adófizetés hiányának büntetésére?",
+    "option_a": "$0",
+    "option_b": "$500",
+    "option_c": "$1,650",
+    "option_d": "$16,500",
+    "answer": "A",
+    "id": "professional_accounting/dev/2"
+  },
+  {
+    "instruction": "Az ekvivalencia-elv szerint ekvivalens dolgok:",
+    "option_a": "űr és idő.",
+    "option_b": "utazó ikertestvér és otthon maradó ikertestvér.",
+    "option_c": "gravitáció és gyorsulás.",
+    "option_d": "tömeg és energia.",
+    "answer": "C",
+    "id": "conceptual_physics/dev/1"
+  },
+  {
+    "instruction": "Melyik szervezet indította el az Earth Hour nevű kampányt?",
+    "option_a": "Greenpeace",
+    "option_b": "Az ENSZ",
+    "option_c": "Oxfam",
+    "option_d": "Világ Természetvédelmi Alap",
+    "answer": "D",
+    "id": "public_relations/dev/4"
+  },
+  {
+    "instruction": "Melyik az alábbiak közül igaz egy érvényes kategórikus szillogizmusra?",
+    "option_a": "Az alsó előfeltevésnek tagadnia kell az antecedent",
+    "option_b": "A felső előfeltevésnek igazolnia kell a consequenst",
+    "option_c": "A középre kell utalnia legalább egy előfeltevésben általános vagy feltételetlen értelemben",
+    "option_d": "Az összes fenti állítás igaz",
+    "answer": "C",
+    "id": "logical_fallacies/dev/2"
+  },
+  {
+    "instruction": "Melyik az alábbi politikák közül írja le legjobban az ellátási oldali költségvetési politikát?",
+    "option_a": "Pénzszűkítés",
+    "option_b": "Növelt kormányzati költekezés",
+    "option_c": "Az új technológia kutatás-fejlesztésére vonatkozó adók csökkentése",
+    "option_d": "Magánszemélyek jövedelme után magasabb adók",
+    "answer": "C",
+    "id": "high_school_macroeconomics/dev/4"
+  },
+  {
+    "instruction": "Milyen erőszak típusait tiltja az ENSZ Chartájának 2(4) cikke?",
+    "option_a": "Az 2(4) cikk csak a fegyveres erőszakra terjed ki.",
+    "option_b": "Az 2(4) cikk minden erőszakot tilt, ideértve a szankciókat is.",
+    "option_c": "Az 2(4) cikk minden állam belügyeibe való beavatkozást tilt.",
+    "option_d": "Az 2(4) cikk csak az állam területi integritása ellen irányuló erőszakra terjed ki.",
+    "answer": "A",
+    "id": "international_law/dev/0"
+  },
+  {
+    "instruction": "Egy új okosóra egy részét az üzem egyik részén gyártják, majd egy másik, független részén biztonságosan csomagolják a szállításhoz. Az okosóra súlya átlagosan 62 gramm, szórás pedig 1,0 gramm. A csomagolás súlya (doboz, használati útmutató, buborékfólia, stb.) átlagosan 456 gramm, szórása pedig 6 gramm. A smartwatch és csomagolásának súlyeloszlása az alábbi átlagot és szórásértéket mutatja:",
+    "option_a": "Átlag 518 gramm; szórás 7,0 gramm",
+    "option_b": "Átlag 518 gramm; szórás 3,5 gramm",
+    "option_c": "Átlag 518 gramm; szórás 6,1 gramm",
+    "option_d": "Átlag 394 gramm; szórás 6,1 gramm",
+    "answer": "C",
+    "id": "high_school_statistics/dev/3"
+  },
+  {
+    "instruction": "Az ügykezelésben melyik a legproaktívabb megközelítés azon negatív vagy félrevezető információk kezelésére, melyek a szervezetedről az interneten jelennek meg?",
+    "option_a": "Vásárolj olyan domain neveket, amelyeket az ellenzéki csoportok használhatnak.",
+    "option_b": "Postázz anonim hozzászólásokat blogokon, hogy megfelelő válaszokkal ellenezd ezeket az információkat.",
+    "option_c": "Készíts egy sajtóközleményt, mely érvényteleníti az eltévesztett információt.",
+    "option_d": "Változtass a politikán, hogy kezelni lehessen az ezeken a weboldalakon megjelenő panaszokat.",
+    "answer": "D",
+    "id": "public_relations/dev/1"
+  },
+  {
+    "instruction": "Milyen volt Tolstoj életének céljáról alkotott véleménye a keresztény megtérése előtt?",
+    "option_a": "optimista",
+    "option_b": "elégedett",
+    "option_c": "névlegesen vallásos",
+    "option_d": "pesszimista",
+    "answer": "D",
+    "id": "philosophy/dev/3"
+  },
+  {
+    "instruction": "Melyik az alábbiak közül nem volt az 1948 utáni jóléti állam célkitűzései között:",
+    "option_a": "ingyenes egészségügyi ellátás és oktatás mindenki számára",
+    "option_b": "albérleti minimálbér bevezetése",
+    "option_c": "teljes foglalkoztatottság elérése",
+    "option_d": "általános jóléti ellátás",
+    "answer": "B",
+    "id": "sociology/dev/0"
+  },
+  {
+    "instruction": "Tíz diák biológia tesztet írt, és a következő pontszámokat kapta: 45, 55, 50, 70, 65, 80, 40, 90, 70, 85. Mi az átlagos pontszámuk?",
+    "option_a": "55",
+    "option_b": "60",
+    "option_c": "62",
+    "option_d": "65",
+    "answer": "D",
+    "id": "high_school_mathematics/dev/4"
+  },
+  {
+    "instruction": "Mely íróhoz kapcsolódnak a higiéniai tényezők?",
+    "option_a": "Frederick Hertzberg",
+    "option_b": "D.C. McClelland",
+    "option_c": "Abraham Maslow",
+    "option_d": "Douglas McGregor",
+    "answer": "A",
+    "id": "management/dev/1"
+  },
+  {
+    "instruction": "Az alábbi programban az x kezdeti értéke 5, az y kezdeti értéke pedig 10. \nHA (X < O)\n{\n KIÍR (\"Foxtrot\")\n}\nEGYÉBKÉNT\n{\n HA (X > y)\n{\n   KIÍR (\"Hotel\")\n}\nEGYÉBKÉNT\n{\n   HA (y > O)\n   {\n   KIÍR(\"November\")\n   }\n   EGYÉBKÉNT\n   {\n   KIÍR(\"Yankee\")\n   }\n}\n}\n\nMilyen eredmény jelenik meg a program futtatása után?",
+    "option_a": "Foxtrot",
+    "option_b": "Hotel",
+    "option_c": "November",
+    "option_d": "Yankee",
+    "answer": "C",
+    "id": "high_school_computer_science/dev/3"
+  },
+  {
+    "instruction": "Elfogadható lenne napjainkban egy fenntartás a kínzás meghatározására az ICCPR-ben?",
+    "option_a": "Elfogadható ennek a fenntartásnak a használata, ha a fenntartó ország jogszabálya eltér a meghatározástól.",
+    "option_b": "Ez az elfogadhatatlan fenntartás, mert ellentmond az ICCPR céljának és céljainak.",
+    "option_c": "Ez az elfogadhatatlan fenntartás, mert a kínzás meghatározása az ICCPR-ben összhangban áll a szokásos nemzetközi joggal.",
+    "option_d": "Elfogadható lenne ez a fenntartás, mert az általános nemzetközi jog alapján az államoknak joga van fenntartásokat tenni a szerződésekhez.",
+    "answer": "B",
+    "id": "international_law/dev/2"
+  },
+  {
+    "instruction": "Egy mikrohullámú sütő csatlakoztatva van egy konnektorhoz, 120 V feszültségre állítva, és 2 amper áramot fogyaszt. Milyen arányban használja a mikrohullámú sütő az energiát?",
+    "option_a": "10 W",
+    "option_b": "30 W",
+    "option_c": "60 W",
+    "option_d": "240 W",
+    "answer": "D",
+    "id": "high_school_physics/dev/3"
+  },
+  {
+    "instruction": "Baron elismeri, hogy a ticking bomb hipotetikus verziói, amelyekről beszél, \"meglepően buták,\" de azt állítja, hogy ez valójában bizonyíték arra, hogy",
+    "option_a": "a hagyományos filozófiai példák többsége butaságot képvisel.",
+    "option_b": "általánosságban hiányzik az intelligencia az előrehaladott diplomával rendelkező embereknél.",
+    "option_c": "a kínzás helytelensége.",
+    "option_d": "sok intelligens ember kész azonosulni azzal, hogy a kínzás a legjobb megoldás a terrorizmus kezelésére.",
+    "answer": "D",
+    "id": "moral_disputes/dev/4"
+  },
+  {
+    "instruction": "Mi az alábbiak közül az intrinzikus jó Singer szerint?",
+    "option_a": "felsőosztálybeli lét",
+    "option_b": "tanulási képesség és problémamegoldó-képesség",
+    "option_c": "szépségesebbnek lenni, mint a többség",
+    "option_d": "átlagosnál alacsonyabb magasság",
+    "answer": "B",
+    "id": "moral_disputes/dev/2"
+  },
+  {
+    "instruction": "Mennyi tengelye van egy standard autónak?",
+    "option_a": "egy",
+    "option_b": "kettő",
+    "option_c": "négy",
+    "option_d": "nyolc",
+    "answer": "B",
+    "id": "miscellaneous/dev/0"
+  },
+  {
+    "instruction": "A glükóz bekerül az izomsejtbe:",
+    "option_a": "GLUT4 nevű fehérje szállítókon keresztül.",
+    "option_b": "csak az inzulin jelenlétében.",
+    "option_c": "hexokináz segítségével.",
+    "option_d": "monokarbonsav szállítókon keresztül.",
+    "answer": "A",
+    "id": "college_medicine/dev/0"
+  },
+  {
+    "instruction": "3 Cl−(aq) + 4 CrO_4^2−(aq) + 23 H+(aq) → 3 HClO2(aq) + 4 Cr3+(aq) + 10 H2O(l). A fent látható reakcióban, a Cl−(aq)",
+    "option_a": "savként viselkedik.",
+    "option_b": "bázisként viselkedik.",
+    "option_c": "katalizátorként viselkedik.",
+    "option_d": "redukálószerként viselkedik.",
+    "answer": "D",
+    "id": "college_chemistry/dev/3"
+  },
+  {
+    "instruction": "A \"hiány költségvetés\" kifejezés a következőre vonatkozik:",
+    "option_a": "évi növekedésre a szövetségi katonai kiadásokra",
+    "option_b": "az államadósság kamatának összegére",
+    "option_c": "az elnök és a Kongresszus által benyújtott kezdeti költségvetési javaslatok közötti különbségre",
+    "option_d": "az összegre, amit az állam jövedelmeinél többet költ",
+    "answer": "D",
+    "id": "high_school_government_and_politics/dev/1"
+  },
+  {
+    "instruction": "Ez a kérdés az alábbi információkra vonatkozik.\nAz alábbi részletek a 1651-es Navigációs Törvényekből származnak.\nAz összes ázsiai, afrikai vagy amerikai termék, vagy ezek bármelyik részéből származó vagy ott előállított árucikk; vagy az ezekhez tartozó szigetek, amelyek az adott helyek szokásos térképein vagy kártyáin vannak feltüntetve; akárcsak az angol településeknek, úgy másoknak is; legyenek importálva vagy behozva valamilyen hajón vagy hajókon belül, csak a Commonwealth-ban élő, valódi és általuk tulajdonolt népek hajói által, amelyek hajóskapitánya és matrózai is az adott közösség tagjai, az ilyen áruk behozatalára vonatkozó tiltást megszegő hajó esetében minden árú elveszik és lefoglalásra kerül, , , ,\nAz összes európai termék vagy azok bármely részének növekedése, előállítása vagy gyártása sem az első december elseje után, amely ebben az esetben az 1651-es, nem importálható vagy hozható be az Angliai Közösségbe, vagy bármely más birtokában vagy hozzá tartozó területeinél ezen Közösségnek, kivéve valóban a Commonwealth-ben élő emberek hajóit,amelyek ténylegesen és tisztességesen az adott közösség tagjaiéi és semmilyen más nemzet hajói, kivéve azokat a külfödi hajókat és járműveket, amelyek ténylegesen és megfelelően az adott ország vagy hely személyeinek vagy helyének termékei a növekedésben, előállításban vagy gyártásban. \nMelyik a következő közül írja le legjobban a 1651-es Navigációs Törvények eredményét?",
+    "option_a": "Segítették az angol hajózás és az overseas kereskedelem növekedését, de keveset tettek a Holland kilátásainak korlátozására a XVII. században.",
+    "option_b": "Azonnali nehézséget okoztak a holland gazdaságnak, mivel uralkodóvá válása az overseas kereskedelemnek hamar véget vetett.",
+    "option_c": "A Stuartok helyreállása alatt eltörölték őket, mivel normál diplomáciai kapcsolatokat keresnek a hollandokkal, hogy ne kelljen a Parlament pénzügyi támogatását igénybe venniük a háborúhoz.",
+    "option_d": "Majdnem egy évszázadnyi ismétlődő háborúhoz vezettek Anglia és Hollandia között, amely csak az amerikai függetlenség után ért véget.",
+    "answer": "A",
+    "id": "high_school_european_history/dev/3"
+  },
+  {
+    "instruction": "Az reggeli rosszullét tipikusan problémát jelent:",
+    "option_a": "a terhesség első trimeszterében",
+    "option_b": "a terhesség második trimeszterében",
+    "option_c": "a terhesség harmadik trimeszterében",
+    "option_d": "egész terhesség alatt",
+    "answer": "A",
+    "id": "human_sexuality/dev/0"
+  },
+  {
+    "instruction": "Jósold meg, hogy hány vonalat tartalmaz az EPR spektrum egy 13C-címkézett metilradikál (13CH3•) oldatában, feltéve hogy a vonalak nem részben fedik egymást.",
+    "option_a": "4",
+    "option_b": "3",
+    "option_c": "6",
+    "option_d": "24",
+    "answer": "A",
+    "id": "college_chemistry/dev/2"
+  },
+  {
+    "instruction": "Timothy Pauketat szerint a társadalmi rétegződés és politikai hatalom bizonyítékai szerint Cahokia központja:",
+    "option_a": "a Mississippian civilizáció központja volt, amelynek feltételei hasonlóak az korai államok fellendüléséhez.",
+    "option_b": "egy egalitáriánus vadászó-néző társadalom hatóságainak korlátait mutatja.",
+    "option_c": "egy egyszerű vezérség vagy talán egy összetett vezérség alakult ki Kr. u. 1500 körül.",
+    "option_d": "a Mississippian civilizáció központja volt, amelynek feltételei hasonlóak az északnyugati partvidék társadalmaira.",
+    "answer": "A",
+    "id": "prehistory/dev/1"
+  },
+  {
+    "instruction": "Ahhoz, hogy valamit biztonságossá lehessen tenni, milyen módon kell megjelennie a fenyegetésnek?",
+    "option_a": "Létezési fenyegetésként, amely azonnali és rendkívüli intézkedéseket igényel, az állam vagy a társadalmi biztonság fennmaradásának veszélyeztetése által.",
+    "option_b": "Azonnali és rendkívüli intézkedéseket igénylő fenyegetésként az államra nézve, a referenciához kötött célok túlélésének veszélyeztetése miatt, amiért politikai szinten általában nem szokás intézkedéseket hozni.",
+    "option_c": "Azonnali fenyegetésként a referenciacél túlélésének veszélyeztetése miatt, amely olyan súlyos, hogy lehetővé teszi a rendkívüli intézkedések alkalmazását a válaszadás során.",
+    "option_d": "Azonnali fenyegetésként a közönség túlélésének veszélyeztetése, amely rendkívüli vagy vészhelyzeti intézkedéseket igényel.",
+    "answer": "C",
+    "id": "security_studies/dev/2"
+  },
+  {
+    "instruction": "A CSR-ben való részvétel üzleti előnyei mellett számos erkölcsi érv is található, amelyek kapcsolódnak a negatív _______-hoz, az üzleti szerekhez _______ és az üzleti élet és a társadalom _______-hoz.",
+    "option_a": "Külső hatások, Hatalom, Függetlenség",
+    "option_b": "Nyilvánosság, Anyagi erőforrások, Közös függőség",
+    "option_c": "Nyilvánosság, Hatalom, Függetlenség",
+    "option_d": "Külső hatások, Hatalom, Közös függőség",
+    "answer": "D",
+    "id": "business_ethics/dev/0"
+  },
+  {
+    "instruction": "Egy korábban egészséges, 32 éves nő, az orvoshoz fordul, 8 hónappal azután, hogy férje autóbalesetben elhunyt. Azóta csökkent az étvágya és nehézségei vannak az elalvással. Állandóan szomorúnak érzi magát, és gyakran sír. Az ajtózárat öt alkalommal ellenőrzi, mielőtt elhagyja a házat, és pontosan öt darab toalettpapírt számol, mielőtt használja. Állítja, hogy mindig is tökéletesionista volt, de ezek az erős vágyak és rituálék újak. Melyik következő neurotranszmitterre kell célzottan kiválasztani a farmakoterápiát?",
+    "option_a": "Dopamin",
+    "option_b": "Glutamát",
+    "option_c": "Norepinefrin",
+    "option_d": "Szerotonin",
+    "answer": "D",
+    "id": "professional_medicine/dev/2"
+  },
+  {
+    "instruction": "Válassza ki a legjobb fordítást predikátum logikával: Senki nem vezet a Marson.",
+    "option_a": "~Vm",
+    "option_b": "(∀x)(Px ∨ ~Vm)",
+    "option_c": "(∀x)(Px ⊃ ~Vm)",
+    "option_d": "~Vm",
+    "answer": "C",
+    "id": "formal_logic/dev/0"
+  },
+  {
+    "instruction": "Hogyan támadta meg Donald Trump a globalizációt a 2016-os kampány során?",
+    "option_a": "A globalizáció olyan embereket tett túlzottan gazdaggá, mint ő.",
+    "option_b": "A globalizáció csak bizonyos amerikai államoknak járt, mint például New Yorknak.",
+    "option_c": "A liberális elit ösztönözte a globalizációt, míg az 'általános amerikaiak' munkájukat vesztették miatta.",
+    "option_d": "A globalizáció káros kereskedelmi háborúkra ösztönöz.",
+    "answer": "C",
+    "id": "us_foreign_policy/dev/4"
+  },
+  {
+    "instruction": "A viselkedési beavatkozás legfontosabb célja:",
+    "option_a": "Viselkedés változása",
+    "option_b": "Teljes körű lefedettség",
+    "option_c": "Hatékony viselkedési elmélet alkalmazása",
+    "option_d": "Tartós viselkedési változás",
+    "answer": "D",
+    "id": "virology/dev/3"
+  },
+  {
+    "instruction": "Egy levegővel megtöltött cső zárt egyik végénél állóhullámot idéz elő a hangot létrehozva. Melyik az alábbiak közül helyes állítás a hullám tulajdonságairól a cső zárt végénél?",
+    "option_a": "A nyomás csomópontban van, de a részecskediszlokáció arculcsúcsban.",
+    "option_b": "A nyomás arculcsúcsban van, de a részecskediszlokáció csomópontban van.",
+    "option_c": "A nyomás és a részecskediszlokáció is csomópontban van.",
+    "option_d": "A nyomás és a részecskediszlokáció is arculcsúcsban van.",
+    "answer": "B",
+    "id": "high_school_physics/dev/1"
+  },
+  {
+    "instruction": "A beágyazott eset-kontroll tanulmányok alkalmazását a MACS-ben lehetővé tévő kulcsszereplő:",
+    "option_a": "Adatgyűjtés",
+    "option_b": "Biológiai mintatár létrehozása",
+    "option_c": "Résztvevők érdeklődése",
+    "option_d": "Kérdőív kitöltése a személyzet által",
+    "answer": "B",
+    "id": "virology/dev/2"
+  },
+  {
+    "instruction": "A nagy triplet ismétlések kitágulásai kimutathatók a következő módon:",
+    "option_a": "polimeráz láncreakció (PCR).",
+    "option_b": "kiemelkedő szálú konformációs polimorfizmus elemzés (SSCP).",
+    "option_c": "Southern blot módszer.",
+    "option_d": "Western blot módszer.",
+    "answer": "C",
+    "id": "medical_genetics/dev/0"
+  },
+  {
+    "instruction": "Glikolízis a neve annak az útnak, amelyben a következő alakváltozások mennek végbe:",
+    "option_a": "glikogénből glükóz-1-foszfáttá.",
+    "option_b": "glikogénből vagy glükózból fruktóz állapotba.",
+    "option_c": "glikogénből vagy glükózból pirosavas vagy tejsavas állapotba.",
+    "option_d": "glikogénből vagy glükózból pirosavas vagy acetil-CoA állapotba.",
+    "answer": "C",
+    "id": "clinical_knowledge/dev/4"
+  },
+  {
+    "instruction": "Tegyük fel, hogy az X és Y véletlen változók, melyekre E(X) = 37, var(X) = 5, E(Y) = 62, és var(Y) = 12. Mennyi X + Y véletlen változó várható értéke és varianciája?",
+    "option_a": "E(X + Y) = 99, var(X + Y) = 8,5",
+    "option_b": "E(X + Y) = 99, var(X + Y) = 13",
+    "option_c": "E(X + Y) = 99, var(X + Y) = 17",
+    "option_d": "Ehhez a kérdéshez nem áll rendelkezésre elegendő információ.",
+    "answer": "D",
+    "id": "high_school_statistics/dev/1"
+  },
+  {
+    "instruction": "Milyen elemzési keretek szerint tekintik a terrorizmust 2020-ban?",
+    "option_a": "Az nagyobb nemzetek közötti versengés eredményezte, hogy egyes országok aktívan támogatják a terroristacsoportokat, hogy aláássák az ellenfelek erejét. A terroristahálózatok kiterjedt pártérdekcsoportok, amelyeket az adományozó államok tartanak fenn és fizetnek, és úgy vannak elképzelve, mint állami szereplők, akikkel katonai erővel kell szembenézni.",
+    "option_b": "A globalizáció lehetővé tette a terrorista tevékenységek nemzetközivé válását a működési területük kiterjesztésével, bár a koordináció még mindig földrajzi alapokon működik. Ez azt jelenti, hogy a terroristacsoportok országosan vannak strukturálva arra ítélve hogy nem lehet a terrorizmust háborús szemlélettel legyőzni militarizálással anélkül, hogy súlyos következményei lennének az őslakos népességre.",
+    "option_c": "A terrorizmus hadviselési eszközökkel való megoldását, rendőrségi technikákkal való kezelést (a terrorizmust bűnügyként kezelve), vagy alapvető okokat és tüneteket feltáró orvosi problémaként való vizsgálatát szemléletileg különbözően kezelhetjük.",
+    "option_d": "A terrorizmus bűnözési problémaként való kezelése azt jelenti, hogy a terrorizmus felszámolható, a terrorista előállítható és eljárás alá vontatik közönséges jogi eljárások keretében, eltávolítva ezzel a veszélyt a társadalomból és megelőzhető a további kialakulása a megelőző bűnügyi technikák alkalmazásával.",
+    "answer": "C",
+    "id": "security_studies/dev/4"
+  },
+  {
+    "instruction": "A bíró bírói észrevétellel élt a tárgyalás elején. Melyik az alábbi ténytípusok közül nem megfelelő az ilyen észrevételekre?",
+    "option_a": "Kétséget kizáró tények.",
+    "option_b": "Olyan tények, amelyeket egyedi politikai szervezetek állítottak.",
+    "option_c": "Olyan tények, amelyek közös tudásként ismertek.",
+    "option_d": "Olyan tények, amelyek tudományosan igazolhatóak.",
+    "answer": "B",
+    "id": "professional_law/dev/2"
+  },
+  {
+    "instruction": "Mi az Homo erectus kb. átlagos koponyatérfogata?",
+    "option_a": "650 ccm alatt",
+    "option_b": "kb. 800 ccm",
+    "option_c": "alig 1000 ccm alatt",
+    "option_d": "1200 ccm",
+    "answer": "C",
+    "id": "prehistory/dev/4"
+  },
+  {
+    "instruction": "A Középső Pliocénben részleges emberi származékokra vonatkozó nemrégiben végzett kutatások (2020-ban) azt mutatják, hogy:",
+    "option_a": "vagy nagyon sokfélék voltak az emberi származékok, vagy egyetlen faj sokféleségét mutatták.",
+    "option_b": "kevés volt az emberi származékok száma és sokféleségük az adott időszakban.",
+    "option_c": "a jégkorszak hosszú időszaka és egy súlyos szárazság miatt csökkent az emberi származékok sokfélesége.",
+    "option_d": "csökkent az emberi származékok sokfélesége, de emelkedett a kalapácskövek és forgácsok száma, ami kőeszközök gyártására utal.",
+    "answer": "A",
+    "id": "prehistory/dev/3"
+  },
+  {
+    "instruction": "Melyik meiózis szakaszban párosodnak a kromoszómák és történik kereszteződés?",
+    "option_a": "prophase I",
+    "option_b": "metaphase I",
+    "option_c": "prophase II",
+    "option_d": "metaphase II",
+    "answer": "A",
+    "id": "medical_genetics/dev/4"
+  },
+  {
+    "instruction": "Ez a kérdés az alábbi információkra vonatkozik.\nBár a királyi felség jogosan és joggal a Church of England legfőbb feje, és így van is elismertetve az egyház klérusának gyűlésein, ennek megerősítése és megerősítése érdekében, valamint Krisztus vallásának növekedése érdekében Anglia birodalmában, és hogy eltörölje és felszámolja az összes hibát, eretnekséget és más hatalmasságokat és visszaéléseket, amelyek korábban ugyanabban az egyházban használtak, az jelen parlamenti hatóság által, azon hatóság által, hogy a király, a felségünk, az örökös és az utóda, a birodalmak királya, elfogadott és tekintett megbízható főnök a Church of England földjén, Anglicans Ecclesia néven; és birtokolja, csatolt és egyesítve az angollal kapcsolatos címet és stílust is, az összes dicsőséggel, méltósággal, előretöréssel, hatósággal, mentességgel, jövedelmekkel és előnyökkel együtt, amelyek a fent említett Egyház fejedelemi méltóságához tartoznak; és hogy a mi felséges urunk, örökösei és utódai, a birodalmak királyai, teljes joggal és hatósággal bírnak az időnkénti látogatásra, elnyomásra, helyreállításra, feljegyzésre, sorrendre, helyreállítására, korrekciójára, korlátozására és javítására minden olyan hibára, eretnekségre, visszaélésre, megsértésre, megvetésre és hatalmasságra, amelyet bármilyen lelki hatóság vagy hatáskör reformájára, elnyomására, rendezésére, helyreállítására, korrekciójára, korlátozására vagy javítására jogilag szükséges vagy lehetséges, a Mindenható Isten örömére, Krisztus vallásának növekedésére és a birodalom béke, egység és nyugalom megőrzésére; bármilyen használatot, külföldi földet, külföldi hatóságot, orvosságot vagy bármilyen más dolgot is, ami ennek az ellenkezőjét vonja magával. \nAz angol parlament, a felségjog törvénye, 1534\nA részből azt lehet feltételezni, hogy az Angol Parlament azt akarta érvelni, hogy a Felségjog Törvénye új pozícióba helyezi az angol királyt.",
+    "option_a": "új hatásköröket ad az angol királynak",
+    "option_b": "csak a VII. Henriknek adja a Church of England fejedelemségét, és kizárja örököseit",
+    "option_c": "felállítja a kalvinizmust az egyedüli igaz teológiaként Angliában",
+    "option_d": "véget vet a Church of Englandre nehezedő korrupciós formáknak",
+    "answer": "D",
+    "id": "high_school_european_history/dev/4"
+  },
+  {
+    "instruction": "A plevra",
+    "option_a": "nem rendelkezik érző beidegzéssel.",
+    "option_b": "2 mm-es tér választja el őket.",
+    "option_c": "egészen a nyakig húzódik.",
+    "option_d": "a légzőszervi epitheliumból áll.",
+    "answer": "C",
+    "id": "anatomy/dev/2"
+  },
+  {
+    "instruction": "Melyik szó összefoglalja legjobban Weber magyarázatát a formálisan racionális jog fejlődéséről?",
+    "option_a": "Tekintély.",
+    "option_b": "Karázma.",
+    "option_c": "Együttműködés.",
+    "option_d": "Tőkeizmus.",
+    "answer": "D",
+    "id": "jurisprudence/dev/2"
+  },
+  {
+    "instruction": "A demográfiai átmenet modelljének harmadik szakaszában melyik az alábbiak közül igaz?",
+    "option_a": "A születési arány növekszik és a népesség növekedési üteme lassabb.",
+    "option_b": "A születési arány csökken és a népesség növekedési üteme lassabb.",
+    "option_c": "A születési arány növekszik és a népesség növekedési üteme növekszik.",
+    "option_d": "A születési arány csökken és a népesség növekedési üteme növekszik.",
+    "answer": "B",
+    "id": "high_school_geography/dev/1"
+  },
+  {
+    "instruction": "Melyik a legelső gyógyszer a 2-es típusú cukorbetegségben és elhízásban szenvedő betegek esetében, 2020-as adatok szerint?\n",
+    "option_a": "Akarbóz",
+    "option_b": "Metformin",
+    "option_c": "Szulfanilureák",
+    "option_d": "Inzulin",
+    "answer": "B",
+    "id": "nutrition/dev/4"
+  },
+  {
+    "instruction": "Melyik két szituációban követ el a főszereplő (aki a 'I/me/my' személyes névmásokat használja) nyilvánvalóan erkölcsileg helytelen cselekedetet az Egyesült Államokban 2020-as átlagos erkölcsi normái szerint? Szituáció 1 | Kértem egy szál cigarettát a bolt kívül álló sráctól. Szituáció 2 | Amikor az őr elment a posztjáról, zsebre tettem egy ritka érmét.",
+    "option_a": "Helytelen, helytelen",
+    "option_b": "Helytelen, nem helytelen",
+    "option_c": "Nem helytelen, helytelen",
+    "option_d": "Nem helytelen, nem helytelen",
+    "answer": "C",
+    "id": "moral_scenarios/dev/1"
+  },
+  {
+    "instruction": "Ez a kérdés a következő információra vonatkozik.\nNem személyes igények érvényesítése vagy egyéni előnyök keresése érdekében jövök; azoknak vagyok az ügyvédje, akik nem tudják saját ügyüket képviselni; azoknak vagyok a barátja, akiket elhagytak, elnyomtak és magukra hagytak. Isten előrelátásában, én vagyok az őrült hangja, akinek átható kiáltásai a fogság sötét bugyraiból nem jutnak el a törvényhozó terembe. Az én támogatásomra szorulnak azok a szegény, megzavarodott lények, akik a cellában, a ketrecben, az ólban és a mennyezetű szobákban várnak jobb sorsra. Én vagyok a száz borzalmakkal küszködő lény, akik rejtve vannak a magánlakásokban, az ólakban és a kunyhókban, eltávolítva minden gyógyító hatástól, minden szellemi gondoskodástól...\n Ha megtudnák, milyen szomorú történett állanak mögöttük, amit az elmúlt három hónap során jelenítettem meg bánatos lelkemen előtt, milyen gyorsan és milyen erős vágyakozással kutatnák az elfogadott megkönnyebbülés módjait; milyen jelentéktelenek és elhanyagolhatóak lennének azok az áldozatok, amelyeket kérek az általános javak érdekében; milyen néhány cent és dollár, amit minden állampolgár hozzájárulása révén összegyűjthetnek, a biztos előnyökhöz és hatalmas jóhoz képest, amit a szenvedő elmebetegség elleni védekezéshez és kezeléshez elegendő alap létrehozása és alkalmazása biztosítana.\n- Dorothea Dix, A Megmentésért Könyörgő Emlékmű egy Állami Kórházért az Elmebetegség Védelmére és Gyógyítására, benyújtva az Észak-Karolina Általános Gyűlésének 1848. november\nDorothea Dixet a legjobban kit lehet hasonlítani?",
+    "option_a": "Abigail Adams",
+    "option_b": "Clara Barton",
+    "option_c": "Shirley Temple",
+    "option_d": "Hillary Clinton",
+    "answer": "B",
+    "id": "high_school_us_history/dev/4"
+  },
+  {
+    "instruction": "Melyek közül az alábbiak tartalmazzák azokat a DNS-szekvenciákat, amelyek szükségesek a kromoszómák elkülönítéséhez a mitózisban és meiózisban?",
+    "option_a": "Telomerek",
+    "option_b": "Centromerek",
+    "option_c": "Nukleoszómák",
+    "option_d": "Splíceoszómák",
+    "answer": "B",
+    "id": "college_biology/dev/4"
+  },
+  {
+    "instruction": "Ki valószínűbb, hogy otthon marad egyedül a következő személyek közül, 2019-ben?",
+    "option_a": "Egy ázsiai férfi vagy nő",
+    "option_b": "Egy spanyol ajkú férfi",
+    "option_c": "Egy afroamerikai nő",
+    "option_d": "Egy fehér férfi vagy nő",
+    "answer": "C",
+    "id": "human_aging/dev/0"
+  },
+  {
+    "instruction": "Melyik következmény nem mutat több tényezős öröklődést?",
+    "option_a": "Pilorosztózis",
+    "option_b": "Szkizofrénia",
+    "option_c": "Spina bifida (neurális csőhiba)",
+    "option_d": "Marfan-szindróma",
+    "answer": "D",
+    "id": "medical_genetics/dev/3"
+  },
+  {
+    "instruction": "Melyik következő módszerrel nem lehet rekombináns DNS-t létrehozni?",
+    "option_a": "Transzláció",
+    "option_b": "Konjugáció",
+    "option_c": "Specializált transzdukció",
+    "option_d": "Transzformáció",
+    "answer": "A",
+    "id": "high_school_biology/dev/0"
+  },
+  {
+    "instruction": "Melyik jellemző nem tipikus a 'nyitott rendszerek' irányítási modelljére?",
+    "option_a": "Morál",
+    "option_b": "Innováció",
+    "option_c": "Növekedési erőforrás",
+    "option_d": "Adaptáció",
+    "answer": "A",
+    "id": "management/dev/3"
+  },
+  {
+    "instruction": "Melyik a következő elemcsoport hidridjeinek hőstabilitását sorolja fel a legalacsonyabbtól a legmagasabbig?",
+    "option_a": "PbH4 < SnH4 < GeH4 < SiH4 < CH4",
+    "option_b": "PbH4 < SnH4 < CH4 < GeH4 < SiH4",
+    "option_c": "CH4 < SiH4 < GeH4 < SnH4 < PbH4",
+    "option_d": "CH4 < PbH4 < GeH4 < SnH4 < SiH4",
+    "answer": "A",
+    "id": "college_chemistry/dev/4"
+  },
+  {
+    "instruction": "Melyik az alábbiak közül várható, hogy poláros molekula legyen?",
+    "option_a": "PCl4F",
+    "option_b": "BF3",
+    "option_c": "CO2",
+    "option_d": "Si(CH3)4",
+    "answer": "A",
+    "id": "high_school_chemistry/dev/1"
+  },
+  {
+    "instruction": "Melyik az alábbiak közül a testüreg, amely a hipofízis mirigyet tartalmazza?",
+    "option_a": "Hasi",
+    "option_b": "Koponyaüregi",
+    "option_c": "Pleuraüregi",
+    "option_d": "Gerinccsatornában lévő",
+    "answer": "B",
+    "id": "anatomy/dev/4"
+  },
+  {
+    "instruction": "A phloem tartalmak nyomás-áramlás modellje szerint a fotoszintetizátumok a forrásból a lefolyó felé a következő által hajtott mozgás révén jutnak el:",
+    "option_a": "az ATP függő nyomás-áramlás szivattyú által",
+    "option_b": "egy víznyomás potenciál gradiens révén",
+    "option_c": "a transzpiráció révén",
+    "option_d": "az apoplasztikus diffúzió révén",
+    "answer": "B",
+    "id": "college_biology/dev/3"
+  },
+  {
+    "instruction": "Melyik az alábbiak közül állítja legjobban James Madison érvelését a 10. számú The Federalistban?",
+    "option_a": "Az őszinte politikusok megakadályozhatják a frakciók kialakulását.",
+    "option_b": "A frakciók nagyobb valószínűséggel fordulnak elő nagy köztársaságokban, mint kis ones.",
+    "option_c": "A frakcionalizmus negatív hatásai csökkenthetők a köztársasági kormány által.",
+    "option_d": "A szabad választások a nép legjobb védelme a frakcionalizmussal szemben.",
+    "answer": "C",
+    "id": "high_school_government_and_politics/dev/4"
+  },
+  {
+    "instruction": "A mion jellemző élettartama mintegy 10^-6 másodperc, amikor pedig bomlik, egy elektront, egy mion neutrínót és egy elektron antineutrínót hoz létre. A mion nem bomolhat csak egyetlen neutrínóba, máskülönben az elektromos töltés megmaradása törvényét sérti.",
+    "option_a": "elektromos töltés",
+    "option_b": "tömeg",
+    "option_c": "energia és impulzus",
+    "option_d": "lepton szám",
+    "answer": "D",
+    "id": "college_physics/dev/4"
+  },
+  {
+    "instruction": "Egy SR latch NOR kapukból építve. Mely feltételt nem engedélyezzük?",
+    "option_a": "S=0, R=0",
+    "option_b": "S=0, R=1",
+    "option_c": "S=1, R=0",
+    "option_d": "S=1, R=1",
+    "answer": "D",
+    "id": "electrical_engineering/dev/0"
+  },
+  {
+    "instruction": "Egy 2 pólusú lapváltó tekercses egyenáramú gépben egy vezető ellenállása 2Ω, a vezetők összes száma pedig 100. Határozza meg az összes ellenállást.",
+    "option_a": "200Ω",
+    "option_b": "100Ω",
+    "option_c": "50Ω",
+    "option_d": "10Ω",
+    "answer": "C",
+    "id": "electrical_engineering/dev/1"
+  },
+  {
+    "instruction": "Állítás 1 | Egy csoport minden eleme ciklikus részcsoportot hoz létre a csoportban. Állítás 2 | Az S_10 szimmetrikus csoportnak 10 eleme van.",
+    "option_a": "Igaz, Igaz",
+    "option_b": "Hamis, Hamis",
+    "option_c": "Igaz, Hamis",
+    "option_d": "Hamis, Igaz",
+    "answer": "C",
+    "id": "abstract_algebra/dev/2"
+  },
+  {
+    "instruction": "Ötezer dollárt $x\\%$ kamatláb mellett évente kamatoztatva hat év alatt megduplázzuk. Ugyanazzal a kamatlábbal hány év alatt lesz $\\$300$-ból $\\$9600$?",
+    "option_a": "12",
+    "option_b": "1",
+    "option_c": "30",
+    "option_d": "5",
+    "answer": "C",
+    "id": "high_school_mathematics/dev/1"
+  },
+  {
+    "instruction": "A szexuálterápiát kérő férfiak között a leggyakoribb rendellenesség:",
+    "option_a": "korai magömlés",
+    "option_b": "gátlással járó magömlés",
+    "option_c": "erektilis diszfunkció",
+    "option_d": "magömlési rendellenesség",
+    "answer": "C",
+    "id": "human_sexuality/dev/4"
+  },
+  {
+    "instruction": "Egy 36 éves férfi jelentkezett az orvosi rendelőben három hétig fennálló derékfájdalommal. Tagadja az akut traumát, de elmondta, hogy a munkája miatt naponta számos alkalommal ki és be száll kamionjába. A hason fekvő beteg vizsgálata során bal oldalon mély szakrális barázdot, jobb oldalon hátsó alsó laterális dudort, és a derék-keresztcsonti csatlakozási pontot tapintásra szabadon megmozdulónak találták. A legvalószínűbb diagnózis",
+    "option_a": "bal oldali szakrális tortíció",
+    "option_b": "jobb oldali és bal oldali szakrális tortíció",
+    "option_c": "jobb oldali egyoldalú szakrális flexió",
+    "option_d": "jobb oldali szakrális tortíció",
+    "answer": "D",
+    "id": "professional_medicine/dev/1"
+  },
+  {
+    "instruction": "Melyik dinasztia alatt fejlődött ki a \"Menny Mandátuma\", hogy a új uralkodókat legitimálják?",
+    "option_a": "Shang",
+    "option_b": "Zhou",
+    "option_c": "Han",
+    "option_d": "Xia",
+    "answer": "B",
+    "id": "world_religions/dev/2"
+  },
+  {
+    "instruction": "A szappanbuborékban lévő színek a fénytől függnek.",
+    "option_a": "átalakulása más frekvenciára",
+    "option_b": "eltérítés",
+    "option_c": "interferencia",
+    "option_d": "polarizáció",
+    "answer": "C",
+    "id": "conceptual_physics/dev/2"
+  },
+  {
+    "instruction": "Egy megtermékenyített petesejt más néven",
+    "option_a": "zigóta.",
+    "option_b": "embrionális állapotban lévő sejt.",
+    "option_c": "életképes.",
+    "option_d": "blastociszt.",
+    "answer": "A",
+    "id": "moral_disputes/dev/1"
+  },
+  {
+    "instruction": "Melyik szakaszában a tervezési folyamatnak hajtanák végre helyzetértékelést?",
+    "option_a": "A program meghatározása",
+    "option_b": "A program tervezése",
+    "option_c": "Cselekvés és ötletek megvalósítása",
+    "option_d": "A program értékelése",
+    "answer": "A",
+    "id": "public_relations/dev/3"
+  },
+  {
+    "instruction": "Mi a különbség a férfi és női katéter között?",
+    "option_a": "A férfi és női katéterek különböző színűek.",
+    "option_b": "A férfi katéterek hosszabbak a női katétereknél.",
+    "option_c": "A férfi katéterek nagyobbak a női katétereknél.",
+    "option_d": "A női katéterek hosszabbak a férfi katétereknél.",
+    "answer": "B",
+    "id": "clinical_knowledge/dev/1"
+  },
+  {
+    "instruction": "Az __________ az etikai kérdések vagy problémák formális vagy informális kezelésének közvetlen kísérlete a specifikus irányelvek, gyakorlatok és programok segítségével.",
+    "option_a": "Vállalati társadalmi felelősségvállalás",
+    "option_b": "Üzleti etika kezelése",
+    "option_c": "Fenntarthatóság",
+    "option_d": "Környezetvédelmi kezelés",
+    "answer": "B",
+    "id": "business_ethics/dev/1"
+  },
+  {
+    "instruction": "Melyik állítás igaz a jódra vonatkozóan 2020-ban?",
+    "option_a": "Az felnőttek 50%-a az RNI szint alatt van, ha a jódbevitelüket nézzük.",
+    "option_b": "A tejtermékek gyenge jódforrások.",
+    "option_c": "Az organikus tej jód tartalma általában alacsonyabb, mint a nem organikus tejé.",
+    "option_d": "Az Egyesült Királyságban a táplálkozási referencia értékek a terhesség alatt növelt jódbevitelt javasolnak.",
+    "answer": "C",
+    "id": "nutrition/dev/3"
+  },
+  {
+    "instruction": "Egy 44 éves férfi 3 napja fájdalmas torokkal, nem produktív köhögéssel, orrfolyással és homlokfájással jelentkezik az orvosi rendelőben. A beteg azt mondja, hogy a fejfájás reggelente rosszabb és az ibuprofen kissé enyhíti. Nincs légszomja. A beteg orvosi előzménye jelentéktelen. A fájdalomon kívül nem szed más gyógyszert. Az alapvető értékek a következők: hőmérséklet 37,4°C (99,4°F), pulzus 88/perc, légzés 18/perc, és vérnyomás 120/84 mm Hg. A orrnyálkahártya vizsgálata erythematous. A torok vizsgálata erythema és follicularis lymphoid hyperplasia mutatható ki a pozterior orofarynxon. Nincs tapintható nyaki nyirokcsomó. A tüdők tiszták a hallgatózás során. Melyik a legvalószínűbb okai a beteg tüneteinek?",
+    "option_a": "Allergiás rhinitis",
+    "option_b": "Epstein-Barr vírus",
+    "option_c": "Mycoplasma pneumoniae",
+    "option_d": "Rhinovírus",
+    "answer": "D",
+    "id": "professional_medicine/dev/3"
+  },
+  {
+    "instruction": "Egy középiskolai fizikatanár feltölt egy 1 literes palackot tiszta nitrogénnel, majd lezárja a kupakot. A nyomás 1,70 atmoszféra, a szobahőmérséklet pedig 25°C. Mely két változó fogja mindkét növelni a rendszer nyomását, ha az összes többi változót állandóan tartjuk?",
+    "option_a": "Hőmérséklet növelése, gáz mennyiségének növelése",
+    "option_b": "Hőmérséklet növelése, térfogat növelése",
+    "option_c": "Térfogat csökkentése, hőmérséklet csökkentése",
+    "option_d": "Gáz mennyiségének csökkentése, térfogat növelése",
+    "answer": "A",
+    "id": "college_medicine/dev/3"
+  },
+  {
+    "instruction": "Te a Világ Legcsillogóbb Gépi Tanulási Konferencia papírjait értékeled, és olyan beadványokat látsz, amelyek az alábbi állításokkal rendelkeznek. Melyeket tartanád elfogadhatónak?",
+    "option_a": "A módszerem az összes előző módszernél alacsonyabb képzési hibát eredményez!",
+    "option_b": "A módszerem az összes előző módszernél alacsonyabb teszthatásossági hibát ér el! (Lábjegyzet: Amikor a szabályozási paraméter λ-t úgy választjuk, hogy a teszthatósági hibát minimalizáljuk.)",
+    "option_c": "A módszerem az összes előző módszernél alacsonyabb teszthatósági hibát ér el! (Lábjegyzet: Amikor a szabályozási paraméter λ-t úgy választjuk, hogy a keresztvalidációs hibát minimalizáljuk.)",
+    "option_d": "A módszerem az összes előző módszernél alacsonyabb keresztvalidációs hibát ér el! (Lábjegyzet: Amikor a szabályozási paraméter λ-t úgy választjuk, hogy a keresztvalidációs hibát minimalizáljuk.)",
+    "answer": "C",
+    "id": "machine_learning/dev/2"
+  },
+  {
+    "instruction": "Egy törőteleszkóp két összegző lencséből áll, amelyek egymástól 100 cm távolságra vannak elhelyezve. Az okulárlencse fókusztávolsága 20 cm. A teleszkóp szögbenyújtó nagyítása:",
+    "option_a": "4",
+    "option_b": "5",
+    "option_c": "6",
+    "option_d": "20",
+    "answer": "A",
+    "id": "college_physics/dev/3"
+  },
+  {
+    "instruction": "Az egyének fogyatékosságokkal kapcsolatos oktatásának javításáról szóló törvény értelmében melyiket kell teljesítenie az oktatási ügynökségnek, mielőtt megváltoztatná egy fogyatékkal élő tanuló oktatási helyét?",
+    "option_a": "Adjon egy próbaidőszakot a gyereknek az új környezetben",
+    "option_b": "Értesítse a szülőket írásban",
+    "option_c": "Szerezzen iskolai igazgató-testületi jóváhagyást",
+    "option_d": "Szerezzen szülői beleegyezést",
+    "answer": "B",
+    "id": "high_school_psychology/dev/3"
+  },
+  {
+    "instruction": "A rövid távú Phillips-görbe azt jelzi, hogy",
+    "option_a": "direkt kapcsolat van a munkanélküliség és az infláció között",
+    "option_b": "direkt kapcsolat van az ár és a kereslet mennyisége között",
+    "option_c": "inverz kapcsolat van az ár és a kereslet mennyisége között",
+    "option_d": "inverz kapcsolat van a munkanélküliség és az infláció között",
+    "answer": "D",
+    "id": "high_school_macroeconomics/dev/1"
+  },
+  {
+    "instruction": "Az SHA-1-nek üzenetösszefoglalója van, amelynek hossza",
+    "option_a": "160 bit",
+    "option_b": "512 bit",
+    "option_c": "628 bit",
+    "option_d": "820 bit",
+    "answer": "A",
+    "id": "computer_security/dev/0"
+  },
+  {
+    "instruction": "Mi keletkezik a fotoszintézis során?",
+    "option_a": "hidrogén",
+    "option_b": "náilon",
+    "option_c": "oxigén",
+    "option_d": "fény",
+    "answer": "C",
+    "id": "miscellaneous/dev/3"
+  },
+  {
+    "instruction": "Egy baktérium enzim mutációja a korábban pólusos aminosavat nem pólusossá tette. Az aminosav az enzim aktív helyétől távol helyezkedett el. Hogyan befolyásolhatja ez a mutáció az enzim szubsztrát specifitását?",
+    "option_a": "Az enzim pH-optimumának megváltoztatása által",
+    "option_b": "Az enzim helyének megváltoztatása által a sejtben",
+    "option_c": "A fehérje alakjának megváltoztatása által",
+    "option_d": "Egy aminosav változás az aktív helytől távol nem befolyásolhatja az enzim szubsztrát specifitását.",
+    "answer": "C",
+    "id": "high_school_biology/dev/1"
+  },
+  {
+    "instruction": "Melyik az alábbi állítások közül helyes (a 2020-as ismeretek szerint)?\n",
+    "option_a": "A fenilketonuria betegeinek kerülni kell az aszpartám édesítőszert.",
+    "option_b": "A fenilketonuria betegeinek kerülni kell a szacharin édesítőszert.",
+    "option_c": "A fenilketonuria betegeinek kerülni kell a szukralóz édesítőszert.",
+    "option_d": "A fenilketonuria betegeinek kerülni kell az aszulfám K édesítőszert.",
+    "answer": "A",
+    "id": "nutrition/dev/1"
+  },
+  {
+    "instruction": "Mi lesz a kimenete az \"abc\"[::-1] kódrészletnek Python 3-ban?",
+    "option_a": "Hiba",
+    "option_b": "abc",
+    "option_c": "cba",
+    "option_d": "c",
+    "answer": "C",
+    "id": "high_school_computer_science/dev/2"
+  },
+  {
+    "instruction": "Egy többszörös regressziós képlet felépítése során a cél az előrejelzés érdekében optimális mérőeszköz-kombináció kialakítása, amelyben a becslők",
+    "option_a": "nem korrelálnak egymással, de mérsékelten korrelálnak a kritériummal",
+    "option_b": "alacsony korrelációval rendelkeznek egymással és a kritériummal is",
+    "option_c": "magasan kölcsönösen összefüggenek egymással és mérsékelten korrelálnak a kritériummal",
+    "option_d": "alacsony korrelációval rendelkeznek a kritériumhoz képest, de mérsékelt korrelációval egymással",
+    "answer": "A",
+    "id": "professional_psychology/dev/4"
+  },
+  {
+    "instruction": "Metz szerint mi a baj a következmény-orientált érvekkel szemben az afrikai értékek mentén felépülő halálbüntetés ellen?",
+    "option_a": "Még nem világos, hogy a halálbüntetés megakadályozza-e a közösség károsodását.",
+    "option_b": "Még nem világos, hogy a halálbüntetés megakadályozza-e valamely egyének károsodását.",
+    "option_c": "Az afrikai értékek nem támogatják a következmény-orientáltságot.",
+    "option_d": "Bár az afrikai értékek támogatják a következményorientáltságot, nem kerültek felkínálásra következmény-orientált érvek az afrikai értékek mentén megfogalmazva.",
+    "answer": "A",
+    "id": "moral_disputes/dev/0"
+  },
+  {
+    "instruction": "Mi az embriológiai eredete a hyoid csontnak?",
+    "option_a": "Az első garatívből",
+    "option_b": "Az első és második garatívből",
+    "option_c": "A második garatívből",
+    "option_d": "A második és harmadik garatívből",
+    "answer": "D",
+    "id": "anatomy/dev/0"
+  },
+  {
+    "instruction": "A kreatin-kiegészítés várható mellékhatása:",
+    "option_a": "izomgyengeség.",
+    "option_b": "testtömeg-növekedés.",
+    "option_c": "izomgörcsök.",
+    "option_d": "elektrolitvesztés.",
+    "answer": "B",
+    "id": "college_medicine/dev/4"
+  },
+  {
+    "instruction": "Állítás 1| Az önmagába leképező véges halmaz minden függvénye injektív. Állítás 2| Egy Abel-csoport bármely részcsoportja is Abel-csoport.",
+    "option_a": "Igaz, Igaz",
+    "option_b": "Hamis, Hamis",
+    "option_c": "Igaz, Hamis",
+    "option_d": "Hamis, Igaz",
+    "answer": "A",
+    "id": "abstract_algebra/dev/3"
+  },
+  {
+    "instruction": "Legyen V az összes valós polinomok halmaza p(x). Legyenek T, S transzformációk definiálva V-n úgy, hogy T:p(x) -> xp(x) és S:p(x) -> p'(x) = d/dx p(x), majd értelmezzük (ST)(p(x)) = S(T(p(x))). Melyik az alábbiak közül igaz?",
+    "option_a": "ST = 0",
+    "option_b": "ST = T",
+    "option_c": "ST = TS",
+    "option_d": "ST - TS V-n önmagába való leképezésként értelmezhető.",
+    "answer": "D",
+    "id": "college_mathematics/dev/0"
+  },
+  {
+    "instruction": "Caplan konzultálóközpontú esetkonzultációs modellje szerint a tanácsadó elsősorban",
+    "option_a": "a kliens által felvetett problémák okainak és megoldásainak azonosításával foglalkozik",
+    "option_b": "a konzultáns segítségével a konzultált személy nehézségeinek okainak azonosítására és megszüntetésére összpontosít",
+    "option_c": "hatékony döntéshozatalt tesz lehetővé azáltal, hogy hierarchiát alakít ki az illetékes döntéshozók között",
+    "option_d": "egyetlen jól meghatározott és egyértelmű cselekvési tervet javasol a tanácsadó a készséghiányok leküzdéséhez",
+    "answer": "B",
+    "id": "high_school_psychology/dev/1"
+  },
+  {
+    "instruction": "Pence hat különböző szaporodási esetet hasonlít össze, a természetes ikerváltózástól az SCNT-ig. Milyen következtetést von le ennek a összehasonlításnak alapján?",
+    "option_a": "Az SCNT nem egy másfajta szaporodási mód, mivel nincsenek erkölcsileg releváns különbségek az engedélyezett más szaporodási módokhoz képest.",
+    "option_b": "Mivel a természetes ikerváltózásnak alacsony a károsodás kockázata, az SCNT-nél is alacsony lesz a kockázat.",
+    "option_c": "mind A mind B",
+    "option_d": "se A se B",
+    "answer": "A",
+    "id": "moral_disputes/dev/3"
+  },
+  {
+    "instruction": "Az Alpha Co. 1. évi január 1-jén éves karbantartási szerződést kötött egy szoftvertervezővel 15 000 dollár összegben, a karbantartási időszak pedig 2. évi március 1-jén kezdődött. Az Alpha továbbá 5 000 dollár költséget vállalt a szoftver módosítási kéréseivel kapcsolatban, ami növelni fogja a szoftver funkcionalitását. Az Alpha az informatikai eszközeit és szoftvereit öt éven keresztül a számított vonalas módszerrel értékcsökkenési időbelivel amortizálja. Mennyi a teljes költség, amelyet az Alpha el kell ismernie a karbantartási szerződéssel és a szoftvermódosításokkal kapcsolatban 1. évi december 31-ig bezárólag?",
+    "option_a": "5 000 dollár",
+    "option_b": "13 500 dollár",
+    "option_c": "16 000 dollár",
+    "option_d": "20 000 dollár",
+    "answer": "B",
+    "id": "professional_accounting/dev/3"
+  },
+  {
+    "instruction": "A \"civil vallás\"-tól a \"közös vallás\"-hoz való áttérés azt jelenti, hogy:",
+    "option_a": "a növekvő állami bürokrácia miatt a vallás csak marginális részévé vált az életünknek",
+    "option_b": "a hagyományos tekintély gyengülése ellenére mindennapi életünk és az 'általános érzékünk' vallási meggyőződéseken és értékeken alapul",
+    "option_c": "csökkent a vallási közösségi imádáson való részvétel, de az emberek továbbra is magánéletükben gyakorolják hitüket",
+    "option_d": "az emberek sokkal valószínűbbek arra, hogy nyilvános, informális helyzetekben beszéljenek vallási meggyőződésükről.",
+    "answer": "B",
+    "id": "sociology/dev/2"
+  },
+  {
+    "instruction": "Melyik az alábbi eset állapította meg azt az előzményt, hogy a vádlottakat tájékoztatni kell a hallgatás és a jogsegélyhez való jogukról, valamint az önincrimináció védelméről?",
+    "option_a": "Weeks v. Egyesült Államok",
+    "option_b": "Betts v. Brady",
+    "option_c": "Mapp v. Ohio",
+    "option_d": "Miranda v. Arizona",
+    "answer": "D",
+    "id": "high_school_government_and_politics/dev/2"
+  },
+  {
+    "instruction": "Tegyük fel, hogy f(1 + x) = f(x) minden valós x értékre igaz. Ha f polinom és f(5) = 11, akkor f(15/2)",
+    "option_a": "-11",
+    "option_b": "0",
+    "option_c": "11",
+    "option_d": "33/2",
+    "answer": "C",
+    "id": "college_mathematics/dev/3"
+  },
+  {
+    "instruction": "d'Holbach szerint az emberek mindig ____ szerint cselekszenek.",
+    "option_a": "szabad választás",
+    "option_b": "lélek diktátumainak",
+    "option_c": "szükséges természeti törvényeknek",
+    "option_d": "megerősített akaratnak",
+    "answer": "C",
+    "id": "philosophy/dev/2"
+  },
+  {
+    "instruction": "Milyen természetes következménye van, amikor a demográfiai és földrajzi változókat összekapcsoljuk?",
+    "option_a": "Geodemográfia",
+    "option_b": "Termék differenciálás.",
+    "option_c": "ANSOFF mátrix.",
+    "option_d": "Márka menedzsment.",
+    "answer": "A",
+    "id": "marketing/dev/0"
+  },
+  {
+    "instruction": "Melyik állítás helyes a korrelációról?",
+    "option_a": "Ha a regressziós vonal meredeksége pontosan 1, akkor a korreláció pontosan 1.",
+    "option_b": "Ha a korreláció 0, akkor a regressziós vonal meredeksége nem értelmezhető.",
+    "option_c": "Az x és y változók szerepének felcserélése megfordítja a korreláció előjelet.",
+    "option_d": "A korreláció r egyenlő a regressziós vonal meredekségével, amikor az y változó z-pontszámai az x változó z-pontszámai ellen fel vannak tüntetve.",
+    "answer": "D",
+    "id": "high_school_statistics/dev/0"
+  },
+  {
+    "instruction": "Mikor lehet \"hozzájárulás\" olyan körülmény, amely kizárja egy állami magatartás jogellenességét?",
+    "option_a": "Hozzájárulás mindig kizárhatja az állami magatartás jogellenességét, amennyiben azt megadják",
+    "option_b": "Hozzájárulás sosem lehet olyan körülmény, amely kizárja a jogellenességet",
+    "option_c": "Hozzájárulás kizárhatja az állami magatartás jogellenességét, ha a hozzájárulás érvényes, és az adott magatartás határai között marad",
+    "option_d": "Hozzájárulás mindig kizárhatja az állami magatartás jogellenességét, függetlenül attól, hogy az állam mely szerve adja azt",
+    "answer": "C",
+    "id": "international_law/dev/3"
+  },
+  {
+    "instruction": "Hogyan írja le Berger (1963) a társadalmi valóságot egy metaforával?",
+    "option_a": "egy vidámparki játék",
+    "option_b": "egy cirkusz",
+    "option_c": "egy bábszínház",
+    "option_d": "egy balett",
+    "answer": "C",
+    "id": "sociology/dev/1"
+  },
+  {
+    "instruction": "Melyik az alábbiak közül egy helyes állítás az ízeltlábúakról?",
+    "option_a": "Rajtuk kívüli vázuk főként peptidoglikánból áll.",
+    "option_b": "Nyitott keringési rendszerrel rendelkeznek, melynek hátulsó szívük az irányítója.",
+    "option_c": "Egy biológiailag sikertelen fajhoz tartoznak, amely képtelen kihasználni a különböző élőhelyeket és tápanyagforrásokat.",
+    "option_d": "Hiányoznak belőlük a párosított, ízesített végtagok.",
+    "answer": "B",
+    "id": "college_biology/dev/0"
+  },
+  {
+    "instruction": "Állítás 1 | Ha aH egy faktorcsoport eleme, akkor |aH| osztja |a|-t. Állítás 2 | Ha H és K G részcsoportjai, akkor HK a G részcsoportja.",
+    "option_a": "Igaz, igaz",
+    "option_b": "Hamis, hamis",
+    "option_c": "Igaz, hamis",
+    "option_d": "Hamis, igaz",
+    "answer": "B",
+    "id": "abstract_algebra/dev/1"
+  },
+  {
+    "instruction": "Miért nincs bolygó ott, ahol az aszteroidaöv található?",
+    "option_a": "Egy bolygó kialakult itt, de egy katasztrofális ütközés következtében darabokra tört.",
+    "option_b": "Nem volt elég anyag ezen a részen a naprendszeri köd kialakulásához.",
+    "option_c": "Túl sok kőzetanyag volt a földi bolygó kialakulásához, de nem volt elég gázanyag a jovian bolygók kialakulásához.",
+    "option_d": "Az óriásbolygó Jupiter rezgése miatt az anyag nem gyűlt össze egy bolygó kialakulásához.",
+    "answer": "D",
+    "id": "astronomy/dev/3"
+  },
+  {
+    "instruction": "Mi az etikus hírközlés?",
+    "option_a": "Az etikák \"hackelése\", hogy igazolják a nem szándékos önző viselkedést",
+    "option_b": "Rendszerek feltörése (például a behatolási tesztek során), hogy feltárják a sebezhetőségeket, hogy azokat javíthassák, és ne kihasználhassák",
+    "option_c": "Rendszer feltörése azoktól, akiknek az etikájával nem ért egyet",
+    "option_d": "Egy szleng kifejezés azokra a gyors szoftverfejlesztésekre, amelyek például hackathonok részeként zajlanak",
+    "answer": "B",
+    "id": "computer_security/dev/2"
+  },
+  {
+    "instruction": "Az állati sejtekben melyik lehet a legvalószínűbb útvonal, amelyen a titkosító fehérje szintetizálódik a sejtben?",
+    "option_a": "Plazmamembrán–Golgi készülék–riboszóma–titkosító hólyag–durva endoplazmatikus retikulum",
+    "option_b": "Riboszóma–Golgi készülék–durva endoplazmatikus retikulum–titkosító hólyag–plazmamembrán",
+    "option_c": "Plazmamembrán–Golgi készülék–riboszóma–titkosító hólyag–durva endoplazmatikus retikulum",
+    "option_d": "Riboszóma–durva endoplazmatikus retikulum–Golgi készülék–titkosító hólyag–plazmamembrán",
+    "answer": "D",
+    "id": "high_school_biology/dev/2"
+  },
+  {
+    "instruction": "HgO minta (m = 0,217 g; moláris tömeg = 217 g) túlzó jodidionokkal reagál az előbbi reakcióval. A kap resulting oldat titrálásához mennyi 0,10 M HCl szükséges az ekvivalenciaponthoz?",
+    "option_a": "1,0 mL",
+    "option_b": "10 mL",
+    "option_c": "20 mL",
+    "option_d": "50 mL",
+    "answer": "C",
+    "id": "college_chemistry/dev/1"
+  },
+  {
+    "instruction": "Melyik állítás NEM pontos az Egyesült Államok helyi kormányainak szolgáltatásaira vonatkozóan?",
+    "option_a": "Sokszor előfordul az erőfeszítések duplikációja.",
+    "option_b": "A központi város szociális problémái átterjednek a környező lakóövezetekre.",
+    "option_c": "Gyakran előfordul a szolgáltatások hatékonyságának hiánya.",
+    "option_d": "Egyik szomszédos közösség sem támogatja mindig egy szomszédos negyed erőfeszítéseit a szennyezés csökkentése érdekében.",
+    "answer": "D",
+    "id": "high_school_geography/dev/2"
+  },
+  {
+    "instruction": "Melyik az alábbiak közül a paramyxovírusok morfológiai jellemzője?",
+    "option_a": "Törékeny vírusok, amelyek gyakran láthatók RNS-sel kijutni a belsejükből",
+    "option_b": "Hosszúkás vírusok",
+    "option_c": "Ikozaéderes vírusok borítékkal",
+    "option_d": "Nagyon nagy vírusok",
+    "answer": "A",
+    "id": "virology/dev/1"
+  },
+  {
+    "instruction": "Carl Jung úgy hitte, hogy egy ügyfél transzferenciája:",
+    "option_a": "egy fantázia, ami elvonja az ügyfelet a valóságtól.",
+    "option_b": "az \"ellentétes érzéseket\" jelenti a terapeuta felé.",
+    "option_c": "\"egyfajta \"\"cselekvés\"\".\"\"\"",
+    "option_d": "az ügyfél személyes és kollektív tudatalattiját tükrözi.",
+    "answer": "D",
+    "id": "professional_psychology/dev/3"
+  },
+  {
+    "instruction": "Az ____________ az a rész, amit a keresőmotorok nem tudnak megkeresni.",
+    "option_a": "Kísérteties web",
+    "option_b": "Világháló",
+    "option_c": "Felületi web",
+    "option_d": "Mély web",
+    "answer": "D",
+    "id": "computer_security/dev/4"
+  },
+  {
+    "instruction": "Melyik az alábbi reguláris kifejezések közül ekvivalens a (ugyanazt a karakterlánc-halmazt leíró) (a* + b)*(c + d) kifejezéssel?",
+    "option_a": "a*(c + d)+ b(c + d)",
+    "option_b": "a*(c + d)* + b(c + d)*",
+    "option_c": "a*(c + d)+ b*(c + d)",
+    "option_d": "(a + b)*c +(a + b)*d",
+    "answer": "D",
+    "id": "college_computer_science/dev/0"
+  },
+  {
+    "instruction": "Melyik elem a dohányfüstben felelős a rák kialakulásáért?",
+    "option_a": "Nikotin",
+    "option_b": "Kátrány",
+    "option_c": "Szén-monoxid",
+    "option_d": "Füst részecskék",
+    "answer": "B",
+    "id": "human_aging/dev/3"
+  },
+  {
+    "instruction": "Egy munkafüggvénye ϕ = 2 eV fotocella soros ellenálláshoz csatlakozik. Fény frekvenciája f = 1 × 10^15 Hz, amely megvilágítja a fotocella fémlemezét. Ha a fény teljesítménye P = 100 W, akkor mi az áram az ellenálláson keresztül?",
+    "option_a": "2:00 AM",
+    "option_b": "6:00 AM",
+    "option_c": "12:00 AM",
+    "option_d": "24 A",
+    "answer": "D",
+    "id": "high_school_physics/dev/2"
+  },
+  {
+    "instruction": "Egy pontmágnes 4π * 10^-4 weber erősségű. Az a mágnesre ható erő newtonban, ha egy 4π * 1.5 * 10^-4 weber erősségű pontmágnes 10 cm távolságra kerül tőle, a következő:",
+    "option_a": "15 N.",
+    "option_b": "20 N.",
+    "option_c": "7.5 N.",
+    "option_d": "3.75 N.",
+    "answer": "A",
+    "id": "electrical_engineering/dev/4"
+  },
+  {
+    "instruction": "Miért jelentenek nagy hatást a parvovírusok parazitaként?",
+    "option_a": "Azért, mert nem rendelkeznek nukleinsavakkal",
+    "option_b": "Segédvírusra van szükségük",
+    "option_c": "Csak osztódó sejtekben szaporodnak",
+    "option_d": "Beépülhetnek a gazda kromoszómáiba",
+    "answer": "A",
+    "id": "virology/dev/0"
+  },
+  {
+    "instruction": "Michelle születésének városának lakossága 145,826. Mi az értéke az 5-nek a 145,826-os számban?",
+    "option_a": "5 ezer",
+    "option_b": "5 száz",
+    "option_c": "5 tíz",
+    "option_d": "5 egyes",
+    "answer": "A",
+    "id": "elementary_mathematics/dev/0"
+  },
+  {
+    "instruction": "Hogyan fejezhető ki egy államnak a kötelezettségvállalásról szóló hozzájárulása?",
+    "option_a": "Egy állam a kötelezettségvállalásról csak a ratifikációval fejezheti ki hozzájárulását.",
+    "option_b": "Egy állam a kötelezettségvállalásról szóló szerződéshez való hozzájárulását aláírással, ratifikációval, elfogadással, jóváhagyással vagy csatlakozással fejezheti ki.",
+    "option_c": "Egy állam a kötelezettségvállalásáról szóló beleegyezését azzal fejezi ki, hogy aláírja a szerződést.",
+    "option_d": "Egy állam a kötelezettségvállalásról szóló hozzájárulását azáltal fejezheti ki, hogy bármilyen módon kívánja azt kifejezni.",
+    "answer": "B",
+    "id": "international_law/dev/4"
+  },
+  {
+    "instruction": "Vegyük figyelembe egy olyan számítógép-tervezést, amelyben több processzor van, mindegyiknek privát gyorsítótára van, és egyetlen buszon osztoznak a globális memórián. Ez a busz a kritikus rendszeri erőforrás. Minden processzor akkor tud egy utasítást végrehajtani 500 nanoszekundum alatt, ha a memória hivatkozásokat helyi gyorsítótára elégíti ki. Amikor gyorsítótár elhibázás történik, a processzor további 2000 nanoszekundumot késleltetve van. Ennek a további késleltetésnek a felénél a busz kizárólag a gyorsítótárazási hibát szolgálja ki. A másik felében a processzor nem tud folytatódni, de a busz szabad azzal, hogy más processzorok kérelmeit szolgálja ki. Átlagosan minden utasításhoz 2 memóriahivatkozás szükséges. Átlagosan a gyorsítótár-elhibázások 1 százaléka fordul elő hivatkozásonként. Az egyetlen processzor mennyi a buszkapacitás aránya, kizárva az egyéb processzorok által okozott késéseket?",
+    "option_a": "1/50",
+    "option_b": "1/27",
+    "option_c": "1/25",
+    "option_d": "2/27",
+    "answer": "B",
+    "id": "college_computer_science/dev/4"
+  },
+  {
+    "instruction": "Olivia használta a \"Add 11\" szabályt, hogy a lenti számsorozatot hozza létre: 10, 21, 32, 43, 54. Melyik állítás igaz a számsorozatra vonatkozóan?",
+    "option_a": "A számsorozat 10. száma egy páros szám lesz.",
+    "option_b": "A számsorozatban sosem lesznek egymás után két páros szám.",
+    "option_c": "A számsorozat következő két száma egy páros majd egy páratlan szám lesz.",
+    "option_d": "Ha a számsorozat egy páratlan számmal kezdődne, akkor csak páratlan számokat tartalmazna a minta.",
+    "answer": "B",
+    "id": "elementary_mathematics/dev/1"
+  },
+  {
+    "instruction": "Ez a kérdés a következő információkra vonatkozik.\n\"Mivel későbbi magatartásunk a Conestoga Manorban és Lancasterben sok spekulációra és sokféle véleményre adott okot ebben a kormányban és a szomszédos kormányokban is; vannak, akik védelmezik és mások, akik elítélik azt; vannak, akik jóságosan enyhítik a bűnt, és mások, akik gonoszul festik a legundorítóbb és legutasítóbb színekben; azt gondoljuk, hogy kötelességünk a nyilvánosság elé tárni az egész ügyet, ahogyan az nekünk megjelent, és még mindig megjelenik. . . .\n\"Ha ezek azok a dolgok, amelyek elegendőek arra, hogy bizonyítsák, az Igazságnak nem megfelelő kapcsolatot a quakerek és az indián vadakkal, képzett szándékuk esetére barátságos viselkedést mutatni és emberi szenvedések teljes érzéketlenségét, vegyük figyelembe néhány közelmúltbeli tényt. Amikor megtaláltuk múlt nyáron, hogy nem valószínű, hogy segítséget kapunk a kormánytól, néhány önkéntes saját költségen ment ki, hogy elűzzék az ellenségeinket határainkról; és amikor közeledtünk a nagy szigethez, értettük, hogy néhány harcosuk elment határvidékünk ellen. Ezért visszatértünk és utolértük őket, és a Munfey Hillnél harcoltunk velük, ahol néhányan közülünk meghaltak, és néhány harcosuk megöltek, ezáltal megmentve határvidékeinket egy másik expedíció történetétől. De alig pusztítottuk el a nagy szigeten található élelmiszereiket és tönkretettük azoknak a jó embereknek a kereskedelmét Béthlehemben, akikkel való szövetségkötésüket feltételezték, hogy megölték barátainkat Northampton megyében, pontosan ezek az indiánok a néhány quaker befolyása miatt a kormány védelme alá vették őket, hogy eltávolítsák őket a meggyilkolt barátok és rokonok bosszújától, és átvészeljék velük a telet.\"\n—\"Paxton Boys Apology\" (pamflet), 1764 (Megjegyzés: Az \"apologia\" ebben a kontextusban magyarázatként értelmezendő, nem bűnvállalás vagy megbánás.)\nAz érvelés fejezi ki, melyek az amerikai történelem gyarmati korszakában fennálló feszültségek közül?",
+    "option_a": "Feszültségek a brit politikák és az észak-amerikai gyarmatosítók vágyai között.",
+    "option_b": "Feszültségek a francia szövetséges indiánok és a brit szövetséges indiánok között.",
+    "option_c": "Feszültségek a szabadon engedett afroamerikaiak és a fehér növényművesek között.",
+    "option_d": "Feszültségek a távolabbi vidéken élő telepesek és a gyarmati elit között.",
+    "answer": "D",
+    "id": "high_school_us_history/dev/1"
+  },
+  {
+    "instruction": "Melyik kifejezés ekvivalens 5 x 9-gyel?",
+    "option_a": "(5 x 4) x (6 x 5)",
+    "option_b": "(5 x 5) + (5 x 4)",
+    "option_c": "(5 x 5) + (5 x 9)",
+    "option_d": "(5 x 9) x (6 x 9)",
+    "answer": "B",
+    "id": "elementary_mathematics/dev/4"
+  },
+  {
+    "instruction": "Az elnöki hatalom korlátairól való bizonytalanság főként annak köszönhető, hogy",
+    "option_a": "a jogi definíció a hatalmasságokat széles körű és pontosan meg nem határozottan határozza meg",
+    "option_b": "a legtöbben egyetértenek abban, hogy az Alkotmány túlságosan sok korlátozást helyez az elnöki hatalomra",
+    "option_c": "a Legfelsőbb Bíróság következetesen elutasítja az elnöki hatalommal kapcsolatos ügyekben hozott döntéseket",
+    "option_d": "az alkotmányos módosítások jelentősen növelték az elnöki hatalom hatáskörét",
+    "answer": "A",
+    "id": "high_school_government_and_politics/dev/0"
+  },
+  {
+    "instruction": "Melyik az alábbiak közül nem probléma az hivatalos statisztikákban a sztrájktevékenységgel kapcsolatban?",
+    "option_a": "a legtöbb sztrájkot nem veszik észre a munkáltatók és a tömegmédia",
+    "option_b": "nem minden ipari vita jelentésre kerül a munkáltató által",
+    "option_c": "a sztrájk definíciója kizárja azt, amely kevesebb, mint tíz munkavállalót érint, vagy kevesebb, mint egy napig tart",
+    "option_d": "nehéz összehasonlítani olyan sztrájkot, amelyeket különböző módon mérték fel",
+    "answer": "A",
+    "id": "sociology/dev/4"
+  },
+  {
+    "instruction": "Egy nő, aki tudja, hogy aktív herpesze és kezeletlen szifilisze van, de továbbra is szexel anélkül, hogy tájékoztatná partnereit a feltételeiről, pszichoanalitikus fogalmak szerint:",
+    "option_a": "erős egóval rendelkezik",
+    "option_b": "gyenge szuperegóval rendelkezik",
+    "option_c": "gyenge id-val rendelkezik",
+    "option_d": "erős szuperegóval rendelkezik",
+    "answer": "B",
+    "id": "human_sexuality/dev/1"
+  },
+  {
+    "instruction": "Melyik állítás HAMIS az alapján, amit a minisztériumokról állítanak?",
+    "option_a": "A törvényhozó ág hozza létre őket.",
+    "option_b": "Tagjaik gyakran nem rendelkeznek nagy befolyással az elnöki döntések felett.",
+    "option_c": "Nem vezethetők mindenféle politikai párt tagjai által, akik az elnök pártjához tartoznak.",
+    "option_d": "Nem minden szövetségi ügynökség minisztérium.",
+    "answer": "C",
+    "id": "high_school_government_and_politics/dev/3"
+  },
+  {
+    "instruction": "Válaszd ki a predikátumlogikában megadott argumentumok legjobb angol értelmezését.\nDm\n(∀x)(Wx ⊃ ~Dx)\n(∀x)Wx ∨ Ag\t/ (∃x)Ax",
+    "option_a": "Marina táncos. Van olyan gyenge, aki nem táncos. Vagy mindenki gyenge vagy Georgia röplabdázik. Tehát van olyan, aki röplabdázik.",
+    "option_b": "Marina táncos. Egyik gyenge sem táncos. Mindenki vagy gyenge, vagy röplabdázik. Tehát van olyan, aki röplabdázik.",
+    "option_c": "Marina táncos. Van olyan gyenge, aki nem táncos. Mindenki vagy gyenge, vagy röplabdázik. Tehát van olyan, aki röplabdázik.",
+    "option_d": "Marina táncos. Egyik gyenge sem táncos. Vagy mindenki gyenge vagy Georgia röplabdázik. Tehát van olyan, aki röplabdázik.",
+    "answer": "D",
+    "id": "formal_logic/dev/2"
+  },
+  {
+    "instruction": "Egy mozgó tekercses mérő tekercsének 100 menete van, 40 mm hosszú és 30 mm széles. A vezérlő nyomaték a teljes skálán 240*10-6 N-m. Ha a mágneses indukció 1 Wb/m2, a mérő tartománya",
+    "option_a": "1 mA.",
+    "option_b": "2 mA.",
+    "option_c": "3 mA.",
+    "option_d": "4 mA.",
+    "answer": "B",
+    "id": "electrical_engineering/dev/2"
+  },
+  {
+    "instruction": "Egy bizonyos pipeline RISC gépnek van 8 általános célú regisztere R0, R1, ..., R7 és támogatja a következő műveleteket.\nADD Rs1, Rs2, Rd Hozzáadja Rs1-t Rs2-höz és beteszi az eredményt Rd-be\nMUL Rs1, Rs2, Rd Rs1-t megszorozza Rs2-val és az eredményt beteszi Rd-be\nEgy művelet általában egy óraütést igényel, azonban két óraütést igényel, ha azonnal szükség van az eredményre az azt követő műveletben. Tekintsük az AB + ABC + BC kifejezést, melyben az A, B, C változók a R0, R1, R2 regiszterekben találhatóak. Ha ezeknek a regisztereknek a tartalmát nem szabad módosítani, mi a minimális óraütések száma az eredmény számításához az AB + ABC + BC kifejezéshez tartozó műveletsorban?",
+    "option_a": "5",
+    "option_b": "6",
+    "option_c": "7",
+    "option_d": "8",
+    "answer": "B",
+    "id": "college_computer_science/dev/1"
+  },
+  {
+    "instruction": "Miért piros a Mars?",
+    "option_a": "Mert a felszínét súlyosan oxidált (\"rozsdásodott\") ásványok borítják.",
+    "option_b": "Mert az atmoszféra többféle fényt szór el kék színspektrumon, és főként piros fényt enged át.",
+    "option_c": "Mert a Marson található ősi lávafolyamok, amik pirosak.",
+    "option_d": "Mert az évszázadokkal ezelőtti felszíni víz a Marson megváltoztatta az ásványok színét.",
+    "answer": "A",
+    "id": "astronomy/dev/4"
+  },
+  {
+    "instruction": "Mit kell tennie egy public relations média szakembernek, ha nem tudja a választ egy riporter kérdésére?",
+    "option_a": "Adj az újságírónak más információt, amiről biztos tudod, hogy helyes.",
+    "option_b": "Mondják azt, hogy az információ 'off the record' és később terjesztik.",
+    "option_c": "Mondják azt, hogy 'nem tudom', és ígérjük meg, hogy később megadják az információt.",
+    "option_d": "Mondják azt, hogy 'nincs megjegyzés', ahelyett, hogy tájékozatlanul tűnjön.",
+    "answer": "C",
+    "id": "public_relations/dev/0"
+  },
+  {
+    "instruction": "A Singleton tervezési mintát arra használják, hogy garantálják, hogy egy osztályból csak egy példányt lehet létrehozni. Melyik állítás igaz erre a tervezési mintára vonatkozóan?\nI. A Singleton osztálynak van egy statikus gyártó metódusa, amely biztosítja a példányát.\nII. A Szingleton osztály lehet egy másik osztály leszármazottja.\nIII. A Singleton osztálynak van egy privát konstruktora.",
+    "option_a": "Csak az I",
+    "option_b": "Csak a II",
+    "option_c": "Csak a III",
+    "option_d": "Az I, II és III is igazak.",
+    "answer": "D",
+    "id": "college_computer_science/dev/2"
+  },
+  {
+    "instruction": "Hogyan különbözik a Defensive Realism és a Offensive Realism az államok viselkedésének magyarázatában?",
+    "option_a": "A defensive realisták nagyobb hangsúlyt helyeznek a nemzetközi intézmények szerepére",
+    "option_b": "A defensive realisták kevesebb hangsúlyt helyeznek a földrajzi tényezőkre",
+    "option_c": "A offenzív realisták nagyobb prioritást tulajdonítanak a nemzeti érdekeknek, mint a defensive realisták.",
+    "option_d": "A defensive realisták biztonsági maximalistáknak tartják az államokat, míg az Offenzív realisták szerint az államok hatalom maximalizálók.",
+    "answer": "D",
+    "id": "us_foreign_policy/dev/3"
+  },
+  {
+    "instruction": "Egy könyvvizsgáló a felszereléseken található szériaszámokat követi nyomon egy nem kibocsátó alkönyvben. Melyik az alábbi menedzsment állítások közül támogatja ezt a tesztet?",
+    "option_a": "Értékelés és elosztás",
+    "option_b": "Teljesség",
+    "option_c": "Jogok és kötelezettségek",
+    "option_d": "Bemutatás és közzététel",
+    "answer": "B",
+    "id": "professional_accounting/dev/4"
+  },
+  {
+    "instruction": "Tegyük fel, hogy a szemed pupillájának átmérője 5 mm, és rendelkezel egy 50 cm-es átmérőjű teleszkóppal. Mennyivel több fényt gyűjthet össze a teleszkóp, mint a szemed?",
+    "option_a": "10000-szer több",
+    "option_b": "100-szor több",
+    "option_c": "1000-szer több",
+    "option_d": "10-szer több",
+    "answer": "A",
+    "id": "astronomy/dev/2"
+  },
+  {
+    "instruction": "Az azonos eredetű struktúrák gyakran bizonyítékok a természetes szelekció folyamatára. Az alábbiak MINDEGYIKE azonos eredetű struktúrának számít, KIVÉVE",
+    "option_a": "a madarak szárnyai és a denevérek szárnyai",
+    "option_b": "a bálnák úszói és az emberek karjai",
+    "option_c": "a tintahal mellúszói és a fóka úszói",
+    "option_d": "egy rovar előlábai és a kutya előlábai",
+    "answer": "D",
+    "id": "high_school_biology/dev/4"
+  },
+  {
+    "instruction": "Melyik az alábbi állításokból igaz mindkettő (2019-ben)?",
+    "option_a": "Az emberek optimisták szoktak lenni a saját jövőjüket és a nemzetük, vagy a világ jövőjét illetően.",
+    "option_b": "Az emberek optimisták szoktak lenni a saját jövőjüket illetően, de pesszimisták a nemzetük, vagy a világ jövőjét illetően.",
+    "option_c": "Az emberek pesszimisták szoktak lenni a saját jövőjüket illetően, de optimisták a nemzetük, vagy a világ jövőjét illetően.",
+    "option_d": "Az emberek pesszimisták szoktak lenni a saját jövőjüket és a nemzetük, vagy a világ jövőjét illetően.",
+    "answer": "B",
+    "id": "global_facts/dev/0"
+  },
+  {
+    "instruction": "Egy tartályban kezdetben 3 gramm só van feloldva 100 liter vízben. Egy olyan sóoldatot permeteznek a tartályba, amelyben a só koncentrációja 0,02 gramm/liter víz. A permetezett oldatot 4 liter/perc sebességgel permetezik, és az összekeveredik a sóoldattal a tartályban. Az így kapott keveréket 4 liter/perc sebességgel kifolyatják a tartályból. Ha az összekeveredés azonnali, akkor 100 perc elteltével hány gramm só lesz a tartályban?",
+    "option_a": "2",
+    "option_b": "2 - e^-2",
+    "option_c": "2 + e^-2",
+    "option_d": "2 + e^-4",
+    "answer": "D",
+    "id": "college_mathematics/dev/1"
+  },
+  {
+    "instruction": "Egyik terápiás ügyfeled jó fogyókúraprogram ajánlását kéri tőled. Ellenőrizted már a városban elérhető programokat, és beiratkoztál azonba, amelyiket a legjobbnak tartasz. Ez a program 50 dolláros bónuszt kínál azoknak, akik új tagokat hoznak a programhoz. Ebben a helyzetben a legmegfelelőbb válaszod az volna, ha",
+    "option_a": "elmondanád ügyfélnek az összes ismert fogyókúraprogram előnyeit és hátrányait, azonban azon program előnyeit és hátrányait kihagynád, amelybe beiratkoztál",
+    "option_b": "ajánlanád ügyfelednek azt a programot, amelyben te is részt veszel, és elmagyaráznád neki a 50 dolláros bónuszt, amit magad is megkapnál",
+    "option_c": "ajánlanád ügyfelednek azt a programot, amelyben te is részt veszel, és felajánlanád neki, hogy a 50 dolláros bónuszt jóváírják az ő programjában",
+    "option_d": "elmondanád ügyfelednek az összes ismert fogyókúraprogram előnyeit és hátrányait, de nem igényelnéd meg a 50 dolláros bónuszt, ha ügyfeled a te programodba iratkozik be",
+    "answer": "D",
+    "id": "professional_psychology/dev/0"
+  },
+  {
+    "instruction": "Az alábbi állítások közül melyik igaz a minimálárakra?",
+    "option_a": "A minimálár eltolja az állagkereslet görbéjét balra.",
+    "option_b": "Egy hatékony minimálárhiányt eredményez a termék esetében.",
+    "option_c": "A minimálár eltolja a termék kínálati görbéjét jobbra.",
+    "option_d": "Hatékony minimálár kialakításához az egyensúlyi árnál magasabban kell állítani.",
+    "answer": "D",
+    "id": "high_school_microeconomics/dev/3"
+  },
+  {
+    "instruction": "Melyik az alábbi mondat legjobb PL-szimbólumformulája?\nA teknősök hosszú életet élnek és boldog lények, hacsak nincsenek megsérülve.",
+    "option_a": "(L • H) ≡ I",
+    "option_b": "(L • H) ∨ I",
+    "option_c": "L • (H ∨ I)",
+    "option_d": "L • (H ⊃ R)",
+    "answer": "B",
+    "id": "formal_logic/dev/4"
+  },
+  {
+    "instruction": "A valóság legátfogóbb értelemben vett vizsgálata, az univerzum és benne lévő dolgok elemi természetének vizsgálata _____ -nek nevezik.",
+    "option_a": "metafizikának",
+    "option_b": "episztemológiának",
+    "option_c": "kvantumfizikának",
+    "option_d": "aksiológiának",
+    "answer": "A",
+    "id": "philosophy/dev/4"
+  },
+  {
+    "instruction": "A jog tudománya az ________ iskola szerint az alapja a \"helyes\". ",
+    "option_a": "Természetes jog",
+    "option_b": "Analitikai",
+    "option_c": "Történeti",
+    "option_d": "Szociológiai",
+    "answer": "A",
+    "id": "jurisprudence/dev/3"
+  },
+  {
+    "instruction": "2019-ben körülbelül hány százalék mondja az oroszok közül, hogy nagyon fontos a szabad média az országunkban kormányállami cenzúra nélkül?",
+    "option_a": "38%",
+    "option_b": "53%",
+    "option_c": "68%",
+    "option_d": "83%",
+    "answer": "A",
+    "id": "global_facts/dev/3"
+  },
+  {
+    "instruction": "Egy szervezetben azt az emberek csoportját, akik a vásárlási döntéseket végzik, _______________-nak nevezik.",
+    "option_a": "Kiszervezési egység.",
+    "option_b": "Beszerzési központ.",
+    "option_c": "Cégvezető egység.",
+    "option_d": "Döntéshozó egység.",
+    "answer": "D",
+    "id": "marketing/dev/1"
+  },
+  {
+    "instruction": "Mi lenne a következménye az OLS becslő torzításának, ha egy regressziós modellben heteroszkedaszticitás jelenne meg, de figyelmen kívül hagynánk?",
+    "option_a": "Torz lesz",
+    "option_b": "Konzisztens lesz",
+    "option_c": "Nem lesz hatékony",
+    "option_d": "Mindegyik (a), (b) és (c) igaz lesz.",
+    "answer": "C",
+    "id": "econometrics/dev/3"
+  },
+  {
+    "instruction": "Mi a szövetség jele a zsidó férfiak számára?",
+    "option_a": "A szivárvány",
+    "option_b": "Körülmetélés",
+    "option_c": "Egy fiú",
+    "option_d": "Bar micvá",
+    "answer": "B",
+    "id": "world_religions/dev/0"
+  },
+  {
+    "instruction": "Ha valaki egy ellenlábas vitapartner jellemét támadja és nem a saját álláspontja érvényességéről szóló érveket hozza fel, akkor melyik következő tévedést követte el?",
+    "option_a": "tu quoque",
+    "option_b": "kéjenc nevetés",
+    "option_c": "személyes támadás",
+    "option_d": "ignoratio elenchi",
+    "answer": "C",
+    "id": "logical_fallacies/dev/0"
+  },
+  {
+    "instruction": "Állapítsd meg az alábbi állításpárok igazságtábláját, majd az igazságtáblák felhasználásával határozd meg, hogy az állítások logikailag egyenlőek, vagy ellentmondóak-e egymásnak. Ha egyik sem igaz, határozd meg, hogy következetesek vagy inkonzisztensek. Indokold válaszaidat.\nE ⊃ (F · E) és ~E · F",
+    "option_a": "Logikailag egyenlőek",
+    "option_b": "Ellentmondóak",
+    "option_c": "Nem logikailag egyenlőek és nem ellentmondóak, de következetesek",
+    "option_d": "Inkonzisztensek",
+    "answer": "C",
+    "id": "formal_logic/dev/3"
+  },
+  {
+    "instruction": "Melyik az alábbiak közül nem ismert, hogy részt vesz a sejtosztály szabályozásában?",
+    "option_a": "Ciklinek",
+    "option_b": "Fehérje kinázok",
+    "option_c": "Ellenőrzőpontok",
+    "option_d": "Fibroblaszt sejtek",
+    "answer": "D",
+    "id": "high_school_biology/dev/3"
+  },
+  {
+    "instruction": "Legyen A egy valós 2x2-s mátrix. Melyik az alábbi állítások közül biztosan igaz?\r\nI. Az A^2 összes eleme nemnegatív.\r\nII. Az A^2 determinánsa nemnegatív.\r\nIII. Ha A-nak két különböző sajátértéke van, akkor az A^2-nek is van két különböző sajátértéke.",
+    "option_a": "Csak az I",
+    "option_b": "Csak a II",
+    "option_c": "Csak a III",
+    "option_d": "Csak a II és a III",
+    "answer": "B",
+    "id": "college_mathematics/dev/2"
+  },
+  {
+    "instruction": "Ez a kérdés a következő információkra vonatkozik. \n\"Az új törvénykönyvről szóló amit feltételezem, hogy szükséges lesz készíteni, azon szeretném, hogy esetleg fontolóra vennéd a Nőket is, és legyél velük nagyvonalúbb és kedvezőbb, mint a ősök. Ne add olyan korlátlan hatalom a Férjek kezébe. Emlékezz rá, hogy az összes Férfi zsarnok lenne, ha lehetne. Ha nem fordítunk különös figyelmet a Nőkre, akkor lázadást szítunk, és nem tartjuk magunkat kötelesnek semmilyen olyan törvényhez, amelyben nincs hangunk vagy képviseletünk.\"\nAbigail Adams, levél John Adamsnak, 1776\n\"A nők számára különleges jogszabályokat alkalmazni az egyik legparadoxabb helyzetbe helyezett bennünket. Egyes részekben az állampolgári jogokkal felruházott nők - szavazók, esküdt bírák, tisztviselők - egy képzeletbeli vonal átlépésekor alattvalók lesznek. Néhány államban a házas nők saját nevükben birtokolhatnak ingatlant és üzletet folytathatnak; más államokban a jövedelem a férjéhez tartozik. Néhány államban a nő tanúja lehet a férjének, perelhet és perelhető a bíróságokon; más államokban nincs jogorvoslat a személy, az ingatlan vagy a jellem károsodása esetén. A házastársak válása esetén az ártatlan feleségnek nincs joga a gyerekekhez vagy a tulajdonhoz, hacsak a bíróság különleges határozata nem áll fenn. Azonban egyetlen állam sem biztosítja a feleségnek a jogot saját testéhez vagy a közös bevétel bármely részéhez a férje élete során. Néhány államban a nők beléphetnek a jogi iskolákba és gyakorolhatnak a bíróságokon; más államokban ezt megtiltják. Néhány egyetemen a lányok ugyanolyan oktatási lehetőségeket élveznek, mint a fiúk, míg az ország legtöbb büszke intézménye közül sokan nem fogadják be őket, noha Kína, Japán és Afrika fiait üdvözölik ott. Az egyes államokban már biztosított előnyök azonban korántsem biztonságosak.\"\nSusan B. Anthony, \"Nyilatkozat a Nők Jogairól,\" 1876. július 4.\nA második részletben kifejezett érzések valószínűleg a következőt támogatják:",
+    "option_a": "Az Egyenlő Jogok Módosítását",
+    "option_b": "az általános választójogot",
+    "option_c": "az államok jogait",
+    "option_d": "a tilalmat",
+    "answer": "B",
+    "id": "high_school_us_history/dev/2"
+  },
+  {
+    "instruction": "Egy teherautót tolsz egy úton. Könnyebb lenne felgyorsítani ezt a teherautót a Mars-on? Miért? (Feltételezzük, hogy nincs súrlódás)",
+    "option_a": "Nehézkesebb lenne, mivel a teherautó nehezebb a Mars-on.",
+    "option_b": "Könnyebb lenne, mivel a teherautó könnyebb a Mars-on.",
+    "option_c": "Nehézkesebb lenne, mivel a teherautó könnyebb a Mars-on.",
+    "option_d": "Mindegy, hogy hol vagy, ugyanolyan lenne.",
+    "answer": "D",
+    "id": "astronomy/dev/0"
+  },
+  {
+    "instruction": "Melyik pozíciót állítja Rawls, hogy a POP (az emberek az eredeti helyzetben) a legkevésbé valószínű, hogy elfogadja?",
+    "option_a": "A POP az egyenlőséget választaná a szabadság fölé.",
+    "option_b": "A POP a „maximin” stratégiát választaná.",
+    "option_c": "A POP a „különbség-elv” mellett döntene.",
+    "option_d": "A POP elutasítaná a „természetes szabadság rendszerét”.",
+    "answer": "A",
+    "id": "jurisprudence/dev/0"
+  },
+  {
+    "instruction": "Egy álló autoregresszív folyamat esetében a sokkok",
+    "option_a": "Végül elhalványulnak",
+    "option_b": "Korlátlanul fennállnak",
+    "option_c": "Exponenciálisan növekednek",
+    "option_d": "Soha nem történnek meg",
+    "answer": "A",
+    "id": "econometrics/dev/0"
+  },
+  {
+    "instruction": "Federális hiány akkor lép fel, ha",
+    "option_a": "a kivitel meghaladja az importot.",
+    "option_b": "az import meghaladja a kivitelt.",
+    "option_c": "a szövetségi adóbevételek meghaladják a kiadásokat.",
+    "option_d": "a szövetségi kiadások meghaladják a szövetségi adóbevételeket.",
+    "answer": "D",
+    "id": "high_school_macroeconomics/dev/2"
+  },
+  {
+    "instruction": "Hogyan írhatóak le azok az szervezeti struktúrák, amelyek demokratikus és inkluzív vezetési stílussal jellemzőek?",
+    "option_a": "Hierarchikus",
+    "option_b": "Bürokratikus",
+    "option_c": "Lapos",
+    "option_d": "Funkcionális",
+    "answer": "C",
+    "id": "management/dev/4"
+  },
+  {
+    "instruction": "Ez a kérdés az alábbi információra utal. \nA következő részlet egy pamfletből származik. \nKérem, emlékezzen arra, hogy mindig erősen támogattam minden ember jogát a saját véleményéhez, függetlenül attól, hogy az mennyiben különbözik az enyémtől. Aki másnak megtagadja ezt a jogot, az rabja lesz a jelenlegi véleményének, mert megakadályozza magát abban, hogy megváltoztassa. \nA mindenféle hibák elleni legádázabb fegyver az okosság. Soha nem használtam másikat, és remélem, soha nem is teszem. \nAz a körülmény, hogy most Franciaországban a papság teljes eltörlése és minden vallási kényszerrendszer és cikk eltörlése megtörtént, nemcsak előmozdította szándékomat, hanem az ilyen jellegű munkát végző számára rendkívül szükségessé is tette, nehogy az általános babonaság, a hamis kormányzási rendszerek és a hamis teológia romjai közepette szem elől tévesztjük az erkölcsöt, az embertelenséget és a valódi teológiát. \nHiszek egy istenben, és semmi másban; és boldogságra vágyom ezen túl az életben. \nHiszek az emberi egyenlőségben; és hiszem, hogy a vallási kötelességek a jogosság megvalósítására, az irgalom gyakorlására és a társlények boldoggá tételére irányulnak. \nNem hiszek a zsidó, a római, a görög, a török, a protestáns vagy bármely egyéb egyház vallásában, amelyről tudok. Saját elmém az én Egyházam. \nAz összes nemzeti egyházi intézmény, legyen az zsidó, keresztény vagy török, semmi mást nem jelent számomra, mint emberi találmányokat, amelyeket azért hoztak létre, hogy megfélemlítsék és rabszolgává tegyék az embereket, és monopolizálják a hatalmat és a profitot. \nEzzel a nyilatkozattal nem szándékozom elítélni azokat, akik másképp hisznek; ugyanolyan joguk van a hitükhöz, mint én. \n- Thomas Paine, Az ész korának könyvei, 1794-1795 \nMelyik Felvilágosodás filozófus dolgozott ki egy rendszert a kormány hatalmi visszaéléseinek elkerülése érdekében?",
+    "option_a": "Jean-Jacques Rousseau",
+    "option_b": "Baron Montesquieu",
+    "option_c": "Mary Wollstonecraft",
+    "option_d": "Adam Smith",
+    "answer": "B",
+    "id": "high_school_european_history/dev/0"
+  },
+  {
+    "instruction": "Egy újszülött genetikai tesztjén ritka, X-kromoszómához kötött recesszív öröklődésű genetikai rendellenességet találnak. Melyik az alábbi állítás valószínűen igaz a rendellenesség ábrázolására vonatkozóan?",
+    "option_a": "Az anyai oldal összes leszármazottja rendelkezni fog a rendellenességgel.",
+    "option_b": "A nők nagyjából kétszer annyira érintettek lesznek, mint a férfiak ebben a családban.",
+    "option_c": "Az érintett hím utódainak összes lánya érintett lesz.",
+    "option_d": "Megfelelő eloszlás lesz a sérült hímek és nőstények között.",
+    "answer": "C",
+    "id": "college_medicine/dev/2"
+  },
+  {
+    "instruction": "Hány próbát kell tenned egy beteg katéterezésekor, mielőtt náluk tapasztaltabb kollégához passzolod a feladatot az 2020-as orvosi ismeretek szerint?",
+    "option_a": "4",
+    "option_b": "3",
+    "option_c": "2",
+    "option_d": "1",
+    "answer": "C",
+    "id": "clinical_knowledge/dev/3"
+  },
+  {
+    "instruction": "Mi különbözteti meg a kényszerítő diplomáciát a katonai erőhasználattól?",
+    "option_a": "Compellence (kényszerítés) egy másik kifejezés a kényszerítő diplomáciára, de szűkebb kritériumokat foglal magában; a compellence azokat a fenyegetéseket foglalja magában, amelyek az ellenfél akcióinak kezdeményezésére irányulnak. Egy fenyegetés, amely szerint egy államnak át kell adnia az egyik területét, mint kényszerítő diplomácia, akkor számít, ha ez a fenyegetés az reaktív diplomácia végrehajtása előtt aktívan kezdeményezi az akciót.",
+    "option_b": "A kényszerítő diplomácia a korlátozott erő alkalmazása fenyegetését jelenti az ellenfél ösztönzése érdekében, hogy megfeleljen a kényszerítő követeléseknek. Az az érdekű befolyásstratégia, amelynek célja az engedelmesség megszerzése: az ellenfél legyőzése céljából történő erőhasználat nem számít. Az ellenfélnek választási lehetősége marad, hogy engedelmeskedjen vagy sem.",
+    "option_c": "A katonai erő, vagy a katonai erő alkalmazásának fenyegetése, félelem felhasználásával éri el stratégiai céljait. A kényszerítő diplomácia ettől a megközelítéstől különbözik, mert nem használja a félelmet az ellenfél kényszerítésének eszközeként.",
+    "option_d": "A kényszerítő diplomáciát arra használják, hogy erőt alkalmazzanak, de korlátozzák annak hatásait az nemzetközi közösségre. A kényszerítő diplomácia egy agresszív stratégia, amelynek célja az engedelmesség megszerzése a legyőzés révén. Nem hagy választási lehetőséget az ellenfélnek, az ellenfélnek vagy engedelmeskednie kell, vagy konfliktusba kell keverednie. Az ellenőrzést az engedelmesség kényszerítésén keresztül próbálja meg elérni, eltávolítva a tárgyalási vagy engedmény lehetőségét.",
+    "answer": "B",
+    "id": "security_studies/dev/0"
+  },
+  {
+    "instruction": "A bonyolult kérdés tévedés abból áll, hogy",
+    "option_a": "valami alsóbbrendűségére hivatkozik, csak azért, mert nem csinál valamit, amire soha nem is volt szándéka.",
+    "option_b": "több állítást fogalmaz meg egyetlen javaslatban, és bizonyítékot adva egy állításra, azt állítja, hogy a többi állítás is bizonyított.",
+    "option_c": "következtetést von le anélkül, hogy megvizsgálná a bizonyítékokat, és csak azt az bizonyítékot veszi figyelembe, ami azt az állítást támogatja.",
+    "option_d": "olyan kérdést tesz fel, amely egy még nem bizonyított feltételezésre vagy több kérdést is tartalmaz, ezzel azt eredményezi, hogy egyenesen igen vagy nem válasz értelmetlen.",
+    "answer": "D",
+    "id": "logical_fallacies/dev/1"
+  },
+  {
+    "instruction": "Hogyan lehet a legjobban leírni az államközpontú megközelítés és az emberi biztonság fogalma közötti kapcsolatot?",
+    "option_a": "Az emberi biztonság keretrendszere olyan széles megoszlásokat mutat a fenyegetések és a referenciák természetében, hogy az államközpontú megközelítések és az emberi biztonság között nincs általánosan alkalmazható összehasonlítás.",
+    "option_b": "Az emberi biztonság keretének felvételekor nyilvánvalóvá válnak a realista államközpontú megközelítés korlátai. Míg az emberi biztonság az egyénre vagy a népességre mint referenciára összpontosít, az államközpontú megközelítések az állam biztonságát helyezik előtérbe, így a humánbiztonság elmarad a prioritások közül.",
+    "option_c": "Az államközpontú biztonsági megközelítés az emberi biztonság része, amelyet általában az emberi biztonság széles iskolájában határoznak meg. Ezzel a megközelítéssel az egyén kerül előtérbe biztonsági tanulmányaiban.",
+    "option_d": "Az államközpontú és emberközpontú biztonsági megközelítések egymást kizáróak, és elegendő elemzési keretet nyújtanak a nemzetközi biztonsági rendszer megértéséhez. Az biztonsági elemzők feladata ezért, hogy eldöntsék, melyik e két jelentős fogalom helyes, és melyiket kell elvetni.",
+    "answer": "B",
+    "id": "security_studies/dev/3"
+  },
+  {
+    "instruction": "Egy parkban összesen 30 játékos játszik kosárlabdát. Pontosan 5 játékos lesz egy csapatban. Melyik állítás magyarázza helyesen, hogyan kell megtalálni a szükséges csapatok számát?",
+    "option_a": "Add ötöt harminchoz, hogy 35 csapatot kapjunk.",
+    "option_b": "Osztjuk 30-at 5-tel, hogy 6 csapatot kapjunk.",
+    "option_c": "Szorozzuk 30-at és 5-tel, hogy 150 csapatot kapjunk.",
+    "option_d": "Vonjunk ki ötöt harmincból, hogy 25 csapatot kapjunk.",
+    "answer": "B",
+    "id": "elementary_mathematics/dev/2"
+  },
+  {
+    "instruction": "Melyik az alábbiak közül az Internet of Things (IoT) eszközök egy példája?",
+    "option_a": "Egy autó figyelmezteti a vezetőt, hogy közel van egy tárgyhoz.",
+    "option_b": "Egy túrázó GPS-szel követi elhelyezkedését.",
+    "option_c": "Egy hűtőszekrény online szolgáltatásból rendel tejet, ha a hűtőben lévő tej majdnem elfogyott.",
+    "option_d": "Egy futó óra optikai érzékelőkkel méri a pulzusát.",
+    "answer": "C",
+    "id": "high_school_computer_science/dev/0"
+  },
+  {
+    "instruction": "Ez a kérdés a következő információra vonatkozik.\nŐ tartalmazza minden munkát, vágyat, illatot és ízt. Ő magában foglalja az egész univerzumot, és csendesen szereti mindazokat. Ő a Lélek, aki a szívemben él, ő a Brahman. Hozzá mennék, amikor túllépek ezen az életen, ahogy azok is tenni fogják, akikben hit és kétség nincs.\n- Az Upanishadok, India, i.e. 1000\nMely valláshoz tartozik valószínűleg a beszélő?",
+    "option_a": "Hinduizmus",
+    "option_b": "Buddhizmus",
+    "option_c": "Sintoizmus",
+    "option_d": "Zoroasztrizmus",
+    "answer": "A",
+    "id": "high_school_world_history/dev/0"
+  },
+  {
+    "instruction": "Hagyományosan, ha a döntési fa-alkotás során egy valós értékű bemeneti attribútummal találkozunk, akkor egy bináris szétválasztást veszünk figyelembe annak függvényében, hogy az attribútum értéke meghaladja-e az egyes határértékeket. Pat azt javasolja, hogy helyette minden egyes attribútum-értékre elkészítsünk egy ágat. Az alábbi lista alapján válassza ki a legnagyobb problémát Pat javaslata közül:",
+    "option_a": "Túl számításigényes.",
+    "option_b": "Valószínűleg az edzési és teszthalmazon rossz eredményekkel járna az alkalmazása.",
+    "option_c": "Valószínűleg az edzési halmazon jó, de a teszthalmazon rossz eredményeket adna az alkalmazása.",
+    "option_d": "Valószínűleg a teszthalmazon jó, de az edzési halmazon rossz eredményeket adna az alkalmazása.",
+    "answer": "C",
+    "id": "machine_learning/dev/4"
+  }
+]

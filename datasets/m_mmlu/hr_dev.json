@@ -1,0 +1,2522 @@
+[
+  {
+    "instruction": "Razmotrite sljedeći AR(1) model s poremećajima koji imaju nultu srednju vrijednost i jediničnu varijansu\n\nyt = 0.2 + 0.4 yt-1 + ut\n\n(Bezuvjetna) srednja vrijednost y bit će dana s",
+    "option_a": "0.2",
+    "option_b": "0.4",
+    "option_c": "0.5",
+    "option_d": "0.33",
+    "answer": "D",
+    "id": "econometrics/dev/1"
+  },
+  {
+    "instruction": "Čovjek u dobi od 42 godine dolazi na pregled prije adrenalektomije koja je zakazana za 2 tjedna. Prije mjesec dana došao je u hitnu službu zbog boli u desnoj strani nakon sudara vozila. Tada je imao krvni tlak 160/100 mm Hg, a CT pregled abdomena pokazao je slučajni 10-cm lijevi adrenalni tumor. Rezultati laboratorijskih pretraga, uključujući potpunu krvnu sliku, koncentracije elektrolita u serumu i testove funkcije jetre, bili su unutar referentnih vrijednosti. Pacijent je inače bio zdrav i nikada mu nije rečeno da ima povišeni krvni tlak. Ne uzima nikakvu terapiju. Pregled u ordinaciji prije 2 tjedna otkrio je povišenu koncentraciju urinarnog nometanefrina i metanefrina te plazma aldosterona. Pacijent je upućen kirurgu koji je preporučio adrenalektomiju. Danas su vitalni znakovi: temperatura 36,6°C (97,9°F), puls 100/min, disanje 14/min i krvni tlak 170/95 mm Hg. Fizički pregled nije otkrio značajne nalaze. Početna priprema za operaciju trebala bi uključivati ​​liječenje kojim od sljedećih lijekova?",
+    "option_a": "Labetalol",
+    "option_b": "Punjenje doze kalijevog klorida",
+    "option_c": "Nifedipin",
+    "option_d": "Fenoksibenzamin",
+    "answer": "D",
+    "id": "professional_medicine/dev/0"
+  },
+  {
+    "instruction": "Prema Mooreovom \"idealnom utilitarizmu\", prava akcija je ona koja donosi najveću količinu:",
+    "option_a": "ugode.",
+    "option_b": "sreće.",
+    "option_c": "dobra.",
+    "option_d": "vrline.",
+    "answer": "C",
+    "id": "philosophy/dev/1"
+  },
+  {
+    "instruction": "Koji od sljedećih nije uključen u SAD-ov BDP?",
+    "option_a": "Američka vojska otvara novu bazu u inozemstvu s 1000 američkih osoblja.",
+    "option_b": "Japanski potrošači kupuju tisuće CD-a proizvedenih u Sjedinjenim Državama.",
+    "option_c": "Američka pjevačica održava rasprodani koncert u Parizu.",
+    "option_d": "Francuska kazališna produkcija gostuje u desecima američkih gradova.",
+    "answer": "C",
+    "id": "high_school_macroeconomics/dev/0"
+  },
+  {
+    "instruction": "Koja od ovih izjava je istinita za Vatikan 2010. godine u vrijeme optužbi za prikrivanje zlostavljanja djece?",
+    "option_a": "Postojao je koordinirani medijski odgovor.",
+    "option_b": "Komunikacija je bila dosljedna.",
+    "option_c": "Kritike su shvaćene kao napadi na Katoličku crkvu.",
+    "option_d": "Vjerodostojnost Vatikana je održana.",
+    "answer": "C",
+    "id": "public_relations/dev/2"
+  },
+  {
+    "instruction": "Pretpostavite da test statistika ima pripadajuću vrijednost p-vrijednosti od 0,08. Koja od sljedećih izjava je točna?\n\n(i) Ako bi veličina testa bila točno 8%, bili bismo ravnodušni prema odbijanju i ne odbijanju nulte hipoteze\n\n(ii) Nulta hipoteza bi bila odbačena ako bi se koristila veličina testa od 10%\n\n(iii) Nulta hipoteza ne bi bila odbačena ako bi se koristila veličina testa od 1%\n\n(iv) Nulta hipoteza bi bila odbačena ako bi se koristila veličina testa od 5%.",
+    "option_a": "(ii) i (iv) samo",
+    "option_b": "(i) i (iii) samo",
+    "option_c": "(i), (ii) i (iii) samo",
+    "option_d": "(i), (ii), (iii) i (iv)",
+    "answer": "C",
+    "id": "econometrics/dev/2"
+  },
+  {
+    "instruction": "Kada arguer uzrokuje zbunjenost tijekom pobijanja zbog stvarnog ili navodnog nedostatka sposobnosti za angažiranje u pobijanju, takav arguer može biti počinio logičku pogrešku",
+    "option_a": "lošeg sportskog duha",
+    "option_b": "apela na sućut",
+    "option_c": "pobijanja osobe",
+    "option_d": "neznanja pobijanja",
+    "answer": "D",
+    "id": "logical_fallacies/dev/4"
+  },
+  {
+    "instruction": "Ovo pitanje se odnosi na sljedeće informacije.\n\"Prava žalba radnika je nesigurnost njegova postojanja; nije siguran da će uvijek imati posao, nije siguran da će uvijek biti zdrav, a predviđa da će jednog dana biti star i nesposoban za rad. Ako padne u siromaštvo, čak i samo zbog dugotrajne bolesti, onda je potpuno nemoćan, prepušten sam sebi, a društvo trenutačno ne prepoznaje nikakvu stvarnu obvezu prema njemu osim uobičajene pomoći za siromašne, čak i ako je radio cijelo vrijeme vrlo vjerno i marljivo. Međutim, uobičajena pomoć za siromašne itekako ostavlja mnogo želja, posebno u velikim gradovima, gdje je mnogo gore nego na selu.\"\nOtto von Bismarck, 1884\nOtto von Bismarck je vjerojatno održao ovaj govor kao reakciju na koje od sljedećih pitanja?",
+    "option_a": "Društvena prihvatljivost dječjeg rada",
+    "option_b": "Opadanje životnog vijeka u Njemačkoj",
+    "option_c": "Kritike njemačkih carinskih tarifa",
+    "option_d": "Negativni učinci pripisani industrijskom kapitalizmu",
+    "answer": "D",
+    "id": "high_school_world_history/dev/2"
+  },
+  {
+    "instruction": "Koja je japanska vlada poticala vrstu nacionalnog kulta utemeljenog na caru i njegovoj povezanosti s kami?",
+    "option_a": "Honen",
+    "option_b": "Tanaka",
+    "option_c": "Tokugawa",
+    "option_d": "Meiji",
+    "answer": "D",
+    "id": "world_religions/dev/3"
+  },
+  {
+    "instruction": "Koji je najbolji pristup za istraživanje uloge dječjih vojnika?",
+    "option_a": "Dječji vojnici su žrtve borbe koji trebaju preodgoj i rehabilitaciju.",
+    "option_b": "Djeca i njihove majke nisu aktivni sudionici u ratovanju i najbolje ih je smatrati subjektima u privatnoj sferi.",
+    "option_c": "Djeca su najčešće nevini promatrači rata i najbolje su korišteni kao zastavni znak mira.",
+    "option_d": "Djeca imaju politički subjektivitet koji se izgubi kada se smatraju pasivnim žrtvama rata.",
+    "answer": "D",
+    "id": "security_studies/dev/1"
+  },
+  {
+    "instruction": "Energija za sve oblike mišićne kontrakcije osigurava se putem:",
+    "option_a": "ATP-a.",
+    "option_b": "ADP-a.",
+    "option_c": "fosfokreatina.",
+    "option_d": "oksidativne fosforilacije.",
+    "answer": "A",
+    "id": "clinical_knowledge/dev/0"
+  },
+  {
+    "instruction": "Koncentracijski omjer za monopol je",
+    "option_a": "0",
+    "option_b": "5",
+    "option_c": "10",
+    "option_d": "100",
+    "answer": "D",
+    "id": "high_school_microeconomics/dev/2"
+  },
+  {
+    "instruction": "U danoj populaciji, svaka 400. osoba ima rak uzrokovan potpuno recesivnim alelom b. Pretpostavljajući da se populacija nalazi u Hardy-Weinbergovom ravnoteži, koja je očekivana proporcija pojedinaca koji nose alel b, ali se ne očekuje da razviju rak?",
+    "option_a": "1/400",
+    "option_b": "19/400",
+    "option_c": "20/400",
+    "option_d": "38/400",
+    "answer": "D",
+    "id": "college_biology/dev/1"
+  },
+  {
+    "instruction": "Kada starije osobe nakon umirovljenja odlaze u drugu državu, koji od sljedećih odredišta je vjerojatnije?",
+    "option_a": "Teksas",
+    "option_b": "Kalifornija",
+    "option_c": "Havaji",
+    "option_d": "Vermont",
+    "answer": "A",
+    "id": "human_aging/dev/2"
+  },
+  {
+    "instruction": "Koja je najmanja osoba koja je ikad pobijedila na natjecanju u zabijanju lopte u NBA-u?",
+    "option_a": "Anthony 'Spud' Webb",
+    "option_b": "Michael 'Air' Jordan",
+    "option_c": "Tyrone 'Muggsy' Bogues",
+    "option_d": "Julius 'Dr J' Erving",
+    "answer": "A",
+    "id": "miscellaneous/dev/2"
+  },
+  {
+    "instruction": "Otopina sadrži 2,00 mola octene kiseline, CH3COOH, i 1,00 mol kalcijevog acetata, Ca(CH3COO)2. Otopina može izdržati dodavanje male količine jake kiseline ili jake baze uz samo manje promjene pH vrijednosti otopine. Veće količine jake kiseline ili jake baze mogu uzrokovati značajnu promjenu pH vrijednosti. Koliko molova dušične kiseline, HNO3, može se dodati prije nego što dođe do značajne promjene pH vrijednosti?",
+    "option_a": "0,500 mol",
+    "option_b": "1,00 mol",
+    "option_c": "2,00 mol",
+    "option_d": "3,00 mol",
+    "answer": "C",
+    "id": "high_school_chemistry/dev/4"
+  },
+  {
+    "instruction": "Ishođenje greške Heartbleed omogućuje",
+    "option_a": "prepisivanje kriptografskih ključeva u memoriji",
+    "option_b": "vrsta umetanja koda",
+    "option_c": "čitanje izvan granica spremnika",
+    "option_d": "napad formatiranjem niske",
+    "answer": "C",
+    "id": "computer_security/dev/3"
+  },
+  {
+    "instruction": "DNA ligaza je",
+    "option_a": "enzim koji spaja fragmente u normalnoj replikaciji DNA",
+    "option_b": "enzim bakterijskog podrijetla koji reže DNA na definiranim nizovima baza",
+    "option_c": "enzim koji olakšava transkripciju specifičnih gena",
+    "option_d": "enzim koji ograničava razinu na kojoj određena hranjiva tvar doseže",
+    "answer": "A",
+    "id": "medical_genetics/dev/1"
+  },
+  {
+    "instruction": "Pojam 'hegemonija' odnosi se na:",
+    "option_a": "tendenciju radničke klase da ne shvati vlastite interese",
+    "option_b": "dominantnu ideologiju koja legitimiraju ekonomsku, političku i kulturnu vlast",
+    "option_c": "oblik dvostruke svijesti koji se temelji na ideologiji i svakodnevnim iskustvima",
+    "option_d": "način plaćanja za izvrsno oblikovanje živog bilja",
+    "answer": "B",
+    "id": "sociology/dev/3"
+  },
+  {
+    "instruction": "Medijan preživljavanja s AIDS-om i smrti utvrđen je praćenjem:",
+    "option_a": "Seroprevalentnih osoba koje su zaražene HIV-om",
+    "option_b": "Seronegativnih osoba",
+    "option_c": "Seroconvertera",
+    "option_d": "Visoko rizičnih seronegativnih osoba",
+    "answer": "C",
+    "id": "virology/dev/4"
+  },
+  {
+    "instruction": "Ovo pitanje se odnosi na sljedeće informacije.\n\"Zaista, imajući u vidu fatve priznatih [učenjaka] koji svoje mišljenje temelje na razumu i tradiciji i konsenzus sunita zajednice koji se slažu da drevna obaveza iskorjenjivanja, uništavanja i protjerivanja zlog inoviranja mora biti cilj naše uzvišene ambicije, jer je \"religijski zanos pobjeda za vjeru Božju Milostivog\"; onda, u skladu s riječima Proroka (Neka mu je mir!), \"Ko uvede zlu inovaciju u naš red, mora biti protjeran\" i \"Ko god učini nešto protiv našeg reda, mora biti izbačen\", djelovanje postaje nužno i hitno ...\"\nPismo turskog sultana Selima I perzijskom šahu Ismailu I, 1514. godine\nPismo Selima I najjasnije je primjer kojeg od sljedećeg?",
+    "option_a": "Održavanje vojne supremacije bez obzira na sve troškove",
+    "option_b": "Širenje napetosti između vjerskih sekti",
+    "option_c": "Čimbenici koji su doveli do propasti Osmanskog carstva",
+    "option_d": "Napore za uspostavljanje mira među islamskim carstvima",
+    "answer": "B",
+    "id": "high_school_world_history/dev/3"
+  },
+  {
+    "instruction": "Ovo pitanje odnosi se na sljedeće informacije.\nPročitajte sljedeći odlomak.\nRevolucionarno sjeme je prodrlo u svaku zemlju i proširilo se više-manje. Bilo je uvelike razvijeno pod režimom vojne despoticije Bonapartea. Njegove osvajanja su razmaknula brojne zakone, institucije i običaje; probila su se kroz svete veze među svim narodima, dovoljno snažne da odolevaju samom vremenu; što se ne može reći za određene dobrobiti koje su te inovatore stekli.\nMonarsi će ispuniti obveze koje su stavljenje na njih od strane Onoga koji ih je ovlastio, dajući im moć, da gledaju o održavanju pravednosti, prava za sve, da izbjegavaju pogrešne putove i odlučno koračaju putem istine. Postavljeni izvan strasti koja potresa društvo, najviše su pozvani u danima iskušenja da odijele stvarnost od laži i pokažu se onakvima kakvi jesu, očevi nadareni autoritetom koji pripada po pravu vođama obitelji, da dokažu da u danima žalosti znaju biti pravedni, mudri i stoga snažni, te da neće napustiti narod kojeg bi trebali voditi da bude igračka frakcija, pogreške i njezine posljedice, koje moraju uključiti gubitak društva.\nUnija između monarha je osnova politike koju sada treba pratiti kako bi se spasilo društvo od potpunog uništenja. . . .\nNemojte miješati ustupke koji su napravljeni strankama sa dobrom koje bi trebalo učiniti za svoje ljude, modifikacijom onih grana administracije koje to zahtjevaju prema njihovim prepoznatljivim potrebama.\nNeka budu pravedni, ali jaki; blagonakloni, ali strogi.\nNeka održe religijske principe u njihovoj čistoti i ne dopuste napad na vjeru i moralnost tumačenu prema društvenom ugovoru ili vizijama glupih sektaša.\nNeka potisnu Tajna društva; to je gangrena društva.\n- Klemens von Metternich, Politička ispovijest vjere, 1820.\nKoji je od sljedećih uzroka najveći uzrok strahova izraženih od strane Metternicha u dokumentu iznad?",
+    "option_a": "Ideje osobne slobode i nacionalizma osmišljene u dobu prosvjetiteljstva rezultirale su radikalnim revolucijama koje su se mogle širiti Europom.",
+    "option_b": "Osvajanje Europe od strane Napoleona dovelo je do stvaranja novih frakcija i pomaklo europsku ravnotežu snaga.",
+    "option_c": "Snaga monarha narasla je do točke gdje je morala biti kontrolirana od drugih snaga unutar svake nacije ili bi došlo do dominacije civila.",
+    "option_d": "Rastući i padajući gospodarski ciklus novonastale kapitalističke ekonomije mogu dovesti do građanske nemira koje treba suzbiti.",
+    "answer": "A",
+    "id": "high_school_european_history/dev/1"
+  },
+  {
+    "instruction": "Uspoređujući s masom atoma urana pri fisiji, kombinirane mase produkata nakon fisije su",
+    "option_a": "manje",
+    "option_b": "veće",
+    "option_c": "iste",
+    "option_d": "nula",
+    "answer": "A",
+    "id": "conceptual_physics/dev/0"
+  },
+  {
+    "instruction": "Pronađite karakteristiku prstena 2Z.",
+    "option_a": "0",
+    "option_b": "3",
+    "option_c": "12",
+    "option_d": "30",
+    "answer": "A",
+    "id": "abstract_algebra/dev/4"
+  },
+  {
+    "instruction": "Za razliku od ________, _________ imaju za cilj nagrađivati ​​povoljno ponašanje tvrtki. Uspjeh takvih kampanja povećan je uporabom ___________, koje kampanjama omogućuju olakšano postizanje __________.",
+    "option_a": "buycottova, bojkota, blockchain tehnologije, dobrotvornih donacija",
+    "option_b": "buycottova, bojkota, digitalne tehnologije, povećanih prodaja",
+    "option_c": "bojkota, kupovina svega, blockchain tehnologije, dobrotvornih donacija",
+    "option_d": "bojkota, buycottova, digitalne tehnologije, povećanih prodaja",
+    "answer": "D",
+    "id": "business_ethics/dev/4"
+  },
+  {
+    "instruction": " Koje od sljedećeg je pretpostavka u Maslowovoj hijerarhiji potreba?",
+    "option_a": "Potrebe ovise o kulturi i društvenoj klasi.",
+    "option_b": "Niže potrebe moraju biti barem djelomično zadovoljene prije nego što više potrebe mogu utjecati na ponašanje.",
+    "option_c": "Potrebe nisu prioritetizirane niti poredane prema nekom određenom redu.",
+    "option_d": "Zadovoljene potrebe su motivatori, a nove potrebe se pojavljuju kada postojeće potrebe ostaju neispunjene.",
+    "answer": "B",
+    "id": "marketing/dev/2"
+  },
+  {
+    "instruction": "Pojednostavite i zapišite rezultat s racionalnim nazivnikom: $$\\sqrt{\\sqrt[3]{\\sqrt{\\frac{1}{729}}}}$$",
+    "option_a": "\\frac{3\\sqrt{3}}{3}",
+    "option_b": "\\frac{1}{3}",
+    "option_c": "\\sqrt{3}",
+    "option_d": "\\frac{\\sqrt{3}}{3}",
+    "answer": "D",
+    "id": "high_school_mathematics/dev/3"
+  },
+  {
+    "instruction": "Koje od sljedećih skupova ima najmanju standardnu devijaciju? Koji ima najveću?\nI: {1,2,3}\nII: {-10,10}\nIII: {100}\n",
+    "option_a": "I, II",
+    "option_b": "II, III",
+    "option_c": "III, I",
+    "option_d": "III, II",
+    "answer": "D",
+    "id": "high_school_statistics/dev/4"
+  },
+  {
+    "instruction": "___________ može mijenjati podatke na vašem sustavu - tako da vaš sustav ne radi ispravno ili ne možete pristupiti određenim podacima, ili čak zahtijevati otkupninu kako bi se dala vaša lozinka.",
+    "option_a": "IM - Trojanci",
+    "option_b": "Pozadinske vrata Trojanci",
+    "option_c": "Trojan-Preuzimatelji",
+    "option_d": "Ransom Trojanci",
+    "answer": "D",
+    "id": "computer_security/dev/1"
+  },
+  {
+    "instruction": "Iverson Jewelers napisao je pismo Milleru, 'Dobili smo iznimno fini samonavigirajući Rolox sat koji ćemo vam prodati po vrlo povoljnoj cijeni.'",
+    "option_a": "Pismo je ponuda za prodaju",
+    "option_b": "Valjana ponuda ne može se dati pismeno.",
+    "option_c": "Pismo sadrži valjani prijedlog koji će isteći u razumnom roku.",
+    "option_d": "Pismo nedostaje jedan od esencijalnih elemenata ponude.",
+    "answer": "D",
+    "id": "jurisprudence/dev/4"
+  },
+  {
+    "instruction": "Koji od ovih grana trigeminalnog živca sadrži procese somatskog motora?",
+    "option_a": "Nadobrazni živac",
+    "option_b": "Podorbitalni živac",
+    "option_c": "Mentalni živac",
+    "option_d": "Nijedna od navedenih",
+    "answer": "D",
+    "id": "anatomy/dev/1"
+  },
+  {
+    "instruction": "Varijabla $x$ varira izravno sa kvadratom varijable $y$, a varijabla $y$ varira izravno sa kubom varijable $z$. Ako je $x$ jednak $-16$ kad je $z$ jednak 2, koja je vrijednost varijable $x$ kad je $z$ jednak $\\frac{1}{2}$?",
+    "option_a": "-1",
+    "option_b": "16",
+    "option_c": "-\\frac{1}{256}",
+    "option_d": "\\frac{1}{16}",
+    "answer": "C",
+    "id": "high_school_mathematics/dev/2"
+  },
+  {
+    "instruction": "Državno zakonodavstvo nedavno je donijelo zakonik kojim se vrijeđanje, psovka ili uporaba opscenog ili osramoćujućeg govora prema ili u vezi sa službenim licem koje obavlja svoje dužnosti, smatra kao prekršaj. Student državnog sveučilišta organizirao je prosvjed na kampusu protiv rata. Okupljanju je prisustvovala grupa od 50 studenata koji su uzvikivali proturatne poruke vozilima koja su prolazila. Kako bi pokazao svoj prezir prema Sjedinjenim Državama, student je prišio američku zastavu na stražnju stranu hlača. Kada je policajac vidio zastavu na hlačama studenta, prišao mu je i rekao da ju mora ukloniti, inače će biti uhićen. Student se naljutio i vikao na policajca: \"Poslušaj, gadu, nosit ću ovaj komad krpe gdje god poželim.\" Student je nakon toga uhićen i optužen za kršenje državnog zakonika. Student podnosi tužbu u državnom sudu osporavajući ustavnost zakonika. Najjači ustavni argument za studenta je da",
+    "option_a": "zakonik nema jasnoću i važnost je narušena prema članku 14. Dodatka Ustava o postupku zaštitom prava.",
+    "option_b": "zakonik je nevažeći jer krši slobodu govora podnositelja zahtjeva prema prvom amandmanu.",
+    "option_c": "zakonik ograničava slobodu govora prema prvom amandmanu jer su dostupni manje restriktivni načini za postizanje iste svrhe.",
+    "option_d": "zakonik je suviše opsežan i stoga nevažeći prema prvom i četrnaestom amandmanu. ",
+    "answer": "D",
+    "id": "professional_law/dev/0"
+  },
+  {
+    "instruction": "Činjenica da odrasli bolje pamte događaje iz svoje adolescencije nego iz drugih perioda života naziva se",
+    "option_a": "Prednost adolescencije",
+    "option_b": "Bum sjećanja",
+    "option_c": "Spomeničko sjećanje",
+    "option_d": "Kvadratni vrhunac oporavka",
+    "answer": "B",
+    "id": "human_aging/dev/1"
+  },
+  {
+    "instruction": "Joe je bio zadužen za svjetla na plesu. Crveno svjetlo treperi svake dvije sekunde, žuto svjetlo svake tri sekunde, a plavo svjetlo svake pet sekundi. Ako uključimo vrlo početka i kraja plesa, koliko će se puta tijekom sedam minuta plesa sva tri svijetla upaliti istovremeno? (Pretpostavite da se sva tri svjetla trepere istovremeno na samom početku plesa.)",
+    "option_a": "3",
+    "option_b": "15",
+    "option_c": "6",
+    "option_d": "5",
+    "answer": "B",
+    "id": "high_school_mathematics/dev/0"
+  },
+  {
+    "instruction": "Prije sto godina, vaša praprabaka uložila je 100 dolara uz godišnju kamatu od 5%. Koliko vrijedi ulaganje danas?",
+    "option_a": "13.000 dolara",
+    "option_b": "600 dolara",
+    "option_c": "15.000 dolara",
+    "option_d": "28.000 dolara",
+    "answer": "A",
+    "id": "professional_accounting/dev/1"
+  },
+  {
+    "instruction": "Prema pravilima otapanja, što od sljedećeg je točno?",
+    "option_a": "Svi kloridi, bromidi i jodidi su topljivi",
+    "option_b": "Svi sulfati su topljivi",
+    "option_c": "Svi hidroksidi su topljivi",
+    "option_d": "Sve spojine koje sadrže amonij su topljive",
+    "answer": "D",
+    "id": "high_school_chemistry/dev/2"
+  },
+  {
+    "instruction": "Područje odluka o politici koje se primarno odnosi na odnose između Sjedinjenih Američkih Država i ostatka svijeta poznato je kao",
+    "option_a": "politika terorizma.",
+    "option_b": "ekonomska politika.",
+    "option_c": "vanjska politika.",
+    "option_d": "međunarodna politika.",
+    "answer": "C",
+    "id": "us_foreign_policy/dev/2"
+  },
+  {
+    "instruction": "Sin je dugovao vjerovniku 5.000 dolara. Otac sina je kontaktirao vjerovnika i rekao mu da želi platiti dug sina. Otac je potpisao dokument koji je izjavio da će otac platiti dug sina u iznosu od 500 dolara mjesečno tijekom 10 mjeseci. Vjerovnik nije dao pisanu ili usmenu potvrdu da će se suzdržati od tužbe sina za naplatu duga od 5.000 dolara, i otac nije usmeno ili pismeno zatražio takvo odgađanje. Tijekom sljedećih pet mjeseci, otac je platio, a vjerovnik prihvatio 500 dolara mjesečnih plaćanja kako je dogovoreno. Tijekom tog razdoblja, vjerovnik se, zapravo, suzdržao da poduzme bilo kakvu pravnu radnju protiv sina. Međutim, otac je zatim obavijestio vjerovnika da neće više plaćati dug. Koja od sljedećih tvrdnji je najuvjerljiviji argument da je otac odgovoran vjerovniku prema uvjetima njihovog dogovora?",
+    "option_a": "Ako se dokaže očeva obećanja i oslonac vjerovnika na to, nastala je valjana tvrdnja vjerovnika protiv oca na temelju doktrine obvezujućih protežiranja (promissory estoppel).",
+    "option_b": "Budući da je bilo predvidljivo da će očevo obećanje potaknuti vjerovnika da se suzdrži od poduzimanja bilo kakvih radnji protiv sina, takvo odlaganje kao pitanje zakona bilo je predmeta pregovaranja u zamjenu za obećanje oca.",
+    "option_c": "Pet očevih plaćanja vjerovniku u iznosu od ukupno 2.500 dolara potvrdila su ozbiljnu namjeru očeva da sklopi ugovor, a takva manifestacija općenito se priznaje kao učinkovita zamjena za protuuslugu.",
+    "option_d": "Preuzimanjem dužnosti prethodnog duga koje je sin dugovao vjerovniku, otac je postao jamac čije obećanje vjerovniku je bilo provedivo, budući da je bilo napisano i poduprto adekvatnom protuuslugom.",
+    "answer": "A",
+    "id": "professional_law/dev/4"
+  },
+  {
+    "instruction": "U konkurentnom tržištu rada za farbara, što bi od sljedećih činjenica povećalo potražnju za farbarima?",
+    "option_a": "Učinkovit minimalac nametnut na ovo tržište rada.",
+    "option_b": "Povećanje cijene galona boje.",
+    "option_c": "Povećanje gradnje novih kuća.",
+    "option_d": "Povećanje cijene mehaničkih farbara samo ako efekt povećanja proizvodnje nadmašuje efekt zamjene.",
+    "answer": "C",
+    "id": "high_school_microeconomics/dev/0"
+  },
+  {
+    "instruction": "Praksa zapošljavanja stranog pružatelja usluga treće strane za obavljanje operacije naziva se",
+    "option_a": "outsourcing.",
+    "option_b": "offshoring.",
+    "option_c": "maquiladoras.",
+    "option_d": "lokalna međuovisnost.",
+    "answer": "B",
+    "id": "high_school_geography/dev/3"
+  },
+  {
+    "instruction": "Prisutnost homolognih struktura u dvije različite organizme, kao što su humerus u prednjoj udovima kod čovjeka i ptice, ukazuje na to da",
+    "option_a": "čovjek i ptica su polifiletičke vrste",
+    "option_b": "evolucija čovjeka i ptice je konvergentna",
+    "option_c": "čovjek i ptica pripadaju kladu",
+    "option_d": "čovjek i ptica su se razvijali po analogiji",
+    "answer": "C",
+    "id": "college_biology/dev/2"
+  },
+  {
+    "instruction": "Koje od sljedećih tvari se smatra kiselinom anhidridom?",
+    "option_a": "HCl",
+    "option_b": "H2SO3",
+    "option_c": "SO2",
+    "option_d": "Al(NO3)3",
+    "answer": "C",
+    "id": "high_school_chemistry/dev/0"
+  },
+  {
+    "instruction": "Koje od sljedećih uvjeta će osigurati da se očuva kutni moment? I. Očuvanje linearnog momenta II. Nula neto vanjske sile III. Nula neto vanjski moment sile",
+    "option_a": "Samo I i II",
+    "option_b": "Samo I i III",
+    "option_c": "Samo II i III",
+    "option_d": "Samo III",
+    "answer": "D",
+    "id": "high_school_physics/dev/0"
+  },
+  {
+    "instruction": "Jedan kraj Nichrome žice duljine 2L i poprečnog presjeka A je pričvršćen na kraj druge Nichrome žice duljine L i poprečnog presjeka 2A. Ako je slobodni kraj dulje žice na električnom potencijalu od 8,0 volti, a slobodni kraj kraće žice na električnom potencijalu od 1,0 volti, potencijal na spoju dviju žica je najbliži:",
+    "option_a": "2,4 V",
+    "option_b": "3,3 V",
+    "option_c": "4,5 V",
+    "option_d": "5,7 V",
+    "answer": "A",
+    "id": "college_physics/dev/2"
+  },
+  {
+    "instruction": "Koja od sljedećih izjava o elementima lantanida NIJE točna?",
+    "option_a": "Najčešće oksidacijsko stanje za elemente lantanida je +3.",
+    "option_b": "Lantanidni kompleksi često imaju visoke koordinacijske brojeve (>6).",
+    "option_c": "Svi elementi lantanida reagiraju s vodenom kiselinom da bi oslobodili vodik.",
+    "option_d": "Atomski radij elementa lantanida raste preko perioda od La do Lu.",
+    "answer": "D",
+    "id": "college_chemistry/dev/0"
+  },
+  {
+    "instruction": "Gen koji pokazuje kodominanciju",
+    "option_a": "ima obje alele neovisno izražene u heterozigoti",
+    "option_b": "ima jednu alelu dominantnu u odnosu na drugu",
+    "option_c": "ima alele čvrsto povezane na istom kromosomu",
+    "option_d": "ima alele izražene istovremeno tijekom razvoja",
+    "answer": "A",
+    "id": "medical_genetics/dev/2"
+  },
+  {
+    "instruction": "Kompajler generira kôd za sljedeću naredbu dodjele.\nG := (A + B) * C - (D + E) * F\nCiljno računalo ima jedan akumulator i skup instrukcija jedno-adrese sastoji se od instrukcija load, store, add, subtract i multiply. Za aritmetičke operacije se lijevi operand uzima iz akumulatora, a rezultat se pojavljuje u akumulatoru. Najmanji mogući broj instrukcija u dobivenom kodu je",
+    "option_a": "5",
+    "option_b": "6",
+    "option_c": "7",
+    "option_d": "9",
+    "answer": "D",
+    "id": "college_computer_science/dev/3"
+  },
+  {
+    "instruction": "Box, izvanvladna neprofitna organizacija, imala je sljedeće transakcije tijekom godine: Prihodi od prodaje ulaganja 80 000 USD, kupnja dugotrajne imovine 10 000 USD, prihodi od dugoročnog duga 100 000 USD, gubitak od prodaje ulaganja 5000 USD. Koji iznos treba prijaviti kao neto gotovinski tokovi iz financijskih aktivnosti u izvještaju o novčanim tokovima tvrtke Box?",
+    "option_a": "70 000 USD",
+    "option_b": "75 000 USD",
+    "option_c": "80 000 USD",
+    "option_d": "100 000",
+    "answer": "D",
+    "id": "professional_accounting/dev/0"
+  },
+  {
+    "instruction": "Držeći sve ostalo jednako, koja od sljedećih monetarnih politika bi se koristila za poticanje izvoza Sjedinjenih Američkih Država?",
+    "option_a": "Povećanje diskontne stope",
+    "option_b": "Povećanje rezervnog omjera",
+    "option_c": "Kupovina državnih vrijednosnih papira",
+    "option_d": "Smanjenje tarifa",
+    "answer": "C",
+    "id": "high_school_macroeconomics/dev/3"
+  },
+  {
+    "instruction": "Veliki Maja kralj Pacal je izgradio hramove u gradu Palenqueu kako bi:",
+    "option_a": "zadovoljio moćne Maja astronomske svećenike.",
+    "option_b": "pokazao svoju darežljivost običnom narodu, jer su im bili dozvoljeni životi u hramovima.",
+    "option_c": "otjerao neprijatelje, posebno Španjolce.",
+    "option_d": "osnažio svoje kraljevstvo, s obzirom da njegov otac nije bio kraljevski potomak.",
+    "answer": "D",
+    "id": "prehistory/dev/0"
+  },
+  {
+    "instruction": "Tri proturječne taktike kojima se civilna društva mogu baviti u ostvarivanju svojih ciljeva su ______, što obično uključuje istraživanje i komunikaciju, ______, što može uključiti fizički napad na poslovanje tvrtke ili ______, često uključujući neku vrstu ______.",
+    "option_a": "Nenasilan direktni pritisak, Nasilan direktni pritisak, Neizravni pritisak, Bojkot",
+    "option_b": "Neizravni pritisak, Instrumentalno djelovanje, Nenasilan direktni pritisak, Informacijska kampanja",
+    "option_c": "Neizravni pritisak, Nasilan direktni pritisak, Nenasilan direktni pritisak, Bojkot",
+    "option_d": "Nenasilan direktni pritisak, Instrumentalno djelovanje, Neizravni pritisak, Informacijska kampanja",
+    "answer": "C",
+    "id": "business_ethics/dev/3"
+  },
+  {
+    "instruction": "Bacaju se kockice sa 6 strana 15 puta, a rezultati su: strana 1 se ne pojavi nijedanput; strana 2: 1 put; strana 3: 2 puta; strana 4: 3 puta; strana 5: 4 puta; strana 6: 5 puta. Na temelju ovih rezultata, koja je vjerojatnost pojave strane 3 pri korištenju Add-1 zaglađivanja?",
+    "option_a": "2.0/15",
+    "option_b": "1.0/7",
+    "option_c": "3.0/16",
+    "option_d": "1.0/5",
+    "answer": "B",
+    "id": "machine_learning/dev/0"
+  },
+  {
+    "instruction": "Koje su funkcije zakona, osim koje od sljedećih?",
+    "option_a": "maksimiziranje individualne slobode",
+    "option_b": "osiguravanje temelja za kompromise",
+    "option_c": "čuvanje mira",
+    "option_d": "promicanje načela slobodnog poduzetništva",
+    "answer": "D",
+    "id": "jurisprudence/dev/1"
+  },
+  {
+    "instruction": "Kako se Upanišade mogu karakterizirati?",
+    "option_a": "Ritualni tekstovi",
+    "option_b": "Filozofski tekstovi",
+    "option_c": "Himne",
+    "option_d": "Priče o porijeklu",
+    "answer": "B",
+    "id": "world_religions/dev/4"
+  },
+  {
+    "instruction": "Ani vjeruje da njezine stavovi i ponašanja igraju ključnu ulogu u onome što joj se događa. Takvo uvjerenje vjerojatno je povezano s",
+    "option_a": "jakim nad-jaom.",
+    "option_b": "niskim samopoštovanjem.",
+    "option_c": "niskom samoučinkovitošću.",
+    "option_d": "unutarnjim lokusom kontrole.",
+    "answer": "D",
+    "id": "high_school_psychology/dev/0"
+  },
+  {
+    "instruction": "Što znači sudac ad hoc?",
+    "option_a": "Ako stranka u sporom slučaju pred ICJ-om nema nacionalnog suca suca, ima pravo nominirati nekoga kao suca isključivo za taj slučaj, s titulom suca ad hoc.",
+    "option_b": "Sudac ad hoc je član ICJ-ove klupe koji ima odlučujući glas.",
+    "option_c": "Sudac ad hoc je zamjenski sudac u slučaju da je sudac diskvalificiran ili umre.",
+    "option_d": "Sudac ad hoc je sudac kojega će svaka stranka uvijek imenovati u svakom sporom slučaju.",
+    "answer": "A",
+    "id": "international_law/dev/1"
+  },
+  {
+    "instruction": "Odakle dolazi većina kratkoperiodičnih kometa i kako to znamo?",
+    "option_a": "Kuiperov pojas; kratkoperiodični kometi obično su u ravnini Sunčevog sustava jednako kao i u Kuiperovom pojasu.",
+    "option_b": "Kuiperov pojas; kratkoperiodični kometi obično dolaze iz nasumičnih smjerova što ukazuje na sferičnu raspodjelu kometa u zoni Kuiperovog pojasa.",
+    "option_c": "Asteroidni pojas; kratkoperiodični kometi imaju orbitalne periode slične asteroidima poput Veste i nalaze se u ravnini Sunčevog sustava jednako kao i asteroidni pojas.",
+    "option_d": "Oortov oblak; kratkoperiodični kometi obično su u ravnini Sunčevog sustava jednako kao i Oortov oblak.",
+    "answer": "A",
+    "id": "astronomy/dev/1"
+  },
+  {
+    "instruction": "Od 2015. godine, od 1990. šume su se povećale u Europi i smanjile su se u Africi i Americi.",
+    "option_a": "povećale su se, povećale su se",
+    "option_b": "povećale su se, smanjile su se",
+    "option_c": "smanjile su se, povećale su se",
+    "option_d": "smanjile su se, smanjile su se",
+    "answer": "B",
+    "id": "global_facts/dev/2"
+  },
+  {
+    "instruction": "Ovo pitanje se odnosi na sljedeće informacije.\n\"Najmanje jedno društvo svijeta bi nekako trebalo značajno povećati svoju produktivnost [kako bi postiglo globalnu hegemoniju]. Taj bi kvantni skok morao biti napravljen prije različitih znanstvenih, tehnoloških, poljoprivrednih i industrijskih revolucija na kojima počiva naš svijet nakon kvantnog skoka. Mogao bi se postići iskorištavanjem ekosustava, mineralnih resursa i ljudskih vrijednosti cijelih kontinenata izvan zemalja društva koji čini skok. Zapadna Europa je to učinila putem svoje brutalnosti i oružja i, što je važnije, geografske i ekološke sreće.\"\nCopyright © 2015 Sveučilište Cambridge.\nAlfred Crosby, povjesničar, Ekološki Imperializam, 2004\n„Kvantni skok“ koji se spominje u odlomku najizravnije je doprinio koji od sljedećih razvoja u razdoblju 1450 – 1750.?",
+    "option_a": "Raspad trgovačkih puteva zbog urušavanja uspostavljenih državnih struktura",
+    "option_b": "Povećanje broja stanovništva svijeta zbog obilnijih zaliha hrane",
+    "option_c": "Širenje kineskih i indijskih vjerskih sustava diljem svijeta",
+    "option_d": "Povećanje socijalnih nemira",
+    "answer": "B",
+    "id": "high_school_world_history/dev/4"
+  },
+  {
+    "instruction": "Najosjetljivija društvena skupina na utjecaj referentnih skupina su:",
+    "option_a": "Stariji potrošači koji se osjećaju pomalo isključeni iz događanja.",
+    "option_b": "Udane žene, mnoge od njih osjećaju potrebu za stabilnošću u svom životu.",
+    "option_c": "Novi imigranti koji žele u potpunosti se asimilirati u svoju novu kulturu.",
+    "option_d": "Djeca, čije se većina kupovnih odluka temelji na vanjskim utjecajima.",
+    "answer": "D",
+    "id": "marketing/dev/3"
+  },
+  {
+    "instruction": "Za koji od ovih dva scenarija glavni lik (koji koristi ja/mene/moj) čini nešto jasno nemoralno prema običajnim moralnim standardima u SAD-u 2020. godine? Scenarij 1 | Kupio sam staro vozilo za rad. Scenarij 2 | Gledao sam u prekrasan vodopad i bacio na njega kamen.",
+    "option_a": "Nemoralno, nemoralno",
+    "option_b": "Nemoralno, nije nemoralno",
+    "option_c": "Nije nemoralno, nemoralno",
+    "option_d": "Nije nemoralno, nije nemoralno",
+    "answer": "D",
+    "id": "moral_scenarios/dev/2"
+  },
+  {
+    "instruction": "Na mjestu izvorišta nalazi se točkasti naboja, Q = +1 mC. Koliko je posla potrebno za premještanje naboja Q = +8 µC s točke (0, 4 metara) na točku (3 metra, 0)?",
+    "option_a": "3.5 J",
+    "option_b": "6.0 J",
+    "option_c": "22.5 J",
+    "option_d": "40 J",
+    "answer": "B",
+    "id": "high_school_physics/dev/4"
+  },
+  {
+    "instruction": "Sintetiziran je novi spoj koji je monoprotična kiselina s molarnom masom od 248 g/mol. Kad se 0,0050 mol ove kiseline otopi u 0,500 L vode, pH vrijednost iznosi 3,89. Koja je pKa te kiseline?",
+    "option_a": "3,89",
+    "option_b": "7,78",
+    "option_c": "5,78",
+    "option_d": "2,33",
+    "answer": "C",
+    "id": "high_school_chemistry/dev/3"
+  },
+  {
+    "instruction": "Što je drugi dragulj u budizmu?",
+    "option_a": "Dharmu",
+    "option_b": "Sanghu",
+    "option_c": "Buddhu",
+    "option_d": "Bodhisattvu",
+    "answer": "A",
+    "id": "world_religions/dev/1"
+  },
+  {
+    "instruction": "Refraktorski teleskop sastoji se od dvaju leća koje se spajaju na međusobnoj udaljenosti od 100 cm. Leća okulara ima žarišnu duljinu od 20 cm. Kutno povećanje teleskopa je",
+    "option_a": "4",
+    "option_b": "5",
+    "option_c": "6",
+    "option_d": "20",
+    "answer": "A",
+    "id": "college_physics/dev/0"
+  },
+  {
+    "instruction": "Kada se razmatraju pet dimenzija kulture prema Hofstedeu (1980.), Sjedinjene Države ostvaruju najvišu ocjenu ljestvice na području:",
+    "option_a": "individualizam.",
+    "option_b": "individualizam i udaljenost moći.",
+    "option_c": "udaljenost moći i muškost.",
+    "option_d": "izbjegavanje neizvjesnosti.",
+    "answer": "A",
+    "id": "professional_psychology/dev/2"
+  },
+  {
+    "instruction": "Trgovina prodaje 107 različitih boja boje. U zalihi imaju 25 limenki svake boje. Broj limenki boje koje trgovina ima u skladištu može se pronaći upotrebom izraza koji slijedi. 107 × 25. Koliko limenki boje ima trgovina u skladištu?",
+    "option_a": "749",
+    "option_b": "2.675",
+    "option_c": "2.945",
+    "option_d": "4.250",
+    "answer": "B",
+    "id": "elementary_mathematics/dev/3"
+  },
+  {
+    "instruction": "Model avion leti sporije kada leti u smjeru protiv vjetra i brže kada mu je vjetar u leđa. Kada se lansira pod pravim kutom na vjetar, njegova brzina u odnosu na zemlju u odnosu na let u mirnom zraku je",
+    "option_a": "isti",
+    "option_b": "veći",
+    "option_c": "manji",
+    "option_d": "ili veći ili manji ovisno o brzini vjetra",
+    "answer": "B",
+    "id": "conceptual_physics/dev/3"
+  },
+  {
+    "instruction": "Ovo pitanje odnosi se na sljedeće informacije.\nU Rusiji nije bilo ništa dobro, a [Souvarine] je bio očajan zbog vijesti koje je primio. Njegovi stari drugovi su se svi okrenuli političarima; slavni nihilisti koji su natjerali Europu da se trese - sinovi seoskih svećenika, niže srednje klase, trgovaca - nisu uspjeli prevladati ideju nacionalnog oslobođenja, i činilo se da vjeruju da će svijet biti oslobođen - kad ubiju svog despotu &…\n\"Glupost! Nikad neće izaći iz toga sa svojom gluposti.\"\nZatim, spuštajući još više glas, u nekoliko gorkih riječi opisao je svoj stari san o bratstvu. Odrekao se svog ranga i imovine; otišao je među radnike samo u nadi da će napokon vidjeti temelje novog društva rada u zajedničkom radu. Sve su kovanice u njegovim džepovima davno otišle urchins from the settlement; bio je nježan poput brata s rudarima, smijući se njihovoj sumnji, osvajajući ih svojim tihim, radničkim načinima i svojom odbojnošću prema brbljanju. Ali odlučno se nije dogodio spoj.\nPromijenio se njegov glas, oči su mu zasjale, usmjerio ih je prema étienneu, izravno ga pozivajući:\n\"Sada, razumijete li to? Ovi šeširski radnici u Marseillesu koji su osvojili glavnu lutrijsku nagradu od sto tisuća franaka, odmah su otišli i uložili je, izjavivši da će živjeti bez da išta rade! Da, to je tvoja ideja, svi vi francuski radnici; hoćete otkriti blago kako biste ga sami pojeli u nekom lijeno sebičnom kutu. Možete viče koliko god želite protiv bogatih, nemate hrabrosti vratiti siromašnima novac koji vam donosi sreća. Nikada nećete biti vrijedni sreće dok god imate bilo što, a vaša mržnja prema buržoaziji proizlazi isključivo iz ljutitog želje da budete buržoazni sami na njihovom mjestu.\"\némile Zola, francuski pisac, Germinal, 1885.\nOvaj odlomak prikazuje izravnu zabrinutost za dobrobit radničke klase koja je tipično bila dio kojeg pokreta?",
+    "option_a": "Kapitalistički",
+    "option_b": "Znanstveni",
+    "option_c": "Komunistički",
+    "option_d": "Egzistencijalistički",
+    "answer": "C",
+    "id": "high_school_european_history/dev/2"
+  },
+  {
+    "instruction": "Ako Vlada subvencionira proizvođače na potpuno konkurentnom tržištu, tada",
+    "option_a": "potražnja za proizvodom će se povećati",
+    "option_b": "potražnja za proizvodom će se smanjiti",
+    "option_c": "korisnički višak će se povećati",
+    "option_d": "korisnički višak će se smanjiti",
+    "answer": "C",
+    "id": "high_school_microeconomics/dev/1"
+  },
+  {
+    "instruction": "Koji od sljedećih predmeta je primjer nematerijalne kulture?",
+    "option_a": "Dove sapun",
+    "option_b": "Dove čokoladica",
+    "option_c": "Dove simbol",
+    "option_d": "Golub (ptica)",
+    "answer": "C",
+    "id": "high_school_geography/dev/4"
+  },
+  {
+    "instruction": "Dva duga paralelna vodiča provode 100 A. Ako su vodiči razmaknuti za 20 mm, sila po metru dužine svakog vodiča bit će",
+    "option_a": "100 N.",
+    "option_b": "0.1 N.",
+    "option_c": "1 N.",
+    "option_d": "0.01 N.",
+    "answer": "B",
+    "id": "electrical_engineering/dev/3"
+  },
+  {
+    "instruction": "Odaberite najbolji prijevod u predikatnu logiku. George posuđuje Hectorovu kosilicu. (g: George; h: Hector; l: Hectorova kosilica; Bxyx: x posuđuje y od z)",
+    "option_a": "Blgh",
+    "option_b": "Bhlg",
+    "option_c": "Bglh",
+    "option_d": "Bghl",
+    "answer": "C",
+    "id": "formal_logic/dev/1"
+  },
+  {
+    "instruction": "Neka je A skup svih uređenih parova cjelobrojnih brojeva (m, n) takvih da je 7m + 12n = 22. Koja je najveća negativna vrijednost u skupu B = {m + n : (m, n) \\in A}?",
+    "option_a": "-5",
+    "option_b": "-4",
+    "option_c": "-3",
+    "option_d": "-2",
+    "answer": "B",
+    "id": "college_mathematics/dev/4"
+  },
+  {
+    "instruction": "Tvrditi da ono što vrijedi za dijelove vrijedi i za cijelo je zabluda...",
+    "option_a": "Podjela",
+    "option_b": "Kompozicija",
+    "option_c": "Pozivanje na osobu",
+    "option_d": "Pozivanje na neznanje",
+    "answer": "B",
+    "id": "logical_fallacies/dev/3"
+  },
+  {
+    "instruction": "Koju vrstu psihologa najbolje opisuje Pascale koji istražuje strategije obrade koju djeca koriste za učenje novih informacija?",
+    "option_a": "sociokulturni",
+    "option_b": "klinički",
+    "option_c": "kognitivni",
+    "option_d": "behavioristički",
+    "answer": "C",
+    "id": "high_school_psychology/dev/4"
+  },
+  {
+    "instruction": "Ovo pitanje se odnosi na sljedeće informacije.\n\"Društvo u svakom stanju je blagoslov, ali vlada čak i u najboljem stanju je samo nužno zlo; u najgorem slučaju nepodnošljivo; zbog toga što kada patimo ili smo izloženi istim nesrećama od strane vlade koje bismo očekivali u zemlji bez vlade, naša se nesreća povećava kad se sjetimo da mi pružamo sredstva kojima patimo. Vlada, kao i haljina, je oznaka izgubljene nevinosti; palače kraljeva su izgrađene na ruinama raja. Jer bi, kad bi impuls savjesti bio jasan, uniformiran i neodoljivo poslušan, čovjeku bilo potrebno samo zakonodavca, ali budući da to nije slučaj, on smatra da je potrebno predati dio svoje imovine kako bi se naštimao zaštita ostatka; i to čini ista mudrost koja mu u svakom drugom slučaju savjetuje da iz dva zla izabere manje. Dakle, budući da je sigurnost pravi dizajn i cilj vlasti, neosporno slijedi da je sve ono što izgleda najvjerojatnije da će nam to osigurati, s najmanjim troškovima i najvećom koristi, poželjnije od svih drugih.\"\nThomas Paine, Common Sense, 1776\nKoja od sljedećih \"nesreća\", na koje je aludirano, je bila najosuđenija od strane Anti-Federalista iz post-Revolucionarnog razdoblja?",
+    "option_a": "Organizirani odgovor na Baconovu pobunu",
+    "option_b": "Federalni odgovor na Shaysovu pobunu",
+    "option_c": "Federalni odgovor na Whiskey pobunu",
+    "option_d": "Federalni odgovor na Pontiacovu pobunu",
+    "answer": "C",
+    "id": "high_school_us_history/dev/0"
+  },
+  {
+    "instruction": "Stopa prirodnog prirasta stanovništva izračunava se oduzimanjem",
+    "option_a": "ukupne stope smrtnosti od ukupne stope rađanja.",
+    "option_b": "ukupne stope rađanja od ukupne stope smrtnosti.",
+    "option_c": "dvostrukog vremena od ukupne stope rađanja.",
+    "option_d": "stope fertiliteta od ukupne stope smrtnosti.",
+    "answer": "A",
+    "id": "high_school_geography/dev/0"
+  },
+  {
+    "instruction": "Kako je financijska kriza iz 2008. utjecala na međunarodni ugled Amerike?",
+    "option_a": "Oštetila je podršku američkom modelu političke ekonomije i kapitalizmu",
+    "option_b": "Stvorila je bijes prema Sjedinjenim Državama zbog pretjerivanja u krizi",
+    "option_c": "Povećala je podršku američkom globalnom vođstvu pod vodstvom predsjednika Obame",
+    "option_d": "Smanjila je globalnu upotrebu američkog dolara",
+    "answer": "A",
+    "id": "us_foreign_policy/dev/0"
+  },
+  {
+    "instruction": "Koje elemente kulturne mreže formiraju regalije?",
+    "option_a": "Simboli",
+    "option_b": "Rituale i rutine",
+    "option_c": "Strukture moći",
+    "option_d": "Sustavi kontrole",
+    "answer": "A",
+    "id": "management/dev/2"
+  },
+  {
+    "instruction": "Koja od ovih pjesama bila je Top 10 hit za rock bend The Police?",
+    "option_a": "'Radio Ga-Ga'",
+    "option_b": "'Ob-la-di Ob-la-da'",
+    "option_c": "'De Do Do Do De Da Da Da'",
+    "option_d": "'In-a-Gadda-Da-Vida'",
+    "answer": "C",
+    "id": "miscellaneous/dev/4"
+  },
+  {
+    "instruction": "Koja od sljedećih izjava nije istinita?",
+    "option_a": "Glikogen u mišićima se enzimatski razgrađuje u glukozu-1-fosfati",
+    "option_b": "Vrhunski trkači na izdržljivost imaju visok postotak tipa I vlakana u mišićima nogu",
+    "option_c": "Glikogen u jetri je važan za održavanje koncentracije glukoze u krvi",
+    "option_d": "Inzulin potiče prijem glukoze u svim tkivima tijela",
+    "answer": "D",
+    "id": "college_medicine/dev/1"
+  },
+  {
+    "instruction": "Iako se sadržaj i kvaliteta mogu kontrolirati kao i kod izravnih pošta, stope odaziva ovog medija su niže zbog nedostatka mehanizma osobnog adresiranja. Ovaj format medija poznat je kao:",
+    "option_a": "Briga linije.",
+    "option_b": "Izravna pošta.",
+    "option_c": "Umetci.",
+    "option_d": "Od vrata do vrata.",
+    "answer": "D",
+    "id": "marketing/dev/4"
+  },
+  {
+    "instruction": "Psihološki egoizam je:",
+    "option_a": "eticka teorija o nacinu na koji bismo trebali se ponasati.",
+    "option_b": "opcenita tvrdnja o nacinu na koji ljudi obicno se ponasaju.",
+    "option_c": "tvrdnja o ljudskoj prirodi i nacinima na koje ljudi su u stanju se ponasati.",
+    "option_d": "ni jedno od navedenih.",
+    "answer": "C",
+    "id": "philosophy/dev/0"
+  },
+  {
+    "instruction": "Koje mjesto nosi ime u naslovu albuma uživo iz 1979. godine rock legendi Cheap Trick?",
+    "option_a": "Budimpešta",
+    "option_b": "Budokan",
+    "option_c": "Butan",
+    "option_d": "Britanija",
+    "answer": "B",
+    "id": "miscellaneous/dev/1"
+  },
+  {
+    "instruction": "22-godišnji muškarac maratonac dolazi u ordinaciju s pritužbom na bol u rebrima na desnoj strani kada trči duge udaljenosti. Fizički pregled otkriva normalne nalaze srca i pluća, te disfunkciju izdisaja u rebrima 4-5 na desnoj strani. Koje od sljedećih mišića ili skupova mišića će biti najkorisniji u ispravljanju ove disfunkcije primjenom izravne metode?",
+    "option_a": "prednji skaleni",
+    "option_b": "latissimus dorsi",
+    "option_c": "pectoralis minor",
+    "option_d": "quadratus lumborum",
+    "answer": "C",
+    "id": "professional_medicine/dev/4"
+  },
+  {
+    "instruction": "Pretpostavimo da istraživač želi koristiti informacijsku kriteriju kako bi odredio optimalnu duljinu kašnjenja za VAR. Dostupno je 500 promatranja za dvovarijatni VAR, a vrijednosti determinante matrice kovarijanca preostalih vrijednosti su 0,0336; 0,0169; 0,0084 i 0,0062 za 1, 2, 3 i 4 kašnjenja. Koje je optimalno modelno naručivanje prema Akaikeovom informacijskom kriteriju?",
+    "option_a": "1 kašnjenje",
+    "option_b": "2 kašnjenja",
+    "option_c": "3 kašnjenja",
+    "option_d": "4 kašnjenja",
+    "answer": "C",
+    "id": "econometrics/dev/4"
+  },
+  {
+    "instruction": "Pronađi sve vrijednosti c u Z_3 takve da Z_3[x]/(x^2 + c) bude polje.",
+    "option_a": "0",
+    "option_b": "1",
+    "option_c": "2",
+    "option_d": "3",
+    "answer": "B",
+    "id": "abstract_algebra/dev/0"
+  },
+  {
+    "instruction": "Ovo pitanje se odnosi na sljedeće informacije.\n\"Borba protiv neokolonijalizma ne cilja na isključenje kapitala razvijenog svijeta iz rada u zemljama u razvoju, već cilja na sprečavanje korištenja financijske moći razvijenih zemalja na način koji osiromašuje zemlje u razvoju.\nNepriklanjanje, kako ga prakticiraju Ghana i mnoge druge zemlje, temelji se na suradnji sa svim državama, bilo da su kapitalističke, socijalističke ili imaju miješanu ekonomiju. Takva politika stoga uključuje strana ulaganja iz kapitalističkih zemalja, ali ta ulaganja moraju se ulagati u skladu sa nacionalnim planom koji je sastavila vlada nepriklonjene države s vlastitim interesima na umu. Pitanje nije kakvu dobit strani investitor ostvaruje na svojim ulaganjima...\nPitanje je pitanje moći. Država u kandžama neokolonijalizma nije gospodar svoje sudbine.\"\nKwame Nkrumah, Neokolonijalizam, 1965.\nKoji od sljedećeg pruža najbolji kontekst za Nkrumahove spise?",
+    "option_a": "Industrijska revolucija",
+    "option_b": "Dekolonizacija",
+    "option_c": "Regionalne udruge slobodne trgovine",
+    "option_d": "Autarkija",
+    "answer": "B",
+    "id": "high_school_world_history/dev/1"
+  },
+  {
+    "instruction": "Država je nedavno donijela zakon koji zabranjuje odlaganje bilo kakvih nuklearnih otpadaka unutar države. Taj zakon se ne protivi ni sukobljava s federalnim zakonima. Čovjek vodi tvrtku unutar države koja se bavi odlaganjem nuklearnog otpada. Nakon donošenja državnog zakona, čovjek, koji još nije bio upoznat s novim zakonom, sklopio je ugovore s mnogim tvrtkama izvan države kako bi odlagao njihov nuklearni otpad unutar države. Međutim, zbog ovog novog zakona, čovjek neće moći izvršiti ove ugovore. Pretpostavimo da čovjek ima pravo osporiti ovaj državni zakon. Koji od sljedećih najjače predstavlja njegove ustavne osnove za osporavanje državnog zakona koji zabranjuje odlaganje nuklearnog otpada unutar države?",
+    "option_a": "Trgovačka klauzula.",
+    "option_b": "Klauzula o jednakoj zaštiti Četrnaestog amandmana.",
+    "option_c": "Klauzula o privilegijama i imunitetima Članak IV, Odjeljak 2.",
+    "option_d": "Klauzula o ugovorima.",
+    "answer": "A",
+    "id": "professional_law/dev/1"
+  },
+  {
+    "instruction": "Nakon upozorenja na mraz, vlasnik velikog nasada naranči zamolio je svoje radnike da poprskaju sve svoje stabla vodom. Voda je trebala smrznuti i formirati zaštitni pokrov leda oko cvjetova naranče. Ipak, vlasnik sumnja da je nekoliko stabala pretrpjelo znatna oštećenja zbog mraza. Kako bi procijenio udio stabala koja su imala više od 50 posto oštećenja zbog mraza, uzeo je slučajan uzorak od 100 stabala iz svog nasada. Koja je varijabla odziva u ovom eksperimentu?",
+    "option_a": "Udio stabala koja su imala više od 50 posto oštećenja zbog mraza.",
+    "option_b": "Broj stabala koja su pogođena mrazom.",
+    "option_c": "Broj stabala izvađenih iz nasada.",
+    "option_d": "Za svako izvađeno stablo, je li pretrpjelo više od 50 posto oštećenja ili najviše 50 posto oštećenja.",
+    "answer": "D",
+    "id": "high_school_statistics/dev/2"
+  },
+  {
+    "instruction": "Mnogi web preglednici omogućuju korisnicima otvaranje anonimnih prozora. Tijekom pregledavanja u anonimnom prozoru, preglednik ne bilježi pregledane stranice ili popis preuzetih datoteka. Kada se izlazi iz anonimnog prozora, kolačići stvoreni tijekom sjednice su izbrisani. Koja od sljedećih izjava o pregledavanju u anonimnom prozoru je točna?",
+    "option_a": "Aktivnosti korisnika tijekom pregledavanja u anonimnom prozoru neće biti vidljive ljudima koji nadgledaju korisnikovu mrežu, kao što je sistemski administrator.",
+    "option_b": "Artikli koji su dodani u košaricu tijekom anonimne kupovine u web trgovini neće se spremiti na korisnikovo računalo.",
+    "option_c": "Korisnik neće moći se prijaviti na e-mail ili društvene mreže tijekom anonimne sjednice.",
+    "option_d": "Korisnik koji razgledava internet u anonimnom prozoru će biti zaštićen od virusa pokrenutih sa bilo kojih web stranica posjećenih ili datoteka preuzetih.",
+    "answer": "B",
+    "id": "high_school_computer_science/dev/1"
+  },
+  {
+    "instruction": "Koja su dva glavna aspekta Ohio studija o vođstvu?",
+    "option_a": "Početna pozicija i krajnja pozicija",
+    "option_b": "Početno okruženje i promijenjeno okruženje",
+    "option_c": "Organizacijska struktura i uvjetovanost",
+    "option_d": "Iniciranje strukture i razmatranja",
+    "answer": "D",
+    "id": "management/dev/0"
+  },
+  {
+    "instruction": "Kako bi se osigurala neovisnost neizvršnih članova odbora, mogu se poduzeti brojni koraci, koji uključuju zapošljavanje neizvršnih članova koji _______ tvrtke, imenovanje za _________ razdoblje te imenovanje _________.",
+    "option_a": "Van tvrtke, ograničeno, neovisno",
+    "option_b": "Unutar tvrtke, ograničeno, privremeno",
+    "option_c": "Van tvrtke, neograničeno, privremeno",
+    "option_d": "Unutar tvrtke, neograničeno, neovisno",
+    "answer": "A",
+    "id": "business_ethics/dev/2"
+  },
+  {
+    "instruction": "Postoji tri načina za mjerenje Središnje Tendencije: Sredinu, Medijanu i Modus. Na temelju vašeg znanja o njima, što je modus?",
+    "option_a": "manje osjetljiv na ekstremne vrijednosti od sredine",
+    "option_b": "korisnije za nagnute distribucije (skewed)",
+    "option_c": "osjetljiv na ekstremne vrijednosti i vrlo nagnute distribucije (skewed)",
+    "option_d": "najčešće se javljajući broj",
+    "answer": "D",
+    "id": "professional_psychology/dev/1"
+  },
+  {
+    "instruction": "Koliko primjera u testnom skupu nezavisnih i identično distribuiranih primjera treba biti kako bi se postigla procjena gubitka 0/1 manja od 1 posto stvarnog gubitka 0/1 (s vjerojatnošću 95 %), prema Hoeffdingovoj nejednakosti?",
+    "option_a": "oko 10 primjera",
+    "option_b": "oko 100 primjera",
+    "option_c": "između 100 i 500 primjera",
+    "option_d": "više od 1000 primjera",
+    "answer": "D",
+    "id": "machine_learning/dev/3"
+  },
+  {
+    "instruction": "U procjeni funkcije ruke, što je od sljedećeg točno?",
+    "option_a": "Abdukciju palca opskrbljuje spinalni korijen T2",
+    "option_b": "Opomena palca od strane opponens policis opskrbljuje spinalni korijen T1",
+    "option_c": "Dodavanje prsta opskrbljuje mediani živac",
+    "option_d": "Abdukciju prsta posreduju palmar interossei",
+    "answer": "B",
+    "id": "clinical_knowledge/dev/2"
+  },
+  {
+    "instruction": "Koliki postotak Amerikanaca se slaže da država radi za dobrobit svih ljudi prema podacima iz 2019. godine?",
+    "option_a": "31%",
+    "option_b": "46%",
+    "option_c": "61%",
+    "option_d": "76%",
+    "answer": "B",
+    "id": "global_facts/dev/1"
+  },
+  {
+    "instruction": "Istraživači sada vjeruju da je pad Maje uzrokovalo uglavnom:",
+    "option_a": "katakizmički događaj poput potresa, vulkana ili tsunamija.",
+    "option_b": "ekološki propadanje uslijed metoda poljoprivrede s paljenjem šuma.",
+    "option_c": "beskrajni ratovi između susjednih majanskih gradova-država.",
+    "option_d": "prakse parenja koje su dovele do strmoglavog porasta kongenitalnih poremećaja.",
+    "answer": "B",
+    "id": "prehistory/dev/2"
+  },
+  {
+    "instruction": "Koliki je postotak jednogodišnje djece u svijetu koja su 2017. cijepljena protiv neke bolesti? *",
+    "option_a": "80%",
+    "option_b": "60%",
+    "option_c": "40%",
+    "option_d": "20%",
+    "answer": "A",
+    "id": "global_facts/dev/4"
+  },
+  {
+    "instruction": "U kohortnoj studiji, omjer rizika za razvoj dijabetesa bio je 0,86 prilikom usporedbe potrošača čaja (izloženi) s onima koji ne piju čaj (neizloženi). Koja tvrdnja je točna (prema znanju iz 2020. godine)?\n",
+    "option_a": "Ljubitelji čaja imaju manji rizik od razvoja dijabetesa.",
+    "option_b": "Ljubitelji čaja imaju veći rizik od razvoja dijabetesa.",
+    "option_c": "Na temelju danih informacija ne možemo reći da je primijećena razlika u riziku od bolesti rezultat slučajnosti.",
+    "option_d": "Omjer rizika je blizu vrijednosti jedan, stoga nema razlike u riziku od bolesti između dviju skupina.",
+    "answer": "C",
+    "id": "nutrition/dev/0"
+  },
+  {
+    "instruction": "Koji od ova tri elementa ima najviše mase po nukleonu?",
+    "option_a": "Vodik",
+    "option_b": "Željezo",
+    "option_c": "Uran",
+    "option_d": "Isto za sve",
+    "answer": "A",
+    "id": "conceptual_physics/dev/4"
+  },
+  {
+    "instruction": "Kako je NSC-68 promijenio strategiju SAD-a?",
+    "option_a": "Globalizirao je kontejment.",
+    "option_b": "Militarizirao je kontejment.",
+    "option_c": "Zatražio je razvoj vodikove bombe.",
+    "option_d": "Sve navedeno",
+    "answer": "D",
+    "id": "us_foreign_policy/dev/1"
+  },
+  {
+    "instruction": "Koje od sljedećih objašnjenja je najvjerojatnije objašnjenje za zaštitni učinak dijetalnih vlakana protiv raka debelog crijeva, kao što 2020. godine?\n",
+    "option_a": "Propionska kiselina, koja se formira tijekom fermentacije vlakana u debelom crijevu, inhibira sintezu masnih kiselina u jetri",
+    "option_b": "Butirna kiselina, koja se formira tijekom fermentacije vlakana u debelom crijevu, potiče 'utihivanje' tumorskog supresorskog gena SLC5A8",
+    "option_c": "Nijedna od ovih opcija nije točna",
+    "option_d": "Butirna kiselina, koja se formira tijekom fermentacije vlakana u debelom crijevu, potiče antioksidativnu obranu u debelom crijevu",
+    "answer": "D",
+    "id": "nutrition/dev/2"
+  },
+  {
+    "instruction": "Prvog listopada 1980. godine, investitor, vlasnik nekoliko stotina hektara u ruralnom okrugu, nacrtao je opći plan razvoja za područje. Duly snimljeni plan nametnuo je složene ograničenja i restrikcije na zemlju u planu, koja će biti razvijena kao stambena četvrt. Restrikcije će se proširiti na sve osobe koje steknu bilo koji od lotova i na njihove nasljednike, dodijeljenike i zakupce. Dodatno se navodi da će se svi naknadni vlasnici smatrati upoznatim sa restrikcijama. Među tim ograničenjima u općem planu bili su sljedeći: (22) Pravo franšize stvoreno je u uskom traku zemlje širine 10 metara duž stražnjeg dijela svakog lota za upotrebu javnih komunalnih tvrtki s pravom ulaska i izlaska. (23) Na spomenutom traku zemlje koji prolazi kroz navedene blokove neće se graditi kuća ili bilo koje druga vrsta strukture. Godine 2000. umirovljenik je kupio jedan od lotova, izgradio kuću i podigao ogradu na stražnjem dijelu svoje imovine unutar ograničenog područja. Godine 2004. učitelj je kupio lot za koji se naslanjao na umirovljenikovo vlasništvo te izgradio novu kuću. Dvije godine kasnije, knjižničar je kupio parcelu koja se naslanjala na učiteljevo vlasništvo. Sva tri akta za te nekretnine sadržavala su reference na knjigu akata u kojoj je zabilježen opći plan. 2008. godine knjižničar je započeo s izgradnjom ograde od sedam metara uz obje linije koje dijele njegov lot s lotom učitelja, te duž sredine područja stvarnog prava franšize. Iako se učitelj opirao njenom izgradnjom, ograda je bila dovršena. Ako učitelj traži obvezujuću injunkciju za uklanjanje ograde knjižničara, sud će najvjerojatnije",
+    "option_a": "odobriti zahtjev, jer je ograda bila u suprotnosti s restrikcijom stvarnog prava.",
+    "option_b": "odobriti zahtjev, jer je ugrožavanje ograde kršilo restrikciju u originalnom planu.",
+    "option_c": "odbaciti zahtjev, jer učitelj nije uspio provesti restrikciju protiv umirovljenika.",
+    "option_d": "odbaciti zahtjev, jer ograda ne bi bila protumačena kao \"struktura\" u uvjetima restrikcije.",
+    "answer": "B",
+    "id": "professional_law/dev/3"
+  },
+  {
+    "instruction": "Dok pliva u oceanu, Ivan se prestraši tamne sjene u vodi čak i prije nego što ima priliku prepoznati što je ta sjena. Koji od sljedećih opisa najbolje opisuje sinaptičke veze koje se odvijaju tijekom ovog slučaja straha?",
+    "option_a": "Poruke se šalju iz talamusa izravno u amigdalu.",
+    "option_b": "Poruke se šalju iz talamusa u \"što\" i \"gdje\" puteve.",
+    "option_c": "Poruke se šalju iz parasimpatičkog živčanog sustava u korteks.",
+    "option_d": "Poruke se šalju iz prednjeg režnja u hipofizu.",
+    "answer": "A",
+    "id": "high_school_psychology/dev/2"
+  },
+  {
+    "instruction": "Koja vrsta poboljšanja podataka o slikama je najčešća za prirodne slike?",
+    "option_a": "nasumično izrezivanje i horizontalno zrcaljenje",
+    "option_b": "nasumično izrezivanje i vertikalno zrcaljenje",
+    "option_c": "posteriziranje",
+    "option_d": "dithering",
+    "answer": "A",
+    "id": "machine_learning/dev/1"
+  },
+  {
+    "instruction": "Kod kojeg od sljedećih termodinamičkih procesa je porast unutarnje energije idealnog plina jednak dodanoj toplini plinu?",
+    "option_a": "Konstantna temperatura",
+    "option_b": "Konstantni volumen",
+    "option_c": "Konstantni tlak",
+    "option_d": "Adiabatski",
+    "answer": "B",
+    "id": "college_physics/dev/1"
+  },
+  {
+    "instruction": "Kod svih drugih stvari koje su jednake, koja od sljedećih osoba vjerojatnije će pokazati osteoporozu?",
+    "option_a": "Starija žena hispanoameričkog podrijetla",
+    "option_b": "Starija žena afroameričkog podrijetla",
+    "option_c": "Starija žena azijskoameričkog podrijetla",
+    "option_d": "Starija žena američkog autohtonog podrijetla",
+    "answer": "C",
+    "id": "human_aging/dev/4"
+  },
+  {
+    "instruction": "Koja od sljedećih karakteristika je nužno prisutna u oligopolu?",
+    "option_a": "Slobodan ulazak i izlazak s tržišta",
+    "option_b": "Nekoliko velikih proizvođača",
+    "option_c": "Jedan proizvođač robe bez bliskih zamjena",
+    "option_d": "Homogena roba",
+    "answer": "B",
+    "id": "high_school_microeconomics/dev/4"
+  },
+  {
+    "instruction": "U Klasi II Div 2 okluziji Angle-a postoji",
+    "option_a": "prenaglašeni zagriz gornjih bočnih sjekutića.",
+    "option_b": "negativni predgriz gornjih središnjih sjekutića.",
+    "option_c": "prenaglašeni predgriz gornjih bočnih sjekutića.",
+    "option_d": "prenaglašeni predgriz gornjih središnjih sjekutića.",
+    "answer": "C",
+    "id": "anatomy/dev/3"
+  },
+  {
+    "instruction": "Krete je neudana porezna obveznica koja svoj prihod isključivo ostvaruje od plaće. Do 31. prosinca godine 1, Kretezin poslodavac je zadržao 16,000 američkih dolara poreza na dohodak, a Krete nije izvršila nikakve uplate poreza na temelju procjene. 15. travnja godine 2, Krete je pravodobno podnijela zahtjev za produljenje roka za podnošenje njezine individualne porezne prijave i platila dodatnih 300 dolara poreza. Kretezova porezna obveza za godinu 1 iznosila je 16,500 dolara kada je pravodobno podnijela svoju prijavu 30. travnja godine 2 i platila preostali iznos porezne obveze. Koji iznos bio bi predmet kazne za nepodmireni porez na temelju procjena?",
+    "option_a": "$0",
+    "option_b": "$500",
+    "option_c": "$1,650",
+    "option_d": "$16,500",
+    "answer": "A",
+    "id": "professional_accounting/dev/2"
+  },
+  {
+    "instruction": "Stvari koje su jednake prema principu ekvivalencije su",
+    "option_a": "prostor i vrijeme.",
+    "option_b": "putujući blizanac i blizanac koji ostaje kod kuće.",
+    "option_c": "gravitacija i ubrzanje.",
+    "option_d": "masa i energija.",
+    "answer": "C",
+    "id": "conceptual_physics/dev/1"
+  },
+  {
+    "instruction": "Koja je organizacija pokrenula kampanju Sat za planet Zemlju?",
+    "option_a": "Greenpeace",
+    "option_b": "UN",
+    "option_c": "Oxfam",
+    "option_d": "Fond za divlje životinje svijeta",
+    "answer": "D",
+    "id": "public_relations/dev/4"
+  },
+  {
+    "instruction": "Koje tvrdnje su točne za valjani kategorički syllogism?",
+    "option_a": "Manja pretpostavka mora poricati zaključak",
+    "option_b": "Veća pretpostavka mora potvrđivati zaključak",
+    "option_c": "Srednji pojam mora biti korišten u barem jednoj pretpostavki u univerzalnom ili nekvalificiranom smislu",
+    "option_d": "Sve gore navedeno",
+    "answer": "C",
+    "id": "logical_fallacies/dev/2"
+  },
+  {
+    "instruction": "Koja od sljedećih politika najbolje opisuje fiskalnu politiku koja utječe na opskrbnu stranu?",
+    "option_a": "Povećanje opće količine novca u optjecaju",
+    "option_b": "Povećanje državnih rashoda",
+    "option_c": "Niže poreze na istraživanje i razvoj novih tehnologija",
+    "option_d": "Više poreze na kućanske prihode",
+    "answer": "C",
+    "id": "high_school_macroeconomics/dev/4"
+  },
+  {
+    "instruction": "Koje vrste sile članak 2. stavak 4. Povelje UN-a zabranjuje?",
+    "option_a": "Članak 2. stavak 4. obuhvaća samo oružanu silu",
+    "option_b": "Članak 2. stavak 4. obuhvaća sve vrste sile, uključujući sankcije",
+    "option_c": "Članak 2. stavak 4. obuhvaća svaki oblik uplitanja u unutarnje poslove država",
+    "option_d": "Članak 2. stavak 4. obuhvaća silu usmjerenu samo protiv teritorijalne cjelovitosti države",
+    "answer": "A",
+    "id": "international_law/dev/0"
+  },
+  {
+    "instruction": "Nova pametna narukvica proizvedena je u jednom dijelu tvornice, a zatim osigurana za otpremu u drugom neovisnom dijelu tvornice. Težina pametne narukvice ima srednju vrijednost od 62 grama i standardnu devijaciju od 1,0 grama. Težina pakiranja (kutija, korisnički vodič, mjehurićasti omotač itd.) ima srednju vrijednost od 456 grama i standardnu devijaciju od 6 grama. Kombinirano, distribucija težine pametne narukvice i njenog pakiranja imat će sljedeću srednju vrijednost i standardnu devijaciju:",
+    "option_a": "Srednja vrijednost 518 grama; standardna devijacija 7,0 grama",
+    "option_b": "Srednja vrijednost 518 grama; standardna devijacija 3,5 grama",
+    "option_c": "Srednja vrijednost 518 grama; standardna devijacija 6,1 grama",
+    "option_d": "Srednja vrijednost 394 grama; standardna devijacija 6,1 grama",
+    "answer": "C",
+    "id": "high_school_statistics/dev/3"
+  },
+  {
+    "instruction": "U upravljanju pitanjima, koji je najproaktivniji pristup u suočavanju s negativnim ili zavodljivim informacijama objavljenim online o vašoj organizaciji?",
+    "option_a": "Kupite nazive domena koji bi mogli biti korišteni od strane opozicijskih grupa.",
+    "option_b": "Objavite anonimne komentare na blogovima kako biste se borili protiv ovih informacija.",
+    "option_c": "Pripremite priopćenje za medije koje pobija netočne informacije.",
+    "option_d": "Napravite promjene u politici radi rješavanja pritužbi koje su istaknute na ovim web stranicama.",
+    "answer": "D",
+    "id": "public_relations/dev/1"
+  },
+  {
+    "instruction": "Kakav je bio Tolstojev pogled na smisao života prije njegova kršćanskoga obraćenja?",
+    "option_a": "optimističan",
+    "option_b": "zadovoljan",
+    "option_c": "nominalno religiozan",
+    "option_d": "pesimističan",
+    "answer": "D",
+    "id": "philosophy/dev/3"
+  },
+  {
+    "instruction": "Koje od sljedećih nije bilo cilj poslijeratne države blagostanja iz 1948. godine:",
+    "option_a": "besplatna zdravstvena zaštita i obrazovanje za sve",
+    "option_b": "minimalna plaća",
+    "option_c": "puno zaposlenost",
+    "option_d": "univerzalna socijalna skrb",
+    "answer": "B",
+    "id": "sociology/dev/0"
+  },
+  {
+    "instruction": "Deset učenika polaže biološki ispit i dobiju sljedeće ocjene: 45, 55, 50, 70, 65, 80, 40, 90, 70, 85. Koja je srednja vrijednost ocjena učenika?",
+    "option_a": "55",
+    "option_b": "60",
+    "option_c": "62",
+    "option_d": "65",
+    "answer": "D",
+    "id": "high_school_mathematics/dev/4"
+  },
+  {
+    "instruction": "Koje pisanje je povezano s higijenskim čimbenicima?",
+    "option_a": "Frederick Hertzberg",
+    "option_b": "D.C. McClelland",
+    "option_c": "Abraham Maslow",
+    "option_d": "Douglas McGregor",
+    "answer": "A",
+    "id": "management/dev/1"
+  },
+  {
+    "instruction": "U programu ispod, početna vrijednost x je 5, a početna vrijednost y je 10.\nAKO (X < O)\n {\n PRIKAŽI (\"Foxtrot\")\n }\nINAČE\n {\n AKO (X > y)\n {\n   PRIKAŽI (\"Hotel\")\n }\nINAČE \n {\n   AKO (y > O)\n   {\n   PRIKAŽI (\"November\")\n   }\n   INAČE\n   {\n   PRIKAŽI (\"Yankee\")\n   }\n }\n }\n \n Što će biti prikazano kao rezultat pokretanja programa?",
+    "option_a": "Foxtrot",
+    "option_b": "Hotel",
+    "option_c": "November",
+    "option_d": "Yankee",
+    "answer": "C",
+    "id": "high_school_computer_science/dev/3"
+  },
+  {
+    "instruction": "Bi li rezervacija na definiciju mučenja u ICCPR-u bila prihvatljiva u suvremenoj praksi?",
+    "option_a": "Ovo je prihvatljiva rezervacija ako zakonodavstvo zemlje koja stavlja rezervaciju koristi drugačiju definiciju",
+    "option_b": "Ovo je neprihvatljiva rezervacija jer krši svrhu i cilj ICCPR-a",
+    "option_c": "Ovo je neprihvatljiva rezervacija jer definicija mučenja u ICCPR-u je u skladu s običajnim međunarodnim pravom",
+    "option_d": "Ovo je prihvatljiva rezervacija jer prema općem međunarodnom pravu države imaju pravo stavljati rezervacije na ugovore",
+    "answer": "B",
+    "id": "international_law/dev/2"
+  },
+  {
+    "instruction": "Mikrovalna pećnica povezana je na utičnicu od 120 V i povlači struju od 2 ampera. Kojom brzinom se koristi energija u mikrovalnoj pećnici?",
+    "option_a": "10 W",
+    "option_b": "30 W",
+    "option_c": "60 W",
+    "option_d": "240 W",
+    "answer": "D",
+    "id": "high_school_physics/dev/3"
+  },
+  {
+    "instruction": "Baron priznaje da su verzije hipotetičke situacije s bomom koja otkucava o kojima raspravlja \"izvanredno glupi\", ali tvrdi da to zapravo predstavlja dokaz o",
+    "option_a": "gluposti većine tradicionalnih filozofskih primjera.",
+    "option_b": "općem nedostatku inteligencije među ljudima s naprednim stupnjevima obrazovanja.",
+    "option_c": "pogrešnosti mučenja.",
+    "option_d": "spremnosti mnogih inteligentnih ljudi da vide mučenje kao najbolje rješenje za borbu protiv terorizma.",
+    "answer": "D",
+    "id": "moral_disputes/dev/4"
+  },
+  {
+    "instruction": "Koji od sljedećih je intrinzično dobar prema Singeru?",
+    "option_a": "biti u gornjoj klasi",
+    "option_b": "sposobnost učenja i rješavanja problema",
+    "option_c": "biti ljepši od većine populacije",
+    "option_d": "biti niži od prosjeka",
+    "answer": "B",
+    "id": "moral_disputes/dev/2"
+  },
+  {
+    "instruction": "Koliko osovina ima standardni automobil?",
+    "option_a": "jednu",
+    "option_b": "dvije",
+    "option_c": "četiri",
+    "option_d": "osam",
+    "answer": "B",
+    "id": "miscellaneous/dev/0"
+  },
+  {
+    "instruction": "Glukoza se prenosi u stanice mišića:",
+    "option_a": "putem proteinskih transportera nazvanih GLUT4.",
+    "option_b": "samo u prisutnosti inzulina.",
+    "option_c": "putem heksokinaze.",
+    "option_d": "putem monocarboksilatnih transportera.",
+    "answer": "A",
+    "id": "college_medicine/dev/0"
+  },
+  {
+    "instruction": "3 Cl−(aq) + 4 CrO_4^2−(aq) + 23 H+(aq) → 3 HClO2(aq) + 4 Cr3+(aq) + 10 H2O(l). U reakciji prikazanoj iznad, Cl−(aq) se ponaša kao",
+    "option_a": "kiselina",
+    "option_b": "baza",
+    "option_c": "katalizator",
+    "option_d": "redukcijsko sredstvo",
+    "answer": "D",
+    "id": "college_chemistry/dev/3"
+  },
+  {
+    "instruction": "Pojam \"proračunski manjak\" odnosi se na",
+    "option_a": "godišnji porast federalne potrošnje na vojsku",
+    "option_b": "iznos kamata na nacionalni dug",
+    "option_c": "razliku između početnih proračunskih prijedloga predsjednika i Kongresa",
+    "option_d": "iznos koji vlada potroši iznad svojih prihoda",
+    "answer": "D",
+    "id": "high_school_government_and_politics/dev/1"
+  },
+  {
+    "instruction": "Ovo pitanje se odnosi na sljedeće informacije.\nOdlomci u nastavku su iz Navigacijskih zakona iz 1651. godine.\nNakon prvog dana prosinca tisuću šesto pedeset i prve godine, i od tada nadalje, nijedna roba ili roba bilo koje vrste koji potječu, su proizvedeni ili proizvedeni u Aziji, Africi ili Americi, ili bilo kojem njihovom dijelu; ili bilo kojeg otoka koji im pripada ili koji su opisani ili označeni na uobičajenim kartama ili kartama tih mjesta, kako engleskih naselja, tako i drugih, neće se uvoziti ili dovoziti u ovaj Commonwealth Englanda, ili u Irsku, ili bilo koju drugu zemlju, otoke, plantaže ili teritorije koji pripadaju ovom Commonwealthu, ili se nalaze u njihovom posjedu, ni u jednom drugom brodu ili plovilu, osim u onima koji stvarno i bez prijevare pripadaju samo ljudima ovog Commonwealtha, ili njihovih plantaža, kao njihovih vlasnika ili pravih vlasnika; i čiji su kapetan i mornari također ljudi ovog Commonwealtha, pod prijetnjom gubitka i gubitka svih roba koje će biti uvezeni suprotno ovom zakonu...\nNikakve robe ili proizvodi koji potječu, su proizvedeni ili proizvedeni u Europi, ili bilo kojem njenom dijelu, neće se nakon prvog dana prosinca tisuću šesto pedeset i prve godine uvoziti ili dovoziti u ovaj Commonwealth Engleske, ili bilo koje druge zemlje ili teritorije koji pripadaju ovom Commonwealthu, ili se nalaze u njihovom posjedu, ni u jednom brodu ili plovilu, osim u onim koji stvarno i bez prijevare pripadaju samo ljudima ovog Commonwealtha, i ni u kojem drugom osim u stranim brodovima i plovilima koji stvarno i pravilno pripadaju ljudima te zemlje ili mjesta čiji su navedeni proizvodi rast, proizvodnja ili proizvodnja. Koja od sljedećih najbolje opisuje ishod Navigacijskih zakona iz 1651. godine?",
+    "option_a": "Služili su kao katalizator za rast engleskog brodarstva i prekomorske trgovine, ali malo su utjecali na izglede Nizozemaca u sedamnaestom stoljeću.",
+    "option_b": "Gotovo odmah su doveli do poteškoća u nizozemskom gospodarstvu jer je njihovo prevladavanje prekomorskom trgovinom brzo završilo.",
+    "option_c": "Povučeni su tijekom obnove Stuarta jer su tražili normalne diplomatske odnose s Nizozemcima kako ne bi trebali financijsku podršku Parlamenta za rat.",
+    "option_d": "Doveli su do gotovo stoljetnog ponovljenog rata između Engleske i Nizozemske, koji neće završiti sve do američke neovisnosti.",
+    "answer": "A",
+    "id": "high_school_european_history/dev/3"
+  },
+  {
+    "instruction": "Jutarnja mučnina je obično problem:",
+    "option_a": "tijekom prvog tromjesečja",
+    "option_b": "tijekom drugog tromjesečja",
+    "option_c": "tijekom trećeg tromjesečja",
+    "option_d": "tijekom cijele trudnoće",
+    "answer": "A",
+    "id": "human_sexuality/dev/0"
+  },
+  {
+    "instruction": "Predvidite broj linija u EPR spektru otopine 13C-označenog metil radikala (13CH3•), pretpostavljajući da se linije ne preklapaju.",
+    "option_a": "4",
+    "option_b": "3",
+    "option_c": "6",
+    "option_d": "24",
+    "answer": "A",
+    "id": "college_chemistry/dev/2"
+  },
+  {
+    "instruction": "Prema Timothyju Pauketatu, dokazi za socijalnu stratifikaciju i političku moć u Cahokiji sugeriraju:",
+    "option_a": "centar mississippiske civilizacije s uvjetima sličnima usponu ranih država.",
+    "option_b": "ograničenja autoriteta u društvu domorodaca egalitarnih sakupljača.",
+    "option_c": "jednostavan ili možda složen poglavica nastao do 1500. godine.",
+    "option_d": "centar mississippiske civilizacije s uvjetima sličnima društvima na sjeverozapadnoj obali Sjeverne Amerike.",
+    "answer": "A",
+    "id": "prehistory/dev/1"
+  },
+  {
+    "instruction": "Kako bi se postao osiguran, prijetnja se mora prikazati na koji od ovih načina?",
+    "option_a": "Kao egzistencijalna prijetnja koja zahtijeva odmahšnje djelovanje i predstavlja prijetnju opstanku države ili društvenoj sigurnosti.",
+    "option_b": "Kao zahtjev za hitno i izvanredno djelovanje od strane države, prijeteći opstanku referentnog objekta i stoga opravdavajući upotrebu mjera koje nisu uobičajene u političkom području.",
+    "option_c": "Kao hitna prijetnja opstanku referentnog objekta, toliko ozbiljna da opravdava uporabu izvanrednih mjera u odgovoru.",
+    "option_d": "Kao hitna prijetnja opstanku publike koja zahtijeva izvanredne ili hitne mjere.",
+    "answer": "C",
+    "id": "security_studies/dev/2"
+  },
+  {
+    "instruction": "Osim poslovnog slučaja za angažiranje u CSR-u, postoje brojni moralni argumenti koji se odnose na: negativne _______, _______ koja tvrtke posjeduju i ________ poslovanja i društva.",
+    "option_a": "Vanjski efekti, Moć, Nezavisnost",
+    "option_b": "Publicitet, Neznačajni resursi, Međusobna ovisnost",
+    "option_c": "Publicitet, Moć, Nezavisnost",
+    "option_d": "Vanjski efekti, Moć, Međusobna ovisnost",
+    "answer": "D",
+    "id": "business_ethics/dev/0"
+  },
+  {
+    "instruction": "Ranije zdrava 32-godišnja žena dolazi liječniku 8 mjeseci nakon što joj je suprug poginuo u automobilskoj nesreći. Od tada ima smanjen apetit i teško zaspi. Kaže da je često tužna i često plače. Ispričala je da pet puta provjerava bravu prije nego izađe iz kuće i mora točno izbrojati pet komada toaletnog papira prije nego ga upotrebi. Navodi da je oduvijek bila perfekcionist, ali ove želje i obredi su joj novi. Farmakoterapija bi se trebala usmjeriti prema kojim od sljedećih neuroloških prijenosnika?",
+    "option_a": "Dopamin",
+    "option_b": "Glutamat",
+    "option_c": "Norepinefrin",
+    "option_d": "Serotonin",
+    "answer": "D",
+    "id": "professional_medicine/dev/2"
+  },
+  {
+    "instruction": "Odaberite najbolji prijevod u predikatnom računu: Nitko ne vozi na Marsu.",
+    "option_a": "~Pv",
+    "option_b": "(∀x)(Px ∨ ~Vx)",
+    "option_c": "(∀x)(Px ⊃ ~Vx)",
+    "option_d": "~Vm",
+    "answer": "C",
+    "id": "formal_logic/dev/0"
+  },
+  {
+    "instruction": "Kako je Donald Trump napao globalizaciju u kampanji 2016. godine?",
+    "option_a": "Globalizacija je ljude poput njega učinila prebogatima",
+    "option_b": "Globalizacija je koristila samo određenim američkim državama, poput New Yorka",
+    "option_c": "Liberalne elite su poticale globalizaciju, dok su 'obični Amerikanci' gubili poslove zbog toga",
+    "option_d": "Globalizacija je poticala štetne trgovinske ratove",
+    "answer": "C",
+    "id": "us_foreign_policy/dev/4"
+  },
+  {
+    "instruction": "Najvažniji cilj ponašajne intervencije je:",
+    "option_a": "Promjena ponašanja",
+    "option_b": "Sveobuhvatno pokrivanje",
+    "option_c": "Učinkovita primjena teorije ponašanja",
+    "option_d": "Održiva promjena ponašanja",
+    "answer": "D",
+    "id": "virology/dev/3"
+  },
+  {
+    "instruction": "Cijev napunjena zrakom zatvorena je na jednom kraju. U cijevi se stvara stojeći val što uzrokuje da cijev proizvodi zvuk. Koja od sljedećih tvrdnji je ispravna za svojstva valova na zatvorenom kraju cijevi?",
+    "option_a": "Tlak je u čvoru, a pomak čestice u antinodu.",
+    "option_b": "Tlak je u antinodu, a pomak čestice u čvoru.",
+    "option_c": "Tlak i pomak čestice su oboje u čvoru.",
+    "option_d": "Tlak i pomak čestice su oba u antinodu.",
+    "answer": "B",
+    "id": "high_school_physics/dev/1"
+  },
+  {
+    "instruction": "Ključni faktor koji olakšava primjenu gniježđenih slučajno-kontrolnih studija iz MACS-a bio je:",
+    "option_a": "Sakupljanje podataka",
+    "option_b": "Uspostava repozitorija bioloških uzoraka",
+    "option_c": "Interes sudionika",
+    "option_d": "Administracija upitnika od strane osoblja",
+    "answer": "B",
+    "id": "virology/dev/2"
+  },
+  {
+    "instruction": "Velika ponavljanja trostrukog niza mogu se otkriti pomoću:",
+    "option_a": "lančane reakcije polimeraze.",
+    "option_b": "analize polimorfizma jednolančane konformacije.",
+    "option_c": "Southern blotting-a.",
+    "option_d": "Western blotting-a.",
+    "answer": "C",
+    "id": "medical_genetics/dev/0"
+  },
+  {
+    "instruction": "Glikoliza je naziv za put koji uključuje pretvorbu:",
+    "option_a": "glikogena u glukozu-1-fosfat.",
+    "option_b": "glikogena ili glukoze u fruktozu.",
+    "option_c": "glikogena ili glukoze u piruvat ili laktat.",
+    "option_d": "glikogena ili glukoze u piruvat ili acetil CoA.",
+    "answer": "C",
+    "id": "clinical_knowledge/dev/4"
+  },
+  {
+    "instruction": "Pretpostavimo da su X i Y slučajne varijable s E(X) = 37, var(X) = 5, E(Y) = 62 i var(Y) = 12. Koja je očekivana vrijednost i varijanca slučajne varijable X + Y?",
+    "option_a": "E(X + Y) = 99, var(X + Y) = 8.5",
+    "option_b": "E(X + Y) = 99, var(X + Y) = 13",
+    "option_c": "E(X + Y) = 99, var(X + Y) = 17",
+    "option_d": "Nedostaje dovoljno informacija za odgovor na ovo pitanje.",
+    "answer": "D",
+    "id": "high_school_statistics/dev/1"
+  },
+  {
+    "instruction": "Koje su okvire analize prema kojima se terorizam razmatra (kao od 2020. godine)?",
+    "option_a": "Konkurencija između većih država rezultirala je time da neke države aktivno podržavaju terorističke grupe kako bi podrile snagu rivalnih država. Terorističke mreže su produžena patronažna društva održavana i plaćena od strane svojih donorskih država i konceptualizirane su kao državni akteri, koje treba rješavati primjenom vojne sile.",
+    "option_b": "Globalizacija je omogućila internacionalizaciju terorističkih aktivnosti otvaranjem njihovih operativnih prostora, iako se koordinacija i dalje upravlja iz geografske baze. To sugerira da su terorističke grupe nacionalno strukturirane što znači da terorizam ne može biti razmatran u smislu rata koji se može poraziti vojno, bez ozbiljnih posljedica po domaće stanovništvo.",
+    "option_c": "Terorizam se može smatrati problemom koji se može riješiti vojnim sredstvima (rat protiv terorizma), normalnom policijskom tehnikom (terorizam kao kriminal), ili kao medicinskim problemom s osnovnim uzrocima i simptomima (terorizam kao bolest).",
+    "option_d": "Terorizam se smatra kriminalnim problemom. Kriminalizacija terorizma ima dvije važne posljedice. Prvo, nagovješćuje da se terorizam može iskorijeniti - teroristi se mogu uhvatiti i dovesti pred sud putem normalnih pravnih postupaka kako bi se uklonila prijetnja iz društva - a drugo, sugerira da su preventivne tehnike kriminala primjenjive kako bi se spriječio njen razvoj.",
+    "answer": "C",
+    "id": "security_studies/dev/4"
+  },
+  {
+    "instruction": "Sudac je na početku suđenja proglasio pravno poznatima neke činjenice. Koja od sljedećih vrsta činjenica nije primjerena za pravno prepoznavanje?",
+    "option_a": "Neupitne činjenice.",
+    "option_b": "Činjenice koje su izjavile pojedinačne političke organizacije.",
+    "option_c": "Činjenice koje su priznate kao točne općim znanjem.",
+    "option_d": "Činjenice koje je moguće znanstveno potvrditi.",
+    "answer": "B",
+    "id": "professional_law/dev/2"
+  },
+  {
+    "instruction": "Koja je približna srednja kapaciteta lubanje kod Homo erectus-a?",
+    "option_a": "ispod 650 cc",
+    "option_b": "oko 800 cc",
+    "option_c": "nepunih 1000 cc",
+    "option_d": "1200 cc",
+    "answer": "C",
+    "id": "prehistory/dev/4"
+  },
+  {
+    "instruction": "Nedavna istraživanja hominidnih vrsta iz srednjeg pliocena ukazuju da je bilo (kao što je to 2020. godine):",
+    "option_a": "velik broj vrsta raznolikosti ili jedna vrsta koja je pokazivala puno raznolikosti.",
+    "option_b": "vrlo malo vrsta raznolikosti tijekom ovog perioda i vrlo malo hominida.",
+    "option_c": "smanjena raznolikost vrsta zbog produljenog ledenog doba praćenog teškom sušom.",
+    "option_d": "smanjena raznolikost vrsta, ali povećan broj kamenih alata, što ukazuje na proizvodnju kamenih alata.",
+    "answer": "A",
+    "id": "prehistory/dev/3"
+  },
+  {
+    "instruction": "Faza mejoze u kojoj se kromosomi uparuju i izmjenjuju dijelovima naziva se:",
+    "option_a": "profaza I",
+    "option_b": "metafaza I",
+    "option_c": "profaza II",
+    "option_d": "metafaza II",
+    "answer": "A",
+    "id": "medical_genetics/dev/4"
+  },
+  {
+    "instruction": "Ovo pitanje se odnosi na sljedeće informacije.\nIako njegovo veličanstvo kralj pravedno i opravdano jest i mora biti vrhovni poglavar Crkve Engleske, te je tako priznat od svećenstva u ovom carstvu u njihovim konvolucijama, ipak, radi potvrde i potvrde toga, te za povećanje vrline u Kristovu vjeru unutar ovog carstva Engleske, te za suzbijanje i iskorjenjivanje svih pogrešaka, hereza i drugih velikih zla i zloupotreba dosad učinjenih, neka se donese  ovim sadašnjim parlamentom, da kralj, naš suvereni gospodar, njegovi nasljednici i njihovi sljedbenici, kraljevi ovog carstva, bit će uzeti, prihvaćeni i prepoznati kao jedini vrhovni poglavar na zemlji Crkve Engleske, zvane anglikanska Crkva; i imat će i uživati, povezani i spojeni s carskom krunom ovog carstva, kao i sve naslove i stilove, kao i sva priznanja, dostojanstva, preeminentnosti, nadležnosti, povlastice, ovlasti, imuniteti, dobit, i pogodnosti koja spadaju i koja pripadaju određenosti vrhovnog vođe te iste Crkve; i naš suvereni gospodar, njegovi nasljednici i njihovi sljedbenici, kraljevi ovog carstva, imat će punu moć i ovlasti od vremena do vremena za posjetiti, suzbijati, popraviti, zapisati, narediti, ispraviti, ograničiti i poboljšati sve pogreške, hereze, zloupotrebe, uvrede, prezir i velike zločine, što je bilo kojom vrstom duhovnog autoriteta ili nadležnosti koje trebaju ili mogu biti zakonito reformirane, suzbijane, naređivane, popravljane, ograničene ili poboljšane, najviše na ugodnost Svemogućem Bogu, povećanje vrline u Kristovoj vjeri i za očuvanje mira, jedinstva i mirnoće ovog carstva; unatoč bilo kojoj upotrebi, stranom zemlji, stranoj vlasti, propisu ili bilo kojoj drugoj stvari koja bi se ovdje suprotno pojavila.\nEngleski parlament, Zakon o vrhovništvu, 1534.\nIz teksta se može naslutiti da je Engleski parlament želio dokazati da će se Zakonom o vrhovništvu",
+    "option_a": "dati engleskom kralju nova pozicija vlasti",
+    "option_b": "dati poziciju vođe Crkve Engleske samo Henrik VIII i isključiti njegove nasljednike",
+    "option_c": "uspostaviti kalvinizam kao jedinu istinoliku teologiju u Engleskoj",
+    "option_d": "prestati s raznovrsnim oblicima korupcije koja pogađaju Crkvu u Engleskoj",
+    "answer": "D",
+    "id": "high_school_european_history/dev/4"
+  },
+  {
+    "instruction": "Pleura",
+    "option_a": "nemaju senzornu unervaciju.",
+    "option_b": "su odvojena s razmakom od 2 mm.",
+    "option_c": "se protežu u vrat.",
+    "option_d": "su sastavljena od respiratornog epitela.",
+    "answer": "C",
+    "id": "anatomy/dev/2"
+  },
+  {
+    "instruction": "Koja riječ najbolje sažima Weberovo objašnjenje razvoja formalno racionalnog prava?",
+    "option_a": "Autoritet.",
+    "option_b": "Karizma.",
+    "option_c": "Kooperacija.",
+    "option_d": "Kapitalizam.",
+    "answer": "D",
+    "id": "jurisprudence/dev/2"
+  },
+  {
+    "instruction": "Tijekom treće faze modela demografske tranzicije koja od sljedećeg je istinita?",
+    "option_a": "Stopa rađanja raste i stopa rasta populacije je manje brza.",
+    "option_b": "Stopa rađanja opada i stopa rasta populacije je manje brza.",
+    "option_c": "Stopa rađanja raste i stopa rasta populacije raste.",
+    "option_d": "Stopa rađanja opada i stopa rasta populacije raste.",
+    "answer": "B",
+    "id": "high_school_geography/dev/1"
+  },
+  {
+    "instruction": "Koji je lijek prvog izbora za pacijente s tipom 2 šećerne bolesti i pretilosti, prema 2020. godini?\n",
+    "option_a": "Akarboza",
+    "option_b": "Metformin",
+    "option_c": "Sulfonilureje",
+    "option_d": "Inzulin",
+    "answer": "B",
+    "id": "nutrition/dev/4"
+  },
+  {
+    "instruction": "Za koji od ova dva scenarija glavni lik (koji koristi I / me / my) čini nešto očito moralno pogrešno, prema običnim moralnim standardima u Sjedinjenim Američkim Državama u 2020. godini? Scenario 1 | Tražio sam cigaretu od lika ispred dućana. Scenario 2 | Kada je čuvar napustio svoju poziciju, stavio sam rijetki novčić u džep.",
+    "option_a": "Pogrešno, pogrešno",
+    "option_b": "Pogrešno, nije pogrešno",
+    "option_c": "Nije pogrešno, pogrešno",
+    "option_d": "Nije pogrešno, nije pogrešno",
+    "answer": "C",
+    "id": "moral_scenarios/dev/1"
+  },
+  {
+    "instruction": "Ovo pitanje se odnosi na sljedeće informacije.\n Ne dolazim zagovarati osobne zahtjeve ili tražiti individualnu korist; pojavljujem se kao zagovornik onih koji ne mogu braniti svoj vlastiti slučaj; dolazim kao prijatelj onih koji su napušteni, potlačeni i napušteni. U Božjoj providnosti, ja sam glas manijaka čiji prodorni krici iz mračnih tamnica vaših zatvora ne dopiru do dvorana vašeg zakonodavstva. Ja sam nada siromašnih ljudi koji propadaju u ćelijama, štalama, kavezima i sobama vaših sirotišta. Ja sam otkrivenje stotina jadnih, patničkih bića, skrivenih u vašim privatnim kućama i u ogradama i kabinama - izolirani, odvojeni od svih utjecaja ozdravljenja, od svih briga koje obnavljaju razum...\n Kada bi se njihove melanholične povijesti mogle predstaviti pred vama, kao što su se otkrile mom tuznom duhu tijekom posljednja tri mjeseca, kako brzo, kako ozbiljno biste tragali za najprihvatljivijim sredstvima za olakšanje; kako nevažne, kako nepotrebne, po usporedbi, izgledale bi žrtve koje se od vas traže za postizanje određenih dobrobiti i velikog dobra za patničke slabe umove .... stvaranjem i primjenom dovoljnog fonda za izgradnju prikladnih bolnica.\n — Dorothea Dix, Memorial Soliciting a State Hospital for the Protection and Cure of the Insane,\nSubmitted to the General Assembly of North Carolina, November 1848\n S kojom se osobom najbolje može usporediti Dorothea Dix?",
+    "option_a": "Abigail Adams",
+    "option_b": "Clara Barton",
+    "option_c": "Shirley Temple",
+    "option_d": "Hillary Clinton",
+    "answer": "B",
+    "id": "high_school_us_history/dev/4"
+  },
+  {
+    "instruction": "Koji od sljedećih sadrže DNA sekvence potrebne za segregaciju kromosoma u mitozi i mejozi?",
+    "option_a": "Telomeri",
+    "option_b": "Centromeri",
+    "option_c": "Nukleosomi",
+    "option_d": "Splicozomi",
+    "answer": "B",
+    "id": "college_biology/dev/4"
+  },
+  {
+    "instruction": "Koji od sljedećih ljudi je 2019. godine vjerojatnije ostati sam kod kuće?",
+    "option_a": "Azijat muškarac ili žena",
+    "option_b": "Hispano muškarac",
+    "option_c": "Afroamerička žena",
+    "option_d": "Bijeli muškarac ili žena",
+    "answer": "C",
+    "id": "human_aging/dev/0"
+  },
+  {
+    "instruction": "Koje od sljedećih stanja ne pokazuje multifaktorijalno naslijeđivanje?",
+    "option_a": "Pilor stenoza",
+    "option_b": "Shizofrenija",
+    "option_c": "Spina bifida (defekti neuralne cijevi)",
+    "option_d": "Marfanov sindrom",
+    "answer": "D",
+    "id": "medical_genetics/dev/3"
+  },
+  {
+    "instruction": "Koje od sljedećih nije način za formiranje rekombinantne DNA?",
+    "option_a": "Translacija",
+    "option_b": "Konzugacija",
+    "option_c": "Specijalizirana transdukcija",
+    "option_d": "Transformacija",
+    "answer": "A",
+    "id": "high_school_biology/dev/0"
+  },
+  {
+    "instruction": "Koja karakteristika nije ključna značajka modela upravljanja 'otvorenih sustava'?",
+    "option_a": "Moral",
+    "option_b": "Inovacija",
+    "option_c": "Resursi za rast",
+    "option_d": "Prilagodljivost",
+    "answer": "A",
+    "id": "management/dev/3"
+  },
+  {
+    "instruction": "Koji od sljedećih lista hidrida elemenata grupe 14 nudi termalnu stabilnost poredanu od najniže do najviše?",
+    "option_a": "PbH4 < SnH4 < GeH4 < SiH4 < CH4",
+    "option_b": "PbH4 < SnH4 < CH4 < GeH4 < SiH4",
+    "option_c": "CH4 < SiH4 < GeH4 < SnH4 < PbH4",
+    "option_d": "CH4 < PbH4 < GeH4 < SnH4 < SiH4",
+    "answer": "A",
+    "id": "college_chemistry/dev/4"
+  },
+  {
+    "instruction": "Koja od donjih tvari očekuje se da bude polarna molekula?",
+    "option_a": "PCl4F",
+    "option_b": "BF3",
+    "option_c": "CO2",
+    "option_d": "Si(CH3)4",
+    "answer": "A",
+    "id": "high_school_chemistry/dev/1"
+  },
+  {
+    "instruction": "Koja od sljedećih šupljina tijela sadrži hipofizu?",
+    "option_a": "Trbušna",
+    "option_b": "Lubanjska",
+    "option_c": "Pleurana",
+    "option_d": "Kralježnična",
+    "answer": "B",
+    "id": "anatomy/dev/4"
+  },
+  {
+    "instruction": "Prema pritiskom-protok modelu kretanja sadržaja floema, kretanje fotosintata od izvora do ponora pokreće",
+    "option_a": "ATP-ovvisni pritiskom-protok crpka",
+    "option_b": "gradijent potencijala vodnog pritiska",
+    "option_c": "transpiracija",
+    "option_d": "apoplastična difuzija",
+    "answer": "B",
+    "id": "college_biology/dev/3"
+  },
+  {
+    "instruction": "Koji od sljedećih najbolje izražava argument Jamesa Madisona u Federalističkom broju 10?",
+    "option_a": "Iskreni političari mogu spriječiti razvoj frakcija.",
+    "option_b": "Frakcije su vjerojatnije u velikim republikama nego u malima.",
+    "option_c": "Negativni učinci frakcionalizma mogu se smanjiti republikanskim oblikom vladavine.",
+    "option_d": "Slobodni izbori najbolja su obrana naroda protiv frakcionalizma.",
+    "answer": "C",
+    "id": "high_school_government_and_politics/dev/4"
+  },
+  {
+    "instruction": "Mezon raspada karakterističnim vijekom trajanja od otprilike 10^-6 sekundi u elektron, mionski neutrin i elektronski antineutrin. Zabrana je da mion raspada u samo jedan neutrino i elektron sukladno zakonu očuvanja",
+    "option_a": "naboja",
+    "option_b": "mase",
+    "option_c": "energije i impulsa",
+    "option_d": "leptonskog broja",
+    "answer": "D",
+    "id": "college_physics/dev/4"
+  },
+  {
+    "instruction": "U SR spojnici izgrađenoj od NOR kapi, koja se uvjet ne dopušta",
+    "option_a": "S=0, R=0",
+    "option_b": "S=0, R=1",
+    "option_c": "S=1, R=0",
+    "option_d": "S=1, R=1",
+    "answer": "D",
+    "id": "electrical_engineering/dev/0"
+  },
+  {
+    "instruction": "U DC stroju sa 2 polova i lopatnom namotajem, otpor jednog provodnika je 2Ω, a ukupni broj provodnika je 100. Pronađite ukupni otpor.",
+    "option_a": "200Ω",
+    "option_b": "100Ω",
+    "option_c": "50Ω",
+    "option_d": "10Ω",
+    "answer": "C",
+    "id": "electrical_engineering/dev/1"
+  },
+  {
+    "instruction": "Izjava 1 | Svaki element grupe generira cikličnu podgrupu te grupe. Izjava 2 | Simetrična grupa S_10 ima 10 elemenata.",
+    "option_a": "Točno, točno",
+    "option_b": "Netočno, netočno",
+    "option_c": "Točno, netočno",
+    "option_d": "Netočno, točno",
+    "answer": "C",
+    "id": "abstract_algebra/dev/2"
+  },
+  {
+    "instruction": "Pet tisuća dolara koje se godišnje zarađuju na kamatu od $x\\%$ udvostručit će se za šest godina. Koliko će vremena biti potrebno da se $\\$300$ poveća na $\\$9600$ na istoj kamatnoj stopi?",
+    "option_a": "12",
+    "option_b": "1",
+    "option_c": "30",
+    "option_d": "5",
+    "answer": "C",
+    "id": "high_school_mathematics/dev/1"
+  },
+  {
+    "instruction": "Najčešći poremećaj među muškarcima koji traže terapiju za seksualne probleme je:",
+    "option_a": "preuranjena ejakulacija",
+    "option_b": "inhibirana ejakulacija",
+    "option_c": "erektilni poremećaj",
+    "option_d": "ejakulacijski poremećaj",
+    "answer": "C",
+    "id": "human_sexuality/dev/4"
+  },
+  {
+    "instruction": "36-godišnji muškarac javlja se u ordinaciju sa poviješću niskoga bolova u leđima trajanja od tri tjedna. Odbacuje mogućnost nedavne traume, no kaže da se više puta dnevno penje i spušta iz svoga kamiona zbog posla. Pregled pacijenta u ležećem položaju otkriva duboku sakralnu brazdu na lijevoj strani, stražnji inferior kutevi na desnoj strani i lumbosakralni spoj koji se slobodno pomakne pod pritiskom. Najvjerojatnija dijagnoza je",
+    "option_a": "lijeva sakralna torzija lijevo na lijevo",
+    "option_b": "lijeva sakralna torzija lijevo na desno",
+    "option_c": "desna unilateralna sakralna fleksija",
+    "option_d": "desna sakralna torzija desno na desno",
+    "answer": "D",
+    "id": "professional_medicine/dev/1"
+  },
+  {
+    "instruction": "U kojoj je dinastiji \"Nebeski mandat\" razvijen kako bi se legitimizirali novi vladari?",
+    "option_a": "Shang",
+    "option_b": "Zhou",
+    "option_c": "Han",
+    "option_d": "Xia",
+    "answer": "B",
+    "id": "world_religions/dev/2"
+  },
+  {
+    "instruction": "Boje u sapunskoj mjehurići nastaju zbog svjetlosti",
+    "option_a": "pretvorene u drugu frekvenciju",
+    "option_b": "odboja",
+    "option_c": "interferencija",
+    "option_d": "polarizacija",
+    "answer": "C",
+    "id": "conceptual_physics/dev/2"
+  },
+  {
+    "instruction": "Oplođeno jaje naziva se",
+    "option_a": "zigotom.",
+    "option_b": "embrionom.",
+    "option_c": "životnosnošću.",
+    "option_d": "blastocistom.",
+    "answer": "A",
+    "id": "moral_disputes/dev/1"
+  },
+  {
+    "instruction": "Na kojoj se fazi u procesu planiranja provodi analiza situacije?",
+    "option_a": "Definiranje programa",
+    "option_b": "Planiranje programa",
+    "option_c": "Poduzimanje mjera i provođenje ideja",
+    "option_d": "Evaluacija programa",
+    "answer": "A",
+    "id": "public_relations/dev/3"
+  },
+  {
+    "instruction": "Koja je razlika između muškog i ženskog katetera?",
+    "option_a": "Muški i ženski kateteri su drugačije boje.",
+    "option_b": "Muški kateteri su duži od ženskih katetera.",
+    "option_c": "Muški kateteri su veći od ženskih katetera.",
+    "option_d": "Ženski kateteri su duži od muških katetera.",
+    "answer": "B",
+    "id": "clinical_knowledge/dev/1"
+  },
+  {
+    "instruction": "_________je izravan pokušaj formalnog ili neformalnog upravljanja etičkim pitanjima ili problemima, putem specifičnih politika, praksi i programa.",
+    "option_a": "Korporativna društvena odgovornost",
+    "option_b": "Upravljanje poslovnom etikom",
+    "option_c": "Održivost",
+    "option_d": "Upravljanje okolišem",
+    "answer": "B",
+    "id": "business_ethics/dev/1"
+  },
+  {
+    "instruction": "Koja od sljedećih tvrdnji o jodu je točna prema podacima iz 2020. godine?\n",
+    "option_a": "50% odraslih osoba konzumira jod u količinama koje su ispod preporučene razine unosa",
+    "option_b": "Mliječni proizvodi su loš izvor joda",
+    "option_c": "Sadržaj joda u organskom mlijeku je općenito niži od razine u nemasnom mlijeku",
+    "option_d": "UK preporučuje povećanje unosa joda tijekom trudnoće",
+    "answer": "C",
+    "id": "nutrition/dev/3"
+  },
+  {
+    "instruction": "44-godišnji muškarac dolazi u ordinaciju zbog boli u grlu, neproduktivnog kašlja, curenja iz nosa i frontalnih glavobolja koje traju tri dana. Kaže da su glavobolje gore ujutro, a ibuprofen mu donekle pomaže. Nije imao otežano disanje. Nema osobitosti u medicinskoj anamnezi. Ne uzima druge lijekove osim ibuprofena za bolove. Vitalni znakovi su: temperatura 37,4 ° C (99,4 ° F), puls 88 / min, disanje 18 / min, krvni tlak 120/84 mm Hg. Pregled nosnica pokazuje eritematozne sluznice. Pregled grla pokazuje eritem i folikularnu limfoidnu hiperplaziju na stražnjem orofarinksu. Nema opipljivih vratnih adenopatija. Pluća su čista pri auskultaciji. Koja je najvjerojatniji uzrok pacijentovih simptoma?",
+    "option_a": "Alergijski rinitis",
+    "option_b": "Epstein-Barr virus",
+    "option_c": "Mikoplazma pneumonija",
+    "option_d": "Rhinovirus",
+    "answer": "D",
+    "id": "professional_medicine/dev/3"
+  },
+  {
+    "instruction": "Profesorica srednje škole za znanost napuni bocu od 1 litre čistim dušikom i zatvori poklopac. Tlak iznosi 1,70 atm, a temperatura u sobi je 25 °C. Koje su dvije varijable koje će, uz sve ostale konstante, povećati tlak sustava?",
+    "option_a": "Povećanje temperature, povećanje broja molova plina",
+    "option_b": "Povećanje temperature, povećanje volumena",
+    "option_c": "Smanjenje volumena, smanjenje temperature",
+    "option_d": "Smanjenje broja molova plina, povećanje volumena",
+    "answer": "A",
+    "id": "college_medicine/dev/3"
+  },
+  {
+    "instruction": "Pregledavate radove za najluksuzniju konferenciju strojnog učenja na svijetu i vidite prijave s sljedećim tvrdnjama. Koje biste prihvatili?",
+    "option_a": "Moja metoda postiže grešku u treniranju manju od svih prethodnih metoda!",
+    "option_b": "Moja metoda postiže grešku u testiranju manju od svih prethodnih metoda! (Napomena: Kada se parametar regulacije λ odabere tako da minimizira grešku testiranja.)",
+    "option_c": "Moja metoda postiže grešku u testiranju manju od svih prethodnih metoda! (Napomena: Kada se parametar regulacije λ odabere tako da minimizira grešku unakrsne validacije.)",
+    "option_d": "Moja metoda postiže grešku u unakrsnoj validaciji manju od svih prethodnih metoda! (Napomena: Kada se parametar regulacije λ odabere tako da minimizira grešku unakrsne validacije.)",
+    "answer": "C",
+    "id": "machine_learning/dev/2"
+  },
+  {
+    "instruction": "Refraktor teleskop se sastoji od dvije zavojne leće spojene udaljenosti od 100 cm. Leća za okular ima žarišnu duljinu od 20 cm. Kutno povećanje teleskopa je",
+    "option_a": "4",
+    "option_b": "5",
+    "option_c": "6",
+    "option_d": "20",
+    "answer": "A",
+    "id": "college_physics/dev/3"
+  },
+  {
+    "instruction": "Prema Zakonu o poboljšanju obrazovanja osoba s invaliditetom, što mora učiniti obrazovna agencija prije nego što promijeni obrazovnu poziciju učenika s invaliditetom?",
+    "option_a": "Dati djetetu probni period u novom okruženju",
+    "option_b": "Obavijestiti roditelje pisanim putem",
+    "option_c": "Pribaviti odobrenje školskog odbora",
+    "option_d": "Pribaviti pristanak roditelja",
+    "answer": "B",
+    "id": "high_school_psychology/dev/3"
+  },
+  {
+    "instruction": "Kratkoročna Phillips krivulja ukazuje na",
+    "option_a": "izravnu vezu između nezaposlenosti i inflacije",
+    "option_b": "izravnu vezu između cijene i količine tražene",
+    "option_c": "obrnutoj vezi između cijena i količine tražene",
+    "option_d": "obrnutoj vezi između nezaposlenosti i inflacije",
+    "answer": "D",
+    "id": "high_school_macroeconomics/dev/1"
+  },
+  {
+    "instruction": "SHA-1 ima tajni zapis poruke od",
+    "option_a": "160 bita",
+    "option_b": "512 bita",
+    "option_c": "628 bita",
+    "option_d": "820 bita",
+    "answer": "A",
+    "id": "computer_security/dev/0"
+  },
+  {
+    "instruction": "Što se proizvodi tijekom fotosinteze?",
+    "option_a": "vodik",
+    "option_b": "nilon",
+    "option_c": "kisik",
+    "option_d": "svjetlost",
+    "answer": "C",
+    "id": "miscellaneous/dev/3"
+  },
+  {
+    "instruction": "Mutacija u bakterijskom enzimu promijenila je prije polaru aminokiselinu u nepolarnu aminokiselinu. Ova aminokiselina nalazila se na mjestu udaljenom od aktivnog mjesta enzima. Kako bi ova mutacija mogla promijeniti specifičnost supstrata enzima?",
+    "option_a": "Mijenjajući optimalnu pH vrijednost enzima.",
+    "option_b": "Mijenjajući položaj enzima u stanici.",
+    "option_c": "Mijenjajući oblik proteina.",
+    "option_d": "Promjena aminokiseline udaljene od aktivnog mjesta ne može promijeniti specifičnost supstrata enzima.",
+    "answer": "C",
+    "id": "high_school_biology/dev/1"
+  },
+  {
+    "instruction": "Koja od sljedećih izjava je točna (prema znanju iz 2020. godine)?\n",
+    "option_a": "Potrošači s fenilketonurijom moraju izbjegavati konzumaciju zaslađivača aspartama",
+    "option_b": "Potrošači s fenilketonurijom moraju izbjegavati konzumaciju zaslađivača saharina",
+    "option_c": "Potrošači s fenilketonurijom moraju izbjegavati konzumaciju zaslađivača sukraloze",
+    "option_d": "Potrošači s fenilketonurijom moraju izbjegavati konzumaciju zaslađivača acesulfam K",
+    "answer": "A",
+    "id": "nutrition/dev/1"
+  },
+  {
+    "instruction": "Koja je izlazna vrijednost \"abc\" [::-1] u Pythonu 3?",
+    "option_a": "Greška",
+    "option_b": "abc",
+    "option_c": "cba",
+    "option_d": "c",
+    "answer": "C",
+    "id": "high_school_computer_science/dev/2"
+  },
+  {
+    "instruction": "Prilikom konstrukcije jednadžbe multiple regresije s ciljem predviđanja, optimalna kombinacija mjera je ona u kojoj su prediktori",
+    "option_a": "neusklađeni jedni s drugima, ali umjereno usklađeni s kriterijem",
+    "option_b": "imaju niske korelacije međusobno i s kriterijem",
+    "option_c": "visoko međusobno usklađeni, a umjereno usklađeni s kriterijem",
+    "option_d": "imaju niske korelacije s kriterijem, ali su umjereno povezani jedni s drugima",
+    "answer": "A",
+    "id": "professional_psychology/dev/4"
+  },
+  {
+    "instruction": "Prema Metzu, što nije u redu s konzekvencijalističkim argumentima protiv smrtne kazne temeljenim na afričkim vrijednostima?",
+    "option_a": "Nije još jasno sprečava li smrtna kazna štetu zajednici.",
+    "option_b": "Nije još jasno sprečava li smrtna kazna štetu bilo kojoj osobi.",
+    "option_c": "Konsekventizam nije podržan afričkim vrijednostima.",
+    "option_d": "Iako se afričkim vrijednostima podržava konzekvencijalizam, nisu ponuđeni konzekvencijalistički argumenti formulirani u terminima afričkih vrijednosti.",
+    "answer": "A",
+    "id": "moral_disputes/dev/0"
+  },
+  {
+    "instruction": "Koje je embriološko podrijetlo jezične kosti?",
+    "option_a": "Prva ždrijelna nabora",
+    "option_b": "Prva i druga ždrijelna nabora",
+    "option_c": "Druga ždrijelna nabora",
+    "option_d": "Druga i treća ždrijelna nabora",
+    "answer": "D",
+    "id": "anatomy/dev/0"
+  },
+  {
+    "instruction": "Očekivani nuspojavi suplementiranja kreatinom su:",
+    "option_a": "slabost mišića.",
+    "option_b": "dobitak tjelesne mase.",
+    "option_c": "mišićni grčevi.",
+    "option_d": "gubitak elektrolita.",
+    "answer": "B",
+    "id": "college_medicine/dev/4"
+  },
+  {
+    "instruction": "Izjava 1 | Svaka funkcija iz konačnog skupa na sebe mora biti pridružena. Izjava 2 | Svaka podgrupa Abelove grupe je Abelova.",
+    "option_a": "Točno, točno",
+    "option_b": "Netočno, netočno",
+    "option_c": "Točno, netočno",
+    "option_d": "Netočno, točno",
+    "answer": "A",
+    "id": "abstract_algebra/dev/3"
+  },
+  {
+    "instruction": "Neka V bude skup svih realnih polinoma p(x). Neka transformacije T i S budu definirane na V prema pravilu T:p(x) -> xp(x) i S:p(x) -> p'(x) = d/dx p(x), a (ST)(p(x)) tumači kao S(T(p(x))). Koja od navedenih tvrdnji je istinita?",
+    "option_a": "ST = 0",
+    "option_b": "ST = T",
+    "option_c": "ST = TS",
+    "option_d": "ST - TS je identično preslikavanje V na sebe.",
+    "answer": "D",
+    "id": "college_mathematics/dev/0"
+  },
+  {
+    "instruction": "Prema Caplanovom modelu konzultacijskog rada usmjerenom na savjetnika, savjetnik je najviše zainteresiran za",
+    "option_a": "utvrđivanje uzroka i rješavanje klijentovih problema u prezentiranju",
+    "option_b": "identificiranje i uklanjanje uzroka poteškoća konzultanta u rješavanju problema",
+    "option_c": "uspostavljanje hijerarhije vlasti radi učinkovitog donošenja odluka",
+    "option_d": "prezentiranje pojedinačnog, dobro definiranog i nedvosmislenog pristupa savjetniku za prevladavanje nedostataka u vještinama",
+    "answer": "B",
+    "id": "high_school_psychology/dev/1"
+  },
+  {
+    "instruction": "Pence uspoređuje šest različitih slučajeva reprodukcije, od prirodnog blizanaca do SCNT-a. Koje zaključke on izvlači iz ove usporedbe?",
+    "option_a": "SCNT nije drugačiji tip reprodukcije jer nema moralno relevantnih razlika između njega i drugih dopuštenih oblika reprodukcije.",
+    "option_b": "Budući da postoji nizak rizik od štete kod prirodnog blizanaca, postojat će i nizak rizik od štete kod SCNT-a.",
+    "option_c": "oba odgovora A i B",
+    "option_d": "ni jedan odgovor A ni B",
+    "answer": "A",
+    "id": "moral_disputes/dev/3"
+  },
+  {
+    "instruction": "Prvog siječnja, godine 1., Alpha Co. je potpisala godišnji ugovor o održavanju s davateljem softverskih usluga u vrijednosti od 15.000 dolara, a razdoblje održavanja započinje 1. ožujka, godine 2. Alpha se također suočava s troškovima od 5.000 dolara od 1. siječnja, godine 1., vezanih uz zahtjeve za modifikaciju softvera koji će poboljšati funkcionalnost softvera. Alpha amortizira svoju imovinu u računalima i softverima tijekom pet godina koristeći metodu ravne crte. Koji je ukupni iznos troška koje Alpha mora prepoznati vezano za ugovor o održavanju i modifikacije softvera za godinu završenu 31. prosinca, godine 1.?",
+    "option_a": "5.000 dolara",
+    "option_b": "13.500 dolara",
+    "option_c": "16.000 dolara",
+    "option_d": "20.000 dolara",
+    "answer": "B",
+    "id": "professional_accounting/dev/3"
+  },
+  {
+    "instruction": "Prijelaz s 'građanske religije' na 'uobičajenu religiju' znači da:",
+    "option_a": "rastuća birokracija države učinila je vjerska shvaćanja samo marginalnim dijelom naših života",
+    "option_b": "usklađujući se s oslabljenim tradicionalnim autoritetima, naša svakodnevica i 'zdravorazumski stavovi' još uvijek se oblikuju prema vjerskim vjerovanjima i vrijednostima",
+    "option_c": "sudjelovanje u kolektivnom štovanju možda je upalo, ali ljudi još uvijek prakticiraju svoje vjere u privatnosti",
+    "option_d": "ljudi su puno skloniji raspravljati o svojim vjerskim vjerovanjima u javnim, neformalnim okruženjima",
+    "answer": "B",
+    "id": "sociology/dev/2"
+  },
+  {
+    "instruction": "Kojim od sljedećih slučajeva je uspostavljen presedan da se optuženiku mora saopćiti pravo na šutnju, pravo na pravnu pomoć i zaštitu od samoinkriminiranja?",
+    "option_a": "Weeks protiv Sjedinjenih Država",
+    "option_b": "Betts v. Brady",
+    "option_c": "Mapp protiv Ohioa",
+    "option_d": "Miranda protiv Arizone",
+    "answer": "D",
+    "id": "high_school_government_and_politics/dev/2"
+  },
+  {
+    "instruction": "Pretpostavimo da za sve realne x vrijedi f(1 + x) = f(x). Ako je f polinom i f(5) = 11, tada izračunajte vrijednost f(15/2).",
+    "option_a": "-11",
+    "option_b": "0",
+    "option_c": "11",
+    "option_d": "33/2",
+    "answer": "C",
+    "id": "college_mathematics/dev/3"
+  },
+  {
+    "instruction": "Prema d'Holbachu, ljudi uvijek djeluju prema _____.",
+    "option_a": "slobodnim izborima",
+    "option_b": "diktatima duše",
+    "option_c": "neophodnim prirodnim zakonima",
+    "option_d": "nenedeterminiranoj volji",
+    "answer": "C",
+    "id": "philosophy/dev/2"
+  },
+  {
+    "instruction": "_____________ je prirodan ishod kada se kombiniraju demografske i geografske varijable.",
+    "option_a": "Geodemografija",
+    "option_b": "Diferencijacija proizvoda.",
+    "option_c": "ANSOFF matrica.",
+    "option_d": "Upravljanje brendom.",
+    "answer": "A",
+    "id": "marketing/dev/0"
+  },
+  {
+    "instruction": "Koja od sljedećih tvrdnji je ispravna u vezi korelacije?",
+    "option_a": "Ako je nagib regresijske pravca točno 1, tada je korelacija točno 1.",
+    "option_b": "Ako je korelacija 0, tada je nagib regresijske pravca nedifiniran.",
+    "option_c": "Zamjena koja varijabla se zove x, a koja se zove y mijenja predznak korelacije.",
+    "option_d": "Korelacija r jednaka je nagibu regresijske pravca kada se z-skorovi y-varijable dijagrama prema z-skorovima x-varijable.",
+    "answer": "D",
+    "id": "high_school_statistics/dev/0"
+  },
+  {
+    "instruction": "Kada 'suglasnost' može služiti kao okolnost koja isključuje protupravnost državnog djelovanja?",
+    "option_a": "Suglasnost može služiti kao okolnost koja isključuje protupravnost uvijek kada je dana",
+    "option_b": "Suglasnost nikada ne može služiti kao okolnost koja isključuje protupravnost",
+    "option_c": "Suglasnost može služiti kao okolnost koja isključuje protupravnost, pod uvjetom da je suglasnost valjana i da djelovanje ostaje unutar granica dane suglasnosti",
+    "option_d": "Suglasnost uvijek može služiti kao okolnost koja isključuje protupravnost, bez obzira na organ države koji ju daje",
+    "answer": "C",
+    "id": "international_law/dev/3"
+  },
+  {
+    "instruction": "Kako Berger (1963) opisuje metaforu društvene stvarnosti?",
+    "option_a": "vožnja na zabavnom parku",
+    "option_b": "cirkus",
+    "option_c": "lutkarsko kazalište",
+    "option_d": "balet",
+    "answer": "C",
+    "id": "sociology/dev/1"
+  },
+  {
+    "instruction": "Koja od sljedećih tvrdnji predstavlja točnu izjavu o stvornjacima?",
+    "option_a": "Oni posjeduju vanjski koštani oklop sastavljen uglavnom od peptidoglikana.",
+    "option_b": "Oni posjeduju otvoreni cirkulatorni sustav s dorzalnim srcem.",
+    "option_c": "Oni su članovi biološki neuspješnog koljena koje nije sposobno iskorištavati raznolike stanišne i izvore hrane.",
+    "option_d": "Oni nemaju uparene zglobovite dodatke.",
+    "answer": "B",
+    "id": "college_biology/dev/0"
+  },
+  {
+    "instruction": "Izjava 1 | Ako je aH element faktorske grupe, tada |aH| dijeli |a|. Izjava 2 | Ako su H i K podgrupe G, tada je HK podgrupa G.",
+    "option_a": "Točno, točno",
+    "option_b": "Netočno, netočno",
+    "option_c": "Točno, netočno",
+    "option_d": "Netočno, točno",
+    "answer": "B",
+    "id": "abstract_algebra/dev/1"
+  },
+  {
+    "instruction": "Zašto u asteroidnom pojasu nema planeta?",
+    "option_a": "Ovdje se nekada formirala planeta, no uništila ju je katastrofalna kolizija.",
+    "option_b": "Na ovom dijelu sunčeve maglice nije bilo dovoljno materijala za formiranje planeta.",
+    "option_c": "Ovdje je bilo previše stjenovitog materijala za formiranje zemljolikih planeta, ali nije bilo dovoljno plinovitog materijala za formiranje planeta nalik Jupiteru.",
+    "option_d": "Razlika u frekvenciji s Jupiterom nije dopuštala sakupljanje materijala za formiranje planeta.",
+    "answer": "D",
+    "id": "astronomy/dev/3"
+  },
+  {
+    "instruction": "Što je etičko hakiranje?",
+    "option_a": "\"Hakiranje\" etike kako bi se opravdalo neželjeno sebično ponašanje",
+    "option_b": "Hakiranje sustava (npr. tijekom testiranja penetracije) radi otkrivanja ranjivosti kako bi se mogle popraviti umjesto da se iskorištavaju",
+    "option_c": "Hakiranje u sustave koje vode ljudi s kojima se ne slažete etički",
+    "option_d": "Pogrdni naziv za brzi razvoj softvera, npr. u okviru hackathona",
+    "answer": "B",
+    "id": "computer_security/dev/2"
+  },
+  {
+    "instruction": "U ćelijama životinja, koji od sljedećih predstavlja najvjerojatniju putanju kojom sekretorno protein prolazi dok se sintetizira u ćeliji?",
+    "option_a": "Plazma membrana–Golgijev aparat–ribosom–sekretorni vezikul–grubo ER",
+    "option_b": "Ribosom–Golgijev aparat–grubo ER–sekretorni vezikul–plazma membrana",
+    "option_c": "Plazma membrana–Golgijev aparat–ribosom–sekretorni vezikul–grubo ER",
+    "option_d": "Ribosom–grubo ER–Golgijev aparat–sekretorni vezikul–plazma membrana",
+    "answer": "D",
+    "id": "high_school_biology/dev/2"
+  },
+  {
+    "instruction": "Uzorak HgO-a (molarna masa = 217 g) mase 0,217 g reagira s viškom jodidnih iona prema prikazanoj reakciji. Količina 0,10 M HCl otopine potrebna za dosezanje točke ekvivalencije pri titraciji dobivene otopine iznosi:",
+    "option_a": "1,0 mL",
+    "option_b": "10 mL",
+    "option_c": "20 mL",
+    "option_d": "50 mL",
+    "answer": "C",
+    "id": "college_chemistry/dev/1"
+  },
+  {
+    "instruction": "Koja od sljedećih tvrdnji NIJE točna u vezi s uslugama koje pružaju lokalne vlade u Sjedinjenim Američkim Državama?",
+    "option_a": "Dupliciranje napora često se događa.",
+    "option_b": "Društveni problemi središnjeg grada prelijevaju se u okolne stambene predgrađe.",
+    "option_c": "Često dolazi do neefikasnosti u pružanju usluga.",
+    "option_d": "Napore susjednih zajednica za smanjenjem onečišćenja uvijek se podržavaju.",
+    "answer": "D",
+    "id": "high_school_geography/dev/2"
+  },
+  {
+    "instruction": "Popis brojeva ima n elemenata, indeksiranih od 1 do n. Sljedeći algoritam je namijenjen prikazu broja elemenata na popisu čija vrijednost prelazi 100. Algoritam koristi varijable 'count' i 'position'. Koraci 3 i 4 nedostaju.\n Korak 1: Postavite vrijednost brojača 'count' na 0 i poziciju 'position' na 1.\n Korak 2: Ako je vrijednost elementa s indeksom 'position' veća od 100, povećajte vrijednost brojača 'count' za 1.\n Korak 3: (nedostaje)\n Korak 4: (nedostaje)\n Korak 5: Prikazati vrijednost brojača 'count'.\n Koja mogućnost bi se mogla koristiti za zamjenu koraka 3 i 4 tako da algoritam funkcionira kako je namijenjeno?",
+    "option_a": "Korak 3: Povećajte vrijednost 'position' za 1.\n Korak 4: Ponoviti korake 2 i 3 dok vrijednost brojača 'count' nije veća od 100.",
+    "option_b": "Korak 3: Povećajte vrijednost 'position' za 1.\n Korak 4: Ponoviti korake 2 i 3 dok vrijednost 'position' nije veća od n.",
+    "option_c": "Korak 3: Ponavljajte korak 2 dok vrijednost brojača 'count' ne bude veća od 100.\n Korak 4: Povećajte vrijednost 'position' za 1.",
+    "option_d": "Korak 3: Ponavljajte korak 2 dok vrijednost 'position' nije veća od n.\n Korak 4: Povećajte vrijednost brojača 'count' za 1.",
+    "answer": "D",
+    "id": "high_school_computer_science/dev/4"
+  },
+  {
+    "instruction": "Koji od sljedećih je morfološka karakteristika paramyksovirusa.",
+    "option_a": "Krhki virusi često vizualizirani s RNA koja izlazi iznutra",
+    "option_b": "Izduženi virusi",
+    "option_c": "Ikozahedralni virusi s omotačem",
+    "option_d": "Vrlo veliki virusi",
+    "answer": "A",
+    "id": "virology/dev/1"
+  },
+  {
+    "instruction": "Carl Jung je vjerovao da je transference klijenta:",
+    "option_a": "fantazija koja odvraća klijenta od stvarnosti.",
+    "option_b": "predstavlja \"mješovite osjećaje\" prema terapeutu.",
+    "option_c": "\"je oblik \"\"acting outa\"\"\".",
+    "option_d": "odraz klijentovog osobnog i kolektivnog nesvjesnog.",
+    "answer": "D",
+    "id": "professional_psychology/dev/3"
+  },
+  {
+    "instruction": "___________ je bilo što što vašem pretraživaču ne omogućuje pretraživanje.",
+    "option_a": "Opsjednuta mreža",
+    "option_b": "World Wide Web",
+    "option_c": "Površinska mreža",
+    "option_d": "Duboka mreža",
+    "answer": "D",
+    "id": "computer_security/dev/4"
+  },
+  {
+    "instruction": "Koja od sljedećih regularnih izraza je ekvivalentna (opisuje isti skup nizova kao) (a* + b)*(c + d)?",
+    "option_a": "a*(c + d)+ b(c + d)",
+    "option_b": "a*(c + d)* + b(c + d)*",
+    "option_c": "a*(c + d)+ b*(c + d)",
+    "option_d": "(a + b)*c +(a + b)*d",
+    "answer": "D",
+    "id": "college_computer_science/dev/0"
+  },
+  {
+    "instruction": "Koji element u duhanskom dimu je odgovoran za rak?",
+    "option_a": "Nikotin",
+    "option_b": "Katran",
+    "option_c": "Ogljikov monoksid",
+    "option_d": "Čestice dima",
+    "answer": "B",
+    "id": "human_aging/dev/3"
+  },
+  {
+    "instruction": "Fotocelija s radnom funkcijom ϕ = 2 eV je spojena na otpornik u nizu. Svjetlost frekvencije f = 1 × 10^15 Hz udara u metalnu ploču fotocelije. Ako je snaga svjetlosti P = 100 W, koja je struja kroz otpornik?",
+    "option_a": "2:00 ujutro",
+    "option_b": "6:00 ujutro",
+    "option_c": "12:00 ujutro",
+    "option_d": "24 A",
+    "answer": "D",
+    "id": "high_school_physics/dev/2"
+  },
+  {
+    "instruction": "Točkasti pol ima jakost od 4π * 10^-4 webera. Sila u newtonima na točkasti pol od 4π * 1.5 * 10^-4 webera smještenog na udaljenosti od 10 cm od njega bit će",
+    "option_a": "15 N.",
+    "option_b": "20 N.",
+    "option_c": "7.5 N.",
+    "option_d": "3.75 N.",
+    "answer": "A",
+    "id": "electrical_engineering/dev/4"
+  },
+  {
+    "instruction": "Zašto su parvovirusi visoko utjecajni paraziti?",
+    "option_a": "Jer nemaju nukleinsku kiselinu",
+    "option_b": "Zahtijevaju pomoćni virus",
+    "option_c": "Samo se repliciraju u dijelećim stanicama",
+    "option_d": "Mogu se integrirati u domaćinove kromosome",
+    "answer": "A",
+    "id": "virology/dev/0"
+  },
+  {
+    "instruction": "Populacija grada u kojem je Michelle rođena iznosi 145,826. Koja je vrijednost broja 5 u broju 145,826?",
+    "option_a": "5 tisuća",
+    "option_b": "5 stotina",
+    "option_c": "5 desetica",
+    "option_d": "5 jedinica",
+    "answer": "A",
+    "id": "elementary_mathematics/dev/0"
+  },
+  {
+    "instruction": "Kako se može izraziti privola države da bude vezana?",
+    "option_a": "Privola države da bude vezana izražava se samo ratifikacijom",
+    "option_b": "Privola države da bude vezana ugovorom može se izraziti potpisivanjem, ratifikacijom, prihvaćanjem, odobrenjem ili pristupanjem",
+    "option_c": "Privola države da bude vezana izražava se potpisivanjem",
+    "option_d": "Privola države da bude vezana izražava se na koji god način žele",
+    "answer": "B",
+    "id": "international_law/dev/4"
+  },
+  {
+    "instruction": "Razmotrite dizajn računala u kojem se višestruki procesori, svaki s privatnom predmemorijom, dijele globalni memorijski prostor koristeći jednu sabirnicu. To je kritični resurs sustava. Svaki procesor može izvršavati jednu naredbu svakih 500 nanosekundi sve dok se memorijske reference zadovoljavaju lokalnom predmemorijom. Kada dođe do â€žcache miss-aâ€œ, procesor zakaže na dodatnih 2,000 nanosekunde. Tijekom polovice ovog dodatnog kašnjenja, sabirnica je posvećena služenju cache miss-u. Tijekom druge polovice, procesor ne može nastaviti, ali sabirnica je slobodna za posluživanje zahtjeva drugih procesora. Prosječno, svaka naredba zahtijeva 2 memorijske reference. Prosječno, cache miss-ovi se javljaju kod 1 posto referenci. Koju će proporciju kapaciteta sabirnice zauzeti pojedini procesor, ignorirajući kašnjenja zbog konkurencije drugih procesora?",
+    "option_a": "1/50",
+    "option_b": "1/27",
+    "option_c": "1/25",
+    "option_d": "2/27",
+    "answer": "B",
+    "id": "college_computer_science/dev/4"
+  },
+  {
+    "instruction": "Olivia je koristila pravilo \"Dodaj 11\" kako bi stvorila uzorak brojeva koji je prikazan ispod. 10, 21, 32, 43, 54 Koja tvrdnja o uzorku brojeva je istinita?",
+    "option_a": "Deseti broj u uzorku bit će paran broj.",
+    "option_b": "Uzorak brojeva nikada neće imati dva para brojeva jedan pored drugog.",
+    "option_c": "Slijedeća dva broja u uzorku bit će parni broj, a zatim neparan broj.",
+    "option_d": "Ako bi uzorak brojeva započeo s neparnim brojem, uzorak bi u sebi imao samo neparne brojeve.",
+    "answer": "B",
+    "id": "elementary_mathematics/dev/1"
+  },
+  {
+    "instruction": "Ovo pitanje se odnosi na sljedeće informacije.\n\"Kao što naša nedavna ponašanja u Conestoga Manoru i Lancastaru izazvala mnogo spekulacija i veliku raznolikost mišljenja u ovoj i susjednim vladama; neki opravdavajući, a drugi osuđujući ga; neki milosrdno umanjuju zločin, a drugi zloćudno prikazujući u najodvratnijim bojama, smatramo da je naša dužnost javnosti predstaviti cijelu stvar, onakvu kakva se pojavila i još pojavljuje pred nama. . . .\n\"Ako ove stvari nisu dovoljne da dokažu neopravdano privrženost Kvakera Indijancima, čvrstu odluku da ih podržavaju i potpunu neposrednost prema ljudskim nevoljama, razmotrimo još nekoliko nedavnih činjenica. Kada smo prošlog ljeta shvatili da nam vlast neće pomoći, neki volonteri su otišli na naš trošak, odlučni da odbiju neprijatelje s naših granica; a kada smo se približili velikom otoku, saznali smo da je broj njihovih ratnika otišao protiv naših granica. Zbog toga smo se vratili i sukobili se s njima na Munfey Hillu gdje smo izgubili neke naše ljude i ubili neke njihove ratnike i tako sačuvali naše granice od ove priče u drugoj ekspediciji. Ali čim smo uništili njihove zalihe na velikom otoku i uništili njihovu trgovinu s dobrom ljudima u Betlehemu, ovi vrlo Indijanci, koji su s pravom bili osumnjičeni da su ubili naše prijatelje u okrugu Northampton, uz potporu nekih Kvakera, su uzeli pod zaštitu vlasti kako bi ih zaštitili od osvete prijatelja i rodbine ubijenih, i kako bi ih poduprli kroz zimu.\"\n—\"Apologija Paxton Boys\" (letak), 1764. (Napomena: \"apologija\" u ovom kontekstu treba čitati kao objašnjenje, a ne kao priznanje krivice ili žaljenje.)\nKoji od sljedećih napetosti odraža mišljenja izražena u objašnjenju iznad tijekom kolonijalnog razdoblja američke povijesti?",
+    "option_a": "Napetosti između britanske politike i težnji sjevernoameričkih kolonista.",
+    "option_b": "Napetosti između američkih Indijanaca savezničkih s Francuzima i onih savezničkih s Britancima.",
+    "option_c": "Napetosti između oslobođenih afričko-američkih robova i bijelih uzgajivača.",
+    "option_d": "Napetosti između doseljenika iz unutrašnjosti i elitnih slojeva kolonijalne Amerike.",
+    "answer": "D",
+    "id": "high_school_us_history/dev/1"
+  },
+  {
+    "instruction": "Koje izražavanje je ekvivalentno s 5 x 9?",
+    "option_a": "(5 x 4) x (6 x 5)",
+    "option_b": "(5 x 5) + (5 x 4)",
+    "option_c": "(5 x 5) + (5 x 9)",
+    "option_d": "(5 x 9) x (6 x 9)",
+    "answer": "B",
+    "id": "elementary_mathematics/dev/4"
+  },
+  {
+    "instruction": "Nesigurnost oko granica predsjedničkih ovlasti uzrokovana je prije svega činjenicom da",
+    "option_a": "ustavna definicija tih ovlasti je široka i nespecifična",
+    "option_b": "većina ljudi se slaže da Ustav stavlja previše ograničenja na predsjedničke ovlasti",
+    "option_c": "Vrhovni sud dosljedno odbija odlučivati o slučajevima koji se odnose na predsjedničke ovlasti",
+    "option_d": "ustavne amandmane su značajno povećale predsjedničke ovlasti",
+    "answer": "A",
+    "id": "high_school_government_and_politics/dev/0"
+  },
+  {
+    "instruction": "Koji od sljedećeg nije problem povezan s službenim statistikama o štrajkovima?",
+    "option_a": "većina štrajkova prolazi nezapaženo od strane poslodavaca i masovnih medija",
+    "option_b": "neće se svi industrijski sporovi prijaviti od strane poslodavca",
+    "option_c": "definicija štrajkova isključuje one koji uključuju manje od deset radnika ili traju manje od jednog dana",
+    "option_d": "teško je uspoređivati štrajkove koji su mjerene na različite načine",
+    "answer": "A",
+    "id": "sociology/dev/4"
+  },
+  {
+    "instruction": "Žena koja zna da ima aktivni herpes i netretiranu sifilisu, ali nastavlja imati seks bez obavještavanja svojih partnera o svom stanju, u psihoanalitičkim se terminima naziva:",
+    "option_a": "jakim egom",
+    "option_b": "slabim superegom",
+    "option_c": "slabim id-om",
+    "option_d": "jakim superegom",
+    "answer": "B",
+    "id": "human_sexuality/dev/1"
+  },
+  {
+    "instruction": "Koja od sljedećih izjava o kabinetnim odjelima je NETOČNA?",
+    "option_a": "Oni su uspostavljeni od strane zakonodavne grane vlasti.",
+    "option_b": "Njihovi članovi često nemaju velik utjecaj na predsjedničke odluke.",
+    "option_c": "Ne može ih sve voditi vođe koji pripadaju istoj političkoj stranci kao i predsjednik.",
+    "option_d": "Nisu sve federalne agencije kabinetni odjeli.",
+    "answer": "C",
+    "id": "high_school_government_and_politics/dev/3"
+  },
+  {
+    "instruction": "Odaberite najbolju englesku interpretaciju danih argumenata u predikatnoj logici.\nDm\n(∀x)(Wx ⊃ ~Dx)\n(∀x)Wx ∨ Ag\t/ (∃x)Ax",
+    "option_a": "Marina je plesačica. Neki slabići nisu plesači. Ili je sve osobe slabić ili Georgia igra odbojku. Dakle, nešto igra odbojku.",
+    "option_b": "Marina je plesačica. Nijedan slabić nije plesač. Sve osobe su ili slabići ili igraju odbojku. Dakle, nešto igra odbojku.",
+    "option_c": "Marina je plesačica. Neki slabići nisu plesači. Sve osobe su ili slabići ili igraju odbojku. Dakle, nešto igra odbojku.",
+    "option_d": "Marina je plesačica. Nijedan slabić nije plesač. Ili je sve osobe slabić ili Georgia igra odbojku. Dakle, nešto igra odbojku.",
+    "answer": "D",
+    "id": "formal_logic/dev/2"
+  },
+  {
+    "instruction": "Zavojnica pokretnog pokazivača voltmetra ima 100 zavoja, dugačka je 40 mm i široka 30 mm. Kontrolni obrtni moment na punoj skali je 240*10-6 N-m. Ako je gustoća magnetskog fluksa 1Wb/m2, raspon ovog mjerača je",
+    "option_a": "1 mA.",
+    "option_b": "2 mA.",
+    "option_c": "3 mA.",
+    "option_d": "4 mA.",
+    "answer": "B",
+    "id": "electrical_engineering/dev/2"
+  },
+  {
+    "instruction": "Određeni organski RISC stroj ima 8 registara opće namjene R0, R1, . . . , R7 i podržava sljedeće operacije.\nADD Rs1, Rs2, Rd Dodaj Rs1 na Rs2 i umetnite zbroj u Rd\nMUL Rs1, Rs2, Rd Pomnožite Rs1 i Rs2 i umetnite umnožak u Rd\nOperacija obično traje jedan ciklus; međutim, operacija traje dva ciklusa ako proizvodi rezultat koji je potreban u neposrednoj operaciji koja slijedi u nizu operacija. Razmislite o izrazu AB + ABC + BC, pri čemu se varijable A, B, C nalaze u registrima R0, R1, R2. Ako se sadržaj ovih triju registara ne smije mijenjati, koja je minimalna količina satnih ciklusa potrebna za operacije koje izračunavaju vrijednost AB + ABC + BC?",
+    "option_a": "5",
+    "option_b": "6",
+    "option_c": "7",
+    "option_d": "8",
+    "answer": "B",
+    "id": "college_computer_science/dev/1"
+  },
+  {
+    "instruction": "Zašto je Mars crven?",
+    "option_a": "Zato što je površina prekrivena teško oksidiranim (\"hrđavim\") mineralima.",
+    "option_b": "Zato što atmosfera raspršuje više svjetla plavljih valnih duljina, propuštajući većinom crveno svjetlo.",
+    "option_c": "Zato što je Mars prekriven drevnim lava tokovima koji su crvene boje.",
+    "option_d": "Zato što je tekuća voda na površini Marsa izmijenila mineralske slojeve prije nekoliko milijarda godina.",
+    "answer": "A",
+    "id": "astronomy/dev/4"
+  },
+  {
+    "instruction": "Što bi medijski praktičar za odnose s javnošću trebao učiniti ako ne zna odgovor na novinarsko pitanje?",
+    "option_a": "Dati novinaru druge informacije za koje je siguran da su točne.",
+    "option_b": "Reći da su informacije 'izvan službenih izvora' i bit će objavljene kasnije.",
+    "option_c": "Reći 'ne znam' i obećati da će kasnije pružiti informacije.",
+    "option_d": "Reći 'bez komentara' umjesto da djeluje neinformirano.",
+    "answer": "C",
+    "id": "public_relations/dev/0"
+  },
+  {
+    "instruction": "Singleton oblikovanje obrazaca koristi se za zajamčiti da može biti stvorena samo jedna instanca klase. Koje od sljedećeg su istinito za ovaj oblikovanje obrazaca? \nI. Singleton klasa ima statičku tvorničku metodu kako bi pružila svoju instancu. \nII. Singleton klasa može biti podklasa neke druge klase. \nIII. Singleton klasa ima privatni konstruktor.",
+    "option_a": "Samo I",
+    "option_b": "Samo II",
+    "option_c": "Samo III",
+    "option_d": "I, II i III",
+    "answer": "D",
+    "id": "college_computer_science/dev/2"
+  },
+  {
+    "instruction": "Kako se defenzivni realizam i ofenzivni realizam razlikuju u objašnjenju ponašanja država?",
+    "option_a": "Defenzivni realizam stavlja veći naglasak na ulogu međunarodnih institucija",
+    "option_b": "Defenzivni realizam manje naglašava geografske faktore",
+    "option_c": "Ofenzivni realizam daje veći prioritet nacionalnom interesu nego defenzivni realizam.",
+    "option_d": "Defenzivni realizam vjeruje da su države maximizator sigurnosti, dok ofenzivni realizam vjeruje da su države maximizator moći.",
+    "answer": "D",
+    "id": "us_foreign_policy/dev/3"
+  },
+  {
+    "instruction": "Revizor prati serijske brojeve opreme u neizdavačevom poddnevniku. Koja tvrdnja o upravljanju podupire ovaj test?",
+    "option_a": "Procjena i alokacija",
+    "option_b": "Potpunost",
+    "option_c": "Prava i obveze",
+    "option_d": "Prikazivanje i otkrivanje",
+    "answer": "B",
+    "id": "professional_accounting/dev/4"
+  },
+  {
+    "instruction": "Recite kako učenik vašeg oka ima promjer od 5 mm, a imate teleskop s otvorom od 50 cm. Koliko više svjetla može teleskop prikupiti nego vaše oko?",
+    "option_a": "10000 puta više",
+    "option_b": "100 puta više",
+    "option_c": "1000 puta više",
+    "option_d": "10 puta više",
+    "answer": "A",
+    "id": "astronomy/dev/2"
+  },
+  {
+    "instruction": "Srodne strukture se često navode kao dokaz za proces prirodnog odabira. Svi sljedeći primjeri su primjeri srodnih struktura OSIM",
+    "option_a": "krila ptice i krila šišmiša",
+    "option_b": "peraje kita i ruke čovjeka",
+    "option_c": "prsne peraje delfina i peraje tuljana",
+    "option_d": "prednje noge insekta i prednje udove psa",
+    "answer": "D",
+    "id": "high_school_biology/dev/4"
+  },
+  {
+    "instruction": "Koji od sljedećih parova izjava su oba istinita (kao od 2019.)?",
+    "option_a": "Ljudi obično gledaju optimistički na svoju budućnost i budućnost svoje zemlje ili svijeta.",
+    "option_b": "Ljudi obično gledaju optimistički na svoju budućnost ali pesimistički na budućnost svoje zemlje ili svijeta.",
+    "option_c": "Ljudi obično gledaju pesimistički na svoju budućnost ali optimistički na budućnost svoje zemlje ili svijeta.",
+    "option_d": "Ljudi obično gledaju pesimistički na svoju budućnost i budućnost svoje zemlje ili svijeta.",
+    "answer": "B",
+    "id": "global_facts/dev/0"
+  },
+  {
+    "instruction": "Spremnik u početku sadrži otopinu soli koja se sastoji od 3 grama soli otopljene u 100 litara vode. Otopina soli koja sadrži 0,02 grama soli po litri vode raspršuje se u spremniku brzinom od 4 litre u minuti. Raspršena otopina kontinuirano se miješa s otopinom soli u spremniku, a smjesa iz spremnika teče brzinom od 4 litre u minuti. Ako se miješanje odvija trenutačno, koliko grama soli bit će u spremniku nakon što protekne 100 minuta?",
+    "option_a": "2",
+    "option_b": "2 - e^-2",
+    "option_c": "2 + e^-2",
+    "option_d": "2 + e^-4",
+    "answer": "D",
+    "id": "college_mathematics/dev/1"
+  },
+  {
+    "instruction": "Jedan od vaših terapijskih klijenata pita za savjet o dobrom programu za smanjenje tjelesne težine. Istražili ste programe u zajednici i upisali se u onaj koji smatrate najboljim. Taj program nudi bonus od 50 dolara svojim korisnicima za svaku novu osobu koju dovedu u program. U ovim okolnostima, vaš najprikladniji odgovor bio bi",
+    "option_a": "reći vašem klijentu prednosti i nedostatke svakog programa o kojem znate, osim onog u kojem ste upisani",
+    "option_b": "preporučiti vašem klijentu program u kojem ste upisani i objasniti bonus od 50 dolara koji ćete primiti",
+    "option_c": "preporučiti vašem klijentu program u kojem ste upisani i ponuditi da se bonus od 50 dolara upiše na račun vašeg klijenta u programu",
+    "option_d": "reći vašem klijentu prednosti i nedostatke svakog programa o kojem znate, ali ne tvrdite bonus od 50 dolara ako se vaš klijent upiše u vaš program",
+    "answer": "D",
+    "id": "professional_psychology/dev/0"
+  },
+  {
+    "instruction": "Što od sljedećeg vrijedi za minimalnu cijenu?",
+    "option_a": "Minimalna cijena pomjera krivulju potražnje ulijevo.",
+    "option_b": "Efektivna minimalna cijena uzrokuje nestašicu dobara.",
+    "option_c": "Minimalna cijena pomjera krivulju ponude dobra udesno.",
+    "option_d": "Da bi bila efektivna, minimalna cijena mora biti postavljena iznad ravnotežne cijene.",
+    "answer": "D",
+    "id": "high_school_microeconomics/dev/3"
+  },
+  {
+    "instruction": "Koja od ponuđenih formula PL-a najbolje simbolizira sljedeću rečenicu?\nKornjače žive dugo i sretne su životinje, osim ako nisu ozlijeđene.",
+    "option_a": "(K • S) ≡ O",
+    "option_b": "(K • S) ∨ O",
+    "option_c": "K • (S ∨ O)",
+    "option_d": "K • (S ⊃ O)",
+    "answer": "B",
+    "id": "formal_logic/dev/4"
+  },
+  {
+    "instruction": "Proučavanje stvarnosti u najširem smislu, istraživanje elementarne prirode svemira i stvari u njemu, poznato je kao _____.",
+    "option_a": "metafizika",
+    "option_b": "epistemologija",
+    "option_c": "kvantna fizika",
+    "option_d": "aksiologija",
+    "answer": "A",
+    "id": "philosophy/dev/4"
+  },
+  {
+    "instruction": "Škola pravne teorije ________ tvrdi da se pravo temelji na onome što je \"ispravno\".",
+    "option_a": "prirodnog prava",
+    "option_b": "analitičke",
+    "option_c": "povijesne",
+    "option_d": "sociološke",
+    "answer": "A",
+    "id": "jurisprudence/dev/3"
+  },
+  {
+    "instruction": "Koliki postotak Rusa je 2019. rekao da je vrlo važno imati slobodne medije u našoj zemlji bez cenzure vlade/države?",
+    "option_a": "38%",
+    "option_b": "53%",
+    "option_c": "68%",
+    "option_d": "83%",
+    "answer": "A",
+    "id": "global_facts/dev/3"
+  },
+  {
+    "instruction": "U organizaciji, skupinu ljudi koja je zadužena za donošenje odluka o kupnji nazivamo _______________.",
+    "option_a": "Jedinica za outsourcing.",
+    "option_b": "Centar za nabavu.",
+    "option_c": "Jedinica izvršnog direktora.",
+    "option_d": "Jedinica za donošenje odluka.",
+    "answer": "D",
+    "id": "marketing/dev/1"
+  },
+  {
+    "instruction": "Koje su posljedice za OLS estimator ako se heteroskedastičnost prisutna u regresijskom modelu, ali se ignorira?",
+    "option_a": "Bit će pristran",
+    "option_b": "Neće biti konzistentan",
+    "option_c": "Neće biti učinkovit",
+    "option_d": "Sve od (a), (b) i (c) će biti istinito.",
+    "answer": "C",
+    "id": "econometrics/dev/3"
+  },
+  {
+    "instruction": "Koji je znak Saveza za židovske muškarce?",
+    "option_a": "Duga",
+    "option_b": "Obrezanje",
+    "option_c": "Sin",
+    "option_d": "Bar micva",
+    "answer": "B",
+    "id": "world_religions/dev/0"
+  },
+  {
+    "instruction": "Ako netko napadne karakter protivničkog arguera umjesto da odgovori na argumente protivnika, prva osoba je vjerojatno počinila koji od sljedećih pogrešnih načina?",
+    "option_a": "tu quoque",
+    "option_b": "horse laugh",
+    "option_c": "argument protiv osobe",
+    "option_d": "ignoratio elenchi",
+    "answer": "C",
+    "id": "logical_fallacies/dev/0"
+  },
+  {
+    "instruction": "Izgradite potpunu tablicu istine za sljedeće parove izjava. Zatim, koristeći tablice istine, odredite jesu li izjave logički ekvivalentne ili proturječne. Ako nisu, odredite jesu li usklađene ili nesukladne. Obrazložite svoje odgovore.\nE ⊃ (F · E) and ~E · F",
+    "option_a": "Logički ekvivalentne",
+    "option_b": "Proturječne",
+    "option_c": "Ni logički ekvivalentne ni proturječne, ali usklađene",
+    "option_d": "Nesukladne",
+    "answer": "C",
+    "id": "formal_logic/dev/3"
+  },
+  {
+    "instruction": "Koji od sljedećih nije poznat da je uključen u kontrolu diobe stanice?",
+    "option_a": "Ciklini",
+    "option_b": "Protein kinaze",
+    "option_c": "Kontrolne točke",
+    "option_d": "Fibroblastičke stanice",
+    "answer": "D",
+    "id": "high_school_biology/dev/3"
+  },
+  {
+    "instruction": "Neka je A realna 2x2 matrica. Koji od sljedećih izjava mora biti točan?\r\nI. Sve komponente matrice A^2 su nenegativne.\r\nII. Determinanta matrice A^2 je nenegativna.\r\nIII. Ako A ima dvije različite svojstvene vrijednosti, tada matrica A^2 također ima dvije različite svojstvene vrijednosti.",
+    "option_a": "Samo I",
+    "option_b": "Samo II",
+    "option_c": "Samo III",
+    "option_d": "II i III",
+    "answer": "B",
+    "id": "college_mathematics/dev/2"
+  },
+  {
+    "instruction": "Ovo pitanje odnosi se na sljedeće informacije. \n\"U novom zakoniku koji će biti potreban, želim da se sjetite žena i budete im više velikodušni i naklonjeni nego vaši preci. Ne dajte toliku neograničenu moć rukama supruga. Zapamtite da bi svi muškarci bili tirani kad bi to mogli. Ako se posebna briga i pažnja ne posvete ženama, odlučile smo potaknuti pobunu i sebe nećemo smatrati vezanima za bilo koji zakon u kojem nemamo glasa ili predstavnika.\" \nAbigail Adams, u pismu Johnu Adamsu, 1776. \"Posebni zakonodavstvo za žene stavilo nas je u iznimno anomalnu poziciju. Žene koje su prava građana u jednom dijelu - birači, porotnici, dužnosnici - pri prelasku imaginarnih granica postaju podanici u drugom dijelu. U nekim državama udata žena može imati vlastitu imovinu i obavljati poslove u svoje ime, a u drugima je njezin prihod vlasništvo njezina muža. U nekim državama žena može svjedočiti protiv svoga muža, tužiti i biti tužena na sudu, a u drugima nema prava u slučaju oštete po osobi, imovini ili kao osoba. U slučaju razvoda zbog preljuba muža, nevinoj supruzi se ne pridjeljuju prava na djecu ili imovinu, osim posebnim sudskim dekretom. U svim državama Unije nijedna žena nema pravo na vlastito tijelo ili na bilo koji dio zajedničke zarade tijekom života svoga muža. U nekim državama žene mogu upisati pravne fakultete i prakticirati u sudovima, a drugima im je to zabranjeno. U nekim sveučilištima djevojke imaju iste obrazovne mogućnosti kao i dečki, dok im mnoge ponosne institucije u zemlji odbijaju pristup, dok sinovi Kine, Japana i Afrike tamo su dobrodošli. Ali povlastice već dodijeljene u nekoliko država ni izdaleka nisu sigurne. \" \nSusan B. Anthony, \"Deklaracija prava za žene\", 4. srpnja 1876. \nIzrečena razmišljanja u drugom odlomku Susan B. Anthony vjerojatno podržavaju",
+    "option_a": "Amendman o ravnopravnosti",
+    "option_b": "opće pravo glasa",
+    "option_c": "prava države",
+    "option_d": "prohibiciju",
+    "answer": "B",
+    "id": "high_school_us_history/dev/2"
+  },
+  {
+    "instruction": "Gurate kamion po cesti. Da li bi bilo lakše ubrzati ovaj kamion na Marsu? Zašto? (Pretpostavite da nema trenja)",
+    "option_a": "Bilo bi teže jer je kamion teži na Marsu.",
+    "option_b": "Bilo bi lakše jer je kamion lakši na Marsu.",
+    "option_c": "Bilo bi teže jer je kamion lakši na Marsu.",
+    "option_d": "Bilo bi isto bez obzira gdje se nalazili.",
+    "answer": "D",
+    "id": "astronomy/dev/0"
+  },
+  {
+    "instruction": "Koju poziciju tvrdi Rawls da je najmanje vjerojatno da će POP (osobe u izvornom položaju) prihvatiti?",
+    "option_a": "POP će odabrati jednakost iznad slobode.",
+    "option_b": "POP će se odlučiti za 'maximin' strategiju.",
+    "option_c": "POP će se odlučiti za 'načelo razlike'.",
+    "option_d": "POP će odbiti 'sustav prirodnih sloboda'.",
+    "answer": "A",
+    "id": "jurisprudence/dev/0"
+  },
+  {
+    "instruction": "Za stacionarni autoregresivni proces, šokovi će se",
+    "option_a": "Konačno umanjiti",
+    "option_b": "Neograničeno trajati",
+    "option_c": "Eksponencijalno rasti",
+    "option_d": "Nikada se neće dogoditi",
+    "answer": "A",
+    "id": "econometrics/dev/0"
+  },
+  {
+    "instruction": "Federalni deficit nastaje kada",
+    "option_a": "izvoz premašuje uvoz.",
+    "option_b": "uvoz premašuje izvoz.",
+    "option_c": "prikupljanje federalnih poreza premašuje troškove.",
+    "option_d": "federalna potrošnja premašuje federalne porezne prihode.",
+    "answer": "D",
+    "id": "high_school_macroeconomics/dev/2"
+  },
+  {
+    "instruction": "Kako se mogu opisati organizacijske strukture koje karakteriziraju demokratski i inkluzivni stilovi upravljanja?",
+    "option_a": "Hijerarhijske",
+    "option_b": "Birokratske",
+    "option_c": "Ravne",
+    "option_d": "Funkcionalne",
+    "answer": "C",
+    "id": "management/dev/4"
+  },
+  {
+    "instruction": "Ovo pitanje odnosi se na sljedeće informacije.\nSlijedeći odlomak je iz brošure.\nUčinit ćete mi pravdu ako se sjetite da sam uvijek snažno podržavao pravo svakog čovjeka na vlastito mišljenje, bez obzira koliko se to mišljenje razlikovalo od moga. Tko drugome ovo pravo uskrati, postaje rob svoga trenutačnog mišljenja, jer mu uskraćuje pravo da ga promijeni.\nNajstrašnije oružje protiv pogrešaka svih vrsta je razum. Ja nikada nisam upotrebljavao ništa drugo, i vjerujem da nikada neću.\nČinjenica da se sada u Francuskoj dogodilo potpuno ukidanje nacionalnog poretka svećenstva, a svega što se tiče represivnih sustava religije i represivnih članaka vjere, ne samo da je požurila moju nakanu, nego je učinila ovakav rad iznimno nužnim, da ne bismo u općem slomu praznovjerja, lažnih sustava vlasti i lažne teologije izgubili iz vida moralnost, humanost i istinitu teologiju.\nVjerujem u jednog Boga, i ništa više; i nadam se sreći izvan ovoga života.\nVjerujem u jednakost čovjeka; i smatram da religijske obveze uključuju činjenje pravde, ljubav prema milosrđu i nastojanje da učinimo svoje sućešćenike sretnima.\nNe vjerujem u vjeru koju ispovijeda židovska crkva, rimokatolička crkva, grčka crkva, turska crkva, protestantska crkva, niti bilo koja crkva koju znam. Moje vlastito mišljenje je moja vlastita crkva.\nSve nacionalne ustanove crkava, bilo židovske, kršćanske ili turske, meni se čine ničim drugim do ljudskih izuma, postavljenih da bi zaplašile i zarobile čovječanstvo, te monopolizirale moć i profit.\nNe mislim ovim izlaganjem osuđivati one koji drugačije vjeruju; imaju isto pravo na svoje vjerovanje kao što ja imam na svoje.\n—Thomas Paine, Dob dobrih manira i Kršćanski naslov, 1794.-1795\nKoji od sljedećih filozofa prosvjetiteljstva je osmislio sustav provjera i ravnoteže za vladu radi izbjegavanja zlouporabe vlasti?",
+    "option_a": "Jean Jacques Rousseau",
+    "option_b": "Baron Montesquieu",
+    "option_c": "Mary Wollstonecraft",
+    "option_d": "Adam Smith",
+    "answer": "B",
+    "id": "high_school_european_history/dev/0"
+  },
+  {
+    "instruction": "U genetičkom testu novorođenčeta utvrđeno je rijetko genetsko oboljenje koje se prenosi X-kromosomskim recesivnim putem. Koja od sljedećih izjava vjerojatno odgovara pedigreu ovog poremećaja?",
+    "option_a": "Svi potomci s majčine strane imat će poremećaj.",
+    "option_b": "Žene će biti približno dva puta više pogođene od muškaraca u ovoj obitelji.",
+    "option_c": "Sve kćeri zahvaćenog muškarca će biti zahvaćene.",
+    "option_d": "Postojat će jednaka distribucija zahvaćenih muškaraca i žena.",
+    "answer": "C",
+    "id": "college_medicine/dev/2"
+  },
+  {
+    "instruction": "Koliko pokušaja trebate napraviti da biste kaniulirali pacijenta prije nego što posao prepustite starijem kolegi prema medicinskom znanju iz 2020. godine?",
+    "option_a": "4",
+    "option_b": "3",
+    "option_c": "2",
+    "option_d": "1",
+    "answer": "C",
+    "id": "clinical_knowledge/dev/3"
+  },
+  {
+    "instruction": "Za koji od ova dva scenarija glavni lik (koji koristi Ja/mene/moj) nešto učini što je jasno nemoralno, prema uobičajenim moralnim standardima u SAD-u u 2020. godini? Scenarij 1 | Stvarno sam volio svog novorođenčeta dečka. Scenarij 2 | Nova djevojka se srami živjeti u parku s prikolicama, pa pozovem razred kod nje doma.",
+    "option_a": "Pogrešno, pogrešno",
+    "option_b": "Pogrešno, nije pogrešno",
+    "option_c": "Nije pogrešno, pogrešno",
+    "option_d": "Nije pogrešno, nije pogrešno",
+    "answer": "C",
+    "id": "moral_scenarios/dev/0"
+  },
+  {
+    "instruction": "Što razlikuje prisilnu diplomatiju od vojne sile?",
+    "option_a": "Compellence je drugi naziv za prisilnu diplomatiju, ali pokriva uže kriterije; compellence pokriva one prijetnje usmjerene prema pokretanju protivničke akcije. Prijetnja prisile državi da odustane od dijela svojeg teritorija računala bi se kao prisilna diplomatija, sve dok ta prijetnja proaktivno pokreće akciju prije nego što se poduzme reaktivna diplomatija.",
+    "option_b": "Prisilna diplomatija čini prijetnje ograničenom silom kako bi se potaknuo poticaj protivnika da se pridržava zahtjeva infiltratora. To je utjecajna strategija koja je namijenjena dobivanju usklađivanja: upotreba sile za poraz protivnika prvo se ne računa. Ostavlja se element izbora ciljnoj skupini da se uskladi ili nastavi.",
+    "option_c": "Vojna sila ili prijetnja vojnom silom koristi strah kako bi postigli strateške ciljeve. Prisilna diplomatija se razlikuje od ovog pristupa, jer ne koristi strah kao alat za prisiljavanje protivnika.",
+    "option_d": "Prisilna diplomatija se upotrebljava za korištenje sile, ali kako bi se ograničili njezini učinci na međunarodnu zajednicu. Prisilna diplomatija je agresivna strategija koja je namijenjena dobivanju usklađivanja putem poraza. Ne ostavlja se element izbora ciljnoj skupini, ciljna skupina ili će se prisiliti da se uskladi ili će se angažirati u sukobu. Teži se kontroliranju uspostavljanjem usklađivanja uklanjanjem svake prilike za pregovore ili ustupke.",
+    "answer": "B",
+    "id": "security_studies/dev/0"
+  },
+  {
+    "instruction": "Pogrešno postavljeno pitanje sastoji se od",
+    "option_a": "tvrdnja da nešto nije dobro samo zato što ne radi nešto za što nije namijenjeno.",
+    "option_b": "uključivanje više od jedne tvrdnje u prijedlog i tretiranje dokaza za jednu tvrdnju kao dokaza za sve tvrdnje.",
+    "option_c": "izvlačenje zaključka prije pregleda dokaza i uzimanje u obzir samo dokaza koji podržavaju taj zaključak.",
+    "option_d": "postavljanje pitanja koje uključuje neprovjerenu pretpostavku ili više od jednog pitanja, što čini jednostavan odgovor 'da' ili 'ne' besmislenim.",
+    "answer": "D",
+    "id": "logical_fallacies/dev/1"
+  },
+  {
+    "instruction": "Kako bismo najbolje opisali odnos između pristupa usredotočenog na državu i koncepta ljudske sigurnosti?",
+    "option_a": "Postoje tolike podjele unutar okvira ljudske sigurnosti u vezi s prirodom prijetnji i referentnih objekata da se ne mogu usporediti široko primjenjivi pristupi usredotočeni na državu i ljudsku sigurnost.",
+    "option_b": "Uzimanjem okvira ljudske sigurnosti postaju očite ograničenja realističnog pristupa usredotočenog na državu. Dok ljudska sigurnost definira referentni objekt kao osobu ili populaciju, pristupi usredotočeni na državu daju prioritet sigurnosti države, potiskujući ostvarivanje ljudske sigurnosti.",
+    "option_c": "Pristup usredotočen na državu je frakcija ljudske sigurnosti, obično definirana unutar široke škole ljudske sigurnosti. Time što je usredotočen isključivo na državu, ovaj pristup iskazuje prednost pojedinca kao referentnog objekta u području studija sigurnosti.",
+    "option_d": "I pristupi usredotočeni na državu i pristupi usredotočeni na ljude su međusobno isključivi te nude dovoljno analitičkih okvira za razumijevanje međunarodnog sigurnosnog sustava. Stoga je uloga analitičara sigurnosti da odrede koji od ovih značajnih koncepata je ispravan, a koji bi trebao biti odbačen.",
+    "answer": "B",
+    "id": "security_studies/dev/3"
+  },
+  {
+    "instruction": "U parku će igrati ukupno 30 igrača košarke. Na svakoj ekipi bit će točno 5 igrača. Koja izjava ispravno objašnjava kako pronaći broj potrebnih ekipa?",
+    "option_a": "Dodajte 5 na 30 da biste pronašli 35 timova.",
+    "option_b": "Podijelite 30 s 5 da biste pronašli 6 timova.",
+    "option_c": "Pomnožite 30 i 5 da biste pronašli 150 timova.",
+    "option_d": "Oduzmite 5 od 30 da biste pronašli 25 timova.",
+    "answer": "B",
+    "id": "elementary_mathematics/dev/2"
+  },
+  {
+    "instruction": "Koji od sljedećih primjera prikazuje uporabu uređaja na internetu stvari (IoT)?",
+    "option_a": "Automobil upozorava vozača da će udariti u objekt.",
+    "option_b": "Planinar koristi GPS sat da prati svoj položaj.",
+    "option_c": "Hladnjak naručuje mlijeko iz online dostavne službe kada mlijeko u hladnjaku nestane.",
+    "option_d": "Trkač koristi sat s optičkim senzorima za praćenje svoje razine otkucaja srca.",
+    "answer": "C",
+    "id": "high_school_computer_science/dev/0"
+  },
+  {
+    "instruction": "Ovo pitanje se odnosi na sljedeće informacije.\nOn sadrži sva djela i želje i sve parfeme i sve okuse. On objedinjuje cijeli svemir i u tišini voli sve. To je Duh koji je u mom srcu, to je Brahman. K njemu ću doći kada prijeđem ovaj život, i k njemu će doći onaj tko ima vjeru i ne sumnja.\n—Upanišade, Indija, c. 1000 BCE\nKojoj religiji govornik najvjerojatnije pripada?",
+    "option_a": "hinduizmu",
+    "option_b": "budizmu",
+    "option_c": "shintoizmu",
+    "option_d": "zoroastrizmu",
+    "answer": "A",
+    "id": "high_school_world_history/dev/0"
+  },
+  {
+    "instruction": "Tradicionalno, kada imamo ulazni atribut s realnom vrijednosti tijekom učenja stabla odlučivanja, smatramo binarnu podjelu prema tome je li atribut iznad ili ispod nekog praga. Pat predlaže da umjesto toga imamo višestruku podjelu s granom za svaku različitu vrijednost atributa. Odaberite najveći problem s Patovim prijedlogom s popisa u nastavku:",
+    "option_a": "Previše je računalno skupo.",
+    "option_b": "Vjerojatno će rezultirati stablom odlučivanja koje loše prolazi na skupu za treniranje i testiranje.",
+    "option_c": "Vjerojatno će rezultirati stablom odlučivanja koje dobro prolazi na skupu za treniranje, ali loše na skupu za testiranje.",
+    "option_d": "Vjerojatno će rezultirati stablom odlučivanja koje dobro prolazi na skupu za testiranje, ali loše na skupu za treniranje.",
+    "answer": "C",
+    "id": "machine_learning/dev/4"
+  }
+]

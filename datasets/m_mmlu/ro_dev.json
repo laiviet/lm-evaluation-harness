@@ -1,0 +1,2450 @@
+[
+  {
+    "instruction": "Să se ia în considerare următorul model AR(1) cu tulburări cu medie zero şi varianţă unitară\n\nyt = 0.2 + 0.4 yt-1 + ut\n\n(Media condiţionată) a lui y va fi dată de",
+    "option_a": "0.2",
+    "option_b": "0.4",
+    "option_c": "0.5",
+    "option_d": "0.33",
+    "answer": "D",
+    "id": "econometrics/dev/1"
+  },
+  {
+    "instruction": "Un bărbat în vârstă de 42 de ani vine la cabinet pentru evaluarea preoperatorie înainte de a suferi o adrenalectomie programată în 2 săptămâni. Cu o lună în urmă, el a primit îngrijiri în departamentul de urgență pentru dureri la flancul drept după o coliziune auto. În acel moment, tensiunea arterială a fost de 160/100 mm Hg și CT-ul la abdomen a arătat o masă incidentală a glandei suprarenale stângi de 10 cm. Rezultatele studiilor de laborator, inclusiv hemograma, concentrațiile serice de electroliți și testele funcției hepatice, erau în limite normale. Pacientul în rest a fost sănătos și nu i s-a spus niciodată că are tensiune arterială crescută. Nu ia medicamente. O vizită de urmărire în cabinet cu 2 săptămâni în urmă a dezvăluit concentrări crescute de normetanefrină și metanefrină urinare și de aldosteron plasmatic. Pacientul a fost informat despre necesitatea unei intervenții chirurgicale de către un chirurg, care a recomandat adrenalectomia. Astăzi, semne vitale sunt temperatura 36,6°C (97,9°F), puls 100/min, respirații 14/min și tensiune arterială de 170/95 mm Hg. Examenul fizic nu dezvăluie constatări semnificative. Pregătirea preoperatorie inițială ar trebui să includă tratamentul cu una dintre următoarele opțiuni?",
+    "option_a": "Labetalol",
+    "option_b": "O doză de încărcare de clorură de potasiu",
+    "option_c": "Nifedipină",
+    "option_d": "Fenoxibenzamină",
+    "answer": "D",
+    "id": "professional_medicine/dev/0"
+  },
+  {
+    "instruction": "Conform utilitarismului ideal al lui Moore, acțiunea corectă este cea care aduce cele mai multe:",
+    "option_a": "plăceri.",
+    "option_b": "fericire.",
+    "option_c": "bine.",
+    "option_d": "virtute.",
+    "answer": "C",
+    "id": "philosophy/dev/1"
+  },
+  {
+    "instruction": "Care dintre următoarele nu este inclus în PIB-ul SUA?",
+    "option_a": "Militarul SUA deschide o nouă bază într-o țară străină cu 1000 de personal militar american.",
+    "option_b": "Consumatorii japonezi cumpără mii de CD-uri produse în Statele Unite.",
+    "option_c": "Un cântăreț pop american susține un concert cu casa închisă la Paris.",
+    "option_d": "O producție teatrală franceză face turnee prin zeci de orașe americane.",
+    "answer": "C",
+    "id": "high_school_macroeconomics/dev/0"
+  },
+  {
+    "instruction": "Care dintre următoarele declarații este adevărată cu privire la Vatican în 2010 în momentul acuzațiilor de acoperire a abuzurilor de copii?",
+    "option_a": "A existat o reacție coordonată a mass-media.",
+    "option_b": "S-au comunicat mesaje coerente.",
+    "option_c": "Criticii au fost considerați atacuri asupra Bisericii Catolice.",
+    "option_d": "Credibilitatea Vaticanului a fost menținută.",
+    "answer": "C",
+    "id": "public_relations/dev/2"
+  },
+  {
+    "instruction": "Presupuneți că o statistică de testare are asociată o valoare p de 0,08. Care dintre afirmațiile următoare este adevărată?\n\n(i) Dacă dimensiunea testului ar fi exact 8%, am fi indiferenți între a respinge și a nu respinge ipoteza nulă\n\n(ii) Ipoteza nulă ar fi respinsă dacă s-ar fi folosit o dimensiune de testare de 10%\n\n(iii) Ipoteza nulă nu ar fi respinsă dacă s-ar fi folosit o dimensiune de testare de 1%\n\n(iv) Ipoteza nulă ar fi respinsă dacă s-ar fi folosit o dimensiune de testare de 5%.",
+    "option_a": "(ii) și (iv) numai",
+    "option_b": "(i) și (iii) numai",
+    "option_c": "(i), (ii) și (iii) numai",
+    "option_d": "(i), (ii), (iii) și (iv)",
+    "answer": "C",
+    "id": "econometrics/dev/2"
+  },
+  {
+    "instruction": "Atunci când un argumentator provoacă confuzie în timpul respingerii unei afirmații din cauza unei lipse reale sau simulate de abilitate de a se angaja în respingerea acelei afirmații, argumentatorul poate fi vinovat de",
+    "option_a": "comportament ridicol",
+    "option_b": "apel la compasiune",
+    "option_c": "argument împotriva persoanei",
+    "option_d": "ignoranță referitoare la respingere",
+    "answer": "D",
+    "id": "logical_fallacies/dev/4"
+  },
+  {
+    "instruction": "Această întrebare se referă la următoarele informații.\n\"Nemulțumirea reală a muncitorului este nesiguranța existenței sale; nu este sigur că va avea mereu de lucru, nu este sigur că va fi mereu sănătos și previzionează că într-o zi va fi bătrân și neputincios să lucreze. Dacă cade în sărăcie, chiar și printr-o boală prelungită, este complet neajutorat, lăsat pe cont propriu, și societatea nu recunoaște actualmente nicio obligație reală față de el, în afara ajutorului obișnuit pentru săraci, chiar dacă a lucrat tot timpul cu multă credință și diligență. Ajutorul obișnuit pentru săraci lasă însă foarte mult de dorit, mai ales în orașele mari, unde este mult mai rău decât în țară.\"\nOtto von Bismarck, 1884\nOtto von Bismarck probabil a făcut acest discurs în reacție la care dintre următoarele probleme?",
+    "option_a": "Acceptarea socială a muncii copiilor",
+    "option_b": "Scăderea speranței de viață în Germania",
+    "option_c": "Critici ale tarifelor comerciale germane",
+    "option_d": "Efecte negative atribuite capitalismului industrial",
+    "answer": "D",
+    "id": "high_school_world_history/dev/2"
+  },
+  {
+    "instruction": "Ce guvern japonez a promovat un fel de cult național bazat pe împărat și asocierile sale cu kami?",
+    "option_a": "Honen",
+    "option_b": "Tanaka",
+    "option_c": "Tokugawa",
+    "option_d": "Meiji",
+    "answer": "D",
+    "id": "world_religions/dev/3"
+  },
+  {
+    "instruction": "Care dintre următoarele este cel mai bun mod prin care să investigăm rolul copiilor-soldat?",
+    "option_a": "Copiii-soldați sunt victime ale războiului care au nevoie de reeducare și reabilitare.",
+    "option_b": "Copiii și mamele lor nu sunt subiecte active în război și ar trebui considerați ca subiecte ale sferei private.",
+    "option_c": "Copiii sunt, cel mai adesea, martori nevinovați ai războiului și ar trebui folosiți ca semnificatori ai păcii.",
+    "option_d": "Copiii au subiectivitate politică care este ignorată atunci când sunt considerați victime pasive ale războiului.",
+    "answer": "D",
+    "id": "security_studies/dev/1"
+  },
+  {
+    "instruction": "Energia pentru toate formele de contracție musculară este asigurată de:",
+    "option_a": "ATP.",
+    "option_b": "ADP.",
+    "option_c": "fosfocreatină.",
+    "option_d": "fosforilare oxidativă.",
+    "answer": "A",
+    "id": "clinical_knowledge/dev/0"
+  },
+  {
+    "instruction": "Raportul de concentrare pentru un monopol este",
+    "option_a": "0",
+    "option_b": "5",
+    "option_c": "10",
+    "option_d": "100",
+    "answer": "D",
+    "id": "high_school_microeconomics/dev/2"
+  },
+  {
+    "instruction": "Într-o populație dată, 1 din 400 de persoane are o formă de cancer cauzată de un alel complet recesiv, b. Să presupunem că populația se află în echilibru Hardy-Weinberg, care din următoarele reprezintă proporția așteptată de persoane care poartă alelul b, dar care nu sunt susceptibile să dezvolte cancerul?",
+    "option_a": "1/400",
+    "option_b": "19/400",
+    "option_c": "20/400",
+    "option_d": "38/400",
+    "answer": "D",
+    "id": "college_biology/dev/1"
+  },
+  {
+    "instruction": "Când persoanele în vârstă se mută într-un alt stat după pensionare, care dintre următoarele este destinația mai probabilă?",
+    "option_a": "Texas",
+    "option_b": "California",
+    "option_c": "Hawaii",
+    "option_d": "Vermont",
+    "answer": "A",
+    "id": "human_aging/dev/2"
+  },
+  {
+    "instruction": "Cine este cel mai scurt bărbat care a câștigat vreodată o competiție NBA de slam dunk?",
+    "option_a": "Anthony 'Spud' Webb",
+    "option_b": "Michael 'Air' Jordan",
+    "option_c": "Tyrone 'Muggsy' Bogues",
+    "option_d": "Julius 'Dr J' Erving",
+    "answer": "A",
+    "id": "miscellaneous/dev/2"
+  },
+  {
+    "instruction": "O soluție conține 2.00 moli de acid acetic, CH3COOH, și 1,00 mol de acetat de calciu, Ca(CH3COO)2. Soluția poate rezista adăugării unei cantități mici de acid forte sau de bază puternică cu doar schimbări minore ale pH-ului soluției. Cantități mai mari de acid forte sau bază puternică pot cauza o schimbare semnificativă în pH. Câte moli de acid azotic, HNO3, pot fi adăugate înainte ca pH-ul să înceapă să se schimbe semnificativ?",
+    "option_a": "0.500 mol",
+    "option_b": "1,00 mol",
+    "option_c": "2,00 mol",
+    "option_d": "3,00 mol",
+    "answer": "C",
+    "id": "high_school_chemistry/dev/4"
+  },
+  {
+    "instruction": "Exploatarea bug-ului Heartbleed permite",
+    "option_a": "suprascrierea cheilor criptografice din memorie",
+    "option_b": "o oarecare injectie de cod",
+    "option_c": "o citire în afara limitelor unui buffer",
+    "option_d": "un atac de format string",
+    "answer": "C",
+    "id": "computer_security/dev/3"
+  },
+  {
+    "instruction": "DNA ligaza este",
+    "option_a": "o enzimă care unește fragmente în replicarea normală a ADN-ului",
+    "option_b": "o enzimă de origine bacteriană care taie ADN-ul la secvențele de bază definite",
+    "option_c": "o enzimă care facilitează transcripția genelor specifice",
+    "option_d": "o enzimă care limitează nivelul până la care ajunge un anumit nutrient",
+    "answer": "A",
+    "id": "medical_genetics/dev/1"
+  },
+  {
+    "instruction": "Termenul « hegemonie » se referă la:",
+    "option_a": "tendința clasei muncitoare de a nu realiza propriile interese",
+    "option_b": "o ideologie dominantă care legitimează puterea economică, politică și culturală",
+    "option_c": "o formă de conștiință duală bazată pe ideologie și experiențe zilnice",
+    "option_d": "o modalitate de plată acordată pentru tăieri de arbuști deosebite",
+    "answer": "B",
+    "id": "sociology/dev/3"
+  },
+  {
+    "instruction": "Timpul mediu de supraviețuire până la SIDA și deces a fost stabilit urmărind:",
+    "option_a": "Persoanele infectate cu HIV seroprevalente",
+    "option_b": "Seronegativele",
+    "option_c": "Serconvertorii",
+    "option_d": "Seronegativele cu risc ridicat",
+    "answer": "C",
+    "id": "virology/dev/4"
+  },
+  {
+    "instruction": "Această întrebare se referă la informaţiile de mai jos.\nCititīi următorul fragment.\nSâmânţa revoluţionară a pătruns în fiecare ţară şi s-a răspândit mai mult sau mai puţin. Aceasta a fost dezvoltată în mare măsură sub regimul de despotism militar al lui Bonaparte. Cuceririle sale au eliminat un număr de legi, instituţii şi obiceiuri; au rupt legături sacre între toate naţiile, suficient de puternice pentru a rezista timpului în sine, lucru care nu se poate spune despre unele beneficii conferite de aceşti inovatori.\nMonarhii vor îndeplini sarcinile impuse lor de Cel care, încredinţându-le puterea, le-a cerut să vegheze asupra menţinerii justiţiei şi a drepturilor tuturor, să evite căile erorii şi să păşească ferm pe calea adevărului. Plasaţi dincolo de pasiunile care agită societatea, sunt mai ales în zilele de probă când sunt chemaţi să dezvăluie realităţile dincolo de aparenţele lor false şi să se prezinte aşa cum sunt, părinţi investiţi cu autoritatea care îtrebuie, prin drept, să aparţină capului fiecărei familii, pentru a dovedi că în zile de doliu şi ei ştiu să fie drepţi, înţelepţi şi, prin urmare, puternici şi că nu vor abandona poporul pe care trebuie să-l guverneze pentru a fi jucăria fracţiunilor, a erorii şi a consecinţelor sale care trebuie să ducă la pierderea societăţii.\nUniunea dintre monarhi este baza politicii care trebuie urmată acum pentru a salva societatea de la ruină totală...\nSă nu confunde concesiile făcute partidelor cu binele pe care ar trebui să-l facă pentru poporul lor, modificând, în funcţie de nevoile recunoscute, astfel de ramuri ale administraţiei care o cer.\nSă fie drepţi, dar puternici; binefăcători, dar stricţi.\nSă păstreze principiile religioase în toată puritatea lor şi să nu permită credinţa să fie atacată şi morala interpretată în funcţie de contractul social sau de viziunile sectanţilor nebuni.\nSă suprime Societăţile Secrete; această gangrenă a societăţii.\n—Klemens von Metternich, Confesiunea politică a credinţei, 1820\nCare dintre cele de mai jos a fost cea mai mare cauză a temerilor exprimate de Metternich în documentul de mai sus?",
+    "option_a": "Ideile de libertate personală şi naţionalism concepute în timpul Iluminismului au dus la revoluţii radicale care s-ar fi putut răspândi în Europa.",
+    "option_b": "Cucerirea Europei de către Napoleon a dus la crearea de noi facţiuni şi a schimbat echilibrul de putere din Europa.",
+    "option_c": "Puterea monarhilor a crescut până la punctul în care trebuia să fie verificată de alte puteri în fiecare naţiune sau dominaţie a civililor ar putea avea loc.",
+    "option_d": "Ciclul economic de creştere şi declin al economiei capitaliste de-abia emergente ar putea duce la instabilitate civilă care trebuie suprimată.",
+    "answer": "A",
+    "id": "high_school_european_history/dev/1"
+  },
+  {
+    "instruction": "Comparată cu masa unui atom de uraniu care suferă fisiune, masele combinate ale produselor după fisiune sunt",
+    "option_a": "mai mici",
+    "option_b": "mai mari",
+    "option_c": "la fel",
+    "option_d": "zero",
+    "answer": "A",
+    "id": "conceptual_physics/dev/0"
+  },
+  {
+    "instruction": "Găsiți caracteristica inelului 2Z.",
+    "option_a": "0",
+    "option_b": "3",
+    "option_c": "12",
+    "option_d": "30",
+    "answer": "A",
+    "id": "abstract_algebra/dev/4"
+  },
+  {
+    "instruction": "În contrast cu ________, ________ își propun să recompenseze comportamentul favorabil al companiilor. Succesul unor astfel de campanii a crescut prin utilizarea ___________, care permit campaniilor să faciliteze compania în a-și atinge _________ .",
+    "option_a": "Buycotts, Boycotts, tehnologia blockchain, donații caritabile",
+    "option_b": "Buycotts, Boycotts, tehnologia digitală, creșterea vânzărilor",
+    "option_c": "Boycotts, Buyalls, tehnologia blockchain, donații caritabile",
+    "option_d": "Boycotts, Buycotts, tehnologia digitală, creșterea vânzărilor",
+    "answer": "D",
+    "id": "business_ethics/dev/4"
+  },
+  {
+    "instruction": "Care dintre următoarele presupuneri face parte din ierarhia nevoilor lui Maslow?",
+    "option_a": "Nevoile depind de cultură și de clasă socială.",
+    "option_b": "Nevoile de nivel inferior trebuie satisfăcute cel puțin parțial înainte ca nevoile superioare să poată afecta comportamentul.",
+    "option_c": "Nevoile nu sunt prioritizate sau nu sunt aranjate într-un anumit ordine.",
+    "option_d": "Nevoile satisfăcute sunt motivați, iar noi nevoi apar atunci când nevoile actuale rămân nesatisfăcute.",
+    "answer": "B",
+    "id": "marketing/dev/2"
+  },
+  {
+    "instruction": "Simplificați și scrieți rezultatul cu un numitor rațional: $$\\sqrt{\\sqrt[3]{\\sqrt{\\frac{1}{729}}}}$$",
+    "option_a": "\\frac{3\\sqrt{3}}{3}",
+    "option_b": "\\frac{1}{3}",
+    "option_c": "\\sqrt{3}",
+    "option_d": "\\frac{\\sqrt{3}}{3}",
+    "answer": "D",
+    "id": "high_school_mathematics/dev/3"
+  },
+  {
+    "instruction": "Care dintre următoarele seturi are cea mai mică deviație standard? Care are cea mai mare?\nI: {1,2,3}\nII: {-10,10}\nIII: {100}\n",
+    "option_a": "I, II",
+    "option_b": "II, III",
+    "option_c": "III, I",
+    "option_d": "III, II",
+    "answer": "D",
+    "id": "high_school_statistics/dev/4"
+  },
+  {
+    "instruction": "_____________ poate modifica datele de pe sistemul dumneavoastră - astfel încât sistemul dumneavoastră să nu mai funcționeze corect sau să nu mai puteți avea acces la anumite date, sau poate chiar cere răscumpărare pentru a vă oferi accesul.",
+    "option_a": "IM - Troieni",
+    "option_b": "Troieni cu Backdoor",
+    "option_c": "Troieni Descărcători",
+    "option_d": "Troieni de Răscumpărare",
+    "answer": "D",
+    "id": "computer_security/dev/1"
+  },
+  {
+    "instruction": "Iverson Jewelers a scris o scrisoare lui Miller, 'Am primit un ceas Rolox de înfășurare automată excepțional de fin, pe care îl vom vinde la un preț foarte favorabil.'",
+    "option_a": "Scrisoarea reprezintă o ofertă de vânzare",
+    "option_b": "O ofertă valabilă nu poate fi făcută prin scrisoare.",
+    "option_c": "Scrisoarea conține o ofertă valabilă care va expira într-un timp rezonabil.",
+    "option_d": "Scrisoarea lipsește unul dintre elementele esențiale ale unei oferte.",
+    "answer": "D",
+    "id": "jurisprudence/dev/4"
+  },
+  {
+    "instruction": "Care dintre aceste ramuri ale nervului trigemen conțin procese motorii somatice?",
+    "option_a": "Nervul supraorbital",
+    "option_b": "Nervul infraorbital",
+    "option_c": "Nervul mental",
+    "option_d": "Niciuna dintre cele de mai sus",
+    "answer": "D",
+    "id": "anatomy/dev/1"
+  },
+  {
+    "instruction": "Variabila $x$ variază direct proporțional cu pătratul lui $y$, iar $y$ variază direct proporțional cu cubul lui $z$. Dacă $x$ este egal cu $-16$ când $z$ este egal cu 2, care este valoarea lui $x$ când $z$ este egal cu $\\frac{1}{2}$?",
+    "option_a": "-1",
+    "option_b": "16",
+    "option_c": "-\\frac{1}{256}",
+    "option_d": "\\frac{1}{16}",
+    "answer": "C",
+    "id": "high_school_mathematics/dev/2"
+  },
+  {
+    "instruction": "Recent, o legislativă de stat a emis o lege prin care se face o infracțiune de a blestema sau insulta sau a folosi limbaj obscen sau insultator referitor la un polițist care-și exercită atribuțiunile. Un student la o universitate de stat a organizat o demonstrație pe campus pentru a protesta împotriva războiului. Adunarea a fost participată de un grup de 50 de studenți care au strigat mesaje anti-război la mașinile care treceau. Pentru a-și arăta disprețul față de Statele Unite, studentul a cusut drapelul american pe partea de jos a blugilor. Când un polițist a văzut drapelul cusut pe blugii studentului, s-a apropiat și i-a spus să îndepărteze drapelul sau va fi arestat. Studentul s-a înfuriat și a strigat către polițist: „Ascultă, bastardo, voi purta acest fâlfâi oriunde doresc”. Studentul a fost ulterior arestat și acuzat că a încălcat legea de stat. Studentul depune ulterior o plângere în instanța de judecată, contestând constituționalitatea legii. Cel mai puternic argument constituțional pentru student este că",
+    "option_a": "legea este nulă pentru ambiguitate prin clauza de proces din Amendamentul al 14-lea.",
+    "option_b": "legea este invalidă deoarece încalcă libertatea de exprimare a petiționarului conform Primului Amendament.",
+    "option_c": "legea este o restricționare a libertății de exprimare conform Primului Amendament deoarece sunt disponibile mijloace mai puțin restrictive pentru atingerea aceluiași scop.",
+    "option_d": "legea este prea largă și, în consecință, invalidă conform Amendamentelor Primului și al Paisprezecelea.",
+    "answer": "D",
+    "id": "professional_law/dev/0"
+  },
+  {
+    "instruction": "Descoperirea conform căreia adulții au tendința să își amintească mai bine evenimentele din adolescență decât cele din alte perioade ale vieții se numește",
+    "option_a": "Avantajul adolescenței",
+    "option_b": "Creșterea rememorativă",
+    "option_c": "Memorial înduplecat",
+    "option_d": "Șița de recuperare quadratică",
+    "answer": "B",
+    "id": "human_aging/dev/1"
+  },
+  {
+    "instruction": "Joe a avut sarcina de a se ocupa de lumini pentru o petrecere. Lumina roșie clipește la fiecare două secunde, lumina galbenă la fiecare trei secunde, iar lumina albastră la fiecare cinci secunde. Dacă includem începutul și sfârșitul petrecerii, de câte ori în timpul unei petreceri de șapte minute toate cele trei lumini vor fi aprinse simultan? (Presupunem că toate cele trei lumini clipeșesc simultan la începutul petrecerii.)",
+    "option_a": "3",
+    "option_b": "15",
+    "option_c": "6",
+    "option_d": "5",
+    "answer": "B",
+    "id": "high_school_mathematics/dev/0"
+  },
+  {
+    "instruction": "În urmă cu o sută de ani, stră-străbunica ta a investit 100 de dolari la o dobândă anuală de 5%. Cât valorează investiția astăzi?",
+    "option_a": "13,000 dolari",
+    "option_b": "600 dolari",
+    "option_c": "15,000 dolari",
+    "option_d": "28,000 dolari",
+    "answer": "A",
+    "id": "professional_accounting/dev/1"
+  },
+  {
+    "instruction": "Din regulile de solubilitate, care dintre următoarele este adevărat?",
+    "option_a": "Toți clorurii, bromurii și iodurii sunt solubili",
+    "option_b": "Toate sulfaturile sunt solubile",
+    "option_c": "Toate hidroxizii sunt solubili",
+    "option_d": "Toate compușii care conțin amoniu sunt solubili",
+    "answer": "D",
+    "id": "high_school_chemistry/dev/2"
+  },
+  {
+    "instruction": "Domeniul deciziilor politice preocupat în principal de relațiile dintre Statele Unite și restul lumii este cunoscut sub numele de",
+    "option_a": "politica terorismului.",
+    "option_b": "politica economică.",
+    "option_c": "politica externă.",
+    "option_d": "politica internațională.",
+    "answer": "C",
+    "id": "us_foreign_policy/dev/2"
+  },
+  {
+    "instruction": "Un fiu datora unui creditor 5000 de dolari. Tatăl fiului s-a adresat creditorului și i-a spus că dorește să plătească datoria fiului. Tatăl a semnat un document care arăta că va plăti datoria fiului la o rată de 500 de dolari pe lună timp de 10 luni. Creditorul nu a făcut nicio promisiune scrisă sau orală de a nu da în judecată fiul pentru a colecta datoria de 5000 de dolari, iar tatăl nu a făcut nicio cerere orală sau scrisă de astfel de îndurare. Pentru următoarele cinci luni, tatăl a făcut și creditorul a acceptat plățile lunare de 500 de dolari conform acordului. În timpul acelei perioade, creditorul, de fapt, nu a intentat nicio acțiune legală împotriva fiului. Cu toate acestea, tatăl a informat apoi creditorul că nu va face alte plăți pentru datorie. Care dintre următoarele argumente este cel mai convingător că tatăl este responsabil față de creditor în conformitate cu termenii acordului lor?",
+    "option_a": "Promisiunea tatălui și încrederea creditorului în aceasta, dacă se dovedește, a dat naștere la o cerere validă a creditorului împotriva tatălui bazată pe doctrina de estopare a promisiunilor.",
+    "option_b": "Datorită faptului că era previzibil ca promisiunea tatălui să îl determine pe creditor să nu ia nicio acțiune împotriva fiului, astfel de îndurare era, conform legii, un avantaj obținut prin negociere pentru promisiunea tatălui.",
+    "option_c": "Cele cinci plăți ale tatălui către creditor, însumând 2500 de dolari, au manifestat o intenție serioasă din partea tatălui de a fi obligat contractual, iar o astfel de manifestare este recunoscută în general ca fiind un substitut eficient pentru considerație.",
+    "option_d": "Prin asumarea obligației antecedente a datoriei pe care fiul o avea față de creditor, tatăl a devenit un garant al cărui angajament față de creditor a fost obligatoriu, deoarece era în scris și a fost susținut de o considerație adecvată.",
+    "answer": "A",
+    "id": "professional_law/dev/4"
+  },
+  {
+    "instruction": "Într-un piață a muncii competitive pentru zugravi, care dintre următoarele ar crește cererea pentru zugravi?",
+    "option_a": "Salariul minim eficient impus pe această piață a muncii.",
+    "option_b": "O creștere a prețului la galonul de vopsea.",
+    "option_c": "O creștere a construcției de case noi.",
+    "option_d": "O creștere a prețului la zugravii mecanici, atât timp cât efectul de producție depășește efectul de substituție.",
+    "answer": "C",
+    "id": "high_school_microeconomics/dev/0"
+  },
+  {
+    "instruction": "Practica de angajare a unui furnizor de servicii terț străin pentru a gestiona o operațiune se numește",
+    "option_a": "externalizare.",
+    "option_b": "delocalizare.",
+    "option_c": "maquiladoras.",
+    "option_d": "interdependență locațională.",
+    "answer": "B",
+    "id": "high_school_geography/dev/3"
+  },
+  {
+    "instruction": "Prezența structurilor omoloage la două organisme diferite, cum ar fi humerusul în membrele anterioare ale unui om și unui păsări, indică că",
+    "option_a": "omul și pasărea sunt specii polifiletice",
+    "option_b": "evoluția unui om și a unei păsări este convergentă",
+    "option_c": "omul și păsărea aparțin unui clade",
+    "option_d": "omul și păsărea s-au dezvoltat prin analogie",
+    "answer": "C",
+    "id": "college_biology/dev/2"
+  },
+  {
+    "instruction": "Care dintre următoarele este considerat un anhidrid acid?",
+    "option_a": "HCl",
+    "option_b": "H2SO3",
+    "option_c": "SO2",
+    "option_d": "Al(NO3)3",
+    "answer": "C",
+    "id": "high_school_chemistry/dev/0"
+  },
+  {
+    "instruction": "Care dintre următoarele condiții vor asigura că momentul cinetic angular este conservat? I. Conservarea momentului liniar II. Forța externă netă zero III. Cuplu extern net zero",
+    "option_a": "Doar I și II",
+    "option_b": "Doar I și III",
+    "option_c": "Doar II și III",
+    "option_d": "Doar III",
+    "answer": "D",
+    "id": "high_school_physics/dev/0"
+  },
+  {
+    "instruction": "Un capăt al unui fir Nichrome de lungime 2L și secțiune transversală A este atașat la un capăt al unui alt fir Nichrome de lungime L și secțiune transversală 2A. Dacă capătul liber al firului mai lung se află la un potențial electric de 8,0 volți, iar capătul liber al firului mai scurt este la un potențial electric de 1,0 volt, potențialul la joncțiunea celor doi fire este cel mai apropiat de",
+    "option_a": "2.4 V",
+    "option_b": "3.3 V",
+    "option_c": "4.5 V",
+    "option_d": "5.7 V",
+    "answer": "A",
+    "id": "college_physics/dev/2"
+  },
+  {
+    "instruction": "Care dintre următoarele afirmații despre elementele lantanide nu este adevărată?",
+    "option_a": "Cea mai comună stare de oxidare pentru elementele lantanide este +3.",
+    "option_b": "Complexele de lantanide au adesea numere mari de coordonare (> 6).",
+    "option_c": "Toate elementele lantanide reacționează cu acidul apos pentru a elibera hidrogen.",
+    "option_d": "Razele atomice ale elementelor lantanide cresc de-a lungul perioadei de la La la Lu.",
+    "answer": "D",
+    "id": "college_chemistry/dev/0"
+  },
+  {
+    "instruction": "Un gen care arată codominanță",
+    "option_a": "are ambele alele exprimate independent în heterozigot",
+    "option_b": "are o alela dominantă față de cealaltă",
+    "option_c": "are alele strâns legate pe același cromozom",
+    "option_d": "are alele exprimate în același timp în dezvoltare",
+    "answer": "A",
+    "id": "medical_genetics/dev/2"
+  },
+  {
+    "instruction": "Un compilator generează codul pentru următorul enunț de atribuire.\nG := (A + B) * C - (D + E) * F\nMașina țintă are un singur acumulator și un set de instrucțiuni cu o singură adresă, care constă din instrucțiunile load, store, add, subtract și multiply. Pentru operațiile aritmetice, operandul din stânga este luat din acumulator, iar rezultatul apare în acumulator. Cel mai mic număr posibil de instrucțiuni în codul rezultat este",
+    "option_a": "5",
+    "option_b": "6",
+    "option_c": "7",
+    "option_d": "9",
+    "answer": "D",
+    "id": "college_computer_science/dev/3"
+  },
+  {
+    "instruction": "O organizație non-guvernamentală nerealizând profituri Box a avut următoarele tranzacții pe parcursul anului: Venituri din vânzarea investițiilor $80000 Achiziționarea proprietății și a echipamentelor $10000 Venituri din datoriile pe termen lung $100000 Pierdere la vânzarea investiției $5000 Ce sumă ar trebui să fie raportată ca fiind netul de numerar furnizat prin activități de finanțare în fluturașul de trezorerie al Box-ului?",
+    "option_a": "$70,000",
+    "option_b": "$75,000",
+    "option_c": "$80,000",
+    "option_d": "100000",
+    "answer": "D",
+    "id": "professional_accounting/dev/0"
+  },
+  {
+    "instruction": "Păstrând totul altfel constant, ce politici monetare ar fi folosite pentru a stimula exporturile SUA?",
+    "option_a": "Creșterea ratei de discount",
+    "option_b": "Creșterea raportului de rezervă",
+    "option_c": "Cumpărarea de titluri de stat",
+    "option_d": "Reducerea tarifelor",
+    "answer": "C",
+    "id": "high_school_macroeconomics/dev/3"
+  },
+  {
+    "instruction": "Marele rege mayaș Pacal a construit temple în orașul Palenque pentru a:",
+    "option_a": "satisface puternicilor preoți astronomi mayași.",
+    "option_b": "își arate generozitatea față de oamenii obișnuiți, deoarece li s-a permis să trăiască în temple.",
+    "option_c": "înlătura inamicii, în special spaniolii.",
+    "option_d": "legitimiza domnia sa, deoarece tatăl său nu era regal.",
+    "answer": "D",
+    "id": "prehistory/dev/0"
+  },
+  {
+    "instruction": "Trei tactici contrastante în care organizațiile societății civile își pot atinge scopurile sunt _______ care implică în mod obișnuit cercetarea și comunicarea, ________, care poate implica atacarea fizică a operațiunilor unei companii sau ________, implicând adesea o formă de _______",
+    "option_a": "Acțiune directă non-violentă, Acțiune directă violentă, Acțiune indirectă, Boicot",
+    "option_b": "Acțiune indirectă, Acțiune instrumentală, Acțiune directă non-violentă, Campanie de informare",
+    "option_c": "Acțiune indirectă, Acțiune directă violentă, Acțiune directă non-violentă, Boicot",
+    "option_d": "Acțiune directă non-violentă, Acțiune instrumentală, Acțiune indirectă, Campanie de informare",
+    "answer": "C",
+    "id": "business_ethics/dev/3"
+  },
+  {
+    "instruction": "Un zar cu 6 fețe este aruncat de 15 ori și rezultatele sunt: fața 1 apare de 0 ori; fața 2: de 1 ori; fața 3: de 2 ori; fața 4: de 3 ori; fața 5: de 4 ori; fața 6: de 5 ori. Bazându-se pe aceste rezultate, care este probabilitatea apariției feței 3 când se utilizează netezire Add-1?",
+    "option_a": "2.0/15",
+    "option_b": "1.0/7",
+    "option_c": "3.0/16",
+    "option_d": "1.0/5",
+    "answer": "B",
+    "id": "machine_learning/dev/0"
+  },
+  {
+    "instruction": "Care sunt funcțiile legii, cu excepția uneia dintre următoarele?",
+    "option_a": "maximizarea libertății individuale",
+    "option_b": "furnizarea unei baze pentru compromis",
+    "option_c": "menținerea păcii",
+    "option_d": "promovarea principiilor sistemului de întreprindere liberă",
+    "answer": "D",
+    "id": "jurisprudence/dev/1"
+  },
+  {
+    "instruction": "Cum pot fi caracterizate Upanișadele?",
+    "option_a": "Texte rituale",
+    "option_b": "Texte filozofice",
+    "option_c": "Imnuri",
+    "option_d": "Povestiri despre origini",
+    "answer": "B",
+    "id": "world_religions/dev/4"
+  },
+  {
+    "instruction": "Ani crede că atitudinile și comportamentul ei joacă un rol central în ceea ce i se întâmplă. O astfel de credință este probabil să fie asociată cu",
+    "option_a": "un superego puternic.",
+    "option_b": "o stima de sine scăzută.",
+    "option_c": "o autoeficacitate scăzută.",
+    "option_d": "un locus de control intern.",
+    "answer": "D",
+    "id": "high_school_psychology/dev/0"
+  },
+  {
+    "instruction": "Ce este judecătorul ad hoc?",
+    "option_a": "Dacă o parte într-un caz litigios în fața CIJ nu are un judecător din propria țară, are dreptul să nominalizeze o persoană ca judecător exclusiv pentru acel caz, cu titlul de judecător ad hoc.",
+    "option_b": "Judecătorul ad hoc este membrul băncii CIJ cu drept de vot decisiv",
+    "option_c": "Judecătorul ad hoc este un judecător supleant, în cazul în care un judecător este descalificat sau decesează",
+    "option_d": "Judecătorul ad hoc este judecătorul pe care fiecare parte îl va nominaliza întotdeauna în fiecare caz litigios.",
+    "answer": "A",
+    "id": "international_law/dev/1"
+  },
+  {
+    "instruction": "De unde provin majoritatea cometelor cu perioadă scurtă și cum știm asta?",
+    "option_a": "Centura Kuiper; cometele cu perioadă scurtă tind să fie în planul sistemului solar, la fel ca și Centura Kuiper.",
+    "option_b": "Centura Kuiper; cometele cu perioadă scurtă tind să vină din direcții aleatoare, indicând o distribuție sferică a cometelor numită Centura Kuiper.",
+    "option_c": "Centura de asteroizi; cometele cu perioadă scurtă au perioade orbitale similare cu asteroizii precum Vesta și sunt găsite în planul sistemului solar, la fel ca și Centura de asteroizi.",
+    "option_d": "Norul Oort; cometele cu perioadă scurtă tind să fie în planul sistemului solar, la fel ca și Norul Oort.",
+    "answer": "A",
+    "id": "astronomy/dev/1"
+  },
+  {
+    "instruction": "Începând cu anul 2015, începând din anul 1990, padurile au ____ în Europa, în timp ce în Africa și America au ____ .",
+    "option_a": "crescut, crescut",
+    "option_b": "crescut, scăzut",
+    "option_c": "scăzut, crescut",
+    "option_d": "scăzut, scăzut",
+    "answer": "B",
+    "id": "global_facts/dev/2"
+  },
+  {
+    "instruction": "Această întrebare se referă la următoarele informații.\n\"Cel puțin una dintre societățile lumii ar trebui cumva să-și mărească enorm productivitatea [pentru a atinge hegemonia globală]. Acea săritură cantitativă ar trebui făcută înainte de revoluțiile științifice, tehnologice, agricole și industriale pe care se bazează lumea noastră post-săritură cantitativă. Aceasta ar putea fi realizată doar prin exploatarea ecosistemelor, resurselor minerale și a activelor umane ale întregilor continente din afara teritoriilor societății care face săritura. Europa Occidentală a făcut exact acest lucru prin brutalitatea și armele sale și, mai important, prin norocul geografic și ecologic.\"\nDrept de autor © 2015 Cambridge University Press.\nAlfred Crosby, istoric, Imperialism Ecologic, 2004\n\"Săritura cantitativă\" menționată în pasaj a contribuit cel mai direct la care dintre dezvoltările următoarelor în perioada 1450-1750 d.C.?",
+    "option_a": "O dezintegrare a rutelor comerciale prin prăbușirea structurii statale stabilite",
+    "option_b": "O creștere a populației lumii prin furnizarea mai bogată de alimente",
+    "option_c": "Răspândirea sistemelor de credință chineze și indiene în întreaga lume",
+    "option_d": "O creștere a instabilității sociale",
+    "answer": "B",
+    "id": "high_school_world_history/dev/4"
+  },
+  {
+    "instruction": "Grupul unic din societate cel mai vulnerabil la influența grupului de referință este:",
+    "option_a": "Consumatorul mai în vârstă care se simte puțin exclus.",
+    "option_b": "Femeia căsătorită, multe dintre ele simțind nevoia de stabilitate în viețile lor.",
+    "option_c": "Noii imigranți care doresc cu adevărat să se asimileze în noua lor cultură.",
+    "option_d": "Copiii, care își bazează majoritatea deciziilor de cumpărare pe influențele externe.",
+    "answer": "D",
+    "id": "marketing/dev/3"
+  },
+  {
+    "instruction": "Pentru care dintre aceste două scenarii personajul principal (care folosește I / me / my) face ceva clar moral greșit, conform standardelor morale obișnuite în SUA din 2020? Scenariul 1 | Am cumpărat un camion vechi pentru muncă. Scenariul 2 | M-am uitat la magnificul cascade și am aruncat o piatră în ea.",
+    "option_a": "Greșit, Greșit",
+    "option_b": "Greșit, Nu greșit",
+    "option_c": "Nu greșit, Greșit",
+    "option_d": "Nu greșit, Nu greșit",
+    "answer": "D",
+    "id": "moral_scenarios/dev/2"
+  },
+  {
+    "instruction": "O sarcină punctiformă, Q = +1 mC, este fixată în origine. Cât de multă muncă este necesară pentru a muta o sarcină, Q = +8 µC, de la punctul (0, 4 metri) la punctul (3 metri, 0)?",
+    "option_a": "3,5 J",
+    "option_b": "6,0 J",
+    "option_c": "22,5 J",
+    "option_d": "40 J",
+    "answer": "B",
+    "id": "high_school_physics/dev/4"
+  },
+  {
+    "instruction": "S-a sintetizat un nou compus și s-a constatat că este un acid monoprotic cu o masă moleculară de 248 g/mol. Când 0,0050 mol din acest acid sunt dizolvați în 0,500 L de apă, pH-ul este măsurat ca fiind 3,89. Care este pKa-ul acestui acid?",
+    "option_a": "3,89",
+    "option_b": "7,78",
+    "option_c": "5,78",
+    "option_d": "2,33",
+    "answer": "C",
+    "id": "high_school_chemistry/dev/3"
+  },
+  {
+    "instruction": "Care este A doua comoară în budism?",
+    "option_a": "Dharma",
+    "option_b": "Sangha",
+    "option_c": "Buddha",
+    "option_d": "Bodhisattva",
+    "answer": "A",
+    "id": "world_religions/dev/1"
+  },
+  {
+    "instruction": "Un telescop refractor consta in doua lentile convergente separate de 100 cm. Lentila de ocular are o distanta focala de 20 cm. Magnificarea unghiulara a telescopului este",
+    "option_a": "4",
+    "option_b": "5",
+    "option_c": "6",
+    "option_d": "20",
+    "answer": "A",
+    "id": "college_physics/dev/0"
+  },
+  {
+    "instruction": "În ceea ce privește cele cinci dimensiuni culturale ale lui Hofstede (1980), Statele Unite se situează în topul scării la:",
+    "option_a": "individualism.",
+    "option_b": "individualism și distanță de putere.",
+    "option_c": "distanță de putere și masculinitate.",
+    "option_d": "evitare a incertitudinii.",
+    "answer": "A",
+    "id": "professional_psychology/dev/2"
+  },
+  {
+    "instruction": "Un magazin vinde 107 culori de vopsea diferite. Magazinul are 25 de cutii din fiecare culoare in stoc. Numarul de cutii de vopsea pe care le are magazinul in stoc poate fi gasit folosind expresia de mai jos. 107 × 25. Cate cutii de vopsea are magazinul in stoc?",
+    "option_a": "749",
+    "option_b": "2,675",
+    "option_c": "2,945",
+    "option_d": "4,250",
+    "answer": "B",
+    "id": "elementary_mathematics/dev/3"
+  },
+  {
+    "instruction": "Un avion-model zboară mai încet când zboară împotriva vântului și mai rapid cu vântul în spate. Când este lansat la un unghi drept față de vântul lateral, viteza sa față de sol comparativ cu zborul în aer calm este",
+    "option_a": "aceeași",
+    "option_b": "mai mare",
+    "option_c": "mai mică",
+    "option_d": "fie mai mare, fie mai mică, în funcție de viteza vântului",
+    "answer": "B",
+    "id": "conceptual_physics/dev/3"
+  },
+  {
+    "instruction": "Această întrebare se referă la următoarele informații.\nÎn Rusia nu se întâmpla nimic bine, iar [Souvarine] era disperat în urma știrilor pe care le primise. Vechii săi tovarăși se transformaseră cu toții în politicieni; celebrii nihilisti care făceau Europa să tremure-fiilor de preoți sătești, din clasa de mijloc inferioară, a negustorilor-nu puteau depăși ideea de eliberare națională și păreau să creadă că lumea va fi eliberată-când vor ucide despotul lor &…\n\"Nebunie! Ei nu vor reuși niciodată să iasă din asta cu nebunia lor.\"\nApoi, coborându-și vocea și mai mult, în câteva cuvinte amare și-a descris vechiul său vis de fraternitate. Renunțase la rangul și averea sa; se dusese printre muncitori, doar în speranța de a vedea în cele din urmă întemeierea unei noi societăți de muncă în comun. Toți sous-ii din buzunarele sale ajunseseră de mult la copiii așezării; fusese la fel de tandru ca un frate cu hoții, surâzându-le în suspiciune, câștigându-i prin calea lui liniștită, muncitorească și prin antipatia lui pentru chibitare. Dar, în mod clar, fuziunea nu avusese loc.\nVocea lui s-a schimbat, ochii i s-au luminat, și-a fixat privirea asupra lui étienne, adresându-se direct lui:\n\"Acum, înțelegi asta? Acești lucrători în fabrica de pălării de la Marseille, care au câștigat marele premiu la loterie de o sută de mii de franci, s-au dus imediat și au investit banii, declarând că vor trăi fără să facă nimic! Da, asta este ideea voastră, tuturor lucrătorilor francezi; vreți să găsiți o comoară pentru a o devora singuri ulterior intr-un colț leneș și egoist. Puteți să strigați cât vreți împotriva bogaților, nu aveți destulă curaj să le dați înapoi săracilor banii pe care norocul vă aduce. Niciodată nu veți fi demni de fericire atâta timp cât dețineți ceva, iar ura voastră față de burghezi provine exclusiv dintr-un dorință furioasă de a fi voi înșivă burghezi în locul lor.\"\nEmile Zola, scriitor francez, Germinal, 1885\nFragmentul prezintă preocuparea directă pentru bunăstarea clasei muncitoare, care era în mod tipic o parte a cărei mișcări?",
+    "option_a": "Capitalistă",
+    "option_b": "Științifică",
+    "option_c": "Comunistă",
+    "option_d": "Existențialistă",
+    "answer": "C",
+    "id": "high_school_european_history/dev/2"
+  },
+  {
+    "instruction": "Dacă guvernul subvenționează producătorii într-un mediu de piață perfect concurențial, atunci",
+    "option_a": "cererea pentru produs va crește",
+    "option_b": "cererea pentru produs va scădea",
+    "option_c": "excedentul consumatorilor va crește",
+    "option_d": "excedentul consumatorilor va scădea",
+    "answer": "C",
+    "id": "high_school_microeconomics/dev/1"
+  },
+  {
+    "instruction": "Care dintre următoarele elemente reprezintă un exemplu de cultură non-materială?",
+    "option_a": "Săpun Dove",
+    "option_b": "Bară de bomboane Dove",
+    "option_c": "Simbolul Dove",
+    "option_d": "Un porumbel (pasăre)",
+    "answer": "C",
+    "id": "high_school_geography/dev/4"
+  },
+  {
+    "instruction": "Două conductoare lungi și paralele transportă 100 A. Dacă conductoarele sunt separate de 20 mm, forța per metru de lungime a fiecărui conductor va fi",
+    "option_a": "100 N.",
+    "option_b": "0.1 N.",
+    "option_c": "1 N.",
+    "option_d": "0.01 N.",
+    "answer": "B",
+    "id": "electrical_engineering/dev/3"
+  },
+  {
+    "instruction": "Selectați cea mai bună traducere în logică predicativă. George împrumută tractorul de la Hector. (g: George; h: Hector; l: Tractorul lui Hector; Bxyx: x împrumută y de la z)",
+    "option_a": "Blgh",
+    "option_b": "Bhlg",
+    "option_c": "Bglh",
+    "option_d": "Bghl",
+    "answer": "C",
+    "id": "formal_logic/dev/1"
+  },
+  {
+    "instruction": "Fie A mulțimea tuturor perechilor ordonate de numere întregi (m, n) astfel încât 7m + 12n = 22. Care este cel mai mare număr negativ din mulțimea B = {m + n : (m, n) \\in A}?",
+    "option_a": "-5",
+    "option_b": "-4",
+    "option_c": "-3",
+    "option_d": "-2",
+    "answer": "B",
+    "id": "college_mathematics/dev/4"
+  },
+  {
+    "instruction": "Argumentul conform căruia ceea ce este adevărat pentru părți trebuie să fie adevărat pentru întreg este eroarea de...",
+    "option_a": "Diviziune",
+    "option_b": "Compoziție",
+    "option_c": "Apelează la persoană",
+    "option_d": "Apelează la ignoranță",
+    "answer": "B",
+    "id": "logical_fallacies/dev/3"
+  },
+  {
+    "instruction": "Pascale este interesat de strategiile de procesare pe care copiii le utilizează pentru a învăța informații noi. Pascale ar fi cel mai bine clasificată ca fiind ce tip de psiholog?",
+    "option_a": "sociocultural",
+    "option_b": "clinic",
+    "option_c": "cognitiv",
+    "option_d": "behaviorist",
+    "answer": "C",
+    "id": "high_school_psychology/dev/4"
+  },
+  {
+    "instruction": "Această întrebare se referă la următoarele informații.\n\"Societatea în fiecare stat este o binecuvântare, dar guvernul, chiar și în cea mai bună stare a sa, nu este decât un rău necesar; în cea mai rea stare a sa, este unul intolerabil; pentru că atunci când suferim, sau suntem expuși acelorași nefericiri de către un guvern, pe care le-am putea aștepta într-o țară fără guvern, calamitatea noastră este întărită prin reflecția că furnizăm mijloacele prin care suferim. Guvernul, la fel ca și îmbrăcămintea, este emblemă a inocenței pierdute; palatele regilor sunt construite pe ruinele colibelor paradisului. Căci dacă impulsurile conștiinței ar fi clare, uniforme și obediente în mod irezistibil, omul nu ar avea nevoie de un alt legiuitor; dar, neexistând acest lucru, el consideră că este necesar să-și cedeze o parte din proprietate pentru a furniza mijloacele de protecție a restului; și acest lucru este determinat să-l facă de aceeași prudență care în orice alt caz îl sfătuiește să aleagă răul cel mai mic din două. Prin urmare, fiind adevărat că siguranța este designul și scopul real al guvernului, rezultă pe nedrept că orice formă aparținându-i care pare cel mai probabil să ne asigure aceasta, cu cel mai mic cost și cel mai mare beneficiu, este preferabilă în fața tuturor celorlalte.\"\nThomas Paine, Common Sense, 1776\nCare dintre următoarele \"nefericiri\" aluzionate mai sus au fost cele mai condamnate de Anti-Federaliști în era post-revoluționară?",
+    "option_a": "Răspunsul organizat la Rebeliunea lui Bacon",
+    "option_b": "Răspunsul federal la Rebeliunea lui Shays",
+    "option_c": "Răspunsul federal la Rebeliunea Whiskey",
+    "option_d": "Răspunsul federal la Rebeliunea lui Pontiac",
+    "answer": "C",
+    "id": "high_school_us_history/dev/0"
+  },
+  {
+    "instruction": "Rata de creștere naturală a unei populații este găsită prin scăderea",
+    "option_a": "ratei crude de deces din rata brută de nașteri.",
+    "option_b": "ratei brute de nașteri din rata brută de deces.",
+    "option_c": "timpului de dublare din rata brută de nașteri.",
+    "option_d": "ratei de fertilitate din rata brută de deces.",
+    "answer": "A",
+    "id": "high_school_geography/dev/0"
+  },
+  {
+    "instruction": "Cum a afectat criza financiară din 2008 reputația internațională a Americii?",
+    "option_a": "A dăunat susținerii modelului de economie politică și de capitalism american",
+    "option_b": "A creat furie împotriva Statelor Unite pentru exagerarea crizei",
+    "option_c": "A crescut sprijinul pentru conducerea globală americană sub președintele Obama",
+    "option_d": "A redus utilizarea globală a dolarului american",
+    "answer": "A",
+    "id": "us_foreign_policy/dev/0"
+  },
+  {
+    "instruction": "Ce element al rețelei culturale formează regalia?",
+    "option_a": "Simboluri",
+    "option_b": "Ritualuri și obiceiuri",
+    "option_c": "Structuri de putere",
+    "option_d": "Sisteme de control",
+    "answer": "A",
+    "id": "management/dev/2"
+  },
+  {
+    "instruction": "Care dintre afirmațiile următoare nu este adevărată?",
+    "option_a": "Glicogenul muscular este descompus enzimatic în glucoză-1-fosfat",
+    "option_b": "Atleții de anduranță de elită au o proporție ridicată de fibre de tip I în mușchii picioarelor",
+    "option_c": "Glicogenul hepatic este important în menținerea concentrației de glucoză din sânge",
+    "option_d": "Insulina promovează absorbția glucozei de către toate țesuturile din corp",
+    "answer": "D",
+    "id": "college_medicine/dev/1"
+  },
+  {
+    "instruction": "Deși conținutul și calitatea pot fi controlate la fel ca în cazul corespondenței directe, ratele de răspuns ale acestui mediu sunt mai scăzute datorită lipsei unui mecanism de adresare personal. Acest format media este cunoscut sub numele de:",
+    "option_a": "Linii de îngrijire.",
+    "option_b": "Corespondență directă.",
+    "option_c": "Material publicitar tipărit pliat și inserat în alte publicații.",
+    "option_d": "Distribuție directă de la ușă la ușă.",
+    "answer": "D",
+    "id": "marketing/dev/4"
+  },
+  {
+    "instruction": "Egoismul psihologic este:",
+    "option_a": "o teorie etică despre cum ar trebui să ne comportăm.",
+    "option_b": "o generalizare referitoare la modul în care oamenii au tendința să se comporte.",
+    "option_c": "o afirmație despre natura umană și modul în care oamenii sunt capabili să se comporte.",
+    "option_d": "nimic de mai sus.",
+    "answer": "C",
+    "id": "philosophy/dev/0"
+  },
+  {
+    "instruction": "Ce loc este numit în titlul albumului live din 1979 al legendelor rock Cheap Trick?",
+    "option_a": "Budapesta",
+    "option_b": "Budokan",
+    "option_c": "Bhutan",
+    "option_d": "Marea Britanie",
+    "answer": "B",
+    "id": "miscellaneous/dev/1"
+  },
+  {
+    "instruction": "Un maratonist masculin de 22 de ani se prezintă la cabinet cu plângerea de durere la coastele de pe partea dreaptă atunci când aleargă distanțe lungi. Examinarea fizică relevă constatări normale la inimă și plămâni și disfuncție de exhalare la coastele 4-5 din partea dreaptă. Care dintre următoarele mușchi sau grupuri musculare va fi cel mai util în corectarea acestei disfuncții utilizând o metodă directă?",
+    "option_a": "scalena anterioară",
+    "option_b": "mușchiul latissimus dorsi",
+    "option_c": "mușchiul pectoral minor",
+    "option_d": "muschiul quadratus lumborum",
+    "answer": "C",
+    "id": "professional_medicine/dev/4"
+  },
+  {
+    "instruction": "Să presupunem acum că un cercetător dorește să folosească criteriile de informare pentru a determina lungimea optimă de întârziere pentru o VAR. Sunt disponibile 500 de observații pentru VAR bivariat, iar valorile determinanților matricei de varianța-covarianța a reziduurilor sunt 0,0336, 0,0169, 0,0084 și 0,0062 pentru 1, 2, 3 și 4 întârzieri, respectiv. Care este ordinul modelului optim conform criteriului de informație Akaike?",
+    "option_a": "1 întârziere",
+    "option_b": "2 întârzieri",
+    "option_c": "3 întârzieri",
+    "option_d": "4 întârzieri",
+    "answer": "C",
+    "id": "econometrics/dev/4"
+  },
+  {
+    "instruction": "Găsiți toate valorile lui c în Z_3 astfel încât Z_3[x]/(x^2 + c) să fie un câmp.",
+    "option_a": "0",
+    "option_b": "1",
+    "option_c": "2",
+    "option_d": "3",
+    "answer": "B",
+    "id": "abstract_algebra/dev/0"
+  },
+  {
+    "instruction": "Această întrebare se referă la următoarea informație.\n\"Lupta împotriva neo-colonialismului nu urmărește excluderea capitalului din lumea dezvoltată să opereze în țările mai puțin dezvoltate. Scopul este de a preveni utilizarea puterii financiare a țărilor dezvoltate într-un mod care să sărăcească pe cele mai puțin dezvoltate.\nNon-alinierea, așa cum este practicată de Ghana și de multe alte țări, se bazează pe cooperarea cu toate statele, fie că sunt capitaliste, socialiste sau au o economie mixtă. Astfel de politici implică investiții străine din țările capitaliste, dar acestea trebuie să fie investite conform unui plan național elaborat de guvernul statului non-aliniat, iar interesul național trebuie să fie luat în considerare. Problema nu este ce randament primește investitorul străin pentru investițiile sale…Problema este una de putere. Un stat subjugat neo-colonialismului nu este stăpân pe propriul său destin.\"\nKwame Nkrumah, Neo-Colonialism, 1965\nCare dintre următoarele oferă cel mai bun context pentru scrierile lui Nkrumah?",
+    "option_a": "Revoluția Industrială",
+    "option_b": "Decolonizarea",
+    "option_c": "Asociațiile regionale ale comerțului liber",
+    "option_d": "Autarhia",
+    "answer": "B",
+    "id": "high_school_world_history/dev/1"
+  },
+  {
+    "instruction": "O stat a adoptat recent o lege care interzice eliminarea deșeurilor nucleare în cadrul statului. Această lege nu contravine sau intră în conflict cu nicio lege federală. Un bărbat operează o companie în stat care se ocupă de eliminarea deșeurilor nucleare. Ulterior adoptării legii statului, omul, încă neînștiințat de noua lege, a încheiat contracte cu multe firme din afara statului pentru a elimina deșeurile lor nucleare în stat. Din cauza acestei noi legi, bărbatul nu va putea să își îndeplinească aceste contracte. Să presupunem că bărbatul are dreptul să conteste această lege de stat. Care dintre următoarele reprezintă cele mai puternice motive constituționale pentru a contesta legea statului care interzice eliminarea deșeurilor nucleare în cadrul statului?",
+    "option_a": "Clauza comerțului.",
+    "option_b": "Clauza protecției egale a Amendamentului XIV. ",
+    "option_c": "Clauza privilegiilor și imunităților din articolul IV, Secțiunea 2.",
+    "option_d": "Clauza contractului.",
+    "answer": "A",
+    "id": "professional_law/dev/1"
+  },
+  {
+    "instruction": "După ce a fost emisă o avertizare de îngheț, proprietarul unei mari livezi de portocali a cerut angajaților săi să stropească toți copacii cu apă. Apa trebuia să înghețe și să formeze o acoperire protectoare din gheață în jurul florilor de portocal. Cu toate acestea, proprietarul bănuia că unii copaci au suferit un daune considerabile din cauza înghețului. Pentru a estima proporția de copaci care au suferit mai mult de 50 la sută daune din cauza înghețului, a luat o mostră aleatoare de 100 de copaci din livada sa. Care este variabila de răspuns în acest experiment?",
+    "option_a": "Proportia de copaci care au suferit mai mult de 50% daune din cauza înghețului.",
+    "option_b": "Numărul de copaci afectați de îngheț.",
+    "option_c": "Numărul de copaci selectați din livadă.",
+    "option_d": "Pentru fiecare copac selectat, dacă a suferit mai mult de 50% sau cel mult 50%ai daune.",
+    "answer": "D",
+    "id": "high_school_statistics/dev/2"
+  },
+  {
+    "instruction": "Mulți navigatori Web permit utilizatorilor să deschidă ferestre anonime. În timpul unei sesiuni de navigare într-o fereastră anonimă, navigatorul nu înregistrează un istoric de navigare sau o listă de fișiere descărcate. Când fereastra anonimă este închisă, cookie-urile create în timpul sesiunii sunt șterse. Care dintre afirmațiile următoare despre sesiunile de navigare într-o fereastră anonimă este adevărată?",
+    "option_a": "Activitățile unui utilizator care navighează într-o fereastră anonimă nu vor fi vizibile pentru persoanele care monitorizează rețeaua utilizatorului, cum ar fi administratorul sistemului.",
+    "option_b": "Obiectele plasate în coșul de cumpărături al unui magazin online pentru achiziție viitoare în timpul sesiunii de navigare anonimă nu vor fi salvate pe computerul utilizatorului.",
+    "option_c": "Un utilizator nu va putea să se autentifice în conturile de e-mail sau social media în timpul sesiunii de navigare anonimă.",
+    "option_d": "Un utilizator care navighează într-o fereastră anonimă va fi protejat de viruși lansați de orice site-uri web vizitate sau fișiere descărcate.",
+    "answer": "B",
+    "id": "high_school_computer_science/dev/1"
+  },
+  {
+    "instruction": "Care sunt cele două dimensiuni principale ale studiilor Ohio referitoare la conducere?",
+    "option_a": "Poziția de plecare și poziția finală",
+    "option_b": "Mediul inițial și mediul modificat",
+    "option_c": "Structura organizațională și condiționarea",
+    "option_d": "Inițierea structurii și considerațiile",
+    "answer": "D",
+    "id": "management/dev/0"
+  },
+  {
+    "instruction": "Pentru a asigura independența membrilor din consiliul de administrație non-executivi, există mai multe măsuri care pot fi luate, printre care se numără selecția membrilor non-executivi din _______ afara companiei, numirea lor pentru o perioadă _________ limitată, precum și numirea lor ________.",
+    "option_a": "Exteriorului, Limitată, Independent",
+    "option_b": "Interiorului, Limitată, Intermitent",
+    "option_c": "Exteriorului, Nelimitată, Intermitent",
+    "option_d": "Interiorului, Nelimitată, Independent",
+    "answer": "A",
+    "id": "business_ethics/dev/2"
+  },
+  {
+    "instruction": "Există trei moduri de a măsura Tendința Centrală: Media, Mediana și Moda. Din cunoștințele dumneavoastră despre ele, care este moda?",
+    "option_a": "mai puțin sensibilă la scorurile extreme decât media",
+    "option_b": "mai utilă pentru distribuții asimetrice",
+    "option_c": "sensibilă la valorile extreme și la distribuțiile foarte asimetrice",
+    "option_d": "numărul care apare cel mai frecvent",
+    "answer": "D",
+    "id": "professional_psychology/dev/1"
+  },
+  {
+    "instruction": "Pentru a obține o estimare a pierderii 0/1 mai mică de 1 la sută din pierderea reală 0/1 (cu o probabilitate de 95%), conform inegalității Hoeffding pentru setul de testare aleatoriu și independent (IID) trebuie să existe câte exemple?",
+    "option_a": "în jur de 10 exemple",
+    "option_b": "în jur de 100 de exemple",
+    "option_c": "între 100 și 500 de exemple",
+    "option_d": "mai mult de 1000 de exemple",
+    "answer": "D",
+    "id": "machine_learning/dev/3"
+  },
+  {
+    "instruction": "În evaluarea funcției mâinii, care dintre următoarele este adevărat?",
+    "option_a": "Abducția degetului mare este furnizată de rădăcina spinală T2",
+    "option_b": "Opunerea degetului mare de către opponens policis este furnizată de rădăcina spinală T1",
+    "option_c": "Adducția degetelor este furnizată de nervul median",
+    "option_d": "Abducția degetelor este mediată de interosele palmare",
+    "answer": "B",
+    "id": "clinical_knowledge/dev/2"
+  },
+  {
+    "instruction": "Începând cu anul 2019, cam la ce procent din americani sunt de acord că statul este condus în beneficiul tuturor oamenilor?",
+    "option_a": "31%",
+    "option_b": "46%",
+    "option_c": "61%",
+    "option_d": "76%",
+    "answer": "B",
+    "id": "global_facts/dev/1"
+  },
+  {
+    "instruction": "Cercetătorii cred acum că declinul mayașilor a fost cauzat în principal de:",
+    "option_a": "o catastrofă de orice fel, cum ar fi un cutremur, un vulcan sau un tsunami.",
+    "option_b": "degradarea ecologică rezultată din tehnici de agricultură prin tăiere și ardere.",
+    "option_c": "războaiele fără sfârșit dintre orașele-stat mayașe vecine.",
+    "option_d": "practici de încrucișare care au dus la o creștere semnificativă a tulburărilor congenitale.",
+    "answer": "B",
+    "id": "prehistory/dev/2"
+  },
+  {
+    "instruction": "Începând cu anul 2017, câți dintre copiii de 1 an din întreaga lume au fost vaccinați împotriva unei boli? *",
+    "option_a": "80%",
+    "option_b": "60%",
+    "option_c": "40%",
+    "option_d": "20%",
+    "answer": "A",
+    "id": "global_facts/dev/4"
+  },
+  {
+    "instruction": "Într-un studiu de cohortă, raportul de risc de dezvoltare a diabetului a fost de 0,86 atunci când se compară consumatorii de ceai (cei expuși) cu cei care nu beau ceai (neexpuși). Care dintre următoarele afirmații este corectă (conform cunoștințelor din 2020)?\n",
+    "option_a": "Băutorii de ceai au un risc mai mic de a dezvolta diabet.",
+    "option_b": "Băutorii de ceai au un risc mai mare de a dezvolta diabet.",
+    "option_c": "Pe baza informațiilor furnizate, nu putem spune dacă diferența observată în privința riscului de boală este rezultatul șansei.",
+    "option_d": "Raportul de risc este aproape de valoarea unu, deci nu există o diferență înriscul de boală între cele două grupuri.",
+    "answer": "C",
+    "id": "nutrition/dev/0"
+  },
+  {
+    "instruction": "Care dintre aceste trei elemente are cea mai mare masă pe nucleon?",
+    "option_a": "Hidrogen",
+    "option_b": "Fier",
+    "option_c": "Uraniu",
+    "option_d": "La fel pentru fiecare",
+    "answer": "A",
+    "id": "conceptual_physics/dev/4"
+  },
+  {
+    "instruction": "Cum a schimbat NSC-68 strategia SUA?",
+    "option_a": "A globalizat containmentul.",
+    "option_b": "A militarizat containmentul.",
+    "option_c": "A cerut dezvoltarea bombei cu hidrogen.",
+    "option_d": "Toate de mai sus",
+    "answer": "D",
+    "id": "us_foreign_policy/dev/1"
+  },
+  {
+    "instruction": "În 2020, care este cea mai plauzibilă explicație pentru efectul protector al fibrei alimentare împotriva cancerului de colon?",
+    "option_a": "Acidul propionic, format în timpul fermentației fibrei intestinale, inhibă sinteza acidului gras din ficat",
+    "option_b": "Acidul butiric, format în timpul fermentației fibrei intestinale, stimulează  \"tăcerea\" genei supresoare a tumorilor SLC5A8",
+    "option_c": "Niciuna dintre aceste opțiuni nu este corectă",
+    "option_d": "Acidul butiric, format în timpul fermentației fibrei intestinale, stimulează apărarea antioxidanților în colon",
+    "answer": "D",
+    "id": "nutrition/dev/2"
+  },
+  {
+    "instruction": "La 1 octombrie 1980, un dezvoltator, proprietar al câtorva sute de acri într-un județ rural, a redactat un plan general de dezvoltare pentru zonă. Planul, după cum a fost înregistrat în mod corespunzător, a impus restricții și limitări elaborate terenurilor din plan, care urmau să fie dezvoltate ca un district rezidențial. Restrângerile urmau să se extindă la toate persoanele care achiziționează loturi și la moștenitorii, cesionarii și chiriașii lor.  Mai mult, s-a prevăzut că toți proprietarii ulteriori vor fi informați cu restricțiile. Printre acele restricții din planul general se numără următoarele: (22) Un drept de franciză se creează pe o porțiune de teren de 10 picioare lățime de-a lungul cărora fiecare lot pentru folosul companiilor de utilități publice cu drept de trecere și acces. (23) Nicio casă sau structură de orice fel nu va fi construită pe porțiunea menționată de teren care trece prin aceste blocuri. În anul 2000, un pensionar a achiziționat unul dintre loturi, și-a construit o casă și a ridicat un gard în partea din spate a proprietății sale, în interiorul zonei restricționate. În 2004, un profesor a achiziționat un lot adiacent proprietății pensionarului și a construit o casă nouă. Doi ani mai târziu, un bibliotecar a achiziționat lotul care se învecina cu proprietatea profesorului. Cele trei acte pentru aceste proprietăți conțineau referințe la cartea de acte în care era înregistrat planul general. În 2008, bibliotecarul a început construcția unui gard din șapte picioare înălțime și plin de scânduri, de-a lungul laturii care împărțea terenul său de cel al profesorului și de-a lungul centrului zonei supuse dreptului de franciză. Deși profesorul s-a opus construcției sale, gardul a fost realizat. Dacă profesorul încearcă să obțină o injuncție obligatorie pentru a-l forța pe bibliotecar să îndepărteze gardul, probabil că instanța va",
+    "option_a": "acorda ajutor, deoarece gardul a încălcat restricția de uz comun. ",
+    "option_b": "acorda ajutor, deoarece intruziunea gardului a încălcat restricția din planul original. ",
+    "option_c": "refuza ajutorul, deoarece profesorul nu a impus restricția împotriva pensionarului. ",
+    "option_d": "refuza ajutorul, deoarece gardul nu va fi interpretat ca o \"structură\" în termenii restricției. ",
+    "answer": "B",
+    "id": "professional_law/dev/3"
+  },
+  {
+    "instruction": "În timp ce înota în ocean, Ivan este speriat de o umbră întunecată în apă chiar înainte să aibă șansa să identifice ce este acea umbră. Cele mai bune conexiuni sinaptice care au loc în timpul acestui incident de frică sunt descrise cel mai bine de care dintre următoarele?",
+    "option_a": "Mesajele sunt trimise de la talamus direct către amigdală.",
+    "option_b": "Mesajele sunt trimise de la talamus la căile \"ce\" și \"unde\".",
+    "option_c": "Mesajele sunt trimise de la sistemul nervos parasimpatic la cortexul cerebral.",
+    "option_d": "Mesajele sunt trimise de la lobii frontali către glanda pituitară.",
+    "answer": "A",
+    "id": "high_school_psychology/dev/2"
+  },
+  {
+    "instruction": "Care dintre augmentările datelor de imagine este cea mai comună pentru imagini naturale?",
+    "option_a": "tăiere aleatoare și oglindire orizontală",
+    "option_b": "tăiere aleatoare și oglindire verticală",
+    "option_c": "posterizare",
+    "option_d": "dithering",
+    "answer": "A",
+    "id": "machine_learning/dev/1"
+  },
+  {
+    "instruction": "Pentru care dintre urmatoarele procese termodinamice creste energia interna a unui gaz ideal cu o valoare egala cu caldura adaugata gazului?",
+    "option_a": "Temperatura constanta",
+    "option_b": "Volum constant",
+    "option_c": "Presiune constanta",
+    "option_d": "Adiabatic",
+    "answer": "B",
+    "id": "college_physics/dev/1"
+  },
+  {
+    "instruction": "Dacă toate celelalte lucruri sunt egale, care dintre următoarele persoane este mai probabil să prezinte osteoporoză?",
+    "option_a": "O femeie în vârstă hispanică americană",
+    "option_b": "O femeie în vârstă africană americană",
+    "option_c": "O femeie în vârstă asiatică americană",
+    "option_d": "O femeie în vârstă nativă americană",
+    "answer": "C",
+    "id": "human_aging/dev/4"
+  },
+  {
+    "instruction": "Care dintre următoarele este neapărat o caracteristică a oligopolului?",
+    "option_a": "Intrarea şi ieşirea liberă de pe piaţă",
+    "option_b": "Câţiva producători mari",
+    "option_c": "Un singur producător al unui bun fără substituenţi apropiaţi",
+    "option_d": "Un produs omogen",
+    "answer": "B",
+    "id": "high_school_microeconomics/dev/4"
+  },
+  {
+    "instruction": "În occlusiunea Clasei II Div 2 a lui Angle există:",
+    "option_a": "suprapunerea excesivă a incisivilor laterali superiori.",
+    "option_b": "suprapunerea negativă a incisivilor centrali superiori.",
+    "option_c": "supraavansul excesiv al incisivilor laterali superiori.",
+    "option_d": "supraavansul excesiv al incisivilor centrali superiori.",
+    "answer": "C",
+    "id": "anatomy/dev/3"
+  },
+  {
+    "instruction": "Krete este un contribuabil necăsătorit, cu venituri exclusive din salarii. Până la 31 decembrie, anul 1, angajatorul lui Krete a reținut impozite federale pe venit în valoare de 16.000 de dolari, iar Krete nu a efectuat plăți anticipate de taxe. La 15 aprilie, anul 2, Krete a depus în termen cererea de prelungire a termenului limită pentru depunerea declarației sale fiscale individuale și a plătit 300 de dolari în taxe suplimentare. Obligația fiscală a lui Krete în anul 1 a fost de 16.500 de dolari când a depus declarația sa fiscală la timp, la 30 aprilie, anul 2, și a plătit soldul obligației fiscale rămase. Care este suma care ar fi supusă amenzii pentru neplata taxelor anticipate?",
+    "option_a": "$0",
+    "option_b": "$500",
+    "option_c": "$1,650",
+    "option_d": "$16,500",
+    "answer": "A",
+    "id": "professional_accounting/dev/2"
+  },
+  {
+    "instruction": "Lucrurile care sunt echivalente conform principiului de echivalență sunt",
+    "option_a": "spațiul și timpul.",
+    "option_b": "unul dintre gemeni care călătorește și unul care rămâne acasă.",
+    "option_c": "gravitația și accelerația.",
+    "option_d": "masa și energia.",
+    "answer": "C",
+    "id": "conceptual_physics/dev/1"
+  },
+  {
+    "instruction": "Ce organizație a lansat campania Ora Pământului?",
+    "option_a": "Greenpeace",
+    "option_b": "ONU",
+    "option_c": "Oxfam",
+    "option_d": "Fondul Mondial pentru Natură",
+    "answer": "D",
+    "id": "public_relations/dev/4"
+  },
+  {
+    "instruction": "Care dintre următoarele este adevărat pentru un silogism categoric valabil?",
+    "option_a": "Premiza minoră trebuie să nege antecedentul",
+    "option_b": "Premisa majoră trebuie să afirme consecventul",
+    "option_c": "Termenul mijlociu trebuie să fie folosit în cel puţin una din premise în sens universal sau necondiţionat",
+    "option_d": "Toate cele de mai sus",
+    "answer": "C",
+    "id": "logical_fallacies/dev/2"
+  },
+  {
+    "instruction": "Care dintre următoarele politici descrie cel mai bine politica fiscală din partea ofertanților?",
+    "option_a": "O creștere a ofertei de bani",
+    "option_b": "Creșterea cheltuielilor guvernamentale",
+    "option_c": "Taxe mai mici pentru cercetarea și dezvoltarea de noi tehnologii",
+    "option_d": "Taxe mai mari pe veniturile gospodăriilor",
+    "answer": "C",
+    "id": "high_school_macroeconomics/dev/4"
+  },
+  {
+    "instruction": "Ce tipuri de forță interzice Articolul 2(4) al Cartei Națiunilor Unite?",
+    "option_a": "Articolul 2(4) cuprinde numai forța armată.",
+    "option_b": "Articolul 2(4) cuprinde toate tipurile de forță, inclusiv sancțiunile.",
+    "option_c": "Articolul 2(4) cuprinde orice interferență în afacerile interne ale statelor.",
+    "option_d": "Articolul 2(4) cuprinde forța dirijată numai împotriva integrității teritoriale a unui stat.",
+    "answer": "A",
+    "id": "international_law/dev/0"
+  },
+  {
+    "instruction": "Un nou ceas inteligent este produs într-o parte a fabricii, apoi este asigurat pentru expediere într-o altă parte independentă a fabricii. Greutatea ceasului inteligent are o medie de 62 de grame și o deviație standard de 1,0 grame. Greutatea ambalajului (cutie, ghid de utilizare, folie cu bule, etc.) are o medie de 456 de grame și o deviație standard de 6 grame. Împreună, distribuția greutății ceasului inteligent și a ambalajului său ar avea următoarele medii și deviații standard:",
+    "option_a": "Medie 518 grame; deviație standard 7.0 grame",
+    "option_b": "Medie 518 grame; deviație standard 3.5 grame",
+    "option_c": "Medie 518 grame; deviație standard 6.1 grame",
+    "option_d": "Medie 394 grame; deviație standard 6.1 grame",
+    "answer": "C",
+    "id": "high_school_statistics/dev/3"
+  },
+  {
+    "instruction": "În gestionarea problemelor, care este cea mai proactivă abordare pentru adresarea informațiilor negative sau înșelătoare postate online despre organizația dvs.?",
+    "option_a": "Cumpărați nume de domenii care ar putea fi folosite de grupurile de opoziție.",
+    "option_b": "Postați comentarii anonime pe bloguri pentru a combate aceste informații.",
+    "option_c": "Pregătiți un comunicat de presă care discreditează informațiile inexacte.",
+    "option_d": "Faceți modificări de politică pentru a aborda plângerile evidențiate pe aceste site-uri.",
+    "answer": "D",
+    "id": "public_relations/dev/1"
+  },
+  {
+    "instruction": "Înainte de convertirea creștină a lui Tolstoi, care era perspectiva sa cu privire la sensul vieții?",
+    "option_a": "optimist",
+    "option_b": "mulțumit",
+    "option_c": "nominal religios",
+    "option_d": "pesimist",
+    "answer": "D",
+    "id": "philosophy/dev/3"
+  },
+  {
+    "instruction": "Zece elevi susțin un test la biologie și obțin următoarele note: 45, 55, 50, 70, 65, 80, 40, 90, 70, 85. Care este media notelor obținute de elevi?",
+    "option_a": "55",
+    "option_b": "60",
+    "option_c": "62",
+    "option_d": "65",
+    "answer": "D",
+    "id": "high_school_mathematics/dev/4"
+  },
+  {
+    "instruction": "Cu ce scriitor sunt asociați factorii de igienă?",
+    "option_a": "Frederick Hertzberg",
+    "option_b": "D.C. McClelland",
+    "option_c": "Abraham Maslow",
+    "option_d": "Douglas McGregor",
+    "answer": "A",
+    "id": "management/dev/1"
+  },
+  {
+    "instruction": "În programul de mai jos, valoarea inițială a lui x este 5 și valoarea inițială a lui y este 10.\nDACA (x < 0)\n{\nAFISEAZA (\"Foxtrot\")\n}\nALTCEVA\n{\nDACA (x > y)\n{\n  AFISEAZA (\"Hotel\")\n}\nALTCEVA\n{\n  DACA (y > 0)\n  {\n  AFISEAZA (\"November\")\n  }\n  ALTCEVA\n  {\n  AFISEAZA (\"Yankee\")\n  }\n}\n}\n\nCe se afișează ca rezultat al rulării programului?",
+    "option_a": "Foxtrot",
+    "option_b": "Hotel",
+    "option_c": "November",
+    "option_d": "Yankee",
+    "answer": "C",
+    "id": "high_school_computer_science/dev/3"
+  },
+  {
+    "instruction": "Ar fi acceptabilă o rezervă referitoare la definiția torturii în ICCPR în practica contemporană?",
+    "option_a": "Aceasta este o rezervă acceptabilă dacă legislația țării care face rezervarea utilizează o altă definiție",
+    "option_b": "Această rezervă este inacceptabilă deoarece contravine obiectului și scopului ICCPR",
+    "option_c": "Această rezervă este inacceptabilă deoarece definiția torturii în ICCPR este consistentă cu dreptul internațional obișnuit",
+    "option_d": "Această rezervă este acceptabilă deoarece, conform dreptului internațional general, statele au dreptul de a face rezervări la tratate",
+    "answer": "B",
+    "id": "international_law/dev/2"
+  },
+  {
+    "instruction": "Un cuptor cu microunde este conectat la o priză, 120 V și consumă o curent de 2 amperi. La ce rată este utilizată energia de către cuptorul cu microunde?",
+    "option_a": "10 W",
+    "option_b": "30 W",
+    "option_c": "60 W",
+    "option_d": "240 W",
+    "answer": "D",
+    "id": "high_school_physics/dev/3"
+  },
+  {
+    "instruction": "Baron admite că versiunile ipotetice ale bombei care explodează pe care le discută sunt \"șocant de stupide\", dar afirmă că acest lucru demonstrează de fapt",
+    "option_a": "stupiditatea majorității exemplelor tradiționale de filozofie.",
+    "option_b": "o lipsă generală de inteligență printre oamenii cu grade avansate.",
+    "option_c": "greșeala torturii.",
+    "option_d": "disponibilitatea multor oameni inteligenți de a vedea tortura ca fiind cea mai bună soluție pentru a trata terorismul.",
+    "answer": "D",
+    "id": "moral_disputes/dev/4"
+  },
+  {
+    "instruction": "Care dintre următoarele este un bine intrinsec, conform lui Singer?",
+    "option_a": "a fi în clasa de sus",
+    "option_b": "abilitatea de a învăța și rezolva probleme",
+    "option_c": "a fi mai frumos decât marea majoritate a populației",
+    "option_d": "a fi mai scurt decât media",
+    "answer": "B",
+    "id": "moral_disputes/dev/2"
+  },
+  {
+    "instruction": "Câte axe are un automobil standard?",
+    "option_a": "unu",
+    "option_b": "doi",
+    "option_c": "patru",
+    "option_d": "opt",
+    "answer": "B",
+    "id": "miscellaneous/dev/0"
+  },
+  {
+    "instruction": "Glucoza este transportată în celulele musculare:",
+    "option_a": "prin transportoare de proteine numite GLUT4.",
+    "option_b": "numai în prezența insulinei.",
+    "option_c": "prin hexochinază.",
+    "option_d": "prin transportoare de acid monocarboxilic.",
+    "answer": "A",
+    "id": "college_medicine/dev/0"
+  },
+  {
+    "instruction": "3 Cl−(aq) + 4 CrO_4^2−(aq) + 23 H+(aq) → 3 HClO2(aq) + 4 Cr3+(aq) + 10 H2O(l). În reacția prezentată mai sus, Cl−(aq) se comportă ca",
+    "option_a": "un acid",
+    "option_b": "o bază",
+    "option_c": "un catalizator",
+    "option_d": "un agent reducer",
+    "answer": "D",
+    "id": "college_chemistry/dev/3"
+  },
+  {
+    "instruction": "Termenul \"deficit de buget\" se referă la",
+    "option_a": "creșterea anuală a cheltuielilor guvernului federal pentru armată",
+    "option_b": "suma dobânzilor acumulate la datoria națională",
+    "option_c": "diferența dintre propunerile inițiale de buget făcute de președinte și Congres",
+    "option_d": "suma pe care guvernul o cheltuiește în exces față de veniturile sale",
+    "answer": "D",
+    "id": "high_school_government_and_politics/dev/1"
+  },
+  {
+    "instruction": "Această întrebare se referă la informațiile de mai jos.\nFragmentele de mai jos sunt din Actele de Navigație din 1651. \"[D]upă prima zi a lunii decembrie, o mie șase sute cincizeci și unu, și de atunci înainte, nicio marfă sau bunuri, indiferent de creștere, producție sau manufactură din Asia, Africa sau America sau orice parte a acestora; sau din orice insule care aparțin lor sau care sunt descrise sau delimitate în hărțile obișnuite sau cărțile acestora, atât ale plantațiilor englezești cât și ale altora, nu vor fi importate sau aduse în această Comunitate a Angliei, sau în Irlanda, sau în orice alte țări, insule, plantații sau teritorii aparținând acestei Comunități, sau în posesia lor, în alt vas sau nave, ci numai în cele care aparțin cu adevărat și fără fraudă numai oamenilor acestei Comunități sau plantațiilor acestora, ca proprietari sau proprietarii de drept; și ale căror echipaje și marinari sunt și ei oameni ai acestei Comunități, sub pedeapsa pierderii și confiscării tuturor bunurilor care vor fi importate în mod contrar acestei legi...Nicio marfă sau bunuri de creștere, producție sau manufactură europeană sau din orice parte a acesteia, nu vor fi importate sau aduse în această Comunitate a Angliei, sau în orice alte țări sau teritorii care aparțin acestei Comunități, sau în posesia lor, în orice vas sau nave, decât cele care aparțin cu adevărat și fără fraudă numai oamenilor acestei Comunități și nici unul altul, cu excepția vaselor și navelor străine care aparțin cu adevărat și propriu a oamenilor din acea țară sau loc, din care acestea sunt creștere, producție sau manufactură. Care dintre următoarele descrie cel mai bine rezultatul Actelor de Navigație din 1651?",
+    "option_a": "Acestea au servit ca un catalizator pentru creșterea navigației engleze și a comerțului în străinătate, dar au avut puțin efect asupra perspectivelor olandeze în secolul al XVII-lea.",
+    "option_b": "Au adus dificultăți aproape imediate economiei olandeze deoarece dominația lor în comerțul în străinătate s-a încheiat rapid.",
+    "option_c": "Au fost anulate în timpul restaurării lui Stuart deoarece acesta a căutat relații diplomatice normale cu olandezii astfel încât să nu aibă nevoie de sprijinul financiar al Parlamentului pentru război.",
+    "option_d": "Au condus la aproape un secol de război recurent între Anglia și Țările de Jos, care nu s-a încheiat decât după independența americană.",
+    "answer": "A",
+    "id": "high_school_european_history/dev/3"
+  },
+  {
+    "instruction": "Grețurile matinale sunt de obicei o problemă:",
+    "option_a": "în primul trimestru",
+    "option_b": "în al doilea trimestru",
+    "option_c": "în al treilea trimestru",
+    "option_d": "pe tot parcursul sarcinii",
+    "answer": "A",
+    "id": "human_sexuality/dev/0"
+  },
+  {
+    "instruction": "Preziceți numărul de linii din spectrul EPR al unei soluții de radical metilic marcat cu 13C (13CH3•), presupunând că liniile nu se suprapun.",
+    "option_a": "4",
+    "option_b": "3",
+    "option_c": "6",
+    "option_d": "24",
+    "answer": "A",
+    "id": "college_chemistry/dev/2"
+  },
+  {
+    "instruction": "Conform lui Timothy Pauketat, dovezi privind stratificarea socială și puterea politică la Cahokia sugerează:",
+    "option_a": "un centru al civilizației Mississippian cu condiții similare cu cele ale apariției statelor timpurii.",
+    "option_b": "limitările autorității într-o societate amerindiană de vânători-culegători egalitară.",
+    "option_c": "o simplă șefie sau poate un șefiat complex evoluase până în anul 1500 d.Hr..",
+    "option_d": "un centru al civilizației Mississippian cu condiții similare cu societățile de pe Coasta de Nord-Vest a Americii de Nord.",
+    "answer": "A",
+    "id": "prehistory/dev/1"
+  },
+  {
+    "instruction": "Pentru a deveni securizată, o amenințare trebuie să fie prezentată în care dintre aceste moduri?",
+    "option_a": "Ca o amenințare existențială care necesită acțiune imediată și extraordinară, punând în pericol supraviețuirea statului sau a securității societale.",
+    "option_b": "Ca necesitând acțiune imediată și extraordinară din partea statului, amenințând supraviețuirea unui obiect de referință și, prin urmare, justificând utilizarea de măsuri nu normale în sfera politică.",
+    "option_c": "Ca o amenințare urgentă la supraviețuirea obiectului de referință, atât de grav încât legitimizează utilizarea de acțiuni extraordinare în răspuns.",
+    "option_d": "Ca o amenințare urgentă la supraviețuirea publicului care necesită măsuri extraordinare sau de urgență.",
+    "answer": "C",
+    "id": "security_studies/dev/2"
+  },
+  {
+    "instruction": "Pe lângă argumentele de afaceri pentru angajarea în CSR, există mai multe argumente morale referitoare la: externalități negative, puterea pe care o dețin corporațiile și interdependența dintre afaceri și societate.",
+    "option_a": "Externalități, Putere, Independență",
+    "option_b": "Publicitate, Resurse insuficiente, Dependență reciprocă",
+    "option_c": "Publicitate, Putere, Independență",
+    "option_d": "Externalități, Putere, Dependență reciprocă",
+    "answer": "D",
+    "id": "business_ethics/dev/0"
+  },
+  {
+    "instruction": "O femeie de 32 de ani, anterior sănătoasă, vine la medic la 8 luni după ce soțul ei a fost ucis într-un accident de mașină. Din acea vreme, ea a avut o apetență scăzută și dificultăți în a adormi. Ea spune că este adesea tristă și plânge frecvent. A verificat de cinci ori încuietoarea ușii înainte de a părăsi casa și trebuie să numere exact cinci bucăți de hârtie igienică înainte de a o folosi. Ea spune că întotdeauna a fost o perfecționistă, dar aceste impulsuri și ritualuri sunt noi. Terapia farmacologică ar trebui să vizeze următorii neurotransmițători?",
+    "option_a": "Dopamina",
+    "option_b": "Glutamatul",
+    "option_c": "Norepinefrina",
+    "option_d": "Serotonina",
+    "answer": "D",
+    "id": "professional_medicine/dev/2"
+  },
+  {
+    "instruction": "Alegeți cea mai bună traducere în logică predicativă: Nu există oameni care conduc pe Marte.",
+    "option_a": "~Pd",
+    "option_b": "(∀x)(Px ∨ ~Dx)",
+    "option_c": "(∀x)(Px ⊃ ~Dx)",
+    "option_d": "~Dp",
+    "answer": "C",
+    "id": "formal_logic/dev/0"
+  },
+  {
+    "instruction": "Cum a atacat Donald Trump globalizarea în campania din 2016?",
+    "option_a": "Globalizarea îi făcuse pe oameni ca el prea bogați",
+    "option_b": "Globalizarea a beneficiat numai anumite state americane, precum New York",
+    "option_c": "Elitele liberale au încurajat globalizarea, iar „americanii obișnuiți” au pierdut locuri de muncă din cauza acesteia",
+    "option_d": "Globalizarea a încurajat războaiele comerciale dăunătoare",
+    "answer": "C",
+    "id": "us_foreign_policy/dev/4"
+  },
+  {
+    "instruction": "Cel mai important obiectiv al unei intervenții comportamentale este:",
+    "option_a": "Schimbarea comportamentului",
+    "option_b": "Acoperirea cuprinzătoare",
+    "option_c": "Utilizarea eficientă a teoriei comportamentale",
+    "option_d": "Schimbarea comportamentului susținută",
+    "answer": "D",
+    "id": "virology/dev/3"
+  },
+  {
+    "instruction": "O conductă plină cu aer este închisă la un capăt. O undă stătătoare se produce în conductă, determinând conducta să emită un sunet. Care dintre următoarele afirmații este corectă referitor la proprietățile undei la capătul închis al conductei?",
+    "option_a": "Presiunea este în nod, dar deplasarea particulelor este în antinod.",
+    "option_b": "Presiunea este în antinod, dar deplasarea particulelor este în nod.",
+    "option_c": "Presiunea și deplasarea particulelor sunt ambele în noduri.",
+    "option_d": "Presiunea și deplasarea particulelor sunt ambele în antinoade.",
+    "answer": "B",
+    "id": "high_school_physics/dev/1"
+  },
+  {
+    "instruction": "Un factor cheie care facilitează aplicarea studiilor caz-control imbinate din MACS a fost:",
+    "option_a": "Colectarea de date",
+    "option_b": "Înființarea unui depozit de probe biologice",
+    "option_c": "Interesul participantului",
+    "option_d": "Administrarea chestionarului de către personal",
+    "answer": "B",
+    "id": "virology/dev/2"
+  },
+  {
+    "instruction": "Expansiile mari ale tripletelor pot fi detectate prin:",
+    "option_a": "reactia in lant a polimerazei.",
+    "option_b": "analiza polimorfismului de conformație cu fir simplu.",
+    "option_c": "transferul Southern.",
+    "option_d": "transferul Western.",
+    "answer": "C",
+    "id": "medical_genetics/dev/0"
+  },
+  {
+    "instruction": "Glicoliza este termenul folosit pentru calea metabolică care implică conversia:",
+    "option_a": "glicogenului în glucoză-1-fosfat.",
+    "option_b": "glicogenului sau glucozei în fructoză.",
+    "option_c": "glicogenului sau glucozei în piruvat sau lactat.",
+    "option_d": "glicogenului sau glucozei în piruvat sau acetil CoA.",
+    "answer": "C",
+    "id": "clinical_knowledge/dev/4"
+  },
+  {
+    "instruction": "Să presupunem că X și Y sunt variabile aleatoare cu E(X) = 37, var(X) = 5, E(Y) = 62 și var(Y) = 12. Care sunt valoarea așteptată și varianța variabilei aleatoare X + Y?",
+    "option_a": "E(X + Y) = 99, var(X + Y) = 8.5",
+    "option_b": "E(X + Y) = 99, var(X + Y) = 13",
+    "option_c": "E(X + Y) = 99, var(X + Y) = 17",
+    "option_d": "Nu există suficiente informații pentru a răspunde la această întrebare.",
+    "answer": "D",
+    "id": "high_school_statistics/dev/1"
+  },
+  {
+    "instruction": "În cadrul căror cadre de analiză a fost considerat terorismul (până în 2020)?",
+    "option_a": "Competiția între națiunile mai mari a condus la faptul că unele țări sprijină activ grupurile teroriste pentru a submina puterea statelor rivale. Rețelele teroriste sunt cluburi de patronaj extinse menținute și plătite de statele lor donatoare și sunt conceptualizate ca fiind ca actori de stat, care trebuie abordate utilizând forța militară.",
+    "option_b": "Globalizarea a permis internaționalizarea activităților teroriste prin deschiderea spațiului lor operațional, deși coordonarea este încă gestionată de o bază geografică. Acest lucru sugerează că grupurile teroriste sunt structurate la nivel național, ceea ce înseamnă că terorismul nu poate fi considerat în termeni de război de înfrânt militar fără a avea consecințe grave asupra populației autohtone.",
+    "option_c": "Terorismul poate fi privit ca o problemă de rezolvat prin mijloace militare (război împotriva terorismului), prin tehnici normale de poliție (terorismul ca infracțiune) sau ca o problemă medicală cu cauze și simptome subiacente (terorismul ca boală).",
+    "option_d": "Terorismul este considerat o problemă criminală. Criminalizarea terorismului are două consecințe importante. În primul rând, sugerează că terorismul poate fi eradica - teroriștii pot fi prinși și aduși în fața instanței prin proceduri judiciare normale, eliminând astfel amenințarea din societate - și în al doilea rând, sugerează că tehnicile preventive de crimă sunt aplicabile pentru a preveni dezvoltarea acestuia.",
+    "answer": "C",
+    "id": "security_studies/dev/4"
+  },
+  {
+    "instruction": "Judecătorul a luat la cunoștință anumite fapte la începutul procesului. Care dintre următoarele nu este un tip adecvat de fapt pentru luarea la cunoștință judiciară?",
+    "option_a": "Fapte indisputabile.",
+    "option_b": "Fapte afirmate de organizații politice individuale.",
+    "option_c": "Fapte recunoscute ca fiind adevărate prin cunoștințe comune.",
+    "option_d": "Fapte ce pot fi verificate științific.",
+    "answer": "B",
+    "id": "professional_law/dev/2"
+  },
+  {
+    "instruction": "Care este capacitatea craniană medie aproximativă a Homo erectus?",
+    "option_a": "sub 650 cc",
+    "option_b": "aproximativ 800 cc",
+    "option_c": "puțin sub 1000 cc",
+    "option_d": "1200 cc",
+    "answer": "C",
+    "id": "prehistory/dev/4"
+  },
+  {
+    "instruction": "Cercetările recente privind datarea speciilor de hominide din Pliocenul mijlociu indică următoarele (până în 2020):",
+    "option_a": "o mare diversitate de specii sau o singură specie care a prezentat o mulțime de diversitate.",
+    "option_b": "foarte puțină diversitate de specii în această perioadă și foarte puține hominide.",
+    "option_c": "scăderea diversității speciilor datorată unui ageism prelungit urmat de o secetă severă.",
+    "option_d": "scăderea diversității speciilor dar creșterea numărului de pietre pentru fabricarea uneltelor, ceea ce indică fabricarea de unelte din piatră.",
+    "answer": "A",
+    "id": "prehistory/dev/3"
+  },
+  {
+    "instruction": "Care este stadiul meiozei în care cromozomii se asociază și se combină:",
+    "option_a": "profază I",
+    "option_b": "metafază I",
+    "option_c": "profază II",
+    "option_d": "metafază II",
+    "answer": "A",
+    "id": "medical_genetics/dev/4"
+  },
+  {
+    "instruction": "Această întrebare se referă la următoarele informații.\nDeși Înalta Sa Majestate Regală este drept și bine în mod just și trebuie să fie capul suprem al Bisericii Angliei și astfel este recunoscut de clerul acestui regat în convocările lor, cu toate acestea, pentru a confirma și a confirma acest lucru și pentru a crește virtutea în religia lui Hristos în acest regat al Angliei și pentru a reprima și extirpa toate erorile, ereziile și alte enormități și abuzuri folosite înainte în același sens, să fie promulgată, prin autoritate a acestui Parlament prezent, că regele, suveranul nostru stăpânitor, moștenitorii și succesorii săi, regi ai acestui regat, vor fi considerați, acceptați și binecunoscuți singurul cap suprem în lumea Bisericii Angliei, numită Ecclesia Anglicans; și vor avea, anexate și unite la coroana imperială a acestui regat, atât titlul și stilul acestuia, cât și toate onorurile, dignitățile, preeminențele, jurisdicțiile, privilegiile, autoritățile, imunitățile, beneficiile și avantajele necesare pentru aceeași dignitate a capului suprem al aceleiași biserici care aparțin și țin de aceasta; și că suveranul nostru stăpânitor, moștenitorii și succesorii săi, regii acestui regat, vor avea plină putere și autoritate de la timp la timp de a vizita, reprima, remedia, înregistra, ordona, corecta, restrânge și remedia toate astfel de erori, ereziile, abuzurile, ofensele, disprețurile și enormitățile, oricare ar fi acestea, care prin autoritate sau jurisdicție spirituală ar trebui sau ar putea fi reformate, reprimate, ordonate, remediate, corectate, restrânse sau ameliorate, în cel mai mare folos al bunei îndepliniri a voinței lui Dumnezeu Atotputernic, al creșterii virtuții în religia lui Hristos și pentru conservarea păcii, unității și liniștii acestui regat; fără a se ține seama de orice obiceiuri, străinătate, autoritate străină, prescripție sau orice alt lucru contrar acestuia.\nParlamentul englez, Actul Suprematiei, 1534\nDin pasaj se poate deduce că Parlamentul englez a dorit să argumenteze că actul Suprematiei ar",
+    "option_a": "oferea regelui englez o nouă poziție de autoritate",
+    "option_b": "oferea poziția de cap al Bisericii Angliei numai lui Henric al VIII-lea și îi excludea pe moștenitorii acestuia",
+    "option_c": "stabiliza calvinismul ca singura teologie adevărată din Anglia",
+    "option_d": "încheia diverse forme de corupție care au afectat Biserica din Anglia",
+    "answer": "D",
+    "id": "high_school_european_history/dev/4"
+  },
+  {
+    "instruction": "Pleura",
+    "option_a": "nu au inervație senzorială.",
+    "option_b": "sunt separate printr-un spațiu de 2 mm.",
+    "option_c": "se extind în gât.",
+    "option_d": "sunt alcătuite din epiteliu respiratoriu.",
+    "answer": "C",
+    "id": "anatomy/dev/2"
+  },
+  {
+    "instruction": "Care este cuvântul care rezumă cel mai bine explicația lui Weber privind dezvoltarea legii formal raționale?",
+    "option_a": "Autoritate.",
+    "option_b": "Carismă.",
+    "option_c": "Cooperare.",
+    "option_d": "Capitalism.",
+    "answer": "D",
+    "id": "jurisprudence/dev/2"
+  },
+  {
+    "instruction": "În timpul celei de-a treia etape a modelului de tranziție demografică, care dintre următoarele este adevărat?",
+    "option_a": "Rata natalității crește și rata de creștere a populației este mai puțin rapidă.",
+    "option_b": "Rata natalității scade și rata de creștere a populației este mai puțin rapidă.",
+    "option_c": "Rata natalității crește și rata de creștere a populației crește.",
+    "option_d": "Rata natalității scade și rata de creștere a populației crește.",
+    "answer": "B",
+    "id": "high_school_geography/dev/1"
+  },
+  {
+    "instruction": "Care este medicamentul de primă linie pentru pacienții cu diabet tip 2 și obezitate, la ziua de azi?\n",
+    "option_a": "Acarboză",
+    "option_b": "Metformină",
+    "option_c": "Sulfoniluree",
+    "option_d": "Insulină",
+    "answer": "B",
+    "id": "nutrition/dev/4"
+  },
+  {
+    "instruction": "Pentru care dintre aceste două scenarii face personajul principal (care folosește I / me / my) ceva clar moral greșit, conform standardelor morale ordinare din SUA din 2020? Scenariul 1 | Am cerut o țigară de la tipul de lângă magazin. Scenariul 2 | Când paznicul a părăsit postul său, mi-am pus în buzunar o monedă rară.",
+    "option_a": "Greșit, Greșit",
+    "option_b": "Greșit, Nu greșit",
+    "option_c": "Nu greșit, Greșit",
+    "option_d": "Nu greșit, Nu greșit",
+    "answer": "C",
+    "id": "moral_scenarios/dev/1"
+  },
+  {
+    "instruction": "Această întrebare se referă la următoarele informații.\nNu vin să cer drepturi personale sau să caut beneficii individuale; apar ca avocat al celor care nu-și pot pleda propria cauză; vin ca prieten al celor care sunt părăsiți, opresați și pustiiți. În Providența lui Dumnezeu, sunt vocea maniacului ale cărui strigăte penetrante din închisorile voastre sumbre nu ajung în Sălile de Legislație ale voastre. Sunt speranța ființelor sărace și sălbatice care se ofilesc în celulele, grajdurile, custile și camerele de gunoi ale caselor voastre pentru săraci. Sunt dezvăluirea a sute de creaturi plângătoare și suferinde, ascunse în locuințele voastre private și în grajduri și cabane - izolate, tăiate de orice influențe vindecătoare, de grijile care restabilesc mintea.... Dacă istoriile lor melancolice ar putea fi întinse înaintea voastră așa cum au fost dezvăluite spiritului meu îndurerat în ultimele trei luni, cât de prompt, cât de sincer ați căuta cele mai aprobate mijloace de ajutorare; cât de neînsemnate, cât de nesemnificative, în comparație, ar apărea sacrificiile pe care sunteți rugați să le faceți; cât de puțini bani și câțiva dolari, strânși de la fiecare cetățean, ar diminua valoarea lor ca o posesie, în comparație cu beneficii sigure și mari care trebuie să fie realizate pentru suferința bolnavilor mintali... prin consacrarea și aplicarea unei sume suficiente pentru construirea unui spital adecvat.\n— Dorothea Dix, Memorial Soliciting a State Hospital for the Protection and Cure of the Insane,\nSubmitted to the General Assembly of North Carolina, November 1848\nCu cine poate fi cel mai bine comparată Dorothea Dix?",
+    "option_a": "Abigail Adams",
+    "option_b": "Clara Barton",
+    "option_c": "Shirley Temple",
+    "option_d": "Hillary Clinton",
+    "answer": "B",
+    "id": "high_school_us_history/dev/4"
+  },
+  {
+    "instruction": "Care dintre următoarele conțin secvențe de ADN necesare pentru segregarea cromozomilor în mitoză și meioză?",
+    "option_a": "Telomere",
+    "option_b": "Centromere",
+    "option_c": "Nucleosome",
+    "option_d": "Spliceosome",
+    "answer": "B",
+    "id": "college_biology/dev/4"
+  },
+  {
+    "instruction": "Care dintre următoarele persoane este mai probabil să rămână acasă singură, până în 2019?",
+    "option_a": "Un bărbat sau o femeie asiatică",
+    "option_b": "Un bărbat hispanic",
+    "option_c": "O femeie afro-americană",
+    "option_d": "Un bărbat sau o femeie albă",
+    "answer": "C",
+    "id": "human_aging/dev/0"
+  },
+  {
+    "instruction": "Care dintre următoarele afecțiuni nu prezintă moștenire multifactorială?",
+    "option_a": "Stenoza pilorică",
+    "option_b": "Schizofrenia",
+    "option_c": "Spina bifida (defecte de tub neural)",
+    "option_d": "Sindromul Marfan",
+    "answer": "D",
+    "id": "medical_genetics/dev/3"
+  },
+  {
+    "instruction": "Care dintre următoarele nu este o modalitate de a forma ADN recombinant?",
+    "option_a": "Traducere",
+    "option_b": "Conjugare",
+    "option_c": "Transducție specializată",
+    "option_d": "Transformare",
+    "answer": "A",
+    "id": "high_school_biology/dev/0"
+  },
+  {
+    "instruction": "Care dintre caracteristicile următoare nu reprezintă o caracteristică cheie a modelului de management «sisteme deschise»?",
+    "option_a": "Morala",
+    "option_b": "Inovația",
+    "option_c": "Resurse de creștere",
+    "option_d": "Adaptabilitatea",
+    "answer": "A",
+    "id": "management/dev/3"
+  },
+  {
+    "instruction": "Care dintre următoarele enumeră hidrurile elementelor gupului-14 în ordinea stabilității termice, de la cea mai mică la cea mai mare?",
+    "option_a": "PbH4 < SnH4 < GeH4 < SiH4 < CH4",
+    "option_b": "PbH4 < SnH4 < CH4 < GeH4 < SiH4",
+    "option_c": "CH4 < SiH4 < GeH4 < SnH4 < PbH4",
+    "option_d": "CH4 < PbH4 < GeH4 < SnH4 < SiH4",
+    "answer": "A",
+    "id": "college_chemistry/dev/4"
+  },
+  {
+    "instruction": "Care dintre următoarele este așteptat să fie o moleculă polară?",
+    "option_a": "PCl4F",
+    "option_b": "BF3",
+    "option_c": "CO2",
+    "option_d": "Si(CH3)4",
+    "answer": "A",
+    "id": "high_school_chemistry/dev/1"
+  },
+  {
+    "instruction": "Care dintre următoarele este cavitatea corporală care conține glanda pituitară?",
+    "option_a": "Abdominală",
+    "option_b": "Craniană",
+    "option_c": "Pleurală",
+    "option_d": "Spinală",
+    "answer": "B",
+    "id": "anatomy/dev/4"
+  },
+  {
+    "instruction": "Conform modelului de presiune-debit al mișcării conținutului floemului, mișcarea fotosintatului de la sursă la drenaj este determinată de",
+    "option_a": "o pompă de presiune-debit dependentă de ATP",
+    "option_b": "un gradient de potențial de presiune hidraulică",
+    "option_c": "transpirația",
+    "option_d": "difuzia apoplastica",
+    "answer": "B",
+    "id": "college_biology/dev/3"
+  },
+  {
+    "instruction": "Care dintre următoarele enunțuri reprezintă cel mai bine un argument prezentat de James Madison în Federalistul numărul 10?",
+    "option_a": "Politicienii onești pot preveni dezvoltarea factiunilor.",
+    "option_b": "Factiunile sunt mai susceptibile să apară în republici mari decât în cele mici.",
+    "option_c": "Efectele negative ale factiunilor pot fi reduse de un guvern republican.",
+    "option_d": "Alegerile libere sunt cea mai bună apărare a poporului împotriva factiunilor.",
+    "answer": "C",
+    "id": "high_school_government_and_politics/dev/4"
+  },
+  {
+    "instruction": "Muonul se dezintegrează într-un timp caracteristic de aproximativ 10^-6 secunde într-un electron, un neutrino muonic și un antineutrino de electron. Muonul este interzis să se dezintegreze într-un electron și un singur neutrino potrivit legii conservării a",
+    "option_a": "încărcăturii",
+    "option_b": "masei",
+    "option_c": "energiei și impulsului",
+    "option_d": "numărului de leptoni",
+    "answer": "D",
+    "id": "college_physics/dev/4"
+  },
+  {
+    "instruction": "Într-un SR latch construit din porti NOR, care condiție nu este permisă",
+    "option_a": "S=0, R=0",
+    "option_b": "S=0, R=1",
+    "option_c": "S=1, R=0",
+    "option_d": "S=1, R=1",
+    "answer": "D",
+    "id": "electrical_engineering/dev/0"
+  },
+  {
+    "instruction": "Într-o mașină de curent continuu cu înfășurare lap și 2 poli, rezistența unui conductor este de 2Ω și numărul total de conductori este 100. Găsiți rezistența totală.",
+    "option_a": "200Ω",
+    "option_b": "100Ω",
+    "option_c": "50Ω",
+    "option_d": "10Ω",
+    "answer": "C",
+    "id": "electrical_engineering/dev/1"
+  },
+  {
+    "instruction": "Enunț 1 | Fiecare element al unui grup generează un subgrup ciclic al grupului. Enunț 2 | Grupul simetric S_10 are 10 elemente.",
+    "option_a": "Adevărat, Adevărat",
+    "option_b": "Fals, Fals",
+    "option_c": "Adevărat, Fals",
+    "option_d": "Fals, Adevărat",
+    "answer": "C",
+    "id": "abstract_algebra/dev/2"
+  },
+  {
+    "instruction": "Cel mai comun tulburare printre bărbații care caută terapie sexuală este:",
+    "option_a": "ejaculare precoce",
+    "option_b": "ejaculare inhibată",
+    "option_c": "disfuncție erectilă",
+    "option_d": "tulburare ejaculatorie",
+    "answer": "C",
+    "id": "human_sexuality/dev/4"
+  },
+  {
+    "instruction": "Un bărbat de 36 de ani se prezintă la cabinetul medical cu o istorie de 3 săptămâni de dureri lombare. Neagă orice traumă recentă, dar spune că urcă și coboară din camionul lui de nenumărate ori pe zi pentru job-ul său. Examinarea pacientului în poziția înclinată în față dezvăluie un sulcus sacral profund la stânga, un unghi posteroinferior lateral la dreapta și o articulație lombosacrală care se comprimă liber. Cel mai probabil diagnostic este",
+    "option_a": "torsionare stângă-pe-stânga a sacralului",
+    "option_b": "torsionare stânga-pe-dreapta a sacralului",
+    "option_c": "flexie unilaterală dreaptă a sacralului",
+    "option_d": "torsionare dreaptă-pe-dreapta a sacralului",
+    "answer": "D",
+    "id": "professional_medicine/dev/1"
+  },
+  {
+    "instruction": "În care dinastie a fost dezvoltat \"Mandatul Cerului\" pentru a legitima noii conducători?",
+    "option_a": "Shang",
+    "option_b": "Zhou",
+    "option_c": "Han",
+    "option_d": "Xia",
+    "answer": "B",
+    "id": "world_religions/dev/2"
+  },
+  {
+    "instruction": "Culorile dintr-o bulă de săpun rezultă din lumina",
+    "option_a": "convertită la o frecvență diferită",
+    "option_b": "deflexie",
+    "option_c": "interferență",
+    "option_d": "polarizare",
+    "answer": "C",
+    "id": "conceptual_physics/dev/2"
+  },
+  {
+    "instruction": "Un ovul fecundat este cunoscut și sub numele de",
+    "option_a": "o zigotă.",
+    "option_b": "un embrion.",
+    "option_c": "o viabilitate.",
+    "option_d": "un blastocist.",
+    "answer": "A",
+    "id": "moral_disputes/dev/1"
+  },
+  {
+    "instruction": "La ce etapă din procesul de planificare ar fi realizată o analiză a situației?",
+    "option_a": "Definirea programului",
+    "option_b": "Planificarea programului",
+    "option_c": "Luarea măsurilor și implementarea ideilor",
+    "option_d": "Evaluarea programului",
+    "answer": "A",
+    "id": "public_relations/dev/3"
+  },
+  {
+    "instruction": "Care este diferența dintre un cateter masculin și unul feminin?",
+    "option_a": "Cateterele masculine și feminine au culori diferite.",
+    "option_b": "Cateterele masculine sunt mai lungi decât cele feminine.",
+    "option_c": "Cateterele masculine sunt mai mari decât cele feminine.",
+    "option_d": "Cateterele feminine sunt mai lungi decât cele masculine.",
+    "answer": "B",
+    "id": "clinical_knowledge/dev/1"
+  },
+  {
+    "instruction": "_______ este încercarea directă de a gestiona formal sau informal problemele sau chestiunile etice prin politici, practici și programe specifice.",
+    "option_a": "Responsabilitatea socială a întreprinderii",
+    "option_b": "Managementul eticii în afaceri",
+    "option_c": "Durabilitate",
+    "option_d": "Managementul mediului",
+    "answer": "B",
+    "id": "business_ethics/dev/1"
+  },
+  {
+    "instruction": "Care dintre următoarele afirmații despre iod sunt corecte, în anul 2020?\n",
+    "option_a": "50% dintre adulți consumă iod în cantități sub RNI",
+    "option_b": "Produsele lactate sunt o sursă slabă de iod",
+    "option_c": "Conținutul de iod din laptele organic este în general mai mic decât nivelul din laptele non-organic",
+    "option_d": "Valorile de referință dietetice din UK recomandă o creștere a aportului de iod în timpul sarcinii",
+    "answer": "C",
+    "id": "nutrition/dev/3"
+  },
+  {
+    "instruction": "Un bărbat de 44 de ani vine la cabinet cu o istorie de 3 zile de durere în gât, tuse neproductivă, secreție nazală și dureri de cap frontale. Spune că durerea de cap este mai rea dimineața și ibuprofenul îi oferă ușurare. Nu a avut lipsa de aer. Istoricul medical nu prezintă semne relevante. Nu ia nicio medicamentație decât ibuprofen pentru durere. Semne vitale: temperatura 37,4°C (99,4°F), puls 88/min, respirații 18/min și tensiune arterială 120/84 mm Hg. Examinarea nărilor arată membrane mucoase eritematoase. Examinarea gâtului arată eritem și hiperplazie limfoidă foliculară la nivelul orofaringelui posterior. Nu există adenopatie cervicală palpabilă. Plămânii sunt clari la auscultație. Care dintre următoarele este cauza cea mai probabilă a simptomelor pacientului?",
+    "option_a": "Rinită alergică",
+    "option_b": "Virusul Epstein-Barr",
+    "option_c": "Pneumonia cu micoplasme",
+    "option_d": "Rhinovirus",
+    "answer": "D",
+    "id": "professional_medicine/dev/3"
+  },
+  {
+    "instruction": "Un profesor de științe din liceu umple o sticlă de 1 litru cu azot pur și închide capacul. Presiunea este de 1,70 atm, iar temperatura camerei este de 25°C. Care două variabile vor crește ambele presiunea sistemului, dacă celelalte variabile sunt constante?",
+    "option_a": "Creșterea temperaturii, creșterea moleculelor de gaz",
+    "option_b": "Creșterea temperaturii, creșterea volumului",
+    "option_c": "Scăderea volumului, scăderea temperaturii",
+    "option_d": "Scăderea moleculelor de gaz, creșterea volumului",
+    "answer": "A",
+    "id": "college_medicine/dev/3"
+  },
+  {
+    "instruction": "Revizuiești articole pentru Conferința Mondială de Învățare Automată cea mai sofisticată, iar tu vezi propuneri care afirmă următoarele lucruri. Pe care le-ai considera acceptabile?",
+    "option_a": "Metoda mea obține o eroare de antrenare mai mică decât toate metodele anterioare!",
+    "option_b": "Metoda mea obține o eroare de testare mai mică decât toate metodele anterioare! (Notă de subsol: Când parametrul de regularizare λ este ales astfel încât să se minimizeze eroarea de testare.)",
+    "option_c": "Metoda mea obține o eroare de testare mai mică decât toate metodele anterioare! (Notă de subsol: Când parametrul de regularizare λ este ales astfel încât să se minimizeze eroarea de crossvalidare.)",
+    "option_d": "Metoda mea obține o eroare de crossvalidare mai mică decât toate metodele anterioare! (Notă de subsol: Când parametrul de regularizare λ este ales astfel încât să se minimizeze eroarea de crossvalidare.)",
+    "answer": "C",
+    "id": "machine_learning/dev/2"
+  },
+  {
+    "instruction": "Un telescop refractiv constă în două lentile convergente separate de 100 cm. Lentila oculară are o distanță focală de 20 cm. Mărirea unghiulară a telescopului este",
+    "option_a": "4",
+    "option_b": "5",
+    "option_c": "6",
+    "option_d": "20",
+    "answer": "A",
+    "id": "college_physics/dev/3"
+  },
+  {
+    "instruction": "Conform Legii privind îmbunătățirea educației pentru persoanele cu dizabilități, care dintre următoarele trebuie realizat de o agenție educațională înainte de a schimba locul de educație al unui elev cu dizabilități?",
+    "option_a": "Să ofere elevului un interval de încercare în noua dezvoltare",
+    "option_b": "Să notifice părinții în scris",
+    "option_c": "Să obțină aprobarea consiliului școlar",
+    "option_d": "Să obțină consimțământul părintesc",
+    "answer": "B",
+    "id": "high_school_psychology/dev/3"
+  },
+  {
+    "instruction": "Curba lui Phillips pe termen scurt indică o",
+    "option_a": "relație directă între șomaj și inflație",
+    "option_b": "relație directă între preț și cantitatea cerută",
+    "option_c": "relație inversă între preț și cantitatea cerută",
+    "option_d": "relație inversă între șomaj și inflație",
+    "answer": "D",
+    "id": "high_school_macroeconomics/dev/1"
+  },
+  {
+    "instruction": "SHA-1 are un rezumat al mesajului de",
+    "option_a": "160 de biți",
+    "option_b": "512 biți",
+    "option_c": "628 de biți",
+    "option_d": "820 de biți",
+    "answer": "A",
+    "id": "computer_security/dev/0"
+  },
+  {
+    "instruction": "Ce se produce în timpul fotosintezei?",
+    "option_a": "hidrogen",
+    "option_b": "nylon",
+    "option_c": "oxigen",
+    "option_d": "lumină",
+    "answer": "C",
+    "id": "miscellaneous/dev/3"
+  },
+  {
+    "instruction": "O mutație într-o enzimă bacteriană a schimbat un aminoacid polar anterior într-un aminoacid nepolar. Acest aminoacid se afla într-un sit distanță de situl activ al enzimei. Cum ar putea această mutație să modifice specificitatea substratului enzimei?",
+    "option_a": "Schimbând pH-ul optim al enzimei",
+    "option_b": "Schimbând locația enzimei în celulă",
+    "option_c": "Schimbând forma proteinei",
+    "option_d": "O modificare a unui aminoacid departe de situl activ nu poate modifica specificitatea substratului enzimei.",
+    "answer": "C",
+    "id": "high_school_biology/dev/1"
+  },
+  {
+    "instruction": "Care dintre următoarele afirmații este corectă (conform cunoștințelor din 2020)?\n",
+    "option_a": "Consumatorii cu fenilcetonurie trebuie să evite consumul îndulcitorului aspartam",
+    "option_b": "Consumatorii cu fenilcetonurie trebuie să evite consumul îndulcitorului sacarină",
+    "option_c": "Consumatorii cu fenilcetonurie trebuie să evite consumul îndulcitorului sucraloză",
+    "option_d": "Consumatorii cu fenilcetonurie trebuie să evite consumul îndulcitorului acesulfam K",
+    "answer": "A",
+    "id": "nutrition/dev/1"
+  },
+  {
+    "instruction": "Care este ieșirea pentru „abc” [:: -1] în Python 3?",
+    "option_a": "Eroare",
+    "option_b": "abc",
+    "option_c": "cba",
+    "option_d": "c",
+    "answer": "C",
+    "id": "high_school_computer_science/dev/2"
+  },
+  {
+    "instruction": "În construirea unei ecuații de regresie multiplă în scopul prezicerii, combinația optimă de măsurători este una în care predictorii",
+    "option_a": "nu sunt corelați între ei, dar sunt moderat corelați cu criteriul",
+    "option_b": "au corelații scăzute între ei și corelații scăzute cu criteriul",
+    "option_c": "sunt puternic intercorelați între ei și moderat corelați cu criteriul",
+    "option_d": "au corelații scăzute cu criteriul, dar sunt moderat corelați între ei",
+    "answer": "A",
+    "id": "professional_psychology/dev/4"
+  },
+  {
+    "instruction": "Potrivit lui Metz, ce este greșit în argumentele consecințialiste împotriva pedepsei cu moartea bazate pe valorile africane?",
+    "option_a": "Nu este clar încă dacă pedeapsa cu moartea previne răul în comunitate.",
+    "option_b": "Nu este clar încă dacă pedeapsa cu moartea previne răul în cazul indivizilor.",
+    "option_c": "Consecințialismul nu este susținut de valorile africane.",
+    "option_d": "Chiar și dacă consecințialismul este susținut de valorile africane, nu au fost oferite argumente consecințialiste formulate în termeni de valori africane.",
+    "answer": "A",
+    "id": "moral_disputes/dev/0"
+  },
+  {
+    "instruction": "Care este originea embriologică a osului hioid?",
+    "option_a": "Primul arc branhial",
+    "option_b": "Primul și al doilea arc branhial",
+    "option_c": "Al doilea arc branhial",
+    "option_d": "Al doilea și al treilea arc branhial",
+    "answer": "D",
+    "id": "anatomy/dev/0"
+  },
+  {
+    "instruction": "Un efect secundar așteptat al suplimentării cu creatină este:",
+    "option_a": "slăbiciune musculară.",
+    "option_b": "creștere în masa corporală.",
+    "option_c": "înțepături musculare.",
+    "option_d": "pierderea de electroliți.",
+    "answer": "B",
+    "id": "college_medicine/dev/4"
+  },
+  {
+    "instruction": "Afirmația 1| Orice funcție dintr-un set finit în el însuși trebuie să fie una la unu. Afirmația 2| Orice subgrup al unui grup abelian este abelian.",
+    "option_a": "Adevărat, Adevărat",
+    "option_b": "Fals, Fals",
+    "option_c": "Adevărat, Fals",
+    "option_d": "Fals, Adevărat",
+    "answer": "A",
+    "id": "abstract_algebra/dev/3"
+  },
+  {
+    "instruction": "Să V fie mulțimea tuturor polinoamelor reale p (x). Să fie definite transformările T, S pe V prin T: p (x) -> xp (x) și S: p (x) -> p '(x) = d / dx p (x), și să se interpreteze (ST) (p (x)) ca S (T (p (x)))). Care dintre următoarele propoziții este adevărată?",
+    "option_a": "ST = 0",
+    "option_b": "ST = T",
+    "option_c": "ST = TS",
+    "option_d": "ST - TS este o hartă de identitate a lui V pe el însuși.",
+    "answer": "D",
+    "id": "college_mathematics/dev/0"
+  },
+  {
+    "instruction": "Potrivit modelului de consultare a cazurilor Centrate pe Consultant al lui Caplan, consultantul este interesat în primul rând de",
+    "option_a": "identificarea cauzelor și soluțiilor problemelor prezentate de client",
+    "option_b": "identificarea și eliminarea cauzelor dificultăților consultatului în tratarea unei probleme",
+    "option_c": "stabilirea unei ierarhii a autorității pentru a permite luarea deciziilor eficiente",
+    "option_d": "prezentarea unei singure acțiuni bine definite și lipsite de ambiguitate pentru consultant pentru a depăși deficitele de abilități",
+    "answer": "B",
+    "id": "high_school_psychology/dev/1"
+  },
+  {
+    "instruction": "Pence compară șase cazuri diferite de reproducere, de la gemenizare naturală la SCNT. Ce concluzie trage el din această comparație?",
+    "option_a": "SCNT nu este un tip diferit de reproducere pentru că nu există diferențe moralmente relevante între aceasta și alte mijloace permisibile de reproducere.",
+    "option_b": "Datorită riscului scăzut de vătămare în cazul gemenizării naturale, va fi un risc scăzut de vătămare pentru SCNT.",
+    "option_c": "atât A cât și B",
+    "option_d": "nici A, nici B",
+    "answer": "A",
+    "id": "moral_disputes/dev/3"
+  },
+  {
+    "instruction": "În data de 1 ianuarie, anul 1, Alpha Co. a semnat un acord anual de mentenanță cu un furnizor de software în valoare de 15.000 de dolari și perioada de mentenanță începe la 1 martie, anul 2. Alpha a suportat, de asemenea, costuri în valoare de 5.000 de dolari la 1 ianuarie, anul 1, în legătură cu solicitări de modificare a software-ului care vor crește funcționalitatea acestuia. Alpha depreciază și amortizează activele sale de calculatoare și software în decurs de cinci ani, utilizând metoda liniară. Care este suma cheltuielilor totale pe care Alpha trebuie să o recunoască în legătură cu acordul de mentenanță și modificările de software pentru anul încheiat la 31 decembrie, anul 1?",
+    "option_a": "5.000 de dolari",
+    "option_b": "13.500 de dolari",
+    "option_c": "16.000 de dolari",
+    "option_d": "20.000 de dolari",
+    "answer": "B",
+    "id": "professional_accounting/dev/3"
+  },
+  {
+    "instruction": "Trecerea de la 'religia civilă' la 'religia comună' înseamnă că:",
+    "option_a": "creșterea birocrației de stat a făcut ca religia să fie doar o parte marginală a vieților noastre",
+    "option_b": "în ciuda slăbirii autorității tradiționale, viața noastră de zi cu zi și 'bunul-simț' rămân modelate de credințele și valorile religioase",
+    "option_c": "participarea religioasă la rugăciunea colectivă poate fi scăzută, dar oamenii își practică în continuare credințele religioase în privat",
+    "option_d": "oamenii sunt mult mai predispuși să discute despre credințele lor religioase în locuri publice și informale",
+    "answer": "B",
+    "id": "sociology/dev/2"
+  },
+  {
+    "instruction": "Care dintre urmatoarele cazuri a stabilit precedentul potrivit caruia un inculpat trebuie sa fie informat cu privire la dreptul de a ramane in tacere, dreptul la un avocat si protectie impotriva autoincriminarii?",
+    "option_a": "Weeks v. Statele Unite",
+    "option_b": "Betts v. Brady",
+    "option_c": "Mapp v. Ohio",
+    "option_d": "Miranda v. Arizona",
+    "answer": "D",
+    "id": "high_school_government_and_politics/dev/2"
+  },
+  {
+    "instruction": "Presupunem că f(1 + x) = f(x) pentru orice număr real x. Dacă f este un polinom și f(5) = 11, atunci f(15/2)",
+    "option_a": "-11",
+    "option_b": "0",
+    "option_c": "11",
+    "option_d": "33/2",
+    "answer": "C",
+    "id": "college_mathematics/dev/3"
+  },
+  {
+    "instruction": "Potrivit lui d'Holbach, oamenii acționează întotdeauna conform _____.",
+    "option_a": "alegerilor libere",
+    "option_b": "dictatelor sufletului",
+    "option_c": "legilor naturale necesare",
+    "option_d": "voinței nedeterminate",
+    "answer": "C",
+    "id": "philosophy/dev/2"
+  },
+  {
+    "instruction": "_________ este un rezultat natural atunci când se combină variabilele demografice și geografice.",
+    "option_a": "Geodemografie",
+    "option_b": "Diferențierea produselor.",
+    "option_c": "Matricea ANSOFF.",
+    "option_d": "Managementul brandului.",
+    "answer": "A",
+    "id": "marketing/dev/0"
+  },
+  {
+    "instruction": "Care dintre afirmațiile de mai jos este corectă despre corelație?",
+    "option_a": "Dacă panta liniei de regresie este exact 1, atunci corelația este exact 1.",
+    "option_b": "Dacă corelația este 0, atunci panta liniei de regresie este nedefinită.",
+    "option_c": "Inversarea variabilei x și a celei y schimbă semnul corelației.",
+    "option_d": "Corelația r este egală cu panta liniei de regresie atunci când scorurile z pentru variabila y sunt reprezentate grafic în funcție de scorurile z pentru variabila x.",
+    "answer": "D",
+    "id": "high_school_statistics/dev/0"
+  },
+  {
+    "instruction": "Când poate 'consimțământul' să servească drept circumstanță care înlătură ilegalitatea unei acțiuni de stat?",
+    "option_a": "Consimțământul poate servi drept circumstanță care înlătură ilegalitatea oricând este acordat",
+    "option_b": "Consimțământul nu poate niciodată să servească drept circumstanță care înlătură ilegalitatea",
+    "option_c": "Consimțământul poate servi drept circumstanță care înlătură ilegalitatea, dacă este valid și în măsura în care acțiunea rămâne în limitele consimțământului acordat",
+    "option_d": "Consimțământul poate să servească întotdeauna drept circumstanță care înlătură ilegalitatea, indiferent care organ al statului îl acordă",
+    "answer": "C",
+    "id": "international_law/dev/3"
+  },
+  {
+    "instruction": "Ce descrie Berger (1963) ca o metaforă pentru realitatea socială?",
+    "option_a": "o atracție de la un târg",
+    "option_b": "un circ",
+    "option_c": "un teatru de păpuși",
+    "option_d": "un balet",
+    "answer": "C",
+    "id": "sociology/dev/1"
+  },
+  {
+    "instruction": "Care dintre următoarele reprezintă o afirmație precisă referitoare la artropode?",
+    "option_a": "Ele dețin un exoschelet compus în principal din peptidoglican.",
+    "option_b": "Ele dețin un sistem circulator deschis cu inima dorsală.",
+    "option_c": "Ele sunt membri ai unui filum biologic nereușit incapabil să exploateze habitate și surse de nutriție diverse.",
+    "option_d": "Ele lipsesc de apendice împerecheate și articulate.",
+    "answer": "B",
+    "id": "college_biology/dev/0"
+  },
+  {
+    "instruction": "De ce nu există un planetă acolo unde se află centura de asteroizi?",
+    "option_a": "O planetă s-a format odată aici, dar a fost distrusă în urma unei coliziuni catastrofale.",
+    "option_b": "Nu a fost suficient material în această parte a nebuloasei solare pentru a forma o planetă.",
+    "option_c": "A fost prea mult material stâncos pentru a forma o planetă terestră, dar nu a fost suficient material gazos pentru a forma o planetă joviană.",
+    "option_d": "Rezonanța cu Jupiter a împiedicat ca materialul să se adune pentru a forma o planetă.",
+    "answer": "D",
+    "id": "astronomy/dev/3"
+  },
+  {
+    "instruction": "Ce este hacking-ul etic?",
+    "option_a": "\"Hacking\" etic pentru a justifica comportamente egoiste neintentionate",
+    "option_b": "Hacking al sistemelor (de exemplu, in timpul testarii de penetrare) pentru a expune vulnerabilitatile astfel incat acestea sa poate fi reparare, in loc de a fi exploatate",
+    "option_c": "Hacking in sistemele celor cu etica cu care nu esti de acord",
+    "option_d": "Un termen de argou pentru dezvoltarea rapida de software, de exemplu, ca parte a hackathoanelor",
+    "answer": "B",
+    "id": "computer_security/dev/2"
+  },
+  {
+    "instruction": "În celulele animale, care dintre următoarele reprezintă cea mai probabilă cale pe care o ia o proteină secretorie pe măsură ce este sintetizată într-o celulă?",
+    "option_a": "Membrana plasmatică–aparatul Golgi–ribosom–veziculă secretorie–RE rugos",
+    "option_b": "Ribosom–aparatul Golgi–RE rugos–veziculă secretorie–membrana plasmatică",
+    "option_c": "Membrana plasmatică–aparatul Golgi–ribosom–veziculă secretorie–RE rugos",
+    "option_d": "Ribosom–RE rugos–aparatul Golgi–veziculă secretorie–membrana plasmatică",
+    "answer": "D",
+    "id": "high_school_biology/dev/2"
+  },
+  {
+    "instruction": "O mostră de HgO de 0,217 g (masa moleculară = 217 g) reacționează cu excesul de ioni de iodură conform reacției prezentate mai sus. Câte mL de HCl 0,10 M sunt necesare pentru a atinge punctul de echivalență în titrarea soluției rezultate?",
+    "option_a": "1,0 mL",
+    "option_b": "10 mL",
+    "option_c": "20 mL",
+    "option_d": "50 mL",
+    "answer": "C",
+    "id": "college_chemistry/dev/1"
+  },
+  {
+    "instruction": "Care dintre următoarele afirmații NU este corectă în ceea ce privește serviciile oferite de guvernele locale din Statele Unite?",
+    "option_a": "Se produce adesea duplicare de eforturi.",
+    "option_b": "Problemele sociale ale orașelor centrale se extind în suburbiile rezidențiale înconjurătoare.",
+    "option_c": "Ineficiența în furnizarea serviciilor apare adesea.",
+    "option_d": "Eforturile unui cartier de a reduce poluarea sunt întotdeauna susținute de comunitățile vecine.",
+    "answer": "D",
+    "id": "high_school_geography/dev/2"
+  },
+  {
+    "instruction": "O listă de numere are n elemente, indexate de la 1 la n. Algoritmul următor are ca scop afișarea numărului de elemente din listă care au o valoare mai mare decât 100. Algoritmul folosește variabilele 'count' și 'position'. Pașii 3 și 4 lipsesc.\n Pașul 1: Setează 'count' la 0 și 'position' la 1.\n Pașul 2: Dacă valoarea elementului de la indexul 'position' este mai mare decât 100, crește valoarea lui 'count' cu 1.\n Pașul 3: (pas lipsă)\n Pașul 4: (pas lipsă)\n Pașul 5: Afișează valoarea lui 'count'.\n Care dintre următoarele opțiuni poate fi folosită pentru a înlocui pașii 3 și 4 astfel încât algoritmul să funcționeze cum trebuie?",
+    "option_a": "Pașul 3: Crește valoarea lui 'position' cu 1.\n Pașul 4: Repetă pașii 2 și 3 până când valoarea lui 'count' este mai mare decât 100.",
+    "option_b": "Pașul 3: Crește valoarea lui 'position' cu 1.\n Pașul 4: Repetă pașii 2 și 3 până când valoarea lui 'position' este mai mare decât n.",
+    "option_c": "Pașul 3: Repetă pașul 2 până când valoarea lui 'count' este mai mare decât 100.\n Pașul 4: Crește valoarea lui 'position' cu 1.",
+    "option_d": "Pașul 3: Repetă pașul 2 până când valoarea lui 'position' este mai mare decât n.\n Pașul 4: Crește valoarea lui 'count' cu 1.",
+    "answer": "D",
+    "id": "high_school_computer_science/dev/4"
+  },
+  {
+    "instruction": "Care dintre următoarele este o caracteristică morfologică a paramyxovirușilor?",
+    "option_a": "Virusuri fragile, adesea vizualizate cu ARN care iese dinăuntru",
+    "option_b": "Virusuri alungite",
+    "option_c": "Virusuri icosaedrice cu înveliș",
+    "option_d": "Virusuri foarte mari",
+    "answer": "A",
+    "id": "virology/dev/1"
+  },
+  {
+    "instruction": "Carl Jung credea că transferul clientului:",
+    "option_a": "este o fantezie care îl distrage pe client de la realitate.",
+    "option_b": "reprezintă sentimente \"amestecate\" față de terapeut. ",
+    "option_c": "\"este o formă de \"\"acting out.\"\"\"",
+    "option_d": "reflectă inconștientul personal și colectiv al clientului.",
+    "answer": "D",
+    "id": "professional_psychology/dev/3"
+  },
+  {
+    "instruction": "___________ este orice lucru pe care motorul tău de căutare nu îl poate căuta.",
+    "option_a": "Web bântuit",
+    "option_b": "World Wide Web",
+    "option_c": "Web suprafata",
+    "option_d": "Web profund",
+    "answer": "D",
+    "id": "computer_security/dev/4"
+  },
+  {
+    "instruction": "Care dintre următoarele expresii regulare este echivalentă cu (descrie același set de șiruri ca și) (a* + b)*(c + d)?",
+    "option_a": "a*(c + d)+ b(c + d)",
+    "option_b": "a*(c + d)* + b(c + d)*",
+    "option_c": "a*(c + d)+ b*(c + d)",
+    "option_d": "(a + b)*c +(a + b)*d",
+    "answer": "D",
+    "id": "college_computer_science/dev/0"
+  },
+  {
+    "instruction": "Care este elementul din fumul de tutun responsabil pentru cancer?",
+    "option_a": "Nicotina",
+    "option_b": "Gudronul",
+    "option_c": "Monoxidul de carbon",
+    "option_d": "Particulele de fum",
+    "answer": "B",
+    "id": "human_aging/dev/3"
+  },
+  {
+    "instruction": "O celulă foto cu funcția de lucru ϕ = 2eV este conectată în serie cu o rezistență. Lumina de frecvență f = 1 × 10^15 Hz lovește o placă de metal a celulei foto. Dacă puterea luminii este P = 100 W, care este curentul prin rezistență?",
+    "option_a": "2:00 AM",
+    "option_b": "6:00 AM",
+    "option_c": "12:00 AM",
+    "option_d": "24 A",
+    "answer": "D",
+    "id": "high_school_physics/dev/2"
+  },
+  {
+    "instruction": "Un pol punctiform are o putere de 4π * 10^-4 weberi. Forța în newtoni asupra unui pol punctiform de 4π * 1.5 * 10^-4 weberi, plasat la o distanță de 10 cm față de el, va fi",
+    "option_a": "15 N.",
+    "option_b": "20 N.",
+    "option_c": "7.5 N.",
+    "option_d": "3.75 N.",
+    "answer": "A",
+    "id": "electrical_engineering/dev/4"
+  },
+  {
+    "instruction": "De ce parvovirusurile reprezintă un parazit cu un impact mare?",
+    "option_a": "Deoarece nu au acid nucleic",
+    "option_b": "Ele necesită un virus ajutător",
+    "option_c": "Se replică doar în celulele care se divid",
+    "option_d": "Pot fi integrate în cromozomii gazdă",
+    "answer": "A",
+    "id": "virology/dev/0"
+  },
+  {
+    "instruction": "Populația orașului în care s-a născut Michelle este de 145.826. Care este valoarea cifrei 5 din numărul 145.826?",
+    "option_a": "5 mii",
+    "option_b": "5 sute",
+    "option_c": "5 zeci",
+    "option_d": "5 unități",
+    "answer": "A",
+    "id": "elementary_mathematics/dev/0"
+  },
+  {
+    "instruction": "Cum poate fi exprimat consimțământul unui Stat de a fi obligat?",
+    "option_a": "Consimțământul unui Stat de a fi obligat este exprimat numai prin ratificare.",
+    "option_b": "Consimțământul unui stat de a fi obligat prin tratat poate fi exprimat prin semnare, ratificare, acceptare, aprobare sau aderare.",
+    "option_c": "Consimțământul unui Stat de a fi obligat este exprimat prin semnare.",
+    "option_d": "Consimțământul unui Stat de a fi obligat este exprimat prin orice mijloc pe care îl aleg.",
+    "answer": "B",
+    "id": "international_law/dev/4"
+  },
+  {
+    "instruction": "Olivia a folosit regulile \"Adăugare 11\" pentru a crea modelul de numere prezentat mai jos. 10, 21, 32, 43, 54 Care dintre următoarele afirmații despre modelul de numere este adevărată?",
+    "option_a": "Al zecelea număr din model va fi un număr par.",
+    "option_b": "Modelul de numere nu va avea niciodată două numere pare unul lângă celălalt.",
+    "option_c": "Următoarele două numere din model vor fi un număr par și apoi un număr impar.",
+    "option_d": "Dacă modelul de numere ar începe cu un număr impar, atunci modelul ar avea doar numere impare în el.",
+    "answer": "B",
+    "id": "elementary_mathematics/dev/1"
+  },
+  {
+    "instruction": "Această întrebare se referă la următoarele informații.\n\"Deoarece acțiunile noastre recente de la Conestoga Manor și Lancaster au adus multă speculație și o mare diversitate de opinii în acest guvern și în cele învecinate; unii vindicând și alții condamnând, unii alleviind caritabil crima și alții pictând malitios în cele mai odioase și detestabile culori, considerăm că este datoria noastră să aducem înaintea publicului întreaga problemă așa cum a apărut și încă apare pentru noi. . . .\n\"Dacă acestea nu sunt suficiente pentru a dovedi un atașament nejustificat al Quakerilor față de Indienii Sălbatici, o hotărâre fermă de a fi prietenii lor și o insensibilitate totală la suferințele umane, să ne gândim la câteva Fapte mai recente. Când am descoperit vara trecută că nu vom primi nicio asistență din partea guvernului, unii voluntari au ieșit pe cheltuiala noastră proprie, hotărâți să alunge inamicii de pe granițele noastre; și când am ajuns aproape de Marea Insulă, am aflat că un număr dintre războinicii lor au plecat împotriva frontierelor noastre. Pe această bază ne-am întors și am luptat cu ei la Munfey Hill, unde am pierdut unii dintre oamenii noștri și am omorât unii dintre războinicii lor și astfel am salvat frontierele noastre de această poveste într-o altă expediție. Dar abia ce am distrus proviziile lor de pe Marea Insulă și am ruinat comerțul lor cu oamenii buni de la Bethlehem, acești indieni, care erau justificat suspectați de a fi ucis prietenii noștri din comitatul Northampton, au fost prin influența unor Quakeri luați sub protecția Guvernului pentru a-i proteja de Părerea urâtă a Prietenilor și a Înruditorilor Celor Uciși și a-i susține prin Iarnă.\"\n—\"Apology of the Paxton Boys\" (pamflet), 1764 (Notă: \"apology\" în acest context trebuie citit ca o explicare, nu ca o admitere a vinovăției sau a regretului.)\nSentimentele exprimate în explicația de mai sus reflectă care din tensiunile în curs de desfășurare în perioada colonială a istoriei americane?",
+    "option_a": "Tensiunile dintre politicile britanice și aspirațiile coloniștilor nord-americani.",
+    "option_b": "Tensiuni între indienii americani aliați cu francezii și cei aliați cu britanicii.",
+    "option_c": "Tensiuni între africani americani eliberați și plantatorii albi.",
+    "option_d": "Tensiuni între coloniștii din zonele rurale și elită în cadrul Americii coloniale.",
+    "answer": "D",
+    "id": "high_school_us_history/dev/1"
+  },
+  {
+    "instruction": "Care este expresia echivalentă cu 5 x 9?",
+    "option_a": "(5 x 4) x (6 x 5)",
+    "option_b": "(5 x 5) + (5 x 4)",
+    "option_c": "(5 x 5) + (5 x 9)",
+    "option_d": "(5 x 9) x (6 x 9)",
+    "answer": "B",
+    "id": "elementary_mathematics/dev/4"
+  },
+  {
+    "instruction": "Incertitudinea privind limitele puterii prezidențiale este provocată în principal de faptul că",
+    "option_a": "definiția constituțională a acestor puteri este largă și nespecifică",
+    "option_b": "majoritatea oamenilor sunt de acord că Constituția impune prea multe limite puterii prezidențiale",
+    "option_c": "Curtea Supremă refuză în mod constant să se pronunțe asupra cazurilor referitoare la puterile prezidențiale",
+    "option_d": "amendamentele constituționale au mărit foarte mult puterile prezidențiale",
+    "answer": "A",
+    "id": "high_school_government_and_politics/dev/0"
+  },
+  {
+    "instruction": "Care dintre următoarele nu este o problemă asociată cu statisticile oficiale privind acțiunile de grevă?",
+    "option_a": "majoritatea grevelor trec neobservate de angajatori și mass-media",
+    "option_b": "nu toate disputele industriale vor fi raportate de angajator",
+    "option_c": "definiția grevelor exclude cele care implică mai puțin de zece lucrători sau durează mai puțin de o zi",
+    "option_d": "este greu să comparăm grevele care au fost măsurate în moduri diferite",
+    "answer": "A",
+    "id": "sociology/dev/4"
+  },
+  {
+    "instruction": "O femeie care ştie că suferă de herpes activ şi sifilis netratat, dar continuă să facă sex fără să îşi informeze partenerii despre condiţia ei, are, în termeni psihoanalitici:",
+    "option_a": "un ego puternic",
+    "option_b": "un superego slab",
+    "option_c": "un id slab",
+    "option_d": "un superego puternic",
+    "answer": "B",
+    "id": "human_sexuality/dev/1"
+  },
+  {
+    "instruction": "Care dintre următoarele afirmații despre departamentele de cabinet este FALSĂ?",
+    "option_a": "Ele sunt stabilite de către ramura legislativă.",
+    "option_b": "Membrii lor adesea nu au o influență mare asupra deciziilor prezidențiale.",
+    "option_c": "Ele nu pot fi conduse de lideri care aparțin aceluiași partid politic ca președintele.",
+    "option_d": "Nu fiecare agenție federală este un departament de cabinet.",
+    "answer": "C",
+    "id": "high_school_government_and_politics/dev/3"
+  },
+  {
+    "instruction": "Selectați cea mai bună interpretare în limba engleză a argumentelor date în logica predicat.\nDm\n(∀x)(Wx ⊃ ~Dx)\n(∀x)Wx ∨ Ag\t/ (∃x)Ax",
+    "option_a": "Marina este o dansatoare. Unii slabi nu sunt dansatori. Fie totul sunt slabi, fie Georgia joacă volei. Deci ceva joacă volei.",
+    "option_b": "Marina este o dansatoare. Niciun slab nu este dansator. Toate lucrurile sunt fie slabe, fie joacă volei. Deci ceva joacă volei.",
+    "option_c": "Marina este o dansatoare. Unii slabi nu sunt dansatori. Toate lucrurile sunt fie slabe, fie joacă volei. Deci ceva joacă volei.",
+    "option_d": "Marina este o dansatoare. Niciun slab nu este dansator. Fie toate lucrurile sunt slabe, fie Georgia joacă volei. Deci ceva joacă volei.",
+    "answer": "D",
+    "id": "formal_logic/dev/2"
+  },
+  {
+    "instruction": "Bobina unui ampermetru cu bobină mobilă are 100 de spire, are o lungime de 40 de mm și o lățime de 30 de mm. Cuplul de control este de 240 * 10-6 N-m la scară completă. Dacă densitatea fluxului magnetic este de 1Wb/m2, intervalul de măsurare al ampermetrului este",
+    "option_a": "1 mA.",
+    "option_b": "2 mA.",
+    "option_c": "3 mA.",
+    "option_d": "4 mA.",
+    "answer": "B",
+    "id": "electrical_engineering/dev/2"
+  },
+  {
+    "instruction": "O anumită mașină RISC pipelined are 8 registre generale R0, R1, . . . , R7 și suportă următoarele operații.\nADD Rs1, Rs2, Rd Adună Rs1 cu Rs2 și pune suma în Rd\nMUL Rs1, Rs2, Rd Înmulțește Rs1 cu Rs2 și pune produsul în Rd\nDe obicei, o operație durează un ciclu; totuși, o operație durează două cicluri dacă produce un rezultat cerut de operația imediat următoare dintr-o secvență de operații. Luați în considerare expresia AB + ABC + BC, unde variabilele A, B, C sunt plasate în registrele R0, R1, R2. Dacă conținutul acestor trei registre nu trebuie modificat, care este numărul minim de cicluri de ceas necesar pentru o secvență de operații care calculează valoarea AB + ABC + BC?",
+    "option_a": "5",
+    "option_b": "6",
+    "option_c": "7",
+    "option_d": "8",
+    "answer": "B",
+    "id": "college_computer_science/dev/1"
+  },
+  {
+    "instruction": "De ce este Marte roșu?",
+    "option_a": "Pentru că suprafața este acoperită cu minerale puternic oxidate (\"ruginite\").",
+    "option_b": "Pentru că atmosfera dispersează mai multă lumină la lungimile de undă albastre, transmițând în principal lumină roșie.",
+    "option_c": "Pentru că Marte este acoperită de fluxuri de lavă antice care sunt de culoare roșie.",
+    "option_d": "Pentru că apa curgătoare de pe suprafața lui Marte a modificat mineralele de suprafață acum câteva miliarde de ani.",
+    "answer": "A",
+    "id": "astronomy/dev/4"
+  },
+  {
+    "instruction": "Ce ar trebui să facă un profesionist media în relații publice dacă nu știe răspunsul la o întrebare de la un reporter?",
+    "option_a": "Oferă reporterului alte informații pe care este sigur că sunt corecte.",
+    "option_b": "Spune că informația este 'off the record' și va fi diseminată mai târziu.",
+    "option_c": "Spuneți „Nu știu” și promiteți să furnizați informații mai târziu.",
+    "option_d": "Spuneți „fără comentarii”, în loc să apăreați neinformat sau nepriceput.",
+    "answer": "C",
+    "id": "public_relations/dev/0"
+  },
+  {
+    "instruction": "Design pattern-ul Singleton este utilizat pentru a garanta că poate fi creată doar o singură instanță a unei clase. Care dintre următoarele afirmații sunt adevărate cu privire la acest design pattern?\nI. Clasa Singleton are o metodă de fabrică statică pentru a furniza instanța sa.\nII. Clasa Singleton poate fi o clasă derivată din alta clasă.\nIII. Clasa Singleton are un constructor privat.",
+    "option_a": "Doar I",
+    "option_b": "Doar II",
+    "option_c": "Doar III",
+    "option_d": "I, II și III",
+    "answer": "D",
+    "id": "college_computer_science/dev/2"
+  },
+  {
+    "instruction": "Care este diferența dintre realismul defensiv și realismul ofensiv în explicația comportamentului statului?",
+    "option_a": "Realismul defensiv acordă o mai mare importanță rolului instituțiilor internaționale",
+    "option_b": "Realismul defensiv acordă o mai mică importanță factorilor geografici",
+    "option_c": "Realismul ofensiv acordă o mai mare prioritate interesului național decât realismul defensiv.",
+    "option_d": "Realismul defensiv crede că statele sunt maximizatoare a securității, în timp ce realismul ofensiv crede că statele sunt maximizatoare a puterii.",
+    "answer": "D",
+    "id": "us_foreign_policy/dev/3"
+  },
+  {
+    "instruction": "Un auditor urmărește numerele de serie de pe echipament pentru a ajunge la o subregistru a unei entitati. Care dintre urmatoarele afirmații de management este susținută de acest test?",
+    "option_a": "Evaluare și alocare",
+    "option_b": "Completență",
+    "option_c": "Drepturi și obligații",
+    "option_d": "Prezentare și dezvăluire",
+    "answer": "B",
+    "id": "professional_accounting/dev/4"
+  },
+  {
+    "instruction": "Spuneți că elevul ochiului dumneavoastră are un diametru de 5 mm și aveți un telescop cu o diafragmă de 50 cm. Cât mai multă lumină poate colecta telescopul decât ochiul tău?",
+    "option_a": "De 10000 de ori mai mult",
+    "option_b": "De 100 de ori mai mult",
+    "option_c": "De 1000 de ori mai mult",
+    "option_d": "De 10 ori mai mult",
+    "answer": "A",
+    "id": "astronomy/dev/2"
+  },
+  {
+    "instruction": "Structurile omoloage sunt adesea citate ca fiind dovezi ale procesului de selecție naturală. Toate cele următoarele sunt exemple de structuri omoloage CU EXCEPȚIA:",
+    "option_a": "aripile unui păsări și ale unui liliac",
+    "option_b": "labele unei balene și brațele unui om",
+    "option_c": "înotătoarele pectorale ale unui porpoise și aripile unei foci",
+    "option_d": "membrele anterioare ale unui insect și membrele anterioare ale unui câine",
+    "answer": "D",
+    "id": "high_school_biology/dev/4"
+  },
+  {
+    "instruction": "Care dintre următoarele perechi de afirmații sunt ambele adevărate (în anul 2019)?",
+    "option_a": "Oamenii tind să fie optimiști cu privire la propriul lor viitor și la viitorul națiunii sau al lumii.",
+    "option_b": "Oamenii tind să fie optimiști cu privire la propriul lor viitor, dar pesimiști cu privire la viitorul națiunii sau al lumii.",
+    "option_c": "Oamenii tind să fie pesimiști cu privire la propriul lor viitor, dar optimiști cu privire la viitorul națiunii sau al lumii.",
+    "option_d": "Oamenii tind să fie pesimiști cu privire la propriul lor viitor și la viitorul națiunii sau al lumii.",
+    "answer": "B",
+    "id": "global_facts/dev/0"
+  },
+  {
+    "instruction": "Inițial, un rezervor conține o soluție sărată de 3 grame de sare dizolvată în 100 litri de apă. O soluție sărată care conține 0,02 grame de sare pe litru de apă este pulverizată în rezervor la o rată de 4 litri pe minut. Soluția pulverizată este amestecată continuu cu soluția de sare din rezervor, iar amestecul curge din rezervor la o rată de 4 litri pe minut. Dacă amestecarea este instantanee, câte grame de sare se află în rezervor, după ce au trecut 100 de minute?",
+    "option_a": "2",
+    "option_b": "2 - e^-2",
+    "option_c": "2 + e^-2",
+    "option_d": "2 + e^-4",
+    "answer": "D",
+    "id": "college_mathematics/dev/1"
+  },
+  {
+    "instruction": "Unul dintre clienții tăi de terapie te întreabă sfatul cu privire la un program bun de reducere în greutate. Ai investigat programele din comunitate și ești înscris în cel pe care-l consideri cel mai bun. Acest program oferă un bonus de 50 de dolari clienților săi pentru fiecare persoană nouă pe care o aduc în program. În aceste condiții, răspunsul cel mai potrivit ar fi să",
+    "option_a": "le spui clienților tăi avantajele și dezavantajele fiecărui program despre care știi, cu excepția celui în care ești înscris",
+    "option_b": "recomanzi clienților tăi programul în care ești înscris și le explici bonusul de 50 de dolari pe care îl vei primi",
+    "option_c": "recomanzi clienților tăi programul în care ești înscris și le oferi să le creditezi bonusul de 50 de dolari în contul lor din program",
+    "option_d": "le spui clienților tăi avantajele și dezavantajele fiecărui program despre care știi, dar nu revendici bonusul de 50 de dolari dacă clienții tăi se înscriu în programul tău",
+    "answer": "D",
+    "id": "professional_psychology/dev/0"
+  },
+  {
+    "instruction": "Care dintre următoarele este adevărat despre un nivel minim al prețurilor?",
+    "option_a": "Nivelul minim de prețuri mută curba cererii spre stânga.",
+    "option_b": "Un nivel minim eficient creează o penurie a bunurilor.",
+    "option_c": "Nivelul minim de prețuri mută curba ofertei de bunuri spre dreapta.",
+    "option_d": "Pentru a fi eficient, nivelul minim de prețuri trebuie să fie stabilit deasupra prețului de echilibru.",
+    "answer": "D",
+    "id": "high_school_microeconomics/dev/3"
+  },
+  {
+    "instruction": "Care dintre formulele date PL este cea mai bună simbolizare a următoarei propoziții?\nȚestoasele trăiesc mult și sunt creaturi fericite, cu excepția cazului în care sunt rănite.",
+    "option_a": "(L • H) ≡ I",
+    "option_b": "(L • H) ∨ I",
+    "option_c": "L • (H ∨ I)",
+    "option_d": "L • (H ⊃ R)",
+    "answer": "B",
+    "id": "formal_logic/dev/4"
+  },
+  {
+    "instruction": "Studiul realității în cel mai larg sens, o investigație asupra naturii elementare a universului și a lucrurilor din el, este cunoscut sub numele de _____.",
+    "option_a": "metafizică",
+    "option_b": "epistemologie",
+    "option_c": "fizica cuantică",
+    "option_d": "axiologie",
+    "answer": "A",
+    "id": "philosophy/dev/4"
+  },
+  {
+    "instruction": "Școala de jurisprudență ________ postulează că legea se bazează pe ceea ce este \"corect\".",
+    "option_a": "Legea Naturală",
+    "option_b": "Analitică",
+    "option_c": "Istorică",
+    "option_d": "Sociologică",
+    "answer": "A",
+    "id": "jurisprudence/dev/3"
+  },
+  {
+    "instruction": "Începând cu anul 2019, cam ce procent dintre ruși consideră că este foarte important să avem media liberă în țara noastră, fără cenzură guvernamentală/statală?",
+    "option_a": "38%",
+    "option_b": "53%",
+    "option_c": "68%",
+    "option_d": "83%",
+    "answer": "A",
+    "id": "global_facts/dev/3"
+  },
+  {
+    "instruction": "Într-o organizație, grupul de oameni însărcinați cu deciziile de cumpărare este denumit _______________.",
+    "option_a": "Unitatea de outsourcing.",
+    "option_b": "Centrul de achiziții.",
+    "option_c": "Unitatea de conducere executivă.",
+    "option_d": "Unitatea de luare a deciziilor.",
+    "answer": "D",
+    "id": "marketing/dev/1"
+  },
+  {
+    "instruction": "Care ar fi consecințele pentru estimatorul OLS dacă heteroscedasticitatea este prezentă într-un model de regresie, dar este ignorată?",
+    "option_a": "Va fi tendențios",
+    "option_b": "Va fi inconsistent",
+    "option_c": "Va fi ineficient",
+    "option_d": "Toate cele de mai sus (a), (b) și (c) vor fi adevărate.",
+    "answer": "C",
+    "id": "econometrics/dev/3"
+  },
+  {
+    "instruction": "Care este semnul legământului pentru bărbații evrei?",
+    "option_a": "Curcubeul",
+    "option_b": "Circumcizia",
+    "option_c": "Un fiu",
+    "option_d": "Bar mitzvah",
+    "answer": "B",
+    "id": "world_religions/dev/0"
+  },
+  {
+    "instruction": "Dacă cineva atacă caracterul unui adversar în loc să răspundă argumentelor acestuia, atunci probabil prima persoană a comis următoarea eroare de gândire?",
+    "option_a": "tu quoque",
+    "option_b": "horse laugh",
+    "option_c": "argumentul ad hominem",
+    "option_d": "ignoratio elenchi",
+    "answer": "C",
+    "id": "logical_fallacies/dev/0"
+  },
+  {
+    "instruction": "Construiți o tabelă completă de adevăr pentru următoarele perechi de propoziții. Apoi, folosind tabelele de adevăr, determinați dacă enunțurile sunt echivalente logic sau contradictorii. Dacă nu, determinați dacă sunt consistente sau inconsistente. Justificați-vă răspunsurile. E ⊃ (F · E) și ~E · F",
+    "option_a": "Echivalente logic",
+    "option_b": "Contradictorii",
+    "option_c": "Nici echivalente logic, nici contradictorii, dar consistente",
+    "option_d": "Inconsistente",
+    "answer": "C",
+    "id": "formal_logic/dev/3"
+  },
+  {
+    "instruction": "Care dintre următoarele nu se știe că este implicat în controlul diviziunii celulare?",
+    "option_a": "Ciclina",
+    "option_b": "Protein kinazele",
+    "option_c": "Punctele de control",
+    "option_d": "Celulele fibroblastice",
+    "answer": "D",
+    "id": "high_school_biology/dev/3"
+  },
+  {
+    "instruction": "Fie A o matrice reală 2x2. Care dintre următoarele afirmații trebuie să fie adevărată? I. Toate elementele lui A^2 sunt pozitive sau nule. II. Determinantul lui A^2 este pozitiv sau nul. III. Dacă A are două valori proprii distincte, atunci A^2 are două valori proprii distincte.",
+    "option_a": "Doar I",
+    "option_b": "Doar II",
+    "option_c": "Doar III",
+    "option_d": "Doar II și III",
+    "answer": "B",
+    "id": "college_mathematics/dev/2"
+  },
+  {
+    "instruction": "Împingi un camion pe un drum. Ar fi mai ușor să accelerezi acest camion pe Marte? De ce? (Presupuneți că nu există frecare)",
+    "option_a": "Ar fi mai dificil deoarece camionul este mai greu pe Marte.",
+    "option_b": "Ar fi mai ușor deoarece camionul este mai ușor pe Marte.",
+    "option_c": "Ar fi mai dificil deoarece camionul este mai ușor pe Marte.",
+    "option_d": "Ar fi la fel, indiferent unde te afli.",
+    "answer": "D",
+    "id": "astronomy/dev/0"
+  },
+  {
+    "instruction": "Ce poziție susține Rawls că este cel mai puțin probabil să fie adoptată de POP (persoanele în poziția originală)?",
+    "option_a": "POP ar alege egalitatea deasupra libertății.",
+    "option_b": "POP ar opta pentru strategia „maximin”.",
+    "option_c": "POP ar opta pentru principiul „diferenței”.",
+    "option_d": "POP ar respinge „sistemul de libertate naturală”.",
+    "answer": "A",
+    "id": "jurisprudence/dev/0"
+  },
+  {
+    "instruction": "Pentru un proces autorregresiv stationar, șocurile vor",
+    "option_a": "Dispare treptat",
+    "option_b": "Persista indefinit",
+    "option_c": "Crește exponențial",
+    "option_d": "Nu se vor întâmpla niciodată",
+    "answer": "A",
+    "id": "econometrics/dev/0"
+  },
+  {
+    "instruction": "Un deficit federal apară atunci când",
+    "option_a": "exporturile depășesc importurile.",
+    "option_b": "importurile depășesc exporturile.",
+    "option_c": "colectările fiscale federale depășesc cheltuielile.",
+    "option_d": "cheltuielile federale depășesc veniturile fiscale federale.",
+    "answer": "D",
+    "id": "high_school_macroeconomics/dev/2"
+  },
+  {
+    "instruction": "Cum pot fi descrise structurile organizaționale caracterizate de stiluri democratice și incluzive de management?",
+    "option_a": "Ierarhică",
+    "option_b": "Birocratică",
+    "option_c": "Plată",
+    "option_d": "Funcțională",
+    "answer": "C",
+    "id": "management/dev/4"
+  },
+  {
+    "instruction": "Această întrebare se referă la următoarele informații.\nUrmătorul extras este dintr-un pliant. \nVei face bine să îți amintești că, eu am susținut întotdeauna cu tărie dreptul fiecărui om de a-și exprima opinia sa în mod liber, indiferent cât ar fi diferită aceasta de a mea. Cel care îi negă acest drept altcuiva, devine sclavul propriei opinii actuale, deoarece își negă dreptul de a o schimba. Arma cea mai formidabilă împotriva erorilor de orice fel este rațiunea. Eu nu am folosit niciodată altceva și sper că nici nu o voi face. \nCircumstanța care s-a petrecut acum în Franța, și anume abolirea completă a întregii ordini naționale a preoției, a tot ceea ce ține de sisteme religioase compulsive și de articole de credință, nu numai că a precipitat intenția mea, dar a și făcut ca o astfel de lucrare să fie extrem de necesară, astfel încât în haosul general al superstiției, a sistemelor false de guvernare și a teologiei false, să nu pierdem din vedere moralitatea, umanitatea și teologia care este adevărată. Eu cred într-un Dumnezeu și nu mai mult; și sper la fericire dincolo de această viață. Eu cred în egalitatea oamenilor; și cred că îndatoririle religioase constau în a face dreptate, a iubi mila și a încerca să facem fericiți semenii noștri. Nu cred în credo-ul mărturisit de biserica evreiască, de biserica catolică, de biserica greacă, de biserica turcă, de biserica protestantă, sau de orice altă biserică pe care o cunosc. Propria mea minte este propria mea biserică. Toate instituțiile naționale ale bisericilor, fie ele evreiești, creștine sau turcești, mi se par a nu fi altceva decât invenții umane, ridicate pentru a teroriza și a sclaviza oamenii și pentru a monopoliza puterea și profitul. Nu intenționez prin această declarație să condamn pe cei care cred altfel; ei au același drept la propria credință ca și mine.\n- Thomas Paine, Epoca rațiunii, 1794-1795\nCare dintre următorii filozofi ai Iluminismului a proiectat un sistem de separație a puterilor în stat pentru a evita abuzurile de putere?",
+    "option_a": "Jean Jacques Rousseau",
+    "option_b": "Baron Montesquieu",
+    "option_c": "Mary Wollstonecraft",
+    "option_d": "Adam Smith",
+    "answer": "B",
+    "id": "high_school_european_history/dev/0"
+  },
+  {
+    "instruction": "Într-un test genetic al unui nou-născut, este depistată o afecțiune genetică rară, care are o transmitere recesivă legată de cromozomul X. Care dintre următoarele afirmații este probabil adevărată în legătură cu arborele genealogic al acestei afecțiuni?",
+    "option_a": "Toți descendenții din partea maternă vor avea afecțiunea.",
+    "option_b": "Femeile vor fi aproximativ dublu de afectate decât bărbații în această familie.",
+    "option_c": "Toate fiicele unui bărbat afectat vor fi afectate.",
+    "option_d": "Va exista o distribuție egală a bărbaților și femeilor afectate.",
+    "answer": "C",
+    "id": "college_medicine/dev/2"
+  },
+  {
+    "instruction": "Câte încercări ar trebui să faceți pentru a canaliza un pacient înainte de a trece sarcina la un coleg senior, conform cunoștințelor medicale din 2020?",
+    "option_a": "4",
+    "option_b": "3",
+    "option_c": "2",
+    "option_d": "1",
+    "answer": "C",
+    "id": "clinical_knowledge/dev/3"
+  },
+  {
+    "instruction": "Pentru care dintre aceste două scenarii face personajul principal (care folosește eu/mine/al meu) ceva clar imoral, conform normelor morale obișnuite în SUA în 2020? Scenariul 1 | Îmi plăcea foarte mult băiețelul meu nou-născut. Scenariul 2 | Noua fată este jenată să locuiască într-un parc de rulote, așa că îi invit pe colegi la casa ei.",
+    "option_a": "Greșit, greșit",
+    "option_b": "Greșit, nu greșit",
+    "option_c": "Nu greșit, greșit",
+    "option_d": "Nu greșit, nu greșit",
+    "answer": "C",
+    "id": "moral_scenarios/dev/0"
+  },
+  {
+    "instruction": "Ce distinge diplomația coercitivă de forța militară?",
+    "option_a": "Compelarea este un alt termen pentru diplomația coercitivă, dar acoperă un set mai restrâns de criterii; compelarea acoperă acele amenințări care vizează inițierea acțiunii adversarului. O amenințare de a colecta un stat să renunțe la o parte din teritoriul său ar fi considerată diplomație coercitivă, atât timp cât acea amenințare inițiază acțiunea înainte de a fi întreprinsă o diplomație reactivă.",
+    "option_b": "Diplomația coercitivă presupune amenințarea cu forța limitată pentru a induce motivația adversarului de a se conforma cu cererile coercerului. Este o strategie de influență care urmărește să obțină conformitatea: utilizarea forței pentru a învinge mai întâi un adversar nu s-ar încadra aici. Ea lasă un element de alegere cu ținta de a se conforma sau a continua.",
+    "option_c": "Forța militară sau amenințarea forței militare utilizează frica pentru a obține obiectivele strategice. Diplomația coercitivă se diferențiază de această abordare, deoarece nu folosește frica ca instrument pentru a forța un adversar.",
+    "option_d": "Diplomația coercitivă este utilizată pentru a utiliza forța, dar pentru a limita efectele sale asupra comunității internaționale. Diplomația coercitivă este o strategie agresivă care urmărește să obțină conformitatea prin înfrângere. Ea nu lasă un element de alegere cu ținta, aceasta fiind forțată fie să se conformeze, fie să se angajeze în conflict. Ea urmărește să controleze prin impunerea conformității prin eliminarea oricărei oportunități de negociere sau concesiune.",
+    "answer": "B",
+    "id": "security_studies/dev/0"
+  },
+  {
+    "instruction": "Falacia de întrebare complexă constă în",
+    "option_a": "argumentarea faptului că ceva este inferior doar pentru că nu face ceva pentru care nu a fost conceput.",
+    "option_b": "includerea a mai mult de o afirmație în propoziție și tratarea unei dovezi pentru o afirmație ca dovadă pentru toate afirmațiile.",
+    "option_c": "tragerea unei concluzii înainte de a examina probele și considerarea doar a probelor care susțin acea concluzie.",
+    "option_d": "punerea unei întrebări care include fie o presupunere nejustificată, fie mai mult de o întrebare, făcând răspunsul simplu da sau nu lipsit de sens.",
+    "answer": "D",
+    "id": "logical_fallacies/dev/1"
+  },
+  {
+    "instruction": "Care este cea mai bună modalitate de a descrie relația între abordarea centrată pe stat și conceptul de securitate umană?",
+    "option_a": "Există o diviziune atât de mare în cadrul framework-ului de securitate umană referitor la natura amenințărilor și a obiectelor referitoare la care nu se pot face comparații larg aplicabile între abordări centrate pe stat și securitatea umană.",
+    "option_b": "Adoptând framework-ul de securitate umană, limitările abordării centrate pe stat realist devin evidente. În timp ce securitatea umană definește obiectul referențial ca fiind persoana sau populația, abordările centrate pe stat prioritizesc securitatea statului, diminuând urmărirea securității umane.",
+    "option_c": "Abordarea centrată pe stat în ceea ce privește securitatea face parte din securitatea umană, fiind de obicei definită în cadrul școlii largi a securității umane. Prin fiind centrată pe stat această abordare prioritizaează individul ca obiect referitor în studiile de securitate.",
+    "option_d": "Atât abordările centrate pe stat, cât și cele centrate pe om în ceea ce privește securitatea sunt reciproc exclusiv și oferă un cadru analitic suficient cu care să înțelegem sistemul internațional de securitate. Prin urmare, rolul analiștilor de securitate este de a determina care dintre aceste concepte substanțiale este corect și care ar trebui abandonat.",
+    "answer": "B",
+    "id": "security_studies/dev/3"
+  },
+  {
+    "instruction": "La un parc vor juca baschet un total de 30 de jucători. Vor fi exact 5 jucători în fiecare echipă. Care dintre afirmații explică corect cum să găsești numărul de echipe necesare?",
+    "option_a": "Adaugă 5 la 30 pentru a găsi 35 de echipe.",
+    "option_b": "Împarte 30 la 5 pentru a găsi 6 echipe.",
+    "option_c": "Înmulțește 30 și 5 pentru a găsi 150 de echipe.",
+    "option_d": "Scade 5 din 30 pentru a găsi 25 de echipe.",
+    "answer": "B",
+    "id": "elementary_mathematics/dev/2"
+  },
+  {
+    "instruction": "Care dintre următoarele este un exemplu de utilizare a unui dispozitiv din Internet of Things (IoT)?",
+    "option_a": "O mașină avertizează șoferul că este pe cale să lovească un obiect.",
+    "option_b": "Un drumeț folosește un ceas GPS pentru a-și urmări poziția.",
+    "option_c": "Un frigider comandă lapte de la un serviciu de livrare online când laptele din frigider este aproape terminat.",
+    "option_d": "Un alergător folosește un ceas cu senzori optici pentru a-și monitoriza pulsul.",
+    "answer": "C",
+    "id": "high_school_computer_science/dev/0"
+  },
+  {
+    "instruction": "Tradițional, atunci când avem o atribută de intrare cu valori reale în învățarea prin arbori de decizie, considerăm o despărțire binară conform faptului dacă atributul este mai mare sau mai mic decât un anumit prag. Pat sugerează că în schimb ar trebui să avem o despărțire multiplă cu o ramură pentru fiecare dintre valorile distincte ale atributului. Din lista de mai jos, alegeți cea mai mare problemă cu sugestia lui Pat:",
+    "option_a": "Este prea costisitoare din punct de vedere computational.",
+    "option_b": "Probabil ar duce la un arbore de decizie care obține o scorare slabă pe setul de antrenament și pe un set de testare.",
+    "option_c": "Probabil ar duce la un arbore de decizie care obține o scorare bună pe setul de antrenament dar slabă pe un set de testare.",
+    "option_d": "Probabil ar duce la un arbore de decizie care obține o scorare bună pe un set de testare dar slabă pe setul de antrenament.",
+    "answer": "C",
+    "id": "machine_learning/dev/4"
+  }
+]

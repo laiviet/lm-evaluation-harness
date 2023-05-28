@@ -1,0 +1,2423 @@
+[
+  {
+    "instruction": "Hurrengo AR(1) ereduarekin kontuan hartu, non arazoak media zero eta unitate bariantea izan duen\n\nyt = 0.2 + 0.4 yt-1 + ut\n\ny-ren (kondenatugabeko) media hau izango da",
+    "option_a": "0.2",
+    "option_b": "0.4",
+    "option_c": "0.5",
+    "option_d": "0.33",
+    "answer": "D",
+    "id": "econometrics/dev/1"
+  },
+  {
+    "instruction": "42 urteko gizona etorri da aurrekoekin biruska edukioneko adrenalektomia egiteko. Duela hilabete bat, eraso batean derechoko aldeko min egon zitzaion eta tenperatura lausotuari jarraipena emateko ospitalean joan zen. Han, presio arterialea 160/100 mm Hg izan zen eta abdomeneko TACek adrenalina ezkerrerako masa 10 cm zehaztuan eman zuen. Hemograma, elektrolitoen konzentrazio seroharrak eta hepatikoen funtzio-ereduak erreferentzia-tarteetan sailkatu ziren laborategi emaitzekin. Pazienteak osasuntsuan zegoen eta inon esan ez zioten presio arterialea altua egon dela. Ez du inolako farmako hartzen. Bi astean atzerazerako bisitak normetanephrine eta metanephrine urinan handituak eta aldosterone plasma konzentrazioak eman zituen. Pazientea kirurgora bidali zuten eta adrenalektomia gomendatu zioten. Gaur, hurrengo parametroak izan dire: tenperatura 36.6ºC (97.9ºF), pulsoa 100/min, arnasa 14/min eta presio arterialea 170/95 mm Hg. Froga-fisikoa ez du frogarik aurkitzen. Preoperatibo batezbestekoz tratatzekoa da?",
+    "option_a": "Labetalol",
+    "option_b": "Kalium klorido karga dosia",
+    "option_c": "Nifedipina",
+    "option_d": "Phenoxybenzamine",
+    "answer": "D",
+    "id": "professional_medicine/dev/0"
+  },
+  {
+    "instruction": "Mooren “norbait erabilera ideala” arabera, ekintza zuzena hurrengo guztietariko gehien bat ekarriko duena da:",
+    "option_a": "plazer.",
+    "option_b": "felicidadea.",
+    "option_c": "ondorio ona.",
+    "option_d": "bertutea.",
+    "answer": "C",
+    "id": "philosophy/dev/1"
+  },
+  {
+    "instruction": "Zein da hurrengoaren artean EZ dagoen gai Estatu Batuetako GDP-ren barruan?",
+    "option_a": "Estatu Batuetako militarrek oinarrizko eremuan baza berri bat zabaltzen dute eta bertan 1000 militar daude.",
+    "option_b": "Japoniako kontsumitzaileek Estatu Batuetan produkzitutako milaka CD erosten dituzte.",
+    "option_c": "Ameriketako pop abeslari bat Parisen emanaldi sold-out bat eskaintzen du.",
+    "option_d": "Frantziako antzerki produkzio bat askotariko hiri amerikartan zehar ibiltzen da.",
+    "answer": "C",
+    "id": "high_school_macroeconomics/dev/0"
+  },
+  {
+    "instruction": "Zein deklarazio hau da egia Vatikan goiz-2010ean haur bizi-abusuaren estaltzeko akusazioak egitean?",
+    "option_a": "Ekintza koordinatu bat zegoen hedabideetan.",
+    "option_b": "Adierazpen konstanteak komunikatu ziren.",
+    "option_c": "Kritikak Atzerritako Katoliko Elizaren erasotzaile izan ziren.",
+    "option_d": "Vatikanaren kredibilitatea defendatu zen.",
+    "answer": "C",
+    "id": "public_relations/dev/2"
+  },
+  {
+    "instruction": "Gutxi gorabeherako estatistika proba batek, p-balioa 0,08 duenez, hurrengo adierazpenetako zein egia da?\n\n(i) Prueba-azalpenean tamaina zuzena 8% balioa baldin bada, adierazpen nulua onartu edo baztertzeko bezala izango gara berean\n\n(ii) Adierazpen-nulua baztertzear da 10%tamaina izan balitu bada proba-azalpena\n\n(iii) Adierazpen-nulla ez da baztertu 1%tamaina izan balitu bada proba-azalpena\n\n(iv) Adierazpen-nulla baztertu egingo litzateke 5%tamaina izan balitu bada proba-azalpena.",
+    "option_a": "(Erantzuna ii) eta (iv) soilik",
+    "option_b": "(Erantzuna i) eta (iii) soilik",
+    "option_c": "(Erantzuna i), (ii), eta (iii) soilik",
+    "option_d": "(Erantzuna i), (ii), (iii), eta (iv)",
+    "answer": "C",
+    "id": "econometrics/dev/2"
+  },
+  {
+    "instruction": "Argudioaren kontrako lehendapen baten ondorioz, argudioan aritzeko gaitasuna falta diola egindako fotografia baten ondorioz edo maiztasun baten ondorioz, argudiozaina fallazia egin dezake",
+    "option_a": "kirolkeria txarra",
+    "option_b": "maitasun-apelazioa",
+    "option_c": "pertsona-kontrako argudioa",
+    "option_d": "ezjakintasuna erantzuna emateko",
+    "answer": "D",
+    "id": "logical_fallacies/dev/4"
+  },
+  {
+    "instruction": "Galdera hau hurrengo informazioari buruzkoa da. \n\"Langileen kaltetze errealena beren bizi-segurtasunaren kaltetzea da; ez da ziurtasuna dauka beti lanean izango duela, ez da seguru beti osasuntsua izango dela, eta uste du egun bat ezin izango dela langile erosi-gabe eta lan egitekora ezin izango dela jarrizkotzat jotzen da. Bat-batean pobrezian sartzen bada, baita bizitza luzeakiko gaixotasun larrien bidez, erabilia daiteke ezinbestekotzat hartugabe dagoela, bere mugarik ezabaturen, eta gizarteak ez du oraindik inolaz ere agirako ahalmenik adierazten, pobreen laguntzaz gain, baita zorionez lanean izan duenean ere, leialki eta zorionekin. Hala ere, pobreen laguntza anitza egiten du luzera hirietan, batez ere estatuan behin-behineko bizi-nalka baino askoz lapurtuta dagoen tokietan\".\nOtto von Bismarck, 1884\n Otto von Bismarck likely made this speech in reaction to which of the following issues?",
+    "option_a": "Lan-umeen onarpen soziala",
+    "option_b": "Bizi-jaiotzea jaitsita Alemanian",
+    "option_c": "Alemaniako merkataritze-tarifen kritikak",
+    "option_d": "Industria kapitalismoren ondorio negatiboak",
+    "answer": "D",
+    "id": "high_school_world_history/dev/2"
+  },
+  {
+    "instruction": "Zein gobernu japoniar promozionatu zuen erregearekin eta kami-ekin duen konplizez osatutako herri-kultura mota bat?",
+    "option_a": "Honen",
+    "option_b": "Tanaka",
+    "option_c": "Tokugawa",
+    "option_d": "Meiji",
+    "answer": "D",
+    "id": "world_religions/dev/3"
+  },
+  {
+    "instruction": "Zein da hurrengo arma hiltzaile ezberdinak aztertzeko erabilien den milla eskutan?",
+    "option_a": "Ume-soldaduak borroka biktimak dira eta berriztatze eta berrabiarazpena behar dute.",
+    "option_b": "Haurrak eta amak ez dira jardutasun aktiboak gerran eta esfera pribatuan sorrera-subjektu gisa kontsideratu behar dira.",
+    "option_c": "Haurrak aurrean sartu gabeak izaten dira gerran eta bake sinbolo gisa erabiliko behar dira.",
+    "option_d": "Haurrak dira subjekto politikoak eta hauen subjektutasuna galtzen da gerraren biktimak gisa kontsideratzen direnean.",
+    "answer": "D",
+    "id": "security_studies/dev/1"
+  },
+  {
+    "instruction": "Muskel kontraktuaren mota guztietarako energia hau ematen dute:",
+    "option_a": "ATP.",
+    "option_b": "ADP.",
+    "option_c": "fosfokreatina.",
+    "option_d": "oxidazio fosforilazioa.",
+    "answer": "A",
+    "id": "clinical_knowledge/dev/0"
+  },
+  {
+    "instruction": "Monopolioko konzentrazio-tasa da",
+    "option_a": "0",
+    "option_b": "5",
+    "option_c": "10",
+    "option_d": "100",
+    "answer": "D",
+    "id": "high_school_microeconomics/dev/2"
+  },
+  {
+    "instruction": "Eskualdun aurrekontuan, 400 biztanle bakoitzeko 1ren kasuan alelo erresesiboa eraginkorra eragiten du. Bacon-Weinberg orekakorra dela uste badugu, zati zein espero daitekeeko da b aleloa eraman dezaketen pertsonei dagokion proportzioa, baina minbizi gaixotasuna ez dute espero?",
+    "option_a": "1/400",
+    "option_b": "19/400",
+    "option_c": "20/400",
+    "option_d": "38/400",
+    "answer": "D",
+    "id": "college_biology/dev/1"
+  },
+  {
+    "instruction": "Adineko pertsonak erretiratu ondoren beste estatuko kokapenean mugitzen badira, zer da hurrengo kokapenengatik gerta daitekeena?",
+    "option_a": "Texas",
+    "option_b": "Kalifornia",
+    "option_c": "Hawaii",
+    "option_d": "Vermont",
+    "answer": "A",
+    "id": "human_aging/dev/2"
+  },
+  {
+    "instruction": "Zein da NBA slam dunk txapelketa irabazi duen gizona beroena?",
+    "option_a": "Anthony 'Spud' Webb",
+    "option_b": "Michael 'Air' Jordan",
+    "option_c": "Tyrone 'Muggsy' Bogues",
+    "option_d": "Julius 'Dr J' Erving",
+    "answer": "A",
+    "id": "miscellaneous/dev/2"
+  },
+  {
+    "instruction": "Soluzioak 2.00 moli daramatza azetik acidoko, CH3COOH, eta 1.00 moli kaltzio azetatetako, Ca(CH3COO)2. Soluzioak asido edo oso indartsu bat gutxi gorabeherako aldaketekin menderatzen da. Aldaketa larriak eragiten dituen asido edo oso indartsu gehiago ere gehiago eragiten dute pH-funtzioan. Zenbat mol nitriko asido, HNO3, gehi daitezke PH-k aldaketa nabaritzea eragiteko?",
+    "option_a": "0.500 mol",
+    "option_b": "1.00 mol",
+    "option_c": "2.00 mol",
+    "option_d": "3.00 mol",
+    "answer": "C",
+    "id": "high_school_chemistry/dev/4"
+  },
+  {
+    "instruction": "Heartbleed hutsune-laginaren aukeraketa gureztatzeak ahalbidetzen du",
+    "option_a": "kriptografikoen giltzak memorian gainidaztea",
+    "option_b": "kode iniezione mota batean",
+    "option_c": "tamaina-batzordez kanpoko irakurketa bat",
+    "option_d": "formatu-ahosketaren eraso bat",
+    "answer": "C",
+    "id": "computer_security/dev/3"
+  },
+  {
+    "instruction": "DNA ligasa da",
+    "option_a": "AdN errepikapen normalan fragmentuak lotzen dituen enzima bat da",
+    "option_b": "Oinume bakterialaren enzima bat da, AdN mozkortzen du adierazitako oinarri-sekuentzietan",
+    "option_c": "Gene espezifikoak trankribapen erraztuko duten enzima bat da",
+    "option_d": "Nutriente zehatz bati heltzen dion maila mugatzen duen enzima bat da",
+    "answer": "A",
+    "id": "medical_genetics/dev/1"
+  },
+  {
+    "instruction": "Hegemonia terminoa honek hau esan nahi du:",
+    "option_a": "langileen aldetik haien interesak konprenitzea arazoizkoa izan daitekeena",
+    "option_b": "iritzi publiko, politiko eta kultural sendotzen dituen ideologia dominantea",
+    "option_c": "ideologiaren eta eguneroko bizitzaren gainean oinarritutako bikoitza-kontzientzia mota",
+    "option_d": "topiari remartu gabe utzitako ordainsari modu bat",
+    "answer": "B",
+    "id": "sociology/dev/3"
+  },
+  {
+    "instruction": "HIVaren barruan erreaktiboak dituzten pertsonen artean medianaren bizitza-izatea eta hilaldia hurrenez hurren jarrita zehaztu zen:",
+    "option_a": "HIV erreaktiboak",
+    "option_b": "HIV erreaktibo gabeak",
+    "option_c": "HIV erreaktibo bihurtzaileak",
+    "option_d": "Arrisku handiko HIV erreaktibo gabeak",
+    "answer": "C",
+    "id": "virology/dev/4"
+  },
+  {
+    "instruction": "Galdera hau hurrengo informazioari erreferentzia egiten du:\n\"Egia da, biztanleekin batera elkarrizketatzeko gai diren (pentsamendu eta ohituraren bidez hausnartzen diren) doktore ezagunen fatwa eta Suni eremuaren adostasunak adierazten dutenez, berandu ezabapena, suntsipena eta gezurrakataren atalatze zaharkiturak gure handi asmo eta helburu izan behar dira. Horren egiteak \"Doean Jainko Onaren fedea da; Jainkoaren fedea izaera errazlea da\" ahoskera mespretxagarritik deituz gero eta bere Profeetaren (gutzat harturik!) hitzetan arabera \"Gure erdietara atalatze gezurrerak sortzen dituenak atalatzea beharra dago\" eta \"Gure erdietan kontrako hainbat jarduerak egiten dituen guk atalatzea beharra dago\" deituz gero, tresna bat bihurtu da eta neurri beharrezkoa da zaindu...\nOttoman Sultan Selim I-ren gutuna Safavid Shah Ismail I-ri, 1514\nSelim I-ren gutunak hain argiago adierazten du hurrengo aukeretako bat izan dela?",
+    "option_a": "Armada indar guztiak mantentzea",
+    "option_b": "Erlijito taldeen arteko tentsioak zabaltzea",
+    "option_c": "Ottoman Ipar-Imperioaren kolapsoa ekarri zuten faktoreak",
+    "option_d": "Islamiar imperioen arteko bake-egitasmoak",
+    "answer": "B",
+    "id": "high_school_world_history/dev/3"
+  },
+  {
+    "instruction": "Galderak jarraian datozen informazioarekin zerikusia du.\nOndorengoa irakurri.\nErrevoluzionariorik soratua zen toki guztietara sartu zen eta are gehiago zabaldu zen. Napoleonen jenerala despotaaren erregimenak areagotu egin zuen nahitaezko arazoetan. Bere konkistek arau, erakunde eta ohiturak askatuta uzten zituzten; nazio guztientzat gardena ziren lotura geomagnetikoak hondatu egin zituzten, denboran bizi ezin den indar baten aurrean. Halaxe egin ezin zuten hainbat berritzaileen emaitzengatik esan.\nErregina-konstituzioek, boterearen beilegatik gainbegiratuta, gizarteak agitatzen dituen pasioetan izan ezik daude; haiek frogatu behar dute justizia eta guztien eskubideen mantentzeagatik, akats bideen gainetik ibiltzeko eta egiazko bidearen aldeko sendotasunaz jotzeagatik. Seme-alabak kideen buruetako eskubideari zuzentzen zaion aitaren aitorpena da, batez ere hilkoaldian gizarteak indar bera detela frogatzen. Gizarteak bere burujabetasun kideentzat bekatuetako azalera kendu eta errealeko gainbegiratzaileen modukoa da, behartsuak eta hainberean sendoa.\nMunduan existitzen diren alderdiak konpontzeko, garrantzitsuena erregeen arteko elkarrizketa da. . . .\nErregeek ez dute sakon egin behar parte hartzaileei egokitutako akatsengatik, baina haien jendeak behar dituen hobekuntza proiektuei eskaintzeko. Horien arabera egokitu behar da kudeaketaren hainbat alderdi.\nJustuak izan, baina indartsuak; onuragarriak izan, baina zorrotzak.\nErlijio eta moralaren oinarri guztiak zaindu behar dira, eta ezin diezaioten sinesmena eraso edo morala sekzio hutsek interpretatzea.\nGizarte-sekzioak suntsitzen dituzten Gizaki-Taldeen isurketa suntsitzea beharrezkoa da.\n–Klemens von Metternich, Fedearen Adierazpen Politikoa, 1820\nZein da jakinarazitako eskatzei lotutako beldurrik handiena sortu zuena dokumentu horretan?",
+    "option_a": "Enlightenment-en bizi diren pertsonen askatasuna eta nazionalismoaren ideiak Europako errebelzio erradikalak sortu zituzten.",
+    "option_b": "Europako konkista Napoleonen bidez faktore berriak sortu ziren, Europako indar bilakaera aldatu zitzaion arren.",
+    "option_c": "Erreginen botereak hazten hasi zen nazio bakoitzeko beste indarretan kontrolatua izan ez bada, herritarren gaineko dominazioa gertatzen delako.",
+    "option_d": "Ekonomia kapitalismu egin ziren krisiak eragingo luke herritarren kaltegarritasuna eta hori zapaltzeko derrigor xederatuta egon beharko lirateke.",
+    "answer": "A",
+    "id": "high_school_european_history/dev/1"
+  },
+  {
+    "instruction": "Uranio atomoa fisioa jasan duenean, fisiotik atera diren produktuen masak atomo horren masari paratu, hauetako masa-kopurua da:",
+    "option_a": "txikiagoa",
+    "option_b": "handiagoa",
+    "option_c": "berdina",
+    "option_d": "hutsik",
+    "answer": "A",
+    "id": "conceptual_physics/dev/0"
+  },
+  {
+    "instruction": "Aurkitu 2Z eraztunaren ohiko ezaugarria.",
+    "option_a": "0",
+    "option_b": "3",
+    "option_c": "12",
+    "option_d": "30",
+    "answer": "A",
+    "id": "abstract_algebra/dev/4"
+  },
+  {
+    "instruction": "_________rik ezberdina, _______rek enpresetako jokabide onenak dira dirua lortzeko asmorik gabe. Kanpainak erraztu egiten dira _________ erabiliz, kanpaiñak enpresen helburuak lortzeko laguntzen baitute.",
+    "option_a": "Boikotak, Buycott-ak, Blockchain teknologia, Laguntza fondoak",
+    "option_b": "Boikotak, Buycott-ak, Teknologia digitala, Salmenta Handituak",
+    "option_c": "Boikotak, Azken fineko erosketa, Blockchain teknologia, Laguntza fondoak",
+    "option_d": "Boikotak, Buycott-ak, Teknologia digitala, Salmenta Handituak",
+    "answer": "D",
+    "id": "business_ethics/dev/4"
+  },
+  {
+    "instruction": "Zein da ondoko aretoetan beharrezkoa den gai bat Maslow-ren behar-hierarkian frogatzeko?",
+    "option_a": "Behar-harremanak kultura eta klase sozialaren menpe daude.",
+    "option_b": "Azpiko arazoak behar maila gorabeheratzeko gutxienez partzialki batasun beharrezkoa dute.",
+    "option_c": "Beharrak ez dira prioritaterik edo orden berezi batean antolatuta.",
+    "option_d": "Behar guztiek motivatzaileak dira, eta behar egunerokoak sortzen dira unkitutako beharren artean gelditzen bada.",
+    "answer": "B",
+    "id": "marketing/dev/2"
+  },
+  {
+    "instruction": "Erraztu eta idatzi emaitza erasorako izanik: $$\\sqrt{\\sqrt[3]{\\sqrt{\\frac{1}{729}}}}$$",
+    "option_a": "\\frac{3\\sqrt{3}}{3}",
+    "option_b": "\\frac{1}{3}",
+    "option_c": "\\sqrt{3}",
+    "option_d": "\\frac{\\sqrt{3}}{3}",
+    "answer": "D",
+    "id": "high_school_mathematics/dev/3"
+  },
+  {
+    "instruction": "Zein multzo dituen desbideratze txikiena eta zein handiena?\nI: {1,2,3}\nII: {-10,10}\nIII: {100}\n",
+    "option_a": "I, II",
+    "option_b": "II, III",
+    "option_c": "III, I",
+    "option_d": "III, II",
+    "answer": "D",
+    "id": "high_school_statistics/dev/4"
+  },
+  {
+    "instruction": "_____________ zure sistemako datuak aldatu ditzake – hau da, zure sistema behar bezala ez dabilen ala zehaztutako datuak ezin dituzu atzitu, edo galdera baten bidez dirua eska ditzakezu atzera emateko.",
+    "option_a": "IM – Troianoak",
+    "option_b": "Atzekoitz Troianoak",
+    "option_c": "Trojan-Deskargatzaileak",
+    "option_d": "Diru-eskatze Troianoak",
+    "answer": "D",
+    "id": "computer_security/dev/1"
+  },
+  {
+    "instruction": "Iverson Jewelers-ek Millerri gutun bat idatzi zuen, 'Self-winding Rolox erloju bikaina erretzeko eskainia jaso dugu, prezio oso onuragarria izanen da zuretzat.'",
+    "option_a": "Gutunak saltzeko eskaintza du",
+    "option_b": "Gutun bidez ezin da eskaintza zuzena egin",
+    "option_c": "Gutunak denbora egoki batean bukatuko den eskaintza egokia du.",
+    "option_d": "Gutunak eskaintzaren elementu esanguratsuenetakoa falta dio.",
+    "answer": "D",
+    "id": "jurisprudence/dev/4"
+  },
+  {
+    "instruction": "Zein dira trigeminoko zuri-ahotsko prozesu somatikoak dituzten nerbioen hauek?",
+    "option_a": "Supraorbitala",
+    "option_b": "Infraorbitala",
+    "option_c": "Menitala",
+    "option_d": "Hurrengo zerrendak badaude ez ditu",
+    "answer": "D",
+    "id": "anatomy/dev/1"
+  },
+  {
+    "instruction": "$x$ aldagaia $y$-ren kvadratikoki aldaketaren arabera aldakorra da, eta $y$ aldagaia $z$-ren kubuko aldaketaren arabera aldakorra da. $z$ balioa 2 denbora $x$ balioa $-16$-duguenean, $z$ balioa $\\frac{1}{2}$ izanez gero, $x$ balioa zein da?",
+    "option_a": "-1",
+    "option_b": "16",
+    "option_c": "-\\frac{1}{256}",
+    "option_d": "\\frac{1}{16}",
+    "answer": "C",
+    "id": "high_school_mathematics/dev/2"
+  },
+  {
+    "instruction": "Gaur egun, estatu batzorde batek estatutu bat onartu du, komisario batengatik hainbat hainbat kanporatu edo gizartearen aurka erabili edo obszenu edo inosente izan behar denean. Batxilergoko ikasle bat unibertsitateko mobilizazio bat antolatu zuen gerraaren aurkako protestatzeko. Gautsa bateko 50 ikasle taldean parte hartu zuten, autoz pasa dira gerraren kontra egidazu dituzten bidaiarako.",
+    "option_a": "estatutua ia huts dadin, hamargarren menpeko prozesu-esparruko prozedura arauaren azpisparruan.",
+    "option_b": "estatutua baliogabea da, lehen menpeko adierazpenaren askezia zagulako.",
+    "option_c": "estatutua legearen askezina da, lehen Esparruko adierazpena murriztuta dagoelako helburu berdina lortzeko gutxiagotzeko aukeraak daude.",
+    "option_d": "estatutua gai alaia da, eta, ondorioz, baliogabea da, lehen Esparruko eta Hamargarren Ezerezpenen arabera.",
+    "answer": "D",
+    "id": "professional_law/dev/0"
+  },
+  {
+    "instruction": "Ostean bizi diren helduek haien adoleszentziako gertaerek gainerako bizitako momentuetatik hobeto gogoratzen dituztela ikusitzeak adoleszentzia-avantajea deitu ohi da.",
+    "option_a": "Adoleszentziarako abantaila",
+    "option_b": "Gogoramen-burrunba",
+    "option_c": "Gogorarazi-memoriala",
+    "option_d": "Kuadratikoa atxikitako espilu berriztatua",
+    "answer": "B",
+    "id": "human_aging/dev/1"
+  },
+  {
+    "instruction": "Joek argazki jarduna arduratu zena. Gorri koloreko argiak bi segundoan behin tindatzen dira, hori bai flaka koloreko argiak hiru segundoan behin eta urdin koloreko argiak bost segundoan behin. Dantza hasieran eta bukaeran bihurtzeko, zenbat aldiz aktibatuko dira hiru argi hauek hiru minututan zehar batera? (Gogoratu hiru argi hauek hasieran bata bestearekin batera bota egingo dira.)",
+    "option_a": "3",
+    "option_b": "15",
+    "option_c": "6",
+    "option_d": "5",
+    "answer": "B",
+    "id": "high_school_mathematics/dev/0"
+  },
+  {
+    "instruction": "Zure besabuela aitona hilabete batzuk atzera, $100 inbertitu zuen %5eko urteko interes bidez. Zenbat balio du inbertsioa gaur egun?",
+    "option_a": "$13,000",
+    "option_b": "$600",
+    "option_c": "$15,000",
+    "option_d": "$28,000",
+    "answer": "A",
+    "id": "professional_accounting/dev/1"
+  },
+  {
+    "instruction": "Zatiketa-arauen arabera, zein da hurrengo egiazkoa?",
+    "option_a": "Klorido, bromido eta iodido guztiak zatitzen dira",
+    "option_b": "Sulfato guztiak zatitzen dira",
+    "option_c": "Hidroxido guztiak zatitzen dira",
+    "option_d": "Amonioko zorroztuak dituzten ekuazioak zatitzen dira",
+    "answer": "D",
+    "id": "high_school_chemistry/dev/2"
+  },
+  {
+    "instruction": "Ameriketako Estatu Batuekin eta mundu osoko herrialdeekin lotutako erabaki politikoen domeinua hainbatetan gizarte-politikarekin nahasten da, horrek bereizten du",
+    "option_a": "terrorismo politika.",
+    "option_b": "ekonomia politika.",
+    "option_c": "kanpoko politika.",
+    "option_d": "nazioarteko politika.",
+    "answer": "C",
+    "id": "us_foreign_policy/dev/2"
+  },
+  {
+    "instruction": "Seme batek kreditore bati 5.000 dolarreko zorra zitzaion. Semearen aita kreditorearekin harremanetan jarri zen eta semearen zorrari eindarazi nahi ziola esan zion. Aita dokumentu bat sinatu zuen, non esaten zen aita hilabete bakoitzean 500 dolarreko zor bat ordainduko zuela 10 hilabetez. Kreditoreak ez zuen idatziz edo odolki hitz egin semea erantzuteko, eta ez zen aita idatziz edo odolki hitz egin eskatu forbearance hau aurrera eramateko. Geroago, aita egiten hasi zen eta kreditorea onartu zuen 500 dolarreko ordaintzen aurrera jaudizona. Horrelako une horretan, kreditoreak, egia esan, erabaki zuen jakinda gabe deuseztatzen basatzeko soziolabetu ez zela. Hala ere, aita informatu egin zion kreditoreari zor hauen gainean inongo ordainaldia egingo ez zuela. Eragiketa horren erlijioengatiko aita kreditoreari erantzukizuna baduela, zein errespetatuz, horren arabera, nola dei zutela beharrezko kontsiderazioaren arabera, manipulazio estoparen printzipioari lotuta daitezkeena, aipagarria izango litzateke.",
+    "option_a": "Aitaren promesa eta kreditoreak horren gainean oinarritutako konfiantza frogandan badago, manipulazio estoparen printzipioari lotuta daitekeen konpainia onartua izango litzateke, kreditorearen aurkako eskaera balidoi gisa.",
+    "option_b": "Aita promesaren ondorioz kreditoreak semearen aurkako jarduna garai-tzeko eraman dutela iragarria zen, beraz, legez, hark promesa gutxitzeak hirugarren jardunbatzuen ondoriozko aurrekontuan sartu daiteke.",
+    "option_c": "Aitaren kreditoreari 2.500 dolarretara iristen ziren bost ordainketek, konpainia kontratualki lotzeko asmo serioa frogatu zuten, eta manifestazio hori kontratuaren kontuan hartzen da heziketa egiten den ordezkatze eraginkor modurik.",
+    "option_d": "Semeak kreditoreari zor zitioen bultzatuta, aita praktika-balientzia hartu zezan idazkian adierazita, eta idazkian oinarritutako kontratudunak errespetatzen saiatuko ziren. Beraz, aita kreditoreari esandako promesa beteko zuela, eskaera beharrezko kontsiderazioarekin babestuta.",
+    "answer": "A",
+    "id": "professional_law/dev/4"
+  },
+  {
+    "instruction": "Etxategi margolarien merkatu lehiaketza lehiakorrak bada, zein hauen artean bultzada handituko litzateke etxategi margolariak behar direla ikusten badugu?",
+    "option_a": "Soldata minimo eraginkorra ezartzea lan merkatu honetan.",
+    "option_b": "Pinturezko garraioen prezioa handitzea.",
+    "option_c": "Etxe berrien eraikuntzan handitzea.",
+    "option_d": "Mekaniko margolarien prezioa handitzea baldin eta kanpoko efektuak ordezkatze efektuaren gaineko efektuak badira.",
+    "answer": "C",
+    "id": "high_school_microeconomics/dev/0"
+  },
+  {
+    "instruction": "Kanpoetako hirugarren parte hartzaile bat kontratatzeko praktika outsourcing bezala ezagutzen da",
+    "option_a": "outsourcing.",
+    "option_b": "offshoring.",
+    "option_c": "maquiladoras.",
+    "option_d": "helburu leku depententzia.",
+    "answer": "B",
+    "id": "high_school_geography/dev/3"
+  },
+  {
+    "instruction": "Biokimiaeetan, tresnak ahalmen elektrokimikoak izatearen arabera sailkatzen dira. Hauen artean, sailkatu beharrekoak daude:",
+    "option_a": "Ionek bihurtzen direnak oksohizunez eta gas bonbonizatuekin erreakzionatuz.",
+    "option_b": "Aldatu egiten diren solido eta gasak guztiz desegiten dira.",
+    "option_c": "Sustantziok egiten dituzten erreakzio kimikoetan oinarritzen dira.",
+    "option_d": "Eskuz egiten diren erreakzioak baino ez dira eraginkorrak.",
+    "answer": "C",
+    "id": "college_biology/dev/2"
+  },
+  {
+    "instruction": "Zein da hurrengoetako bat hainbat dizdilusiaren artean?",
+    "option_a": "HCl",
+    "option_b": "H2SO3",
+    "option_c": "SO2",
+    "option_d": "Al(NO3)3",
+    "answer": "C",
+    "id": "high_school_chemistry/dev/0"
+  },
+  {
+    "instruction": "Zein baldintza betetzen da momentu angeluarra kontserbatua izateko? I. Momentu lineala kontserbazioa II. Kanpo indarraren sarea nula III. Kanpo indarraren torquea nulua",
+    "option_a": "I eta II bakarrik",
+    "option_b": "I eta III bakarrik",
+    "option_c": "II eta III bakarrik",
+    "option_d": "III bakarrik",
+    "answer": "D",
+    "id": "high_school_physics/dev/0"
+  },
+  {
+    "instruction": "Nichrome zapiaren bi muturreko parteen batean 2L luzerako eta A eremuko zapi baten amaieran, Nichrome zapiaren beste alde bat baino motzago (L luzerako) eta 2A eremuko zapi baten amaieran lotuta, zapi luzearen muturretik askatasunez dagoen potentzial elektriko 8.0 boluta dagoenean eta zapi motzaren muturretik askatasunez dagoen potentzial elektriko 1.0 boluta dagoenean, bi zapitik abiatuta, bi zapitako mugetan dagoen potentziala hainbatzen da?",
+    "option_a": "2.4 V",
+    "option_b": "3.3 V",
+    "option_c": "4.5 V",
+    "option_d": "5.7 V",
+    "answer": "A",
+    "id": "college_physics/dev/2"
+  },
+  {
+    "instruction": "Zein adierazpen hurrengoetatik ez da egia lantanoideen inguruan?",
+    "option_a": "Lantanoideen oxidazio-egoera ohikoena +3 da.",
+    "option_b": "Lantanoideen konplexuak zabalkunde handia eduki ohi dute (> 6).",
+    "option_c": "Lantanoideen elementu guztiak hurbiltzen dira ur acidoarekin hidrogenoa askatuz.",
+    "option_d": "Lantanoideen atomo erradioak La-tik Lu-raino doaz.",
+    "answer": "D",
+    "id": "college_chemistry/dev/0"
+  },
+  {
+    "instruction": "Kodonominantzia erakusten duen genea",
+    "option_a": "Duo aleloak heterozigotetan independente erakutsi ohi dira",
+    "option_b": "Duo aleloak duela baino dominanteago direla",
+    "option_c": "Aleloak kromosoma batean loturik daude",
+    "option_d": "Aleloak garapenean bera denbora batean erakusten dira",
+    "answer": "A",
+    "id": "medical_genetics/dev/2"
+  },
+  {
+    "instruction": "Box nongobernuzko etengabeko erakunde batek urte honetan hurrengo eragiketak egin zituen: Inbertsioen salmentatik sorrarazitako diru kopurua $ 80000 Etxebizitza, lantoki eta tresna erosten $ 10000 Luzaro-termitarrako diru-sarrerak: $ 100000 Inbertsioen salmentan galtzea $ 5000 Zein kopuru izan behar da Box-ek egindako kasu-fluxuen kontu-esanahiaren arabera finantzaketa-ekintzetatik eskaintzen duen neto diru-sarrerak?",
+    "option_a": "$70,000",
+    "option_b": "$75,000",
+    "option_c": "$80,000",
+    "option_d": "100000",
+    "answer": "D",
+    "id": "professional_accounting/dev/0"
+  },
+  {
+    "instruction": "Bereizi aldi berean, zein monetar politika erabili litzateke U.S.A.-ko esportazioak bultzatzeko?",
+    "option_a": "Diskontuaren tasa handitzea",
+    "option_b": "Marratxoen erreserba handitzea",
+    "option_c": "Gobernu-tituluak erosteak",
+    "option_d": "Tarifak jaitsi",
+    "answer": "C",
+    "id": "high_school_macroeconomics/dev/3"
+  },
+  {
+    "instruction": "Pakal nagusi handia Hitz-mayan astronomoak eta sabel-zaindari hainbat asmo betetzeko eraikitako Palenque hirian.",
+    "option_a": "Hainbat astrologo maitemindu egin dezan.",
+    "option_b": "Herri arruntari bere eskarizunaren erakusteko, hainbat zenbaki etxeetan bizi ahal izan baitziren.",
+    "option_c": "Inork ez ziren etorriko, batez ere ispiluen bidez.",
+    "option_d": "Bere erreinutasuna frogatzeko, bere aita erregea ez zela-eta.",
+    "answer": "D",
+    "id": "prehistory/dev/0"
+  },
+  {
+    "instruction": "EGOETXEEN ZUZENKETAK LORTZEKO, ESKUA DITUEN ELKARTEETAKO HIRU TAKTIKA KONTRASTATUAK DIRA: OSASUN ARLOAN INKESTA ETA KOMUNIKAZIOA JORATZEN DITUGUNA, OPERAZIOAK EKIPEMIN KONPONTZERA JO TUZULA UKATZEN DITUENA EDOTA KONTZENTRAZIOAK ETA NOIZEZAKO BLOKEOAK BIHURTZEN DITUGUNA.",
+    "option_a": "Indirekzio-jarduera, Indarkeri xurgatzeko bidea, Zuzenketarik gabeko zuzendaritza, Boykot",
+    "option_b": "Zuzenketarik gabeko zuzendaritza, Ekintza instrumentalak, Indirekzio-jarduera, Informazio kanpaina",
+    "option_c": "Zuzenketarik gabeko zuzendaritza, Indarkeri xurgatzeko bidea, Zuzenketarik gabeko zuzendaritza, Boykot",
+    "option_d": "Indirekzio-jarduera, Ekintza instrumentalak, Indirekzio-jarduera, Informazio kanpaina",
+    "answer": "C",
+    "id": "business_ethics/dev/3"
+  },
+  {
+    "instruction": "6 aldeko zuzena zortzi aldiz botatzen da eta hurrengo emaitzak lortzen dira: 1. aldea 0 aldiz agertzen da; 2. aldea hiru aldiz; 3. aldea bi aldiz; 4. aldea hiru aldiz; 5. aldea lau aldiz; 6. aldea bost aldiz. Horrelako emaitzekin, Add-1 Susmoa erabiliz alde 3 agertzearena zenbat da?",
+    "option_a": "2.0/15",
+    "option_b": "1.0/7",
+    "option_c": "3.0/16",
+    "option_d": "1.0/5",
+    "answer": "B",
+    "id": "machine_learning/dev/0"
+  },
+  {
+    "instruction": "Legearen funtzioen artean hurrengo eneinez zer ez da barne?",
+    "option_a": "individuaren askatasuna maximitzea",
+    "option_b": "kompromisoaren oinarria eskaintzea",
+    "option_c": "bakea zaindu",
+    "option_d": "enpresaburu sistema askatasunaren printzipioak sustatzea",
+    "answer": "D",
+    "id": "jurisprudence/dev/1"
+  },
+  {
+    "instruction": "Nola ezaugarri daitezke Upanishadak?",
+    "option_a": "Ritualei buruzko testuak",
+    "option_b": "Filosofia testuak",
+    "option_c": "Himnoak",
+    "option_d": "Jatorria-istorioak",
+    "answer": "B",
+    "id": "world_religions/dev/4"
+  },
+  {
+    "instruction": "Anik bere jarrerak eta hiriok eregiteari herrian eragiten diola uste du. Uste horrek erlazionatuta izan liteke",
+    "option_a": "superego indartsua izatearekin.",
+    "option_b": "estimazio propio baxuarekin.",
+    "option_c": "efikazio propio baxuarekin.",
+    "option_d": "kontrol lekua barruan izatearekin.",
+    "answer": "D",
+    "id": "high_school_psychology/dev/0"
+  },
+  {
+    "instruction": "Zein da lehendakari ad hoc?",
+    "option_a": "Hainbat ardurazko kasurako, ICJ aurrez aritu ez bazaio epaile nazionalik izan ez duten alde bakoitzak epaile bat izendatu dezake, kasu horretarako soilik, lehendakari ad hoc tituluarekin.",
+    "option_b": "Lehendakari ad hoc ICJ-ren azterketaren kide bakarra da botatzeko botoa duten kideekin.",
+    "option_c": "Lehendakari ad hoc legeztatutako epaile bat ez baldin bada egon edo hildako.",
+    "option_d": "Lehendakari ad hoc alde bakoitzak betiko izendatu beharko duen epailea da ardurazko kasu guztietarako.",
+    "answer": "A",
+    "id": "international_law/dev/1"
+  },
+  {
+    "instruction": "Non kokapen aurrez-aurkari gehien eratorri daude kometak, eta nola jakin dugu?",
+    "option_a": "Kuiperren bidea; kometa motako labur-periodikoek sistemaren planetaren maila barruan daude, bai bereiz zorua bezalain.",
+    "option_b": "Kuiperren bidea; kometa motako labur-periodikoek nondik heldu diren adierazten dute, kometa-sistema esferiko baten banaketa adieraziz.",
+    "option_c": "Asteroide bidea; kometa motako labur-periodikoek espero asteroideei baino orbital-periodo antzekoak dute, eta sistema planetaren mailan daude aurkituta bezala.",
+    "option_d": "Oort zendalaren alboan daude; Kometa motako labur-periodikoak sistemaren planetaren maila barruan daude, Oort zendalaria bezala.",
+    "answer": "A",
+    "id": "astronomy/dev/1"
+  },
+  {
+    "instruction": "2015tik gaur arte, 1990etatik basoak ____ dira Europako eta  Afrikako eta Ameriketako basoak ____.",
+    "option_a": "igo dira, igo dira",
+    "option_b": "igo dira, jaitsi dira",
+    "option_c": "jaitsi dira, igo dira",
+    "option_d": "jaitsi dira, jaitsi dira",
+    "answer": "B",
+    "id": "global_facts/dev/2"
+  },
+  {
+    "instruction": "Gizarte barruko talde bakoitzak talde erreferentzialei ahalmen gutxiena du eragin zuzenean jasotzen:",
+    "option_a": "Geldituta sentitzen den konsumitzaile zaharra.",
+    "option_b": "Ezkonduak diren emakumeak, haien bizitzetan segurtasun-iritzi bat sentitzen duten askorentzat.",
+    "option_c": "Inmigrante berriak, hainbat kultura berriaren parte izan nahi dutenak.",
+    "option_d": "Haurrek, haien erabaki gehienak kanpoaldeko eragin batzuetan oinarritzen dituztenak.",
+    "answer": "D",
+    "id": "marketing/dev/3"
+  },
+  {
+    "instruction": "Zein bizi-anos inolako egoera amerikar ohikoenaren norma moralaren arabera falta gizona egin duen pertsonaia nagusiak (ni erabiltzen duena) egin duena, hau bi egoeren batean? Egoera 1 | Lan egiteko zaku zahar bat erosi nuen. Egoera 2 | Urezko mendi-orratz ederra begira nengoen eta harria bidali nion hura.",
+    "option_a": "Akzio okerra, okerra",
+    "option_b": "Akzio okerra, okerra ez",
+    "option_c": "Ez da okerra, okerra",
+    "option_d": "Ez da okerra, okerra ez",
+    "answer": "D",
+    "id": "moral_scenarios/dev/2"
+  },
+  {
+    "instruction": "Koordenatuak hartatik (0,0) eta 4 metrotatik puntuari egin behar da karga puntuala, Q = +1 mC, finkatu da. Zenbat lan behar da karga, Q = +8 µC,  puntuetatik (3 metro, 0) puntuara mugitzeko?",
+    "option_a": "3.5 J",
+    "option_b": "6.0 J",
+    "option_c": "22.5 J",
+    "option_d": "40 J",
+    "answer": "B",
+    "id": "high_school_physics/dev/4"
+  },
+  {
+    "instruction": "Konposatu berri bat sintetizatzen da eta acidu monoprotiko bat dela frogatzen da, 248 g/mol-eko masamolekularra duena. 0,0050 mol asido hau 0,500 L ur batean dissolbatzen direnean, pH 3,89 bezalakoa da. Zein da asido honen pKa?",
+    "option_a": "3.89",
+    "option_b": "7.78",
+    "option_c": "5.78",
+    "option_d": "2.33",
+    "answer": "C",
+    "id": "high_school_chemistry/dev/3"
+  },
+  {
+    "instruction": "Zenbatgarren Gem-a da Budismoan?",
+    "option_a": "Dharm-a",
+    "option_b": "Sangh-a",
+    "option_c": "Budh-a",
+    "option_d": "Bodhisattva-a",
+    "answer": "A",
+    "id": "world_religions/dev/1"
+  },
+  {
+    "instruction": "Teleskopio refraktarioak bi lehensaketa lente konbertsagarri ditu 100 cm artean bananduta. Eye-piece lentzek 20 cm-bere buruko luzera dauka. Teleskopioaren angeluzapen erretzea da",
+    "option_a": "4",
+    "option_b": "5",
+    "option_c": "6",
+    "option_d": "20",
+    "answer": "A",
+    "id": "college_physics/dev/0"
+  },
+  {
+    "instruction": "Hofstede-ren (1980) dimentsio kulturalen bostetan, Ameriketako Estatu Batuak sakonera hautematean aurkitzen da:",
+    "option_a": "indibidualismoaren.",
+    "option_b": "indibidualismoaren eta boterea distantziaren.",
+    "option_c": "boterea distantziaren eta maskulinitatearen.",
+    "option_d": "ezegonkortasunaren saihestutasunaren.",
+    "answer": "A",
+    "id": "professional_psychology/dev/2"
+  },
+  {
+    "instruction": "Dendak 107 kolore ezberdin ezker egiten ditu. 25 botele bakoitzeko 25 botele biltegian daude. Dendak biltegian dituen pintak zenbat al daitezke jakiteko behean agertzen den adierazpena erabiliz. 107 × 25. Zenbat pintako ditu dendak biltegian?",
+    "option_a": "749",
+    "option_b": "2,675",
+    "option_c": "2,945",
+    "option_d": "4,250",
+    "answer": "B",
+    "id": "elementary_mathematics/dev/3"
+  },
+  {
+    "instruction": "Modelu hegazkina haizean kontra abiatzen bada azkarrago joango da eta haizea atzetik badu moteldua izango da. Haizearekin orekatutako angelu batean hedatutakoan maiztasunari begira atereriko da kasu honetan haize gabe erortzen den kasuan alderantzizkoa dena soilik da ez ez alaia.",
+    "option_a": "berdina izango da",
+    "option_b": "handiagoa izango da",
+    "option_c": "txikiagoa izango da",
+    "option_d": "haizearen abiaduraren arabera handiagoa edo txikiagoa izango da",
+    "answer": "B",
+    "id": "conceptual_physics/dev/3"
+  },
+  {
+    "instruction": "Galdera honek honako informazioari buruzkoa da.\nErrusiako egoerak ondo ez zegoen eta [Souvarine]-k jasandako berrien gainean hutsunean zegoen. Bere senide zaharrak politikariei atondu ari ziren; Europar beldurrez jota zuten Nihilist famatuak -herriko artzain semeak, erdiko klasikoetako semeak, saltzaileen semeak- ez ziren altxatu nazio askapenaren ideia baino gehiagora, eta mundua erreskatuko zela uste zuten bere diktadorea hiltzen zutenean&…\n\"Txantreak! Ez dute inoiz lortuko.\"\nGeroago, ahotsa ere baxtuaz, kexatuta, fraternitatea bitarteko zuen amets zaharra deskribatzen zuen hitz gorabeherak beraiek auzo langile artean sortu nahi zuten gizarte berriaren oinarria ikusteko. Bere poltsikoan dauden sotak egunetik dirua dataz gabe uzten zien, kolpelekiko sinesgarria, nire geurezko alde erreza, bederen zakilak langile harmailik jartzen ziren anbitiek irribarre egiten nion, galdurik ez. Baina, batez ere, batasuna ez zegoen azkarrik gertatzen.\nAhotsa aldakatu zen, begiak argitu, Al'tierrin ezarri zizkion:\n\"Orain, ulertzeko zuk? Marzelako hanka-lanak zituzten kapela-egile hauetako batzuek ehun mila frankoren nabarmeneko saria irabazi dute, eta une hartan, beraiek ezer egiten gabe bizi egingo zela adierazi zuten! Bai, hori da zure ideia, Frantziako lana egiten duen langile guztiek; thesore bat hilkatzeko lana egin ondoren bakarrik jan nahi duzu ireki eta isilarazi gune batean. Zoaz oihu egin, zein trebatuta egon, ilunabarrik, gazte haien diru-laguneri itzultzea desiratzen ez duzulakoan. Inoiz ez zarete opor guztia indarga merezi, eta zuek burgeseriei buruzko inbiasioa soilik sendatzeko beharrezkoa dutelako.\"\nEmile Zola, idazlea frantziarra, Germinal, 1885.\nAtalak lan-klasera pozerako kezkak zituen mugimendu batek zehazki erakusten duen?",
+    "option_a": "kapitalista",
+    "option_b": "zientifiko",
+    "option_c": "komunista",
+    "option_d": "existentialista",
+    "answer": "C",
+    "id": "high_school_european_history/dev/2"
+  },
+  {
+    "instruction": "Egoera berezia gabeko merkatu batean, produkzien bezeroekiko diru-laguntzak ematen baditu estatuek, hurrengo gertaera gertatuko da:",
+    "option_a": "Produktuaren eskari handituko da",
+    "option_b": "Produktuaren eskari gutxituko da",
+    "option_c": "Bezeroen gaina handituko da",
+    "option_d": "Bezeroen gaina gutxituko da",
+    "answer": "C",
+    "id": "high_school_microeconomics/dev/1"
+  },
+  {
+    "instruction": "Zein da hurrengo hauek ez-material kultura adibide bat?",
+    "option_a": "Dove xaboi",
+    "option_b": "Dove sugar-gaztegai",
+    "option_c": "Dove sinboloa",
+    "option_d": "Dove (txori) bat",
+    "answer": "C",
+    "id": "high_school_geography/dev/4"
+  },
+  {
+    "instruction": "Bi konduktore luze paraleloak 100 A eramaten dute. Konduktoreak 20 mm artean banatuta daudenean, konduktore bakoitzeko luzera arteko boterea hau izango da",
+    "option_a": "100 N.",
+    "option_b": "0,1 N.",
+    "option_c": "1 N.",
+    "option_d": "0,01 N.",
+    "answer": "B",
+    "id": "electrical_engineering/dev/3"
+  },
+  {
+    "instruction": "Hautatu predikatu logikora egokitzen den hizkuntzara. Georgeek Hectorren lorategi-katea aukeratzen du. (g: George; h: Hector; l: Hectorren lorategi-katea; Bxyx: x zektorea zioen y-ri)",
+    "option_a": "Blgh",
+    "option_b": "Bhlg",
+    "option_c": "Bglh",
+    "option_d": "Bghl",
+    "answer": "C",
+    "id": "formal_logic/dev/1"
+  },
+  {
+    "instruction": "Eman A multzoa zenbaki ordenatu duen bikote guztien multzoa dela (m, n) hainbatua 7m + 12n = 22 baldintza betetzen dutenena. Zein da multzo B = {m + n : (m, n) \\in A} -eko zenbaki negatibo handiena?",
+    "option_a": "-5",
+    "option_b": "-4",
+    "option_c": "-3",
+    "option_d": "-2",
+    "answer": "B",
+    "id": "college_mathematics/dev/4"
+  },
+  {
+    "instruction": "Zatiak egiazkiak delaurrean zuloa egiazkoa dela defendatzea hutsune logikoa da...",
+    "option_a": "Zatiketa",
+    "option_b": "Koposizioa",
+    "option_c": "Pertsonari egiten zaion deiari erantzuna",
+    "option_d": "Ignorantzian oinarritutako deiari erantzuna",
+    "answer": "B",
+    "id": "logical_fallacies/dev/3"
+  },
+  {
+    "instruction": "Pascalek haurak informazio berria ikasteko erabiltzen dituzten prozesamendu estrategiak interesatzen zaizkio. Pascalek psikologo mota batez sailkatu beharko litzateke?",
+    "option_a": "sozio-kulturala",
+    "option_b": "klinikoa",
+    "option_c": "kognitiboa",
+    "option_d": "portamenduzkoa",
+    "answer": "C",
+    "id": "high_school_psychology/dev/4"
+  },
+  {
+    "instruction": "Galdera honek honako informazioaren testuingurua du.\n\"Zientzialetasunaren arabera, gizarte bakoitzean dauden egoerak ongaria dira, baina gobernuaren egoerak, egoerarik onenak izan arren, beharrezko gaizkiak dira. Egoera txarrean, eramaten ditugun kalte guztiak gobernuari zor diegunez, kalte horiek hori ez daukaguena dezenteatzen digu; zor diogun bidez kalte horiek sorrarazten ditugu. Gobernuak arropa baino eraikinean galdu den zintzotasunaren ikurrak dira. Erregeen jauregiak paradisuan dauden lorezko landareen hondarrak gaindituta eraikitzen dira. Kontzientziaren ibilbide argi, uniformea eta orokorrak badaude, eta inork eskuzabaltzen ez baditu, inork ez litzateke lege egile behar, baina kasu hori gertatzen ez denean, pertsonak bere onurak babesatzeko beharrezkoa duen zatia erreserbak babesteko baliabideak emateko entregatu behar du; eta hori egiteko nahitaezkoa den prudentzia hezurrak eta hilabeteak ez dugunean, bi gaizki artean gutxiengoa hautatzen ahal izango duena hautatu behar du. Hori dela eta, gobernuaren egiten eta helburua segurtasuna den arren, hobeena dela segurtasuna aseguratzeko ahalmen gehienez eta gastu gutxien eskaintzen duen ereduari zor diegunea.\nThomas Paine, Common Sense, 1776\nPost-erroldako Anti-Federalistek honako kalte \"sinestuak\" tartekatu zituzten?",
+    "option_a": "Bacon-eri Errebelatzeko erantzun antolatua",
+    "option_b": "Shays-eri Errebelatzeko erantzun federalkoa",
+    "option_c": "Whiskey Errebelatzeko erantzun federalkoa",
+    "option_d": "Pontiac-en Errebelatzeko erantzun federalkoa",
+    "answer": "C",
+    "id": "high_school_us_history/dev/0"
+  },
+  {
+    "instruction": "Populazio baten hazkunde naturalaren tasa, jai janarien tasa eta heriotz janarien tasa kenduz lortzen da.",
+    "option_a": "Heriotz janarien tasa jai janarien tasatik kenduz lortzen da.",
+    "option_b": "Jai janarien tasa heriotz janarien tasatik kenduz lortzen da.",
+    "option_c": "Bikoitze denbora jai janarien tasatik kenduz lortzen da.",
+    "option_d": "Fertilitate-tasa heriotz janarien tasatik kenduz lortzen da.",
+    "answer": "A",
+    "id": "high_school_geography/dev/0"
+  },
+  {
+    "instruction": "Nola eragin zuen 2008ko krisi finantzarioak Amerikaren nazioarteko er reputazioan?",
+    "option_a": "Politika ekonomiaren eta kapitalismoaren US modeloaren sostenguari kalte egin zion",
+    "option_b": "Amerikaren kontra, krisiaren handitzeagatik haserreka eragin zuen",
+    "option_c": "Obama presidentziaz gain, amerikar erakundearen laguntza handituta izan zen",
+    "option_d": "USA dolar globala erabilpena murriztu zuen",
+    "answer": "A",
+    "id": "us_foreign_policy/dev/0"
+  },
+  {
+    "instruction": "Zein elementu egiten du kultura-sarean regalia?",
+    "option_a": "Ikurak",
+    "option_b": "Ritualak eta errutinak",
+    "option_c": "Eginkizun egitura",
+    "option_d": "Kontrol sistemak",
+    "answer": "A",
+    "id": "management/dev/2"
+  },
+  {
+    "instruction": "Zein bazkidek The Police rock taldeak kaleratu zuen 10 txostenen artean dagoen abesti hauek?",
+    "option_a": "'Radio Ga-Ga'",
+    "option_b": "'Ob-la-di Ob-la-da'",
+    "option_c": "'De Do Do Do De Da Da Da'",
+    "option_d": "'In-a-Gadda-Da-Vida'",
+    "answer": "C",
+    "id": "miscellaneous/dev/4"
+  },
+  {
+    "instruction": "Hurrengo hau ez da egia esaten?",
+    "option_a": "Muskulu-glikogenak enzimki zatitzen da glukosa-1-fosfatera",
+    "option_b": "Elite-endurance-lerrokatzaileek tipo I-ko zuntza kopuru handia dute haien hegazti-muskuluetan",
+    "option_c": "Maltzur-glikogena garrantzitsua da gantz-glukosa konzentrazioa mantentzean",
+    "option_d": "Insulinek gorputzeko gainerako zati guztietan glukosaren hartzea sustatzen du",
+    "answer": "D",
+    "id": "college_medicine/dev/1"
+  },
+  {
+    "instruction": "Eskuz kontrolaturiko edukia eta kalitatea bai, baina helbide pertsonalaren mekanismorik gabe erantzun tasa txikiagoak izaten dira bide honen bidez. Media mota hau hain zuzen dakioke:",
+    "option_a": "Zaintza lerroak.",
+    "option_b": "Posta zuzena.",
+    "option_c": "Txertatutako dokumentuak.",
+    "option_d": "Etxetik etxera.",
+    "answer": "D",
+    "id": "marketing/dev/4"
+  },
+  {
+    "instruction": "Psikologiako egoismoa da:",
+    "option_a": "nola behar dugun jokatu etikoaren teoria bat.",
+    "option_b": "jendea jokatzeko modu orokorrari buruzko adierazpen bat.",
+    "option_c": "giza naturren inguruko eskaera bat da eta jendeak jokatzeko moduak izan ditzakeenak.",
+    "option_d": "inork ez.",
+    "answer": "C",
+    "id": "philosophy/dev/0"
+  },
+  {
+    "instruction": "Zein leku da rockaren legeen Cheap Trick-ek 1979ko bizirik grabatutako albumaren izenburuan adierazi den?",
+    "option_a": "Budapest",
+    "option_b": "Budokan",
+    "option_c": "Bhutan",
+    "option_d": "Britain",
+    "answer": "B",
+    "id": "miscellaneous/dev/1"
+  },
+  {
+    "instruction": "22 urteko gizona, maratoilari, eskuin aldeko izar-sakonerako lotsa duela komplaintza ematen du bulegora hurbiltzen da. Froga fisikoa baten ondoren, bihotz eta arnasketa ongi daudenak eta eskuinera 4-5 izarretan aritu gabe egiten du. Hurrengo múskulo edo taldetxoengatik, zein da erabilgarriena disfuntzio hau zuzentzeko, hurbiltasun metodo zuzenean erabiltzen duten alderdiak kontuan hartuta?",
+    "option_a": "aurreko eskalea",
+    "option_b": "latissimus dorsi-a",
+    "option_c": "pectoralis minor",
+    "option_d": "quadratus lumborum-a",
+    "answer": "C",
+    "id": "professional_medicine/dev/4"
+  },
+  {
+    "instruction": "Pentsatu orain ikusle bat investigación kualitatiboen metodoa erabilita optimo baten lag luzeera determinatzeko. Bi-bariategiko VAR-ra 500 zehaztapen daude, eta gainerakoen erresiduentzako bariantza-matrizearen determinantearen balioak 0.0336, 0.0169, 0.0084 eta 0.0062 dira hurrenez hurren 1, 2, 3 eta 4 lagentei dagokionez. Zein da optimo modelo-ordena Akaike-ko informazio-kriterioren arabera?",
+    "option_a": "1 lag",
+    "option_b": "2 lag",
+    "option_c": "3 lag",
+    "option_d": "4 lag",
+    "answer": "C",
+    "id": "econometrics/dev/4"
+  },
+  {
+    "instruction": "Z_3-an c guztiak bilatu hainbat Z_3[x]/(x^2 + c) eremuetan, eremua eremuga izan dadin.",
+    "option_a": "0",
+    "option_b": "1",
+    "option_c": "2",
+    "option_d": "3",
+    "answer": "B",
+    "id": "abstract_algebra/dev/0"
+  },
+  {
+    "instruction": "Estatu batek derrigorrezkoa du hainbat hiri-hondakinen murriztea estatuan bertan. Arau hori estatuko edozein legeriarekin ez da alderatzen edo gatazkatzen. Gizona, hiri-hondakinen tratamenduan aritzen den enpresa bat eramaten du estatuan, baina lanaldi bakoitzean ohartarazi ez zaiola lege berriaz, kanpoaldeko hainbat enpresekiko kontratuak sinatzeko proposatu zitzaiola. Hainbat enpresarekin kontratu horiek sinatuz gero, berdin, ezin izan da lege hori aplikatu. Gizona, batez ere, legeri hori apelatzeko aukera du. Zein hau da informazio hori kontuan hartuta, Zer jarraitu dezake eskubide konstituzional hauteskunde gehien eskuragarriena estatuan hiri-hondakinen hondamendua debekatzen duen lege hau apelatu nahi badu?",
+    "option_a": "Merkataritza araua.",
+    "option_b": "Hirugarren Errefuxiatua dela eta berdintasun araua.",
+    "option_c": "Artikulu IV, 2. Atalaren baimenak eta imunitateak.",
+    "option_d": "Kontratuaren araua.",
+    "answer": "A",
+    "id": "professional_law/dev/1"
+  },
+  {
+    "instruction": "Itsasontzi baten bidez, laranja larreko handi baten jabeak frosten abisu bat jasoko ondoren, bere langileei esan zien zuhurtzia jarioz trattu guztiak. Ura izoztu eta laranja-bihotz inguruan mahaia egin daiteke, babesteko jainko-lapurreta sortzeko. Halere, jabeak uste zuen zenbaki handi batzuk zorrozteak jasaten zituztela, izan ere, zenbaki hori kalkulatzeko, zerbitzu erabiliz haren laranja larrekoa azpikontrataturiko langileen informazioa bilatu behar zuela uste zuen. Bizi-baldintza baten azterketa da hau.",
+    "option_a": "Zorrozteak hainbat damage pairatuen diren zuhaitzek, ehunetik garrantzitsuagoak.",
+    "option_b": "Zorrotzak ikuspegiaren arabera ziurtatu nahi den zuhaitz kopurua.",
+    "option_c": "Larreko zuhaitzetako puntaz puntu aukeratutako 100 zuhaitzek osatutako muestrekoa.",
+    "option_d": "Muestrekatutako bakoitzean, zorrotzek 50 edo zenbatu eragin zituen.",
+    "answer": "D",
+    "id": "high_school_statistics/dev/2"
+  },
+  {
+    "instruction": "Web nabigatzaile askok erabiltzaileei leiho anonimoak irekitzeko aukera ematen diete. Leiho anonimoko nabigazio-saio batean, nabigatzaileak ez du nabigazio-historikorik edo deskargatutako fitxategien zerrendarik grabatzen. Leiho anonimoa ixtean, saioan sortutako cookieak ezabatzen dira. Leiho anonimo batean nabigatzen ari den erabiltzaileari buruz hitz egiten denean , zeinuen sarearen jarraibideak nabaritzen duen jendearentzat, esaterako, sistema administratzailearentzat ez dira ikusiko.",
+    "option_a": "Leiho anonimo batean nabigatzen ari den erabiltzailearen jarduerak ez dira sareko jendeak ikusgai izango, sistema administratzaileak bezala.",
+    "option_b": "Web dendako denda-txartelen barruan gordeta utzi diren produktuak ez dira gordeko erabiltzailearen ordenagailuan futuroko erosketarako anonimo nabigazio-saioan.",
+    "option_c": "Erabiltzaileak ezin izango du posta elektronikoko edo gizarte media kontuak saioa anonimotan irekitzen ari den bitartean hasierako saioan idazten.",
+    "option_d": "Leiho anonimon nabigatzen ari den erabiltzailea babestuta egongo da bisitatutako webguneetako edo deskargatutako fitxategietatik abiatutako birusetatik.",
+    "answer": "B",
+    "id": "high_school_computer_science/dev/1"
+  },
+  {
+    "instruction": "Zeintzuk dira Ohio Leadership ikerketak bi dimentsio nagusiak?",
+    "option_a": "Hasi posizioa eta amaiera posizioa",
+    "option_b": "Hasierako ingurunea eta aldatutako ingurunea",
+    "option_c": "Erakunde egitura eta kondizionamendua",
+    "option_d": "Egituren abiatzea eta kontsiderazioak",
+    "answer": "D",
+    "id": "management/dev/0"
+  },
+  {
+    "instruction": "Ezinbestekoak dira ez-erlejekoen independenteak independentziaren bermatzeko hartu daitezkeen neurri batzuk, hala nola ________ enpresatik hartzeko, _________ denbora-tarte bati egokituz eta __________ baimenduak izanik ordezkatzea.",
+    "option_a": "Kanpokoak, mugatuak, Independente",
+    "option_b": "Barnekoak, mugatuak, Tartean-tartean",
+    "option_c": "Kanpokoak, mugagabeak, Tartean-tartean",
+    "option_d": "Barnekoak, mugagabeak, Independente",
+    "answer": "A",
+    "id": "business_ethics/dev/2"
+  },
+  {
+    "instruction": "Errotutegia aztertzeko hiru modu daude: batezbestekoa, mediana eta modua. Zure ezagutzatik, nola da modua?",
+    "option_a": "batazbesteko baino ekaitzeko puntu handiagoa du",
+    "option_b": "denboraldi akomodatu gabeko banakuntza kasu gehiagoetarako egokia da",
+    "option_c": "ekaitzen balio oso desberdinak aztertzen ditu eta denboraldiak oso asymmetrikoak direnei egokia da",
+    "option_d": "gehien gertatzen den zenbakia",
+    "answer": "D",
+    "id": "professional_psychology/dev/1"
+  },
+  {
+    "instruction": "Hoeffding-en ebazpenaren arabera, 0/1 galeraren %1 baino txikagoa (probabilitatea %95) den iragarpena lortzeko, NIF testuinguruak zenbat esperimentu izan behar ditu?",
+    "option_a": "10 inguru",
+    "option_b": "100 inguru",
+    "option_c": "100 eta 500 artekoak",
+    "option_d": "1000 baino gehiago",
+    "answer": "D",
+    "id": "machine_learning/dev/3"
+  },
+  {
+    "instruction": "Esku-funtzionamenduaren ebaluazioan, zein da hurrengo egia?",
+    "option_a": "Larreko  T2 espinalen bidez, hatzaren aldezturen daiteke",
+    "option_b": "Hatzaren kontrako eraginarekin, hatzaren aldezturak kontraintzekoa egiten du T1 espinalen bidez",
+    "option_c": "Mediako zurrunkaria erabiliz, hatzaren gehitzea egiten da",
+    "option_d": "Palmar interosseiekin, hatzaren aldezturak espaldezturaren aldeera mugitzen dira",
+    "answer": "B",
+    "id": "clinical_knowledge/dev/2"
+  },
+  {
+    "instruction": "2019an, zein ehuneko portzentaje askotarikoentzat da egia eskualde guztietarako bizi-kalitatea hobetzeko lortutako egoerarekin adostasuna?",
+    "option_a": "31%",
+    "option_b": "46%",
+    "option_c": "61%",
+    "option_d": "76%",
+    "answer": "B",
+    "id": "global_facts/dev/1"
+  },
+  {
+    "instruction": "Orain ikertzaileek uste dute Mayaren hondamendua hauengatik sortu zenik:",
+    "option_a": "moteldu bat, adibidez lurjotzea, tindatzea edo itsunaldia.",
+    "option_b": "slasu eta erregeztatze laborantza tekniken ondorioz gertatutako ingurumen krisiarena.",
+    "option_c": "hiri-estatu maya aniztasun arteko gerrak amaieraraino.",
+    "option_d": "oplegika kaltetako gorakada gidatutako abiadura pairatzen duten arteko arteko harremanak.",
+    "answer": "B",
+    "id": "prehistory/dev/2"
+  },
+  {
+    "instruction": "Zenbat haur ume ugari ditugu munduko sorreraren babesa hauek nola hilabete betetzean babestuta daudela jakin bai 2017n? *",
+    "option_a": "80%",
+    "option_b": "60%",
+    "option_c": "40%",
+    "option_d": "20%",
+    "answer": "A",
+    "id": "global_facts/dev/4"
+  },
+  {
+    "instruction": "Hiru elementu horietako zein du nukleoko pisu handiena nukleoko bakoitzean?",
+    "option_a": "Hidrogenoa",
+    "option_b": "Burdin",
+    "option_c": "Uranoa",
+    "option_d": "Berdin da bakoitzean",
+    "answer": "A",
+    "id": "conceptual_physics/dev/4"
+  },
+  {
+    "instruction": "Nola aldatu zen NSC-68k AEBen estrategia?",
+    "option_a": "Mundu-osorako hedatzea kontengailua.",
+    "option_b": "Militarizatu egin zuen kontengailua.",
+    "option_c": "Hidrogenio bombaren garapena eskatu zuen.",
+    "option_d": "Guztiak aipatutakoak",
+    "answer": "D",
+    "id": "us_foreign_policy/dev/1"
+  },
+  {
+    "instruction": "Zeintzuk dira 2020 artean kolon kantzerearen kontra fibra diteriaren efektu babestagarriena azaltzen duten aukeren artean?\n",
+    "option_a": "Propioniko hapea, kolon fibra fermentazioan sortzen dena, hepako lipidu-sintesiak debekatzen ditu",
+    "option_b": "Butiriko hapea, kolon fibra fermentazioan sortzen dena, SLC5A8 kartsino estaltzaile genearen \"isilik\" jarrera sustatzen du",
+    "option_c": "Aukerarik ez da zuzena",
+    "option_d": "Butiriko hapea, kolon fibra fermentazioan sortzen dena, antioksidante defentsak sustatzen ditu kolonetan",
+    "answer": "D",
+    "id": "nutrition/dev/2"
+  },
+  {
+    "instruction": "Zein irudi datuen birtualizazio da naturalen araberako gehien erabilia?",
+    "option_a": "lerroka alboko ebakiak eta flip horizontala",
+    "option_b": "lerroka alboko ebakiak eta flip bertikala",
+    "option_c": "postaerizazioa",
+    "option_d": "dithering-ekoa",
+    "answer": "A",
+    "id": "machine_learning/dev/1"
+  },
+  {
+    "instruction": "Zein prozesu termodinamiko hurrengoetako batean, gas ideal baten energia barruko igoerak gehitu diren beroa baino berbera da?",
+    "option_a": "Tenperatura konstantea",
+    "option_b": "Bolumen konstantea",
+    "option_c": "Presio konstantea",
+    "option_d": "Adiabatikoa",
+    "answer": "B",
+    "id": "college_physics/dev/1"
+  },
+  {
+    "instruction": "Ez dira ezberdinak diren gauzak berdinak izanik, zein pertsona horietatik osteoporosis hobeto agertuko du?",
+    "option_a": "Gazteago hainbat Ameriketako hispaniar emakume",
+    "option_b": "Afrikako amerikar emakume zaharrago bat",
+    "option_c": "Gazteago hainbat Asian amerikar emakume",
+    "option_d": "Eskualde amerindiar zaharrago batekiko emakume batekiko",
+    "answer": "C",
+    "id": "human_aging/dev/4"
+  },
+  {
+    "instruction": "Zein datorren hurrengo baldintzak, oinarrizko oligopolioaren ezaugarri dira?",
+    "option_a": "Merkatuan inportazio eta irteeren askatasuna",
+    "option_b": "Ekoizle handi batzuk",
+    "option_c": "Produktu bakarraren kopurua onartuta duten produktorea",
+    "option_d": "Produktu homogeneoa",
+    "answer": "B",
+    "id": "high_school_microeconomics/dev/4"
+  },
+  {
+    "instruction": "Angle-en II. mailako Div 2-eko oklusioko kasuan,",
+    "option_a": "goiko albeurreko hizki lateralen gaineko gainazala gehiegizkoa da.",
+    "option_b": "goiko aldeko hizki zentralen gaineko gainazala negatiboa da.",
+    "option_c": "goiko albeurreko hizki lateralentzako gainazal gehiegizkoa da.",
+    "option_d": "goiko aldeko hizki zentralentzako gainazal gehiegizkoa da.",
+    "answer": "C",
+    "id": "anatomy/dev/3"
+  },
+  {
+    "instruction": "Krete ez da kasorik gabeko zerga-betebeharkide, ordainketa-bidezko irabazi bakarra duena. Year 1aren azaroaren 31era arte, Kretek $ 16.000eko zerga-txosten federalak kudeatu ditu eta Kretek ez du estimazio-ordainketa egiten. Year 2ko apirilaren 15ean, Kretek luzatze-eskaerarako eskaera egiten du bere norberako zerga-txostena aurkezteko, eta 300 dolar gehiago ordaindu ditu. Kreteko 1. urtea zerga-zorrak 16.500 dolar izan zen bere zerga-txostena egun-ordu egiterakoan, year 2ko apirilaren 30ean, beteran ordaindu baititu zerga-zorpenaren gainontzeko zorreraren saldoa. Zenbat da estimazio-ordainketen beherapeneko zorritzat jotako zenbatekoa?",
+    "option_a": "$0",
+    "option_b": "$500",
+    "option_c": "$1,650",
+    "option_d": "$16,500",
+    "answer": "A",
+    "id": "professional_accounting/dev/2"
+  },
+  {
+    "instruction": "Ekivalente shakeiak diren gauzak dira hurrengoak",
+    "option_a": "espazioa eta denbora.",
+    "option_b": "bidaiatzen den anaia-mutila eta etxean geratzen den bestea.",
+    "option_c": "grabitatea eta abiadura.",
+    "option_d": "masa eta energia.",
+    "answer": "C",
+    "id": "conceptual_physics/dev/1"
+  },
+  {
+    "instruction": "Zeozaldi Gaua zelan bultzatu zuen erakundea zen?",
+    "option_a": "Greenpeace",
+    "option_b": "EB",
+    "option_c": "Oxfam",
+    "option_d": "Mundu Biodibertsitate Fondoa",
+    "answer": "D",
+    "id": "public_relations/dev/4"
+  },
+  {
+    "instruction": "Zein da zuzeneko kategoriako silogismo egoki baten adierazgarri?",
+    "option_a": "Galdekariaaren aurka egon behar da txikiko premisa",
+    "option_b": "Nagusikiaren aurka egin behar da ondorioa",
+    "option_c": "Erdi terminoa, aipa daiteke beharrezko baldintzarekin edo baldintza gabeko adierazpen batean",
+    "option_d": "Guztiak lehenbizikoak direla",
+    "answer": "C",
+    "id": "logical_fallacies/dev/2"
+  },
+  {
+    "instruction": "Zein da hurrengo politika hau deskribatzen duen hainbat-politikak onena hornitzen? ",
+    "option_a": "Moneta-bolumenaren handitzea",
+    "option_b": "Gobernuaren gastu handitzea",
+    "option_c": "Teknologia berrien ikerketan zergak murriztea",
+    "option_d": "Bizitzako diru-sarreretan zerga handiagoak",
+    "answer": "C",
+    "id": "high_school_macroeconomics/dev/4"
+  },
+  {
+    "instruction": "Zein botere-mota zapaldu egiten ditu OKKOaren 2(4) artikuluak?",
+    "option_a": "2(4) artikuluak indar armaturik bakarrik hartzen ditu barne",
+    "option_b": "2(4) artikuluak neurri guztietako botereak hartzen ditu barne, sanzioak barne",
+    "option_c": "2(4) artikuluak Estatuen egoera barruan eragin guztia hartzen du barne",
+    "option_d": "2(4) artikuluak botereak Estatuen esparru integritatea aurkako mugak bakarrik hartzen ditu barne",
+    "answer": "A",
+    "id": "international_law/dev/0"
+  },
+  {
+    "instruction": "Pamplona eremuan smartwatch berritxoa fabrikatzen da, eta hurrengo eremu independente batean bidalketa segurtasunerako konpontzen da. Smartwatch-en pisua 62 gramoaren batez bestekoa eta desbideratze estandarra, 1,0 gramo, dauka. Paketatzeko pisua (kaxa, erabiltzailearen gidaria, burbuila estalia, etab.) batez besteko balioa 456 gramo eta desbideratze estandarra, 6 gramo, dauzka. Bietako pisuen arteko banaketa batez besteko eta desbideratze estandarra honako hauek izango lirateke:",
+    "option_a": "Batez besteko 518 gramo; desbideratze estandarra 7,0 gramo",
+    "option_b": "Batez besteko 518 gramo; desbideratze estandarra 3,5 gramo",
+    "option_c": "Batez besteko 518 gramo; desbideratze estandarra 6,1 gramo",
+    "option_d": "Batez besteko 394 gramo; desbideratze estandarra 6,1 gramo",
+    "answer": "C",
+    "id": "high_school_statistics/dev/3"
+  },
+  {
+    "instruction": "Kudeaketa arloko arazoetan, zer da zure erakundeari buruz egiten den informazio negatibo edo gezurragatik hobekuntza proaktiboena?",
+    "option_a": "Erosi eraso taldeen erabil ditzakeen domeinu izenak.",
+    "option_b": "Iruzkin anonimoak argitaratu blogetan informazio hori borrokatzeko.",
+    "option_c": "Preparatu berri batean desmuntatzen duen informazio gezurra.",
+    "option_d": "Politika-aldaketa egiten erregistro hauen tarteko egiten dituzten kritiken aurrean.",
+    "answer": "D",
+    "id": "public_relations/dev/1"
+  },
+  {
+    "instruction": "Tolstoy-ren konbertsio kristaua aurretik, bizitzaaren esanahia nola ikusi zuen?",
+    "option_a": "optimista",
+    "option_b": "baldintzatuta",
+    "option_c": "izpiritu handiarekin adierazita",
+    "option_d": "pesimista",
+    "answer": "D",
+    "id": "philosophy/dev/3"
+  },
+  {
+    "instruction": "Zein ez zen 1948ko gatazka osteko ondare-egoera eskatzen duen indarrean jartzen ez zen helburu?",
+    "option_a": "unibertsitate hezkuntza eta osasun dohainik ematea denokentzat",
+    "option_b": "gutxienezko soldata",
+    "option_c": "lan inkapazitatea",
+    "option_d": "unibertsal ohiturak",
+    "answer": "B",
+    "id": "sociology/dev/0"
+  },
+  {
+    "instruction": " Hamar ikasleek biologia azterketa bat egin dute eta hurrengo puntuazioak jaso dituzte: 45, 55, 50, 70, 65, 80, 40, 90, 70, 85. Zein da ikasleen azterketetako puntuazioen batazbestekoa?",
+    "option_a": "55",
+    "option_b": "60",
+    "option_c": "62",
+    "option_d": "65",
+    "answer": "D",
+    "id": "high_school_mathematics/dev/4"
+  },
+  {
+    "instruction": "Higiene faktoreak zein idazleari lotuta daude?",
+    "option_a": "Frederick Hertzberg",
+    "option_b": "D.C. McClelland",
+    "option_c": "Abraham Maslow",
+    "option_d": "Douglas McGregor",
+    "answer": "A",
+    "id": "management/dev/1"
+  },
+  {
+    "instruction": "Beheko programan, x-ren balore hasierak 5 dira eta y-ren balore hasierak 10 dira.\n BALDIN ETA (X < O)\n {\n BISTARATU (\"Foxtrot\")\n }\n BESTE\n {\n BALDIN ETA (X > y)\n {\n   BISTARATU (\"Hotel\")\n }\n BESTE \n {\n   BALDIN ETA (y > O)\n   {\n   BISTARATU (\"November\")\n   }\n   BESTELAKO KASUAN\n   {\n   BISTARATU (\"Yankee\")\n   }\n }\n }\n \n Programa exekutatu ondoren zer bistaratuko da?",
+    "option_a": "Foxtrot",
+    "option_b": "Hotel",
+    "option_c": "November",
+    "option_d": "Yankee",
+    "answer": "C",
+    "id": "high_school_computer_science/dev/3"
+  },
+  {
+    "instruction": "Zuritza ICCPR delituen definiziorako erreserbak egokia da gaur egungo praktikean?",
+    "option_a": "Hau onartezina da, baina nahitaezkoa da hastapenen legeak definizio ezberdin bat erabiltzen badu erreserba burutu nahi den herrialdeak",
+    "option_b": "Hau onartezin gabeko erreserba da, ICCPRaren helburu eta xedea urratzen duelako",
+    "option_c": "Hau onartezin gabeko erreserba da, ICCPRan agertzen den torzioaren definizioak adierazten duen arau internazionaletan oinarrituta dagoelako",
+    "option_d": "Hau onartezina da, nahiz eta estatuok itunetara erreserbak sartzearekin lotutako arau internazionalean oinarrituta eskubidea izan duten",
+    "answer": "B",
+    "id": "international_law/dev/2"
+  },
+  {
+    "instruction": "Baronek aitortzen du bere azterketan aztertutako tiketxako bombaren bertsioak «ikitxaroparaziak» direla, baina horrek frogatzen duela diotsu:",
+    "option_a": "filosofia tradizionalaren kasu gehienetan, bertsio horiek kitzikorrak direla.",
+    "option_b": "ikasketak burutu dituztenen artean adimen falta orokorrekoaren ondorioz gertatzen direla.",
+    "option_c": "torturaren okerrarengatik.",
+    "option_d": "inteligente askoren aldetik, tortura kontraesan gertakariak kutsatzen direla, hainbat kasutan bide onena delako terrorismorekin eta hartuko ere ez badu. Duela inondik inora ez da egokirik.",
+    "answer": "D",
+    "id": "moral_disputes/dev/4"
+  },
+  {
+    "instruction": "Zein da hurrengo hainbatetako gutxiengoen baten barruan dagoen ondasun intrinsicoa, Singerren arabera?",
+    "option_a": "goi mailako klasean egotea",
+    "option_b": "ikasi eta konponbideak aurkitzea duinenean",
+    "option_c": "biztanle gehien baino hobeagoa izatea",
+    "option_d": "averia baino txikiagoa izatea",
+    "answer": "B",
+    "id": "moral_disputes/dev/2"
+  },
+  {
+    "instruction": "Zenbat txekurre ditu automobil estandarrek?",
+    "option_a": "bat",
+    "option_b": "bi",
+    "option_c": "lau",
+    "option_d": "zortzi",
+    "answer": "B",
+    "id": "miscellaneous/dev/0"
+  },
+  {
+    "instruction": "Glukosa sartzen da muscular gelaera:",
+    "option_a": "GLUT4 dei-tako proteina-transferentziei esker.",
+    "option_b": "aitortza batekin baino ez.",
+    "option_c": "hexokinase bidez.",
+    "option_d": "monocarbylic acid transferentziei esker.",
+    "answer": "A",
+    "id": "college_medicine/dev/0"
+  },
+  {
+    "instruction": "3 Cl−(aq) + 4 CrO_4^2−(aq) + 23 H+(aq) → 3 HClO2(aq) + 4 Cr3+(aq) + 10 H2O(l). Azken ariketa hauetan, Cl−(aq) berak jokatzen du",
+    "option_a": "adur",
+    "option_b": "oinarri",
+    "option_c": "katilizatzailea",
+    "option_d": "murrizketa agentea",
+    "answer": "D",
+    "id": "college_chemistry/dev/3"
+  },
+  {
+    "instruction": "“Aurrekontu defizitua” terminoak honela esan nahi du:",
+    "option_a": "Gobernuak militarrari eginiko gastuaren %ko %anualko handitzea",
+    "option_b": "Herri-ordainkariari buruzko interes kopurua",
+    "option_c": "Lehendakariak eta Kongresuak egindako aurrekontu proposamenetako bereizketak",
+    "option_d": "Gobernuak sarrerekiko gehiago gastatzen duen zenbakia",
+    "answer": "D",
+    "id": "high_school_government_and_politics/dev/1"
+  },
+  {
+    "instruction": "Galdera honek hurrengo informazioari buruz hitz egiten du.\nAzpimarrak 1651ko Nabigazio Akteetatik hartuak dira.\nAurreko abenduaren lehen egunaren ondoren mila hiru ehun hamaikatik aurrera, ezin izango dira inportatu edo eraman edozein merkataritza edo kalitateko merkantzia, Aisia, Afrika edo Amerikaren hazkunde, produkzioa edo fabrikazioa edo hauen alderatik edo hartatik hartutako uharte guztiak, izan ere, hauen mapetan edo argazkitan adierazitako guztiak, hainbat landatan, uhartetan, landa-eriezina eta lurralde-etxeetan ezin izango dira inportatu bestelako ontzia edo ontzirik gabe, estatuan bizi diren pertsonen edo haien landareziotraren jabeenak ez diren ontziek soilik inportatu ahal izango baitira, baita haien kapitain eta gizona ere estatuan bizi direnek, akto honen aurkako inportatutako guztien galera eta galera guztiak galera.",
+    "option_a": "Ingelerra itsasadarrirako garapena eta kanpo-merkataritza sustatzeko katalizatzaile gisa funtzionatu ziren, baina ikuskizun gutxi ere ez zuen herrialde Olandarren aitzakiaz mugatuko XVII. mendea zehar.",
+    "option_b": "1651eko Nabigazio-aktek hainbat kaltetan murgildu zituzten, nola hamaika han berean, Olandako ekonomian barrena, beraiek kanpo-merkataritzan esku hartu zuten mendebaldeko ondarea.",
+    "option_c": "Jartzen dituzten, Stuart restaurazioaren aurretik bertatik bertara utzi zirela, olandarrarekin diplomatikoki harreman normalak lortzeko, gerrarako Parlamentuaren laguntza behar izan gabe.",
+    "option_d": "Lurralde eta lurralde arteko gatazkak luzaro bizi ziren, 100 urtebete baino gehiago, eta AEBko independientzia ondoren amaituko ziren.",
+    "answer": "A",
+    "id": "high_school_european_history/dev/3"
+  },
+  {
+    "instruction": "Goizeko ezerketa arriskutsua izaten da:",
+    "option_a": "hirugarren hilabete honetan",
+    "option_b": "hogeita hamarreko hilabeteetan",
+    "option_c": "hogeita bosteko hilabeteetan",
+    "option_d": "haurdunaldiko denboraldian zehar",
+    "answer": "A",
+    "id": "human_sexuality/dev/0"
+  },
+  {
+    "instruction": "13C-etiketatutako metil erradikalaren (13CH3•) soluzio bateko EPR espektrumeko lerro kopurua aurreikusi, lerroak ez dutela gainditzen.",
+    "option_a": "4",
+    "option_b": "3",
+    "option_c": "6",
+    "option_d": "24",
+    "answer": "A",
+    "id": "college_chemistry/dev/2"
+  },
+  {
+    "instruction": "Timothy Pauketat-en arabera, Cahokia hirian alderdi sozial eta botere politikoa frogatzen duten datuen arabera, hainbat gauza gertatzen zirela uste da:",
+    "option_a": "Mississippian zibilizazioaren erdigunea, estatu aurreratuak marraztu zuen lekuetan antzeko baldintzak izan zituela.",
+    "option_b": "indigena amerikar elkarte batean, bereizketa gabeko bilkarien aldeko ordezkaritza arauak txikitutako agintasun mugak dituela.",
+    "option_c": "adibidez, 1500.eko hamarkadako A.D-ra arte kompleksu baterako erregimen bat garatu zela.",
+    "option_d": "Mississippian zibilizazioaren erdigunea, Ipar Amerikako kostaldeko elkarteetako sozietateei antzeko baldintzak izan zituela.",
+    "answer": "A",
+    "id": "prehistory/dev/1"
+  },
+  {
+    "instruction": "Zein modutan aurkako amena securitized bihurtu ahal da?",
+    "option_a": "Eskutitza ezinbestekotasun behartasunez eta ekintzen erraztasunez eragindako amena gisa, estatuaren biziraupena edo gizarte segurtasunaren arriskua dakartza.",
+    "option_b": "Eskutitza ezinbestekotasunarekin eta ekintzen erraztasunez krisiaren objektuaren biziraupena arrisku duenez, politika berezian ez erabilera ohikoenen laguntza beharrezkoa baitu.",
+    "option_c": "Eskutitza ezinbestekotasun handiko krisi gisa, objektuaren biziraupena dakartzan krisi benetakoena baita, eta erreakzio sakonak beharrezkoak egiten ditu.",
+    "option_d": "Entzuteak biziraupenaren eskutitza pizteko daukan krisi gisa ulertzen da, eta majorengatiko edo emergentziako neurriak behar ditu.",
+    "answer": "C",
+    "id": "security_studies/dev/2"
+  },
+  {
+    "instruction": "CSRrekin loturiko negozio-kasuaren argudioaren ondorioetarako, negozioentzat eduki moral batzuk daude, hainbat hausnarketa eraginkorrerelatuta: kanpoaldeko aurrekontu-kostuetaz, korporazioek dauzkaten _________ eta negozioaren eta gizartearen _____________-ei buruz",
+    "option_a": "Kanpoaldeko kostuen indarrean egonkortasuna, boterearen independentezia,",
+    "option_b": "Hedapena, baliabide gutxitasuna, menpeko elkartasuna",
+    "option_c": "Hedapena, Boterea, Independentezia",
+    "option_d": "Kanpo-aldekariak, Boterea, Menpeko elkartasuna",
+    "answer": "D",
+    "id": "business_ethics/dev/0"
+  },
+  {
+    "instruction": "Auto ilunpetuta egon den 32 urteko emakume osasungarri batek gaixoari joan zaio 8 hilabetez geroztik bere senarra auto istripu batean hil zenean. Orduantxeetatik aurrera, janari-apetitoa murriztu da eta lo egitean zailtasunak izan ditu. Esaten du triste egoteak eta, askotan, negar egitea. Etxetik ateratzeko aurreko altxorra bost aldiz aztertzen du eta paperezko komuneko pieza bost zenbakira pasatzeko beharrezkoak direla di. Beti izan da perfekzionalista baina norberaren nahasketa berriak dira hauek. Farmakoterapia zein neurotransmiterrengatik zuzendu behar da?",
+    "option_a": "Dopamina",
+    "option_b": "Glutamatoa",
+    "option_c": "Norepinefrina",
+    "option_d": "Serotonina",
+    "answer": "D",
+    "id": "professional_medicine/dev/2"
+  },
+  {
+    "instruction": "Hautatu predikatu logikorik onena: Inork ez du gidatzen Marson.",
+    "option_a": "~Pd",
+    "option_b": "(∀x)(Px ∨ ~Dx)",
+    "option_c": "(∀x)(Px ⊃ ~Dx)",
+    "option_d": "~Dp",
+    "answer": "C",
+    "id": "formal_logic/dev/0"
+  },
+  {
+    "instruction": "Zein izan zen Donald Trump-ek globalizazioa 2016ko kanpainan inoiziko?",
+    "option_a": "Globalizazioak gizon hau bezalakoak aberasten dituela argi geratzen da",
+    "option_b": "Globalizazioak Estatu Batu Batu zehazki hainbat estatutan soilik, New York hala adibidez, onuraduna izan zen",
+    "option_c": "Liberalek ahalbidetu zuten globalizazioa, inork ez zen lanpostuak galdu horren ondorioz",
+    "option_d": "Globalizazioak gatazka merkeak bultzatzen zituen",
+    "answer": "C",
+    "id": "us_foreign_policy/dev/4"
+  },
+  {
+    "instruction": "Jokaera-ebazpenaren helburu garrantzitsuenak hauetariko bat da:",
+    "option_a": "Jokabidea aldatzea",
+    "option_b": "Azalpen osagarria",
+    "option_c": "Jokabidea teoria jarrera erabilgarri eta eraginkorragoa",
+    "option_d": "Jokabidea iraunkorrakaldatzea",
+    "answer": "D",
+    "id": "virology/dev/3"
+  },
+  {
+    "instruction": "Mahasti kasu-kontrol adierazpenak MACS-tik errazten duen faktore garrantzitsua biologikoki hainbat espezimenezko biltegia izatea da.",
+    "option_a": "Datu bilduma",
+    "option_b": "Biologikoki hainbat espezimenezko biltegitik baliatzea",
+    "option_c": "Partaideen interesak",
+    "option_d": "Galdekariaren administrazioa taldeko langileekin",
+    "answer": "B",
+    "id": "virology/dev/2"
+  },
+  {
+    "instruction": "Hiruak errepikatze handiak detektatu daitezke hurrengo bideekin:",
+    "option_a": "polimerasa kate erreplikazioa.",
+    "option_b": "simplifikazio konformazionala bikoitza analisia.",
+    "option_c": "Southern blotting-a.",
+    "option_d": "Western blotting-a.",
+    "answer": "C",
+    "id": "medical_genetics/dev/0"
+  },
+  {
+    "instruction": "Glikolisia izena ematen zaio bideari, honen bidez bihurketa bat eginda:",
+    "option_a": "glikogenoa gluosa-1-fosfatera.",
+    "option_b": "glikogenoa edo gluosa fruktosara.",
+    "option_c": "glikogenoa edo gluosa pirubatera edo laktatera.",
+    "option_d": "glikogenoa edo gluosa pirubatera edo acetyl CoA-ra.",
+    "answer": "C",
+    "id": "clinical_knowledge/dev/4"
+  },
+  {
+    "instruction": "X eta Y aldagai aleatorioak izanik, E(X) = 37, bar(X) = 5, E(Y) = 62, eta bar(Y) = 12. X + Y aldagai aleatorioaren balio esperatua eta bariazioa nola kalkulatu?",
+    "option_a": "E(X + Y) = 99, bar(X + Y) = 8.5",
+    "option_b": "E(X + Y) = 99, bar(X + Y) = 13",
+    "option_c": "E(X + Y) = 99, bar(X + Y) = 17",
+    "option_d": "Galdera hau erantzuteko informazio ez da nahikoa.",
+    "answer": "D",
+    "id": "high_school_statistics/dev/1"
+  },
+  {
+    "instruction": "Zein dira 2020an (gaur egungoan) terrotismoaren azterketa egiteko erabiliko diren analisi esparruak?",
+    "option_a": "Nazio handiagoen arteko lehiaketa Estatu indarren indargabetze aldera talde terrotistak laguntzen dituzte, estatu esplotatzaileek laguntzen dituzte, eta estatu agenteen antzezpenetako gisa ikusita kontzeptualizatzen dira, indarkeria militarrarekin tratatzeko. ",
+    "option_b": "Globalizazioak terrorismo jarduerak nazional erakutsiak dira, baina koordinazioa geografikoki kontrolatzen da. Hau terrorismoaren errealitatea nazio mailan erabilera ezin da izan errepresio militar eta ingurumeneko populazioko erantzun handia izanik.",
+    "option_c": "Terrorismoa militarraren bidez konpontzeko arazoa da (terrotismoaren gudari geratuan), normalizazio urte bidez (terrotismoa krimen gisa) edo menderako arazo bezala ikusteko (terrotismoa gaixotasun gisa).",
+    "option_d": "Terrorismoa arazo kriminale bezala ikusita da. Terrorismo kriminalizazioa gauza bi duten eragina, hainbat eskuzabaldu: hainbat bide ezberdinetatik eratutako terrorista kalez kondenatu eta garhi ekosistema gizartearengandik kentzekoa, baita garapena saihesteko krimen prebentiboen teknikak ezartzea ere. ",
+    "answer": "C",
+    "id": "security_studies/dev/4"
+  },
+  {
+    "instruction": "Epaiariek epaiketak hasieran egindako fakturei buruzko jakin-mina hartu zuten. Behin-behineko jakin-mina ez den fakturei buruzko faktore zuzena nola da?",
+    "option_a": "Faktore eztabaidagabeak.",
+    "option_b": "Politika-taldeen aldarrikapenak diren faktoreak.",
+    "option_c": "Ezagutza orokorrean benetakoak diren faktoreak.",
+    "option_d": "Faktore zientifiko-egiaztapen baliokideak diren faktoreak.",
+    "answer": "B",
+    "id": "professional_law/dev/2"
+  },
+  {
+    "instruction": "Zenbat da Homo erectus-en burukoaren bolumen kranialaren gehikuntza bateko estimazioa?",
+    "option_a": "650 cc baino azpikoa",
+    "option_b": "800 cc inguru",
+    "option_c": "1000 cc baino txikiagoa",
+    "option_d": "1200 cc",
+    "answer": "C",
+    "id": "prehistory/dev/4"
+  },
+  {
+    "instruction": "Pliozoko erdialdean bizi izan ziren hominidoen ikerketa berriak erakusten duenez, 2020tik aurrera hurrengo hauek ziren:",
+    "option_a": "Especie anitztasun handi bat edo anitztasunean ariketa handia erakutsi zuen bakar bat.",
+    "option_b": "Denboraldi honetan oso gutxiko espezie anitztasun eta gutxi gorabeherako hominidoak ziren.",
+    "option_c": "Lurreko izozkurengatik espezie anitztasuna jaitsi egin da eta gero oroimenezko dultzaina gertatu da.",
+    "option_d": "Especie anitztasuna jaitsi da baina hainbat hamar-kantu eta lizar sorrera adierazten dute, bertako tresnak egin zituzten ikusten ari gara.",
+    "answer": "A",
+    "id": "prehistory/dev/3"
+  },
+  {
+    "instruction": "Meiosiaren adin batetan kromosomak bikoitzen eta harremanatzen dira:",
+    "option_a": "I. profasea",
+    "option_b": "I. metafasea",
+    "option_c": "II. profasea",
+    "option_d": "II. metafasea",
+    "answer": "A",
+    "id": "medical_genetics/dev/4"
+  },
+  {
+    "instruction": "Galdera hau hurrengo informazioari dagokio.\nAingerea gainerakoa zuzen eta zuzenean Inglaterrako Eliza Nagusiaren burua dela eta horrela adierazten da erreinu honetako klejeroek bere konbokazioetan ezagutzen dutenez. Hala ere, egiaztatzeko eta horren berreskuratzeko eta berreskurapeneko, eta Kristoren erlijioaren birtutearen handitzeko Inglaterrako errealean, eta erroreak, hereziak eta bestelako enormitateak eta hauengan erabiliko ziren maldak alde batera uzteko, baimendua izan dadin, gaur egungo Parlamentu honen eskutik, gure independentzi, erreinukideen eta ondoreneko erreinarenak, Ingalaterrako Eliza Anglikoaren burua izanen direla hartu, onartuko eta adieraziko dira eta erreala honetako koroa imperialarekin lotua eta unitua izanen da eskubidea eta estiloa berekin, baita dikilitate, agintaritza, preeminencia, jurisdikzioak, aitorritzeak, immunitateak, dirulaguntzak eta aurrerapauso guztiak ere gaineratuko dituela, eta gure errege jauna, bere ondoreak eta ondoriozkienak, gure herrialdeko erreinek, denbora-etan, bisitatzeko, murrizatzeko, zuzentzeko, ordenatzeko, zuzentzea, sendotzea eta hobetzea denok erreforma handitu behar duten erroreak, hereziak, maldak, eskubide gutxiak eta enormitateak, nolabait ere, edozein modukoa dagokion praktika espiritualen auktoritate edo jurisdikzioa, jakin eta zuzena bada ere letra onetik egindakoak beidin, arranguraketa, debeku, aztarnazioak eta maltzurrek eta, guztiz Nire Jainkoaren merkeakoa, Kristoren erlijioaren birtute handiagoa, eta erreinu honen bakea, batasuna eta lasaitasuna gorabeheratzeko; erabilera, lurraldea, kanpoko agintaritzea, erreseta edo beste edozein gauzak hainbat alditan kontrako zerbait gaizki dauda izan ezik.\nIngalaterrako Parlamentua, Eskumotasunaren Legea, 1534\nPasatik, Inferitu egin da eta Eskumotasuneko Egitia English Parlamentuak zelaiko duela",
+    "option_a": "emakumea lantokiren sektorean bizi dela",
+    "option_b": "Batzuk inguruarekin bizi dira eta beste batzuk ez dela gustuko",
+    "option_c": "Inglaterran hitz egiten ez dutenek alde egingo dute erreformei",
+    "option_d": "Inglaterrako Elizaren pozik egiten zirenak direla",
+    "answer": "D",
+    "id": "high_school_european_history/dev/4"
+  },
+  {
+    "instruction": "Plerua",
+    "option_a": "ez dute sentsore innervazioik.",
+    "option_b": "2 mm tarteko banatuta daude.",
+    "option_c": "lika goitira.",
+    "option_d": "hezurrunelementu-epitelioz osatuta daude.",
+    "answer": "C",
+    "id": "anatomy/dev/2"
+  },
+  {
+    "instruction": "Zein hitz batek laburrak botaitezin lege formalaren garapenerako Weberen azalpena laburregi bideratzen du?",
+    "option_a": "Agintasuna.",
+    "option_b": "Charisma.",
+    "option_c": "Lankidetza.",
+    "option_d": "Kapitalismoa.",
+    "answer": "D",
+    "id": "jurisprudence/dev/2"
+  },
+  {
+    "instruction": "Demografikoen transizio ereduaren hirugarren atalean, zein datorren hau egia da?",
+    "option_a": "Jaiotza-ildoak gora egiten dira eta biztanleria-igoera motela da.",
+    "option_b": "Jaiotza-ildoak jaisten dira eta biztanleria-igoera motela da.",
+    "option_c": "Jaiotza-ildoak gora egiten dira eta biztanleria-igoera azkartzen da.",
+    "option_d": "Jaiotza-ildoak jaisten dira eta biztanleria-igoera azkartzen da.",
+    "answer": "B",
+    "id": "high_school_geography/dev/1"
+  },
+  {
+    "instruction": "Zein da 2020an diabetets tipo 2 eta gordin duten pazienteentzako lehen droga lerrokatua?\n",
+    "option_a": "Akarbosa",
+    "option_b": "Metformina",
+    "option_c": "Sulfonilureak",
+    "option_d": "Insulina",
+    "answer": "B",
+    "id": "nutrition/dev/4"
+  },
+  {
+    "instruction": "Zein kasutan, sorta hauetako batean, pertsonaia nagusiak (I/ni) amaitutako jarduerarik morala onartezinetua egiten du, 2020ko amerikar ohiko moral-erantzunari jarraituz? 1. egoera | Estalitxokoa atzetik dagoen gizona galdetu nion sigareta bat emateko. 2. egoera | Segurtasun arduradunak bere postua uztean, kobrezko moneta bat nabilkiontasunez sartzeko.",
+    "option_a": "Txarto, txarto",
+    "option_b": "Txarto, ez txarto",
+    "option_c": "Ez txarto, txarto",
+    "option_d": "Ez txarto, ez txarto",
+    "answer": "C",
+    "id": "moral_scenarios/dev/1"
+  },
+  {
+    "instruction": "Galdera honek jarraituko informazioari buruz dio.\nNire xede pertsonalak aldarazteko edo onurak individualei eska diezaidan ez naiz; horien abokatua naiz nire-kasu defendatzeko ezin dutenentzat; norbanako biliak, zapalduak eta desolatuta dauden horien laguntza egiteko etorri naiz. Jainkoaren Emanaldiarekin batera etorri naiz, tresna naizenaren hatsak izan nahi dituzten neurotikoen ahotsa naiz; — Saildegietako kartzelarik ilunduetako negar bideak ez duzuenaren barruan tximist, tximist beggingabeko kartzelenetzat. Gauerdien kutixetan, korroxkietan eta kaiolinetan suferitzen duten kreatura zapaltuentzako itxaropena naiz. Zenbait sutan suferitzen ari diren ehiztarien errealitatea naiz, zure etxeko ezarritako leku isila eta kabinetan, gizarteratzat kenduta, ospitaleko kezkak pairatzen duten, zorioneko sendagabe gizarteak naizen hainbat herri garaitzat biltzen naiz nituen hainbat hilabeteetan. … Euren melancholia hiztegiak zuen aurrean ezarrita, hiru hilabeteetan nire spiritu sakonarekin agerian eman direnak, zerbait desberdina lortu beharko lukete, egokienezko laguntzarako bideak biluzi beharko zituzten; zenbat txikituz dira eskatutako sakrifizioak, zerikusirik ez dutenak; zenbat dolar eta soda, herri bakoitzak hartutakoak, izango lituzke eskubideratuena bezala, justifikatu gabeko onurei konparatua, sinesgarriak sendatua, zapaltuen zaintzaile benetan diren ospitaleko eraikuntzarako behar diren funtsean idazten direnak.…\n—Dorothea Dix, Memorial Insanoekin Babes eta Sendatzerako Erakunde Bat Nahi Zela Esku Hartzea Eskatzen duena,\nIgorria North Carolina-ko Orokor Batzarrean, 1848ko azaroan\nDorothea Dix-ek inongo gutxiagotik desberdin izan daiteke?",
+    "option_a": "Abigail Adamsek",
+    "option_b": "Clara Bartonek",
+    "option_c": "Shirley Templek",
+    "option_d": "Hillary Clinton-en",
+    "answer": "B",
+    "id": "high_school_us_history/dev/4"
+  },
+  {
+    "instruction": "Zein hauek dituzte mitosi eta meiosian kromosomen banaketa behar dituzten DNA-sekuentziak?",
+    "option_a": "Telomeroak",
+    "option_b": "Zentromeroak",
+    "option_c": "Nukleosomak",
+    "option_d": "Spliceosomak",
+    "answer": "B",
+    "id": "college_biology/dev/4"
+  },
+  {
+    "instruction": "Zein pertsona da gaur egun, bakarrik etxean geratzea, 2019rako gutxiago aurretik?",
+    "option_a": "Aisia osatutako gizona edo emakumea",
+    "option_b": "Latino gizona",
+    "option_c": "Afroamerikar emakumea",
+    "option_d": "Zuri gizona edo emakumea",
+    "answer": "C",
+    "id": "human_aging/dev/0"
+  },
+  {
+    "instruction": "Zein baldintzetarik ez du erakusten heren araberako hirugarren mailako herentzia?",
+    "option_a": "Piloro estenosi",
+    "option_b": "Siskizophrenia",
+    "option_c": "Spina bifida (neuralgiko tuboen defektuak)",
+    "option_d": "Marfan sendromea",
+    "answer": "D",
+    "id": "medical_genetics/dev/3"
+  },
+  {
+    "instruction": "Zein hurrengo aukerako den bezala, ez da adn errekombinantzuak osatzeko modu bat?",
+    "option_a": "Itzulketa",
+    "option_b": "Konjugazioa",
+    "option_c": "Transdukcio espezializatua",
+    "option_d": "Transformatzea",
+    "answer": "A",
+    "id": "high_school_biology/dev/0"
+  },
+  {
+    "instruction": "Zer ezaugarri ez da 'sistemak irekiko' kudeaketa ereduaren gako ezaugarri bat?",
+    "option_a": "Moralak",
+    "option_b": "Berrikuntza",
+    "option_c": "Hazi baliabideak",
+    "option_d": "Egokitzapena",
+    "answer": "A",
+    "id": "management/dev/3"
+  },
+  {
+    "instruction": "Zein da hurrengo mailako 14 taldeko hidridoak orden termikoki sendotasunez, baxuetatik gorabehera, zerrendatzen dituen?",
+    "option_a": "PbH4 < SnH4 < GeH4 < SiH4 < CH4",
+    "option_b": "PbH4 < SnH4 < CH4 < GeH4 < SiH4",
+    "option_c": "CH4 < SiH4 < GeH4 < SnH4 < PbH4",
+    "option_d": "CH4 < PbH4 < GeH4 < SnH4 < SiH4",
+    "answer": "A",
+    "id": "college_chemistry/dev/4"
+  },
+  {
+    "instruction": "Zein hurrengo aurrezki polarra izan daiteke?",
+    "option_a": "PCl4F",
+    "option_b": "BF3",
+    "option_c": "CO2",
+    "option_d": "Si(CH3)4",
+    "answer": "A",
+    "id": "high_school_chemistry/dev/1"
+  },
+  {
+    "instruction": "Zein da pituitaritzaren gordina daukana geldagune korporala?",
+    "option_a": "Abdominala",
+    "option_b": "Kraniala",
+    "option_c": "Plaurala",
+    "option_d": "Eskularruala",
+    "answer": "B",
+    "id": "anatomy/dev/4"
+  },
+  {
+    "instruction": "Flosa edukiak mugimenduaren presio-fluxu ereduaren arabera, jatorritik jaurtigaiatera mugimendua harrera",
+    "option_a": "ATPren menpeko presio-fluxu sukaldea",
+    "option_b": "ura-menpeko presio potentzialen gradientea",
+    "option_c": "transpirazioa",
+    "option_d": "apoplastikoaren norabidezko girakada",
+    "answer": "B",
+    "id": "college_biology/dev/3"
+  },
+  {
+    "instruction": "Zein hurrengo adierazpenek errazten duelako James Madisonek The Federalist zenbaki 10-an egindako hausnarketak? ",
+    "option_a": "Poltikari zintzoek alderdiak garatu ez dadin saihestu ditzakete.",
+    "option_b": "Alderdiek gertatuago dira errepublikak handiagoak direnean, txikiagoak izanik.",
+    "option_c": "Alderdien ondorio negatiboak erreduk daitezke errepublikar baten gobernuarekin.",
+    "option_d": "Aukera askatasunak herritarren hainbat defentsa ere bai, alderdietatik babesteko aukera bikaina da.",
+    "answer": "C",
+    "id": "high_school_government_and_politics/dev/4"
+  },
+  {
+    "instruction": "Muonakdoa bizi-izanaldi ezaugarriaren bidez 10^-6 segunduko bizi-aldi batez elektrona, muon-neutrino batez eta elektron-antineutrino batez desintegritzen da. Muonak sarrerako lehena da elektrona eta bakarrik neutrinori desintegritzea lepton zenbakiaren legeak debekatzen du.",
+    "option_a": "karga",
+    "option_b": "masa",
+    "option_c": "energia eta momentoa",
+    "option_d": "lepton zenbakia",
+    "answer": "D",
+    "id": "college_physics/dev/4"
+  },
+  {
+    "instruction": "NOR gailuetatik eraikitako SR lehokian, zein baldintza ez da onartua",
+    "option_a": "S=0, R=0",
+    "option_b": "S=0, R=1",
+    "option_c": "S=1, R=0",
+    "option_d": "S=1, R=1",
+    "answer": "D",
+    "id": "electrical_engineering/dev/0"
+  },
+  {
+    "instruction": "2 polosko lap-armadako dc makinan,  konduktore baten erresistentzia 2Ω da eta konduktore kopuru osoa 100. Erresistentzia totala kalkulatu.",
+    "option_a": "200Ω",
+    "option_b": "100Ω",
+    "option_c": "50Ω",
+    "option_d": "10Ω",
+    "answer": "C",
+    "id": "electrical_engineering/dev/1"
+  },
+  {
+    "instruction": "1. ariketa | Talde baten elementu guztiek taldearen talde ziklikoa sortzen dute. 2. ariketa | S_10 simetriko taldeak 10 elementu ditu.",
+    "option_a": "Egia, egia",
+    "option_b": "Gezurra, gezurra",
+    "option_c": "Egia, gezurra",
+    "option_d": "Gezurra, egia",
+    "answer": "C",
+    "id": "abstract_algebra/dev/2"
+  },
+  {
+    "instruction": "Aldi baterako $x\\%$ interesa duten 5.000 dolarrek urtero konpontzen badira, sei urtean zortzi egingo dira. Berdina interes tasakarekin $\\$300$-ren balioa zenbatekoa izango da $\\$9600$-ra iritsi arte?",
+    "option_a": "12",
+    "option_b": "1",
+    "option_c": "30",
+    "option_d": "5",
+    "answer": "C",
+    "id": "high_school_mathematics/dev/1"
+  },
+  {
+    "instruction": "Terapi seksuala bilatzen duten gizonen artean, arrasto garrantzitsuena honako hau da:",
+    "option_a": "ejakulazio arazo aurreratua",
+    "option_b": "ezin bizi-bihotzeko arazoak",
+    "option_c": "erekzio arazoak",
+    "option_d": "ejakulazio arazoak",
+    "answer": "C",
+    "id": "human_sexuality/dev/4"
+  },
+  {
+    "instruction": "36 urteko gizona etorri da bueltaka izan duen aisialdirako, atzera bezonez eta hogei eguneko historiarekin. Azkeneko txarrapata gabekoak dio, baina lasterketa gorabeheran, bere lana egiteko bere txoian sartzen eta ateratzen da. Pazientea adimendunean aztertzeak esklusiba sakral lasaia jasotzen du eskuinetan, behinetikako hurbilera ospetsua esquerrean, eta mugimenduan askatasunez sortzen den lumbosakral elkartasuna. Diagnostiko probagarriena da",
+    "option_a": "eskuinatik ezkerreko sakral torsioa",
+    "option_b": "eskuinetik eskuinera sakral torsioa",
+    "option_c": "eskuin unilateral sakral flexioa",
+    "option_d": "eskuinatik eskuinera sakral torsioa",
+    "answer": "D",
+    "id": "professional_medicine/dev/1"
+  },
+  {
+    "instruction": "Zein dinastian garai-hainbatzu \"Zelaiaren agindua\" sortu zen gobernatzaile berriei legitimitatea emateko?",
+    "option_a": "Shang",
+    "option_b": "Zhou",
+    "option_c": "Han",
+    "option_d": "Xia",
+    "answer": "B",
+    "id": "world_religions/dev/2"
+  },
+  {
+    "instruction": "Saiber-bolaren koloreak argiaren ondoriora sortzen dira",
+    "option_a": "frezuentzia desberdineratuta",
+    "option_b": "desbideratzea",
+    "option_c": "interferentzia",
+    "option_d": "polarizazioa",
+    "answer": "C",
+    "id": "conceptual_physics/dev/2"
+  },
+  {
+    "instruction": "Gizatiar hazi bati ere esaten zaio",
+    "option_a": "zigota bat dela.",
+    "option_b": "embrio izena duela.",
+    "option_c": "bizi-balio izena duela.",
+    "option_d": "blastozito bat dela.",
+    "answer": "A",
+    "id": "moral_disputes/dev/1"
+  },
+  {
+    "instruction": "Ze egoera-analisi bat planifikazio-prozesuaren zerrenda batean egin behar da?",
+    "option_a": "Programa definitzen",
+    "option_b": "Programa planifikatzen",
+    "option_c": "Ekintza hartzen eta ideiak inplementatzen",
+    "option_d": "Programaren ebaluazioa",
+    "answer": "A",
+    "id": "public_relations/dev/3"
+  },
+  {
+    "instruction": "Zein da gizona eta emakumearen katederraren arteko ezberdintasuna?",
+    "option_a": "Gizonen eta emakumeen katederrak kolore ezberdinak dira.",
+    "option_b": "Gizonen katederrak emakumeen katederretik luzeagoak dira.",
+    "option_c": "Gizonen katederrak emakumeen kateder baino handiagoak dira.",
+    "option_d": "Emakumeen katederrak gizonen katederretik luzeagoak dira.",
+    "answer": "B",
+    "id": "clinical_knowledge/dev/1"
+  },
+  {
+    "instruction": "_______ eragile formal edo informalez arazoen gainean arduratzen da, politika, praktika eta programak bidez kudeatzeko xedea duena.",
+    "option_a": "Enpresaren sozial erantzukizuna",
+    "option_b": "Negozio etika kudeaketa",
+    "option_c": "Jasangarritasuna",
+    "option_d": "Ingurumen kudeaketa",
+    "answer": "B",
+    "id": "business_ethics/dev/1"
+  },
+  {
+    "instruction": "Zeintzuk dira hurrengo adierazpenetako jada aurreratutako iodinei buruzko egiazkoak, 2020an?\n",
+    "option_a": "Ostalaritzaren %50ak RNI-an beherago dagoen mailako iodina hartzen du",
+    "option_b": "Lapte produktuak iodinegatik iturri txar bat dira",
+    "option_c": "Bio esnearen iodina, organikoa ez den esnearen mailatik ohikoenez baxuagoa da",
+    "option_d": "Erreferentzia balio guztiek gomendatzen dute iodinearen kontsumoa handitzea haurdunaldian",
+    "answer": "C",
+    "id": "nutrition/dev/3"
+  },
+  {
+    "instruction": "44 urteko gizona etorri da buzoikotasun, kuxkurrin etengabeko, pitxitto, eta buruko mina izan du 3 eguneko historiagatik. Esan du buruko mina goiz gehiago zuela eta ibuprofena bidezkoa zelako mirespen bat eskaintzen duela. Sailean ez du arnas-falta izan. Historia medikoa ohikoa da. Minbizia izan ezik, bai horrela, ibuprofena hartzen du. Gizakiaren indarra 37.4°C (99.4°F) da, pultsua 88/min, arnas sabela 18/min, eta odol presioa 120/84 mm Hg da. Artzainketa buruan, gorputz sabelera, orratz goldatzen dituzten gerriei eritema eta folikulo linfoide hiperplasia agertzen dira. Ez da adenopatia zertxobait nabaritzarik. Sudurra hutsik auskultatzen da. Hau dela eta, zer dela eta? Paziente honen sintomen arrazoia ea?",
+    "option_a": "Aldegezako rinitis",
+    "option_b": "Epstein-Barr birusa",
+    "option_c": "Mycoplasma pneumoniae",
+    "option_d": "Rhinovirus",
+    "answer": "D",
+    "id": "professional_medicine/dev/3"
+  },
+  {
+    "instruction": "Ikasketa-altuakiko zientzia irakasle bat 1 litroko botila nitrogeno garbi batez betetzen du eta estalia itxi du. Presioa 1.70 atm da eta gela-tenperatura 25°C da. Beste aldagai guztiak konstante mantenduta, zein bi aldagaiek sistemaniko presioa handituko dute?",
+    "option_a": "Tenperatura handitzea, gas molekulak gehitzea",
+    "option_b": "Tenperatura handitzea, bolumena handitzea",
+    "option_c": "Bolumena gutxitzea, tenperatura gutxitzea",
+    "option_d": "Gas molekulak gutxitzea, bolumena handitzea",
+    "answer": "A",
+    "id": "college_medicine/dev/3"
+  },
+  {
+    "instruction": "World-ren aintzindariaren Makine Lantokiaren artikuluak berrikusten ari zara, eta hainbat eskaera aurkitu dituzu hurrengo ziurtapenei buruz. Zer egingo zenituzke beraien onarpena hartzen balitz?",
+    "option_a": "Nire metodoak metodo guztietako errotuenagoa da!",
+    "option_b": "Nire metodoak metodo guztietako errore-testuenagoa da! (Orokorrak diren parametro λ erabiliz test-errorea gutxitu dadin aukeratuz.)",
+    "option_c": "Nire metodoak metodo guztietako errore-testuenagoa da! (Orokorrak diren parametro λ erabiliz errore gurutzatzea gutxitu dadin aukeratuz.)",
+    "option_d": "Nire metodoak metodo guztietako gurutzapen-erroreagoa da! (Orokorrak diren parametro λ erabiliz errore gurutzatzea gutxitu dadin aukeratuz.)",
+    "answer": "C",
+    "id": "machine_learning/dev/2"
+  },
+  {
+    "instruction": "Teleskopio refraktore bat bi fokokutxa biltzen ditu 100 cm-ko distantzia bereizita. Eye-piece lentzia 20 cm-ko distantzi fokalekoa da. Teleskopioaren angelu magnifikazioa da",
+    "option_a": "4",
+    "option_b": "5",
+    "option_c": "6",
+    "option_d": "20",
+    "answer": "A",
+    "id": "college_physics/dev/3"
+  },
+  {
+    "instruction": "Desgaitasunarekin bizi diren ikasle baten heziketa kokapena aldatzen duen aurreko lan-periodoa egiten dakienean, zeregin hori exekutatzeko, heziketakoa erabakitzen duen erakundeak zer egin behar du?",
+    "option_a": "Emango diote haurri egoera berrian proba-periodoa",
+    "option_b": "Jakinarazi ahal izango dute adingabearen gurasoak idatziz",
+    "option_c": "Irakurketa-organoaren baimena hartu behar dute",
+    "option_d": "Gurasoen adostasuna lortu beharko dute",
+    "answer": "B",
+    "id": "high_school_psychology/dev/3"
+  },
+  {
+    "instruction": "Phillips kurba laburra langabeziaz eta inflazioaz erlazio zuzena adierazten du",
+    "option_a": "Langabezia eta inflazio arteko erlazio zuzena",
+    "option_b": "Prezio eta eskatutako kantitatea arteko erlazio zuzena",
+    "option_c": "Prezio eta eskatutako kantitatea arteko erlazio alderatua",
+    "option_d": "Langabezia eta inflazio arteko erlazio alderatua",
+    "answer": "D",
+    "id": "high_school_macroeconomics/dev/1"
+  },
+  {
+    "instruction": "SHA-1-k lihozko mezu-digesta dauka",
+    "option_a": "160 bite",
+    "option_b": "512 bite",
+    "option_c": "628 bite",
+    "option_d": "820 bite",
+    "answer": "A",
+    "id": "computer_security/dev/0"
+  },
+  {
+    "instruction": "Zer sortzen da argazki-sintesi bidez?",
+    "option_a": "hidrogenoa",
+    "option_b": "nilonoa",
+    "option_c": "okisigenoa",
+    "option_d": "argia",
+    "answer": "C",
+    "id": "miscellaneous/dev/3"
+  },
+  {
+    "instruction": "Bakterioen enzime batean mutazio bat gertatu da, aminoazido polar batean, aminoazido no polar batera aldatuz. Aminoazido hau enzimearen aktibo guneaz urrun bazegoen. Nola aldatu daiteke mutazio honek enzimearen azterketa espezifikoak?",
+    "option_a": "Enzimearen pH optimoa aldatuz",
+    "option_b": "Zelula barruan enzimearen kokapena aldatuz",
+    "option_c": "Proteinaren forma aldatuz",
+    "option_d": "Aktibo gunearen urruneko aminoazido aldaketa ezin du enzimearen azterketa espezifikoak aldatu. ",
+    "answer": "C",
+    "id": "high_school_biology/dev/1"
+  },
+  {
+    "instruction": "Zein jarraitzaile zuzena da beheko aukeretan (2020ko ezagutzaren arabera)?\n",
+    "option_a": "Phenil-ketonuria duten konsumitzaileek aspartame edulkorra kontsumitu ezin dute",
+    "option_b": "Phenil-ketonuria duten konsumitzaileek sakarin edulkorra kontsumitu ezin dute",
+    "option_c": "Phenil-ketonuria duten konsumitzaileek sukralosa edulkorra kontsumitu ezin dute",
+    "option_d": "Phenil-ketonuria duten konsumitzaileek acesulfame K edulkorra kontsumitu ezin dute",
+    "answer": "A",
+    "id": "nutrition/dev/1"
+  },
+  {
+    "instruction": "Python 3-ko \"abc\"[::-1] zenbakiaren emaitza da zertarako?",
+    "option_a": "Errorea",
+    "option_b": "abc",
+    "option_c": "cba",
+    "option_d": "c",
+    "answer": "C",
+    "id": "high_school_computer_science/dev/2"
+  },
+  {
+    "instruction": "Multipletako erregresio-formula eraikitzean frogatzeko, neurri optimoa da adierazleen artean ez-dagoela korelaziorik, baina kritearioarekin ertaina duten korelazioa dagoela.",
+    "option_a": "elkarrekin ez-korelatuta dauden, baina kritearioarekin erlazio ertaina duten aukerak",
+    "option_b": "elkarrekin eta kritearioarekin ere korelatu gabeko aukerak",
+    "option_c": "elkarrekin oso korelatuta dauden eta kritearioarekin ertaina duten aukerak",
+    "option_d": "kritearioarekin gutxi korelatuta dauden, baina elkarrekin ertaina korelatuta dauden aukerak",
+    "answer": "A",
+    "id": "professional_psychology/dev/4"
+  },
+  {
+    "instruction": "Metzen arabera, zer okerrekoa da kapital-itzulpenaren kontrakoa izan daitekeen afrikar baloreetan oinarritutako ondoriozko argudioak?",
+    "option_a": "Komunitatearen kalterako zuzendutako kapital-itzulpenak kaltearen arintzekoa argi utzi gabe daude.",
+    "option_b": "Neurri berezi baten kalterako zuzendutako kapital-itzulpenak kaltearen arintzekoa argi utzi gabe daude.",
+    "option_c": "Afrikako baloreek ez dute ezingo konzekuentialismoa onartu.",
+    "option_d": "Afrikako baloreetan oinarritutako konzekuentialista argumenturik ez daude eskaini.",
+    "answer": "A",
+    "id": "moral_disputes/dev/0"
+  },
+  {
+    "instruction": "Zein da hidoidi bizkarhartzaren jatorria?",
+    "option_a": "Lehenengo faringeo busilaren bidez",
+    "option_b": "Lehenengo eta bigarren faringeo busilaren bidez",
+    "option_c": "Bigarren faringeo busilaren bidez",
+    "option_d": "Bigarren eta hirugarren faringeo busilaren bidez",
+    "answer": "D",
+    "id": "anatomy/dev/0"
+  },
+  {
+    "instruction": "Kreatina suplementazioaren ondorio atezainak badaude:",
+    "option_a": "muskuil ahultasuna.",
+    "option_b": "gorpuzkeraren igarotzea.",
+    "option_c": "muskuil kramak.",
+    "option_d": "elektrolitoen galera.",
+    "answer": "B",
+    "id": "college_medicine/dev/4"
+  },
+  {
+    "instruction": "1. adierazpena | Finitu den multzo bateko funtzio guztiek bere burua aldagai bakarra hartu behar dute. 2. adierazpena | Abeliar multzo baten azpi-sail guztiek abeliar multzo dira.",
+    "option_a": "Egia, egia",
+    "option_b": "Gezurra, gezurra",
+    "option_c": "Egia, gezurra",
+    "option_d": "Gezurra, egia",
+    "answer": "A",
+    "id": "abstract_algebra/dev/3"
+  },
+  {
+    "instruction": "Izan V x polinomio erreale guztiak p(x). Xedatu aldaketak T, S V-ren gainean honela: T:p(x) -> xp(x) eta S:p(x) -> p'(x) = d/dx p(x), eta interpretatu (ST)(p(x)) S(T(p(x))) bezala. Hauetako zein da egia?",
+    "option_a": "ST = 0",
+    "option_b": "ST = T",
+    "option_c": "ST = TS",
+    "option_d": "ST - TS V-ren gainean identitate mapa da.",
+    "answer": "D",
+    "id": "college_mathematics/dev/0"
+  },
+  {
+    "instruction": "Caplan-en kasuan erakunde-zentratuko konsultarako ereduan, kontsultoreak interes handiena du",
+    "option_a": "kliienten aurrean dauden arazoen arrazoia eta soluzioak identifikatzea",
+    "option_b": "kontsultatzaileak pertsona arazoa bideratzeko duen zailtasunaren arrazoiak identifikatzea eta desagerraraztea",
+    "option_c": "autoritate hierarkia bat ezartzea erabakien egokiak bermatzeko",
+    "option_d": "kontsultoreak gaitasun-defizitak gainditzeko bide bakarra, zehazki hartu eta argigarria aurkeztea",
+    "answer": "B",
+    "id": "high_school_psychology/dev/1"
+  },
+  {
+    "instruction": "Pence-ek batailizatzen ditu bereizmen berezi gabeko bost bizi-ingurumenez, batailizkiaren artean sukatu egiten dira. Zein ondorio atera du konparaketa horretatik?",
+    "option_a": "SCNT ez da bizi-ingurumen ezberdin bat, izan ere, bereizmen moralik erabakigarrienak ez daude bizi-ingurumenei dagokienez.",
+    "option_b": "Bizi hutsalari naturalengatik kalte arrisku txikia dagoenez, SCNTn ere kalte arrisku txikia izango da.",
+    "option_c": "A eta B biok",
+    "option_d": "A eta B neuk ez",
+    "answer": "A",
+    "id": "moral_disputes/dev/3"
+  },
+  {
+    "instruction": "1. urteko urtarrilaren 1ean, Alpha Ko. dokumentazioaren mantenu urteko akordioa sinatu zuen $15,000-entzat eta mantenu denbora 2. urteko martxoaren 1etik hasiko da. Halaber, Alpha 1. urteko urtarrilaren 1ean, $5,000 kostuak jasan zituen, softwarearen aldaketa-eskaeretarekin erlazionaturik, softwarearen funtzionalitatea handituko duena. Alpha bere konputagailu eta software baliabideak bikoiztu eta amortizatzen ditu 5 urtez zehaztutako metodo errazaren bidez. Zenbat da Alpharen hartu beharreko gastua dokumentazio-akordioari eta softwarearen aldaketeei dagokionez, 1. urte amaierarako frogatu beharreko erakundea?",
+    "option_a": "$5,000",
+    "option_b": "$13,500",
+    "option_c": "$16,000",
+    "option_d": "$20,000",
+    "answer": "B",
+    "id": "professional_accounting/dev/3"
+  },
+  {
+    "instruction": "'Erlijio zibila'etatik 'erlijio alaia'ra aldatzea esan nahi du hau:",
+    "option_a": "estatuaren burokratizazio handiak erlijioa gure bizitzen margolinari bihurtu duela esan nahi du",
+    "option_b": "garrantzi tradizionala osagaien gabetzearen araberakoa izanik ere, gure eguneroko bizitzak eta 'senso komuna' erlijiozko sinestei eta baloreei moldeatzen jarraitzen dute",
+    "option_c": "adunatu-adorazio kolektiboko parte hartzea jaitsi izan daiteke erlijioan, baina pertsonak bere sinetsietan jarduera pribatuetan jarraitzen dute",
+    "option_d": "pertsonak askoz gehiago gai dira hainbat gertaeren batean, informalean erlijio sinestei buruz hitz egiteko",
+    "answer": "B",
+    "id": "sociology/dev/2"
+  },
+  {
+    "instruction": "Zein kasu hartan ezarri zen adierazpena lehena hartzen duela hori defendatu baten gainean isiltasun eskubiderik duela, abokatua izateko eskubidea eta bere burua zarar dezaketela babestea ezarri zuena?",
+    "option_a": "Weeks v. Ameriketako Estatu Batuak",
+    "option_b": "Betts v. Brady",
+    "option_c": "Mapp v. Ohio",
+    "option_d": "Miranda v. Arizona",
+    "answer": "D",
+    "id": "high_school_government_and_politics/dev/2"
+  },
+  {
+    "instruction": "Pentsatu f(1 + x) = f(x) betikoa denik. F polinomioa bada eta f(5) = 11, orduan f(15/2)",
+    "option_a": "-11",
+    "option_b": "0",
+    "option_c": "11",
+    "option_d": "33/2",
+    "answer": "C",
+    "id": "college_mathematics/dev/3"
+  },
+  {
+    "instruction": "d'Holbachen arabera, jendeak beti ____ arabera jokatzen du.",
+    "option_a": "aukera libreei",
+    "option_b": "arimaren aginduei",
+    "option_c": "lege natural beharkoari",
+    "option_d": "orokorreko borondateari",
+    "answer": "C",
+    "id": "philosophy/dev/2"
+  },
+  {
+    "instruction": "___________ekin bateratuko direnean, demografiako eta geografikoaren aldakorrek __________________ jatorria da.",
+    "option_a": "Geodemografiak",
+    "option_b": "Produktuen diferentziazioa.",
+    "option_c": "ANSOFF matrizea.",
+    "option_d": "Marka kudeaketa.",
+    "answer": "A",
+    "id": "marketing/dev/0"
+  },
+  {
+    "instruction": "Zein da korelazioari buruz adierazitako adierazpen egokia?",
+    "option_a": "Erregresio lerroaren laukiaren pisua zuzenki 1 bada, korelazioa zuzenki 1 da.",
+    "option_b": "Korelazioa 0 bada, erregresio lerroaren pisua definitua ez da.",
+    "option_c": "X eta y aldakatzean, korelazioaren seinua aldatzen da.",
+    "option_d": "Korelazioa r-ek erregresio lerroaren pisuari berdina da, y aldagaia nola x aldagaia berridatzi direnean z-puntuazioak erabiliz.",
+    "answer": "D",
+    "id": "high_school_statistics/dev/0"
+  },
+  {
+    "instruction": "Noan 'adostasunak' egoera hildako jarduerari dagozkion bezalakoa da Estatu baten jokaeraren legeharritasuna aurka egin ahal izateko?",
+    "option_a": "Adostasunak beti egoera hildako jardueraren legeharritasuna aurka egiteko egoera bezala erabil daiteke",
+    "option_b": "Inoiz ezin da adostasuna egokia izan hildako jardueraren legeharritasuna aurka egiteko",
+    "option_c": "Adostasuna egoera hildako jardueraren legeharritasuna aurka ezartzeko egoera bezala erabil daiteke, adostasuna egokia bada eta jarrera adostasunaren mugarrietan mantentzen bada",
+    "option_d": "Adostasuna beti erabil daiteke egoera hildako jardueraren legeharritasuna aurka ezartzeko, Estatuaren agintariek izan ohi duten arren",
+    "answer": "C",
+    "id": "international_law/dev/3"
+  },
+  {
+    "instruction": "Zer deskribatzen du Berger (1963) gizarte errealitatearen metafora bezala?",
+    "option_a": "joko aretoa",
+    "option_b": "zirkoa",
+    "option_c": "txotxongilo antzokoa",
+    "option_d": "balleta",
+    "answer": "C",
+    "id": "sociology/dev/1"
+  },
+  {
+    "instruction": "Zein hurrengo aipatutako azpimarratzeek artropodoen inguruan egindako frogatu adierazpen zuzena adierazten du?",
+    "option_a": "Peptidoglikan nagusitutako kanporatzaindunean parte hartzen dute.",
+    "option_b": "Sistemaren zirkulazio irekia, bihotzeko alde batenarekin batean.",
+    "option_c": "Hainbat habitat eta nutrizio iturri erabilgarriak ateratzeko ezin duten filum biologikoki gutxi arrakastatsuak dira.",
+    "option_d": "Artsak elkartu gabeko, artikulatu gabeko kenkariak ez dituzte.",
+    "answer": "B",
+    "id": "college_biology/dev/0"
+  },
+  {
+    "instruction": "1 aH talde-faktorean aH elementua bada, |aH|k a-en bidezi da. 2 G multzoaren H and K azpi-taldeak badaude, HK G talde gisa gehitu da.",
+    "option_a": "Egia, Egia",
+    "option_b": "Gezurra, Gezurra",
+    "option_c": "Egia, Gezurra",
+    "option_d": "Gezurra, Egia",
+    "answer": "B",
+    "id": "abstract_algebra/dev/1"
+  },
+  {
+    "instruction": "Zer da etikatutako hackeatzea?",
+    "option_a": "\"Hackeatzeko\" etika, beharrezkoa ez den jarrera babestuz",
+    "option_b": "Sistemen hackeatzea (adib. sakonpenetrazio-azterketen bidez) bidegabeziak areagotzeko, antolatu ahala explotatzen ez direlako",
+    "option_c": "Sistemak hackeatzea jarrera ez adostasuna dutenengan",
+    "option_d": "Garapen software azkarreko esaldi adierazpena, adib. hackathonen barruan",
+    "answer": "B",
+    "id": "computer_security/dev/2"
+  },
+  {
+    "instruction": "Animalien zeluletan, zein da hurrengo bide egokiena denbora-lerroan espezien sintezia bat sasiaz bete arte?",
+    "option_a": "Plasma-membrana-Golgi aparatu-ribosoma-sasitzaile-besikoa-lerro kaskoinetako ER",
+    "option_b": "Ribosoma-Golgi aparatu-lerro kaskoinetako ER-sasitzaile-besikoa-plasma-membrana",
+    "option_c": "Plasma-membrana-Golgi aparatu-ribosoma-sasitzaile-besikoa-lerro kaskoinetako ER",
+    "option_d": "Ribosoma-lerro kaskoinetako ER-Golgi aparatu-sasitzaile-besikoa-plasma-membrana",
+    "answer": "D",
+    "id": "high_school_biology/dev/2"
+  },
+  {
+    "instruction": "HgOren 0,217 g-ko azterketa egiten da (molarraren masak 217 g dira), iodido ionen bidez berdinketan erreakzionatuz. Sortutako soluzioa titrazioaexekutatzen da, zenbakia iritsi aurretik 0,10 M HCl-ren hainbat mL beharrezkoa da?",
+    "option_a": "1.0 mL",
+    "option_b": "10 mL",
+    "option_c": "20 mL",
+    "option_d": "50 mL",
+    "answer": "C",
+    "id": "college_chemistry/dev/1"
+  },
+  {
+    "instruction": "Zein proposamena ez da egokia Ameriketako hiri gobernuen eskaintzen dituzten zerbitzuak kontuan hartuta?",
+    "option_a": "Ahaleginen bikoiztasuna oso ohia da.",
+    "option_b": "Hiriguneetako arazo sozialak inguruko auzoetara iristen dira.",
+    "option_c": "Zerbitzuak eskaintzean efizientzia arazo asko gertatzen da.",
+    "option_d": "Eraikinen kutsadura murrizteko duen ahaleginak gainerako hiritar komunitateekin batera beti babestuta egon ohi da.",
+    "answer": "D",
+    "id": "high_school_geography/dev/2"
+  },
+  {
+    "instruction": "Zenbaki-lista bat da, n elementu dituena eta 1-etik n-eraino indeksatua. Algoritmo hau honako hau adierazten du: Lista hauetako balioa 100 baino handiagoa duten elementuen kopurua erakusteko asmatua da. Algoritmoak konputatutako baldintza agertu egiten dituen aldagaiei, count eta position, 3. eta 4. pausoa falta dira. \nPausoa 1: Ezarri count-ak 0 eta position-ak 1 balioa izan.\n Pausoa 2: Index-eko posizioan dagoen elementuaren balioa 100 baino handiagoa bada, count dagokion balioan bat gehitu.\n Pausoa 3: (pausu falta da)\n Pausoa 4: (pausu falta da)\n Pausoa 5: Erakutsi count-aren balioa.\n Zein aukera da toki beti hartatzen duten 3. eta 4. pausuak ordezkatzeko eta algoritmoa asmatzeko?",
+    "option_a": "3. pausoa: Inkrementatu pozizioaren balioa batu 1-rekin.\n 4. pausoa: Errepikatu 2. eta 3. pausuak count-aren balioa 100 baino handiagoa bada arte.",
+    "option_b": "3. pausoa: Inkrementatu pozizioaren balioa batu 1-rekin.\n 4. pausoa: Errepikatu 2. eta 3. pausuak, pozizioaren balioa n baino handiagoa ez den arte.",
+    "option_c": "3. pausoa: Errepikatu 2. pausoa, count-aren balioa 100 baino handiagoa bada arte.\n 4. pausoa: Inkrementatu pozizioaren balioa batu 1-rekin.",
+    "option_d": "3. pausoa: Errepikatu 2. pausoa, pozizioaren balioa n baino handiagoa ez den arte.\n 4. pausoa: Inkrementatu count-aren balioa batu 1-rekin.",
+    "answer": "D",
+    "id": "high_school_computer_science/dev/4"
+  },
+  {
+    "instruction": "Zein da hurrengo paramyxoviru-ken baldintza morfologikoa?",
+    "option_a": "Birus hauskorrak, RNA erroturarekin bisualki ikusgarriak egiten dira baitaide barnean",
+    "option_b": "Birus zabalak",
+    "option_c": "Icosahedralak eta estalkia dituzten birusak",
+    "option_d": "Birus oso handiak",
+    "answer": "A",
+    "id": "virology/dev/1"
+  },
+  {
+    "instruction": "Carl Jung-ek sinetsi zuen gomendioa zen ikasle baten transference-a:",
+    "option_a": "irudi bat da zeinak errealitateraino jaurtitzen du ikaslea.",
+    "option_b": "terapeuta baten alde \"sentimendu miztuak\" esplika.",
+    "option_c": "testuinguru bat da \"\"\"jokabide-gaikotasuna\"\"\", Jung-ek esan bezala.",
+    "option_d": "ikaslearen inorkoen eta kolektiboen baimena da. ",
+    "answer": "D",
+    "id": "professional_psychology/dev/3"
+  },
+  {
+    "instruction": "__________ da zure bilagailuaren bilaketarik ezin diren edozein web gune.",
+    "option_a": "Haunted web",
+    "option_b": "World Wide Web",
+    "option_c": "Surface web",
+    "option_d": "Deep Web",
+    "answer": "D",
+    "id": "computer_security/dev/4"
+  },
+  {
+    "instruction": "(a* + b)*(c + d) erabiliz deskribatutako  hainbat karaktere multzoetan modu berekoak diren regularteko erakundeak aukeratzeko aukera bat ezarri?",
+    "option_a": "a*(c + d)+ b(c + d)",
+    "option_b": "a*(c + d)* + b(c + d)*",
+    "option_c": "a*(c + d)+ b*(c + d)",
+    "option_d": "(a + b)*c +(a + b)*d",
+    "answer": "D",
+    "id": "college_computer_science/dev/0"
+  },
+  {
+    "instruction": "Zein elementu da tabakoaren iheskaliken arrazoi nagusia?",
+    "option_a": "Nikotina",
+    "option_b": "Gatz",
+    "option_c": "Karbono monoxidoa",
+    "option_d": "Hondar partikulak",
+    "answer": "B",
+    "id": "human_aging/dev/3"
+  },
+  {
+    "instruction": "Puntu poltsa baten indarra da 4π * 10^-4 weber. 10 cm urrats distantziatik kokaturiko 4π * 1.5 * 10^-4 webereko puntu polts batean indarraren balioa Newtonetan ...",
+    "option_a": "15 N.",
+    "option_b": "20 N.",
+    "option_c": "7.5 N.",
+    "option_d": "3.75 N.",
+    "answer": "A",
+    "id": "electrical_engineering/dev/4"
+  },
+  {
+    "instruction": "Zergatik dira parvovirusek parazitak eraginkorki?",
+    "option_a": "Nukleoiko asidorik ez dutelako",
+    "option_b": "Laguntzaile birus behar dituztelako",
+    "option_c": "Zelula banatzen direnean errepikatzen dira soilik",
+    "option_d": "Ospetarien kromosomei jartzen zaizkie",
+    "answer": "A",
+    "id": "virology/dev/0"
+  },
+  {
+    "instruction": "Michelle jaio zen hiriaren biztanleria 145,826 da. Nola da zenbakia 145,826 zenbakian 5aren balioa?",
+    "option_a": "5 milak",
+    "option_b": "5 ehunak",
+    "option_c": "5 hamarkadak",
+    "option_d": "5 bakarrak",
+    "answer": "A",
+    "id": "elementary_mathematics/dev/0"
+  },
+  {
+    "instruction": "Nola adierazi da Estatu baten lotura onartzearen baimena?",
+    "option_a": "Estatu baten onartzea lotura homologatuz bakarrik adierazten da",
+    "option_b": "Estatuaren onarpena elkarrizketa, homologazio, onarpena, baimena edo sarbidea bidez lotura onartzeko adieraz daiteke",
+    "option_c": "Estatu baten onartzea sinaduraz adierazten da",
+    "option_d": "Estatu baten onarpena, nahi duten bidez adieraz daiteke",
+    "answer": "B",
+    "id": "international_law/dev/4"
+  },
+  {
+    "instruction": "Kontuan hartu ordenagailu diseinu bat non prozesadore anitzek, bakoitzak bere kexa-memoria pribatua dauzka, memoria orokorra banatua erabiliz. Autobus hau baliabide sistematiko kritikoa da. Prozesatzaile bakoitzak, memoria erreferentziak bere leku-kaxan baimenduta egonik, 500 nanosegundoko pausu bakoitzeko gaitasuna du eta memoriak falta denean gaineko 2.000 nanosegunduak atzeratuta egon daitezke. Atzerapena gehitzean, erreferentzi hauetan zehar erabiltzaileak bus zerbait egiten ez denean, prosesatzaileak hartara geratuko da. Atzerapen honek erdi batean, busak kexaren arazoa konpontzen jartzen da. Beste erdiaren zatian, gehitutako atzerapenagatik prozesatzaileak harituta egon daitezke, baina autobusa libre jarraitzen du atenditzen. Batez besteko erreferentzi bakoitzerako, 2 memoria erreferentzien behar dira. Batez besteko kasuetan, memoriak falta dira erreferentzi guztien %1-an. Zenbat portzento hartuko luke autobusaren kapazitateatik prozesadore bakarrak, desberdina ezarri gabe beste prozesatzaileekin lehiatzeko atzerapenak kontutan hartuta?",
+    "option_a": "1/50",
+    "option_b": "1/27",
+    "option_c": "1/25",
+    "option_d": "2/27",
+    "answer": "B",
+    "id": "college_computer_science/dev/4"
+  },
+  {
+    "instruction": "Olivia-k \"Gehitu 11\" araua erabilia izan da patroi zenbakian, behean erakutsitako zenbakien arabera. 10, 21, 32, 43, 54 Zenbaki patroiari buruz egiazkoa den adierazpena nola da?",
+    "option_a": "Patroian 10. zenbakia zenbakitan bikoitza izango da.",
+    "option_b": "Zenbaki patroia ez du inoiz bi zenbaki bikoitza hurrengoan izango.",
+    "option_c": "Patroi berriak zenbaki bikoitza eta gero bakoitzaren ondoren zenbaki bakoitza egongo dira.",
+    "option_d": "Zenbaki patroia bikoitzi batekin hasi balitz, patroia bakarrik zenbaki bakoitzak izango lirateke.",
+    "answer": "B",
+    "id": "elementary_mathematics/dev/1"
+  },
+  {
+    "instruction": "Galdera hau hurrengo informazioari buruzkoa da.\n\"Gure Conestoga Manorreko eta Lancasterreko Portumak hainbat arrenkada eta hainbat jarrerarekin eraman ditu inguruko Gobernuetatik; batzuek salbatzen eta besteak kondenatzen; batzuk Misericordiari eman nahiz besteak gorrotoz margotzen nahiz. Hainbat Kolore uxatarrak eta gorrotagarriak agertzen. Horregatik, gure borondatea ikusirik, lotura hori publikoaren aurrean jarri nahi dugu. . . .\n\"Hauek kalte osoa eten ezin badute ere, Quakerren lotura arrazoigarri baten, Indian Salvajeekin aliantza ezartzeko erabaki irristuz, eta gizarte-delakotasun osoetatik nahiko arduradun gabe ikusita, aztertu behean zenbait Fakturik. Uda pasa ondoren, Gobernuaren laguntzarik jasotzekoa ez den ikusirik, Gure uneko Gastuarekin Bideakari batzuk urruntzea eraman nahi izan dira, mugabaldira gure hurbilaldeetatik irtengo ziren hainbat Gerrailekin bizi aritu zen behealdean. Honetatik informatuta, itzuli ginen, eta hiru adituz nire egongo garela eta gure aurrean aurrera egin ginen, Munfey Hillen bizi aritu ginen, non batzuk gure eneak galdu eta batzuk beren Gerraileenak hildu eta hala gure behealdeak galdu ez ginenezakeen Gauzarik. Baina, Handi Uhartearen erreserba hiltzean, eta gure zorrokietatik osatzen ziren hautaketarik gabeko Indian Salvaje hauek, Nortamptongo Konderriko gure lagunen altxor-eskuak hil zituztela justifikatu ziren susmo bereziak zirela ustez, Misericordiaren influentziaren bidez, suharrak babesteko Gobernuaren Babespeko norabidean hartuak izan ziren, hiltua zeinaren bekak gabeko lagunekin eta beren artean.\n\"—\"Paxton Boys\" (pamphlet) orabilia, 1764 (Oharra: Olatzea adierazitako kontextuan nahita, zalantzarik ez da sentsibotasunaren eta mina denboratik kanpoko mende garai honetan).\nAzaldu den tresna araberakoa da kolonia garaian Amerikan historiako tenteak?",
+    "option_a": "Hainbat Britaniar politiken eta Ipar Amerikako kolonizatzaileen asmoen arteko tentazioak.",
+    "option_b": "Tensioak Frantses aliantzako Amerika Indiar Aldeketak eta Britaniarrekin aliantzatutakoek artean.",
+    "option_c": "Tensioak askatasunean dauden afrikar askatuek eta plantatzaile zuriak artean.",
+    "option_d": "Hainbat herrijarren eta koloniako elitetako artean atzealdeko lurretako biztanleen arteko tentsioak.",
+    "answer": "D",
+    "id": "high_school_us_history/dev/1"
+  },
+  {
+    "instruction": "Zein adierazpenek berdina dute 5 x 9-rekin?",
+    "option_a": "(5 x 4) x (6 x 5)",
+    "option_b": "(5 x 5) + (5 x 4)",
+    "option_c": "(5 x 5) + (5 x 9)",
+    "option_d": "(5 x 9) x (6 x 9)",
+    "answer": "B",
+    "id": "elementary_mathematics/dev/4"
+  },
+  {
+    "instruction": "Presidentzialen boterearen mugen zorrozitasuna nagusiki faktua da",
+    "option_a": "Botere horiek definitzeko konstituzioko definitzioa zabala eta zehatza ez dela dela",
+    "option_b": "Guztiok ados dagoen arren, konstituzioak botere presidentzialari muga handiak ezarri dizkioela",
+    "option_c": "Inork ez duelako ziur egiten Presidentziaren botereeia arloko kasuetan erabakitzen dela",
+    "option_d": "Konstituzio aldaketek prezidentziaren boterea handituta badute ere",
+    "answer": "A",
+    "id": "high_school_government_and_politics/dev/0"
+  },
+  {
+    "instruction": "Zein da hurrengo arazoren artean estatistikak ezin dituen bat greba-ekintzekin erlazionatuta?",
+    "option_a": "laneko greba handienei langileen parte-hartzea falta zaie, eta hedabideek arren ez dakite burutzen dituzten grebaz",
+    "option_b": "lana arazoak izan arren, langileek harremanak jaso eta gutxi balira ere harpidetza-epealdiak azaldu behar dira",
+    "option_c": "greba kasuen definizioak hamar langile baino gutxiago edo egun baino gutxiagoko grebak kanpo utzi ohi ditu",
+    "option_d": "baliozkotu ezin diren grebez B alderatzea zaila izan da, oinarrizko metodologiek bereizita baitute eskuragai dauden datuek",
+    "answer": "A",
+    "id": "sociology/dev/4"
+  },
+  {
+    "instruction": "Herpes aktiboa eta tratamendua jasangaitu gabeko sifilideak dituela badakitela sexua izaten jarraitzen duen emakumeak, bere baldintzaz jakinarazi gabe, analisi psikoanalitikoetan:",
+    "option_a": "ego indartsu bat dauka",
+    "option_b": "superego ahul bat dauka",
+    "option_c": "id ahul bat dauka",
+    "option_d": "superego indartsu bat dauka",
+    "answer": "B",
+    "id": "human_sexuality/dev/1"
+  },
+  {
+    "instruction": "Zein datu hurrengoetatik gabinete-departamentuei buruz egindako adierazpen hauek FALTSUAK dira?",
+    "option_a": "Legislatiboaren aldetik sortzen dira.",
+    "option_b": "Huts egin ditzakete prezidential eztabaidetan.",
+    "option_c": "Ez dute guztiak eragin dezakete presidentearen politika-taldean dauden liderrek kudeatzeko.",
+    "option_d": "Ez dira guztiak gabinete-departamentu bat izan beharreko erakunde federaletakoak.",
+    "answer": "C",
+    "id": "high_school_government_and_politics/dev/3"
+  },
+  {
+    "instruction": "Aukeratu predikatibozko logikan emandako argumentuak ingelesezko interpretazio onena.\nDm\n(∀x)(Wx ⊃ ~Dx)\n(∀x)Wx ∨ Ag\t/ (∃x)Ax",
+    "option_a": "Marina dantzari bat da. Batzuk ahultziak ez dira dantzariak. Edo guztia ahultzi bat da, edo Georgia volleibola jokatzen du. Hori batzuk volleibola jokatzen du.",
+    "option_b": "Marina dantzari bat da. Ahultzi bat ere ez da dantzari. Guztia ahultzi bat da edo volleibola jokatzen du. Hori batzuk volleibola jokatzen du.",
+    "option_c": "Marina dantzari bat da. Batzuk ahultziak ez dira dantzariak. Guztia ahultzi bat da edo volleibola jokatzen du. Hori batzuk volleibola jokatzen du.",
+    "option_d": "Marina dantzari bat da. Ahultzi bat ere ez da dantzari. Edo guztia ahultzi bat da, edo Georgia volleibola jokatzen du. Hori batzuk volleibola jokatzen du.",
+    "answer": "D",
+    "id": "formal_logic/dev/2"
+  },
+  {
+    "instruction": "Mugikor medikuntzaren solenoidaren hankak 100 birak ditu, 40 mm luzera eta 30 mm zabalerarekin. Kontrol torquea maximoaren gainean 240*10-6 N-mkoa da. Magnetiko fluxu densitatea 1Wb/m2 izanda, txekearen gaineko distantzia",
+    "option_a": "1 mA.",
+    "option_b": "2 mA.",
+    "option_c": "3 mA.",
+    "option_d": "4 mA.",
+    "answer": "B",
+    "id": "electrical_engineering/dev/2"
+  },
+  {
+    "instruction": "RISC makina batek 8 aldagai orokorrak ditu: R0, R1, . . . , R7. Hurrengo eragiketak onartzen ditu.\nADD Rs1, Rs2, Rd: Rs1 gehitu Rs2-i eta emaitza Rd-n jarri\nMUL Rs1, Rs2, Rd: Rs1-ekin Rs2 biderkatu eta emaitza Rd-n jarri\nEragiketa bat normaltasunean ziklo bat hartzen du; baina, bi eragiketa sekuentzian, hurrengo eragiketa baten emaitza eskatzen badu, bi ziklo hartzen ditu. AB + ABC + BC adierazpena kontuan hartuta, non A, B, C aldagaiek R0, R1, R2 aldagaietan kokatuta daude eta hiru aldagai horien edukiak aldatu ezin direla izanik, zenbat ziklo behar dira AB + ABC + BC balioa kalkulatzeko?",
+    "option_a": "5",
+    "option_b": "6",
+    "option_c": "7",
+    "option_d": "8",
+    "answer": "B",
+    "id": "college_computer_science/dev/1"
+  },
+  {
+    "instruction": "Zergatik da Mars-i gorria?",
+    "option_a": "Mineralak oketuta daudelako (\"oxidoituta\")",
+    "option_b": "Atmosferak argi sinestutako argiaren luzera Lur zikloetan bidaltzen badu gorpytuta dagoena da.",
+    "option_c": "Mars-ek hezi ziren lau haundi dituen lurzoruak ditu, gorrikalde gorriak.",
+    "option_d": "Marsteko uretako fluxuak mineralak aldatu zituelako miliolurte batzuk lehenago.",
+    "answer": "A",
+    "id": "astronomy/dev/4"
+  },
+  {
+    "instruction": "Zer egin behar du komunikabideetara zuzendutako hedabideen profesionalak galderei erantzuteko ez badaki erantzunik?",
+    "option_a": "Ematen dizkion beste informazio batzuk eman egiaztatuta daudela.",
+    "option_b": "Esan 'eztabaida-eszenaratua' dela eta geroago hedatuko dela.",
+    "option_c": "Esan 'ez dakit' eta probetxu informazioa geroago emateko.",
+    "option_d": "Esan 'ez da iruzkinik', jakinik gabekoa agertu baino. ",
+    "answer": "C",
+    "id": "public_relations/dev/0"
+  },
+  {
+    "instruction": "Singleton diseinu patroia erabiltzen da bat baino gehiago ez sortzeko baimena emateko. Hau da, klasearen instantzia bakarra sortu daiteke patroi hau erabiliz. Hurrengo egoki da patroi honi buruz?\nI. Singleton klaseak bere instantzia emateko metodo estatikoa izan behar du.\nII. Singleton klasea beste klase bateko azalera izan daiteke.\nIII. Singleton klaseak eraikitzeko bakarrik dauden eraikuntza metodoak ditu.",
+    "option_a": "I bakarrik",
+    "option_b": "II bakarrik",
+    "option_c": "III bakarrik",
+    "option_d": "I, II, eta III",
+    "answer": "D",
+    "id": "college_computer_science/dev/2"
+  },
+  {
+    "instruction": "Nola alda differitu dauden Defensive Realismoak eta Offensive Realismoak estatuaren portaeraren azalpenetan?",
+    "option_a": "Defensive realistek erakunde internazionalek duten rola nabarmenago azpimarratu egiten dute",
+    "option_b": "Defensive realistek faktore geografikoetan gutxiago aritzen dira",
+    "option_c": "Offensive realistek Defensive realistekin alderatuta, interesa nazionalari lehenetsia ematen diote.",
+    "option_d": "Defensive realistek estatuak segurtasun maximizatzaileak direla uste dute, berriz Offensive realistek beren indarra maximizatzaileak izan daitezkeela uste dute",
+    "answer": "D",
+    "id": "us_foreign_policy/dev/3"
+  },
+  {
+    "instruction": "Auditorrek gailuak dituzten zenbaki serialak non-iradokitzailearen azpigrafiaren gainean jarraitzen ditu. Hurrengo zuzendaritza adierazpenetatik, zeina bultzatzen da erantzun?",
+    "option_a": "Balioztapena eta banaketa",
+    "option_b": "Osagarritasuna",
+    "option_c": "Eskubideak eta betebeharrak",
+    "option_d": "Aurkezpena eta argitarapena",
+    "answer": "B",
+    "id": "professional_accounting/dev/4"
+  },
+  {
+    "instruction": "Esan ezazu zure begiaren akularen diametroa 5 mm den eta teleskopio bat daukazu 50 cm luzera duen aperturarekin. Zenbat argi gehiago hartu dezake teleskopioak zure begiaren baino?",
+    "option_a": "10000 aldiz gehiago",
+    "option_b": "100 aldiz gehiago",
+    "option_c": "1000 aldiz gehiago",
+    "option_d": "10 aldiz gehiago",
+    "answer": "A",
+    "id": "astronomy/dev/2"
+  },
+  {
+    "instruction": "Estrukture homologoak natural selekzio prozesuaren frogatzat aipatzen dira. Ondoko zerrendako guztiak estrukture homologoak direlako, hainbat izanik.",
+    "option_a": "txoriaren hezurrak eta suakin hezurrak",
+    "option_b": "balearen fliperrak eta gizona duen besaulkiak",
+    "option_c": "muturreko delfinaren pectoral finak eta hozkailuaren fliperrak",
+    "option_d": "intsektu baten aurrezko hankak eta txakurren aurrezko hankalkiak",
+    "answer": "D",
+    "id": "high_school_biology/dev/4"
+  },
+  {
+    "instruction": "Zeintzuk dira hurrengo adierazpen adierazpen bikoteetako egokiak (2019an)?",
+    "option_a": "Jendeak zelan aurreratua izango den haien etorkizunari eta haien nazio edo munduari buruzkoa hausnartzen du.",
+    "option_b": "Jendeak zelan aurreratua izango den haien etorkizunari baina zelan Atzera begira egongo direla haien nazio edo munduari buruz jarrera hartuko dute.",
+    "option_c": "Jendeak zelan Atzera begira egongo direla haien etorkizunari baina zelan Aurreratua izango da haien nazio edo munduari buruzkoa hausnartuko dute.",
+    "option_d": "Jendeak zelan Atzera begira egongo direla haien etorkizunari eta haien nazio edo munduari buruzkoa hausnartuko dute.",
+    "answer": "B",
+    "id": "global_facts/dev/0"
+  },
+  {
+    "instruction": "Tanko batek hasieran 3 gramo saltoki dissolututa dauka 100 litro ur batean. Saltoki batez osatutako 0.02 gramo/likro saltoki-dissolutzioa tankera 4 litro/minuto den abiaduriaz spraiatzen da. Spraiatutako dissolutzioa beroan nahasten da tankerako saltoki-dissolutzioarekin eta nahastura kanala eramaten da 4 litro/minutuko abiaduriaz. Nahasketa bideztatua delarik, zenbat gramotara badu saltokia tankeran 100 minutu igaro dira?",
+    "option_a": "2",
+    "option_b": "2 - e^-2",
+    "option_c": "2 + e^-2",
+    "option_d": "2 + e^-4",
+    "answer": "D",
+    "id": "college_mathematics/dev/1"
+  },
+  {
+    "instruction": "Zure terapia klients batentzako, pisu murrizketa programa on bat eskatzeko aholku ematen dizu. Komunitatean eskuragarri dauden programak aztertu dituzu eta programa onena zuretzat izan da. Programa honek, egindako laguntzaile gutxieneko pertsona berri baten sarrera bakoitzeko $50 bonus eskaintzen du. Gainera, egoerak hauetan, erantzun egokia hau izan liteke:",
+    "option_a": "zure klienteri jakinarazi arazpen eta kontra programa ezagutzatik, baina ez zure programatik ",
+    "option_b": "zure ikerketa egin eta onena zuretzat den programatik gomendatu, $50 bonua jasoko duzula azalduz",
+    "option_c": "zure ikerketa egin eta onena zuretzat den programatik gomendatu, eta bonusa zure klienteren kontura kreditatuko duzula eskatu",
+    "option_d": "zure klienteri jakinarazi komunitatean eskuragarri ari diren programa guztien aurreprosak eta kontrako informazioa, baina ez asmatu $50 bonua zure programan sartzeko bada bere klienterik",
+    "answer": "D",
+    "id": "professional_psychology/dev/0"
+  },
+  {
+    "instruction": "Zein da ondokoena prezio solairukoaren gainkarga gaiari buruzko egiazkoa?",
+    "option_a": "Prezio solairukoaren gainkarga eskumaren kurba ezkerraldera mugitzen du.",
+    "option_b": "Gainkarga eraginkorra gaiaren faltan eragiten du.",
+    "option_c": "Prezio solairukoak gaiaren hornidura kurba eskumara mugitzen du.",
+    "option_d": "Gainkarga eraginkorra izateko, ekilibrio prezioa baino gorakoa ezin da izan.",
+    "answer": "D",
+    "id": "high_school_microeconomics/dev/3"
+  },
+  {
+    "instruction": "Zenbat PL formulaziorik ematen ditugu azkenengo sentence hori simbolizatzeko hobetzat hartutakoetariko?\nAhuizotlak bizitza luze eta pozgarriak eduki ohi dituzte, salbu eta irainduta dauden bitartean.",
+    "option_a": "(L • H) ≡ I",
+    "option_b": "(L • H) ∨ I",
+    "option_c": "L • (H ∨ I)",
+    "option_d": "L • (H ⊃ R)",
+    "answer": "B",
+    "id": "formal_logic/dev/4"
+  },
+  {
+    "instruction": "Unibertsoaren eta bertan dauden gauzak elementu-berezienean kontsultatzeko, errealitatearen ikerketa luzeekin kasua da ____ izenarekin ezaguna.",
+    "option_a": "metafisika",
+    "option_b": "epistemologia",
+    "option_c": "kuantum fisika",
+    "option_d": "aksilogia",
+    "answer": "A",
+    "id": "philosophy/dev/4"
+  },
+  {
+    "instruction": "\"Zuzena\" dela esan oinarrituta dagoela diharduten eskola juridikoetako bat da ________ Eskola.",
+    "option_a": "Lurreko legea",
+    "option_b": "Analitikoa",
+    "option_c": "Historikoa",
+    "option_d": "Sosiologikoa",
+    "answer": "A",
+    "id": "jurisprudence/dev/3"
+  },
+  {
+    "instruction": "Zenbat portzentaje inguru dihardute Errusiako biztanlek irratia zentsurarik gabe izatea oso garrantzitsua dela uste duten?",
+    "option_a": "38%",
+    "option_b": "53%",
+    "option_c": "68%",
+    "option_d": "83%",
+    "answer": "A",
+    "id": "global_facts/dev/3"
+  },
+  {
+    "instruction": "Erakunde batean, erabakiak hartzeaz arduratuko den pertsonen taldeari _______________ deitzen zaio.",
+    "option_a": "Kanporatzeko unitatea.",
+    "option_b": "Hornidura zentroa.",
+    "option_c": "Sail buruzkina.",
+    "option_d": "Erabaki hartze unitatea.",
+    "answer": "D",
+    "id": "marketing/dev/1"
+  },
+  {
+    "instruction": "Zein izango litzateke OLS estatistikagilearentzat heterskedastikotasuna eredu erregresiboan agertzen bada baina ezkutatzen bada?",
+    "option_a": "Hirugarren bidezko datuak izango ditu.",
+    "option_b": "Konstante izango da.",
+    "option_c": "Txikiagoak izango dira.",
+    "option_d": "A), B) eta C) alderdi guztiak egokiak izango dira.",
+    "answer": "C",
+    "id": "econometrics/dev/3"
+  },
+  {
+    "instruction": "Zein da juduen arteko hitzarmenaren seinalea gizonentzat?",
+    "option_a": "Oilarra",
+    "option_b": "Mutil juduen zoratzea",
+    "option_c": "Semea",
+    "option_d": "Bar-mitzba",
+    "answer": "B",
+    "id": "world_religions/dev/0"
+  },
+  {
+    "instruction": "Nortasun kontrako adostasunaren kontra erabiltzaile batek beste erabiltzailearen pertsona-biziraupena eraso badu, bere argudioei erantzuteko ordez, lehen pertsonak hurrengo faltsutasunetako bat egina du, zein horiek dira?",
+    "option_a": "tu quoque",
+    "option_b": "zaldiko barreak",
+    "option_c": "pertsona-ren kontra arguez",
+    "option_d": "ignoratio elenchi",
+    "answer": "C",
+    "id": "logical_fallacies/dev/0"
+  },
+  {
+    "instruction": " Eraikin benetako egiazki-taula hurrengo proposamenen bikoitzarentzat. Gero, egiazki-tauletatik, adierazpenak logicamente berdinak edo kontrajarriak diren zehaztu. Ez bada hori bat ere, esanez, konsistenteak alai ezezagunak diren. Justifikatu zure erantzunak.\nE ⊃ (F · E) eta ~E · F",
+    "option_a": "Logicamente berdinak",
+    "option_b": "Kontrajarriak",
+    "option_c": "Ez logicamente berdinak edo kontrajarriak, baina konsistenteak",
+    "option_d": "Ezezagunak",
+    "answer": "C",
+    "id": "formal_logic/dev/3"
+  },
+  {
+    "instruction": "Zein da atal honetan kaltetuta ez dagoen telefono-mugimenduen kontrolan murgiltzen ez dena?",
+    "option_a": "Ziklinak",
+    "option_b": "Protein kinasa",
+    "option_c": "Egiaztapen puntak",
+    "option_d": "Fibroblastu solidoak",
+    "answer": "D",
+    "id": "high_school_biology/dev/3"
+  },
+  {
+    "instruction": "Izan A matrize erreal bat 2x2. Hurrengo adierazpenetako zein izan behar dira benetan?\r\nI. A^2 matrizearen sarrerak guztiz ez-negatiboak dira.\r\nII. A^2 matrizearen determinatza ez-negatiboa da.\r\nIII. A-k bi auto-balio berezi dituela, A^2-k ere bi auto-balio berezi ditu.",
+    "option_a": "Bakarrik I",
+    "option_b": "Bakarrik II",
+    "option_c": "Bakarrik III",
+    "option_d": "Bakarrik II eta III",
+    "answer": "B",
+    "id": "college_mathematics/dev/2"
+  },
+  {
+    "instruction": "Galdera honek jarraian eman den informazioari buruzkoa da. \n\"Gaur egungo legerikode berrian, egiten baduzue, mesedez, gogorarazi nauen sinesmen horri buruzkoa izan dadin: emakumeak ere gogoratzen ezazue eta nabarmenagoak eta hainbatzaileagoak izan dadin aurrena zein aurretikoa. Ez jarri baimen handirik gizonen eskuetan. Gogoratu gizonek titoreak bihurtu nahi izango lukete, halakoak badaude. Hala emazteekiko arreta bereziki ematen ez bada, errebelaren aldekoak izanen gara eta gurez jokatu beharko dugu. Eta, denboraldi batean, ez dugu gure ahotsik edo aurkezpenik onartu gabe baina legeetan baino absolutu ezagutzen gaitugu.\" \nAbigail Adams, gutun batean John Adams-i, 1776\n\"Emakumeentzako lege bereziak gai bizi nagusietatik kanpoko egoeran jarri gaituzte. Batzuetan, emakumeek herritartasuneko eskubideak (botoak, epaileak, karguen jabeak) baino gehiago dute; beste batzuetan, batzarrekoak dira. Batzuetan, emakume batek berezko izenarekin zerbitzari eta enpresa bati esku hartzen du. Beste batzuetan, emakumeek beren iritzia edo defentsazioa eman ahal izan dezakete auzitegi aurretik, baina beste batzuetan ez dute inolaz ere deitzea ziurtatzeko hainbat xede dituena (pertsona, ondasun, jarrera). Bikotezko erroldatze-kasu batean, gizonaren maltzurkeriagatik, emakume bazkidea ez du inongo eskubiderik dituena seme-alabak edo erosketak gaindituko bada ezartzen ez bada epaia berezi bat. Estatu Batuen hiriburuen batean ere, ez du emakumeei beren araberako bizitza edo orduko irabaziik pregatzea, ezta bere bikotezko enpresentziaren zatiak ere. Batzuetan, emakumeak lege-eskolen jatorria eta epailegunearen artean zientzien trebakuntza berdinak dituzte, baina beste batzuetan debekatuta daude. Batzuetan, neskei haien onurak berdinak dira mutilen onuragatik, baina herrialdeko unibertsitate-ereduen hainbat erakundeek ez dituzte onartzen haien sarrera, baita Txinan, Japonian edota Afrikan bizi diren mutilen seme-alabei ere ez. Baina egoera batean baimendutako bikotezko eskubideek ez dute seguru izan inoiz.\" \nSusan B. Anthony-ren \"Emakumeentzako eskubideen adierazpena\", 1876ko uztailean\nSusan B. Anthonyk lehen exzerptoan adierazitako sentimenduak oso gerta daitezke, hau da,",
+    "option_a": "Eraikuntza Berdintasunerako eranskina",
+    "option_b": "unibertsal hauteskunde-gero",
+    "option_c": "estatu-barruko eskubideak",
+    "option_d": "debekua",
+    "answer": "B",
+    "id": "high_school_us_history/dev/2"
+  },
+  {
+    "instruction": "Errepidea aurreratzen ari zara kamioi baten aurretik. Mars-en erraztua izango litzateke hasteko? Zergatik? (Kontuan izan lehertzea gabe)",
+    "option_a": "Mars-eken kamioia pisutsagoa baita, hoberik ez litzateke.",
+    "option_b": "Mars-eken kamioia arinagoa baita, errazago litzateke.",
+    "option_c": "Mars-eken kamioia arinagoa baita, hoberik ez litzateke.",
+    "option_d": "Gauzak bera izango lirateke nondik nora egon nintzen.",
+    "answer": "D",
+    "id": "astronomy/dev/0"
+  },
+  {
+    "instruction": "Zein da Rawls-ek POP-ek (jatorrizko egoeran dauden jendeak) gutxien adopzioan jartzen dituen posizioen artean?",
+    "option_a": "POP-k berdintasuna aukeratuko luke askatasunaren gainean.",
+    "option_b": "POP-k 'maximin' estrategia aukeratuko luke.",
+    "option_c": "POP-k 'diferentzia printzipioa' aukeratuko luke.",
+    "option_d": "POP-k ukatuko luke 'askatasun naturalaren sistema'.",
+    "answer": "A",
+    "id": "jurisprudence/dev/0"
+  },
+  {
+    "instruction": "Estatikoko autoregressive prozesu batean, uhinen eragina ",
+    "option_a": "Azkenean desagertuko dira",
+    "option_b": "Mugarik gabe iraungo dira",
+    "option_c": "Eksponentialki hazten joango dira",
+    "option_d": "Inoiz gertatuko ez dira",
+    "answer": "A",
+    "id": "econometrics/dev/0"
+  },
+  {
+    "instruction": "Fedaraldefizita gertatzen da",
+    "option_a": "esportazioak inportazioak baino handiagoak badira.",
+    "option_b": "inportazioak esportazioak baino handiagoak badira.",
+    "option_c": "federal zerga bildumak gastuak baino handiagoak badira.",
+    "option_d": "federal gastuak federal zerga eraren baino handiagoak badira.",
+    "answer": "D",
+    "id": "high_school_macroeconomics/dev/2"
+  },
+  {
+    "instruction": "Nola deskribatu daitezke kudeaketa estilo demokratiko eta inklusiboekin jasotako antolamendu egiturak?",
+    "option_a": "Hierarkiko",
+    "option_b": "Burokratikoa",
+    "option_c": "Laino",
+    "option_d": "Funtzionala",
+    "answer": "C",
+    "id": "management/dev/4"
+  },
+  {
+    "instruction": "Galdera honek hurrengo informazioari dagokio.\nHurrengo aipuak pamfletotik daude.\nJustizia egingo zidakezu gogorarazi nion bezala herri bakoitzak bere iritzia defendatu beharko zuela, nire iritzitik askoz ezberdinagoa izan bada ere. Beste bati eskubidea ez uztea, bere unetako iritzia esklabo egiten du; hainbat eragiketak trukatzea ezin izanik.\nErroreen aurka borondate poderosoen arma gorabeherena Arima da. Inolako arma ez dut erabili eta uste dut inoiz ere erabiliko ez dutela.\nGaur egun Frantziako orden nazionaleko papera alde batera utzi duen bihurtu den egoerak, erligio konpultsibo sistemen bati, uste erroreen sistemen eta teologi erroreen biztanleri osoaren hondatzeko erraztasun handia ematen dio lana hau egiteko, morala eta gizartea eta egiaztatu diren teologiaren ibilan egon gabe galdutzen ez ditugula.\nNi bakarrik sinesten dut Jainko bakar baten existentziarik, eta elkarlotasunaren alde nago; eta religioarekiko jarduerak justizia egin, merkea maite eta gure anai-arrebak pozten saiatzean datoz.\nJewish, Errumaniar, Greziar, Turkiar, Protestante eta ez nuen ezagutzen duten eliza bati ere ez diet sinetsi. Nire burua nire eliza da.\nEliza judu, kristau edo turkiarreko nazioar instituzio guztiak, biztanleri kaltetu eta askebi egiteko sortu diren antolaketak dira, indar eta diru monopolizatzeko bultzatutako gizarte agintariak.\nEremu honekin alde egiten ez diot sinesten duten guztiei, beraiek nire iritzia defendatzeko eskubidea dutelako.\nThomas Paine-k, The Age of Reason, 1794-1795\nZertarako aldaera filosofia bat garrantzi handirik eman zion gizarte-sistema kontrolatzeko?",
+    "option_a": "Jean Jacques Rousseau",
+    "option_b": "Baron Montesquieu",
+    "option_c": "Mary Wollstonecraft",
+    "option_d": "Adam Smith",
+    "answer": "B",
+    "id": "high_school_european_history/dev/0"
+  },
+  {
+    "instruction": "Haur baten genetikako proba batean, transmisio berdina duen genetika ano hi rar bat aurkitzen da. Hurrengo adierazpenetako zein benetan egia da erreferentzia honen familia honetan?",
+    "option_a": "Emakume alde maternalean zegoen familia guztiek anoa izango dute.",
+    "option_b": "Emakumeak gizonezko baino zortzi artean nahiko gehiago kaltetuta egongo dira familia honetan.",
+    "option_c": "Osagai batekiko gizona duten alabak guztiak kaltetuta egongo dira.",
+    "option_d": "Gizonezko eta emakumezko horiek bera kaltetuta egongo dira bidegurutzean.",
+    "answer": "C",
+    "id": "college_medicine/dev/2"
+  },
+  {
+    "instruction": "Zenbat saiatu behar dituzu paziente bat denboraldi kanyulatu aurreko tokiari iritsi baino lehenago, 2020ko ezagutzaren arabera, gai jakin bati baino?",
+    "option_a": "4",
+    "option_b": "3",
+    "option_c": "2",
+    "option_d": "1",
+    "answer": "C",
+    "id": "clinical_knowledge/dev/3"
+  },
+  {
+    "instruction": "Zein bi egoera honetako batean egiten du pertsonaia nagusiak (niri erabiliz) 2020ko AEBetako ohiko moral-esparruetan zehazki okerra egiten duten erakundeei dagokienez? 1. egoera | Maitatzen nuen mutillaren seme-alaba berria benetan. 2. egoera | Garraio-trailerrera bizitzea lotsatuta dagoen neskak gela guztiei bere etxera gonbidatzen ditut.",
+    "option_a": "Okerra, Okerra",
+    "option_b": "Okerra, Ez da okerra",
+    "option_c": "Ez da okerra, Okerra",
+    "option_d": "Ez da okerra, Ez da okerra",
+    "answer": "C",
+    "id": "moral_scenarios/dev/0"
+  },
+  {
+    "instruction": "Zein da diplomatia kutsagarri militar gaitzetsitzen duen?",
+    "option_a": "Compellence diplomatia kutsagarrirako terminoa da, baina kriterio takarkiago batzuk hartzen ditu; compellence mina egitera bideratutako mehatxuak hartzen ditu. Estatu baten zenbaki bat partea utzi behar lukeen alde bat uzteko egindako mehatxua diplomatia kutsagarrirako kontatuko litzateke, zenbaki horrek ekintza bideratzailea baino lehen inoiz ez baitu hartzen.",
+    "option_b": "Diplomatia kutsagarria da indar mugatuaren mehatxuak egin beharrekoa, kutsagarriztatzailearen eskariak betetzeko. Estrategia eragina izan nahi du: lehenengo errotik adimentsgarriari huts egin dio indar erabilera hainbatetik. Hori aldatuko du helburua lortzeko: konforme izatea edo jarraitu.",
+    "option_c": "Indar militarra edo indar militarren mina estrategiak xede estrategikoen gainekoa erabiltzen du bizi ani-bizian. Honek, diplomatia kutsagarritik bereizten da, kutsagarriak bideratzeko tresna gisa ez du mina erabiltzen kutsagailu bati bultzatzerakoan.",
+    "option_d": "Diplomatia kutsagarria indar erabil dezan baina bere eragina mugatu izan dadin nazioarteko komunitatean. Diplomatia kutsagarria estrategia aplausibilena da, konforme izan dadin derrigorrez edo gatazkara sartzeko. Hori ez du elementu bat utzi helbururaino, zuzen konforme edo gatazkara hartzeko. Negoziazio edo kontrakarik ez ezarri beharrari heldu gabe kontrolatu nahi du gaiaren gainean.",
+    "answer": "B",
+    "id": "security_studies/dev/0"
+  },
+  {
+    "instruction": "Galdera konplexu erretratuak …",
+    "option_a": "...defendatzeko sanoa erabiliko da, hori baina asmo ez zuela egiten dagoenik lehentasun handia edukitzen duenegatik.",
+    "option_b": "...proposamen batean gehiagoz argudiatuta badaude, batzuk proba moduan hartuz eta beste guztien aldetik probatzat hartua.",
+    "option_c": "...konklusio bat lortzeko lehenengoela adieraziz testuinguruaz arduratu barik, eta konklusio hori babesten duen proba bakarra kontuan hartuz.",
+    "option_d": "...galdera bat egiten denean, baita lehen asumpzio bat edota galdera bat baino gehiago badu, horrek erantzun bat baldintzarik gabeko izan daitekeena lortzen du.",
+    "answer": "D",
+    "id": "logical_fallacies/dev/1"
+  },
+  {
+    "instruction": "30 jokalari total baten parke batean basquetegia joko dute. Talde bakoitzean 5 jokalari izango dira. Zelan kalkulatu behar da beharrezko taldeen kopurua?",
+    "option_a": "Gehitu 5 30ari, 35 taldeak aurkitzeko.",
+    "option_b": "Banatu 30 5ekin, 6 taldeak aurkitzeko.",
+    "option_c": "Biderkatu 30 eta 5, 150 taldeak aurkitzeko.",
+    "option_d": "Kendu 5 30tik, 25 taldeak aurkitzeko.",
+    "answer": "B",
+    "id": "elementary_mathematics/dev/2"
+  },
+  {
+    "instruction": "Zein da hurrengo aukeren artean Internet of Things (IoT)-eko gailu baten erabilera adibide egiteko?",
+    "option_a": "Automobila gidariari ebazpena ematen dio objektu bat ukitu egin baino lehen.",
+    "option_b": "Mendizaleak G P S erlojua erabiliko du bere kokapena eta jarraitzea egiteko.",
+    "option_c": "Hegazkinak goizero hiri bateko tabernaraino joateko agindua bidaliko du.",
+    "option_d": "Korrikalariak optikoko sentsoreekin erabiliko du bere bizkortze tasaren jarraipena egiteko.",
+    "answer": "C",
+    "id": "high_school_computer_science/dev/0"
+  },
+  {
+    "instruction": "Galdera honek hurrengo informazioarekin zerikusia du.\nLan guztiak, nahietakoak, perfume guztiak eta gustu guztiak hartzen ditu. Unibertso osoa atxikitzen du eta isilean guztiei maite die. Hau da nire bihotzean dagoen Espiritua, hau da Brahmana. Hainbatza baino gorago joan ahala, haren onetik etorriko naiz, eta sinetsarik gabekoaren onetik etorrizko da.\n—The Upanishads, India, c. 1000 BCE\nZein erlijioengan izan daiteke hitzari jatorriz gehien batetik?",
+    "option_a": "Hinduismoa",
+    "option_b": "Budismoa",
+    "option_c": "Shintoismoa",
+    "option_d": "Zoroastrismoa",
+    "answer": "A",
+    "id": "high_school_world_history/dev/0"
+  },
+  {
+    "instruction": "Aukera-zenbakia baino erreal balio handiagoa izanik, erabaki-duen zuhaitzaren informazioa askotariko jakinarazpenekin banatuko ditugu. Hurrengo zerrendatik hautatu Paten proposamenaren problematika nagusi bakarra:",
+    "option_a": "Kalkulu eraginkortasuna nahiko baxua izango litzateke.",
+    "option_b": "Aukera-zenbakiaren arabera erabakitako zuhaitzaren emaitzek errez ulertuko lirateke, eta ezin lirateke gehiegi antolatu datu-multzoetan.",
+    "option_c": "Aukera-zenbakiaren arabera erabakitako zuhaitzaren emaitzak errez ulertuko lirateke datu-multzoaren kasuan; baina test-multzoaren kasuan ez lirateke horrelako eraikin bikaina izango.",
+    "option_d": "Aukera-zenbakiaren arabera erabakitako zuhaitzaren emaitzak errez ulertuko lirateke test-multzoaren kasuan; baina datu-multzoaren kasuan ez lirateke horrelako eraikin bikaina izango.",
+    "answer": "C",
+    "id": "machine_learning/dev/4"
+  }
+]

@@ -1,0 +1,2441 @@
+[
+  {
+    "instruction": "Xem xét mô hình AR(1) sau đây với các rối loạn có trung bình bằng không và phương sai đơn vị\n\nyt = 0.2 + 0.4 yt-1 + ut\n\nTrung bình (vô điều kiện) của y sẽ được cho bởi",
+    "option_a": "0,2",
+    "option_b": "0,4",
+    "option_c": "0,5",
+    "option_d": "0,33",
+    "answer": "D",
+    "id": "econometrics/dev/1"
+  },
+  {
+    "instruction": "Theo \"đạo đức học hữu ích lý tưởng\" của Moore, hành động đúng là hành động mang lại lượng:",
+    "option_a": "niềm vui.",
+    "option_b": "hạnh phúc.",
+    "option_c": "tốt.",
+    "option_d": "đức hạnh.",
+    "answer": "C",
+    "id": "philosophy/dev/1"
+  },
+  {
+    "instruction": "Trong những cái sau, cái nào không được tính vào GDP của Hoa Kỳ?",
+    "option_a": "Quân đội Hoa Kỳ mở một cơ sở mới tại một quốc gia nước ngoài với 1000 nhân sự của Hoa Kỳ.",
+    "option_b": "Người tiêu dùng Nhật Bản mua hàng ngàn đĩa CD được sản xuất tại Hoa Kỳ.",
+    "option_c": "Một ca sĩ pop Mỹ tổ chức một buổi hòa nhạc bán hết vé ở Paris.",
+    "option_d": "Một sản phẩm kịch Pháp đang diễn tại nhiều thành phố của Mỹ.",
+    "answer": "C",
+    "id": "high_school_macroeconomics/dev/0"
+  },
+  {
+    "instruction": "Câu nào sau đây là đúng về Thành Vatican vào năm 2010 khi các cáo buộc che giấu tội lạm dụng trẻ em ra đời?",
+    "option_a": "Có một phản ứng truyền thông phối hợp.",
+    "option_b": "Thông điệp nhất quán đã được truyền đạt.",
+    "option_c": "Những chỉ trích được coi như là cuộc tấn công vào Giáo hội Công giáo.",
+    "option_d": "Uy tín của Thành Vatican đã được duy trì.",
+    "answer": "C",
+    "id": "public_relations/dev/2"
+  },
+  {
+    "instruction": "Giả sử rằng một thống kê kiểm định có giá trị p-value là 0.08. Câu nào sau đây là đúng?\n\n(i) Nếu kích thước kiểm định chính xác là 8%, chúng ta sẽ không quan tâm đến việc từ chối hoặc không từ chối giả thuyết không\n\n(ii) Giả thuyết không được chấp nhận nếu sử dụng kích thước kiểm định là 10%\n\n(iii) Giả thuyết không được từ chối nếu sử dụng kích thước kiểm định là 1%\n\n(iv) Giả thuyết sẽ bị từ chối nếu sử dụng kích thước kiểm định là 5%.",
+    "option_a": "(ii) và (iv) duy nhất",
+    "option_b": "(i) và (iii) duy nhất",
+    "option_c": "(i), (ii), và (iii) duy nhất",
+    "option_d": "(i), (ii), (iii), và (iv)",
+    "answer": "C",
+    "id": "econometrics/dev/2"
+  },
+  {
+    "instruction": "Khi một người tranh luận gây nhầm lẫn trong quá trình bác bỏ vì thiếu khả năng thật sự hoặc giả vờ để tham gia vào việc bác bỏ, người đó có thể đã phạm phải lỗi sai tư duy của",
+    "option_a": "thái độ kém phối hợp",
+    "option_b": "kêu gọi sự đồng cảm",
+    "option_c": "bác bỏ vì người",
+    "option_d": "thiếu khả năng bác bỏ",
+    "answer": "D",
+    "id": "logical_fallacies/dev/4"
+  },
+  {
+    "instruction": "Chính phủ Nhật Bản nào đã thúc đẩy một loại văn hóa quốc gia dựa trên hoàng đế và sự kết nối của ông với kami?",
+    "option_a": "Honen",
+    "option_b": "Tanaka",
+    "option_c": "Tokugawa",
+    "option_d": "Meiji",
+    "answer": "D",
+    "id": "world_religions/dev/3"
+  },
+  {
+    "instruction": "Trong số các lựa chọn sau, đâu là cách tiếp cận tốt nhất để điều tra vai trò của trẻ em chiến sĩ?",
+    "option_a": "Trẻ em chiến sĩ là nạn nhân của chiến tranh và cần được giáo dục lại và tái hòa nhập vào xã hội.",
+    "option_b": "Trẻ em và mẹ của họ không phải là những đối tượng chủ động trong chiến tranh và nên được xem như những đối tượng thuộc lĩnh vực riêng tư.",
+    "option_c": "Trẻ em thường là những người đứng ngoài cuộc chiến và nên được coi là biểu tượng của hòa bình.",
+    "option_d": "Trẻ em có tính chủ thể về mặt chính trị mà sẽ bị bỏ qua nếu coi họ là những nạn nhân không có năng lực hành động trong chiến tranh.",
+    "answer": "D",
+    "id": "security_studies/dev/1"
+  },
+  {
+    "instruction": "Năng lượng cho tất cả các hình thức co bắp đều được cung cấp bởi:",
+    "option_a": "ATP.",
+    "option_b": "ADP.",
+    "option_c": "phosphocreatine.",
+    "option_d": "oxy hóa photphorylation.",
+    "answer": "A",
+    "id": "clinical_knowledge/dev/0"
+  },
+  {
+    "instruction": "Tỷ lệ tập trung cho một công ty độc quyền là",
+    "option_a": "0",
+    "option_b": "5",
+    "option_c": "10",
+    "option_d": "100",
+    "answer": "D",
+    "id": "high_school_microeconomics/dev/2"
+  },
+  {
+    "instruction": "Trong một quần thể cho trước, 1 trong số 400 người có ung thư do một gen hoàn toàn lặn bị kích hoạt, b. Giả sử quần thể ở cân bằng Hardy-Weinberg, tỷ lệ dự kiến ​​của những người mang gen b nhưng không bị mắc bệnh ung thư là gì trong các phương án sau?",
+    "option_a": "1/400",
+    "option_b": "19/400",
+    "option_c": "20/400",
+    "option_d": "38/400",
+    "answer": "D",
+    "id": "college_biology/dev/1"
+  },
+  {
+    "instruction": "Khi người cao tuổi chuyển đến tiểu bang khác sau khi về hưu, điểm đến nào sau đây là có khả năng cao hơn?",
+    "option_a": "Texas",
+    "option_b": "California",
+    "option_c": "Hawaii",
+    "option_d": "Vermont",
+    "answer": "A",
+    "id": "human_aging/dev/2"
+  },
+  {
+    "instruction": "Người đàn ông ngắn nhất từng thắng cuộc thi slam dunk NBA là ai?",
+    "option_a": "Anthony 'Spud' Webb",
+    "option_b": "Michael 'Air' Jordan",
+    "option_c": "Tyrone 'Muggsy' Bogues",
+    "option_d": "Julius 'Dr J' Erving",
+    "answer": "A",
+    "id": "miscellaneous/dev/2"
+  },
+  {
+    "instruction": "Một dung dịch chứa 2,00 mol axit axetic, CH3COOH và 1,00 mol axetat canxi, Ca(CH3COO)2. Dung dịch có thể chịu được sự thêm một lượng nhỏ axit mạnh hoặc bazơ mạnh chỉ với những thay đổi nhỏ về độ pH của dung dịch. Số lượng lớn hơn axit mạnh hoặc bazơ mạnh có thể gây ra một sự thay đổi đáng kể về độ pH. Bao nhiêu mol axit nitric, HNO3, có thể được thêm vào trước khi độ pH bắt đầu thay đổi đáng kể?",
+    "option_a": "0,500 mol",
+    "option_b": "1,00 mol",
+    "option_c": "2,00 mol",
+    "option_d": "3,00 mol",
+    "answer": "C",
+    "id": "high_school_chemistry/dev/4"
+  },
+  {
+    "instruction": "Khai thác lỗ hổng Heartbleed cho phép",
+    "option_a": "ghi đè các khóa mật mã trong bộ nhớ",
+    "option_b": "một loại tiêm mã",
+    "option_c": "đọc ngoài khỏi giới hạn của bộ đệm",
+    "option_d": "tấn công chuỗi định dạng",
+    "answer": "C",
+    "id": "computer_security/dev/3"
+  },
+  {
+    "instruction": "DNA ligase là",
+    "option_a": "một enzyme kết nối các mảnh trong quá trình sao chép DNA bình thường",
+    "option_b": "một enzyme có nguồn gốc từ vi khuẩn được sử dụng để cắt DNA tại các chuỗi cơ sở được xác định",
+    "option_c": "một enzyme giúp thúc đẩy quá trình chuyển mã của các gene cụ thể",
+    "option_d": "một enzyme giới hạn mức độ mà một chất dinh dưỡng cụ thể đạt được",
+    "answer": "A",
+    "id": "medical_genetics/dev/1"
+  },
+  {
+    "instruction": "Thuật ngữ 'hegemony' có nghĩa là:",
+    "option_a": "khuynh hướng của tầng lớp công nhân không nhận ra lợi ích của mình",
+    "option_b": "một lý thuyết thống trị định giá quyền lực kinh tế, chính trị và văn hóa",
+    "option_c": "một hình thức ý thức song song dựa trên lý tưởng và trải nghiệm hàng ngày",
+    "option_d": "một hình thức thanh toán cho cây cảnh tuyệt vời",
+    "answer": "B",
+    "id": "sociology/dev/3"
+  },
+  {
+    "instruction": "Thời gian sống trung bình đến AIDS và tử vong được xác định bằng cách theo dõi:",
+    "option_a": "Các cá nhân nhiễm HIV được tiền sửa",
+    "option_b": "Các cá nhân âm tính với HIV",
+    "option_c": "Các cá nhân chuyển đổi âm tính sang dương tính với HIV",
+    "option_d": "Các cá nhân âm tính ‘mũi lọc’ với nguy cơ cao",
+    "answer": "C",
+    "id": "virology/dev/4"
+  },
+  {
+    "instruction": "Câu hỏi này liên quan đến thông tin sau.\n\"Thật sự, như cả các lời phán của những học giả tinh hoa [cả những người] dựa trên lý trí và truyền thống cũng như sự đồng thuận của cộng đồng Sunni đều đồng ý rằng nghĩa vụ xóa bỏ, tiêu diệt và trục xuất những đổi mới ác độc phải là mục tiêu của nguyện vọng cao quý của chúng ta, vì \"Nhiệt tình tôn giáo là một chiến thắng cho Đức tin của Đức Chúa Trời Thượng đế\"; sau đó, theo như lời của Nhà tiên tri (Hòa bình đến với ngài!)\"Kẻ nào giới thiệu đổi mới ác tàn vào tín ngưỡng của chúng ta phải bị trục xuất\" và \"Kẻ nào vi phạm điều lệ của chúng ta phải bị trục xuất\", hành động đã trở thành cần thiết và khẩn cấp ...\"\nThư từ của Ottoman Sultan Selim I gửi đến Safavid Shah Ismail I, năm 1514.\nThư của Selim I rõ ràng là một ví dụ về điều gì sau đây?",
+    "option_a": "Dụng bảo toàn sức mạnh quân sự bằng mọi giá",
+    "option_b": "Gây căng thẳng giữa các phái tôn giáo",
+    "option_c": "Những nhân tố dẫn đến sự sụp đổ của đế chế Ottoman",
+    "option_d": "Các nỗ lực hòa giải giữa các đế chế Hồi giáo",
+    "answer": "B",
+    "id": "high_school_world_history/dev/3"
+  },
+  {
+    "instruction": "So với khối lượng của một nguyên tử uranium trải qua phân hạch, tổng khối lượng các sản phẩm sau phân hạch có",
+    "option_a": "ít hơn",
+    "option_b": "nhiều hơn",
+    "option_c": "bằng nhau",
+    "option_d": "bằng không",
+    "answer": "A",
+    "id": "conceptual_physics/dev/0"
+  },
+  {
+    "instruction": "Tìm đặc trưng của vòng 2Z.",
+    "option_a": "0",
+    "option_b": "3",
+    "option_c": "12",
+    "option_d": "30",
+    "answer": "A",
+    "id": "abstract_algebra/dev/4"
+  },
+  {
+    "instruction": "Khác với những chiến dịch tẩy chay, những chiến dịch buycott nhằm thưởng cho hành vi thuận lợi của các công ty. Sự thành công của những chiến dịch này đã được cường độ hóa thông qua việc sử dụng công nghệ blockchain, giúp cho các chiến dịch này thúc đẩy cho công ty đạt được việc tăng doanh số bán hàng.",
+    "option_a": "Buycotts, Boycotts, Công nghệ Blockchain, Quyên góp từ thiện",
+    "option_b": "Buycotts, Boycotts, Công nghệ số, Tăng doanh số bán hàng",
+    "option_c": "Boycotts, Buyalls, Công nghệ Blockchain, Quyên góp từ thiện",
+    "option_d": "Boycotts, Buycotts, Công nghệ số, Tăng doanh số bán hàng",
+    "answer": "D",
+    "id": "business_ethics/dev/4"
+  },
+  {
+    "instruction": "Trong thuyết tầng lớp nhu cầu của Maslow, điều nào sau đây là một giả định?",
+    "option_a": "Nhu cầu phụ thuộc vào văn hóa và cũng phụ thuộc vào tầng lớp xã hội.",
+    "option_b": "Những nhu cầu cấp thấp phải được thoả mãn ít nhất một phần trước khi những nhu cầu cao hơn có thể ảnh hưởng đến hành vi.",
+    "option_c": "Nhu cầu không được ưu tiên hoặc sắp xếp theo bất kỳ trật tự cụ thể nào.",
+    "option_d": "Những nhu cầu được đáp ứng là nguồn động lực và những nhu cầu mới xuất hiện khi những nhu cầu hiện tại vẫn chưa được đáp ứng.",
+    "answer": "B",
+    "id": "marketing/dev/2"
+  },
+  {
+    "instruction": "Đơn giản hóa và viết kết quả với mẫu số hữu tỉ: $$\\sqrt{\\sqrt[3]{\\sqrt{\\frac{1}{729}}}}$$",
+    "option_a": "\\frac{3\\sqrt{3}}{3}",
+    "option_b": "\\frac{1}{3}",
+    "option_c": "\\sqrt{3}",
+    "option_d": "\\frac{\\sqrt{3}}{3}",
+    "answer": "D",
+    "id": "high_school_mathematics/dev/3"
+  },
+  {
+    "instruction": "Trong các tập hợp sau, tập hợp nào có độ lệch chuẩn nhỏ nhất? Tập hợp nào có độ lệch chuẩn lớn nhất?\nI: {1,2,3}\nII: {-10,10}\nIII: {100}\n",
+    "option_a": "I, II",
+    "option_b": "II, III",
+    "option_c": "III, I",
+    "option_d": "III, II",
+    "answer": "D",
+    "id": "high_school_statistics/dev/4"
+  },
+  {
+    "instruction": "_____________ có thể thay đổi dữ liệu trên hệ thống của bạn - do đó hệ thống của bạn không chạy đúng hoặc bạn không thể truy cập vào các dữ liệu cụ thể. Hoặc nó có thể đòi tiền chuộc để cho phép bạn truy cập.",
+    "option_a": "IM - Trojan",
+    "option_b": "Backdoor Trojan",
+    "option_c": "Trojan-Downloader",
+    "option_d": "Ransom Trojan",
+    "answer": "D",
+    "id": "computer_security/dev/1"
+  },
+  {
+    "instruction": "Iverson Jewelers đã viết một lá thư tới Miller, 'Chúng tôi đã nhận được một chiếc đồng hồ tự động Rolox rất tuyệt vời và chúng tôi sẽ bán cho bạn với giá rất thuận lợi.'",
+    "option_a": "Lá thư là một lời đề nghị để bán hàng",
+    "option_b": "Một lời đề nghị hợp lệ không thể được thực hiện bằng thư.",
+    "option_c": "Lá thư chứa một lời đề nghị hợp lệ sẽ kết thúc trong một khoảng thời gian hợp lý.",
+    "option_d": "Lá thư thiếu một trong những yếu tố cần thiết của một lời đề nghị.",
+    "answer": "D",
+    "id": "jurisprudence/dev/4"
+  },
+  {
+    "instruction": "Nhánh nào của dây thần kinh ba nhánh chứa quá trình tác động cơ thể?",
+    "option_a": "Dây thần kinh trán trên",
+    "option_b": "Dây thần kinh trán dưới",
+    "option_c": "Dây thần kinh vòm miệng",
+    "option_d": "Không có câu trả lời nào đúng",
+    "answer": "D",
+    "id": "anatomy/dev/1"
+  },
+  {
+    "instruction": "Biến số $x$ thay đổi tỉ lệ thuận với bình phương của $y$, và $y$ thay đổi tỉ lệ thuận với khối của $z$. Nếu $x$ bằng $-16$ khi $z$ bằng $2$, giá trị của $x$ khi $z$ bằng $\\frac{1}{2}$ là bao nhiêu?",
+    "option_a": "-1",
+    "option_b": "16",
+    "option_c": "-\\frac{1}{256}",
+    "option_d": "\\frac{1}{16}",
+    "answer": "C",
+    "id": "high_school_mathematics/dev/2"
+  },
+  {
+    "instruction": "Một cơ quan lập pháp mới đây đã ban hành một đạo luật tuyên bố rằng chửi thề hoặc sử dụng ngôn ngữ khiếm nhã hoặc xúc phạm trong việc đề cập đến hoặc ám chỉ đến một sĩ quan cảnh sát đang thực hiện nghĩa vụ của mình là một hành vi phạm tội nhẹ. Một sinh viên tại một trường đại học công lập đã tổ chức một cuộc biểu tình trên khuôn viên trường để phản đối chiến tranh. Cuộc hội họp đã thu hút một nhóm gồm 50 sinh viên, chúng đã hô to những thông điệp chống chiến tranh với những chiếc xe chạy qua. Để thể hiện sự khinh miệt của mình đối với Hoa Kỳ, sinh viên đã may lá cờ của Mỹ vào phần đít quần của mình. Khi một sĩ quan cảnh sát thấy lá cờ may trên quần của sinh viên, anh ta đã tiếp cận và bảo rằng sinh viên phải tháo lá cờ hoặc sẽ bị bắt giữ. Sinh viên trở nên tức giận và hét lên với sĩ quan cảnh sát rằng, \"Nghe này, kẻ đồi bại, tôi có thể mặc loại rác này ở bất cứ đâu tôi muốn\". Sau đó, sinh viên đã bị bắt giữ và buộc tội vi phạm đạo luật của tiểu bang. Sau đó, sinh viên đã kiện tụng tại tòa án tiểu bang để thách thức tính hiệu lực hiến pháp của đạo luật. Lập luận hiến pháp mạnh nhất cho sinh viên là rằng",
+    "option_a": "đạo luật này thiếu minh bạch và không xác định rõ ràng dẫn tới vi phạm quyền công dân trong điều khoản đạo luật về đạo đức trong Amendmen 14 của Hiến pháp Mỹ.",
+    "option_b": "đạo luật này không hợp lệ bởi vì nó vi phạm quyền tự do ngôn luận của người kêu gọi theo Amendmenđầu tiên.",
+    "option_c": "đạo luật này giới hạn quyền tự do ngôn luận theo hiến pháp đầu tiên vì vẫn có cách thức giới hạn ít đáng tin cậy hơn để đạt được cùng mục đích.",
+    "option_d": "đạo luật này quá rộng và cho nên là vô hiệu theo Amendmenđầu tiên và Amendmen 14 của Hiến pháp Mỹ.",
+    "answer": "D",
+    "id": "professional_law/dev/0"
+  },
+  {
+    "instruction": "Việc người lớn nhớ lại những sự kiện từ thời tuổi vị thành niên tốt hơn so với các giai đoạn khác trong cuộc đời được gọi là",
+    "option_a": "Ưu thế tuổi vị thành niên",
+    "option_b": "Đỉnh nhớ lại ký ức",
+    "option_c": "Tưởng niệm kỷ niệm",
+    "option_d": "Đỉnh suy luận bậc hai",
+    "answer": "B",
+    "id": "human_aging/dev/1"
+  },
+  {
+    "instruction": "Joe đang phụ trách ánh sáng cho một buổi nhảy. Đèn đỏ nhấp nháy mỗi hai giây, đèn vàng nhấp nháy mỗi ba giây, và đèn xanh nhấp nháy mỗi năm giây. Nếu chúng ta tính cả phần bắt đầu và kết thúc của buổi nhảy, trong suốt một buổi nhảy kéo dài bảy phút, đèn nào sẽ bật đồng thời với cả ba màu vào bao nhiêu lần? (Giả sử rằng ba đèn đều nhấp nháy đồng thời ở phần đầu của buổi nhảy.)",
+    "option_a": "3",
+    "option_b": "15",
+    "option_c": "6",
+    "option_d": "5",
+    "answer": "B",
+    "id": "high_school_mathematics/dev/0"
+  },
+  {
+    "instruction": "Cách đây một trăm năm, bà cố của bạn đã đầu tư 100 đô la với lãi suất 5% hàng năm. Khoản đầu tư đó giá trị bao nhiêu vào ngày hôm nay?",
+    "option_a": "$13.000",
+    "option_b": "$600",
+    "option_c": "$15.000",
+    "option_d": "$28.000",
+    "answer": "A",
+    "id": "professional_accounting/dev/1"
+  },
+  {
+    "instruction": "Từ các quy tắc tan, điều gì sau đây là đúng?",
+    "option_a": "Tất cả các muối clo, brom và iod đều tan",
+    "option_b": "Tất cả các sulfate đều tan",
+    "option_c": "Tất cả các hydroxit đều tan",
+    "option_d": "Tất cả các hợp chất chứa ammonium đều tan",
+    "answer": "D",
+    "id": "high_school_chemistry/dev/2"
+  },
+  {
+    "instruction": "Phạm vi quyết định chính sách liên quan chủ yếu đến mối quan hệ giữa Hoa Kỳ và phần còn lại của thế giới được gọi là",
+    "option_a": "chính sách chống khủng bố.",
+    "option_b": "chính sách kinh tế.",
+    "option_c": "chính sách đối ngoại.",
+    "option_d": "chính sách quốc tế.",
+    "answer": "C",
+    "id": "us_foreign_policy/dev/2"
+  },
+  {
+    "instruction": "Một người con nợ một khoản tiền 5.000 đô la cho một nhà nợ. Cha của người con liên lạc với nhà nợ và nói rằng ông muốn trả nợ cho người con của mình. Cha ký một tài liệu ghi rằng ông sẽ trả nợ của con trai mình với mức lãi suất là 500 đô la mỗi tháng trong 10 tháng. Nhà nợ không có bất kỳ cam kết bằng văn bản hoặc bằng miệng cấm đòi kiện ông để thu lại khoản nợ 5.000 đô la và cha của người con cũng không yêu cầu bất kỳ cam kết cấm đòi kiện nào đó. Trong năm tháng tiếp theo, cha đã trả 500 đô la hàng tháng và nhà nợ đã chấp nhận các khoản thanh toán đó như đã thỏa thuận. Trong thời gian đó, nhà nợ thực sự đã trì hoãn không thực hiện bất kỳ hành động pháp lý nào đối với đứa con. Tuy nhiên, sau đó, cha đã thông báo với nhà nợ rằng ông sẽ không thực hiện các khoản thanh toán thêm nữa. Điều gì là lý lẽ uy persuasive nhất rằng cha phải chịu trách nhiệm với nhà nợ dưới các điều khoản của thỏa thuận của họ?",
+    "option_a": "Lời hứa của cha và sự dựa vào đó của nhà nợ, nếu được chứng minh, đã dẫn đến một yêu cầu hợp lệ của nhà nợ với cha dựa trên nguyên tắc estoppel hứa.",
+    "option_b": "Bởi vì các hành động của cha có thể gây ra sự nới lỏng của nhà nợ trong việc đưa ra bất kỳ hành động nào đối với đứa con, sự nới lỏng đó là một khoản thu được dự đoán như là một sự cân nhắc cho lời hứa của cha theo pháp luật.",
+    "option_c": "Năm khoản thanh toán của cha cho nhà nợ có tổng giá trị là 2.500 đô la chứng tỏ một ý định nghiêm túc của cha để ký kết hợp đồng, và như cách hiểu này được chấp nhận chung như một thay thế hiệu quả cho sự cân nhắc.",
+    "option_d": "Bằng cách đảm nhận nghĩa vụ nợ tiền trước đó mà người con của ông nợ với nhà nợ, cha đã trở thành một người bảo lãnh, lời hứa của ông đối với nhà nợ là có hiệu lực viết và được hỗ trợ bởi đầy đủ cân nhắc.",
+    "answer": "A",
+    "id": "professional_law/dev/4"
+  },
+  {
+    "instruction": "Trong một thị trường lao động cạnh tranh cho người sơn nhà, điều gì sau đây sẽ tăng nhu cầu về người sơn nhà?",
+    "option_a": "Mức lương tối thiểu hiệu quả được áp dụng trên thị trường lao động này.",
+    "option_b": "Một sự tăng giá về số galơn sơn.",
+    "option_c": "Một sự tăng về xây dựng các ngôi nhà mới.",
+    "option_d": "Sự tăng giá của các máy sơn miệng miễn là hiệu ứng sản lượng vượt qua hiệu ứng thay thế.",
+    "answer": "C",
+    "id": "high_school_microeconomics/dev/0"
+  },
+  {
+    "instruction": "Phương thức thuê nhà cung cấp dịch vụ bên thứ ba nước ngoài để thực hiện một hoạt động được gọi là",
+    "option_a": "gián đoạn sản xuất (outsourcing).",
+    "option_b": "dời sản xuất ra nước ngoài (offshoring).",
+    "option_c": "khu sản xuất maquiladoras.",
+    "option_d": "tương tác vị trí (locational interdependence).",
+    "answer": "B",
+    "id": "high_school_geography/dev/3"
+  },
+  {
+    "instruction": "Sự hiện diện của cấu trúc đồng thời ở hai sinh vật khác nhau, như cánh tay ở chi trước của con người và chim, cho thấy rằng",
+    "option_a": "con người và chim là các loài đa ngành",
+    "option_b": "sự tiến hóa của con người và chim hội tụ",
+    "option_c": "con người và chim thuộc về một nhánh",
+    "option_d": "con người và chim phát triển theo tương tự",
+    "answer": "C",
+    "id": "college_biology/dev/2"
+  },
+  {
+    "instruction": "Trong các chất sau đây, chất nào được xem là anhydrit axit?",
+    "option_a": "HCl",
+    "option_b": "H2SO3",
+    "option_c": "SO2",
+    "option_d": "Al(NO3)3",
+    "answer": "C",
+    "id": "high_school_chemistry/dev/0"
+  },
+  {
+    "instruction": "Các điều kiện nào sau đây sẽ đảm bảo toạ độ góc được bảo toàn?  I. Bảo toàn động lượng tuyến tính  II. Lực bên ngoài ròng net bằng không III. Mô-men xoắn bên ngoài ròng net bằng không",
+    "option_a": "I và II",
+    "option_b": "I và III",
+    "option_c": "II và III",
+    "option_d": "III",
+    "answer": "D",
+    "id": "high_school_physics/dev/0"
+  },
+  {
+    "instruction": "Một đầu dây Nichrome có độ dài 2L và diện tích cắt ngang A được gắn vào đầu của một dây Nichrome khác có độ dài L và diện tích cắt ngang 2A. Nếu đầu không gian miễn phí của dây dài có điện thế là 8,0 volt, và đầu không gian miễn phí của dây ngắn có điện thế là 1,0 volt, điện thế tại điểm nối hai dây này gần bằng",
+    "option_a": "2,4 V",
+    "option_b": "3,3 V",
+    "option_c": "4,5 V",
+    "option_d": "5,7 V",
+    "answer": "A",
+    "id": "college_physics/dev/2"
+  },
+  {
+    "instruction": "Trong các nhận định sau đây về các nguyên tố lantanide, nhận định nào KHÔNG đúng?",
+    "option_a": "Trạng thái oxy hóa phổ biến nhất của các nguyên tố lantanide là +3.",
+    "option_b": "Các phức của lantanide thường có số phối trí cao hơn (> 6).",
+    "option_c": "Tất cả các nguyên tố lantanide đều phản ứng với axit trong nước để tách ra hydrogen.",
+    "option_d": "Bán kính nguyên tử của các nguyên tố lantanide tăng theo chu kỳ từ La đến Lu.",
+    "answer": "D",
+    "id": "college_chemistry/dev/0"
+  },
+  {
+    "instruction": "Một gene thể hiện sự đồng vị hóa ",
+    "option_a": "có cả hai đột biến dược biểu hiện độc lập trong kiểu lai",
+    "option_b": "có một đột biến áp đảo đột biến còn lại",
+    "option_c": "có các đột biến chặt chẽ liên kết trên cùng một nhiễm sắc thể",
+    "option_d": "các đột biến dược biểu hiện đồng thời trong quá trình phát triển",
+    "answer": "A",
+    "id": "medical_genetics/dev/2"
+  },
+  {
+    "instruction": "Bộ biên dịch tạo ra mã cho câu lệnh gán sau đây.\nG := (A + B) * C - (D + E) * F\nMáy đích có một bộ chứa và một tập lệnh địa chỉ đơn bao gồm các lệnh load, store, add, subtract, và multiply. Đối với các phép tính toán, toán hạng bên trái được lấy từ bộ chứa và kết quả xuất hiện trong bộ chứa. Số lượng lệnh nhỏ nhất trong mã kết quả là",
+    "option_a": "5",
+    "option_b": "6",
+    "option_c": "7",
+    "option_d": "9",
+    "answer": "D",
+    "id": "college_computer_science/dev/3"
+  },
+  {
+    "instruction": "Một tổ chức phi chính phủ và phi lợi nhuận có các giao dịch sau đây trong năm: Tiền thu từ việc bán đầu tư $80000 Mua tài sản cố định $10000 Tiền thu từ nợ dài hạn $100000 Lỗ từ việc bán đầu tư $5000 Số tiền nào sẽ được báo cáo như là nguồn tiền thuần từ các hoạt động tài chính trong báo cáo lưu chuyển tiền tệ của Box?",
+    "option_a": "$70,000",
+    "option_b": "$75,000",
+    "option_c": "$80,000",
+    "option_d": "100000",
+    "answer": "D",
+    "id": "professional_accounting/dev/0"
+  },
+  {
+    "instruction": "Giữ nguyên tất cả các yếu tố khác, chính sách tiền tệ nào sau đây được sử dụng để tăng xuất khẩu của Mỹ?",
+    "option_a": "Tăng lãi suất chiết khấu",
+    "option_b": "Tăng tỷ lệ dự trữ",
+    "option_c": "Mua chứng khoán chính phủ",
+    "option_d": "Giảm thuế quan",
+    "answer": "C",
+    "id": "high_school_macroeconomics/dev/3"
+  },
+  {
+    "instruction": "Vua vĩ đại Maya Pacal đã xây các đền thờ ở thành phố Palenque để:",
+    "option_a": "đáp ứng nhu cầu của các giáo sĩ thiên văn học Maya mạnh mẽ.",
+    "option_b": "thể hiện sự hào phóng với nhân dân thông thường, vì họ được phép sống trong các đền thờ.",
+    "option_c": "đe dọa kẻ thù, đặc biệt là người Tây Ban Nha.",
+    "option_d": "chính thống hóa chế độ vua của ông, vì cha ông không phải là hoàng gia.",
+    "answer": "D",
+    "id": "prehistory/dev/0"
+  },
+  {
+    "instruction": "Ba chiến thuật trái ngược mà các tổ chức phi chính phủ có thể sử dụng để đạt được mục tiêu của mình là ________, thường bao gồm nghiên cứu và giao tiếp, ________, có thể bao gồm tấn công trực tiếp vào hoạt động của một công ty hoặc ________, thường liên quan đến một số hình thức _______.",
+    "option_a": "Hành động trực tiếp phi bạo lực, Hành động trực tiếp bạo lực, Hành động gián tiếp, Tẩy chay",
+    "option_b": "Hành động gián tiếp, Hành động công cụ, Hành động trực tiếp phi bạo lực, Chiến dịch thông tin",
+    "option_c": "Hành động gián tiếp, Hành động trực tiếp bạo lực, Hành động trực tiếp phi bạo lực, Tẩy chay",
+    "option_d": "Hành động trực tiếp phi bạo lực, Hành động công cụ, Hành động gián tiếp, Chiến dịch thông tin",
+    "answer": "C",
+    "id": "business_ethics/dev/3"
+  },
+  {
+    "instruction": "Lắc xúc xắc 6 mặt 15 lần và kết quả thu được: mặt 1 không xuất hiện; mặt 2: 1 lần; mặt 3: 2 lần; mặt 4: 3 lần; mặt 5: 4 lần; mặt 6: 5 lần. Dựa trên kết quả này, xác suất để mặt 3 xuất hiện khi sử dụng Add-1 Smoothing là bao nhiêu?",
+    "option_a": "2,0/15",
+    "option_b": "1,0/7",
+    "option_c": "3,0/16",
+    "option_d": "1,0/5",
+    "answer": "B",
+    "id": "machine_learning/dev/0"
+  },
+  {
+    "instruction": "Chức năng của pháp luật bao gồm tất cả những cái sau đây trừ cái nào?",
+    "option_a": "Tối đa hóa tự do cá nhân",
+    "option_b": "Cung cấp cơ sở để thỏa hiệp",
+    "option_c": "Giữ bình yên",
+    "option_d": "Khuyến khích các nguyên tắc của hệ thống doanh nghiệp tự do.",
+    "answer": "D",
+    "id": "jurisprudence/dev/1"
+  },
+  {
+    "instruction": "Làm thế nào để miêu tả các Upanishads?",
+    "option_a": "Văn bản lễ nghi",
+    "option_b": "Văn bản triết học",
+    "option_c": "Thánh ca",
+    "option_d": "Câu chuyện nguồn gốc",
+    "answer": "B",
+    "id": "world_religions/dev/4"
+  },
+  {
+    "instruction": "Ani tin rằng thái độ và hành vi của mình đóng vai trò trung tâm trong những điều xảy ra với cô ấy. Niềm tin như vậy có khả năng liên quan đến",
+    "option_a": "một trí tâm thức mạnh mẽ.",
+    "option_b": "tự đánh giá thấp.",
+    "option_c": "tự hiệu quả thấp.",
+    "option_d": "một sự kiểm soát bên trong.",
+    "answer": "D",
+    "id": "high_school_psychology/dev/0"
+  },
+  {
+    "instruction": "Ý nghĩa của thẩm phán tạm thời là gì?",
+    "option_a": "Nếu một trong các bên tham gia một vụ tranh chấp trước ICJ không có một thẩm phán quốc gia nào trong ban thẩm định, họ được ủy nhiệm đề cử một thẩm phán tạm thời chỉ được phép xét xử một vụ án, với danh hiệu là thẩm phán tạm thời.",
+    "option_b": "Thẩm phán tạm thời là thành viên trong ban thẩm định của ICJ với quyền phiếu quyết định cuối cùng.",
+    "option_c": "Thẩm phán tạm thời là thẩm phán thay thế, trong trường hợp thẩm phán bị từ chối hoặc qua đời.",
+    "option_d": "Thẩm phán tạm thời là thẩm phán mà mỗi bên sẽ luôn đề cử trong mỗi vụ tranh chấp.",
+    "answer": "A",
+    "id": "international_law/dev/1"
+  },
+  {
+    "instruction": "Nguyên nhân chính góp phần tạo ra phần lớn sao chổi chu kỳ ngắn là gì và chúng ta biết điều này như thế nào?",
+    "option_a": "Vành đai Kuiper; sao chổi có chu kỳ ngắn có xu hướng ở cùng một mặt phẳng với hệ Mặt trời giống như Vành đai Kuiper.",
+    "option_b": "Vành đai Kuiper; sao chổi có chu kỳ ngắn có xu hướng đến từ các hướng ngẫu nhiên, cho thấy phân bố cầu của sao chổi được gọi là Vành đai Kuiper.",
+    "option_c": "Vành đai tiểu hành tinh; sao chổi có chu kỳ ngắn có chu kỳ quỹ đạo tương tự như tiểu hành tinh như Vesta và được tìm thấy trong mặt phẳng của hệ Mặt trời giống như Vành đai tiểu hành tinh.",
+    "option_d": "Mây Oort; sao chổi có chu kỳ ngắn có xu hướng ở cùng một mặt phẳng với hệ Mặt trời giống như Mây Oort.",
+    "answer": "A",
+    "id": "astronomy/dev/1"
+  },
+  {
+    "instruction": "Tính đến năm 2015, từ năm 1990, rừng đã ____ ở châu Âu và đã ____ ở châu Phi và châu Mỹ.",
+    "option_a": "tăng, tăng",
+    "option_b": "tăng, giảm",
+    "option_c": "giảm, tăng",
+    "option_d": "giảm, giảm",
+    "answer": "B",
+    "id": "global_facts/dev/2"
+  },
+  {
+    "instruction": "Câu hỏi này liên quan đến thông tin sau đây.\n\"Ít nhất một trong các xã hội trên thế giới sẽ phải tăng năng suất của mình đáng kể để đạt được ưu thế toàn cầu. Bước nhảy vọt đó phải được thực hiện trước các cách mạng khoa học, công nghệ, nông nghiệp và công nghiệp mà thế giới của chúng ta đang dựa vào. Nó chỉ có thể được thực hiện thông qua việc khai thác các hệ sinh thái, tài nguyên khoáng sản và tài sản con người trên toàn bộ lục địa ngoài đất nước của xã hội thực hiện bước nhảy đó. Tây Âu đã làm điều đó bằng sự tàn bạo và vũ khí của họ và còn quan trọng hơn, bằng may mắn về địa lý và sinh thái.\"\nBản quyền © 2015 Nhà xuất bản Đại học Cambridge.\nAlfred Crosby, nhà sử học, Chủ nghĩa Đế quốc Sinh thái, 2004\n\"Bước nhảy vọt\" được đề cập trong đoạn văn nói trực tiếp góp phần vào sự phát triển nào sau đây trong thời kỳ 1450-1750 CE?",
+    "option_a": "Sự đổ vỡ của các tuyến đường thương mại thông qua việc sụp đổ cấu trúc nhà nước hiện có",
+    "option_b": "Sự gia tăng dân số thế giới thông qua nguồn cung thực phẩm phong phú hơn",
+    "option_c": "Sự lan truyền của các hệ tư tưởng Trung Quốc và Ấn Độ trên toàn cầu",
+    "option_d": "Sự gia tăng bất ổn xã hội",
+    "answer": "B",
+    "id": "high_school_world_history/dev/4"
+  },
+  {
+    "instruction": "Nhóm duy nhất trong xã hội mà có thể bị ảnh hưởng bởi nhóm tham chiếu nhất là:",
+    "option_a": "Người tiêu dùng lớn tuổi cảm thấy bị bỏ lại phía sau.",
+    "option_b": "Phụ nữ đã kết hôn, nhiều người cảm thấy cần ổn định trong cuộc sống.",
+    "option_c": "Những người nhập cư mới thực sự muốn hòa nhập vào văn hóa mới của mình.",
+    "option_d": "Trẻ em, người dựa vào đa số các ảnh hưởng bên ngoài cho các quyết định mua sắm của mình.",
+    "answer": "D",
+    "id": "marketing/dev/3"
+  },
+  {
+    "instruction": "Trong hai tình huống sau, nhân vật chính (sử dụng từ 'I/me/my') đã làm điều gì đó vi phạm đạo đức, theo chuẩn mực đạo đức thông thường ở Hoa Kỳ năm 2020? Tình huống 1 | Tôi mua một chiếc xe tải cũ để làm việc. Tình huống 2 | Tôi ngắm nhìn thác nước tuyệt đẹp và ném một viên đá vào đó.",
+    "option_a": "Sai, Sai",
+    "option_b": "Sai, Không sai",
+    "option_c": "Không sai, Sai",
+    "option_d": "Không sai, Không sai",
+    "answer": "D",
+    "id": "moral_scenarios/dev/2"
+  },
+  {
+    "instruction": "Một điểm điện tích, Q = +1 mC, được cố định tại gốc tọa độ. Cần làm việc bao nhiêu để di chuyển một điện tích Q = 8 µC từ điểm (0, 4 mét) tới điểm (3 mét, 0)?",
+    "option_a": "3.5 J",
+    "option_b": "6.0 J",
+    "option_c": "22.5 J",
+    "option_d": "40 J",
+    "answer": "B",
+    "id": "high_school_physics/dev/4"
+  },
+  {
+    "instruction": "Một hợp chất mới được tổng hợp và được phát hiện là một axit đơn pư tử có khối lượng phân tử là 248 g/mol. Khi tan 0,0050 mol của axit này trong 0,500 L nước, đo được pH là 3,89. Giá trị pKa của axit này là bao nhiêu?",
+    "option_a": "3,89",
+    "option_b": "7,78",
+    "option_c": "5,78",
+    "option_d": "2,33",
+    "answer": "C",
+    "id": "high_school_chemistry/dev/3"
+  },
+  {
+    "instruction": "Đâu là viên ngọc thứ hai trong đạo Phật?",
+    "option_a": "Đạo",
+    "option_b": "Tăng đoàn",
+    "option_c": "Đức Phật",
+    "option_d": "Bồ tát",
+    "answer": "A",
+    "id": "world_religions/dev/1"
+  },
+  {
+    "instruction": "Một kính thiên văn lấy tia sáng và nhời 2 kính tụ tạo. Khoảng cách giữa 2 kính là 100 cm. Kính hiển vi có tiêu cự là 20 cm. Độ phóng đại góc của kính thiên văn là",
+    "option_a": "4",
+    "option_b": "5",
+    "option_c": "6",
+    "option_d": "20",
+    "answer": "A",
+    "id": "college_physics/dev/0"
+  },
+  {
+    "instruction": "Xét về năm chiều văn hóa của Hofstede (1980), Hoa Kỳ đạt điểm cao nhất trên thang đo ở:",
+    "option_a": "tính cá nhân.",
+    "option_b": "tính cá nhân và khoảng cách quyền lực.",
+    "option_c": "khoảng cách quyền lực và mạnh mẽ.",
+    "option_d": "tránh sự không chắc chắn.",
+    "answer": "A",
+    "id": "professional_psychology/dev/2"
+  },
+  {
+    "instruction": "Một cửa hàng bán 107 màu sơn khác nhau. Họ có 25 lon của mỗi màu trong kho. Số lon sơn mà cửa hàng có trong kho có thể được tìm thấy bằng biểu thức dưới đây. 107 × 25. Cửa hàng có bao nhiêu lon sơn trong kho?",
+    "option_a": "749",
+    "option_b": "2,675",
+    "option_c": "2,945",
+    "option_d": "4,250",
+    "answer": "B",
+    "id": "elementary_mathematics/dev/3"
+  },
+  {
+    "instruction": "Một chiếc máy bay mô hình bay chậm hơn khi bay chống lại gió và nhanh hơn khi có gió đẩy từ phía sau. Khi được phóng vuông góc với đường gió, tốc độ trên mặt đất so với việc bay trong không khí yên tĩnh là",
+    "option_a": "giống nhau",
+    "option_b": "nhanh hơn",
+    "option_c": "chậm hơn",
+    "option_d": "có thể nhanh hơn hoặc chậm hơn tùy thuộc vào tốc độ gió",
+    "answer": "B",
+    "id": "conceptual_physics/dev/3"
+  },
+  {
+    "instruction": "Câu hỏi này liên quan đến thông tin sau đây.\nỞ Nga, mọi thứ đều không tốt đẹp và [Souvarine] thất vọng về những tin tức mà anh đã nhận được. Tất cả những người bạn cũ của anh đều đang bước vào đường chính trị; những nhà chủ nghĩa Nihilists nổi tiếng khiến cả châu Âu run sợ - con của những linh mục ngôi làng, của tầng lớp trung lưu, của các thương nhân - không thể vượt lên trên ý tưởng giải phóng dân tộc và dường như tin rằng thế giới sẽ được giải thoát - khi họ đã giết chết kẻ bạo chúa của họ...\n\"Đùa! Họ sẽ không thoát khỏi tình thế này với trò đùa của họ.\"\nSau đó, hạ giọng còn thấp hơn nữa, bằng vài lời đắng cay, anh ta đã miêu tả lại giấc mơ tình bằng hữu của mình. Anh ta đã từ bỏ cấp bậc và tài sản của mình. Anh ta đã đi giữa các công nhân, chỉ hy vọng nhìn thấy cuối cùng sự thành lập của một xã hội mới của lao động chung. Tất cả những xu trong túi anh ta đã lâu đã đi vào tay các đứa trẻ trong khu định cư; anh ta đã ân cần như một người anh với những người đào mỏ, cười với sự nghi hoặc của họ, giành được họ bằng những cách làm việc công nhân và bằng sự không thích nói chuyện. Nhưng quả thực, sự hòa nhập chưa bao giờ xảy ra.\nGiọng nói của anh ta thay đổi, ánh mắt của anh ta trở nên sáng lạn, anh ta nhìn chặt vào étienne, trực tiếp đặt vấn đề:\n\"Bây giờ, anh hiểu chưa? Những người làm mũ tại Marseilles nhận được giải thưởng xổ số lớn giá trị 100.000 franc, đã vội vàng đầu tư, tuyên bố rằng họ sẽ sống mà không làm gì cả! Vâng, đó là ý tưởng của anh, tất cả các công nhân Pháp, anh muốn khai quật một kho báu để ăn no một mình sau đó trong một góc lười biếng, ích kỷ. Anh có thể kêu lên bao nhiêu lần anh muốn đòi lại tiền của người giàu, nhưng anh chưa đủ can đảm để trả lại cho những người nghèo số tiền may mắn mang lại cho anh. Anh sẽ không bao giờ xứng đáng với hạnh phúc miễn là anh sở hữu bất cứ điều gì, và sự căm hờn của anh đối với tầng lớp tư sản chỉ đến từ mong muốn tức giận trở thành tầng lớp tư sản ở vị trí của họ.\"\némile Zola, nhà văn Pháp, Germinal, 1885\nĐoạn văn trình bày sự quan tâm trực tiếp đối với sự phúc lợi của tầng lớp công nhân, điều đó thường là một phần của phong trào nào?",
+    "option_a": "Chủ nghĩa tư bản",
+    "option_b": "Khoa học",
+    "option_c": "Cộng sản",
+    "option_d": "Tồn tại chủ nghĩa",
+    "answer": "C",
+    "id": "high_school_european_history/dev/2"
+  },
+  {
+    "instruction": "Nếu chính phủ bảo trợ các nhà sản xuất trên thị trường hoàn toàn cạnh tranh, thì",
+    "option_a": "nhu cầu về sản phẩm sẽ tăng",
+    "option_b": "nhu cầu về sản phẩm sẽ giảm",
+    "option_c": "lợi ích khách hàng sẽ tăng",
+    "option_d": "lợi ích khách hàng sẽ giảm",
+    "answer": "C",
+    "id": "high_school_microeconomics/dev/1"
+  },
+  {
+    "instruction": "Trong những tùy chọn sau, mục nào là ví dụ về văn hóa phi vật chất?",
+    "option_a": "Xà phòng Dove",
+    "option_b": "Thanh kẹo Dove",
+    "option_c": "Biểu tượng Dove",
+    "option_d": "Một con chim bồ câu",
+    "answer": "C",
+    "id": "high_school_geography/dev/4"
+  },
+  {
+    "instruction": "Hai dây dẫn song song dài mang điện 100 A. Nếu các dây dẫn cách nhau 20 mm, lực trên mỗi mét độ dài của mỗi dây dẫn sẽ là",
+    "option_a": "100 N.",
+    "option_b": "0.1 N.",
+    "option_c": "1 N.",
+    "option_d": "0.01 N.",
+    "answer": "B",
+    "id": "electrical_engineering/dev/3"
+  },
+  {
+    "instruction": "Chọn lựa chọn đúng nhất phù hợp với logic phân tử. George mượn máy cắt cỏ của Hector. (g: George; h: Hector; l: Máy cắt cỏ của Hector; Bxyx: x mượn y từ z)",
+    "option_a": "Blgh",
+    "option_b": "Bhlg",
+    "option_c": "Bglh",
+    "option_d": "Bghl",
+    "answer": "C",
+    "id": "formal_logic/dev/1"
+  },
+  {
+    "instruction": "Cho A là tập hợp tất cả các cặp số nguyên (m, n) sao cho 7m + 12n = 22. Tìm số âm lớn nhất trong tập B = {m + n : (m, n) thuộc A}?",
+    "option_a": "-5",
+    "option_b": "-4",
+    "option_c": "-3",
+    "option_d": "-2",
+    "answer": "B",
+    "id": "college_mathematics/dev/4"
+  },
+  {
+    "instruction": "Luận điệu rằng điều đúng với các phần cũng phải đúng với tổng thể là sai lầm của...",
+    "option_a": "Phân chia",
+    "option_b": "Tổng hợp",
+    "option_c": "Kêu gọi đối tượng",
+    "option_d": "Kêu gọi vô hiệu triết học",
+    "answer": "B",
+    "id": "logical_fallacies/dev/3"
+  },
+  {
+    "instruction": "Pascale quan tâm đến các chiến lược xử lý mà trẻ em sử dụng để học thông tin mới. Pascale sẽ được phân loại như nhà tâm lý học loại nào?",
+    "option_a": "xã hội văn hoá",
+    "option_b": "lâm sàng",
+    "option_c": "nhận thức",
+    "option_d": "hành vi học",
+    "answer": "C",
+    "id": "high_school_psychology/dev/4"
+  },
+  {
+    "instruction": "Tỷ lệ tăng tự nhiên của dân số được tính bằng cách trừ tỷ lệ tử vong thô từ tỷ lệ sinh thô.",
+    "option_a": "Tỷ lệ tử vong thô trừ từ tỷ lệ sinh thô.",
+    "option_b": "Tỷ lệ sinh thô trừ từ tỷ lệ tử vong thô.",
+    "option_c": "Thời gian gấp đôi trừ từ tỷ lệ sinh thô.",
+    "option_d": "Tỷ lệ sinh sản trừ từ tỷ lệ tử vong thô.",
+    "answer": "A",
+    "id": "high_school_geography/dev/0"
+  },
+  {
+    "instruction": "Tác động của khủng hoảng tài chính năm 2008 đến danh tiếng quốc tế của Mỹ như thế nào?",
+    "option_a": "Nó làm giảm sự ủng hộ cho mô hình kinh tế chính trị và vốn của Mỹ",
+    "option_b": "Nó tạo ra sự tức giận của cộng đồng quốc tế với Mỹ vì làm lớn vấn đề khủng hoảng này",
+    "option_c": "Nó tăng cường sự ủng hộ cho lãnh đạo toàn cầu của Mỹ dưới thời Tổng thống Obama",
+    "option_d": "Nó giảm sự sử dụng tiền đô la Mỹ trên toàn thế giới",
+    "answer": "A",
+    "id": "us_foreign_policy/dev/0"
+  },
+  {
+    "instruction": "Yếu tố nào trong mô hình bức tranh văn hóa (cultural web) tạo nên bộ trang phục đặc trưng?",
+    "option_a": "Biểu tượng (Symbols)",
+    "option_b": "Nghi thức và thói quen (Rituals and routines)",
+    "option_c": "Cấu trúc quyền lực (Power structures)",
+    "option_d": "Hệ thống kiểm soát (Control systems)",
+    "answer": "A",
+    "id": "management/dev/2"
+  },
+  {
+    "instruction": "Bài hát nào là bản hit Top 10 của ban nhạc rock The Police?",
+    "option_a": "'Radio Ga-Ga'",
+    "option_b": "'Ob-la-di Ob-la-da'",
+    "option_c": "'De Do Do Do De Da Da Da'",
+    "option_d": "'In-a-Gadda-Da-Vida'",
+    "answer": "C",
+    "id": "miscellaneous/dev/4"
+  },
+  {
+    "instruction": "Câu nào sau đây không đúng?",
+    "option_a": "Glycogen cơ bắp được phân hủy bằng men thành glucose-1-phosphate",
+    "option_b": "Người chạy đường trường đạt thành tích cao có số lượng sợi cơ loại I cao trong cơ chân",
+    "option_c": "Glycogen gan là quan trọng để duy trì nồng độ glucose trong máu",
+    "option_d": "Insulin thúc đẩy việc quá trình hấp thụ glucose của tất cả các mô trong cơ thể",
+    "answer": "D",
+    "id": "college_medicine/dev/1"
+  },
+  {
+    "instruction": "Mặc dù nội dung và chất lượng có thể được kiểm soát như thư trực tiếp, tuy nhiên tỷ lệ phản hồi của phương tiện này thấp hơn do thiếu cơ chế địa chỉ cá nhân. Định dạng phương tiện truyền thông này được gọi là:",
+    "option_a": "Dòng chăm sóc khách hàng.",
+    "option_b": "Thư trực tiếp.",
+    "option_c": "Chèn.",
+    "option_d": "Cửa tới cửa.",
+    "answer": "D",
+    "id": "marketing/dev/4"
+  },
+  {
+    "instruction": "Tự thủy tâm lí học là:",
+    "option_a": "một lý thuyết đạo đức về cách chúng ta nên hành xử.",
+    "option_b": "một khái niệm tổng quát về cách con người thường hành xử.",
+    "option_c": "một tuyên bố về bản chất con người và những cách mà con người có thể hành xử.",
+    "option_d": "không có câu trả lời nào trên.",
+    "answer": "C",
+    "id": "philosophy/dev/0"
+  },
+  {
+    "instruction": "Bài hát trực tiếp năm 1979 của Cheap Trick được tên là gì?",
+    "option_a": "Budapest",
+    "option_b": "Budokan",
+    "option_c": "Bhutan",
+    "option_d": "Britain",
+    "answer": "B",
+    "id": "miscellaneous/dev/1"
+  },
+  {
+    "instruction": "Một vận động viên marathon nam 22 tuổi đến văn phòng khám với phàn nàn về đau xương sườn bên phải khi chạy xa. Khám cơ thể phát hiện thấy tim và phổi bình thường và chức năng thở ra dở ở xương sườn 4-5 bên phải. Trong số các cơ hoặc nhóm cơ sau, cái nào sẽ hữu ích nhất trong việc sửa chữa chức năng này bằng phương pháp trực tiếp?",
+    "option_a": "cơ cảm, cổ trướng",
+    "option_b": "cơ lưng rộng",
+    "option_c": "cơ ngực nhỏ",
+    "option_d": "cơ thăng bên",
+    "answer": "C",
+    "id": "professional_medicine/dev/4"
+  },
+  {
+    "instruction": "Giả sử một nhà nghiên cứu muốn sử dụng tiêu chí thông tin để xác định chiều dài trễ tối ưu cho một VAR. Có 500 quan sát cho VAR hai biến và giá trị của định thức của ma trận phương sai-covariance của sai số là 0,0336, 0,0169, 0,0084 và 0,0062 cho 1, 2, 3 và 4 lần trễ tương ứng. Theo tiêu chí thông tin của Akaike, mô hình trật tự tối ưu là gì?",
+    "option_a": "1 lần trễ",
+    "option_b": "2 lần trễ",
+    "option_c": "3 lần trễ",
+    "option_d": "4 lần trễ",
+    "answer": "C",
+    "id": "econometrics/dev/4"
+  },
+  {
+    "instruction": "Tìm tất cả c trong Z_3 sao cho Z_3[x]/(x^2 + c) là một trường.",
+    "option_a": "0",
+    "option_b": "1",
+    "option_c": "2",
+    "option_d": "3",
+    "answer": "B",
+    "id": "abstract_algebra/dev/0"
+  },
+  {
+    "instruction": "Một tiểu bang gần đây đã thông qua một luật cấm vứt bỏ bất kỳ chất thải hạt nhân nào trong tiểu bang đó. Luật này không vi phạm hoặc xung đột với bất kỳ đạo luật liên bang nào. Một người đàn ông điều hành một công ty trong tiểu bang đó chuyên xử lý chất thải hạt nhân. Sau khi điều này được thông qua, người đàn ông - vẫn chưa nhận ra về luật mới này - đã ký kết hợp đồng với nhiều công ty từ các tiểu bang khác để xử lý chất thải hạt nhân của họ trong tiểu bang đó. Tuy nhiên, do luật mới này, người đàn ông sẽ không thể thực hiện những hợp đồng này nữa. Giả định rằng người đàn ông có thể tham gia kiện tiểu bang này. Dưới đây, cái nào tạo nên lý luận hiến pháp mạnh nhất để khiến người đàn ông kiện luật tiểu bang cấm thải hạt nhân trong tiểu bang?",
+    "option_a": "Mục thương mại.",
+    "option_b": "Phụ bản 14 của Đạo luật Sửa đổi Hiến pháp.",
+    "option_c": "Phụ lục và đặc quyền của Điều 2, Mục 4 trong Hiến pháp.",
+    "option_d": "Mục hợp đồng.",
+    "answer": "A",
+    "id": "professional_law/dev/1"
+  },
+  {
+    "instruction": "Sau khi cảnh báo đóng băng được phát ra, chủ một vườn cam to lớn đã yêu cầu các công nhân của mình phun nước lên tất cả các cây. Nước được cho là sẽ đóng băng và tạo thành một lớp bảo vệ của băng quanh hoa cam. Tuy nhiên, chủ sở hữu nghi ngờ rằng một số cây bị thiệt hại đáng kể do sương giá. Để ước tính tỷ lệ các cây bị hơn 50% tổn thất do sương giá, ông ta lấy mẫu ngẫu nhiên 100 cây từ vườn của mình. Biến phản ứng trong thí nghiệm này là gì?",
+    "option_a": "Tỷ lệ cây bị hơn 50% tổn thất do sương giá.",
+    "option_b": "Số cây bị ảnh hưởng bởi sương giá.",
+    "option_c": "Số cây được lấy mẫu từ vườn.",
+    "option_d": "Đối với mỗi cây được lấy mẫu, liệu nó bị tổn thất hơn 50% hay tối đa là 50%.",
+    "answer": "D",
+    "id": "high_school_statistics/dev/2"
+  },
+  {
+    "instruction": "Nhiều Trình duyệt Web cho phép người dùng mở cửa sổ ẩn danh. Trong phiên duyệt web ở cửa sổ ẩn danh, trình duyệt không ghi lại lịch sử duyệt web hoặc danh sách các tệp đã tải xuống. Khi thoát khỏi cửa sổ ẩn danh, cookie được tạo trong phiên đó sẽ bị xóa. Câu nào sau đây về phiên duyệt web trong cửa sổ ẩn danh là đúng?",
+    "option_a": "Các hoạt động của người dùng duyệt web ở cửa sổ ẩn danh sẽ không được nhìn thấy bởi những người giám sát mạng của người dùng, chẳng hạn như quản trị hệ thống.",
+    "option_b": "Các mặt hàng được đặt trong giỏ hàng của cửa hàng trực tuyến để mua trong tương lai trong suốt phiên duyệt web ẩn danh không được lưu trữ trên máy tính của người dùng.",
+    "option_c": "Người dùng sẽ không thể đăng nhập vào tài khoản email hoặc mạng xã hội trong phiên duyệt web ẩn danh.",
+    "option_d": "Một người dùng duyệt web ở cửa sổ ẩn danh sẽ được bảo vệ khỏi các virus được phát tán từ bất kỳ trang web đã truy cập hoặc tệp đã tải xuống.",
+    "answer": "B",
+    "id": "high_school_computer_science/dev/1"
+  },
+  {
+    "instruction": "Hai chiều chính của Nghiên cứu Ohio về lãnh đạo là gì?",
+    "option_a": "Vị trí bắt đầu và vị trí kết thúc",
+    "option_b": "Môi trường ban đầu và môi trường thay đổi",
+    "option_c": "Cấu trúc tổ chức và điều kiện",
+    "option_d": "Xây dựng cấu trúc và xem xét",
+    "answer": "D",
+    "id": "management/dev/0"
+  },
+  {
+    "instruction": "Để đảm bảo tính độc lập của các thành viên trong Hội đồng quản trị không phải là các nhà điều hành, có một số bước có thể được thực hiện, bao gồm việc các thành viên không phải là các nhà điều hành được chọn từ ________ công ty, được bổ nhiệm trong một thời gian ________ cũng như được bổ nhiệm theo cách độc lập.",
+    "option_a": "Bên ngoài, Giới hạn, Độc lập",
+    "option_b": "Bên trong, Giới hạn, Chung",
+    "option_c": "Bên ngoài, Không giới hạn, Chung",
+    "option_d": "Bên trong, Không giới hạn, Độc lập",
+    "answer": "A",
+    "id": "business_ethics/dev/2"
+  },
+  {
+    "instruction": "Có ba cách để đo trung bình trung tâm: Trung bình, Trung vị và Moda. Từ kiến thức của bạn về các đại lượng đó, Moda là gì?",
+    "option_a": "ít nhạy cảm hơn so với trung bình đối với các điểm số định lượng cực đại",
+    "option_b": "có ích hơn cho phân phối lệch",
+    "option_c": "nhạy cảm với giá trị cực đại và phân phối bị lệch mạnh",
+    "option_d": "số xuất hiện nhiều nhất",
+    "answer": "D",
+    "id": "professional_psychology/dev/1"
+  },
+  {
+    "instruction": "Để đạt được ước lượng mất mát 0/1 nhỏ hơn 1 phần trăm so với mất mát 0/1 thực sự (với xác suất 95%), theo bất đẳng thức Hoeffding, tập kiểm tra IID phải có bao nhiêu ví dụ?",
+    "option_a": "khoảng 10 ví dụ",
+    "option_b": "khoảng 100 ví dụ",
+    "option_c": "giữa 100 và 500 ví dụ",
+    "option_d": "hơn 1000 ví dụ",
+    "answer": "D",
+    "id": "machine_learning/dev/3"
+  },
+  {
+    "instruction": "Trong đánh giá chức năng của tay, câu nào sau đây là đúng?",
+    "option_a": "Việc rải ngón tay cái được cung cấp bởi dây thần kinh sống T2",
+    "option_b": "Việc đối kháng của ngón tay cái bởi bắp đối kháng của thủ đô được cung cấp bởi dây thần kinh sống T1",
+    "option_c": "Việc gập ngón tay lại được cung cấp bởi dây thần kinh trung tâm",
+    "option_d": "Việc duỗi ngón tay ra bên ngoài được trung gian bởi cơ đa uốn thắt bàn tay",
+    "answer": "B",
+    "id": "clinical_knowledge/dev/2"
+  },
+  {
+    "instruction": "Tính đến năm 2019, khoảng bao nhiêu phần trăm người Mỹ đồng ý rằng nhà nước được điều hành vì lợi ích của toàn bộ nhân dân?",
+    "option_a": "31%",
+    "option_b": "46%",
+    "option_c": "61%",
+    "option_d": "76%",
+    "answer": "B",
+    "id": "global_facts/dev/1"
+  },
+  {
+    "instruction": "Nhà nghiên cứu hiện nay tin rằng sự suy giảm của người Maya chủ yếu do:",
+    "option_a": "một thảm họa nào đó, chẳng hạn như động đất, núi lửa hoặc sóng thần.",
+    "option_b": "sự suy thoái sinh thái do các kỹ thuật canh tác đốt rừng.",
+    "option_c": "chiến tranh không ngừng giữa các thành phố quốc gia Maya lân cận.",
+    "option_d": "Các phương pháp lai tạo dẫn đến sự gia tăng đáng kể các rối loạn bẩm sinh.",
+    "answer": "B",
+    "id": "prehistory/dev/2"
+  },
+  {
+    "instruction": "Đến năm 2017, bao nhiêu trẻ em 1 tuổi trên thế giới đã được tiêm chủng phòng bệnh? *",
+    "option_a": "80%",
+    "option_b": "60%",
+    "option_c": "40%",
+    "option_d": "20%",
+    "answer": "A",
+    "id": "global_facts/dev/4"
+  },
+  {
+    "instruction": "Trong nghiên cứu theo đội ngũ, tỉ số nguy cơ phát triển bệnh tiểu đường là 0,86 khi so sánh với những người uống trà (nhóm tiếp xúc) so với những người không uống trà (nhóm không tiếp xúc). Câu nào sau đây là đúng (theo kiến thức vào năm 2020)?",
+    "option_a": "Những người uống trà có nguy cơ phát triển bệnh tiểu đường thấp hơn.",
+    "option_b": "Những người uống trà có nguy cơ phát triển bệnh tiểu đường cao hơn.",
+    "option_c": "Dựa trên thông tin cho, chúng ta không thể khẳng định liệu sự khác biệt về nguy cơ mắc bệnh được quan sát có phải do may mắn hay không.",
+    "option_d": "Tỉ số nguy cơ rất gần với giá trị một, do đó không có sự khác biệt về nguy cơ mắc bệnh giữa hai nhóm.",
+    "answer": "C",
+    "id": "nutrition/dev/0"
+  },
+  {
+    "instruction": "Trong ba nguyên tử sau, nguyên tố nào có khối lượng trung bình trên mỗi hạt nhân nhiều nhất?",
+    "option_a": "Hiđrô",
+    "option_b": "Sắt",
+    "option_c": "U-ran",
+    "option_d": "Giống nhau ở mỗi nguyên tố",
+    "answer": "A",
+    "id": "conceptual_physics/dev/4"
+  },
+  {
+    "instruction": "Làm thế nào NSC-68 đã thay đổi chiến lược của Hoa Kỳ?",
+    "option_a": "Nó toàn cầu hóa sự kiềm chế.",
+    "option_b": "Nó quân sự hóa sự kiềm chế.",
+    "option_c": "Nó kêu gọi phát triển bom hydrogen.",
+    "option_d": "Tất cả các câu trả lời trên",
+    "answer": "D",
+    "id": "us_foreign_policy/dev/1"
+  },
+  {
+    "instruction": "Đâu là giải thích có vẻ hợp lý nhất cho tác dụng bảo vệ đối với ung thư đại tràng của chất xơ dinh dưỡng, tính đến năm 2020?\n",
+    "option_a": "Axít propionic, được hình thành trong quá trình lên men sợi đại tràng, ức chế tổng hợp axit béo gan",
+    "option_b": "Axít butyric, được hình thành trong quá trình lên men sợi đại tràng, kích thích \"im lặng\" của gene ức chế khối u SLC5A8",
+    "option_c": "Không một lựa chọn nào ở đây là đúng",
+    "option_d": "Axít butyric, được hình thành trong quá trình lên men sợi đại tràng, kích thích hệ thống phòng vệ chống oxy hóa ở đại tràng",
+    "answer": "D",
+    "id": "nutrition/dev/2"
+  },
+  {
+    "instruction": "Vào ngày 1 tháng 10 năm 1980, một nhà phát triển, người sở hữu một vài trăm mẫu cây đất ở trong một hạt nông thôn, viết kế hoạch phát triển chung cho khu vực. Kế hoạch đã được ghi vào sách và áp đặt các giới hạn và hạn chế phức tạp trên đất trong kế hoạch đó, được phát triển như một khu vực cư dân. Các hạn chế này sẽ được áp dụng cho tất cả những người mua bất kỳ lô lấy từ kế hoạch đó, và cho các người thừa kế, người được chuyển nhượng, và người thuê phải tuân thủ. Hơn nữa, kế hoạch đó đã quy định rằng tất cả các chủ sở hữu sau này đều phải được thông báo về các hạn chế. Trong số các hạn chế đó trong kế hoạch chung là những điều sau đây: (22) Một quyền thuê bao được tạo ra trên một đường dài 10 feet (tương đương 3,048 mét) dọc theo phía sau của mỗi lô cho việc sử dụng của các công ty tiện ích công cộng với quyền đi vào và đi ra. (23) Không có căn nhà hoặc cấu trúc nào được xây trên đoạn đất được nhắc đến ở trên chạy qua các khu nhà được nhắc đến. Năm 2000, một người nghỉ hưu đã mua một trong những lô đất và xây nhà, và lắp rào phía sau của tài sản của mình trong khu vực hạn chế. Năm 2004, một giáo viên đã mua một lô đất kế bên tài sản của người nghỉ hưu và xây nhà mới. Hai năm sau đó, một thủ thư đã mua lô đất kế tiếp với tài sản của giáo viên. Ba giấy chứng nhận sở hữu cho các tài sản đó mỗi chứa các tham chiếu đến cuốn sách mà kế hoạch chung được ghi lại. Năm 2008, thủ thư đã bắt đầu xây dựng hàng rào bằng cột và nan bằng nhôm cao bảy feet (tương đương 2,134 mét) dọc theo đường chia đôi lô đất của ông và giáo viên, và dọc theo trung tâm của khu vực thuê bao. Mặc dù giáo viên phản đối việc xây dựng đó, hàng rào vẫn được hoàn thành. Nếu giáo viên yêu cầu một trát tự bắt buộc để buộc tháo dỡ hàng rào của thủ thư, tòa án sẽ có khả năng là",
+    "option_a": "cấp giải pháp, vì hàng rào vi phạm hạn chế quyền sử dụng đường đi. ",
+    "option_b": "cấp giải pháp, vì việc xâm phạm hàng rào đã vi phạm hạn chế trong kế hoạch ban đầu. ",
+    "option_c": "từ chối cấp giải pháp, vì giáo viên đã không thực thi các hạn chế đối với người nghỉ hưu. ",
+    "option_d": "từ chối cấp giải pháp, vì hàng rào sẽ không được coi là \"một cấu trúc\" trong các điều kiện của hạn chế. ",
+    "answer": "B",
+    "id": "professional_law/dev/3"
+  },
+  {
+    "instruction": "Trong lúc bơi ở đại dương, Ivan bị kinh sợ bởi một bóng tối đen trong nước trước khi anh ta có cơ hội xác định được đó là gì. Các kết nối thần kinh diễn ra trong sự cố kinh sợ này được miêu tả tốt nhất bằng câu nào sau đây?",
+    "option_a": "Thông điệp được gửi từ thalamus trực tiếp đến amygdala.",
+    "option_b": "Thông điệp được gửi từ thalamus đến các đường dẫn \"what\" và \"where\".",
+    "option_c": "Thông điệp được gửi từ hệ thần kinh giao cảm đến vỏ não.",
+    "option_d": "Thông điệp được gửi từ thùy não đến tuyến yên.",
+    "answer": "A",
+    "id": "high_school_psychology/dev/2"
+  },
+  {
+    "instruction": "Phép tăng cường dữ liệu hình ảnh nào phổ biến nhất cho các hình ảnh tự nhiên?",
+    "option_a": "cắt ngẫu nhiên và lật ngang",
+    "option_b": "cắt ngẫu nhiên và lật dọc",
+    "option_c": "posterization",
+    "option_d": "dithering",
+    "answer": "A",
+    "id": "machine_learning/dev/1"
+  },
+  {
+    "instruction": "Trong quá trình nhiệt động học nào sau đây, sự tăng năng lượng nội của khí lý tưởng bằng với lượng nhiệt được thêm vào khí?",
+    "option_a": "Nhiệt độ không đổi",
+    "option_b": "Thể tích không đổi",
+    "option_c": "Áp suất không đổi",
+    "option_d": "Không thấm nhiệt",
+    "answer": "B",
+    "id": "college_physics/dev/1"
+  },
+  {
+    "instruction": "Giả sử tất cả các yếu tố khác đều bằng nhau, điều gì sẽ khiến một trong các người sau đây có khả năng bị loãng xương hơn?",
+    "option_a": "Một phụ nữ Mỹ Latinh lớn tuổi",
+    "option_b": "Một phụ nữ Mỹ da đen lớn tuổi",
+    "option_c": "Một phụ nữ Mỹ gốc Á lớn tuổi",
+    "option_d": "Một phụ nữ Mỹ da bộ lông lớn tuổi",
+    "answer": "C",
+    "id": "human_aging/dev/4"
+  },
+  {
+    "instruction": "Đâu là đặc tính vốn có của thị trường đa quốc gia?",
+    "option_a": "Có sự tự do vào và rời khỏi thị trường",
+    "option_b": "Một số lượng nhà sản xuất lớn",
+    "option_c": "Một nhà sản xuất sản phẩm không có sản phẩm thay thế",
+    "option_d": "Sản phẩm đồng nhất",
+    "answer": "B",
+    "id": "high_school_microeconomics/dev/4"
+  },
+  {
+    "instruction": "Trong tình trạng không đều răng lớp 2 về khối u của lớp II theo góc Angle",
+    "option_a": "Khiếm khuyết về răng khía của răng cửa kép trên.",
+    "option_b": "Không có sự chồng lên của răng cửa chính trên.",
+    "option_c": "Khiếm khuyết về răng khía của răng cửa kép trên.",
+    "option_d": "Khiếm khuyết về khoảng cách chồng lên của răng cửa chính trên.",
+    "answer": "C",
+    "id": "anatomy/dev/3"
+  },
+  {
+    "instruction": "Krete là một người độc thân có thu nhập chỉ từ lương. Trước ngày 31 tháng 12 năm 1, nhà tuyển dụng của Krete đã khấu trừ 16.000 đô la thuế thu nhập liên bang và Krete không có thực hiện việc đóng thuế ước tính. Vào ngày 15 tháng 4 năm 2, Krete đã nộp đơn yêu cầu gia hạn để nộp tờ khai thuế cá nhân và đã nộp thêm 300 đô la thuế. Trong năm 1, mã số thuế của Krete là 16.500 đô la khi Krete nộp tờ khai thuế của mình đúng hạn vào ngày 30 tháng 4 năm 2 và đã trả đủ số tiền nợ thuế còn lại. Số tiền bị chịu phạt do không nộp đủ thuế ước tính là bao nhiêu?",
+    "option_a": "$0",
+    "option_b": "$500",
+    "option_c": "$1,650",
+    "option_d": "$16,500",
+    "answer": "A",
+    "id": "professional_accounting/dev/2"
+  },
+  {
+    "instruction": "Các thứ tương đương theo nguyên lý tương đương là",
+    "option_a": "không gian và thời gian.",
+    "option_b": "anh em song sinh đang du hành và anh em song sinh ở nhà.",
+    "option_c": "trọng lực và gia tốc.",
+    "option_d": "khối lượng và năng lượng.",
+    "answer": "C",
+    "id": "conceptual_physics/dev/1"
+  },
+  {
+    "instruction": "Chiến dịch Giờ Trái đất được phát động bởi tổ chức nào?",
+    "option_a": "Greenpeace",
+    "option_b": "Liên Hiệp Quốc",
+    "option_c": "Oxfam",
+    "option_d": "Quỹ Động vật hoang dã thế giới",
+    "answer": "D",
+    "id": "public_relations/dev/4"
+  },
+  {
+    "instruction": "Câu nào sau đây là đúng về một lập luận phân loại hợp lệ?",
+    "option_a": "Tiền định phải phủ định tiên đề",
+    "option_b": "Chủ định phải khẳng định hậu định",
+    "option_c": "Thuật ngữ trung gian phải được sử dụng trong ít nhất một tiền đề theo nghĩa chung hoặc không giới hạn",
+    "option_d": "Tất cả các câu trên",
+    "answer": "C",
+    "id": "logical_fallacies/dev/2"
+  },
+  {
+    "instruction": "Chính sách tài khóa phía cung tốt nhất được mô tả như thế nào sau đây?",
+    "option_a": "Một tăng cung tiền",
+    "option_b": "Tăng chi ngân sách chính phủ",
+    "option_c": "Giảm thuế cho nghiên cứu và phát triển công nghệ mới",
+    "option_d": "Tăng thuế đối với thu nhập hộ gia đình",
+    "answer": "C",
+    "id": "high_school_macroeconomics/dev/4"
+  },
+  {
+    "instruction": "Loại lực nào mà Điều 2(4) của Hiến chương Liên Hợp Quốc cấm?",
+    "option_a": "Điều 2(4) chỉ bao gồm lực lượng vũ trang",
+    "option_b": "Điều 2(4) bao gồm tất cả các loại lực, bao gồm cả trừng phạt",
+    "option_c": "Điều 2(4) bao gồm mọi sự can thiệp vào công việc nội bộ của các Nhà nước",
+    "option_d": "Điều 2(4) bao gồm lực lượng chỉ dành cho tính thống nhất lãnh thổ của một Nhà nước",
+    "answer": "A",
+    "id": "international_law/dev/0"
+  },
+  {
+    "instruction": "Một chiếc đồng hồ thông minh mới được sản xuất tại một khu vực của nhà máy, sau đó được bảo đảm cho vận chuyển tại một khu vực độc lập khác của nhà máy. Trọng lượng của đồng hồ thông minh có trọng tâm là 62 gram và độ lệch chuẩn là 1.0 gram. Trọng lượng của bao bì (hộp, hướng dẫn sử dụng, bong bóng bảo vệ, v.v.) có trọng tâm là 456 gram và độ lệch chuẩn là 6 gram. Cùng với nhau, phân phối của trọng lượng của đồng hồ thông minh và bao bì của nó sẽ có trọng tâm và độ lệch chuẩn như sau:",
+    "option_a": "Trọng tâm là 518 gram; độ lệch chuẩn là 7.0 gram",
+    "option_b": "Trọng tâm là 518 gram; độ lệch chuẩn là 3.5 gram",
+    "option_c": "Trọng tâm là 518 gram; độ lệch chuẩn là 6.1 gram",
+    "option_d": "Trọng tâm là 394 gram; độ lệch chuẩn là 6.1 gram",
+    "answer": "C",
+    "id": "high_school_statistics/dev/3"
+  },
+  {
+    "instruction": "Trong việc quản lý vấn đề, phương pháp nào là tích cực nhất để đối phó với thông tin tiêu cực hoặc sai lệch được đăng trực tuyến về tổ chức của bạn?",
+    "option_a": "Mua tên miền có thể được sử dụng bởi nhóm đối lập.",
+    "option_b": "Đăng bình luận ẩn danh trên các blog để chống lại thông tin này.",
+    "option_c": "Chuẩn bị một bản tin tức phát hành để phủ nhận thông tin không chính xác.",
+    "option_d": "Thực hiện thay đổi chính sách để giải quyết các khiếu nại được nêu lên trên các trang web này.",
+    "answer": "D",
+    "id": "public_relations/dev/1"
+  },
+  {
+    "instruction": "Trước khi chuyển đạo Thiên chúa giáo, quan điểm của Tolstoy về ý nghĩa cuộc sống là gì?",
+    "option_a": "lạc quan",
+    "option_b": "hài lòng",
+    "option_c": "tôn giáo hình thức",
+    "option_d": "bi quan",
+    "answer": "D",
+    "id": "philosophy/dev/3"
+  },
+  {
+    "instruction": "Mục tiêu nào sau đây không phải là mục tiêu của chế độ phúc lợi sau chiến tranh thuộc năm 1948:",
+    "option_a": "Chăm sóc sức khỏe và giáo dục miễn phí cho mọi người",
+    "option_b": "Mức lương tối thiểu",
+    "option_c": "Đầy đủ việc làm",
+    "option_d": "Phúc lợi phổ quát",
+    "answer": "B",
+    "id": "sociology/dev/0"
+  },
+  {
+    "instruction": "Mười học sinh tham gia bài kiểm tra sinh học và nhận được các điểm sau đây: 45, 55, 50, 70, 65, 80, 40, 90, 70, 85. Trung bình điểm số của các học sinh là bao nhiêu?",
+    "option_a": "55",
+    "option_b": "60",
+    "option_c": "62",
+    "option_d": "65",
+    "answer": "D",
+    "id": "high_school_mathematics/dev/4"
+  },
+  {
+    "instruction": "Yếu tố vệ sinh liên quan đến nhà văn nào?",
+    "option_a": "Frederick Hertzberg",
+    "option_b": "D.C. McClelland",
+    "option_c": "Abraham Maslow",
+    "option_d": "Douglas McGregor",
+    "answer": "A",
+    "id": "management/dev/1"
+  },
+  {
+    "instruction": "Trong chương trình dưới đây, giá trị ban đầu của x là 5 và giá trị ban đầu của y là 10.\n NẾU (X < O)\n {\n HIỂN THỊ (\"Phốt tơ\")\n }\n KHÁC\n {\n NẾU (X > y)\n {\n   HIỂN THỊ (\"Khách sạn\")\n }\n KHÁC\n {\n   NẾU (y > O)\n   {\n   HIỂN THỊ (\"Tháng mười một\")\n   }\n   KHÁC\n   {\n   HIỂN THỊ (\"Yankee\")\n   }\n }\n }\n \n Kết quả hiển thị khi thực thi chương trình là gì?",
+    "option_a": "Phốt tơ",
+    "option_b": "Khách sạn",
+    "option_c": "Tháng mười một",
+    "option_d": "Yankee",
+    "answer": "C",
+    "id": "high_school_computer_science/dev/3"
+  },
+  {
+    "instruction": "Trong thực tiễn hiện nay, một sự dành chỗ về định nghĩa tra tấn trong ICCPR có được chấp nhận không?",
+    "option_a": "Điều này là một sự dành chỗ chấp nhận được nếu pháp luật của quốc gia dành chỗ sử dụng một định nghĩa khác",
+    "option_b": "Điều này là một sự dành chỗ không được chấp nhận bởi vì nó xâm phạm đến mục đích chính của ICCPR",
+    "option_c": "Điều này là một sự dành chỗ không được chấp nhận bởi vì định nghĩa về tra tấn trong ICCPR tương thích với luật pháp quốc tế tập quán",
+    "option_d": "Điều này là một sự dành chỗ chấp nhận được vì theo luật pháp quốc tế chung các quốc gia có quyền dành chỗ vào các hiệp định",
+    "answer": "B",
+    "id": "international_law/dev/2"
+  },
+  {
+    "instruction": "Một lò vi sóng được kết nối vào ổ cắm, 120 V, và hút dòng điện là 2 A. Tại tốc độ nào, năng lượng đang được sử dụng bởi lò vi sóng?",
+    "option_a": "10 W",
+    "option_b": "30 W",
+    "option_c": "60 W",
+    "option_d": "240 W",
+    "answer": "D",
+    "id": "high_school_physics/dev/3"
+  },
+  {
+    "instruction": "Baron thừa nhận rằng các phiên bản của ví dụ về quả bom đang đếm ngược mà cô thảo luận là \"tàn nhẫn tột cùng,\" nhưng cô cho rằng đây là bằng chứng cho",
+    "option_a": "sự ngu đốt của hầu hết các ví dụ triết học truyền thống.",
+    "option_b": "sự thiếu trí tuệ chung của những người có bằng cấp cao.",
+    "option_c": "sự sai lầm của tra tấn.",
+    "option_d": "sự sẵn sàng từ phía nhiều người thông minh để xem tra tấn là giải pháp tốt nhất để đối phó với khủng bố.",
+    "answer": "D",
+    "id": "moral_disputes/dev/4"
+  },
+  {
+    "instruction": "Theo Singer, điều gì sau đây là một giá trị thiên bẩm?",
+    "option_a": "sống trong tầng lớp thượng lưu",
+    "option_b": "có khả năng học và giải quyết vấn đề",
+    "option_c": "đẹp hơn hầu hết dân số",
+    "option_d": "ngắn hơn trung bình",
+    "answer": "B",
+    "id": "moral_disputes/dev/2"
+  },
+  {
+    "instruction": "Một chiếc ô tô tiêu chuẩn có bao nhiêu trục?",
+    "option_a": "một",
+    "option_b": "hai",
+    "option_c": "bốn",
+    "option_d": "tám",
+    "answer": "B",
+    "id": "miscellaneous/dev/0"
+  },
+  {
+    "instruction": "Đường glucose được vận chuyển vào tế bào cơ:",
+    "option_a": "qua các bộ vận chuyển protein được gọi là GLUT4.",
+    "option_b": "chỉ khi có sự có mặt của insulin.",
+    "option_c": "qua hexokinase.",
+    "option_d": "qua các bộ vận chuyển axit môno-carbocyclic.",
+    "answer": "A",
+    "id": "college_medicine/dev/0"
+  },
+  {
+    "instruction": "3 Cl−(aq) + 4 CrO_4^2−(aq) + 23 H+(aq) → 3 HClO2(aq) + 4 Cr3+(aq) + 10 H2O(l). Trong phản ứng trên, Cl−(aq) có hành vi như là",
+    "option_a": "một axit",
+    "option_b": "một bazơ",
+    "option_c": "một chất xúc tác",
+    "option_d": "một chất khử",
+    "answer": "D",
+    "id": "college_chemistry/dev/3"
+  },
+  {
+    "instruction": "Thuật ngữ \"thâm hụt ngân sách\" đề cập đến",
+    "option_a": "Sự gia tăng hàng năm trong việc chi tiêu quân sự của chính phủ liên bang",
+    "option_b": "Số tiền lãi phải trả trên nợ quốc gia",
+    "option_c": "Sự khác biệt giữa các đề xuất ngân sách ban đầu được đưa ra bởi tổng thống và Quốc hội",
+    "option_d": "Số tiền chính phủ chi tiêu vượt quá doanh thu của nó",
+    "answer": "D",
+    "id": "high_school_government_and_politics/dev/1"
+  },
+  {
+    "instruction": "Câu hỏi này liên quan đến thông tin sau.\nĐoạn trích dưới đây được trích từ Đạo luật điều hướng năm 1651.\n[S]au ngày đầu tiên của tháng mười hai, năm một ngàn sáu trăm năm năm mươi và một, và kể từ đó về sau, không có hàng hóa hoặc sản phẩm nào của châu Á, châu Phi hoặc châu Mỹ, hoặc bất kỳ phần nào của chúng; hoặc của bất kỳ hòn đảo nào thuộc về chúng, hoặc được miêu tả hoặc định vị trên các bản đồ hoặc thẻ thông thường của những nơi đó, cũng như các trang trại của người Anh hoặc những người khác, không được nhập khẩu hoặc mang vào Cộng hòa này của Anh, hoặc vào Ireland, hoặc bất kỳ đất đai, hòn đảo, trang trại hoặc lãnh thổ nào khác của Cộng hòa này, hoặc trong tài sản của họ, trong bất kỳ chiếc tàu nào khác, nhưng chỉ trong những tàu thực sự và không qua gian lận thuộc về những người của Cộng hòa này, hoặc các trang trại của họ, như người chủ sở hữu hoặc quyền sở hữu đúng của họ; và các thuyền trưởng và thủy thủ đoàn cũng là người của Cộng hòa này, dưới mức phạt mất tất cả hàng hóa sẽ được nhập khẩu trái với đạo luật này, , , ,\n[K]hông có hàng hóa hoặc sản phẩm nào của châu Âu, hoặc bất kỳ phần nào của châu Âu nào, sẽ từ ngày đầu tiên của tháng mười hai, năm một ngàn sáu trăm năm năm mươi và một, được nhập khẩu hoặc mang vào Cộng hòa Anh này, hoặc bất kỳ đất đai hoặc lãnh thổ nào khác của Cộng hòa này, hoặc trong tài sản của họ, trong bất kỳ chiếc tàu nào khác, nhưng chỉ trong những chiếc tàu thực sự và không qua gian lận thuộc về những người của Cộng hòa này, và không có tàu và thuyền nước ngoài nào như một số tàu và thuyền phải thuộc về những người của quốc gia hoặc địa phương đó, mà các hàng hóa đó là sản xuất, sản xuất hoặc sản xuất.\nCâu nào mô tả tốt nhất kết quả của Đạo luật điều hướng năm 1651?",
+    "option_a": "Chúng đã phục vụ như một chất xúc tác cho sự phát triển của hàng hải Anh và thương mại nước ngoài, nhưng không làm giảm khả năng của Hà Lan vào thế kỷ XVII.",
+    "option_b": "Chúng đã gây ra những khó khăn gần như ngay lập tức cho nền kinh tế Hà Lan khi sự thống trị của họ về thương mại nước ngoài nhanh chóng kết thúc.",
+    "option_c": "Chúng đã bị thu hồi trong thời kỳ phục hưng của Stuarts vì họ tìm kiếm quan hệ ngoại giao bình thường với Hà Lan, để không cần hỗ trợ tài chính của Quốc hội cho chiến tranh.",
+    "option_d": "Chúng dẫn đến gần một thế kỷ chiến tranh tái diễn giữa Anh và Hà Lan, mà chỉ kết thúc sau khi Mỹ độc lập.",
+    "answer": "A",
+    "id": "high_school_european_history/dev/3"
+  },
+  {
+    "instruction": "Buồn nôn buổi sáng thường là vấn đề:",
+    "option_a": "trong ba tháng đầu tiên",
+    "option_b": "trong ba tháng thứ hai",
+    "option_c": "trong ba tháng cuối cùng",
+    "option_d": "trong suốt thai kỳ",
+    "answer": "A",
+    "id": "human_sexuality/dev/0"
+  },
+  {
+    "instruction": "Dự đoán số đường sóng trong phổ EPR của dung dịch radicaphenyl chuẩn bị bằng 13C-labeled methyl (13CH3•), giả sử các đường không trùng lên nhau.",
+    "option_a": "4",
+    "option_b": "3",
+    "option_c": "6",
+    "option_d": "24",
+    "answer": "A",
+    "id": "college_chemistry/dev/2"
+  },
+  {
+    "instruction": "Theo Timothy Pauketat, bằng chứng về tầng lớp xã hội và quyền lực chính trị tại Cahokia cho thấy:",
+    "option_a": "một trung tâm văn hóa Mississippian với điều kiện tương tự như sự nổi lên của các quốc gia sớm.",
+    "option_b": "giới hạn của quyền lực trong xã hội người bản địa Mỹ với những kẻ săn bắn bình đẳng.",
+    "option_c": "một chủng tộc đơn giản hoặc có thể là một chủng tộc phức tạp đã tiến hóa vào năm 1500 sau Công nguyên.",
+    "option_d": "một trung tâm văn hóa Mississippian với điều kiện tương tự như các xã hội trên Bờ Tây Bắc của Bắc Mỹ.",
+    "answer": "A",
+    "id": "prehistory/dev/1"
+  },
+  {
+    "instruction": "Để trở thành trở thành bảo mật, mối đe dọa phải được đưa ra dưới những hình thức nào trong những yếu tố sau?",
+    "option_a": "Là mối đe dọa về mặt sinh tồn cần yêu cầu hành động ngay lập tức và phi thường, đe dọa đến sự sống còn của nhà nước hoặc đến an ninh xã hội.",
+    "option_b": "Là yêu cầu hành động ngay lập tức và phi thường bởi nhà nước, đe dọa đến sự sống còn của một đối tượng tham chiếu và do đó đòi hỏi sử dụng các biện pháp không thông thường trong lĩnh vực chính trị.",
+    "option_c": "Là mối đe dọa khẩn cấp đến sự sống còn của đối tượng tham chiếu, đến mức nghiêm trọng đủ để chủ trương cho sử dụng hành động phi thường đáp ứng.",
+    "option_d": "Là mối đe dọa khẩn cấp đến sự sống còn của khán giả đòi hỏi các biện pháp khẩn cấp hoặc khẩn cấp đặc biệt.",
+    "answer": "C",
+    "id": "security_studies/dev/2"
+  },
+  {
+    "instruction": "Ngoài lợi ích kinh doanh khi tham gia CSR, có nhiều lập luận đạo đức liên quan đến: các tác động bất lợi bên ngoài, sức mạnh mà các công ty sở hữu và sự phụ thuộc giữa doanh nghiệp và xã hội.",
+    "option_a": "Những tác động bên ngoài, Sức mạnh, Độc lập",
+    "option_b": "Sự quảng bá, Tài nguyên không đáng kể, Sự phụ thuộc lẫn nhau",
+    "option_c": "Sự quảng bá, Sức mạnh, Độc lập",
+    "option_d": "Những tác động bên ngoài, Sức mạnh, Sự phụ thuộc lẫn nhau",
+    "answer": "D",
+    "id": "business_ethics/dev/0"
+  },
+  {
+    "instruction": "Một phụ nữ khỏe mạnh trước đó, 32 tuổi đến gặp bác sĩ 8 tháng sau khi chồng bị tai nạn xe hơi và qua đời. Từ đó, cô ấy đã có giảm cảm giác đói và gặp khó khăn khi ngủ. Cô ấy nói rằng cô ấy thường buồn và hay khóc. Cô ấy luôn phải kiểm tra khóa cửa chính năm lần trước khi rời khỏi nhà và phải đếm chính xác năm miếng giấy vệ sinh trước khi sử dụng. Cô ấy bảo rằng cô ấy luôn là một người hoàn hảo nhưng những cơn thèm và nghi lễ này là mới. Điều trị dược lý nên được nhắm đến các truyền thần kinh nào sau đây?",
+    "option_a": "Dopamin",
+    "option_b": "Glutamat",
+    "option_c": "Noradrenalin",
+    "option_d": "Serotonin",
+    "answer": "D",
+    "id": "professional_medicine/dev/2"
+  },
+  {
+    "instruction": "Chọn câu diễn đạt logic phù hợp nhất: Không có người nào lái xe trên Sao Hỏa.",
+    "option_a": "~Pd",
+    "option_b": "(∀x)(Px ∨ ~Dx)",
+    "option_c": "(∀x)(Px ⊃ ~Dx)",
+    "option_d": "~Dp",
+    "answer": "C",
+    "id": "formal_logic/dev/0"
+  },
+  {
+    "instruction": "Donald Trump đã tấn công toàn cầu hóa như thế nào trong chiến dịch bầu cử 2016?",
+    "option_a": "Toàn cầu hóa đã làm cho những người giống ông ta trở nên quá giàu có",
+    "option_b": "Toàn cầu hóa chỉ mang lại lợi ích cho một số tiểu bang Mỹ nhất định, như New York",
+    "option_c": "Tầng lớp tinh hoa đã khuyến khích toàn cầu hóa, trong khi 'những người Mỹ thường' mất việc làm vì nó",
+    "option_d": "Toàn cầu hóa thúc đẩy các cuộc chiến thương mại gây hại",
+    "answer": "C",
+    "id": "us_foreign_policy/dev/4"
+  },
+  {
+    "instruction": "Mục tiêu quan trọng nhất của can thiệp hành vi là:",
+    "option_a": "Thay đổi hành vi",
+    "option_b": "Phạm vi toàn diện",
+    "option_c": "Sử dụng hiệu quả lý thuyết hành vi",
+    "option_d": "Thay đổi hành vi bền vững",
+    "answer": "D",
+    "id": "virology/dev/3"
+  },
+  {
+    "instruction": "Một ống không khí đầy khí được đóng tại một đầu. Một sóng đứng được tạo ra trong ống, làm cho ống phát ra một nốt nhạc. Câu nào sau đây là một tuyên bố chính xác về tính chất sóng tại đầu đóng của ống?",
+    "option_a": "Áp suất tại một nút, nhưng sự di chuyển của hạt tại một điểm rung động.",
+    "option_b": "Áp suất tại một điểm rung động, nhưng sự di chuyển của hạt tại một nút.",
+    "option_c": "Áp suất và sự di chuyển của hạt đều nằm tại các nút.",
+    "option_d": "Áp suất và sự di chuyển của hạt đều nằm tại các điểm rung động.",
+    "answer": "B",
+    "id": "high_school_physics/dev/1"
+  },
+  {
+    "instruction": "Một yếu tố quan trọng giúp cho việc áp dụng các nghiên cứu kiểm soát trường hợp lồng nhau từ MACS là:",
+    "option_a": "Thu thập dữ liệu",
+    "option_b": "Thiết lập kho chứa các mẫu sinh học",
+    "option_c": "Sự quan tâm của người tham gia",
+    "option_d": "Thực hiện bảng câu hỏi bởi nhân viên",
+    "answer": "B",
+    "id": "virology/dev/2"
+  },
+  {
+    "instruction": "Việc mở rộng lặp lại ba phân tử lớn có thể được phát hiện bằng cách:",
+    "option_a": "phản ứng chuỗi polymerase.",
+    "option_b": "phân tích đa dạng đơn sợi.",
+    "option_c": "southern blotting.",
+    "option_d": "western blotting.",
+    "answer": "C",
+    "id": "medical_genetics/dev/0"
+  },
+  {
+    "instruction": "Quá trình đường phân được gọi là glycolysis, có liên quan đến sự chuyển đổi của:",
+    "option_a": "glycogen thành glucose-1-phosphate.",
+    "option_b": "glycogen hoặc glucose thành fructose.",
+    "option_c": "glycogen hoặc glucose thành pyruvate hoặc lactate.",
+    "option_d": "glycogen hoặc glucose thành pyruvate hoặc acetyl CoA.",
+    "answer": "C",
+    "id": "clinical_knowledge/dev/4"
+  },
+  {
+    "instruction": "Giả sử X và Y là những biến ngẫu nhiên với E(X) = 37, var(X) = 5, E(Y) = 62 và var(Y) = 12. Giá trị kỳ vọng và phương sai của biến ngẫu nhiên X + Y là gì?",
+    "option_a": "E(X + Y) = 99, var(X + Y) = 8.5",
+    "option_b": "E(X + Y) = 99, var(X + Y) = 13",
+    "option_c": "E(X + Y) = 99, var(X + Y) = 17",
+    "option_d": "Không đủ thông tin để trả lời câu hỏi này.",
+    "answer": "D",
+    "id": "high_school_statistics/dev/1"
+  },
+  {
+    "instruction": "Khung phân tích nào được sử dụng để xem xét về khủng bố (cho đến năm 2020)?",
+    "option_a": "Sự cạnh tranh giữa các quốc gia lớn đã dẫn đến một số quốc gia chủ động hỗ trợ các nhóm khủng bố nhằm làm suy yếu sức mạnh của các quốc gia đối thủ. Mạng lưới khủng bố được chăm sóc và trả lương bởi các quốc gia tài trợ của họ và được khái quát như các nhà nước hoạt động, để được xử lý bằng lực lượng quân sự.",
+    "option_b": "Toàn cầu hóa đã cho phép quốc tế hóa hoạt động khủng bố bằng cách mở rộng không gian hoạt động của chúng, tuy nhiên, việc phối hợp vẫn được quản lý từ một căn cứ địa lý. Điều này cho thấy các nhóm khủng bố được cấu trúc theo quốc gia có nghĩa là khủng bố không thể được coi là một cuộc chiến để đánh bại bằng vũ lực mà không có tác động nghiêm trọng đối với dân địa phương.",
+    "option_c": "Khủng bố có thể được coi là một vấn đề được giải quyết bằng phương tiện quân sự (chiến tranh chống khủng bố), bằng các kỹ thuật của cảnh sát (khủng bố là tội phạm) hoặc là một vấn đề y tế với nguyên nhân và triệu chứng cơ bản (khủng bố là căn bệnh).",
+    "option_d": "Khủng bố được coi là một vấn đề pháp lý. Việc hình thành tội phạm về khủng bố có hai tác động quan trọng. Thứ nhất, nó cho rằng khủng bố có thể bị tiêu diệt - các tay súng khủng bố có thể bị bắt giữ và đưa ra tòa án theo thủ tục tư pháp để loại bỏ mối đe dọa đó khỏi xã hội - và thứ hai, nó cho rằng các kỹ thuật phòng ngừa tội phạm là có thể áp dụng để ngăn chặn sự phát triển của nó.",
+    "answer": "C",
+    "id": "security_studies/dev/4"
+  },
+  {
+    "instruction": "Tòa án đã chú ý phải dùng những sự kiện có thật ở giai đoạn ban đầu của phiên tòa. Câu hỏi dưới đây đưa ra loại sự kiện nào không phù hợp cho việc này?",
+    "option_a": "Các sự kiện không thể tranh cãi.",
+    "option_b": "Các sự kiện được khẳng định bởi các tổ chức chính trị riêng lẻ.",
+    "option_c": "Các sự kiện được nhận thức là đúng thông qua kiến thức chung.",
+    "option_d": "Các sự kiện có thể xác nhận bằng khoa học.",
+    "answer": "B",
+    "id": "professional_law/dev/2"
+  },
+  {
+    "instruction": "Giá trị trung bình khối não khoảng bao nhiêu của Homo erectus?",
+    "option_a": "Dưới 650 cc",
+    "option_b": "Khoảng 800 cc",
+    "option_c": "Gần 1000 cc",
+    "option_d": "1200 cc",
+    "answer": "C",
+    "id": "prehistory/dev/4"
+  },
+  {
+    "instruction": "Nghiên cứu gần đây về các loài người tiền sử đến từ cuối đới giữa Pliocene cho thấy (cho đến năm 2020):",
+    "option_a": "sự đa dạng về loài ngày càng tăng, hoặc chỉ có một loài nhưng có sự đa dạng lớn trong loài đó.",
+    "option_b": "rất ít sự đa dạng về loài trong giai đoạn này và rất ít loài người tiền sử.",
+    "option_c": "sự giảm sút về đa dạng loài do ảnh hưởng của một kỷ băng hà kéo dài sau đó là một thời kỳ hạn hán nghiêm trọng.",
+    "option_d": "sự giảm sút về đa dạng loài nhưng tăng số lượng các công cụ đá được làm thủ công, được cho thấy bởi sự xuất hiện của những viên đá mài và chạm trổ.",
+    "answer": "A",
+    "id": "prehistory/dev/3"
+  },
+  {
+    "instruction": "Giai đoạn của quá trình trùng phân tạo phấn của tế bào trong đó các nhiễm sắc thể ghép cặp và hoán đổi là:",
+    "option_a": "prophase I",
+    "option_b": "metaphase I",
+    "option_c": "prophase II",
+    "option_d": "metaphase II",
+    "answer": "A",
+    "id": "medical_genetics/dev/4"
+  },
+  {
+    "instruction": "Màng phổi",
+    "option_a": "không có thần kinh cảm giác.",
+    "option_b": "được chia thành khoảng cách 2 mm.",
+    "option_c": "giãn đến cổ.",
+    "option_d": "được cấu thành bởi biểu mô phổi.",
+    "answer": "C",
+    "id": "anatomy/dev/2"
+  },
+  {
+    "instruction": "Từ nào tóm tắt nhất giải thích của Weber về sự phát triển của pháp luật hình thức hợp lý?",
+    "option_a": "Quyền lực.",
+    "option_b": "Phù charisma.",
+    "option_c": "Hợp tác.",
+    "option_d": "Chủ nghĩa tư bản.",
+    "answer": "D",
+    "id": "jurisprudence/dev/2"
+  },
+  {
+    "instruction": "Trong giai đoạn ba của mô hình chuyển động dân số, điều gì sau đây là đúng?",
+    "option_a": "Tỉ lệ sinh tăng và tỷ lệ tăng trưởng dân số chậm hơn.",
+    "option_b": "Tỉ lệ sinh giảm và tỷ lệ tăng trưởng dân số chậm hơn.",
+    "option_c": "Tỉ lệ sinh tăng và tỷ lệ tăng trưởng dân số tăng lên.",
+    "option_d": "Tỉ lệ sinh giảm và tỷ lệ tăng trưởng dân số tăng lên.",
+    "answer": "B",
+    "id": "high_school_geography/dev/1"
+  },
+  {
+    "instruction": "Trong năm 2020, thuốc đầu tiên được sử dụng cho bệnh nhân mắc tiểu đường loại 2 và béo phì là gì?",
+    "option_a": "Acarbose",
+    "option_b": "Metformin",
+    "option_c": "Sulphonylureas",
+    "option_d": "Insulin",
+    "answer": "B",
+    "id": "nutrition/dev/4"
+  },
+  {
+    "instruction": "Trong hai tình huống sau, nhân vật chính (sử dụng I/me/my) đã làm điều gì đó sai trái rõ ràng theo chuẩn mực đạo đức thông thường tại Hoa Kỳ vào năm 2020? Tình huống 1 | Tôi xin một điếu thuốc lá từ người đàn ông bên ngoài cửa hàng. Tình huống 2 | Khi an ninh rời khỏi đài bảo vệ, tôi cho tiền xu hiếm vào túi của mình.",
+    "option_a": "Sai, Sai",
+    "option_b": "Sai, Không sai",
+    "option_c": "Không sai, Sai",
+    "option_d": "Không sai, Không sai",
+    "answer": "C",
+    "id": "moral_scenarios/dev/1"
+  },
+  {
+    "instruction": "Câu hỏi: Phần nào trong các phương án sau chứa các chuỗi DNA cần thiết cho việc phân ly chromosom trong quá trình mitosis và meiosis?",
+    "option_a": "Đuôi telomere (Telomeres)",
+    "option_b": "Vùng trung tâm (Centromeres)",
+    "option_c": "Hạt nhân (Nucleosomes)",
+    "option_d": "Thiết bị giao cắt (Spliceosomes)",
+    "answer": "B",
+    "id": "college_biology/dev/4"
+  },
+  {
+    "instruction": "Trong số những người sau đây, ai có khả năng ở nhà một mình hơn vào năm 2019?",
+    "option_a": "Một người đàn ông hoặc phụ nữ châu Á",
+    "option_b": "Một người đàn ông Mỹ gốc Mỹ Latinh",
+    "option_c": "Một người phụ nữ Mỹ gốc Phi châu",
+    "option_d": "Một người đàn ông hoặc phụ nữ Mỹ gốc da trắng",
+    "answer": "C",
+    "id": "human_aging/dev/0"
+  },
+  {
+    "instruction": "Trong các tình trạng sau đây, tình trạng nào không thể được di truyền đa yếu tố?",
+    "option_a": "Rốn trắng",
+    "option_b": "Bệnh tâm thần",
+    "option_c": "Vỡ ống thần kinh (Spina bifida)",
+    "option_d": "Hội chứng Marfan",
+    "answer": "D",
+    "id": "medical_genetics/dev/3"
+  },
+  {
+    "instruction": "Trong các phương pháp sau, phương pháp nào không phải là cách để tạo ra ADN tái tổ hợp?",
+    "option_a": "Dịch mã",
+    "option_b": "Giao phối",
+    "option_c": "Truyền nhiễm chuyên biệt",
+    "option_d": "Biến đổi",
+    "answer": "A",
+    "id": "high_school_biology/dev/0"
+  },
+  {
+    "instruction": "Đặc điểm nào không phải là đặc trưng chính của mô hình quản lý 'hệ thống mở'?",
+    "option_a": "Tinh thần",
+    "option_b": "Đổi mới",
+    "option_c": "Nguồn tăng trưởng",
+    "option_d": "Thích ứng",
+    "answer": "A",
+    "id": "management/dev/3"
+  },
+  {
+    "instruction": "Hãy sắp xếp các hydride của các nguyên tố trong nhóm 14 theo độ ổn định nhiệt từ thấp đến cao?",
+    "option_a": "PbH4 < SnH4 < GeH4 < SiH4 < CH4",
+    "option_b": "PbH4 < SnH4 < CH4 < GeH4 < SiH4",
+    "option_c": "CH4 < SiH4 < GeH4 < SnH4 < PbH4",
+    "option_d": "CH4 < PbH4 < GeH4 < SnH4 < SiH4",
+    "answer": "A",
+    "id": "college_chemistry/dev/4"
+  },
+  {
+    "instruction": "Trong các phân tử sau, phân tử nào được dự kiến là phân tử phân cực?",
+    "option_a": "PCl4F",
+    "option_b": "BF3",
+    "option_c": "CO2",
+    "option_d": "Si(CH3)4",
+    "answer": "A",
+    "id": "high_school_chemistry/dev/1"
+  },
+  {
+    "instruction": "Trong những lựa chọn sau, bộ phận cơ thể nào chứa tuyến yên?",
+    "option_a": "Bụng",
+    "option_b": "Đầu",
+    "option_c": "Phổi",
+    "option_d": "Tủy sống",
+    "answer": "B",
+    "id": "anatomy/dev/4"
+  },
+  {
+    "instruction": "Theo mô hình áp lực-lưu chuyển của nội dung mạch phloem, sự di chuyển photosynthate từ nguồn đến chỗ tiêu thụ được thúc đẩy bởi",
+    "option_a": "một bơm lưu chuyển áp lực phụ thuộc vào ATP",
+    "option_b": "một độ dốc tiềm năng áp lực của nước",
+    "option_c": "quá trình thải hơi nước",
+    "option_d": "sự khuếch tán apoplastic",
+    "answer": "B",
+    "id": "college_biology/dev/3"
+  },
+  {
+    "instruction": "Câu nào sau đây tốt nhất diễn tả lập luận của James Madison trong The Federalist số 10?",
+    "option_a": "Các chính trị gia trung thực có thể ngăn chặn bè phái phát triển.",
+    "option_b": "Bè phái có khả năng xảy ra nhiều hơn ở các cộng hòa lớn hơn so với các cộng hòa nhỏ.",
+    "option_c": "Các tác động tiêu cực của bè phái có thể được giảm bớt bởi một chính phủ cộng hoà.",
+    "option_d": "Bầu cử tự do là sự bảo vệ tốt nhất của dân chúng trước bè phái hóa.",
+    "answer": "C",
+    "id": "high_school_government_and_politics/dev/4"
+  },
+  {
+    "instruction": "Muon rụng cặp với tuổi thọ đặc trưng khoảng 10^-6 giây thành một electron, một hạt trung vi muon, và một hạt đối chẩn của hạt trung vi muon. Muốn tránh việc muon rụng cặp thành một electron và chỉ một neutrino bởi luật bảo toàn của",
+    "option_a": "điện tích",
+    "option_b": "khối lượng",
+    "option_c": "năng lượng và động lượng",
+    "option_d": "số lepton",
+    "answer": "D",
+    "id": "college_physics/dev/4"
+  },
+  {
+    "instruction": "Trong một SR latch được xây dựng từ các cổng NOR, điều kiện nào không được phép",
+    "option_a": "S=0, R=0",
+    "option_b": "S=0, R=1",
+    "option_c": "S=1, R=0",
+    "option_d": "S=1, R=1",
+    "answer": "D",
+    "id": "electrical_engineering/dev/0"
+  },
+  {
+    "instruction": "Trong động cơ DC lap có 2 cực, trở kháng của một dây dẫn là 2Ω và tổng số dây dẫn là 100. Tính tổng trở kháng",
+    "option_a": "200Ω",
+    "option_b": "100Ω",
+    "option_c": "50Ω",
+    "option_d": "10Ω",
+    "answer": "C",
+    "id": "electrical_engineering/dev/1"
+  },
+  {
+    "instruction": "Phiên bản 1 | Mỗi phần tử trong một nhóm tạo ra một nhóm vòng của nhóm đó. Phiên bản 2 | Nhóm đối xứng S_10 có 10 phần tử.",
+    "option_a": "Đúng, Đúng",
+    "option_b": "Sai, Sai",
+    "option_c": "Đúng, Sai",
+    "option_d": "Sai, Đúng",
+    "answer": "C",
+    "id": "abstract_algebra/dev/2"
+  },
+  {
+    "instruction": "Với một khoản tiền ban đầu là năm nghìn đô la được cộng dồn hàng năm với lãi suất là $x\\%$, sau sáu năm số tiền đó sẽ tăng gấp đôi. Với cùng một lãi suất, trong bao nhiêu năm $\\$300$ sẽ tăng lên thành $\\$9600$?",
+    "option_a": "12",
+    "option_b": "1",
+    "option_c": "30",
+    "option_d": "5",
+    "answer": "C",
+    "id": "high_school_mathematics/dev/1"
+  },
+  {
+    "instruction": "Rối loạn thông thường nhất giữa người đàn ông tìm kiếm liệu pháp tình dục là:",
+    "option_a": "xuất tinh sớm",
+    "option_b": "ngăn trở xuất tinh",
+    "option_c": "rối loạn cương dương",
+    "option_d": "rối loạn xuất tinh",
+    "answer": "C",
+    "id": "human_sexuality/dev/4"
+  },
+  {
+    "instruction": "Một nam giới 36 tuổi đến phòng khám với triệu chứng đau lưng kéo dài 3 tuần. Anh ta phủ nhận bất kỳ chấn thương gần đây nào nhưng nói rằng anh ta leo lên và xuống xe tải của mình nhiều lần mỗi ngày trong công việc. Khám bệnh của bệnh nhân ở tư thế nằm úp ngược cho thấy một rãnh sacral sâu ở bên trái, một góc hậu dưới bên ngoài ở bên phải và một khớp gối cắt lưng tự do khi nén. Khả năng chẩn đoán cao nhất là",
+    "option_a": "xoắn ốc sacral trái trên trái",
+    "option_b": "xoắn ốc sacral trái trên phải",
+    "option_c": "cúi gập sacral một bên phải",
+    "option_d": "xoắn ốc sacral phải trên phải",
+    "answer": "D",
+    "id": "professional_medicine/dev/1"
+  },
+  {
+    "instruction": "Trong triều đại nào \"Mandate of Heaven\" được phát triển để chính thức hóa các vị vua mới?",
+    "option_a": "Thương",
+    "option_b": "Chu",
+    "option_c": "Hán",
+    "option_d": "Hạ",
+    "answer": "B",
+    "id": "world_religions/dev/2"
+  },
+  {
+    "instruction": "Màu sắc trên bong bóng xà phòng là kết quả của ánh sáng",
+    "option_a": "được chuyển đổi sang tần số khác",
+    "option_b": "lệch hướng",
+    "option_c": "sự can thiệp",
+    "option_d": "sự phân cực",
+    "answer": "C",
+    "id": "conceptual_physics/dev/2"
+  },
+  {
+    "instruction": "Một trứng đã được thụ tinh còn được gọi là",
+    "option_a": "một nguyệt tổ.",
+    "option_b": "một phôi thai.",
+    "option_c": "sự sống sót.",
+    "option_d": "một bào tử phôi.",
+    "answer": "A",
+    "id": "moral_disputes/dev/1"
+  },
+  {
+    "instruction": "Ở giai đoạn nào trong quá trình lập kế hoạch, phân tích tình hình cần được thực hiện?",
+    "option_a": "Xác định chương trình",
+    "option_b": "Lập kế hoạch chương trình",
+    "option_c": "Thực hiện và triển khai ý tưởng",
+    "option_d": "Đánh giá chương trình",
+    "answer": "A",
+    "id": "public_relations/dev/3"
+  },
+  {
+    "instruction": "Sự khác biệt giữa ống tiểu nam và ống tiểu nữ là gì?",
+    "option_a": "Ống tiểu nam và ống tiểu nữ có màu sắc khác nhau.",
+    "option_b": "Ống tiểu nam dài hơn ống tiểu nữ.",
+    "option_c": "Ống tiểu nam lớn hơn ống tiểu nữ.",
+    "option_d": "Ống tiểu nữ dài hơn ống tiểu nam.",
+    "answer": "B",
+    "id": "clinical_knowledge/dev/1"
+  },
+  {
+    "instruction": "_______ là sự cố gắng trực tiếp để quản lý các vấn đề hay vấn đề đạo đức một cách chính thức hoặc không chính thức thông qua các chính sách, thực tiễn và chương trình cụ thể.",
+    "option_a": "Trách nhiệm xã hội doanh nghiệp",
+    "option_b": "Quản lý đạo đức kinh doanh",
+    "option_c": "Bền vững",
+    "option_d": "Quản lý môi trường",
+    "answer": "B",
+    "id": "business_ethics/dev/1"
+  },
+  {
+    "instruction": "Câu nào sau đây về iodine là chính xác, đến năm 2020?\n",
+    "option_a": "50% người lớn tiêu thụ iodine dưới mức RNI",
+    "option_b": "Sản phẩm sữa là nguồn iodine kém",
+    "option_c": "Lượng iodine có trong sữa hữu cơ thường thấp hơn so với sữa không hữu cơ",
+    "option_d": "Các giá trị tham khảo dinh dưỡng của Vương quốc Anh đề nghị tăng lượng iodine tiêu thụ cho phụ nữ mang thai",
+    "answer": "C",
+    "id": "nutrition/dev/3"
+  },
+  {
+    "instruction": "Một người đàn ông 44 tuổi đến văn phòng bác sĩ vì bị đau họng kéo dài 3 ngày, ho không tiêu, nghẹt mũi và đau đầu ở phía trước. Anh ấy nói đau đầu trở nên nặng hơn vào buổi sáng và ibuprofen chỉ cung cấp một số giảm đau. Anh ấy chưa bị khó thở. Lịch sử y tế không đáng kể. Anh ấy không uống bất kỳ loại thuốc nào khác ngoài ibuprofen để giảm đau. Dấu hiệu sống còn bao gồm nhiệt độ 37,4°C (99,4°F), nhịp tim 88/phút, nhịp thở 18/phút và huyết áp 120/84 mm Hg. Phẫu thuật mũi cho thấy niêm mạc đỏ. Phẫu thuật họng cho thấy viêm đỏ và thận lymphoid đa nang trên sau họng. Không có bất kỳ bớt chướng cổ nào có thể thấy được. Phổi trong phạm vi. Sự mắc bệnh sau đây nào là nguyên nhân gây ra triệu chứng của bệnh nhân này nhất?",
+    "option_a": "Viêm mũi dị ứng",
+    "option_b": "Vi-rút Epstein-Barr",
+    "option_c": "Mycoplasma pneumoniae",
+    "option_d": "Vi-rút rhinovirus",
+    "answer": "D",
+    "id": "professional_medicine/dev/3"
+  },
+  {
+    "instruction": "Một giáo viên khoa học trung học đổ khí nitơ tinh khiết vào một chai 1 lít và đóng nắp kín. Áp suất là 1.70 atm và nhiệt độ phòng là 25°C. Hai biến số nào sẽ gây tăng áp suất của hệ thống, nếu tất cả các biến số khác được giữ nguyên?",
+    "option_a": "Tăng nhiệt độ, tăng số phân tử khí",
+    "option_b": "Tăng nhiệt độ, tăng thể tích",
+    "option_c": "Giảm thể tích, giảm nhiệt độ",
+    "option_d": "Giảm số phân tử khí, tăng thể tích",
+    "answer": "A",
+    "id": "college_medicine/dev/3"
+  },
+  {
+    "instruction": "Bạn đang xem xét các bài báo cho Hội nghị Học máy học đắt giá nhất thế giới, và bạn thấy các bài báo với các yêu cầu sau. Bạn sẽ xem xét những yêu cầu nào?",
+    "option_a": "Phương pháp của tôi đạt được sai số huấn luyện thấp hơn tất cả các phương pháp trước đây!",
+    "option_b": "Phương pháp của tôi đạt được sai số kiểm tra thấp hơn tất cả các phương pháp trước đây! (Chú thích: Khi tham số điều chuẩn λ được chọn để giảm thiểu sai số kiểm tra.)",
+    "option_c": "Phương pháp của tôi đạt được sai số kiểm tra thấp hơn tất cả các phương pháp trước đây! (Chú thích: Khi tham số điều chuẩn λ được chọn để giảm thiểu sai số chéo kiểm định.)",
+    "option_d": "Phương pháp của tôi đạt được sai số chéo kiểm định thấp hơn tất cả các phương pháp trước đó! (Chú thích: Khi tham số điều chuẩn λ được chọn để giảm thiểu sai số chéo kiểm định.)",
+    "answer": "C",
+    "id": "machine_learning/dev/2"
+  },
+  {
+    "instruction": "Một ống nhòm lấy nét bằng kính gắn kề nhau mà có khoảng cách 100 cm. Kính thiên văn được thiết kế có tiêu cự là 20 cm. Độ phóng đại góc của ống nhòm là",
+    "option_a": "4",
+    "option_b": "5",
+    "option_c": "6",
+    "option_d": "20",
+    "answer": "A",
+    "id": "college_physics/dev/3"
+  },
+  {
+    "instruction": "Theo Đạo luật cải thiện giáo dục cho người khuyết tật, trước khi thay đổi nơi học tập của học sinh khuyết tật, cơ quan giáo dục phải làm gì trong số những điều sau đây?",
+    "option_a": "Đưa cho học sinh thời gian thử nghiệm trong môi trường học tập mới",
+    "option_b": "Thông báo cho phụ huynh bằng văn bản",
+    "option_c": "Có sự chấp thuận của hội đồng giáo dục",
+    "option_d": "Có sự đồng ý của phụ huynh",
+    "answer": "B",
+    "id": "high_school_psychology/dev/3"
+  },
+  {
+    "instruction": "Đường cong Phillips ngắn hạn cho thấy mối quan hệ",
+    "option_a": "tuyến tính trực tiếp giữa thất nghiệp và lạm phát",
+    "option_b": "tuyến tính trực tiếp giữa giá cả và lượng yêu cầu",
+    "option_c": "tuyến tính nghịch biến giữa giá cả và lượng yêu cầu",
+    "option_d": "tuyến tính nghịch biến giữa thất nghiệp và lạm phát",
+    "answer": "D",
+    "id": "high_school_macroeconomics/dev/1"
+  },
+  {
+    "instruction": "SHA-1 có bản tóm lược thông điệp độ dài",
+    "option_a": "160 bit",
+    "option_b": "512 bit",
+    "option_c": "628 bit",
+    "option_d": "820 bit",
+    "answer": "A",
+    "id": "computer_security/dev/0"
+  },
+  {
+    "instruction": "Sản phẩm chính của quá trình quang hợp là gì?",
+    "option_a": "hydro (hiđro)",
+    "option_b": "nylon (nilon)",
+    "option_c": "oxygen (ôxi)",
+    "option_d": "light (ánh sáng)",
+    "answer": "C",
+    "id": "miscellaneous/dev/3"
+  },
+  {
+    "instruction": "Một đột biến trong một enzym vi khuẩn đã thay đổi một axit amin cực thành một axit amin không cực. Axit amin này nằm ở một vị trí xa khỏi trung tâm hoạt động của enzym. Đột biến này làm thay đổi đặc tính chọn substrat của enzym thế nào?",
+    "option_a": "Bằng cách thay đổi giá trị pH tối ưu của enzym",
+    "option_b": "Bằng cách thay đổi vị trí của enzym trong tế bào",
+    "option_c": "Bằng cách thay đổi hình dạng của protein",
+    "option_d": "Một sự thay đổi về axit amin ở ngoài trung tâm hoạt động không thể thay đổi đặc tính chọn substrat của enzym.",
+    "answer": "C",
+    "id": "high_school_biology/dev/1"
+  },
+  {
+    "instruction": "Câu nào sau đây là đúng (theo kiến thức năm 2020)?\n",
+    "option_a": "Người tiêu dùng mắc phenylketonuria phải tránh việc sử dụng chất làm ngọt aspartame",
+    "option_b": "Người tiêu dùng mắc phenylketonuria phải tránh việc sử dụng chất làm ngọt saccharin",
+    "option_c": "Người tiêu dùng mắc phenylketonuria phải tránh việc sử dụng chất làm ngọt sucralose",
+    "option_d": "Người tiêu dùng mắc phenylketonuria phải tránh việc sử dụng chất làm ngọt acesulfame K",
+    "answer": "A",
+    "id": "nutrition/dev/1"
+  },
+  {
+    "instruction": "Kết quả đầu ra của \"abc\"[::-1] trong Python 3 là gì?",
+    "option_a": "Lỗi",
+    "option_b": "abc",
+    "option_c": "cba",
+    "option_d": "c",
+    "answer": "C",
+    "id": "high_school_computer_science/dev/2"
+  },
+  {
+    "instruction": "Trong việc xây dựng một phương trình hồi quy tuyến tính đa biến để dự đoán, sự kết hợp tối ưu của các chỉ số là khi các biến dự báo",
+    "option_a": "không tương quan với nhau nhưng lại có mối tương quan trung bình với chỉ số đánh giá",
+    "option_b": "có mối tương quan thấp với nhau và thấp với chỉ số đánh giá",
+    "option_c": "có mối tương quan cao với nhau và mối tương quan trung bình với chỉ số đánh giá",
+    "option_d": "có mối tương quan thấp với chỉ số đánh giá nhưng lại có mối tương quan trung bình với nhau",
+    "answer": "A",
+    "id": "professional_psychology/dev/4"
+  },
+  {
+    "instruction": "Theo Metz, những lập luận doanh consequent chống lại án tử hình dựa trên giá trị châu Phi có vấn đề gì?",
+    "option_a": "Vẫn chưa rõ liệu án tử hình có ngăn ngừa sự tổn hại cho cộng đồng hay không.",
+    "option_b": "Vẫn chưa rõ liệu án tử hình có ngăn ngừa sự tổn hại cho bất kỳ cá nhân nào hay không.",
+    "option_c": "Hậu quả chủ nghĩa không được ủng hộ bởi các giá trị châu Phi.",
+    "option_d": "Mặc dù hậu quả chủ nghĩa được ủng hộ bởi các giá trị châu Phi, nhưng chưa có bất kỳ lập luận doanh nào được đưa ra theo cách định dạng giá trị châu Phi.",
+    "answer": "A",
+    "id": "moral_disputes/dev/0"
+  },
+  {
+    "instruction": "Nguồn gốc sinh lý học của xương Hyoid là gì?",
+    "option_a": "Cấu trúc cầu pharynx đầu tiên",
+    "option_b": "Cấu trúc cầu pharynx đầu tiên và thứ hai",
+    "option_c": "Cấu trúc cầu pharynx thứ hai",
+    "option_d": "Cấu trúc cầu pharynx thứ hai và thứ ba",
+    "answer": "D",
+    "id": "anatomy/dev/0"
+  },
+  {
+    "instruction": "Tác dụng phụ được mong đợi của việc bổ sung creatine là:",
+    "option_a": "Suy yếu cơ bắp.",
+    "option_b": "Tăng trọng lượng cơ thể.",
+    "option_c": "Co cứng cơ bắp.",
+    "option_d": "Mất điện giải.",
+    "answer": "B",
+    "id": "college_medicine/dev/4"
+  },
+  {
+    "instruction": "Phát biểu 1 | Mọi hàm từ một tập hữu hạn tới chính nó đều phải là một một. Phát biểu 2 | Mọi nhóm con của một nhóm abelian đều phải là abelian.",
+    "option_a": "Đúng, Đúng",
+    "option_b": "Sai, Sai",
+    "option_c": "Đúng, Sai",
+    "option_d": "Sai, Đúng",
+    "answer": "A",
+    "id": "abstract_algebra/dev/3"
+  },
+  {
+    "instruction": "Hãy để V là tập hợp của tất cả các đa thức đều p(x). Hãy định nghĩa biến đổi T, S trên V bằng T: p(x) -> xp(x) và S: p(x) -> p'(x) = d / dx p(x), và hiểu (ST)(p(x)) như S(T(p(x))). Câu nào sau đây là đúng?",
+    "option_a": "ST = 0",
+    "option_b": "ST = T",
+    "option_c": "ST = TS",
+    "option_d": "ST - TS là bản đồ đồng nhất của V với chính nó.",
+    "answer": "D",
+    "id": "college_mathematics/dev/0"
+  },
+  {
+    "instruction": "Theo mô hình tư vấn trung tâm của Caplan, người tư vấn chủ yếu quan tâm đến",
+    "option_a": "xác định nguyên nhân và giải pháp cho các vấn đề hiện tại của khách hàng",
+    "option_b": "xác định và loại bỏ nguyên nhân của khó khăn của người được tư vấn trong việc xử lý một vấn đề",
+    "option_c": "thiết lập một bậc thang quyền lực để tạo điều kiện cho quyết định hiệu quả",
+    "option_d": "trình bày một phương án hành động duy nhất, rõ ràng và không mơ hồ cho người tư vấn để khắc phục điểm yếu về kỹ năng",
+    "answer": "B",
+    "id": "high_school_psychology/dev/1"
+  },
+  {
+    "instruction": "Pence so sánh sáu trường hợp tái sinh sản khác nhau, từ sinh đôi tự nhiên đến SCNT. Ông kết luận gì từ sự so sánh này?",
+    "option_a": "SCNT không phải là một dạng tái sinh sản khác biệt vì không có những khác biệt có tính về đạo đức giữa nó và các phương tiện tái sản khác cho phép.",
+    "option_b": "Bởi vì có rủi ro thấp đối với sinh đôi tự nhiên, rủi ro cũng sẽ thấp đối với SCNT.",
+    "option_c": "cả A và B",
+    "option_d": "không phải A cũng không phải B",
+    "answer": "A",
+    "id": "moral_disputes/dev/3"
+  },
+  {
+    "instruction": "Ngày 1 tháng 1, năm 1, Công ty Alpha ký hợp đồng bảo trì hàng năm với nhà cung cấp phần mềm trị giá 15.000 đô la và thời gian bảo trì bắt đầu vào ngày 1 tháng 3, năm 2. Alpha cũng chịu chi phí 5.000 đô la vào ngày 1 tháng 1, năm 1, liên quan đến các yêu cầu sửa đổi phần mềm sẽ tăng tính năng của phần mềm đó. Alpha khấu hao tài sản máy tính và phần mềm của mình trong vòng năm năm bằng phương pháp đường thẳng. Tổng chi phí nào là số tiền mà Alpha nên công nhận liên quan đến hợp đồng bảo trì và các sửa đổi phần mềm cho năm kết thúc vào ngày 31 tháng 12, năm 1?",
+    "option_a": "5.000 đô la",
+    "option_b": "13.500 đô la",
+    "option_c": "16.000 đô la",
+    "option_d": "20.000 đô la",
+    "answer": "B",
+    "id": "professional_accounting/dev/3"
+  },
+  {
+    "instruction": "Sự chuyển đổi từ 'tôn giáo dân sự' sang 'tôn giáo thông thường' có nghĩa là gì:",
+    "option_a": "sự tăng cường của nền quản trị đã khiến cho tôn giáo trở thành một phần tầm thường chỉ",
+    "option_b": "mặc dù sự yếu đi của các thế lực truyền thống, cuộc sống hàng ngày của chúng ta vẫn bị định hình bởi niềm tin và giá trị tôn giáo",
+    "option_c": "sự tham gia tôn giáo trong nghi thức tập thể có thể đã giảm, nhưng mọi người vẫn thực hành tôn giáo của họ riêng tư",
+    "option_d": "mọi người dễ dàng nói về niềm tin tôn giáo của mình trong các hoạt động công cộng, không chính thức",
+    "answer": "B",
+    "id": "sociology/dev/2"
+  },
+  {
+    "instruction": "Trường hợp nào sau đây đã thành lập tiền lệ rằng bị cáo phải được thông báo về quyền im lặng, quyền được có luật sư và bảo vệ khỏi tự tố tụng?",
+    "option_a": "Weeks v. United States",
+    "option_b": "Betts v. Brady",
+    "option_c": "Mapp v. Ohio",
+    "option_d": "Miranda v. Arizona",
+    "answer": "D",
+    "id": "high_school_government_and_politics/dev/2"
+  },
+  {
+    "instruction": "Giả sử f(1 + x) = f(x) đối với tất cả các số thực x. Nếu f là đa thức và f(5) = 11, thì f(15/2)",
+    "option_a": "-11",
+    "option_b": "0",
+    "option_c": "11",
+    "option_d": "33/2",
+    "answer": "C",
+    "id": "college_mathematics/dev/3"
+  },
+  {
+    "instruction": "Theo d'Holbach, con người luôn hành động theo _____.",
+    "option_a": "những lựa chọn tự do",
+    "option_b": "những sự chỉ đạo của tâm hồn",
+    "option_c": "những quy luật tự nhiên bắt buộc",
+    "option_d": "ý chí không xác định",
+    "answer": "C",
+    "id": "philosophy/dev/2"
+  },
+  {
+    "instruction": "Kết quả tự nhiên khi kết hợp các biến số nhóm dân cư và địa lý là _____________.",
+    "option_a": "Địa lý nhóm dân cư",
+    "option_b": "Phân biệt sản phẩm.",
+    "option_c": "Ma trận ANSOFF.",
+    "option_d": "Quản lý thương hiệu.",
+    "answer": "A",
+    "id": "marketing/dev/0"
+  },
+  {
+    "instruction": "Câu nào sau đây là một câu phát biểu đúng về tương quan?",
+    "option_a": "Nếu độ dốc của đường hồi quy chính xác là 1, thì tương quan chính xác là 1.",
+    "option_b": "Nếu tương quan bằng 0, thì độ dốc của đường hồi quy không xác định.",
+    "option_c": "Chuyển x và y cho nhau sẽ đổi dấu của tương quan.",
+    "option_d": "Tương quan r bằng độ dốc của đường hồi quy khi các z-score cho biến y được vẽ đối diện với các z-score cho biến x.",
+    "answer": "D",
+    "id": "high_school_statistics/dev/0"
+  },
+  {
+    "instruction": "Khi nào 'sự đồng ý' có thể được coi là tình huống loại trừ tính bất hợp pháp của hành vi của Nhà nước?",
+    "option_a": "Sự đồng ý có thể được coi là tình huống loại trừ tính bất hợp pháp bất cứ khi nào nó được cho",
+    "option_b": "Sự đồng ý không bao giờ có thể được coi là tình huống loại trừ tính bất hợp pháp",
+    "option_c": "Sự đồng ý có thể được coi là tình huống loại trừ tính bất hợp pháp, miễn là sự đồng ý đó hợp lệ và trong phạm vi giới hạn của sự đồng ý được cho",
+    "option_d": "Sự đồng ý luôn có thể được coi là tình huống loại trừ tính bất hợp pháp, bất kể cơ quan nào của Nhà nước đưa ra nó",
+    "answer": "C",
+    "id": "international_law/dev/3"
+  },
+  {
+    "instruction": "Berger (1963) miêu tả điều gì là một phép ẩn dụ cho hiện thực xã hội?",
+    "option_a": "một cuộc diễu hành công bằng ",
+    "option_b": "một rạp xiếc",
+    "option_c": "một rạp múa rối",
+    "option_d": "một vở ballet",
+    "answer": "C",
+    "id": "sociology/dev/1"
+  },
+  {
+    "instruction": "Trong nhóm động vật giáp xác, câu nào sau đây đúng?",
+    "option_a": "Chúng có xương ngoài bằng peptitoglican.",
+    "option_b": "Chúng có hệ tuần hoàn mở với tim nằm ở lưng.",
+    "option_c": "Chúng thuộc một ngành động vật không thành công sinh thái và không khai thác được nguồn dinh dưỡng đa dạng.",
+    "option_d": "Chúng không có chi trên cơ thể.",
+    "answer": "B",
+    "id": "college_biology/dev/0"
+  },
+  {
+    "instruction": "Phát biểu 1 | Nếu aH là một phần tử của một nhóm chỉ số, thì |aH| chia hết cho |a|. Phát biểu 2 | Nếu H và K là các nhóm con của G thì HK là một nhóm con của G.",
+    "option_a": "Đúng, Đúng",
+    "option_b": "Sai, Sai",
+    "option_c": "Đúng, Sai",
+    "option_d": "Sai, Đúng",
+    "answer": "B",
+    "id": "abstract_algebra/dev/1"
+  },
+  {
+    "instruction": "Tại sao không có hành tinh nào nằm ở vùng tảng thiên thạch?",
+    "option_a": "Một hành tinh đã hình thành ở đây nhưng bị phá hủy do va chạm thảm khốc.",
+    "option_b": "Không có đủ vật liệu ở phần này của đám mây bụi mảnh để tạo thành một hành tinh.",
+    "option_c": "Có quá nhiều vật liệu đá để tạo thành một hành tinh khô ráo nhưng không đủ vật liệu khí để tạo thành một hành tinh khí khổng lồ.",
+    "option_d": "Sự đồng tần với Sao Mộc đã ngăn chặn vật liệu từ việc tập trung lại để hình thành một hành tinh.",
+    "answer": "D",
+    "id": "astronomy/dev/3"
+  },
+  {
+    "instruction": "Khái niệm hacking đạo đức là gì?",
+    "option_a": "\"Hack\" đạo đức sao cho chúng giải thích hành vi ích kỷ không đúng ý đồ.",
+    "option_b": "Thâm nhập vào các hệ thống (ví dụ trong kiểm thử xâm nhập) để phát hiện lỗ hổng để giải quyết, thay vì khai thác chúng.",
+    "option_c": "Tấn công vào các hệ thống của những người có đạo đức mà bạn không đồng tình.",
+    "option_d": "Thuật ngữ lóng cho việc phát triển phần mềm nhanh, ví dụ như trong các cuộc thi Hackathon.",
+    "answer": "B",
+    "id": "computer_security/dev/2"
+  },
+  {
+    "instruction": "Trong các tế bào động vật, con đường nào dưới đây đại diện cho con đường phát tiết của một protein khi nó được tổng hợp trong tế bào?",
+    "option_a": "Màng plasmátân-bộ phận Golgi-ribosome-bồn tiết ra-RET thô",
+    "option_b": "Ribosome-bộ phận Golgi-RET thô-bồn tiết ra-màng plasmátân",
+    "option_c": "Màng plasmátân-bộ phận Golgi-ribosome-bồn tiết ra-RET thô",
+    "option_d": "Ribosome-RET thô-bộ phận Golgi-bồn tiết ra-màng plasmátân",
+    "answer": "D",
+    "id": "high_school_biology/dev/2"
+  },
+  {
+    "instruction": "Một mẫu 0.217 g của HgO (khối lượng phân tử = 217 g) phản ứng với ion iodua dư theo phản ứng được hiển thị ở trên. Điểm tương đương của dung dịch kết quả yêu cầu bao nhiêu mL của HCl 0.10 M để đạt được?",
+    "option_a": "1.0 mL",
+    "option_b": "10 mL",
+    "option_c": "20 mL",
+    "option_d": "50 mL",
+    "answer": "C",
+    "id": "college_chemistry/dev/1"
+  },
+  {
+    "instruction": "Câu nào sau đây là KHÔNG chính xác về các dịch vụ được cung cấp bởi các chính quyền địa phương tại Hoa Kỳ?",
+    "option_a": "Sự trùng lặp nỗ lực xảy ra thường xuyên.",
+    "option_b": "Những vấn đề xã hội của trung tâm thành phố tràn ra các khu vực ngoại ô lân cận.",
+    "option_c": "Sự không hiệu quả trong việc cung cấp dịch vụ xảy ra thường xuyên.",
+    "option_d": "Việc nỗ lực giảm ô nhiễm của một khu phố luôn nhận được sự ủng hộ từ cộng đồng lân cận.",
+    "answer": "D",
+    "id": "high_school_geography/dev/2"
+  },
+  {
+    "instruction": "Danh sách số có n phần tử được đánh chỉ số từ 1 đến n. Thuật toán sau đây nhằm hiển thị số lượng phần tử trong danh sách có giá trị lớn hơn 100. Thuật toán sử dụng các biến đếm và vị trí. Bước 3 và 4 đã bị thiếu.\nBước 1: Đặt giá trị của đếm là 0 và vị trí là 1.\nBước 2: Nếu giá trị của phần tử tại vị trí chỉ số là lớn hơn 100, tăng giá trị của đếm lên 1.\nBước 3: (Bước bị thiếu)\nBước 4: (Bước bị thiếu)\nBước 5: Hiển thị giá trị của đếm.\nCâu nào sau đây có thể được sử dụng để thay thế bước 3 và 4 để thuật toán hoạt động đúng như ý định?",
+    "option_a": "Bước 3: Tăng giá trị của vị trí lên 1.\n Bước 4: Lặp lại bước 2 và 3 cho đến khi giá trị của đếm lớn hơn 100.",
+    "option_b": "Bước 3: Tăng giá trị của vị trí lên 1.\n Bước 4: Lặp lại bước 2 và 3 cho đến khi giá trị của vị trí lớn hơn n.",
+    "option_c": "Bước 3: Lặp lại bước 2 cho đến khi giá trị của đếm lớn hơn 100.\n Bước 4: Tăng giá trị của vị trí lên 1.",
+    "option_d": "Bước 3: Lặp lại bước 2 cho đến khi giá trị của vị trí lớn hơn n.\n Bước 4: Tăng giá trị của đếm lên 1.",
+    "answer": "D",
+    "id": "high_school_computer_science/dev/4"
+  },
+  {
+    "instruction": "Đặc điểm hình thái nào sau đây là của các virus paramyxovirus?",
+    "option_a": "Virus dễ vỡ thường được quan sát được với RNA phun ra từ bên trong",
+    "option_b": "Virus dài",
+    "option_c": "Virus icosahedral với vỏ bao",
+    "option_d": "Virus rất lớn",
+    "answer": "A",
+    "id": "virology/dev/1"
+  },
+  {
+    "instruction": "Carl Jung tin rằng tâm thế chuyển hóa của khách hàng:",
+    "option_a": "là một ảo tưởng mà làm sao tâm thần bị thất thường khỏi thực tế.",
+    "option_b": "đại diện cho những cảm xúc đan xen đối với nhà tâm lý.",
+    "option_c": "\"là một hình thức của \"\"hành động bộc phát.\"\"\"",
+    "option_d": "phản ánh tiềm thức cá nhân và tập thể của khách hàng.",
+    "answer": "D",
+    "id": "professional_psychology/dev/3"
+  },
+  {
+    "instruction": "____________ là bất cứ điều gì mà công cụ tìm kiếm của bạn không thể tìm thấy được.",
+    "option_a": "Mạng lưới ma ám",
+    "option_b": "World Wide Web",
+    "option_c": "Web bề mặt",
+    "option_d": "Deep Web",
+    "answer": "D",
+    "id": "computer_security/dev/4"
+  },
+  {
+    "instruction": "Câu nào sau đây mô tả cùng tập hợp chuỗi như (describes the same set of strings as) (a* + b)*(c + d)?",
+    "option_a": "a*(c + d)+ b(c + d)",
+    "option_b": "a*(c + d)* + b(c + d)*",
+    "option_c": "a*(c + d)+ b*(c + d)",
+    "option_d": "(a + b)*c +(a + b)*d",
+    "answer": "D",
+    "id": "college_computer_science/dev/0"
+  },
+  {
+    "instruction": "Loại hợp chất nào trong khói thuốc là nguyên nhân gây ung thư?",
+    "option_a": "Nicotine",
+    "option_b": "Tar",
+    "option_c": "Carbon monoxide",
+    "option_d": "Hạt khói",
+    "answer": "B",
+    "id": "human_aging/dev/3"
+  },
+  {
+    "instruction": "Một photocell có chức năng làm việc ϕ = 2eV được kết nối với một điện trở nối tiếp. Ánh sáng có tần số f = 1 × 10^15 Hz chiếu vào một tấm kim loại của photocell. Nếu công suất của ánh sáng là P = 100 W, dòng điện qua điện trở là bao nhiêu?",
+    "option_a": "2 giờ sáng",
+    "option_b": "6 giờ sáng",
+    "option_c": "12 giờ trưa",
+    "option_d": "24 A",
+    "answer": "D",
+    "id": "high_school_physics/dev/2"
+  },
+  {
+    "instruction": "Một cực điểm có độ mạnh là 4π * 10^-4 weber. Lực tác dụng theo đơn vị Nêwton trên một cực điểm có độ mạnh 4π * 1.5 * 10^-4 weber đặt cách nó 10 cm là",
+    "option_a": "15 N.",
+    "option_b": "20 N.",
+    "option_c": "7.5 N.",
+    "option_d": "3.75 N.",
+    "answer": "A",
+    "id": "electrical_engineering/dev/4"
+  },
+  {
+    "instruction": "Tại sao vi rút Parvoviridae là một loại ký sinh trùng gây ảnh hưởng lớn?",
+    "option_a": "Bởi vì chúng không có axit nucleic",
+    "option_b": "Chúng cần một virus trợ giúp",
+    "option_c": "Chỉ nhân bản trong các tế bào đang chia tử",
+    "option_d": "Có thể tích hợp vào các nhiễm sắc thể của chủ nhân",
+    "answer": "A",
+    "id": "virology/dev/0"
+  },
+  {
+    "instruction": "Dân số của thành phố nơi Michelle sinh ra là 145.826. Giá trị của chữ số 5 trong số 145.826 là bao nhiêu?",
+    "option_a": "5 nghìn",
+    "option_b": "5 trăm",
+    "option_c": "5 mươi",
+    "option_d": "5 đơn vị",
+    "answer": "A",
+    "id": "elementary_mathematics/dev/0"
+  },
+  {
+    "instruction": "Làm sao để một quốc gia thể hiện sự đồng ý bị ràng buộc?",
+    "option_a": "Sự đồng ý của một quốc gia để bị ràng buộc chỉ được thể hiện qua việc phê chuẩn.",
+    "option_b": "Sự đồng ý của một quốc gia để bị ràng buộc bởi hiệp định có thể được thể hiện thông qua chữ ký, phê chuẩn, chấp thuận, thông qua hay gia nhập",
+    "option_c": "Sự đồng ý của một quốc gia để bị ràng buộc được thể hiện bằng chữ ký",
+    "option_d": "Sự đồng ý của một quốc gia để bị ràng buộc được thể hiện bằng bất kỳ phương tiện nào mà họ lựa chọn",
+    "answer": "B",
+    "id": "international_law/dev/4"
+  },
+  {
+    "instruction": "Xem xét một thiết kế máy tính trong đó nhiều bộ xử lý, mỗi bộ đều có bộ nhớ cache riêng, chia sẻ bộ nhớ toàn cầu bằng cách sử dụng một bus duy nhất. Bus này là tài nguyên hệ thống quan trọng. Mỗi bộ xử lý có thể thực hiện một lệnh mỗi 500 nanosecond miễn là các tham chiếu bộ nhớ được đáp ứng bởi cache cục bộ của nó. Khi một cache miss xảy ra, bộ xử lý bị chậm lại thêm 2.000 nanosecond. Trong suốt nửa thời gian chậm lại bổ sung này, bus được dành cho phục vụ lỗi cache. Trong nửa còn lại, bộ xử lý không thể tiếp tục, nhưng bus được sử dụng miễn phí để phục vụ yêu cầu từ những bộ xử lý khác. Trung bình, mỗi lệnh yêu cầu 2 tham chiếu bộ nhớ. Trung bình, lỗi cache xảy ra trên 1% các tham chiếu. Tỉ lệ bao nhiêu phần trăm dung lượng của bus mà một bộ xử lý đơn lẻ sử dụng, bỏ qua đợi do sự cạnh tranh từ các bộ xử lý khác?",
+    "option_a": "1/50",
+    "option_b": "1/27",
+    "option_c": "1/25",
+    "option_d": "2/27",
+    "answer": "B",
+    "id": "college_computer_science/dev/4"
+  },
+  {
+    "instruction": "Olivia đã sử dụng quy tắc \"Thêm 11\" để tạo ra mẫu số sau. 10, 21, 32, 43, 54 Thành phần nào dưới đây về mẫu số là đúng?",
+    "option_a": "Thành phần thứ 10 của mẫu số sẽ là một số chẵn.",
+    "option_b": "Mẫu số sẽ không bao giờ có hai số chẵn kề nhau.",
+    "option_c": "Hai thành phần tiếp theo trong mẫu số sẽ lần lượt là số chẵn sau đó là số lẻ.",
+    "option_d": "Nếu mẫu số bắt đầu với một số lẻ thì mẫu số sẽ chỉ chứa các số lẻ.",
+    "answer": "B",
+    "id": "elementary_mathematics/dev/1"
+  },
+  {
+    "instruction": "Câu hỏi này liên quan đến thông tin sau đây. \n\"Khi hành động của chúng tôi tại Conestoga Manor và Lancaster gợi ra rất nhiều suy đoán và đa dạng ý kiến trong các chính phủ này và các chính phủ láng giềng; một vài đang bào chữa và khác chỉ trích nó; một vài đang hiền từ giảm nhẹ tội lỗi và khác lại sơn mói nó bằng những màu sắc vô cùng đáng ghét, chúng tôi nghĩ đó là nghĩa vụ của chúng tôi để công bố cho công chúng, tất cả mọi việc như chúng tôi đã thấy, và vẫn thấy đến bây giờ. . . .\n\"Nếu những điều này không đủ để chứng tỏ mối liên kết vô lý trong số những người Quakers với bộ lạc Indian Savages, một quyết tâm cố định để giúp họ và một sự vô cảm hoàn toàn với nỗi khổ của con người, hãy xem xét một vài sự kiện gần đây hơn nữa. Khi chúng tôi phát hiện mùa hè năm ngoái rằng chúng tôi không có sự trợ giúp nào từ chính phủ, một vài tình nguyện viên đã ra đi theo chi phí của chúng tôi, quyết tâm đẩy kẻ thù của chúng tôi ra khỏi biên giới; và khi chúng tôi đến gần hòn đảo lớn, chúng tôi hiểu rằng một số chiến binh của họ đã đi ra chống lại biên giới của chúng ta. Trên cơ sở đó, chúng tôi quay lại và chiến đấu với chúng tôi tại Munfey Hill, nơi chúng tôi đã mất một vài người và giết chết một số chiến binh của họ và do đó cứu sống đường biên giới của chúng ta trong một cuộc thám hiểm khác. Nhưng ngay sau khi chúng tôi phá hủy nguồn cung cấp của họ trên hòn đảo lớn và phá huỷ thương mại của họ với những người tốt tại Bethlehem, chính những người Indian này, mà có lý do để nghi ngờ rằng họ đã sát hại bạn bè của chúng tôi ở Quận Northampton, lại được bảo vệ bởi sự ảnh hưởng của một số người Quakers để che giấu chúng khỏi những cuộc phản đối của những người bạn và người thân của những người bị sát hại, và để hỗ trợ họ qua mùa đông\".\n--\"Apology of the Paxton Boys\" (cuốn sách nhỏ), 1764 (Chú ý: \"lời xin lỗi\" trong ngữ cảnh này nên đọc là một giải thích, không phải là một sự thừa nhận tội lỗi hoặc hối hận.)\nNhững quan điểm được thể hiện trong lời giải thích trên phản ánh mâu thuẫn nào trong thời kỳ thuộc địa lịch sử Mỹ?",
+    "option_a": "Sự căng thẳng giữa chính sách của Anh và khát vọng của các thuộc địa Bắc Mỹ.",
+    "option_b": "Sự căng thẳng giữa người da đỏ ủng hộ Pháp và những người có liên quan với Anh.",
+    "option_c": "Sự căng thẳng giữa người Mỹ gốc Phi được giải phóng và các chủ nhà trắng.",
+    "option_d": "Sự căng thẳng giữa người định cư vùng núi phía sau và giới quý tộc trong Mỹ thuộc địa.",
+    "answer": "D",
+    "id": "high_school_us_history/dev/1"
+  },
+  {
+    "instruction": "Biểu thức nào tương đương với 5 x 9?",
+    "option_a": "(5 x 4) x (6 x 5)",
+    "option_b": "(5 x 5) + (5 x 4)",
+    "option_c": "(5 x 5) + (5 x 9)",
+    "option_d": "(5 x 9) x (6 x 9)",
+    "answer": "B",
+    "id": "elementary_mathematics/dev/4"
+  },
+  {
+    "instruction": "Sự không chắc chắn về giới hạn quyền lực tổng thống chủ yếu do",
+    "option_a": "định nghĩa hiến pháp về những quyền lực đó rộng và không cụ thể",
+    "option_b": "hầu hết mọi người đều đồng ý rằng Hiến pháp đặt quá nhiều giới hạn cho quyền lực tổng thống",
+    "option_c": "Tòa Án Tối cao liên tục từ chối ra quyết định trong những vụ kiện liên quan đến quyền lực tổng thống",
+    "option_d": "sửa đổi Hiến pháp đã tăng đáng kể quyền lực tổng thống",
+    "answer": "A",
+    "id": "high_school_government_and_politics/dev/0"
+  },
+  {
+    "instruction": "Trong các vấn đề sau đây đâu không phải là vấn đề liên quan đến thống kê chính thức về các cuộc đình công?",
+    "option_a": "hầu hết các cuộc đình công không được nhà tuyển dụng và truyền thông đại chúng chú ý đến",
+    "option_b": "không phải tất cả các tranh chấp lao động sẽ được báo cáo bởi nhà tuyển dụng",
+    "option_c": "định nghĩa của các cuộc đình công không bao gồm những cuộc đình công với số lao động dưới mười hoặc kéo dài chưa đầy một ngày",
+    "option_d": "rất khó để so sánh các cuộc đình công được đo lường theo các phương pháp khác nhau",
+    "answer": "A",
+    "id": "sociology/dev/4"
+  },
+  {
+    "instruction": "Một phụ nữ biết rằng cô ấy mắc bệnh giang mai và sốt cao sống động nhưng vẫn tiếp tục quan hệ tình dục mà không thông báo cho đối tác của cô ấy về tình trạng của mình, theo thuật ngữ tâm lý phân tích, cô ấy đang có:",
+    "option_a": "một tâm trí mạnh mẽ",
+    "option_b": "một superego yếu",
+    "option_c": "một id yếu",
+    "option_d": "một superego mạnh",
+    "answer": "B",
+    "id": "human_sexuality/dev/1"
+  },
+  {
+    "instruction": "Câu nào sau đây về các bộ phận nội các là SAI?",
+    "option_a": "Chúng được thành lập bởi cơ quan lập pháp.",
+    "option_b": "Các thành viên của chúng thường không có nhiều ảnh hưởng lên các quyết định của Tổng thống.",
+    "option_c": "Chúng không thể được điều hành bởi các nhà lãnh đạo thuộc cùng đảng chính trị với Tổng thống.",
+    "option_d": "Không phải tất cả các cơ quan liên bang đều là các bộ phận nội các.",
+    "answer": "C",
+    "id": "high_school_government_and_politics/dev/3"
+  },
+  {
+    "instruction": "Chọn lựa chọn Tiếng Anh tốt nhất để diễn giải các lập luận trong logic vị từ.\nDm\n(∀x)(Wx ⊃ ~Dx)\n(∀x)Wx ∨ Ag\t/ (∃x)Ax",
+    "option_a": "Marina là một vũ công. Một số kẻ yếu không phải là vũ công. Hoặc mọi thứ đều là kẻ yếu hoặc Georgia chơi bóng chuyền. Vì vậy, có điều gì đó chơi bóng chuyền.",
+    "option_b": "Marina là một vũ công. Không có kẻ yếu nào là vũ công. Mọi thứ đều là kẻ yếu hoặc chơi bóng chuyền. Vì vậy, có điều gì đó chơi bóng chuyền.",
+    "option_c": "Marina là một vũ công. Một số kẻ yếu không phải là vũ công. Mọi thứ đều là kẻ yếu hoặc chơi bóng chuyền. Vì vậy, có điều gì đó chơi bóng chuyền.",
+    "option_d": "Marina là một vũ công. Không có kẻ yếu nào là vũ công. Hoặc mọi thứ đều là kẻ yếu hoặc Georgia chơi bóng chuyền. Vì vậy, có điều gì đó chơi bóng chuyền.",
+    "answer": "D",
+    "id": "formal_logic/dev/2"
+  },
+  {
+    "instruction": "Cuộn dây của một máy đo dòng cảm ứng có 100 vòng, dài 40 mm và rộng 30 mm. Mô-men xoắn điều khiển là 240 * 10-6 N-m ở mức độ đầy. Nếu mật độ dòng từ là 1 Wb/m2 thì phạm vi của máy đo là",
+    "option_a": "1 mA.",
+    "option_b": "2 mA.",
+    "option_c": "3 mA.",
+    "option_d": "4 mA.",
+    "answer": "B",
+    "id": "electrical_engineering/dev/2"
+  },
+  {
+    "instruction": "Máy tính RISC được xây dựng theo phương pháp đường ống này có 8 thanh ghi đa năng R0, R1, . . . , R7 và hỗ trợ các thao tác sau.\nADD Rs1, Rs2, Rd Cộng Rs1 với Rs2 và đặt kết quả vào thanh ghi Rd\nMUL Rs1, Rs2, Rd Nhân Rs1 với Rs2 và đặt kết quả vào thanh ghi Rd\nMột thao tác thường mất một chu kỳ; tuy nhiên, một thao tác sẽ mất hai chu kỳ nếu nó cho ra một kết quả được yêu cầu bởi thao tác ngay sau đó trong chuỗi thao tác. Cho biểu thức AB + ABC + BC, trong đó biến A, B, C nằm trong các thanh ghi R0, R1, R2. Nếu nội dung của ba thanh ghi này không được sửa đổi, thì số chu kỳ đồng hồ tối thiểu cần thiết cho một chuỗi thao tác tính giá trị của AB + ABC + BC là bao nhiêu?",
+    "option_a": "5",
+    "option_b": "6",
+    "option_c": "7",
+    "option_d": "8",
+    "answer": "B",
+    "id": "college_computer_science/dev/1"
+  },
+  {
+    "instruction": "Tại sao sao Hỏa lại màu đỏ?",
+    "option_a": "Bởi vì bề mặt của nó được phủ bởi khoáng chất được oxy hóa nặng (\"rỉ sét\").",
+    "option_b": "Bởi vì khí quyển phân tán nhiều ánh sáng tới bước sóng xanh lam, chỉ truyền tải nhiều ánh sáng màu đỏ.",
+    "option_c": "Bởi vì sao Hỏa được phủ bởi dòng dung nham cổ đại có màu đỏ.",
+    "option_d": "Bởi vì nước chảy trên bề mặt sao Hỏa đã thay đổi khoáng chất bề mặt vài tỷ năm trước.",
+    "answer": "A",
+    "id": "astronomy/dev/4"
+  },
+  {
+    "instruction": "Một nhà báo công chúng nên làm gì nếu cô ấy không biết câu trả lời cho câu hỏi của một phóng viên?",
+    "option_a": "Cung cấp cho phóng viên các thông tin khác mà cô ấy chắc chắn là chính xác.",
+    "option_b": "Nói rằng thông tin đó là 'ngoài cuộc' và sẽ được công bố sau này.",
+    "option_c": "Nói 'Tôi không biết' và hứa sẽ cung cấp thông tin sau.",
+    "option_d": "Nói 'Không bình luận,' thay vì xuất hiện mà không có kiến thức.",
+    "answer": "C",
+    "id": "public_relations/dev/0"
+  },
+  {
+    "instruction": "Mô hình thiết kế Singleton được sử dụng để đảm bảo rằng chỉ có một phiên bản duy nhất của một lớp được khởi tạo. Điều gì sau đây là đúng về mô hình thiết kế này?\nI. Lớp Singleton có một phương thức tạo đối tượng tĩnh để cung cấp phiên bản của nó.\nII. Lớp Singleton có thể là lớp con của một lớp khác.\nIII. Lớp Singleton có một hàm tạo riêng tư.",
+    "option_a": "I only",
+    "option_b": "II only",
+    "option_c": "III only",
+    "option_d": "I, II, và III",
+    "answer": "D",
+    "id": "college_computer_science/dev/2"
+  },
+  {
+    "instruction": "Khác biệt giữa Lý thuyết hiện thực phòng thủ và Lý thuyết hiện thực tấn công trong giải thích hành vi của các nước như thế nào?",
+    "option_a": "Người lý thuyết hiện thực phòng thủ đặt nặng vai trò của các tổ chức quốc tế hơn",
+    "option_b": "Người lý thuyết hiện thực phòng thủ đặt ít nhấn mạnh vào các yếu tố địa lý hơn",
+    "option_c": "Người lý thuyết hiện thực tấn công ưu tiên quốc lợi hơn so với người lý thuyết hiện thực phòng thủ",
+    "option_d": "Người lý thuyết hiện thực phòng thủ tin rằng các quốc gia tập trung vào việc đảm bảo an ninh, trong khi người lý thuyết hiện thực tấn công tin rằng các quốc gia tập trung vào việc tối đa hóa sức mạnh",
+    "answer": "D",
+    "id": "us_foreign_policy/dev/3"
+  },
+  {
+    "instruction": "Kiểm toán viên theo dõi mã số serial trên thiết bị đến một subledger của đơn vị không phát hành hóa đơn. Lời khuyên quản lý nào được hỗ trợ bởi thử nghiệm này?",
+    "option_a": "Giá trị và phân bổ",
+    "option_b": "Toàn vẹn",
+    "option_c": "Quyền và nghĩa vụ",
+    "option_d": "Trình bày và tiết lộ",
+    "answer": "B",
+    "id": "professional_accounting/dev/4"
+  },
+  {
+    "instruction": "Giả sử đường kính đồng tử của mắt bạn là 5 mm và bạn có một kính thiên văn có đường kính khẩu độ là 50 cm. Kính thiên văn sẽ thu thập được ánh sáng nhiều hơn bao nhiêu lần so với mắt của bạn?",
+    "option_a": "10000 lần nhiều hơn",
+    "option_b": "100 lần nhiều hơn",
+    "option_c": "1000 lần nhiều hơn",
+    "option_d": "10 lần nhiều hơn",
+    "answer": "A",
+    "id": "astronomy/dev/2"
+  },
+  {
+    "instruction": "Cấu trúc đồng dạng thường được dùng làm bằng chứng cho quá trình lựa chọn tự nhiên. Tất cả các ví dụ dưới đây đều là ví dụ về cấu trúc đồng dạng TRỪ",
+    "option_a": "cánh chim và cánh dơi",
+    "option_b": "vây cá voi và tay của người",
+    "option_c": "vây giữa của cá heo và vây cá mập",
+    "option_d": "chân trước của côn trùng và chân trước của chó",
+    "answer": "D",
+    "id": "high_school_biology/dev/4"
+  },
+  {
+    "instruction": "Cặp câu nào sau đây đúng cả (tính đến năm 2019)?",
+    "option_a": "Con người thường lạc quan về tương lai của bản thân và tương lai của quốc gia hoặc thế giới.",
+    "option_b": "Con người thường lạc quan về tương lai của bản thân nhưng bi quan về tương lai của quốc gia hoặc thế giới.",
+    "option_c": "Con người thường bi quan về tương lai của bản thân nhưng lạc quan về tương lai của quốc gia hoặc thế giới.",
+    "option_d": "Con người thường bi quan về tương lai của bản thân và tương lai của quốc gia hoặc thế giới.",
+    "answer": "B",
+    "id": "global_facts/dev/0"
+  },
+  {
+    "instruction": "Một bể chứa ban đầu một dung dịch muối gồm 3 gam muối tan trong 100 lít nước. Một dung dịch muối chứa 0.02 gam muối trên mỗi lít nước được phun vào bể với tốc độ 4 lít mỗi phút. Dung dịch phun vào được liên tục trộn với dung dịch muối trong bể và hỗn hợp chảy ra khỏi bể với tốc độ 4 lít mỗi phút. Nếu quá trình trộn lẫn xảy ra ngay lập tức, có bao nhiêu gam muối trong bể sau khi đã trôi qua 100 phút?",
+    "option_a": "2",
+    "option_b": "2 - e^-2",
+    "option_c": "2 + e^-2",
+    "option_d": "2 + e^-4",
+    "answer": "D",
+    "id": "college_mathematics/dev/1"
+  },
+  {
+    "instruction": "Một trong những khách hàng của bạn muốn hỏi ý kiến ​​về chương trình giảm cân tốt. Bạn đã tìm hiểu về các chương trình giảm cân trong cộng đồng và đăng ký tham gia chương trình mà bạn cho là tốt nhất. Chương trình này cung cấp cho khách hàng một khoản thưởng 50 đô la cho mỗi người mới mà họ đưa vào chương trình. Trong các hoàn cảnh này, câu trả lời phù hợp nhất của bạn sẽ là",
+    "option_a": "nói với khách hàng của bạn về những ưu điểm và nhược điểm của mỗi chương trình mà bạn biết, ngoại trừ chương trình mà bạn đã đăng ký tham gia",
+    "option_b": "đề xuất cho khách hàng của bạn tham gia chương trình mà bạn đã đăng ký và giải thích về khoản thưởng 50 đô la mà bạn sẽ nhận được",
+    "option_c": "đề xuất cho khách hàng của bạn tham gia chương trình mà bạn đã đăng ký và đề nghị để khoản thưởng 50 đô la được ghi vào tài khoản của khách hàng",
+    "option_d": "nói với khách hàng của bạn về những ưu điểm và nhược điểm của mỗi chương trình mà bạn biết, nhưng không yêu cầu khoản thưởng 50 đô la nếu khách hàng của bạn đăng ký tham gia chương trình của bạn",
+    "answer": "D",
+    "id": "professional_psychology/dev/0"
+  },
+  {
+    "instruction": "Câu nào sau đây là đúng về mức giá tối thiểu?",
+    "option_a": "Mức giá tối thiểu sẽ dịch đường cầu hỏi sang trái.",
+    "option_b": "Một mức giá tối thiểu hiệu quả sẽ tạo ra thiếu hụt hàng hóa.",
+    "option_c": "Mức giá tối thiểu sẽ dịch đường cung cấp hàng hóa sang phải.",
+    "option_d": "Để là một mức giá tối thiểu hiệu quả, nó phải được đặt trên mức giá cân bằng.",
+    "answer": "D",
+    "id": "high_school_microeconomics/dev/3"
+  },
+  {
+    "instruction": "Câu nào trong các công thức đưa ra của PL là biểu tượng tốt nhất cho câu sau đây?\nCon rùa sống lâu và là những sinh vật hạnh phúc, trừ khi chúng bị thương.",
+    "option_a": "(L • H) ≡ I",
+    "option_b": "(L • H) ∨ I",
+    "option_c": "L • (H ∨ I)",
+    "option_d": "L • (H ⊃ R)",
+    "answer": "B",
+    "id": "formal_logic/dev/4"
+  },
+  {
+    "instruction": "Nghiên cứu về hiện thực trong nghĩa rộng nhất, một cuộc điều tra vào bản chất cơ bản của vũ trụ và những thứ có trong đó, được gọi là _____.",
+    "option_a": "siêu hình học",
+    "option_b": "nguyên lý triết học",
+    "option_c": "vật lý lượng tử",
+    "option_d": "giá trị học",
+    "answer": "A",
+    "id": "philosophy/dev/4"
+  },
+  {
+    "instruction": "Trường phái luật học ________ cho rằng pháp luật dựa trên điều gì là \"chính xác\".",
+    "option_a": "Luật Thiên nhiên",
+    "option_b": "Phân tích",
+    "option_c": "Lịch sử",
+    "option_d": "Xã hội hóa",
+    "answer": "A",
+    "id": "jurisprudence/dev/3"
+  },
+  {
+    "instruction": "Tính đến năm 2019, khoảng bao nhiêu phần trăm người Nga cho rằng việc có các phương tiện truyền thông tự do trong nước là rất quan trọng mà không có sự kiểm duyệt của chính phủ/nhà nước?",
+    "option_a": "38%",
+    "option_b": "53%",
+    "option_c": "68%",
+    "option_d": "83%",
+    "answer": "A",
+    "id": "global_facts/dev/3"
+  },
+  {
+    "instruction": "Trong một tổ chức, nhóm người chịu trách nhiệm quyết định mua hàng được gọi là _______________.",
+    "option_a": "Đơn vị thuê ngoài.",
+    "option_b": "Trung tâm mua sắm.",
+    "option_c": "Đơn vị điều hành chính.",
+    "option_d": "Đơn vị ra quyết định.",
+    "answer": "D",
+    "id": "marketing/dev/1"
+  },
+  {
+    "instruction": "Nếu việc không chú ý sự không đồng nhất phương sai trong một mô hình hồi quy, ước lượng OLS sẽ có hậu quả gì?",
+    "option_a": "Nó sẽ bị sai lệch",
+    "option_b": "Nó sẽ không nhất quán",
+    "option_c": "Nó sẽ không hiệu quả",
+    "option_d": "Tất cả đều đúng (a), (b) và (c).",
+    "answer": "C",
+    "id": "econometrics/dev/3"
+  },
+  {
+    "instruction": "Dấu hiệu của hiệp ước đối với nam giới Do Thái là gì?",
+    "option_a": "Cầu vồng",
+    "option_b": "Khitan",
+    "option_c": "Con trai",
+    "option_d": "Bar mitzvah",
+    "answer": "B",
+    "id": "world_religions/dev/0"
+  },
+  {
+    "instruction": "Nếu ai đó tấn công vào nhân cách của người tranh luận đối lập thay vì đáp lại những lập luận của đối thủ đó, người đầu tiên có thể đã vi phạm điều gì trong các khuyết điểm logic sau?",
+    "option_a": "tu quoque",
+    "option_b": "cười chế nhạo",
+    "option_c": "lập luận chống lại người",
+    "option_d": "ignoratio elenchi",
+    "answer": "C",
+    "id": "logical_fallacies/dev/0"
+  },
+  {
+    "instruction": "Xây dựng bảng chân trị đầy đủ cho các cặp mệnh đề sau. Sau đó, sử dụng bảng chân trị, xác định xem các câu trả lời có tương đương logic hay trái ngược. Nếu không phải, xác định xem chúng có nhất quán hay không nhất quán. Cung cấp lý do cho câu trả lời của bạn.\nE ⊃ (F · E) và ~E · F",
+    "option_a": "Tương đương logic",
+    "option_b": "Trái ngược",
+    "option_c": "Không tương đương logic và trái ngược, nhưng nhất quán",
+    "option_d": "Không nhất quán",
+    "answer": "C",
+    "id": "formal_logic/dev/3"
+  },
+  {
+    "instruction": "Trong các yếu tố sau, yếu tố nào được cho là không liên quan đến quá trình điều khiển phân chia tế bào?",
+    "option_a": "Cyclin",
+    "option_b": "Protein kinase",
+    "option_c": "Điểm giám sát (Checkpoints)",
+    "option_d": "Tế bào sợi tơ (Fibroblast)",
+    "answer": "D",
+    "id": "high_school_biology/dev/3"
+  },
+  {
+    "instruction": "Hãy cho A là một ma trận thực 2x2. Câu nào sau đây phải đúng?\r\nI. Tất cả các phần tử của A^2 đều không âm.\r\nII. Định thức của A^2 là không âm.\r\nIII. Nếu A có hai giá trị riêng phân biệt, thì A^2 có hai giá trị riêng phân biệt.",
+    "option_a": "Chỉ có I",
+    "option_b": "Chỉ có II",
+    "option_c": "Chỉ có III",
+    "option_d": "Chỉ có II và III",
+    "answer": "B",
+    "id": "college_mathematics/dev/2"
+  },
+  {
+    "instruction": "Câu hỏi này liên quan đến thông tin sau đây.\n\"Trong luật mới mà tôi cho rằng bạn sẽ cần phải tạo, tôi mong rằng bạn sẽ Nhớ đến Bà và sẽ rộng lòng và ưu ái hơn với họ hơn là tổ tiên của bạn. Đừng đặt quyền lực không giới hạn như vậy vào tay của Các chồng. Hãy Nhớ rằng tất cả các Nam giới đều sẽ trở thành chủ nhân tàn bạo nếu họ có thể. Nếu không chú ý đặc biệt và tận tâm đến phụ nữ, chúng tôi quyết định kích động một cuộc nổi dậy và sẽ không giữ mình bị ràng buộc bởi bất kỳ luật lệ nào mà chúng tôi không có tiếng nói hoặc đại diện trong đó. \"\nAbigail Adams, trong một lá thư đến John Adams, năm 1776\n\"Luật đặc biệt dành cho phụ nữ đã đặt chúng tôi vào vị trí khác thường nhất. Phụ nữ được trao quyền công dân ở một khu vực - cử tri, thành viên ban giám khảo, đương nhiệm viên - vượt qua một đường giả tưởng, lại trở thành công dân ở khu vực khác. Ở một số tiểu bang, một phụ nữ đã kết hôn có thể sở hữu tài sản và thực hiện giao dịch theo tên của chính mình; Ở một số tiểu bang khác, thu nhập của cô ấy thuộc về chồng cô ấy. Ở một số tiểu bang, một phụ nữ có thể làm chứng chống lại chồng mình, kiện và bị kiện tại tòa án; Ở những nơi khác, cô ấy không có đường thoát ra trong trường hợp xảy ra thiệt hại đối với với người, tài sản hoặc danh dự của cô ấy. Trong trường hợp ly dị do chồng ngoại tình, vợ trong sạch không được coi là có quyền sở hữu con cái hoặc tài sản, trừ khi có lệnh đặc biệt từ tòa án. Nhưng tại không có tiểu bang nào của Liên hiệp quốc mà vợ có quyền sở hữu cơ thể của mình hoặc bất kỳ phần nào của các khoản thu nhập chung của cặp vợ chồng trong suốt cuộc đời chồng cô ấy. Ở một số tiểu bang, phụ nữ có thể vào các trường luật và thực hành trong các tòa án; trong khi ở những nơi khác, họ lại bị cấm. Ở một số trường đại học, các nữ sinh được tận hưởng các lợi ích giáo dục bình đẳng với con trai, trong khi nhiều trường tôn sùng nhất của đất nước lại không chào đón họ, trong khi các con trai của Trung Quốc, Nhật Bản và châu Phi lại được chào đón ở đó. Nhưng các đặc quyền được trao cho các tiểu bang khác nhau chưa được bảo đảm. \"\nSusan B. Anthony, \"Tuyên ngôn quyền của phụ nữ,\" ngày 4 tháng 7 năm 1876\nCác quan điểm được thể hiện trong đoạn văn thứ hai bởi Susan B. Anthony có khả năng ca ngợi",
+    "option_a": "sửa đổi Hiến chương Quyền bình đẳng",
+    "option_b": "quyền bầu cử phổ quát",
+    "option_c": "quyền của các tiểu bang",
+    "option_d": "cấm sản xuất và tiêu thụ",
+    "answer": "B",
+    "id": "high_school_us_history/dev/2"
+  },
+  {
+    "instruction": "Bạn đang đẩy một chiếc xe tải trên một con đường. Việc tăng tốc chiếc xe tải trên sao Hỏa có dễ dàng hơn không? Tại sao? (Giả sử không có ma sát)",
+    "option_a": "Nó sẽ khó hơn vì chiếc xe tải nặng hơn trên sao Hỏa.",
+    "option_b": "Nó sẽ dễ hơn vì chiếc xe tải nhẹ hơn trên sao Hỏa.",
+    "option_c": "Nó sẽ khó hơn vì chiếc xe tải nhẹ hơn trên sao Hỏa.",
+    "option_d": "Việc tăng tốc sẽ không khác gì bất kỳ nơi nào bạn đang ở.",
+    "answer": "D",
+    "id": "astronomy/dev/0"
+  },
+  {
+    "instruction": "Rawls khẳng định vị trí nào ít nhất có khả năng được chọn bởi POP (người trong vị trí ban đầu của xã hội)?",
+    "option_a": "POP sẽ chọn sự bình đẳng nhiều hơn sự tự do.",
+    "option_b": "POP sẽ chọn chiến lược 'tối đa hoá tối thiểu'.",
+    "option_c": "POP sẽ chọn nguyên tắc khác biệt.",
+    "option_d": "POP sẽ từ chối 'hệ thống tự do tự nhiên'.",
+    "answer": "A",
+    "id": "jurisprudence/dev/0"
+  },
+  {
+    "instruction": "Đối với quá trình tự hồi quy tĩnh, các cú sốc sẽ",
+    "option_a": "Dần dần tắt dần",
+    "option_b": "Tồn tại mãi mãi",
+    "option_c": "Tăng một cách mũ nhân",
+    "option_d": "Không bao giờ xảy ra",
+    "answer": "A",
+    "id": "econometrics/dev/0"
+  },
+  {
+    "instruction": "Dư nợ liên bang xảy ra khi",
+    "option_a": "xuất khẩu vượt trội so với nhập khẩu.",
+    "option_b": "nhập khẩu vượt trội so với xuất khẩu.",
+    "option_c": "thu thuế liên bang vượt quá chi tiêu.",
+    "option_d": "chi tiêu liên bang vượt quá nguồn thuế liên bang.",
+    "answer": "D",
+    "id": "high_school_macroeconomics/dev/2"
+  },
+  {
+    "instruction": "Làm sao để miêu tả các cấu trúc tổ chức có phong cách quản lý dân chủ và bao gồm đầy đủ tất cả mọi người?",
+    "option_a": "Thang bậc",
+    "option_b": "Quan liêu",
+    "option_c": "Bằng phẳng",
+    "option_d": "Chức năng",
+    "answer": "C",
+    "id": "management/dev/4"
+  },
+  {
+    "instruction": "Câu hỏi này liên quan đến thông tin sau đây.\nĐoạn trích sau đây được lấy từ một cuốn sách nhỏ.\nBạn hãy công bằng khi nhớ rằng tôi đã luôn hết sức ủng hộ quyền của mỗi người đàn ông đối với ý kiến riêng của mình, dù ý kiến đó có khác với quan điểm của tôi. Người phủ nhận quyền này đối với người khác sẽ làm nô dịch của ý kiến hiện tại của mình, bởi vì họ đã loại bỏ quyền tự thay đổi ý kiến.\nVũ khí đáng sợ nhất chống lại mọi loại lỗi lầm là Lý trí. Tôi chưa từng sử dụng bất cứ thứ gì khác ngoài Lý trí, và tôi tin rằng tôi sẽ không bao giờ làm như vậy.\nTình hình đã xảy ra ở Pháp với việc loại bỏ hoàn toàn toàn bộ trật tự giáo sĩ, và mọi thứ liên quan đến hệ thống tôn giáo bắt buộc và các điều khoản tôn giáo, không chỉ thúc đẩy ý định của tôi mà còn làm cho một công việc kiểu này trở nên cần thiết hơn bao giờ hết, tránh mất đi đạo đức, nhân tính và tôn giáo đích thực giữa đống đổ nát chung của sự mê tín, các hệ thống chính trị sai lầm và theo thần học sai lầm.\nTôi tin vào một Đức Chúa Trời và không hơn nữa; tôi hy vọng có hạnh phúc ngoài cuộc đời này.\nTôi tin vào sự bình đẳng của con người; và tôi tin rằng nghĩa vụ tôn giáo bao gồm việc thực hiện công lý, yêu thương nhân từ và cố gắng làm cho đồng loại của chúng ta hạnh phúc.\nTôi không tin vào giáo điều được tín đồ của nhà thờ Do Thái, nhà thờ La Mã, nhà thờ Hy Lạp, nhà thờ Thổ Nhĩ Kỳ, nhà thờ Tin Lành, cũng như bất kỳ nhà thờ nào mà tôi biết đến. Tâm trí tôi chính là nhà thờ của tôi.\nTất cả các tổ chức quốc gia của các nhà thờ, cho dù là Do Thái, Kitô giáo hay Thổ Nhĩ Kỳ, đối với tôi chỉ là những phát minh của nhân loại, được lập ra để khiến con người hoảng sợ và nô dịch, và chiếm đoạt quyền lực và lợi nhuận.\nTôi không có ý nghĩa từ tuyên bố này để lên án những người tin vào điều ngược lại; họ có quyền tin điều mình muốn giống như tôi có quyền tin điều tôi muốn.\n- Thomas Paine, The Age of Reason, 1794-1795\nTriết gia Thời đại Khai sáng nào đã thiết kế một hệ thống cân bằng lực lượng cho chính phủ để tránh lạm dụng quyền lực?",
+    "option_a": "Jean Jacques Rousseau",
+    "option_b": "Baron Montesquieu",
+    "option_c": "Mary Wollstonecraft",
+    "option_d": "Adam Smith",
+    "answer": "B",
+    "id": "high_school_european_history/dev/0"
+  },
+  {
+    "instruction": "Trong một thử nghiệm gen của trẻ sơ sinh, phát hiện một bệnh di truyền hiếm có bảo tự liên kết với gen X. Khi xét tới dòng họ của bệnh này, câu nào sau đây là đúng?",
+    "option_a": "Tất cả con cháu trên phía mẹ sẽ mắc bệnh này.",
+    "option_b": "Những nữ sẽ mắc bệnh gấp đôi nam giới trong gia đình này.",
+    "option_c": "Tất cả con gái của một nam giới mắc bệnh sẽ mắc bệnh.",
+    "option_d": "Nam và nữ bị ảnh hưởng sẽ phân bố đều.",
+    "answer": "C",
+    "id": "college_medicine/dev/2"
+  },
+  {
+    "instruction": "Theo kiến thức y tế năm 2020, bạn nên thử can thiệp mạch bao nhiêu lần trước khi nhờ đồng nghiệp đồng cấp giúp đỡ?",
+    "option_a": "4",
+    "option_b": "3",
+    "option_c": "2",
+    "option_d": "1",
+    "answer": "C",
+    "id": "clinical_knowledge/dev/3"
+  },
+  {
+    "instruction": "Trong hai tình huống sau, nhân vật chính (sử dụng I/me/my) đã làm điều gì đó rõ ràng là sai về đạo đức, theo chuẩn đạo đức thông thường ở Hoa Kỳ vào năm 2020? Tình huống 1 | Tôi rất yêu đứa con trai sơ sinh của mình. Tình huống 2 | Cô bé mới sợ ngượng sống ở khu trại, vì vậy tôi mời cả lớp về nhà cô ấy.",
+    "option_a": "Sai, Sai",
+    "option_b": "Sai, Không sai",
+    "option_c": "Không sai, Sai",
+    "option_d": "Không sai, Không sai",
+    "answer": "C",
+    "id": "moral_scenarios/dev/0"
+  },
+  {
+    "instruction": "Câu hỏi phức tạp sai lầm bao gồm",
+    "option_a": "luận điệu rằng một vật phẩm kém hơn chỉ vì nó không làm điều mà không được thiết kế để làm.",
+    "option_b": "bao gồm nhiều hơn một tuyên bố trong đề xuất và đối xử với bằng chứng cho một tuyên bố như là bằng chứng cho tất cả các tuyên bố.",
+    "option_c": "rút ra một kết luận trước khi xem xét bằng chứng, và chỉ xem xét bằng chứng hỗ trợ cho kết luận đó.",
+    "option_d": "đặt một câu hỏi chứa một giả định chưa được chứng minh hoặc nhiều hơn một câu hỏi, do đó khiến cho một câu trả lời đúng hay sai trở nên vô nghĩa.",
+    "answer": "D",
+    "id": "logical_fallacies/dev/1"
+  },
+  {
+    "instruction": "Tại một công viên sẽ có tổng cộng 30 người chơi bóng rổ. Mỗi đội sẽ có chính xác 5 người chơi. Câu nào sau đây giải thích đúng cách để tìm số đội cần thiết?",
+    "option_a": "Cộng 5 vào 30 để tìm 35 đội.",
+    "option_b": "Chia 30 cho 5 để tìm 6 đội.",
+    "option_c": "Nhân 30 và 5 để tìm 150 đội.",
+    "option_d": "Trừ 5 từ 30 để tìm 25 đội.",
+    "answer": "B",
+    "id": "elementary_mathematics/dev/2"
+  },
+  {
+    "instruction": "Hãy cho biết trong các lựa chọn dưới đây, cái nào là ví dụ về việc sử dụng thiết bị trên Internet of Things (IoT)?",
+    "option_a": "Một chiếc xe cảnh báo tài xế rằng nó sắp va chạm vào một vật thể.",
+    "option_b": "Một người đi bộ sử dụng đồng hồ GPS để theo dõi vị trí của mình.",
+    "option_c": "Một tủ lạnh đặt hàng sữa từ dịch vụ giao hàng trực tuyến khi sữa trong tủ lạnh sắp hết.",
+    "option_d": "Một vận động viên sử dụng một chiếc đồng hồ với các cảm biến quang để giám sát nhịp tim của mình.",
+    "answer": "C",
+    "id": "high_school_computer_science/dev/0"
+  },
+  {
+    "instruction": "Câu hỏi này liên quan đến thông tin sau đây.\nNgười ta tin rằng Brahaman bao hàm tất cả các tác phẩm và mong muốn, tất cả các hương thơm và vị giác. Người ta tin rằng ông ta bao trùm toàn bộ vũ trụ và yêu thương mọi thứ trong sự im lặng. Đây là Tâm Linh trong trái tim tôi, đó là Brahaman. Khi tôi vượt qua cuộc sống này, tôi sẽ đến với ông ta và những người tin tưởng và không nghi ngờ sẽ đến với ông ta.\n - Upanishads, Ấn Độ, khoảng 1000 trước Công Nguyên\nNgười nói có khả năng thuộc tôn giáo nào nhất?",
+    "option_a": "Đạo Hindu",
+    "option_b": "Đạo Phật",
+    "option_c": "Đạo Shinto",
+    "option_d": "Đạo Zoroastrian",
+    "answer": "A",
+    "id": "high_school_world_history/dev/0"
+  },
+  {
+    "instruction": "Trong quá trình học cây quyết định, truyền thống, khi chúng ta có một đặc tính đầu vào với giá trị thực, chúng tôi xem xét phân chia nhị phân tùy thuộc vào đặc tính có phía trên hay dưới ngưỡng nào đó. Pat đề xuất thay vì vậy chúng ta nên chỉ có một phân nhánh cho mỗi giá trị riêng biệt của thuộc tính. Từ danh sách bên dưới, hãy chọn vấn đề lớn nhất với đề xuất của Pat:",
+    "option_a": "Nó quá tốn chi phí tính toán.",
+    "option_b": "Nó có thể dẫn đến cây quyết định có điểm số thấp trên tập huấn luyện và tập thử nghiệm.",
+    "option_c": "Nó có thể dẫn đến cây quyết định có điểm số cao trên tập huấn luyện nhưng thấp trên tập thử nghiệm.",
+    "option_d": "Nó có thể dẫn đến cây quyết định có điểm số cao trên tập thử nghiệm nhưng thấp trên tập huấn luyện.",
+    "answer": "C",
+    "id": "machine_learning/dev/4"
+  }
+]

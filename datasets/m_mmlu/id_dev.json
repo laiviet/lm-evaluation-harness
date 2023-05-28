@@ -1,0 +1,2306 @@
+[
+  {
+    "instruction": "Perhatikan model AR(1) berikut dengan gangguan memiliki rata-rata nol dan variansi satu\n\nyt = 0,2 + 0,4 yt-1 + ut\n\n(mean tak bersyarat) dari y adalah",
+    "option_a": "0,2",
+    "option_b": "0,4",
+    "option_c": "0,5",
+    "option_d": "0,33",
+    "answer": "D",
+    "id": "econometrics/dev/1"
+  },
+  {
+    "instruction": "Seorang pria berusia 42 tahun datang ke kantor untuk evaluasi praoperasi sebelum menjalani adrenalectomy yang dijadwalkan dalam 2 minggu. Satu bulan yang lalu, dia menerima perawatan di departemen gawat darurat karena nyeri di bagian pinggang kanannya setelah kecelakaan mobil. Saat itu, tekanan darahnya adalah 160/100 mmHg dan CT scan perut menunjukkan massa adrenal kiri yang tidak disengaja sebesar 10 cm. Hasil penelitian laboratorium, termasuk hitung darah lengkap, konsentrasi elektrolit serum, dan tes fungsi hati, berada dalam rentang referensi. Pasien sejauh ini sehat dan belum pernah diberitahu bahwa dia memiliki tekanan darah tinggi. Dia tidak mengonsumsi obat. Kunjungan tindak lanjut di kantornya 2 minggu yang lalu mengungkapkan hormon normetanephrine dan metanephrine di urin yang tinggi serta konsentrasi aldosteron plasma. Pasien dirujuk ke seorang ahli bedah, yang merekomendasikan adrenalectomy. Hari ini, tanda vitalnya adalah suhu 36,6°C (97,9°F), nadi 100/menit, pernapasan 14/menit, dan tekanan darah 170/95 mmHg. Pemeriksaan fisik tidak menunjukkan temuan yang signifikan. Persiapan praoperasi awal harus mencakup pengobatan dengan yang mana dari yang berikut?",
+    "option_a": "Labetalol",
+    "option_b": "Dosis pemuatan kalium klorida",
+    "option_c": "Nifedipine",
+    "option_d": "Phenoxybenzamine",
+    "answer": "D",
+    "id": "professional_medicine/dev/0"
+  },
+  {
+    "instruction": "Menurut utilitarianisme ideal Moore, tindakan yang benar adalah tindakan yang menghasilkan jumlah paling besar dari:",
+    "option_a": "kenikmatan.",
+    "option_b": "kebahagiaan.",
+    "option_c": "kebaikan.",
+    "option_d": "kebajikan.",
+    "answer": "C",
+    "id": "philosophy/dev/1"
+  },
+  {
+    "instruction": "Pernyataan manakah yang benar mengenai Vatikan pada tahun 2010 saat tuduhan penutupan kasus pelecehan anak muncul?",
+    "option_a": "Terdapat respons media yang terkoordinasi.",
+    "option_b": "Pesan yang konsisten disampaikan.",
+    "option_c": "Kritik dianggap sebagai serangan terhadap Gereja Katolik.",
+    "option_d": "Kredibilitas Vatikan dipertahankan.",
+    "answer": "C",
+    "id": "public_relations/dev/2"
+  },
+  {
+    "instruction": "Anggaplah bahwa sebuah statistik uji memiliki p-value sebesar 0,08. Pernyataan manakah di bawah ini yang benar?\n\n(i) Jika ukuran uji persis 8%, kita akan sama-sama memilih untuk menolak atau tidak menolak hipotesis nol\n\n(ii) Hipotesis nol akan ditolak jika ukuran uji sebesar 10% digunakan\n\n(iii) Hipotesis nol tidak akan ditolak jika ukuran uji sebesar 1% digunakan\n\n(iv) Hipotesis nol akan ditolak jika ukuran uji sebesar 5% digunakan.",
+    "option_a": "(ii) dan (iv) saja",
+    "option_b": "(i) dan (iii) saja",
+    "option_c": "(i), (ii), dan (iii) saja",
+    "option_d": "(i), (ii), (iii), dan (iv)",
+    "answer": "C",
+    "id": "econometrics/dev/2"
+  },
+  {
+    "instruction": "Ketika argumen menyebabkan kebingungan pada saat menggugat karena ketidakmampuan sebenarnya atau dibuat-buat dalam terlibat dalam penggugatan, argumen tersebut mungkin telah melakukan kesalahan dalam argumen",
+    "option_a": "ketidakjujuran",
+    "option_b": "menyentuh emosi",
+    "option_c": "menyerang karakter",
+    "option_d": "kurangnya kemampuan dalam penggugatan",
+    "answer": "D",
+    "id": "logical_fallacies/dev/4"
+  },
+  {
+    "instruction": "Pertanyaan ini mengacu pada informasi berikut.\n\"Keluhan nyata dari pekerja adalah ketidakamanan keberadaannya; ia tidak yakin bahwa ia akan selalu memiliki pekerjaan, ia tidak yakin bahwa ia akan selalu sehat, dan ia memprediksi bahwa suatu saat ia akan menjadi tua dan tidak mampu memulai kerja. Jika ia jatuh miskin, bahkan hanya karena sakit yang berkepanjangan, maka ia benar-benar tidak berdaya, tergantung pada nasibnya sendiri, dan masyarakat saat ini tidak mengakui adanya kewajiban yang nyata terhadapnya di luar bantuan yang biasa diberikan kepada orang miskin, meskipun ia telah bekerja setiap waktu dengan setia dan tekun. Bantuan yang biasa diberikan kepada orang miskin, bagaimanapun, masih banyak memberikan kekurangan, terutama di kota-kota besar, di mana kondisinya jauh lebih buruk daripada di pedesaan.\"\nOtto von Bismarck, 1884\nOtto von Bismarck kemungkinan membuat pidato ini sebagai reaksi terhadap masalah berikut?",
+    "option_a": "Penerimaan sosial tentang kerja anak",
+    "option_b": "Harapan hidup yang menurun di Jerman",
+    "option_c": "Kritik atas tarif perdagangan Jerman",
+    "option_d": "Dampak buruk yang dikaitkan dengan kapitalisme industri",
+    "answer": "D",
+    "id": "high_school_world_history/dev/2"
+  },
+  {
+    "instruction": "Pemerintah Jepang yang mempromosikan jenis kultus nasional berdasarkan kaisar dan hubungannya dengan kami adalah yang mana?",
+    "option_a": "Honen",
+    "option_b": "Tanaka",
+    "option_c": "Tokugawa",
+    "option_d": "Meiji",
+    "answer": "D",
+    "id": "world_religions/dev/3"
+  },
+  {
+    "instruction": "Manakah dari berikut ini lensa terbaik untuk menyelidiki peran anak-anak prajurit?",
+    "option_a": "Anak-anak prajurit adalah korban pertempuran yang membutuhkan pendidikan ulang dan rehabilitasi.",
+    "option_b": "Anak-anak dan ibu mereka bukan subjek aktif dalam perang dan lebih baik dipertimbangkan sebagai subjek dalam ruang pribadi.",
+    "option_c": "Anak-anak seringkali menjadi korban tak bersalah dalam perang dan lebih baik digunakan sebagai tanda perdamaian.",
+    "option_d": "Anak-anak memiliki subjek politik yang terlewatkan ketika mereka dianggap sebagai korban pasif perang.",
+    "answer": "D",
+    "id": "security_studies/dev/1"
+  },
+  {
+    "instruction": "Energi untuk semua bentuk kontraksi otot disediakan oleh:",
+    "option_a": "ATP.",
+    "option_b": "ADP.",
+    "option_c": "fosfokreatin.",
+    "option_d": "fosforilasi oksidatif.",
+    "answer": "A",
+    "id": "clinical_knowledge/dev/0"
+  },
+  {
+    "instruction": "Rasio konsentrasi untuk sebuah monopoli adalah",
+    "option_a": "0",
+    "option_b": "5",
+    "option_c": "10",
+    "option_d": "100",
+    "answer": "D",
+    "id": "high_school_microeconomics/dev/2"
+  },
+  {
+    "instruction": "Dalam populasi tertentu, 1 dari setiap 400 orang memiliki kanker yang disebabkan oleh alel yang sepenuhnya resesif, b. Dengan mengasumsikan bahwa populasi tersebut dalam keseimbangan Hardy-Weinberg, berapa proporsi yang diharapkan dari individu yang membawa alel b tetapi tidak diharapkan mengembangkan kanker?",
+    "option_a": "1/400",
+    "option_b": "19/400",
+    "option_c": "20/400",
+    "option_d": "38/400",
+    "answer": "D",
+    "id": "college_biology/dev/1"
+  },
+  {
+    "instruction": "Ketika orang dewasa tua pindah ke negara bagian baru setelah pensiun, mana di antara yang berikut ini kemungkinan menjadi tujuan yang lebih mungkin?",
+    "option_a": "Texas",
+    "option_b": "California",
+    "option_c": "Hawaii",
+    "option_d": "Vermont",
+    "answer": "A",
+    "id": "human_aging/dev/2"
+  },
+  {
+    "instruction": "Siapakah pemain terpendek yang pernah memenangkan kompetisi slam dunk NBA?",
+    "option_a": "Anthony 'Spud' Webb",
+    "option_b": "Michael 'Air' Jordan",
+    "option_c": "Tyrone 'Muggsy' Bogues",
+    "option_d": "Julius 'Dr J' Erving",
+    "answer": "A",
+    "id": "miscellaneous/dev/2"
+  },
+  {
+    "instruction": "Sebuah larutan mengandung 2,00 mol asam asetat, CH3COOH, dan 1,00 mol kalsium asetat, Ca(CH3COO)2. Larutan ini mampu menahan penambahan sedikit asam kuat atau basa kuat hanya dengan sedikit perubahan pada pH larutan. Jumlah yang lebih besar dari asam kuat atau basa kuat dapat menyebabkan perubahan pH yang signifikan. Berapa mol asam nitrat, HNO3, yang dapat ditambahkan sebelum pH mulai berubah secara signifikan?",
+    "option_a": "0,500 mol",
+    "option_b": "1,00 mol",
+    "option_c": "2,00 mol",
+    "option_d": "3,00 mol",
+    "answer": "C",
+    "id": "high_school_chemistry/dev/4"
+  },
+  {
+    "instruction": "Eksploitasi kerentanan Heartbleed memungkinkan",
+    "option_a": "menimpa kunci-kunci kriptografi dalam memori",
+    "option_b": "jenis injeksi kode",
+    "option_c": "membaca di luar batas buffer",
+    "option_d": "serangan pada format string",
+    "answer": "C",
+    "id": "computer_security/dev/3"
+  },
+  {
+    "instruction": "DNA ligase adalah",
+    "option_a": "enzim yang menggabungkan fragmen pada replikasi DNA normal",
+    "option_b": "enzim asal bakteri yang memotong DNA pada urutan basa tertentu",
+    "option_c": "enzim yang memfasilitasi transkripsi gen tertentu",
+    "option_d": "enzim yang membatasi tingkat nutrisi tertentu",
+    "answer": "A",
+    "id": "medical_genetics/dev/1"
+  },
+  {
+    "instruction": " Istilah 'hegemoni' merujuk pada:",
+    "option_a": "kecenderungan kelas pekerja untuk tidak menyadari kepentingan mereka sendiri",
+    "option_b": "ideologi dominan yang membenarkan kekuasaan ekonomi, politik, dan budaya",
+    "option_c": "sebuah bentuk kesadaran ganda berdasarkan ideologi dan pengalaman sehari-hari",
+    "option_d": "sebuah mode pembayaran yang diberikan untuk topiari yang luar biasa",
+    "answer": "B",
+    "id": "sociology/dev/3"
+  },
+  {
+    "instruction": "Waktu kelangsungan hidup median terhadap AIDS dan kematian ditetapkan dengan mengikuti:",
+    "option_a": "Individu yang terinfeksi HIV Seroprevalent",
+    "option_b": "Seronegatif",
+    "option_c": "Seroconverter",
+    "option_d": "Seronegatif berisiko tinggi",
+    "answer": "C",
+    "id": "virology/dev/4"
+  },
+  {
+    "instruction": "Pertanyaan ini mengacu pada informasi berikut.\n\"Memang, seperti fatwa dari para ulama terkemuka yang berdasarkan pandangan dan tradisi, serta konsensus komunitas Sunni, sepakat bahwa kewajiban kuno dari eksterpasi, eksterminasi, dan pengusiran inovasi jahat harus menjadi tujuan aspirasi kita yang agung, karena \"Semangat keagamaan adalah kemenangan bagi Agama Tuhan Yang Maha Pemurah \"; maka, sesuai dengan kata-kata Nabi (Damai atas dirinya!) \"Siapa pun yang memperkenalkan inovasi jahat ke dalam tatanan kita harus dikeluarkan\" dan \"Siapa pun yang melakukan sesuatu yang menentang tatanan kita harus dikeluarkan,\" tindakan telah menjadi perlu dan mendesak ...\"\nSurat dari Sultan Utsmaniyah Selim I kepada Shah Safawi Ismail I, 1514\nSurat dari Selim I merupakan contoh yang paling jelas dari yang berikut?",
+    "option_a": "Pemeliharaan supremasi militer dengan segala cara",
+    "option_b": "Meningkatnya ketegangan antara sekte keagamaan",
+    "option_c": "Faktor-faktor yang menyebabkan keruntuhan Kesultanan Utsmaniyah",
+    "option_d": "Upaya perdamaian di antara kekaisaran Islam",
+    "answer": "B",
+    "id": "high_school_world_history/dev/3"
+  },
+  {
+    "instruction": "Dibandingkan dengan massa atom uranium yang mengalami fisi, massa gabungan produk setelah fisi adalah",
+    "option_a": "lebih kecil",
+    "option_b": "lebih besar",
+    "option_c": "sama",
+    "option_d": "nol",
+    "answer": "A",
+    "id": "conceptual_physics/dev/0"
+  },
+  {
+    "instruction": "Temukan karakteristik dari ring 2Z.",
+    "option_a": "0",
+    "option_b": "3",
+    "option_c": "12",
+    "option_d": "30",
+    "answer": "A",
+    "id": "abstract_algebra/dev/4"
+  },
+  {
+    "instruction": "Berbeda dengan ________, ________ bertujuan untuk memberi imbalan terhadap perilaku yang menguntungkan oleh perusahaan. Keberhasilan kampanye semacam itu telah ditingkatkan melalui penggunaan ___________, yang memungkinkan kampanye untuk memfasilitasi perusahaan dalam mencapai ________.",
+    "option_a": "Buycotts, Boycotts, teknologi Blockchain, sumbangan amal",
+    "option_b": "Buycotts, Boycotts, teknologi digital, peningkatan penjualan",
+    "option_c": "Boycotts, Buyalls, teknologi Blockchain, sumbangan amal",
+    "option_d": "Boycotts, Buycotts, teknologi digital, peningkatan penjualan",
+    "answer": "D",
+    "id": "business_ethics/dev/4"
+  },
+  {
+    "instruction": "Asumsi manakah yang tercakup dalam hierarki kebutuhan Maslow?",
+    "option_a": "Kebutuhan bergantung pada budaya dan juga kelas sosial.",
+    "option_b": "Kebutuhan tingkat rendah harus setidaknya sebagian terpenuhi sebelum kebutuhan tingkat tinggi dapat mempengaruhi perilaku.",
+    "option_c": "Kebutuhan tidak diprioritaskan atau diatur dalam urutan tertentu.",
+    "option_d": "Kebutuhan yang terpenuhi menjadi motivator, dan kebutuhan baru muncul ketika kebutuhan saat ini tidak terpenuhi.",
+    "answer": "B",
+    "id": "marketing/dev/2"
+  },
+  {
+    "instruction": "Sederhanakan dan tuliskan hasilnya dengan penyebut rasional: $$\\sqrt{\\sqrt[3]{\\sqrt{\\frac{1}{729}}}}$$",
+    "option_a": "\\frac{3\\sqrt{3}}{3}",
+    "option_b": "\\frac{1}{3}",
+    "option_c": "\\sqrt{3}",
+    "option_d": "\\frac{\\sqrt{3}}{3}",
+    "answer": "D",
+    "id": "high_school_mathematics/dev/3"
+  },
+  {
+    "instruction": "Set mana dari berikut yang memiliki standar deviasi terkecil? Yang mana yang terbesar?\nI: {1,2,3}\nII: {-10,10}\nIII: {100}\n",
+    "option_a": "I, II",
+    "option_b": "II, III",
+    "option_c": "III, I",
+    "option_d": "III, II",
+    "answer": "D",
+    "id": "high_school_statistics/dev/4"
+  },
+  {
+    "instruction": "_____________ dapat memodifikasi data pada sistem Anda sehingga sistem Anda tidak berjalan dengan benar atau Anda tidak lagi dapat mengakses data tertentu, atau mungkin bahkan meminta tebusan untuk memberikan akses Anda.",
+    "option_a": "IM - Trojan",
+    "option_b": "Trojan Backdoor",
+    "option_c": "Trojan-Downloader",
+    "option_d": "Trojan Penebusan",
+    "answer": "D",
+    "id": "computer_security/dev/1"
+  },
+  {
+    "instruction": "Iverson Jewelers menulis surat kepada Miller, 'Kami telah menerima jam Rolox yang sangat bagus untuk dijual dengan harga yang sangat menguntungkan.'",
+    "option_a": "Surat tersebut merupakan tawaran untuk dijual",
+    "option_b": "Tawaran yang sah tidak dapat dibuat melalui surat.",
+    "option_c": "Surat tersebut mengandung tawaran yang sah yang akan berakhir dalam waktu yang wajar.",
+    "option_d": "Surat tersebut tidak memiliki salah satu elemen penting dari tawaran.",
+    "answer": "D",
+    "id": "jurisprudence/dev/4"
+  },
+  {
+    "instruction": "Cabang trigeminal nerve mana yang mengandung proses motorik somatik?",
+    "option_a": "Saraf supraorbital",
+    "option_b": "Saraf infraorbital",
+    "option_c": "Saraf mental",
+    "option_d": "Tidak ada dari pilihan di atas",
+    "answer": "D",
+    "id": "anatomy/dev/1"
+  },
+  {
+    "instruction": "Variabel $x$ bervariasi secara langsung dengan kuadrat $y$, dan $y$ bervariasi secara langsung dengan kubus $z$. Jika $x$ sama dengan $-16$ ketika $z$ sama dengan 2, berapakah nilai $x$ ketika $z$ sama dengan $\\frac{1}{2}$?",
+    "option_a": "-1",
+    "option_b": "16",
+    "option_c": "-\\frac{1}{256}",
+    "option_d": "\\frac{1}{16}",
+    "answer": "C",
+    "id": "high_school_mathematics/dev/2"
+  },
+  {
+    "instruction": "Penemuan bahwa orang dewasa cenderung mengingat peristiwa dari masa remaja mereka lebih baik daripada dari periode lain dalam hidup mereka disebut sebagai",
+    "option_a": "Keuntungan masa remaja",
+    "option_b": "Puncak kenangan",
+    "option_c": "Kenangan memorial",
+    "option_d": "Puncak pengambilan data kuadratik",
+    "answer": "B",
+    "id": "human_aging/dev/1"
+  },
+  {
+    "instruction": "Joe bertanggung jawab atas lampu untuk tarian. Lampu merah berkedip setiap dua detik, lampu kuning setiap tiga detik, dan lampu biru setiap lima detik. Jika kita menghitung dari awal hingga akhir tarian, berapa kali selama tarian selama tujuh menit semua lampu menyala pada saat yang sama? (Anggap bahwa ketiga lampu berkedip secara bersamaan pada awal tarian.)",
+    "option_a": "3",
+    "option_b": "15",
+    "option_c": "6",
+    "option_d": "5",
+    "answer": "B",
+    "id": "high_school_mathematics/dev/0"
+  },
+  {
+    "instruction": "Berdasarkan aturan kelarutan, yang mana yang benar di antara berikut ini?",
+    "option_a": "Semua klorida, bromida, dan iodida mudah larut",
+    "option_b": "Semua sulfat mudah larut",
+    "option_c": "Semua hidroksida mudah larut",
+    "option_d": "Semua senyawa yang mengandung amonium mudah larut",
+    "answer": "D",
+    "id": "high_school_chemistry/dev/2"
+  },
+  {
+    "instruction": "Kebijakan yang berkaitan dengan hubungan antara Amerika Serikat dan negara lainnya secara utama dikenal sebagai",
+    "option_a": "kebijakan terorisme.",
+    "option_b": "kebijakan ekonomi.",
+    "option_c": "kebijakan luar negeri.",
+    "option_d": "kebijakan internasional.",
+    "answer": "C",
+    "id": "us_foreign_policy/dev/2"
+  },
+  {
+    "instruction": "Seorang anak memiliki hutang kepada kreditur sebesar $5.000. Ayah dari anak tersebut menghubungi kreditur dan memberitahunya bahwa dia ingin membayar hutang sang anak. Ayah tersebut kemudian menandatangani sebuah dokumen yang menyatakan bahwa ayah tersebut akan membayar hutang sang anak dengan cara membayar $500 setiap bulan selama 10 bulan. Kreditur tidak membuat kesepakatan tertulis atau lisan untuk menunda menggugat sang anak untuk meminta bayaran hutang sebesar $5.000, dan sang ayah tidak meminta penundaan tersebut dengan cara tertulis atau lisan. Selama lima bulan berikutnya, sang ayah membayarkan $500 setiap bulannya dan kreditur menerima pembayaran tersebut sesuai dengan kesepakatan. Selama periode itu, kreditur tidak mengambil tindakan hukum untuk menagih hutang sang anak. Namun, sang ayah kemudian memberitahu kreditur bahwa dia tidak akan membayar hutang tersebut lagi. Manakah argumen yang paling kuat bahwa sang ayah harus bertanggung jawab kepada kreditur sesuai dengan kesepakatan mereka?",
+    "option_a": "Janji sang ayah dan ketergantungan kreditur pada janji tersebut, jika terbukti, menimbulkan klaim yang sah oleh kreditur terhadap ayah tersebut berdasarkan doktrin pembatasan janji.",
+    "option_b": "Karena dapat diprediksi bahwa janji sang ayah akan membuat kreditur menunda mengambil tindakan terhadap sang anak, maka menunda tindakan tersebut, sebagai masalah hukum, menjadi suatu pertimbangan dalam janji sang ayah.",
+    "option_c": "Lima pembayaran ayah kepada kreditur yang berjumlah $2.500 menunjukkan niat serius ayah untuk terikat secara kontraktual, dan tindakan tersebut diakui secara umum sebagai pengganti yang efektif untuk pertimbangan.",
+    "option_d": "Dengan mengambil kewajiban hutang sebelumnya yang dimiliki sang anak kepada kreditur, ayah tersebut menjadi penjamin yang janjinya kepada kreditur dapat dilaksanakan karena termuat dalam bentuk tertulis dan didukung dengan pertimbangan yang memadai.",
+    "answer": "A",
+    "id": "professional_law/dev/4"
+  },
+  {
+    "instruction": "Dalam pasar tenaga kerja yang kompetitif untuk pelukis rumah, yang mana dari yang berikut ini akan meningkatkan permintaan untuk pelukis rumah?",
+    "option_a": "Upah minimum yang efektif diterapkan pada pasar tenaga kerja ini.",
+    "option_b": "Peningkatan harga galon cat.",
+    "option_c": "Peningkatan pembangunan rumah baru.",
+    "option_d": "Peningkatan harga pelukis mekanik asalkan efek output lebih besar dari efek substitusi.",
+    "answer": "C",
+    "id": "high_school_microeconomics/dev/0"
+  },
+  {
+    "instruction": "Praktik mempekerjakan penyedia layanan asing pihak ketiga untuk menjalankan suatu operasi disebut",
+    "option_a": "outsourcing.",
+    "option_b": "offshoring.",
+    "option_c": "maquiladoras.",
+    "option_d": "ketergantungan lokasi.",
+    "answer": "B",
+    "id": "high_school_geography/dev/3"
+  },
+  {
+    "instruction": "Kehadiran struktur homologus pada dua organisme yang berbeda, seperti humerus pada anggota depan manusia dan burung, menunjukkan bahwa",
+    "option_a": "manusia dan burung adalah spesies polifiletik",
+    "option_b": "evolusi manusia dan burung adalah konvergen",
+    "option_c": "manusia dan burung termasuk dalam klad",
+    "option_d": "manusia dan burung berkembang melalui analogi",
+    "answer": "C",
+    "id": "college_biology/dev/2"
+  },
+  {
+    "instruction": "Manakah di antara berikut yang dianggap sebagai anhidrida asam?",
+    "option_a": "HCl",
+    "option_b": "H2SO3",
+    "option_c": "SO2",
+    "option_d": "Al(NO3)3",
+    "answer": "C",
+    "id": "high_school_chemistry/dev/0"
+  },
+  {
+    "instruction": "Manakah dari kondisi berikut yang akan memastikan momentum sudut terjaga? I. Konservasi momentum linear II. Gaya eksternal bersih nol III. Torsi eksternal bersih nol",
+    "option_a": "I dan II saja",
+    "option_b": "I dan III saja",
+    "option_c": "II dan III saja",
+    "option_d": "Hanya III",
+    "answer": "D",
+    "id": "high_school_physics/dev/0"
+  },
+  {
+    "instruction": "Salah satu ujung kawat Nichrome dengan panjang 2L dan luas penampang A dihubungkan dengan salah satu ujung kawat Nichrome lain dengan panjang L dan luas penampang 2A. Jika ujung bebas kawat yang lebih panjang berada pada potensial listrik 8,0 volt, dan ujung bebas kawat yang lebih pendek berada pada potensial listrik 1,0 volt, potensial pada pertemuan kedua kawat paling dekat sama dengan",
+    "option_a": "2,4 V",
+    "option_b": "3,3 V",
+    "option_c": "4,5 V",
+    "option_d": "5,7 V",
+    "answer": "A",
+    "id": "college_physics/dev/2"
+  },
+  {
+    "instruction": "Pernyataan tentang unsur lantanida yang mana yang TIDAK benar?",
+    "option_a": "Keadaan oksidasi yang paling umum untuk unsur lantanida adalah +3.",
+    "option_b": "Kompleks lantanida sering memiliki jumlah koordinasi yang tinggi (> 6).",
+    "option_c": "Semua unsur lantanida bereaksi dengan asam akuatik untuk membebaskan hidrogen.",
+    "option_d": "Jari-jari atom unsur lantanida meningkat melintasi periode dari La ke Lu.",
+    "answer": "D",
+    "id": "college_chemistry/dev/0"
+  },
+  {
+    "instruction": "Gen yang menunjukkan kodominans",
+    "option_a": "memiliki kedua alel diekspresikan secara independen pada heterozigot",
+    "option_b": "memiliki satu alel yang dominan terhadap yang lain",
+    "option_c": "memiliki alel yang terkait erat pada kromosom yang sama",
+    "option_d": "memiliki alel yang diekspresikan pada saat yang sama dalam perkembangan",
+    "answer": "A",
+    "id": "medical_genetics/dev/2"
+  },
+  {
+    "instruction": "Sebuah kompiler menghasilkan kode untuk pernyataan tugas berikut. \nG := (A + B) * C - (D + E) * F \nMesin target memiliki akumulator tunggal dan set instruksi alamat tunggal terdiri dari instruksi yaitu muat (load), simpan (store), tambah (add), kurang (subtract), dan kali (multiply). Untuk operasi aritmatika, operand kiri diambil dari akumulator dan hasilnya muncul di akumulator. Jumlah instruksi terkecil yang mungkin dalam kode yang dihasilkan adalah",
+    "option_a": "5",
+    "option_b": "6",
+    "option_c": "7",
+    "option_d": "9",
+    "answer": "D",
+    "id": "college_computer_science/dev/3"
+  },
+  {
+    "instruction": "Box sebuah organisasi nirlaba tanpa afiliasi pemerintah memiliki transaksi berikut selama tahun ini: Hasil dari penjualan investasi $80000 Pembelian properti, pabrik, dan peralatan $10000 Hasil dari hutang jangka panjang $100000 Kerugian pada penjualan investasi $5000 Berapa jumlah yang harus dilaporkan sebagai arus kas bersih yang disediakan oleh aktivitas pembiayaan dalam laporan arus kas Box?",
+    "option_a": "$70.000",
+    "option_b": "$75.000",
+    "option_c": "$80.000",
+    "option_d": "100000",
+    "answer": "D",
+    "id": "professional_accounting/dev/0"
+  },
+  {
+    "instruction": "Dengan mempertahankan semua yang sama, kebijakan moneter manakah yang akan digunakan untuk meningkatkan ekspor Amerika Serikat?",
+    "option_a": "Meningkatkan tingkat diskon",
+    "option_b": "Meningkatkan rasio cadangan",
+    "option_c": "Membeli surat berharga pemerintah",
+    "option_d": "Menurunkan tarif",
+    "answer": "C",
+    "id": "high_school_macroeconomics/dev/3"
+  },
+  {
+    "instruction": "Raja Agung Mayan Pacal membangun kuil-kuil di kota Palenque untuk:",
+    "option_a": "memuaskan para imam astronom Mayan yang berkuasa.",
+    "option_b": "menunjukkan kemurahan hatinya kepada rakyat jelata, karena mereka diizinkan tinggal di kuil-kuil tersebut.",
+    "option_c": "mengusir musuh, terutama bangsa Spanyol.",
+    "option_d": "melegitimasi kekuasaannya, karena ayahnya bukan raja.",
+    "answer": "D",
+    "id": "prehistory/dev/0"
+  },
+  {
+    "instruction": "Tiga taktik kontras yang dapat dilakukan CSO untuk mencapai tujuannya adalah ________ yang biasanya melibatkan penelitian dan komunikasi, ________, yang mungkin melibatkan serangan fisik pada operasi perusahaan atau ________, sering melibatkan beberapa bentuk _______.",
+    "option_a": "Aksi langsung non-kekerasan, Aksi langsung kekerasan, Tindakan tidak langsung, Boikot",
+    "option_b": "Tindakan tidak langsung, Tindakan instrumental, Aksi langsung non-kekerasan, Kampanye informasi",
+    "option_c": "Tindakan tidak langsung, Aksi langsung kekerasan, Aksi langsung non-kekerasan, Boikot",
+    "option_d": "Aksi langsung non-kekerasan, Tindakan instrumental, Tindakan tidak langsung, Kampanye informasi",
+    "answer": "C",
+    "id": "business_ethics/dev/3"
+  },
+  {
+    "instruction": "Sebuah dadu 6 sisi dilempar sebanyak 15 kali dan hasilnya adalah: sisi 1 keluar 0 kali; sisi 2 keluar 1 kali; sisi 3 keluar 2 kali; sisi 4 keluar 3 kali; sisi 5 keluar 4 kali; sisi 6 keluar 5 kali. Berdasarkan hasil ini, berapakah probabilitas sisi 3 keluar saat menggunakan Add-1 Smoothing?",
+    "option_a": "2.0/15",
+    "option_b": "1.0/7",
+    "option_c": "3.0/16",
+    "option_d": "1.0/5",
+    "answer": "B",
+    "id": "machine_learning/dev/0"
+  },
+  {
+    "instruction": "Fungsi hukum meliputi kecuali yang berikut ini?",
+    "option_a": "maksimalkan kebebasan individu",
+    "option_b": "menyediakan dasar untuk kompromi",
+    "option_c": "menjaga perdamaian",
+    "option_d": "mempromosikan prinsip sistem perekonomian bebas",
+    "answer": "D",
+    "id": "jurisprudence/dev/1"
+  },
+  {
+    "instruction": "Bagaimana Upanishad dapat dicirikan?",
+    "option_a": "Teks ritual",
+    "option_b": "Teks filsafat",
+    "option_c": "Himne",
+    "option_d": "Kisah asal-usul",
+    "answer": "B",
+    "id": "world_religions/dev/4"
+  },
+  {
+    "instruction": "Ani percaya bahwa sikap dan perilakunya memainkan peran sentral dalam apa yang terjadi padanya. Keyakinan seperti itu cenderung berkaitan dengan",
+    "option_a": "superego yang kuat.",
+    "option_b": "self-esteem rendah.",
+    "option_c": "self-efficacy rendah.",
+    "option_d": "kontrol internal.",
+    "answer": "D",
+    "id": "high_school_psychology/dev/0"
+  },
+  {
+    "instruction": "Apa itu hakim ad hoc?",
+    "option_a": "Jika suatu pihak dalam sebuah kasus sengketa di depan ICJ tidak memiliki hakim nasional yang duduk sebagai hakim, maka pihak tersebut berhak mengusulkan seseorang sebagai hakim hanya untuk kasus tersebut, dengan gelar hakim ad hoc",
+    "option_b": "Hakim ad hoc adalah anggota bangku ICJ dengan hak suara mengikat",
+    "option_c": "Hakim ad hoc adalah hakim pengganti apabila seorang hakim dinyatakan diskualifikasi atau meninggal dunia",
+    "option_d": "Hakim ad hoc adalah hakim yang akan selalu diusulkan masing-masing pihak dalam setiap kasus sengketa",
+    "answer": "A",
+    "id": "international_law/dev/1"
+  },
+  {
+    "instruction": "Dari mana kebanyakan komet periode pendek berasal dan bagaimana kita tahu?",
+    "option_a": "Sabuk Kuiper; komet periode pendek cenderung berada di bidang tata surya seperti halnya sabuk Kuiper.",
+    "option_b": "Sabuk Kuiper; komet periode pendek cenderung berasal dari arah acak yang menunjukkan distribusi komet yang berbentuk bola yang disebut sabuk Kuiper.",
+    "option_c": "Sabuk asteroid; komet periode pendek memiliki periode orbit yang mirip dengan asteroid seperti Vesta dan ditemukan dalam bidang tata surya seperti halnya sabuk asteroid.",
+    "option_d": "Awan Oort; Komet periode pendek cenderung berada di bidang tata surya seperti halnya awan Oort.",
+    "answer": "A",
+    "id": "astronomy/dev/1"
+  },
+  {
+    "instruction": "Mulai tahun 2015, sejak tahun 1990 hutan di Eropa telah ____ dan di Afrika dan Amerika telah ____.",
+    "option_a": "bertambah, bertambah",
+    "option_b": "bertambah, berkurang",
+    "option_c": "berkurang, bertambah",
+    "option_d": "berkurang, berkurang",
+    "answer": "B",
+    "id": "global_facts/dev/2"
+  },
+  {
+    "instruction": "Pertanyaan ini merujuk pada informasi berikut.\n\"Setidaknya satu dari masyarakat di seluruh dunia harus meningkatkan produktivitasnya secara luar biasa [untuk mencapai hegemoni global]. Lompatan kuantum itu harus dibuat sebelum berbagai revolusi ilmiah, teknologi, pertanian, dan industri yang digunakan dunia kita setelah lompatan kuantum. Ini hanya dapat dicapai dengan mengeksploitasi ekosistem, sumber daya mineral, dan aset manusia di benua-benua lain di luar tanah-tanah masyarakat yang membuat lompatan tersebut. Eropa Barat melakukan hal itu dengan kebrutalan dan senjata mereka, dan yang lebih penting, dengan keberuntungan geografis dan ekologis.\"\nHak Cipta © 2015 Cambridge University Press.\nAlfred Crosby, sejarawan, Ecological Imperialism, 2004\n\"Lompatan kuantum\" yang disebutkan dalam kutipan paling langsung berkontribusi pada pengembangan berikut pada periode 1450-1750 Masehi?",
+    "option_a": "Kehancuran rute perdagangan melalui keruntuhan struktur negara yang mapan",
+    "option_b": "Peningkatan populasi dunia melalui pasokan makanan yang lebih berlimpah",
+    "option_c": "Penyebaran sistem kepercayaan Tiongkok dan India di seluruh dunia",
+    "option_d": "Peningkatan kerusuhan sosial",
+    "answer": "B",
+    "id": "high_school_world_history/dev/4"
+  },
+  {
+    "instruction": "Kelompok tunggal dalam masyarakat yang paling rentan terhadap pengaruh kelompok referensi adalah:",
+    "option_a": "Konsumen yang lebih tua yang merasa agak tertinggal dari segala sesuatu.",
+    "option_b": "Perempuan yang sudah menikah, banyak di antaranya merasa butuh akan kestabilan dalam hidup mereka.",
+    "option_c": "Imigran baru yang benar-benar ingin menyerap ke dalam budaya baru mereka.",
+    "option_d": "Anak-anak, yang sebagian besar keputusan pembelian mereka didasarkan pada pengaruh dari luar.",
+    "answer": "D",
+    "id": "marketing/dev/3"
+  },
+  {
+    "instruction": "Untuk skenario mana dari dua skenario ini, karakter utama (yang menggunakan saya / aku) melakukan sesuatu yang tindakan tersebut secara jelas melanggar standar moral biasa di AS pada tahun 2020? Skenario 1 | Saya membeli truk pikap lama untuk pekerjaan. Skenario 2 | Saya melihat air terjun yang sangat indah dan melempar batu ke arahnya.",
+    "option_a": "Salah, Salah",
+    "option_b": "Salah, Tidak salah",
+    "option_c": "Tidak salah, Salah",
+    "option_d": "Tidak salah, Tidak salah",
+    "answer": "D",
+    "id": "moral_scenarios/dev/2"
+  },
+  {
+    "instruction": "Sebuah muatan titik, Q = +1 mC, diposisikan pada titik asal. Berapa banyak kerja yang diperlukan untuk memindahkan muatan, Q = +8 µC, dari titik (0, 4 meter) ke titik (3 meter, 0)?",
+    "option_a": "3,5 J",
+    "option_b": "6,0 J",
+    "option_c": "22,5 J",
+    "option_d": "40 J",
+    "answer": "B",
+    "id": "high_school_physics/dev/4"
+  },
+  {
+    "instruction": "Sebuah senyawa baru disintesis dan ditemukan sebagai asam monoprotik dengan massa molar 248 g/mol. Saat 0,0050 mol asam ini dilarutkan dalam 0,500 L air, pH-nya diukur sebesar 3,89. Berapakah pKa dari asam ini?",
+    "option_a": "3,89",
+    "option_b": "7,78",
+    "option_c": "5,78",
+    "option_d": "2,33",
+    "answer": "C",
+    "id": "high_school_chemistry/dev/3"
+  },
+  {
+    "instruction": "Apa Batu Permata Kedua dalam Buddhisme?",
+    "option_a": "Dharma",
+    "option_b": "Sangha",
+    "option_c": "Buddha",
+    "option_d": "Bodhisattva",
+    "answer": "A",
+    "id": "world_religions/dev/1"
+  },
+  {
+    "instruction": "Sebuah teleskop refraksi terdiri dari dua lensa konvergen yang dipisahkan oleh 100 cm. Lensa mata memiliki panjang fokus sebesar 20 cm. Pembesaran sudut teleskop adalah",
+    "option_a": "4",
+    "option_b": "5",
+    "option_c": "6",
+    "option_d": "20",
+    "answer": "A",
+    "id": "college_physics/dev/0"
+  },
+  {
+    "instruction": "Dalam lima dimensi budaya Hofstede (1980), Amerika Serikat menduduki urutan teratas dalam:",
+    "option_a": "individualisme.",
+    "option_b": "individualisme dan jarak kekuasaan.",
+    "option_c": "jarak kekuasaan dan maskulinitas.",
+    "option_d": "menghindari ketidakpastian.",
+    "answer": "A",
+    "id": "professional_psychology/dev/2"
+  },
+  {
+    "instruction": "Sebuah toko menjual 107 warna cat yang berbeda. Mereka memiliki 25 kaleng cat dari setiap warna di gudang. Jumlah kaleng cat yang dimiliki toko dapat ditemukan menggunakan persamaan di bawah ini. 107 × 25. Berapa banyak kaleng cat yang dimiliki toko di gudang?",
+    "option_a": "749",
+    "option_b": "2.675",
+    "option_c": "2.945",
+    "option_d": "4.250",
+    "answer": "B",
+    "id": "elementary_mathematics/dev/3"
+  },
+  {
+    "instruction": "Pesawat model terbang lebih lambat saat terbang menghadap angin dan lebih cepat saat terbang dengan angin dari belakang. Saat diluncurkan tegak lurus dengan arah angin atau bibirik, kecepatannya dibandingkan dengan terbang di udara yang tenang adalah",
+    "option_a": "sama",
+    "option_b": "lebih besar",
+    "option_c": "lebih kecil",
+    "option_d": "baik lebih besar atau lebih kecil tergantung pada kecepatan angin",
+    "answer": "B",
+    "id": "conceptual_physics/dev/3"
+  },
+  {
+    "instruction": "Pertanyaan ini terkait dengan informasi berikut.\nDi Rusia, tidak ada yang berjalan dengan baik, dan [Souvarine] putus asa atas berita yang diterimanya. Para teman lamanya semua beralih menjadi politisi; para Nihilis terkenal yang membuat Eropa gemetar, putra para imam desa, kelas menengah bawah, pedagang, tidak dapat bangkit di atas ide pembebasan nasional, dan tampaknya percaya bahwa dunia akan diselamatkan saat mereka berhasil membunuh diktator mereka&…\n\"Konyol! Mereka tidak akan pernah keluar dari situ dengan konyolnya itu.\"\nKemudian, dengan suara yang semakin rendah, dengan kata-kata yang pahit, dia menjelaskan mimpinya untuk bersaudara. Dia telah menyerahkan pangkatnya dan kekayaannya; dia telah bergaul dengan pekerja, hanya dengan harapan akhirnya melihat dasar masyarakat baru dari pekerjaan bersama. Semua mata uang di sakunya telah lama diberikan kepada anak-anak kecil di permukiman; dia telah sehati dengan para penambang, tersenyum pada kecurigaan mereka, memenangkan hati mereka dengan cara kerjanya yang tenang dan tidak suka berkoar-koar. Tetapi, penggabungan antara mereka tidak terjadi.\nSuara Souvarine berubah, matanya bersinar, dia menatap étienne, langsung menunjuk kepadanya:\n\"Sekarang, tahukah kamu itu? Para pekerja topi di Marseille yang memenangkan hadiah lotre besar sebesar seratus ribu franc langsung pergi dan menginvestasikannya, menyatakan bahwa mereka akan hidup tanpa melakukan apa-apa! Ya, itu adalah ide kamu, semua pekerja Prancis; kamu ingin menggali harta karun untuk memakannya sendiri nanti di sudut yang malas dan egois. Kamu mungkin menjerit sebanyak yang kamu suka terhadap orang kaya, tapi kamu tidak memiliki cukup keberanian untuk memberikan kembali uang yang dihasilkan keberuntungan kepada orang miskin. Kamu tidak akan pernah layak merasakan kebahagiaan selama kamu memiliki sesuatu, dan kebencianmu terhadap kaum borjuis semata-mata berasal dari keinginan marah untuk menjadi borjuis sendiri di tempat mereka.\"\némile Zola, Penulis Prancis, Germinal, 1885\nBagian ini menampilkan keprihatinan langsung untuk kesejahteraan kelas pekerja yang biasanya menjadi bagian dari gerakan apa?",
+    "option_a": "Kapitalis",
+    "option_b": "Ilmiah",
+    "option_c": "Komunis",
+    "option_d": "Eksistensialis",
+    "answer": "C",
+    "id": "high_school_european_history/dev/2"
+  },
+  {
+    "instruction": "Jika pemerintah memberi subsidi kepada produsen dalam pasar yang sangat kompetitif, maka",
+    "option_a": "permintaan produk akan meningkat",
+    "option_b": "permintaan produk akan menurun",
+    "option_c": "surplus konsumen akan meningkat",
+    "option_d": "surplus konsumen akan menurun",
+    "answer": "C",
+    "id": "high_school_microeconomics/dev/1"
+  },
+  {
+    "instruction": "Yang mana di antara item-item berikut yang merupakan contoh dari budaya non-material?",
+    "option_a": "Sabun Dove",
+    "option_b": "Snack bar Dove",
+    "option_c": "Simbol Dove",
+    "option_d": "Seekor merpati (burung)",
+    "answer": "C",
+    "id": "high_school_geography/dev/4"
+  },
+  {
+    "instruction": "Dua penghantar sejajar panjang membawa 100 A. Jika penghantar dipisahkan oleh 20 mm, gaya per meter panjang dari masing-masing penghantar adalah",
+    "option_a": "100 N.",
+    "option_b": "0.1 N.",
+    "option_c": "1 N.",
+    "option_d": "0.01 N.",
+    "answer": "B",
+    "id": "electrical_engineering/dev/3"
+  },
+  {
+    "instruction": "Pilihlah formulasi logika predikat yang terbaik dalam Bahasa Indonesia. George meminjam mesin pemotong rumput milik Hector. (g : George; h : Hector; l : mesin pemotong rumput milik Hector; Bxyx : x meminjam y dari z)",
+    "option_a": "Blgh",
+    "option_b": "Bhlg",
+    "option_c": "Bglh",
+    "option_d": "Bghl",
+    "answer": "C",
+    "id": "formal_logic/dev/1"
+  },
+  {
+    "instruction": "Misalkan A adalah himpunan semua pasangan terurut bilangan bulat (m, n) sedemikian sehingga 7m + 12n = 22. Berapakah bilangan negatif terbesar dalam himpunan B = {m + n : (m, n) \\in A}?",
+    "option_a": "-5",
+    "option_b": "-4",
+    "option_c": "-3",
+    "option_d": "-2",
+    "answer": "B",
+    "id": "college_mathematics/dev/4"
+  },
+  {
+    "instruction": "Berargumen bahwa apa yang benar untuk bagian harus benar untuk keseluruhan adalah kesalahan...",
+    "option_a": "Pembagian",
+    "option_b": "Komposisi",
+    "option_c": "Pengalihan isu",
+    "option_d": "Argumen dari kebodohan",
+    "answer": "B",
+    "id": "logical_fallacies/dev/3"
+  },
+  {
+    "instruction": "Pascale tertarik pada strategi pemrosesan yang digunakan anak-anak untuk mempelajari informasi baru. Psikolog Pascale sebaiknya diklasifikasikan sebagai tipe psikolog apa?",
+    "option_a": "sosiokultural",
+    "option_b": "klinis",
+    "option_c": "kognitif",
+    "option_d": "behavioris",
+    "answer": "C",
+    "id": "high_school_psychology/dev/4"
+  },
+  {
+    "instruction": "Pertanyaan ini mengacu pada informasi berikut.\n\"Masyarakat di setiap negara adalah anugerah, namun pemerintah bahkan pada keadaan terbaiknya hanyalah kejahatan yang perlu; pada keadaan terburuknya adalah kejahatan yang tidak dapat ditoleransi; karena ketika kita menderita atau terpapar pada penderitaan yang sama oleh pemerintah, yang dapat kita harapkan dalam negara tanpa pemerintah, bencana kami diperparah dengan merenungkan bahwa kami memberikan sarana dengan cara yang kami alami. Pemerintah, seperti pakaian, adalah lambang kehilangan kesucian; istana raja dibangun di atas reruntuhan taman surga. Sebab jika dorongan nurani jelas, seragam, dan patuh tanpa kekuatan, manusia tidak akan membutuhkan pembuat hukum lainnya; namun karena itu tidak terjadi, ia mendapati bahwa ia perlu menyerahkan sebagian hartanya untuk memberikan sarana perlindungan yang lain; dan ini dilakukan dengan dorongan bijaksana yang pada setiap kasus menyarankan ia memilih yang terbaik dari dua kejahatan. Oleh karena itu, keamanan adalah desain dan tujuan sejati dari pemerintah, maka setiap bentuk yang muncul paling mungkin untuk menjamin itu kepada kita, dengan pengeluaran yang paling sedikit dan manfaat yang paling besar, lebih disukai daripada yang lain.\"\nThomas Paine, Common Sense, 1776\nMenderita dari \"penderitaan\" yang disebutkan di atas yang paling dikutuk oleh Anti-Federalis era Pasca-Revolutioner?",
+    "option_a": "Respon terorganisir terhadap Pemberontakan Bacon",
+    "option_b": "Respon federal terhadap Pemberontakan Shays",
+    "option_c": "Respon federal terhadap Pemberontakan Whiskey",
+    "option_d": "Respon federal terhadap Pemberontakan Pontiac",
+    "answer": "C",
+    "id": "high_school_us_history/dev/0"
+  },
+  {
+    "instruction": "Tingkat peningkatan alami populasi ditemukan dengan mengurangi",
+    "option_a": "angka kematian kasar dari angka kelahiran kasar.",
+    "option_b": "angka kelahiran kasar dari angka kematian kasar.",
+    "option_c": "waktu penggandaan dari angka kelahiran kasar.",
+    "option_d": "tingkat kesuburan dari angka kematian kasar.",
+    "answer": "A",
+    "id": "high_school_geography/dev/0"
+  },
+  {
+    "instruction": "Bagaimana krisis keuangan 2008 mempengaruhi reputasi internasional Amerika?",
+    "option_a": "Krisis tersebut merusak dukungan terhadap model ekonomi politik dan kapitalisme AS",
+    "option_b": "Krisis tersebut membuat orang geram pada Amerika Serikat karena menggelembungkan krisis",
+    "option_c": "Krisis tersebut meningkatkan dukungan terhadap kepemimpinan global Amerika di bawah Presiden Obama",
+    "option_d": "Krisis tersebut mengurangi penggunaan dolar AS secara global",
+    "answer": "A",
+    "id": "us_foreign_policy/dev/0"
+  },
+  {
+    "instruction": "Elemen apa dari budaya organisasi membentuk jubah kebesaran?",
+    "option_a": "Simbol-simbol",
+    "option_b": "Ritual dan rutinitas",
+    "option_c": "Struktur kekuasaan",
+    "option_d": "Sistem kontrol",
+    "answer": "A",
+    "id": "management/dev/2"
+  },
+  {
+    "instruction": "Mana dari pernyataan berikut ini yang tidak benar?",
+    "option_a": "Glikogen otot dipecah secara enzimatik menjadi glukosa-1-fosfat.",
+    "option_b": "Pelari ketahanan elit memiliki proporsi serat Tipe I yang tinggi di otot kaki mereka.",
+    "option_c": "Glikogen hati penting dalam menjaga konsentrasi glukosa darah.",
+    "option_d": "Insulin meningkatkan penyerapan glukosa oleh semua jaringan dalam tubuh.",
+    "answer": "D",
+    "id": "college_medicine/dev/1"
+  },
+  {
+    "instruction": "Meskipun konten dan kualitasnya dapat dikontrol seperti surat langsung, tingkat respons dari media ini lebih rendah karena kurangnya mekanisme alamat personal. Format media ini dikenal sebagai:",
+    "option_a": "Care lines.",
+    "option_b": "Direct mail.",
+    "option_c": "Inserts.",
+    "option_d": "Door to door.",
+    "answer": "D",
+    "id": "marketing/dev/4"
+  },
+  {
+    "instruction": "Egoisme psikologis adalah:",
+    "option_a": "teori etika tentang bagaimana kita seharusnya berperilaku.",
+    "option_b": "generalisasi tentang cara orang cenderung berperilaku.",
+    "option_c": "klaim tentang sifat manusia dan cara-cara orang mampu berperilaku.",
+    "option_d": "tidak ada dari pilihan di atas.",
+    "answer": "C",
+    "id": "philosophy/dev/0"
+  },
+  {
+    "instruction": "Nama tempat apa yang tercantum dalam judul album live tahun 1979 oleh legenda rock Cheap Trick?",
+    "option_a": "Budapest",
+    "option_b": "Budokan",
+    "option_c": "Bhutan",
+    "option_d": "Britania",
+    "answer": "B",
+    "id": "miscellaneous/dev/1"
+  },
+  {
+    "instruction": "Seorang pelari maraton pria berusia 22 tahun datang ke kantor dengan keluhan sakit tulang rusuk di sisi kanan ketika ia berlari jarak jauh. Pemeriksaan fisik menunjukkan tidak ada masalah dengan jantung dan paru-paru serta disfungsi ekshalasi pada tulang rusuk 4-5 di sebelah kanan. Kelompok otot atau otot manakah yang paling berguna dalam memperbaiki disfungsi ini dengan menggunakan metode langsung?",
+    "option_a": "skalenus anterior",
+    "option_b": "latissimus dorsi",
+    "option_c": "minor pectoralis",
+    "option_d": "quadratus lumborum",
+    "answer": "C",
+    "id": "professional_medicine/dev/4"
+  },
+  {
+    "instruction": "Misalkan sekarang seorang peneliti ingin menggunakan kriteria informasi untuk menentukan panjang lag yang optimal untuk VAR. Terdapat 500 pengamatan untuk VAR bi-variabel, dan nilai determinan matriks varian-kovarian residu adalah 0,0336, 0,0169, 0,0084, dan 0,0062 untuk masing-masing 1, 2, 3, dan 4 lag. Berapa urutan model optimal menurut kriteria informasi Akaike?",
+    "option_a": "1 lag",
+    "option_b": "2 lag",
+    "option_c": "3 lag",
+    "option_d": "4 lag",
+    "answer": "C",
+    "id": "econometrics/dev/4"
+  },
+  {
+    "instruction": "Temukan semua nilai c dalam Z_3 sehingga Z_3[x]/(x^2 + c) adalah lapangan.",
+    "option_a": "0",
+    "option_b": "1",
+    "option_c": "2",
+    "option_d": "3",
+    "answer": "B",
+    "id": "abstract_algebra/dev/0"
+  },
+  {
+    "instruction": "Pertanyaan ini mengacu pada informasi berikut.\n\"Perjuangan melawan neo-kolonialisme tidak bertujuan untuk mengeluarkan modal negara-negara maju dari beroperasi di negara-negara berkembang. Tujuannya adalah untuk mencegah kekuatan keuangan negara-negara maju digunakan sedemikian rupa sehingga memiskinkan negara-negara berkembang.\nNon-alihturan, seperti yang dipraktikkan oleh Ghana dan banyak negara lain, didasarkan pada kerja sama dengan semua Negara baik itu kapitalis, sosialis atau memiliki ekonomi campuran. Oleh karena itu, kebijakan tersebut melibatkan investasi asing dari negara-negara kapitalis, tetapi harus diinvestasikan sesuai dengan rencana nasional yang dibuat oleh pemerintah Negara non-bersekutu dengan kepentingannya sendiri dalam pikiran. Masalahnya bukanlah apa yang diterima investor asing sebagai hasil dari investasinya... Pertanyaannya adalah mengenai kekuasaan. Negara yang terjebak dalam neo-kolonialisme tidak menjadi tuan atas takdirnya sendiri. \"\nKwame Nkrumah, Neo-Colonialism, 1965\nYang mana dari berikut ini memberikan konteks terbaik untuk tulisan Nkrumah?",
+    "option_a": "Revolution Industri",
+    "option_b": "Dekolonisasi",
+    "option_c": "Asosiasi Perdagangan Bebas Regional",
+    "option_d": "Autarki",
+    "answer": "B",
+    "id": "high_school_world_history/dev/1"
+  },
+  {
+    "instruction": "Negara telah baru-baru ini mengesahkan undang-undang yang melarang pembuangan limbah nuklir di dalam negeri. Undang-undang ini tidak bertentangan atau konflik dengan undang-undang federal mana pun. Seorang pengusaha menjalankan perusahaan di negara bagian tersebut yang terlibat dalam pembuangan limbah nuklir. Setelah pengesahan undang-undang negara, pria tersebut, yang belum mengetahui undang-undang baru tersebut, melakukan kontrak dengan banyak perusahaan di luar negara untuk membuang limbah nuklir mereka di negara bagian tersebut. Namun, karena adanya undang-undang baru ini, orang tersebut tidak akan dapat memenuhi kontrak-kontrak tersebut. Anggaplah bahwa orang tersebut punya kedudukan hukum untuk menantang undang-undang negara ini. Apa yang menjadi dasar konstitusional terkuat untuk menantang undang-undang negara yang melarang pembuangan limbah nuklir di dalam negeri?",
+    "option_a": "Pasal perdagangan.",
+    "option_b": "Pasal perlindungan sama pada Amendemen keempat belas.",
+    "option_c": "Pasal hak dan keistimewaan pada Bagian IV Pasal 2.",
+    "option_d": "Pasal kontrak.",
+    "answer": "A",
+    "id": "professional_law/dev/1"
+  },
+  {
+    "instruction": "Banyak browser web memungkinkan pengguna untuk membuka jendela anonim. Selama sesi penjelajahan di jendela anonim, browser tidak merekam riwayat penjelajahan atau daftar file yang didownload. Ketika jendela anonim ditutup, cookie yang dibuat selama sesi akan dihapus. Pernyataan berikut tentang sesi penjelajahan di jendela anonim yang benar adalah?",
+    "option_a": "Kegiatan pengguna yang menjelajah di jendela anonim tidak akan terlihat oleh orang yang memonitor jaringan pengguna, seperti administrator sistem.",
+    "option_b": "Barang yang ditempatkan dalam keranjang belanja toko web untuk pembelian di masa depan selama sesi penjelajahan anonim tidak akan disimpan di komputer pengguna.",
+    "option_c": "Seorang pengguna tidak akan dapat masuk ke email atau akun media sosial selama sesi penjelajahan anonim.",
+    "option_d": "Seorang pengguna yang menjelajah di jendela anonim akan terlindungi dari virus yang diluncurkan dari situs web yang dikunjungi atau file yang didownload.",
+    "answer": "B",
+    "id": "high_school_computer_science/dev/1"
+  },
+  {
+    "instruction": "Apa dua dimensi utama dari Ohio Studies tentang kepemimpinan?",
+    "option_a": "Posisi awal dan posisi akhir",
+    "option_b": "Lingkungan awal dan lingkungan berubah",
+    "option_c": "Struktur organisasi dan pengondisian",
+    "option_d": "Memulai struktur dan pertimbangan",
+    "answer": "D",
+    "id": "management/dev/0"
+  },
+  {
+    "instruction": "Untuk mendapatkan perkiraan kerugian 0/1 yang kurang dari 1 persen dari kerugian 0/1 yang sebenarnya (dengan probabilitas 95 persen), menurut ketidaksetaraan Hoeffding, berapa banyak contoh yang harus ada pada set tes IID?",
+    "option_a": "sekitar 10 contoh",
+    "option_b": "sekitar 100 contoh",
+    "option_c": "antara 100 dan 500 contoh",
+    "option_d": "lebih dari 1000 contoh",
+    "answer": "D",
+    "id": "machine_learning/dev/3"
+  },
+  {
+    "instruction": "Dalam penilaian fungsi tangan, yang mana dari berikut yang benar?",
+    "option_a": "Abduksi ibu jari disuplai oleh akar saraf tulang belakang T2",
+    "option_b": "Oposisi ibu jari oleh opponens pollicis disuplai oleh akar saraf tulang belakang T1",
+    "option_c": "Adduksi jari disuplai oleh saraf median",
+    "option_d": "Abduksi jari dimediasi oleh interossei palmar",
+    "answer": "B",
+    "id": "clinical_knowledge/dev/2"
+  },
+  {
+    "instruction": "Pada tahun 2019, sekitar berapa persen orang Amerika setuju bahwa negara ini dijalankan untuk kepentingan seluruh rakyat?",
+    "option_a": "31%",
+    "option_b": "46%",
+    "option_c": "61%",
+    "option_d": "76%",
+    "answer": "B",
+    "id": "global_facts/dev/1"
+  },
+  {
+    "instruction": "Para peneliti sekarang percaya bahwa penurunan kebudayaan Maya disebabkan terutama oleh:",
+    "option_a": "bencana alam seperti gempa bumi, gunung berapi, atau tsunami.",
+    "option_b": "degradasi ekologis akibat teknik pertanian tebas-dan-bakar.",
+    "option_c": "perang antara negara-negara kota Maya tetangga yang tak berujung.",
+    "option_d": "praktik persilangan yang menyebabkan peningkatan drastis dalam gangguan kongenital.",
+    "answer": "B",
+    "id": "prehistory/dev/2"
+  },
+  {
+    "instruction": "Pada tahun 2017, berapa banyak anak berusia 1 tahun di seluruh dunia yang divaksinasi terhadap beberapa penyakit?",
+    "option_a": "80%",
+    "option_b": "60%",
+    "option_c": "40%",
+    "option_d": "20%",
+    "answer": "A",
+    "id": "global_facts/dev/4"
+  },
+  {
+    "instruction": "Dalam studi kohort, rasio risiko mengembangkan diabetes adalah 0,86 saat membandingkan konsumen teh (terpapar) dengan mereka yang tidak minum teh (tidak terpapar). Pernyataan manakah yang benar (menurut pengetahuan pada 2020)?\n",
+    "option_a": "Peminum teh memiliki risiko lebih rendah untuk mengembangkan diabetes.",
+    "option_b": "Peminum teh memiliki risiko lebih tinggi untuk mengembangkan diabetes.",
+    "option_c": "Berdasarkan informasi yang diberikan, kita tidak dapat mengatakan apakah perbedaan risiko penyakit yang diamati adalah hasil kebetulan.",
+    "option_d": "Rasio risiko mendekati nilai satu, sehingga tidak ada perbedaan risiko penyakit antara kedua kelompok.",
+    "answer": "C",
+    "id": "nutrition/dev/0"
+  },
+  {
+    "instruction": "Elemen mana dari tiga elemen ini memiliki massa per nukleon paling besar?",
+    "option_a": "Hidrogen",
+    "option_b": "Besi",
+    "option_c": "Uranium",
+    "option_d": "Sama pada masing-masing",
+    "answer": "A",
+    "id": "conceptual_physics/dev/4"
+  },
+  {
+    "instruction": "Bagaimana NSC-68 mengubah strategi AS?",
+    "option_a": "Mengglobalisasi penahanan.",
+    "option_b": "Memilitarisasi penahanan.",
+    "option_c": "Menghendaki pengembangan bom hidrogen.",
+    "option_d": "Semua di atas",
+    "answer": "D",
+    "id": "us_foreign_policy/dev/1"
+  },
+  {
+    "instruction": "Penjelasan yang paling mungkin untuk efek pelindung serat makanan terhadap kanker usus besar pada tahun 2020 adalah yang mana?",
+    "option_a": "Asam propionat, yang terbentuk selama fermentasi serat di usus besar, menghambat sintesis asam lemak hati.",
+    "option_b": "Asam butirat, yang terbentuk selama fermentasi serat di usus besar, merangsang \"penyilangan\" gen supresor tumor SLC5A8.",
+    "option_c": "Tidak ada pilihan yang benar",
+    "option_d": "Asam butirat, yang terbentuk selama fermentasi serat di usus besar, merangsang pertahanan antioksidan di usus besar.",
+    "answer": "D",
+    "id": "nutrition/dev/2"
+  },
+  {
+    "instruction": "Saat berenang di laut, Ivan ketakutan melihat bayangan gelap di air bahkan sebelum dia bisa mengidentifikasi apa itu bayangan tersebut. Koneksi sinapsis yang terjadi selama insiden ketakutan ini paling baik dijelaskan oleh yang mana dari berikut ini?",
+    "option_a": "Pesan dikirim dari talamus langsung ke amigdala.",
+    "option_b": "Pesan dikirim dari talamus ke jalur \"apa\" dan \"di mana\".",
+    "option_c": "Pesan dikirim dari sistem saraf parasimpatik ke korteks serebral.",
+    "option_d": "Pesan dikirim dari lobus frontal ke kelenjar pituitari.",
+    "answer": "A",
+    "id": "high_school_psychology/dev/2"
+  },
+  {
+    "instruction": "Augmentasi data gambar mana yang paling umum untuk gambar alami?",
+    "option_a": "pemangkasan acak dan flip horizontal",
+    "option_b": "pemangkasan acak dan flip vertikal",
+    "option_c": "posterisasi",
+    "option_d": "dithering",
+    "answer": "A",
+    "id": "machine_learning/dev/1"
+  },
+  {
+    "instruction": "Proses termodinamika berikut ini manakah yang menyebabkan peningkatan energi internal gas ideal sama dengan panas yang ditambahkan pada gas tersebut?",
+    "option_a": "Suhu konstan",
+    "option_b": "Volume konstan",
+    "option_c": "Tekanan konstan",
+    "option_d": "Adiabatik",
+    "answer": "B",
+    "id": "college_physics/dev/1"
+  },
+  {
+    "instruction": "Dalam hal-hal lain sama, orang mana di antara berikut yang lebih mungkin menunjukkan osteoporosis?",
+    "option_a": "Seorang wanita Amerika Latin tua",
+    "option_b": "Seorang wanita Afrika Amerika tua",
+    "option_c": "Seorang wanita Asia Amerika tua",
+    "option_d": "Seorang wanita Asli Amerika tua",
+    "answer": "C",
+    "id": "human_aging/dev/4"
+  },
+  {
+    "instruction": "Manakah dari berikut ini yang merupakan karakteristik dari oligopoli?",
+    "option_a": "Bebas masuk dan keluar dari pasar",
+    "option_b": "Beberapa produsen besar",
+    "option_c": "Satu produsen barang tanpa substitusi yang dekat",
+    "option_d": "Produk homogen",
+    "answer": "B",
+    "id": "high_school_microeconomics/dev/4"
+  },
+  {
+    "instruction": "Pada oklusi Angle Kelas II Divisi 2 terdapat",
+    "option_a": "kelebihan overbite pada insisivus lateral atas.",
+    "option_b": "overjet negatif pada insisivus sentral atas.",
+    "option_c": "kelebihan overjet pada insisivus lateral atas.",
+    "option_d": "kelebihan overjet pada insisivus sentral atas.",
+    "answer": "C",
+    "id": "anatomy/dev/3"
+  },
+  {
+    "instruction": "Krete merupakan seorang wajib pajak lajang dengan penghasilan yang hanya berasal dari gaji. Pada tanggal 31 Desember, tahun 1, pemberi kerja Krete telah melakukan potongan pajak penghasilan federal sebesar $16.000 dan Krete tidak melakukan pembayaran pajak yang diestimasi. Pada tanggal 15 April, tahun 2, Krete mengajukan permohonan perpanjangan waktu untuk menyampaikan laporan pajak individunya dengan tepat waktu, dan membayar $300 pajak tambahan. Kewajiban pajak Krete pada tahun 1 adalah sebesar $16.500 ketika dia menyampaikan laporan pajaknya tepat waktu pada tanggal 30 April, tahun 2, dan membayar sisa kewajiban pajaknya. Berapa jumlah yang akan dikenakan sanksi karena kurang membayar pajak yang diestimasi?",
+    "option_a": "$0",
+    "option_b": "$500",
+    "option_c": "$1.650",
+    "option_d": "$16.500",
+    "answer": "A",
+    "id": "professional_accounting/dev/2"
+  },
+  {
+    "instruction": "Hal-hal yang setara menurut prinsip kesetaraan adalah",
+    "option_a": "ruang dan waktu.",
+    "option_b": "saudara kembar yang bepergian dan yang tinggal di rumah.",
+    "option_c": "gravitasi dan percepatan.",
+    "option_d": "massa dan energi.",
+    "answer": "C",
+    "id": "conceptual_physics/dev/1"
+  },
+  {
+    "instruction": "Kampanye Bumi Gelap diluncurkan oleh organisasi mana?",
+    "option_a": "Greenpeace",
+    "option_b": "Perserikatan Bangsa-Bangsa (PBB)",
+    "option_c": "Oxfam",
+    "option_d": "World Wildlife Fund",
+    "answer": "D",
+    "id": "public_relations/dev/4"
+  },
+  {
+    "instruction": "Mana yang benar dari yang berikut ini tentang silogisme kategoris yang valid?",
+    "option_a": "Premis minor harus menyangkal antaseden",
+    "option_b": "Premis mayor harus mengafirmasi konsekuen",
+    "option_c": "Term tengah harus digunakan dalam setidaknya satu premis dalam arti universal atau tidak terkualifikasi",
+    "option_d": "Semua jawaban di atas benar",
+    "answer": "C",
+    "id": "logical_fallacies/dev/2"
+  },
+  {
+    "instruction": "Kebijakan fiskal sisi pasokan yang terbaik dijelaskan oleh pilihan yang mana di bawah ini?",
+    "option_a": "Peningkatan pasokan uang",
+    "option_b": "Peningkatan pengeluaran pemerintah",
+    "option_c": "Pengurangan pajak pada riset dan pengembangan teknologi baru",
+    "option_d": "Peningkatan pajak penghasilan rumah tangga",
+    "answer": "C",
+    "id": "high_school_macroeconomics/dev/4"
+  },
+  {
+    "instruction": "Jenis-jenis kekuatan apa yang dilarang oleh Pasal 2 ayat (4) Piagam PBB?",
+    "option_a": "Pasal 2 ayat (4) hanya mencakup kekuatan bersenjata",
+    "option_b": "Pasal 2 ayat (4) mencakup semua jenis kekuatan, termasuk sanksi",
+    "option_c": "Pasal 2 ayat (4) mencakup semua campur tangan dalam urusan dalam negeri negara-negara",
+    "option_d": "Pasal 2 ayat (4) mencakup kekuatan yang ditujukan hanya melawan integritas wilayah negara",
+    "answer": "A",
+    "id": "international_law/dev/0"
+  },
+  {
+    "instruction": "Sebuah smartwatch baru diproduksi di satu bagian pabrik, kemudian diamankan untuk pengiriman di bagian lain yang independen dari pabrik. Berat smartwatch memiliki nilai rata-rata sebesar 62 gram dan standar deviasi sebesar 1.0 gram. Berat kemasan (kotak, panduan pengguna, buble wrap, dll.) memiliki nilai rata-rata sebesar 456 gram dan standar deviasi sebesar 6 gram. Bersama-sama, distribusi berat smartwatch dan kemasannya akan memiliki nilai rata-rata dan standar deviasi sebagai berikut:",
+    "option_a": "Rata-rata 518 gram; standar deviasi 7.0 gram",
+    "option_b": "Rata-rata 518 gram; standar deviasi 3.5 gram",
+    "option_c": "Rata-rata 518 gram; standar deviasi 6.1 gram",
+    "option_d": "Rata-rata 394 gram; standar deviasi 6.1 gram",
+    "answer": "C",
+    "id": "high_school_statistics/dev/3"
+  },
+  {
+    "instruction": "Dalam manajemen isu, pendekatan paling proaktif untuk mengatasi informasi negatif atau menyesatkan yang diposting secara online tentang organisasi Anda adalah?",
+    "option_a": "Membeli nama domain yang dapat digunakan oleh kelompok oposisi.",
+    "option_b": "Mengirim komentar anonim di blog untuk melawan informasi ini.",
+    "option_c": "Menyiapkan siaran pers yang menyangkal informasi yang tidak akurat.",
+    "option_d": "Melakukan perubahan kebijakan untuk menangani keluhan yang diungkapkan di situs-situs tersebut.",
+    "answer": "D",
+    "id": "public_relations/dev/1"
+  },
+  {
+    "instruction": "Sebelum konversi Kristen Tolstoy, bagaimana pandangannya tentang arti hidup?",
+    "option_a": "optimis",
+    "option_b": "puas",
+    "option_c": "agama secara nominal",
+    "option_d": "pessimis",
+    "answer": "D",
+    "id": "philosophy/dev/3"
+  },
+  {
+    "instruction": "Manakah dari berikut ini yang tidak menjadi tujuan kesejahteraan pasca-perang tahun 1948:",
+    "option_a": "pelayanan kesehatan dan pendidikan gratis untuk semua",
+    "option_b": "upah minimum",
+    "option_c": "pekerjaan penuh",
+    "option_d": "kesejahteraan universal",
+    "answer": "B",
+    "id": "sociology/dev/0"
+  },
+  {
+    "instruction": "Sepuluh siswa mengikuti tes biologi dan menerima skor berikut: 45, 55, 50, 70, 65, 80, 40, 90, 70, 85. Berapa rata-rata dari skor tes siswa?",
+    "option_a": "55",
+    "option_b": "60",
+    "option_c": "62",
+    "option_d": "65",
+    "answer": "D",
+    "id": "high_school_mathematics/dev/4"
+  },
+  {
+    "instruction": "Faktor higienis terkait dengan penulis yang mana?",
+    "option_a": "Frederick Hertzberg",
+    "option_b": "D.C. McClelland",
+    "option_c": "Abraham Maslow",
+    "option_d": "Douglas McGregor",
+    "answer": "A",
+    "id": "management/dev/1"
+  },
+  {
+    "instruction": "Pada program di bawah, nilai awal x adalah 5 dan nilai awal y adalah 10.\n JIKA (X < O)\n {\n MENAMPILKAN (\"Foxtrot\")\n }\n LAINNYA\n {\n JIKA (X > y)\n {\n   MENAMPILKAN (\"Hotel\")\n }\n LAINNYA \n {\n   JIKA (y > O)\n   {\n   MENAMPILKAN (\"November\")\n   }\n   LAINNYA\n   {\n   MENAMPILKAN (\"Yankee\")\n   }\n }\n }\n \n Apa yang akan ditampilkan sebagai hasil dari menjalankan program?",
+    "option_a": "Foxtrot",
+    "option_b": "Hotel",
+    "option_c": "November",
+    "option_d": "Yankee",
+    "answer": "C",
+    "id": "high_school_computer_science/dev/3"
+  },
+  {
+    "instruction": "Apakah reservasi terhadap definisi penyiksaan dalam ICCPR dapat diterima dalam praktik kontemporer?",
+    "option_a": "Ini adalah reservasi yang dapat diterima jika legislatif negara yang melakukan reservasi menggunakan definisi yang berbeda",
+    "option_b": "Ini adalah reservasi yang tidak dapat diterima karena bertentangan dengan objek dan tujuan ICCPR",
+    "option_c": "Ini adalah reservasi yang tidak dapat diterima karena definisi penyiksaan dalam ICCPR sesuai dengan hukum internasional kebiasaan",
+    "option_d": "Ini adalah reservasi yang dapat diterima karena dalam hukum internasional umum, negara-negara memiliki hak untuk melakukan reservasi terhadap perjanjian",
+    "answer": "B",
+    "id": "international_law/dev/2"
+  },
+  {
+    "instruction": "Sebuah oven microwave terhubung ke sebuah stopkontak, 120 V, dan mengalirkan arus sebesar 2 ampere. Dengan laju berapa energi digunakan oleh oven microwave tersebut?",
+    "option_a": "10 W",
+    "option_b": "30 W",
+    "option_c": "60 W",
+    "option_d": "240 W",
+    "answer": "D",
+    "id": "high_school_physics/dev/3"
+  },
+  {
+    "instruction": "Baron mengakui bahwa versi hipotesis bom waktu yang dibahasnya \"sangat bodoh,\" tapi dia mengklaim hal tersebut sebenarnya menjadi bukti dari",
+    "option_a": "kebodohan dari sebagian besar contoh filsafat tradisional.",
+    "option_b": "kurangnya kecerdasan umum pada orang dengan gelar tinggi.",
+    "option_c": "ketidakbenaran dari penyiksaan.",
+    "option_d": "kesiapan bagi banyak orang cerdas untuk melihat penyiksaan sebagai solusi terbaik untuk menghadapi terorisme.",
+    "answer": "D",
+    "id": "moral_disputes/dev/4"
+  },
+  {
+    "instruction": "Manakah dari berikut ini yang merupakan kebaikan intrinsik, menurut Singer?",
+    "option_a": "menjadi bagian dari kelas atas",
+    "option_b": "kemampuan untuk belajar dan memecahkan masalah",
+    "option_c": "lebih cantik atau tampan dari kebanyakan orang",
+    "option_d": "lebih pendek dari rata-rata",
+    "answer": "B",
+    "id": "moral_disputes/dev/2"
+  },
+  {
+    "instruction": "Berapa jumlah roda yang dimiliki mobil standar?",
+    "option_a": "satu",
+    "option_b": "dua",
+    "option_c": "empat",
+    "option_d": "delapan",
+    "answer": "B",
+    "id": "miscellaneous/dev/0"
+  },
+  {
+    "instruction": "Glukosa diangkut ke dalam sel otot:",
+    "option_a": "melalui transporter protein yang disebut GLUT4.",
+    "option_b": "hanya dalam keberadaan insulin.",
+    "option_c": "melalui heksokinase.",
+    "option_d": "melalui transporter asam monocarbylic.",
+    "answer": "A",
+    "id": "college_medicine/dev/0"
+  },
+  {
+    "instruction": "3 Cl−(aq) + 4 CrO_4^2−(aq) + 23 H+(aq) → 3 HClO2(aq) + 4 Cr3+(aq) + 10 H2O(l). Dalam reaksi yang ditunjukkan di atas, Cl−(aq) berperilaku sebagai",
+    "option_a": "asam",
+    "option_b": "basa",
+    "option_c": "katalis",
+    "option_d": "agen pereduksi",
+    "answer": "D",
+    "id": "college_chemistry/dev/3"
+  },
+  {
+    "instruction": "Mual di pagi hari biasanya menjadi masalah:",
+    "option_a": "selama trimester pertama",
+    "option_b": "selama trimester kedua",
+    "option_c": "selama trimester ketiga",
+    "option_d": "sepanjang kehamilan",
+    "answer": "A",
+    "id": "human_sexuality/dev/0"
+  },
+  {
+    "instruction": "Prediksi jumlah garis dalam spektrum EPR dari larutan radikal metil yang ditandai 13C (13CH3•), dengan asumsi garis tidak tumpang tindih.",
+    "option_a": "4",
+    "option_b": "3",
+    "option_c": "6",
+    "option_d": "24",
+    "answer": "A",
+    "id": "college_chemistry/dev/2"
+  },
+  {
+    "instruction": "Menurut Timothy Pauketat, bukti adanya stratifikasi sosial dan kekuatan politik di Cahokia menunjukkan:",
+    "option_a": "pusat peradaban Mississippian dengan kondisi yang sama dengan munculnya negara-negara awal.",
+    "option_b": "keterbatasan wewenang dalam masyarakat asli Amerika dari pemburu egaliter.",
+    "option_c": "sebuah cheiftainship sederhana atau mungkin cheiftainship yang kompleks telah berkembang pada tahun 1500 M.",
+    "option_d": "pusat peradaban Mississippian dengan kondisi yang sama dengan masyarakat di Pantai Barat Laut Amerika Utara.",
+    "answer": "A",
+    "id": "prehistory/dev/1"
+  },
+  {
+    "instruction": "Untuk menjadi sekuritisasi, ancaman harus disajikan dengan cara mana dari yang berikut?",
+    "option_a": "Sebagai ancaman eksistensial yang membutuhkan tindakan yang segera dan luar biasa, mengancam kelangsungan hidup negara atau keamanan masyarakat.",
+    "option_b": "Sebagai membutuhkan tindakan segera dan luar biasa oleh negara, mengancam kelangsungan hidup objek referensi dan oleh karena itu membenarkan penggunaan tindakan yang tidak biasa dalam ranah politik.",
+    "option_c": "Sebagai ancaman mendesak terhadap kelangsungan hidup objek referensi, sangat serius sehingga membenarkan penggunaan tindakan luar biasa sebagai tanggapan.",
+    "option_d": "Sebagai ancaman mendesak terhadap kelangsungan hidup audiens yang membutuhkan tindakan darurat atau luar biasa.",
+    "answer": "C",
+    "id": "security_studies/dev/2"
+  },
+  {
+    "instruction": "Selain manfaat bisnis dari terlibat dalam CSR, ada beberapa argument moral yang berkaitan dengan: efek samping negatif, kekuasaan korporasi, dan hubungan saling ketergantungan antara bisnis dan masyarakat.",
+    "option_a": "Efek samping, Kekuasaan, Kemandirian",
+    "option_b": "Publisitas, Sumber daya yang kurang memadai, Ketergantungan bersama",
+    "option_c": "Publisitas, Kekuasaan, Kemandirian",
+    "option_d": "Efek samping, Kekuasaan, Ketergantungan bersama",
+    "answer": "D",
+    "id": "business_ethics/dev/0"
+  },
+  {
+    "instruction": "Seorang wanita sehat berusia 32 tahun datang ke dokter 8 bulan setelah suaminya tewas dalam kecelakaan mobil. Sejak itu, nafsu makannya menurun dan sulit tertidur. Dia mengatakan bahwa sering merasa sedih dan sering menangis. Dia telah memeriksa kunci pintu lima kali sebelum meninggalkan rumahnya dan harus menghitung tepat lima lembar tisu sebelum menggunakannya. Dia mengatakan bahwa selalu menjadi perfeksionis tetapi dorongan dan ritual ini baru. Farmakoterapi harus ditargetkan pada neurotransmitter mana dari berikut?",
+    "option_a": "Dopamin",
+    "option_b": "Glutamat",
+    "option_c": "Norepinefrin",
+    "option_d": "Serotonin",
+    "answer": "D",
+    "id": "professional_medicine/dev/2"
+  },
+  {
+    "instruction": "Pilihlah terjemahan terbaik dalam logika predikat: Tidak ada orang yang mengemudi di Mars.",
+    "option_a": "~Pm",
+    "option_b": "(∀x)(Px ∨ ~Dx)",
+    "option_c": "(∀x)(Px ⊃ ~Dx)",
+    "option_d": "~Dp",
+    "answer": "C",
+    "id": "formal_logic/dev/0"
+  },
+  {
+    "instruction": "Bagaimana Donald Trump menyerang globalisasi dalam kampanye 2016?",
+    "option_a": "Globalisasi telah membuat orang seperti dia terlalu kaya",
+    "option_b": "Globalisasi hanya menguntungkan beberapa negara bagian Amerika, seperti New York",
+    "option_c": "Elit liberal telah mendorong globalisasi, sementara 'rakyat biasa' kehilangan pekerjaan karena itu",
+    "option_d": "Globalisasi mendorong perang dagang yang merusak",
+    "answer": "C",
+    "id": "us_foreign_policy/dev/4"
+  },
+  {
+    "instruction": "Tujuan utama dari intervensi perilaku adalah:",
+    "option_a": "Perubahan perilaku",
+    "option_b": "Pemberian cakupan yang komprehensif",
+    "option_c": "Pemanfaatan teori perilaku yang efektif",
+    "option_d": "Perubahan perilaku yang berkelanjutan",
+    "answer": "D",
+    "id": "virology/dev/3"
+  },
+  {
+    "instruction": "Sebuah pipa yang diisi dengan udara pada salah satu ujungnya ditutup. Gelombang berdiri diproduksi di dalam pipa, menyebabkan pipa mengeluarkan suara nada. Manakah pernyataan yang benar mengenai sifat gelombang di ujung tertutup pipa?",
+    "option_a": "Tekanan berada pada node, tapi pergeseran partikel berada pada antinode.",
+    "option_b": "Tekanan berada pada antinode, tapi pergeseran partikel berada pada node.",
+    "option_c": "Tekanan dan pergeseran partikel keduanya berada pada node.",
+    "option_d": "Tekanan dan pergeseran partikel keduanya berada pada antinode.",
+    "answer": "B",
+    "id": "high_school_physics/dev/1"
+  },
+  {
+    "instruction": "Salah satu faktor kunci yang memfasilitasi aplikasi studi kasus kontrol berkelompok dari MACS adalah:",
+    "option_a": "Pengumpulan data",
+    "option_b": "Pendirian repositori spesimen biologis",
+    "option_c": "Minat partisipan",
+    "option_d": "Administrasi kuesioner oleh staf",
+    "answer": "B",
+    "id": "virology/dev/2"
+  },
+  {
+    "instruction": "Pemanjangan ulangan triplet besar dapat terdeteksi dengan:",
+    "option_a": "reaksi rantai polimerase.",
+    "option_b": "analisis polimorfisme konformasi untai tunggal.",
+    "option_c": "pemetaan Southern.",
+    "option_d": "pemetaan Western.",
+    "answer": "C",
+    "id": "medical_genetics/dev/0"
+  },
+  {
+    "instruction": "Glikolisis adalah nama yang diberikan pada jalur yang melibatkan konversi:",
+    "option_a": "glikogen menjadi glukosa-1-fosfat.",
+    "option_b": "glikogen atau glukosa menjadi fruktosa.",
+    "option_c": "glikogen atau glukosa menjadi piruvat atau laktat.",
+    "option_d": "glikogen atau glukosa menjadi piruvat atau asetil CoA.",
+    "answer": "C",
+    "id": "clinical_knowledge/dev/4"
+  },
+  {
+    "instruction": "Anggap X dan Y adalah variabel acak dengan E(X) = 37, var(X) = 5, E(Y) = 62, dan var(Y) = 12. Apa nilai harapan dan variansi dari variabel acak X + Y?",
+    "option_a": "E(X + Y) = 99, var(X + Y) = 8.5",
+    "option_b": "E(X + Y) = 99, var(X + Y) = 13",
+    "option_c": "E(X + Y) = 99, var(X + Y) = 17",
+    "option_d": "Tidak cukup informasi untuk menjawab pertanyaan ini.",
+    "answer": "D",
+    "id": "high_school_statistics/dev/1"
+  },
+  {
+    "instruction": "Hakim mengambil catatan yudisial atas beberapa fakta pada awal persidangan. Yang mana di antara berikut bukan merupakan jenis fakta yang tepat untuk dicatat secara yudisial?",
+    "option_a": "Fakta yang tidak dipungkiri.",
+    "option_b": "Fakta yang dikemukakan oleh organisasi politik individu.",
+    "option_c": "Fakta yang diakui sebagai benar melalui pengetahuan umum.",
+    "option_d": "Fakta yang dapat diverifikasi secara ilmiah.",
+    "answer": "B",
+    "id": "professional_law/dev/2"
+  },
+  {
+    "instruction": "Berapa perkiraan kapasitas kranial rata-rata Homo erectus?",
+    "option_a": "di bawah 650 cc",
+    "option_b": "sekitar 800 cc",
+    "option_c": "sedikit di bawah 1000 cc",
+    "option_d": "1200 cc",
+    "answer": "C",
+    "id": "prehistory/dev/4"
+  },
+  {
+    "instruction": "Penelitian terbaru tentang spesies hominid yang berasal dari Middle Pliocene mengindikasikan bahwa ada (per 2020):",
+    "option_a": "sejumlah besar keanekaragaman spesies, atau satu spesies yang menunjukkan banyak keanekaragaman.",
+    "option_b": "sangat sedikit keanekaragaman spesies selama periode ini dan sangat sedikit hominid.",
+    "option_c": "penurunan keanekaragaman spesies akibat zaman es yang panjang diikuti oleh kekeringan yang parah.",
+    "option_d": "penurunan keanekaragaman spesies tetapi peningkatan jumlah martil dan serpihan, yang menunjukkan pembuatan alat batu.",
+    "answer": "A",
+    "id": "prehistory/dev/3"
+  },
+  {
+    "instruction": "Tahap meiosis dimana kromosom berpasangan dan saling bertukar adalah:",
+    "option_a": "profase I",
+    "option_b": "metafase I",
+    "option_c": "profase II",
+    "option_d": "metafase II",
+    "answer": "A",
+    "id": "medical_genetics/dev/4"
+  },
+  {
+    "instruction": "Pleura",
+    "option_a": "tidak memiliki inervasi sensorik.",
+    "option_b": "terpisah oleh ruang 2 mm.",
+    "option_c": "menyebar ke dalam leher.",
+    "option_d": "terdiri dari epitel pernapasan.",
+    "answer": "C",
+    "id": "anatomy/dev/2"
+  },
+  {
+    "instruction": "Kata apa yang paling tepat meringkas penjelasan Weber mengenai perkembangan hukum formal rasional?",
+    "option_a": "Otoritas.",
+    "option_b": "Karisma.",
+    "option_c": "Kerja sama.",
+    "option_d": "Kapitalisme.",
+    "answer": "D",
+    "id": "jurisprudence/dev/2"
+  },
+  {
+    "instruction": "Pada tahap ketiga model transisi demografi, yang berikut ini benar?",
+    "option_a": "Angka kelahiran meningkat dan laju pertumbuhan penduduk lebih lambat.",
+    "option_b": "Angka kelahiran menurun dan laju pertumbuhan penduduk lebih lambat.",
+    "option_c": "Angka kelahiran meningkat dan laju pertumbuhan penduduk meningkat.",
+    "option_d": "Angka kelahiran menurun dan laju pertumbuhan penduduk meningkat.",
+    "answer": "B",
+    "id": "high_school_geography/dev/1"
+  },
+  {
+    "instruction": "Obat pertama untuk pasien diabetes tipe 2 dan obesitas, pada tahun 2020 adalah?\n",
+    "option_a": "Acarbose",
+    "option_b": "Metformin",
+    "option_c": "Sulfonylureas",
+    "option_d": "Insulin",
+    "answer": "B",
+    "id": "nutrition/dev/4"
+  },
+  {
+    "instruction": "Untuk mana dari dua skenario ini tokoh utama (yang menggunakan saya/saya/saya) melakukan sesuatu yang jelas-jelas salah secara moral, menurut standar moral yang biasa di Amerika Serikat pada tahun 2020? Skenario 1 | Saya meminta sebatang rokok dari orang di luar toko. Skenario 2 | Ketika penjaga keamanan meninggalkan posnya, saya memasukkan koin langka ke dalam saku.",
+    "option_a": "Salah, salah",
+    "option_b": "Salah, tidak salah",
+    "option_c": "Tidak salah, salah",
+    "option_d": "Tidak salah, tidak salah",
+    "answer": "C",
+    "id": "moral_scenarios/dev/1"
+  },
+  {
+    "instruction": "Pertanyaan ini berkaitan dengan informasi berikut.\nSaya datang bukan untuk mendorong klaim pribadi, atau mencari keuntungan individu; Saya muncul sebagai pembela mereka yang tidak dapat memperjuangkan kasus mereka sendiri; Saya datang sebagai teman bagi mereka yang ditinggalkan, tertindas, dan terlantar. Dalam providensi Tuhan, saya adalah suara orang gila yang teriakan tajamnya dari tembok penjara Anda tidak menembus Ruang Legislatif Anda. Saya adalah Harapan makhluk gila yang miskin yang merana di dalam sel, kandang, dan kandang hewan, dan kamar-kamar miskin Anda. Saya adalah Wahyu dari ratusan makhluk yang menderita menderita, tersembunyi di kediaman pribadi Anda, dan di kandang dan kabin - ditutup, terputus dari semua pengaruh penyembuhan, dari semua perawatan pemulihan pikiran. ... Jika riwayat kesedihan mereka dapat disebarkan di depan Anda seperti yang diungkapkan pada roh yang sedih selama tiga bulan terakhir, betapa cepat, betapa sungguh-sungguh Anda akan mencari cara terbaik untuk meredakan; betapa remeh, betapa tidak signifikan, dibandingkan dengan pengorbanan yang diminta dari Anda; betapa beberapa dolar dan dolar, yang dikumpulkan dari setiap warga negara, akan berkurang nilainya sebagai kepemilikan, dibandingkan dengan manfaat yang pasti dan kebaikan besar yang akan diperoleh untuk orang gila yang menderita... melalui pengujian dan aplikasi dana yang cukup untuk pembangunan rumah sakit yang sesuai.…\n— Dorothea Dix, Memorial Menjajaki Rumah Sakit Negara untuk Perlindungan dan Penyembuhan orang gila,\nDikirim ke Majelis Umum Carolina Utara, November 1848\nDorothea Dix dapat dibandingkan dengan siapa?",
+    "option_a": "Abigail Adams",
+    "option_b": "Clara Barton",
+    "option_c": "Shirley Temple",
+    "option_d": "Hillary Clinton",
+    "answer": "B",
+    "id": "high_school_us_history/dev/4"
+  },
+  {
+    "instruction": "Mana dari berikut yang mengandung urutan DNA yang diperlukan untuk pemisahan kromosom dalam mitosis dan meiosis?",
+    "option_a": "Telomer",
+    "option_b": "Sentromer",
+    "option_c": "Nukleosom",
+    "option_d": "Splicesome",
+    "answer": "B",
+    "id": "college_biology/dev/4"
+  },
+  {
+    "instruction": "Siapa di antara orang berikut yang lebih mungkin tinggal di rumah sendirian pada 2019?",
+    "option_a": "Seorang pria atau wanita Asia",
+    "option_b": "Seorang pria Hispanik",
+    "option_c": "Seorang wanita Afrika-Amerika",
+    "option_d": "Seorang pria atau wanita kulit putih",
+    "answer": "C",
+    "id": "human_aging/dev/0"
+  },
+  {
+    "instruction": "Kondisi di bawah ini yang tidak menunjukkan warisan multifaktorial adalah?",
+    "option_a": "Stenosis pilorus",
+    "option_b": "Skizofrenia",
+    "option_c": "Spina bifida (kecacatan tabung saraf)",
+    "option_d": "Sindrom Marfan",
+    "answer": "D",
+    "id": "medical_genetics/dev/3"
+  },
+  {
+    "instruction": "Mana yang bukan cara untuk membentuk DNA rekombinan?",
+    "option_a": "Penerjemahan",
+    "option_b": "Konjugasi",
+    "option_c": "Transduksi khusus",
+    "option_d": "Transformasi",
+    "answer": "A",
+    "id": "high_school_biology/dev/0"
+  },
+  {
+    "instruction": "Karakteristik apa yang bukan merupakan fitur utama dari model manajemen 'sistem terbuka'?",
+    "option_a": "Moral",
+    "option_b": "Inovasi",
+    "option_c": "Sumber pertumbuhan",
+    "option_d": "Adaptasi",
+    "answer": "A",
+    "id": "management/dev/3"
+  },
+  {
+    "instruction": "Susunan mana dari berikut yang menujukkan hidrida unsur grup-14 berdasarkan tingkat stabilitas termal yang terendah ke yang tertinggi?",
+    "option_a": "PbH4 < SnH4 < GeH4 < SiH4 < CH4",
+    "option_b": "PbH4 < SnH4 < CH4 < GeH4 < SiH4",
+    "option_c": "CH4 < SiH4 < GeH4 < SnH4 < PbH4",
+    "option_d": "CH4 < PbH4 < GeH4 < SnH4 < SiH4",
+    "answer": "A",
+    "id": "college_chemistry/dev/4"
+  },
+  {
+    "instruction": "Mana yang diharapkan menjadi molekul polar berikut ini?",
+    "option_a": "PCl4F",
+    "option_b": "BF3",
+    "option_c": "CO2",
+    "option_d": "Si(CH3)4",
+    "answer": "A",
+    "id": "high_school_chemistry/dev/1"
+  },
+  {
+    "instruction": "Apa rongga tubuh yang berisi kelenjar pituitari di antara yang berikut?",
+    "option_a": "Perut",
+    "option_b": "Kepala",
+    "option_c": "Pleuritis",
+    "option_d": "Spinal",
+    "answer": "B",
+    "id": "anatomy/dev/4"
+  },
+  {
+    "instruction": "Menurut model tekanan-arus dari pergerakan isi Floem, pergerakan fotosintat dari sumber ke tunggul didorong oleh",
+    "option_a": "pompa tekanan-arus yang tergantung pada ATP",
+    "option_b": "gradien potensial tekanan air",
+    "option_c": "transpirasi",
+    "option_d": "difusi apoplastik",
+    "answer": "B",
+    "id": "college_biology/dev/3"
+  },
+  {
+    "instruction": "Pernyataan manakah yang terbaik menggambarkan argumen yang dibuat oleh James Madison dalam The Federalist nomor 10?",
+    "option_a": "Politisi yang jujur dapat mencegah faksi berkembang.",
+    "option_b": "Faksi lebih mungkin terjadi di republik besar daripada di republik kecil.",
+    "option_c": "Efek negatif dari faksi dapat dikurangi oleh pemerintahan republik.",
+    "option_d": "Pemilu bebas adalah pertahanan terbaik rakyat terhadap faksionalisme.",
+    "answer": "C",
+    "id": "high_school_government_and_politics/dev/4"
+  },
+  {
+    "instruction": "Moun mengalami peluruhan dengan waktu paruh sekitar 10^-6 detik menjadi elektron, neutrino muon, dan antineutrino elektron. Moun tidak dapat meluruh menjadi hanya sebuah elektron dan sebuah neutrino tunggal oleh hukum konservasi",
+    "option_a": "muatan",
+    "option_b": "massa",
+    "option_c": "energi dan momentum",
+    "option_d": "bilangan lepton",
+    "answer": "D",
+    "id": "college_physics/dev/4"
+  },
+  {
+    "instruction": "Dalam SR latch yang dibangun dari gerbang NOR, kondisi mana yang tidak diizinkan",
+    "option_a": "S=0, R=0",
+    "option_b": "S=0, R=1",
+    "option_c": "S=1, R=0",
+    "option_d": "S=1, R=1",
+    "answer": "D",
+    "id": "electrical_engineering/dev/0"
+  },
+  {
+    "instruction": "Dalam mesin dc lilitan lap 2 kutub, resistansi satu penghantar adalah 2Ω dan jumlah penghantar total adalah 100. Temukan total resistansi",
+    "option_a": "200Ω",
+    "option_b": "100Ω",
+    "option_c": "50Ω",
+    "option_d": "10Ω",
+    "answer": "C",
+    "id": "electrical_engineering/dev/1"
+  },
+  {
+    "instruction": "Pernyataan 1 | Setiap elemen dari sebuah grup menghasilkan subgrup siklik dari grup tersebut. Pernyataan 2 | Grup simetris S_10 memiliki 10 elemen.",
+    "option_a": "Benar, Benar",
+    "option_b": "Salah, Salah",
+    "option_c": "Benar, Salah",
+    "option_d": "Salah, Benar",
+    "answer": "C",
+    "id": "abstract_algebra/dev/2"
+  },
+  {
+    "instruction": "Seorang pria berusia 36 tahun datang ke kantor dengan riwayat nyeri punggung bawah selama 3 minggu. Dia tidak mengalami trauma baru-baru ini tetapi mengatakan bahwa dia naik dan turun dari truknya beberapa kali dalam sehari karena pekerjaannya. Pemeriksaan pasien dalam posisi miring mengungkapkan tonjolan di bagian belakang tulang panggul kiri, sudut bawah posterior lateral pada sisi kanan, dan persimpangan pinggang-tulang panggul yang mudah dipencet. Kemungkinan diagnosis paling tepat adalah",
+    "option_a": "torsion sakral kiri-ke-kiri",
+    "option_b": "torsion sakral kiri-ke-kanan",
+    "option_c": "fleksi sakral tunggal kanan",
+    "option_d": "torsion sakral kanan-ke-kanan",
+    "answer": "D",
+    "id": "professional_medicine/dev/1"
+  },
+  {
+    "instruction": "Pada dinasti manakah \"Mandat Surga\" dikembangkan untuk melegitimasi penguasa-penguasa baru?",
+    "option_a": "Shang",
+    "option_b": "Zhou",
+    "option_c": "Han",
+    "option_d": "Xia",
+    "answer": "B",
+    "id": "world_religions/dev/2"
+  },
+  {
+    "instruction": "Warna pada gelembung sabun dihasilkan oleh cahaya",
+    "option_a": "diubah menjadi frekuensi lain",
+    "option_b": "pembiasan",
+    "option_c": "interferensi",
+    "option_d": "polarisasi",
+    "answer": "C",
+    "id": "conceptual_physics/dev/2"
+  },
+  {
+    "instruction": "Sebuah sel telur yang dibuahi juga dikenal sebagai",
+    "option_a": "zigot.",
+    "option_b": "embrion.",
+    "option_c": "vitalitas.",
+    "option_d": "blastosit.",
+    "answer": "A",
+    "id": "moral_disputes/dev/1"
+  },
+  {
+    "instruction": "Pada tahap perencanaan, kapan analisis situasi harus dilakukan?",
+    "option_a": "Mendefinisikan program",
+    "option_b": "Merencanakan program",
+    "option_c": "Melaksanakan tindakan dan menerapkan ide",
+    "option_d": "Evaluasi program",
+    "answer": "A",
+    "id": "public_relations/dev/3"
+  },
+  {
+    "instruction": "Apa bedanya kateter pria dan wanita?",
+    "option_a": "Kateter pria dan wanita memiliki warna yang berbeda.",
+    "option_b": "Kateter pria lebih panjang dari kateter wanita.",
+    "option_c": "Kateter pria lebih besar dari kateter wanita.",
+    "option_d": "Kateter wanita lebih panjang dari kateter pria.",
+    "answer": "B",
+    "id": "clinical_knowledge/dev/1"
+  },
+  {
+    "instruction": "_______ adalah upaya langsung untuk mengelola masalah atau persoalan etis secara formal atau informal, melalui kebijakan, praktek, dan program spesifik.",
+    "option_a": "Tanggung jawab sosial perusahaan",
+    "option_b": "Manajemen etika bisnis",
+    "option_c": "Keberlanjutan",
+    "option_d": "Manajemen lingkungan",
+    "answer": "B",
+    "id": "business_ethics/dev/1"
+  },
+  {
+    "instruction": "Pernyataan berikut tentang yodium yang manakah benar, pada tahun 2020?\n",
+    "option_a": "50% orang dewasa mengonsumsi yodium dibawah RNI",
+    "option_b": "Produk susu adalah sumber yodium yang buruk",
+    "option_c": "Kandungan yodium pada susu organik umumnya lebih rendah dibandingkan susu non-organik",
+    "option_d": "Nilai referensi diet Inggris merekomendasikan peningkatan asupan yodium pada kehamilan",
+    "answer": "C",
+    "id": "nutrition/dev/3"
+  },
+  {
+    "instruction": "Seorang pria berusia 44 tahun datang ke kantor dokter karena mengalami sakit tenggorokan selama 3 hari, batuk yang tidak produktif, pilek, dan sakit kepala di bagian depan. Dia mengatakan sakit kepala bertambah parah di pagi hari dan ibuprofen memberikan sedikit bantuan. Dia tidak pernah merasakan sesak napas. Riwayat kesehatannya tidak menunjukkan sesuatu yang mencolok. Dia tidak mengonsumsi obat selain ibuprofen untuk menghilangkan rasa sakit. Tanda-tanda vital menunjukkan suhu tubuh 37,4°C (99,4°F), detak jantung 88/menit, frekuensi pernapasan 18/menit, dan tekanan darah 120/84 mm Hg. Pemeriksaan pada lubang hidung menunjukkan selaput lendir yang eritema. Pemeriksaan pada tenggorokan menunjukkan adanya kemerahan dan hiperplasia limfoid folikular pada belakang orofaring. Tidak ada pembengkakan kelenjar getah bening pada leher yang teraba. Paru-paru terdengar jelas saat didengarkan dengan stetoskop. Apa yang kemungkinan menjadi penyebab dari gejala pasien ini?",
+    "option_a": "Rinitis alergi",
+    "option_b": "Virus Epstein-Barr",
+    "option_c": "Mycoplasma pneumoniae",
+    "option_d": "Rhinovirus",
+    "answer": "D",
+    "id": "professional_medicine/dev/3"
+  },
+  {
+    "instruction": "Seorang guru sains SMA mengisi botol 1 liter dengan nitrogen murni dan menutup rapat tutupnya. Tekanannya adalah 1,70 atm, dan suhu ruangan adalah 25°C. Kedua variabel apa yang akan meningkatkan tekanan sistem jika semua variabel lainnya tetap konstan?",
+    "option_a": "Meningkatkan suhu, meningkatkan mol gas",
+    "option_b": "Meningkatkan suhu, meningkatkan volume",
+    "option_c": "Mengecilkan volume, menurunkan suhu",
+    "option_d": "Mengecilkan mol gas, meningkatkan volume",
+    "answer": "A",
+    "id": "college_medicine/dev/3"
+  },
+  {
+    "instruction": "Anda sedang meninjau makalah untuk Konferensi Pembelajaran Mesin Terkini di Dunia yang paling mewah, dan Anda melihat ada pengajuan dengan klaim sebagai berikut. Yang mana yang akan Anda pertimbangkan untuk diterima?",
+    "option_a": "Metode saya mencapai kesalahan pelatihan yang lebih rendah dari semua metode sebelumnya!",
+    "option_b": "Metode saya mencapai kesalahan tes yang lebih rendah dari semua metode sebelumnya! (Catatan kaki: Ketika parameter regulasi λ dipilih sedemikian rupa sehingga meminimalkan kesalahan tes.)",
+    "option_c": "Metode saya mencapai kesalahan tes yang lebih rendah dari semua metode sebelumnya! (Catatan kaki: Ketika parameter regulasi λ dipilih sedemikian rupa sehingga meminimalkan kesalahan cross-validasi.)",
+    "option_d": "Metode saya mencapai kesalahan cross-validation yang lebih rendah dari semua metode sebelumnya! (Catatan kaki: Ketika parameter regulasi λ dipilih sedemikian rupa sehingga meminimalkan kesalahan cross-validasi.)",
+    "answer": "C",
+    "id": "machine_learning/dev/2"
+  },
+  {
+    "instruction": "Teleskop refraksi terdiri dari dua lensa konvergen yang terpisah jarak 100 cm. Lensa okuler memiliki panjang fokus 20 cm. Pembesaran sudut teleskop adalah",
+    "option_a": "4",
+    "option_b": "5",
+    "option_c": "6",
+    "option_d": "20",
+    "answer": "A",
+    "id": "college_physics/dev/3"
+  },
+  {
+    "instruction": "Menurut Undang-Undang Peningkatan Pendidikan Individu dengan Disabilitas, hal berikut ini yang harus dilakukan oleh agensi pendidikan sebelum mengubah penempatan pendidikan dari seorang siswa dengan disabilitas adalah?",
+    "option_a": "Memberikan masa uji coba pada anak di lingkungan baru",
+    "option_b": "Memberitahu orang tua secara tertulis",
+    "option_c": "Mendapatkan persetujuan dewan sekolah",
+    "option_d": "Mendapatkan persetujuan dari orang tua",
+    "answer": "B",
+    "id": "high_school_psychology/dev/3"
+  },
+  {
+    "instruction": "Kurva Phillips jangka pendek menunjukkan",
+    "option_a": "hubungan langsung antara pengangguran dan inflasi",
+    "option_b": "hubungan langsung antara harga dan jumlah yang diminta",
+    "option_c": "hubungan terbalik antara harga dan jumlah yang diminta",
+    "option_d": "hubungan terbalik antara pengangguran dan inflasi",
+    "answer": "D",
+    "id": "high_school_macroeconomics/dev/1"
+  },
+  {
+    "instruction": "SHA-1 memiliki hasil rata-rata sebesar",
+    "option_a": "160 bit",
+    "option_b": "512 bit",
+    "option_c": "628 bit",
+    "option_d": "820 bit",
+    "answer": "A",
+    "id": "computer_security/dev/0"
+  },
+  {
+    "instruction": "Apa yang dihasilkan selama fotosintesis?",
+    "option_a": "hidrogen",
+    "option_b": "nilon",
+    "option_c": "oksigen",
+    "option_d": "cahaya",
+    "answer": "C",
+    "id": "miscellaneous/dev/3"
+  },
+  {
+    "instruction": "Mutasi pada enzim bakteri mengubah asam amino polar menjadi asam amino nonpolar. Asam amino ini terdapat pada tempat yang jauh dari situs aktif enzim. Bagaimana mutasi ini dapat mengubah spesifisitas substrat enzim?",
+    "option_a": "Dengan mengubah pH optimum enzim",
+    "option_b": "Dengan mengubah lokasi enzim dalam sel",
+    "option_c": "Dengan mengubah bentuk protein",
+    "option_d": "Perubahan asam amino yang jauh dari situs aktif tidak dapat mengubah spesifisitas substrat enzim.",
+    "answer": "C",
+    "id": "high_school_biology/dev/1"
+  },
+  {
+    "instruction": "Apa hasil dari \"abc\"[::-1] dalam Python 3?",
+    "option_a": "Galat",
+    "option_b": "abc",
+    "option_c": "cba",
+    "option_d": "c",
+    "answer": "C",
+    "id": "high_school_computer_science/dev/2"
+  },
+  {
+    "instruction": "Dalam pembuatan persamaan regresi berganda untuk tujuan prediksi, kombinasi optimal dari pengukuran adalah yang mana prediktor-prediktornya",
+    "option_a": "tidak berkorelasi satu sama lain tetapi memiliki korelasi yang sedang dengan kriteria",
+    "option_b": "memiliki korelasi rendah satu sama lain dan korelasi rendah dengan kriteria",
+    "option_c": "saling berkorelasi tinggi satu sama lain dan memiliki korelasi yang sedang dengan kriteria",
+    "option_d": "memiliki korelasi rendah dengan kriteria tetapi memiliki korelasi yang sedang satu sama lain",
+    "answer": "A",
+    "id": "professional_psychology/dev/4"
+  },
+  {
+    "instruction": "Menurut Metz, apa yang salah dengan argumen konsekuensialis melawan hukuman mati berdasarkan nilai-nilai Afrika?",
+    "option_a": "Sampai saat ini masih belum jelas apakah hukuman mati dapat mencegah bahaya bagi masyarakat.",
+    "option_b": "Sampai saat ini masih belum jelas apakah hukuman mati dapat mencegah bahaya bagi individu tertentu.",
+    "option_c": "Konsekuensialisme tidak didukung oleh nilai-nilai Afrika.",
+    "option_d": "Meskipun konsekuensialisme didukung oleh nilai-nilai Afrika, belum ada argumen konsekuensialis yang diformulasikan dalam hal nilai-nilai Afrika yang ditawarkan.",
+    "answer": "A",
+    "id": "moral_disputes/dev/0"
+  },
+  {
+    "instruction": "Asal embriologi tulang hyoid?",
+    "option_a": "Busur faring pertama",
+    "option_b": "Busur faring pertama dan kedua",
+    "option_c": "Busur faring kedua",
+    "option_d": "Busur faring kedua dan ketiga",
+    "answer": "D",
+    "id": "anatomy/dev/0"
+  },
+  {
+    "instruction": "Efek samping yang diharapkan dari suplementasi kreatin adalah:",
+    "option_a": "lemah otot.",
+    "option_b": "kenaikan massa tubuh.",
+    "option_c": "kram otot.",
+    "option_d": "kehilangan elektrolit.",
+    "answer": "B",
+    "id": "college_medicine/dev/4"
+  },
+  {
+    "instruction": "Pernyataan 1 | Setiap fungsi dari himpunan terbatas ke dirinya sendiri harus satu ke satu. Pernyataan 2 | Setiap subgrup dari grup abelian adalah abelian.",
+    "option_a": "Benar, Benar",
+    "option_b": "Salah, Salah",
+    "option_c": "Benar, Salah",
+    "option_d": "Salah, Benar",
+    "answer": "A",
+    "id": "abstract_algebra/dev/3"
+  },
+  {
+    "instruction": "Misalkan V adalah himpunan polinomial real p(x). Misalkan transformasi T, S didefinisikan pada V oleh T:p(x) -> xp(x) dan S:p(x) -> p'(x) = d/dx p(x), dan interprestasikan (ST)(p(x)) sebagai S(T(p(x))). Mana yang benar di antara yang berikut?",
+    "option_a": "ST = 0",
+    "option_b": "ST = T",
+    "option_c": "ST = TS",
+    "option_d": "ST - TS adalah pemetaan identitas dari V ke dirinya sendiri.",
+    "answer": "D",
+    "id": "college_mathematics/dev/0"
+  },
+  {
+    "instruction": "Menurut model konsultasi kasus berpusat pada konseli oleh Caplan, konsultan terutama tertarik pada",
+    "option_a": "mengidentifikasi penyebab dan solusi dari masalah yang dihadapi oleh klien",
+    "option_b": "mengidentifikasi dan menghilangkan penyebab kesulitan konseli dalam menangani suatu masalah",
+    "option_c": "membuat hierarki kekuasaan untuk memungkinkan pengambilan keputusan yang efektif",
+    "option_d": "menyajikan satu tindakan yang terdefinisi dengan baik dan tidak ambigu bagi konsultan untuk mengatasi kekurangan keterampilan",
+    "answer": "B",
+    "id": "high_school_psychology/dev/1"
+  },
+  {
+    "instruction": "Pence membandingkan enam kasus reproduksi yang berbeda, mulai dari kembar alami hingga SCNT. Apa kesimpulan yang ia tarik dari perbandingan ini?",
+    "option_a": "SCNT bukanlah jenis reproduksi yang berbeda karena tidak ada perbedaan moral yang relevan antara SCNT dan cara reproduksi yang diperbolehkan lainnya.",
+    "option_b": "Karena risiko kerusakan yang rendah untuk kembar alami, maka risiko kerusakan untuk SCNT akan rendah.",
+    "option_c": "baik A maupun B",
+    "option_d": "tidak baik A maupun B",
+    "answer": "A",
+    "id": "moral_disputes/dev/3"
+  },
+  {
+    "instruction": "Pada tanggal 1 Januari, tahun 1, Alpha Co. menandatangani perjanjian pemeliharaan tahunan dengan penyedia perangkat lunak sebesar $15,000 dan periode pemeliharaan dimulai pada tanggal 1 Maret, tahun 2. Alpha juga mengeluarkan biaya sebesar $5,000 pada tanggal 1 Januari, tahun 1, terkait permintaan modifikasi perangkat lunak yang akan meningkatkan fungsionalitas perangkat lunak. Alpha melakukan penyusutan aset komputer dan perangkat lunak selama lima tahun menggunakan metode garis lurus. Berapa jumlah pengeluaran keseluruhan yang harus diakui Alpha terkait perjanjian pemeliharaan dan modifikasi perangkat lunak untuk tahun yang berakhir pada tanggal 31 Desember, tahun 1?",
+    "option_a": "$5,000",
+    "option_b": "$13,500",
+    "option_c": "$16,000",
+    "option_d": "$20,000",
+    "answer": "B",
+    "id": "professional_accounting/dev/3"
+  },
+  {
+    "instruction": "Perubahan dari 'agama sipil' menjadi 'agama umum' berarti bahwa:",
+    "option_a": "birokrasi negara yang semakin meningkat telah membuat agama hanya menjadi bagian kecil dari kehidupan kita",
+    "option_b": "meskipun otoritas tradisional melemah, kehidupan sehari-hari dan 'akal sehat' tetap dipengaruhi oleh keyakinan dan nilai-nilai agama",
+    "option_c": "partisipasi keagamaan dalam ibadah kolektif mungkin telah menurun, tetapi orang masih mempraktikkan agamanya secara pribadi",
+    "option_d": "orang lebih cenderung membahas keyakinan keagamaannya di tempat umum, dalam situasi informal",
+    "answer": "B",
+    "id": "sociology/dev/2"
+  },
+  {
+    "instruction": "Putusan kasus manakah yang menetapkan preseden bahwa seorang terdakwa harus diberitahu tentang hak untuk tetap diam, hak untuk memiliki pengacara, dan perlindungan dari pengakuan yang merugikan dirinya sendiri?",
+    "option_a": "Weeks v. Amerika Serikat",
+    "option_b": "Betts v. Brady",
+    "option_c": "Mapp v. Ohio",
+    "option_d": "Miranda v. Arizona",
+    "answer": "D",
+    "id": "high_school_government_and_politics/dev/2"
+  },
+  {
+    "instruction": "Diasumsikan bahwa f(1 + x) = f(x) untuk semua x bilangan real. Jika f adalah polinomial dan f(5) = 11, maka f(15/2)",
+    "option_a": "-11",
+    "option_b": "0",
+    "option_c": "11",
+    "option_d": "33/2",
+    "answer": "C",
+    "id": "college_mathematics/dev/3"
+  },
+  {
+    "instruction": "Menurut d'Holbach, manusia selalu bertindak sesuai dengan _____.",
+    "option_a": "pilihan bebas",
+    "option_b": "diktat jiwa",
+    "option_c": "hukum alam yang diperlukan",
+    "option_d": "kehendak yang tidak ditentukan",
+    "answer": "C",
+    "id": "philosophy/dev/2"
+  },
+  {
+    "instruction": "__________ adalah hasil alami dari penggabungan variabel demografis dan geografis.",
+    "option_a": "Geodemografi",
+    "option_b": "Diferensiasi produk.",
+    "option_c": "Matriks ANSOFF",
+    "option_d": "Manajemen merek.",
+    "answer": "A",
+    "id": "marketing/dev/0"
+  },
+  {
+    "instruction": "Pernyataan mana berikut ini yang benar tentang korelasi?",
+    "option_a": "Jika kemiringan garis regresi tepat 1, maka korelasi juga tepat 1.",
+    "option_b": "Jika korelasi adalah 0, maka kemiringan garis regresi tidak terdefinisi.",
+    "option_c": "Menukar variabel yang disebut x dan yang disebut y mengubah tanda dari korelasi.",
+    "option_d": "Korelasi r sama dengan kemiringan garis regresi ketika z-score untuk variabel y dipetakan terhadap z-score untuk variabel x.",
+    "answer": "D",
+    "id": "high_school_statistics/dev/0"
+  },
+  {
+    "instruction": "Kapan 'persetujuan' dapat menjadi keadaan yang menghilangkan ketidakberhasilan sebuah tindakan negara?",
+    "option_a": "Persetujuan dapat menjadi suatu keadaan yang menghilangkan ketidakberhasilan kapanpun jika diberikan.",
+    "option_b": "Persetujuan tidak pernah dapat menjadi suatu keadaan yang menghilangkan ketidakberhasilan.",
+    "option_c": "Persetujuan dapat menjadi suatu keadaan yang menghilangkan ketidakberhasilan jika persetujuan tersebut sah dan sampai batas dari persetujuan yang diberikan.",
+    "option_d": "Persetujuan selalu dapat menjadi suatu keadaan yang menghilangkan ketidakberhasilan, terlepas dari organ mana dari negara yang memberikannya.",
+    "answer": "C",
+    "id": "international_law/dev/3"
+  },
+  {
+    "instruction": "Apa yang digambarkan Berger (1963) sebagai metafora untuk realitas sosial?",
+    "option_a": "permainan wahana berputar",
+    "option_b": "sirkus",
+    "option_c": "teater boneka",
+    "option_d": "balet",
+    "answer": "C",
+    "id": "sociology/dev/1"
+  },
+  {
+    "instruction": "Manakah dari pernyataan berikut yang mewakili pernyataan yang akurat mengenai arthropoda?",
+    "option_a": "Mereka memiliki eksoskeleton yang terutama terdiri dari peptidoglikan.",
+    "option_b": "Mereka memiliki sistem peredaran darah terbuka dengan jantung dorsal.",
+    "option_c": "Mereka adalah anggota dari filum yang tidak berhasil secara biologi dan tidak mampu memanfaatkan habitat dan sumber nutrisi yang beragam.",
+    "option_d": "Mereka tidak memiliki anggota tubuh berpasangan dan berkait.",
+    "answer": "B",
+    "id": "college_biology/dev/0"
+  },
+  {
+    "instruction": "Pernyataan 1 | Jika aH adalah elemen dari sebuah faktor grup, maka |aH| membagi |a|. Pernyataan 2 | Jika H dan K adalah subgrup dari G maka HK adalah subgrup dari G.",
+    "option_a": "Benar, Benar",
+    "option_b": "Salah, Salah",
+    "option_c": "Benar, Salah",
+    "option_d": "Salah, Benar",
+    "answer": "B",
+    "id": "abstract_algebra/dev/1"
+  },
+  {
+    "instruction": "Apa itu ethical hacking?",
+    "option_a": "\"Meretas\" etika agar membenarkan perilaku egois yang tidak disengaja",
+    "option_b": "Meretas sistem (misalnya, selama pengujian penetrasi) untuk mengungkapkan kerentanan sehingga dapat diperbaiki, bukan dieksploitasi",
+    "option_c": "Meretas ke dalam sistem yang dijalankan oleh orang-orang yang etikanya tidak Anda setujui",
+    "option_d": "Sebutan slang untuk pengembangan perangkat lunak yang cepat, misalnya sebagai bagian dari hackathon",
+    "answer": "B",
+    "id": "computer_security/dev/2"
+  },
+  {
+    "instruction": "Pada sel hewan, jalur yang paling mungkin diikuti oleh protein sekretori saat disintesis dalam sel adalah?",
+    "option_a": "Membran plasma–aparatus Golgi–ribosom–vesikel sekretori–retikulum endoplasma kasar",
+    "option_b": "Ribosom–aparatus Golgi–retikulum endoplasma kasar–vesikel sekretori–membran plasma",
+    "option_c": "Membran plasma–aparatus Golgi–ribosom–vesikel sekretori–retikulum endoplasma kasar",
+    "option_d": "Ribosom–retikulum kasar–aparatus Golgi–vesikel sekretori–membran plasma",
+    "answer": "D",
+    "id": "high_school_biology/dev/2"
+  },
+  {
+    "instruction": "Sebanyak 0,217 g sampel HgO (massa molar = 217 g) bereaksi dengan ion iodida berlebih sesuai dengan reaksi yang ditunjukkan di atas. Berapa mL HCl 0,10 M yang diperlukan dalam titrasi larutan yang dihasilkan untuk mencapai titik ekuivalen?",
+    "option_a": "1,0 mL",
+    "option_b": "10 mL",
+    "option_c": "20 mL",
+    "option_d": "50 mL",
+    "answer": "C",
+    "id": "college_chemistry/dev/1"
+  },
+  {
+    "instruction": "Sebuah daftar angka memiliki n elemen, diindeks dari 1 hingga n. Algoritma berikut dimaksudkan untuk menampilkan jumlah elemen dalam daftar yang memiliki nilai lebih besar dari 100. Algoritma menggunakan variabel count dan position. Langkah 3 dan 4 hilang.\n Langkah 1: Atur count ke 0 dan position ke 1.\n Langkah 2: Jika nilai elemen pada indeks posisi lebih besar daripada 100, tingkatkan nilai count sebanyak 1.\n Langkah 3: (langkah hilang)\n Langkah 4: (langkah hilang)\n Langkah 5: Tampilkan nilai count.\n Opsi mana berikut yang bisa digunakan untuk menggantikan langkah 3 dan 4 sehingga algoritma bekerja seperti yang dimaksud?",
+    "option_a": "Langkah 3: Tingkatkan nilai position sebanyak 1.\n Langkah 4: Ulangi langkah 2 dan 3 hingga nilai dari count lebih besar dari 100.",
+    "option_b": "Langkah 3: Tingkatkan nilai position sebanyak 1.\n Langkah 4: Ulangi langkah 2 dan 3 hingga nilai dari position lebih besar dari n.",
+    "option_c": "Langkah 3: Ulangi langkah 2 hingga nilai dari count lebih besar dari 100.\n Langkah 4: Tingkatkan nilai position sebanyak 1.",
+    "option_d": "Langkah 3: Ulangi langkah 2 hingga nilai dari position lebih besar dari n.\n Langkah 4: Tingkatkan nilai count sebanyak 1.",
+    "answer": "D",
+    "id": "high_school_computer_science/dev/4"
+  },
+  {
+    "instruction": "Morfologi yang mana di bawah ini merupakan karakteristik morfologis dari paramyxovirus?",
+    "option_a": "Virus yang rapuh sering kali terlihat dengan RNA yang menyembur dari dalamnya",
+    "option_b": "Virus yang memanjang",
+    "option_c": "Virus ikosahedral dengan selubung",
+    "option_d": "Virus yang sangat besar",
+    "answer": "A",
+    "id": "virology/dev/1"
+  },
+  {
+    "instruction": "Carl Jung percaya bahwa transference klien:",
+    "option_a": "adalah fantasi yang mengalihkan perhatian klien dari kenyataan.",
+    "option_b": "mewakili \"perasaan campuran\" terhadap terapis.",
+    "option_c": "\"adalah bentuk \"\"tindakan yang diaktualisasikan.\"\"\"",
+    "option_d": "mencerminkan ketidaksadaran personal dan kolektif klien.",
+    "answer": "D",
+    "id": "professional_psychology/dev/3"
+  },
+  {
+    "instruction": "____________ adalah segala sesuatu yang tidak dapat dicari oleh mesin pencari Anda.",
+    "option_a": "Web Angker",
+    "option_b": "World Wide Web",
+    "option_c": "Web Permukaan",
+    "option_d": "Web Dalam",
+    "answer": "D",
+    "id": "computer_security/dev/4"
+  },
+  {
+    "instruction": "Pilih ekspresi reguler di bawah ini yang ekuivalen (hasilnya sama) dengan (a* + b)*(c + d)?",
+    "option_a": "a*(c + d)+ b(c + d)",
+    "option_b": "a*(c + d)* + b(c + d)*",
+    "option_c": "a*(c + d)+ b*(c + d)",
+    "option_d": "(a + b)*c +(a + b)*d",
+    "answer": "D",
+    "id": "college_computer_science/dev/0"
+  },
+  {
+    "instruction": "Elemen apa dalam asap tembakau yang bertanggung jawab atas kanker?",
+    "option_a": "Nikotin",
+    "option_b": "Tar",
+    "option_c": "Karbon monoksida",
+    "option_d": "Partikel asap",
+    "answer": "B",
+    "id": "human_aging/dev/3"
+  },
+  {
+    "instruction": "Sebuah fotokel dengan fungsi kerja ϕ = 2eV dihubungkan ke resistor secara seri. Cahaya dengan frekuensi f = 1 × 10^15 Hz mengenai pelat logam di fotokel. Jika daya cahaya adalah P = 100 W, berapakah arus melalui resistor tersebut?",
+    "option_a": "Pukul 2:00 pagi",
+    "option_b": "Pukul 6:00 pagi",
+    "option_c": "Pukul 12:00 malam",
+    "option_d": "24 A",
+    "answer": "D",
+    "id": "high_school_physics/dev/2"
+  },
+  {
+    "instruction": "Tiang titik memiliki kekuatan sebesar 4π * 10^-4 weber. Gaya dalam newton pada titik tiang sebesar 4π * 1.5 * 10^-4 weber yang ditempatkan pada jarak 10 cm darinya adalah",
+    "option_a": "15 N.",
+    "option_b": "20 N.",
+    "option_c": "7.5 N.",
+    "option_d": "3.75 N.",
+    "answer": "A",
+    "id": "electrical_engineering/dev/4"
+  },
+  {
+    "instruction": "Mengapa virus parvovirus disebut parasit yang sangat berdampak?",
+    "option_a": "Karena mereka tidak memiliki asam nukleat",
+    "option_b": "Mereka membutuhkan virus pembantu",
+    "option_c": "Hanya mereplikasi dalam sel yang sedang membelah",
+    "option_d": "Dapat terintegrasi ke dalam kromosom inang",
+    "answer": "A",
+    "id": "virology/dev/0"
+  },
+  {
+    "instruction": "Populasi kota tempat Michelle lahir adalah 145.826. Berapakah nilai digit 5 dalam angka 145.826?",
+    "option_a": "5 ribu",
+    "option_b": "5 ratus",
+    "option_c": "5 puluh",
+    "option_d": "5 satuan",
+    "answer": "A",
+    "id": "elementary_mathematics/dev/0"
+  },
+  {
+    "instruction": "Bagaimana kehendak bersedia suatu Negara untuk menjadi terikat dapat diungkapkan?",
+    "option_a": "Kehendak suatu Negara untuk menjadi terikat hanya diungkapkan dengan ratifikasi",
+    "option_b": "Kehendak suatu negara untuk menjadi terikat oleh suatu perjanjian dapat diungkapkan dengan tanda tangan, ratifikasi, penerimaan, persetujuan, atau aksesasi",
+    "option_c": "Kehendak suatu Negara untuk menjadi terikat diungkapkan dengan tanda tangan",
+    "option_d": "Kehendak suatu Negara untuk menjadi terikat diungkapkan dengan cara apapun yang mereka pilih",
+    "answer": "B",
+    "id": "international_law/dev/4"
+  },
+  {
+    "instruction": "Mempertimbangkan desain komputer di mana beberapa prosesor, masing-masing dengan memori cache pribadi, membagikan memori global menggunakan bus tunggal. Bus ini adalah sumber daya sistem yang penting. Setiap prosesor dapat menjalankan satu instruksi setiap 500 nanodetik selama referensi memori dipenuhi oleh cache lokalnya. Ketika terjadi cache miss, prosesor ditunda selama 2.000 nanodetik tambahan. Selama setengah dari keterlambatan tambahan ini, bus didedikasikan untuk melayani cache miss. Selama setengah lainnya, prosesor tidak dapat melanjutkan, tetapi bus bebas untuk melayani permintaan dari prosesor lain. Rata-rata, setiap instruksi membutuhkan 2 referensi memori. Pada rata-rata, cache misses terjadi pada 1 persen referensi. Proporsi kapasitas bus yang akan dikonsumsi oleh satu prosesor, tanpa mempertimbangkan keterlambatan dari persaingan dengan prosesor lain adalah?",
+    "option_a": "1/50",
+    "option_b": "1/27",
+    "option_c": "1/25",
+    "option_d": "2/27",
+    "answer": "B",
+    "id": "college_computer_science/dev/4"
+  },
+  {
+    "instruction": "Olivia menggunakan aturan \"Tambahkan 11\" untuk membuat pola angka di bawah ini. 10, 21, 32, 43, 54 Pernyataan berikut tentang pola angka mana yang benar?",
+    "option_a": "Angka ke-10 dalam pola tersebut akan menjadi angka genap.",
+    "option_b": "Pola angka tidak akan pernah memiliki dua angka genap yang bersebelahan.",
+    "option_c": "Dua angka berikutnya dalam pola tersebut akan menjadi angka genap kemudian angka ganjil.",
+    "option_d": "Jika pola angka dimulai dengan angka ganjil maka pola hanya akan memiliki angka ganjil di dalamnya.",
+    "answer": "B",
+    "id": "elementary_mathematics/dev/1"
+  },
+  {
+    "instruction": "Pertanyaan ini merujuk pada informasi berikut. \n\"Karena tingkah laku kami yang terlambat di Conestoga Manor dan Lancaster telah menimbulkan banyak spekulasi & berbagai pandangan dalam pemerintahan tetangga; beberapa membenarkan & yang lainnya mengutuknya; beberapa mencoba melegakan tindakan tersebut secara penuh kasih & yang lainnya secara jahat mencoba memperburuk kabar burung tersebut, maka kami menganggap sebagai kewajiban kami untuk mengutarakan kepada publik, seluruh kronologis kejadian tersebut seperti yang telah kami alami. . . .\n\"Jika hal ini tidak cukup untuk membuktikan bahwa Kaum Quaker memiliki kecenderungan yang tidak wajar kepada Indian Savage, sebuah tekad yang bulat untuk membela & ketidakpedulian pada kesengsaraan kemanusiaan, marilah kita lihat beberapa fakta lebih baru. Ketika kami mengetahui musim panas terakhir bahwa kami tidak mungkin mendapatkan bantuan dari pemerintah, beberapa sukarelawan pergi dengan biaya kami sendiri, dengan tekad untuk mengusir musuh kami dari perbatasan kami; & ketika kami mendekati Pulau Besar, kami mengetahui bahwa sejumlah pejuang mereka telah pergi melawan perbatasan kami. Karena itu kami kembali dan bersama mereka bertempur di Munfey Hill di mana kami kehilangan beberapa orang kami & membunuh beberapa pejuang mereka & dengan demikian menyelamatkan perbatasan kami dari kisah ini dalam ekspedisi lainnya. Tetapi tak lama setelah kami menghancurkan makanan mereka di Pulau Besar, & merusak perdagangan mereka dengan orang-orang baik di Bethlehem, tetapi Indian ini sendiri, yang wajar dicurigai telah membunuh teman-teman kami di Northampton County, diambil di bawah perlindungan pemerintah dengan pengaruh dari beberapa Quaker untuk melindungi mereka dari amarah dari teman-teman & kerabat yang dibunuh, & untuk mendukung mereka melewati musim dingin.\"\n— \"Apology of the Paxton Boys\" (brosur), 1764 (Catatan: \"apology\" dalam konteks ini harus dibaca sebagai sebuah penjelasan, bukan pengakuan kesalahan atau penyesalan.) \nSikap yang diungkapkan dalam penjelasan di atas mencerminkan ketegangan yang berkelanjutan selama periode kolonial sejarah Amerika yang mana?",
+    "option_a": "Ketegangan antara kebijakan Inggris dan aspirasi para penduduk asli Amerika Utara.",
+    "option_b": "Ketegangan antara Indian Amerika yang bersekutu dengan Prancis dan mereka yang bersekutu dengan Inggris.",
+    "option_c": "Ketegangan antara Afrika Amerika yang merdeka dan penanam kulit putih.",
+    "option_d": "Ketegangan antara pemukim pedalaman dan elit di kolonial Amerika.",
+    "answer": "D",
+    "id": "high_school_us_history/dev/1"
+  },
+  {
+    "instruction": "Ketidakpastian atas batasan kekuasaan presiden disebabkan terutama oleh kenyataan bahwa",
+    "option_a": "definisi konstitusional dari kekuasaan tersebut luas dan tidak terperinci",
+    "option_b": "sebagian besar orang setuju bahwa Konstitusi menempatkan terlalu banyak batasan pada kekuasaan presiden",
+    "option_c": "Mahkamah Agung secara konsisten menolak untuk mengadili kasus-kasus yang berkaitan dengan kekuasaan presiden",
+    "option_d": "amandemen konstitusi telah sangat meningkatkan kekuasaan presiden",
+    "answer": "A",
+    "id": "high_school_government_and_politics/dev/0"
+  },
+  {
+    "instruction": "Masalah manakah di bawah ini yang bukan terkait dengan statistik resmi tentang aksi mogok kerja?",
+    "option_a": "kebanyakan mogok kerja tidak terdeteksi oleh pengusaha dan media massa",
+    "option_b": "tidak semua perselisihan industri akan dilaporkan oleh pengusaha",
+    "option_c": "definisi mogok kerja tidak mencakup yang melibatkan kurang dari sepuluh pekerja atau berlangsung kurang dari satu hari",
+    "option_d": "sulit untuk membandingkan mogok kerja yang diukur dengan cara yang berbeda",
+    "answer": "A",
+    "id": "sociology/dev/4"
+  },
+  {
+    "instruction": "Seorang wanita yang tahu bahwa dia memiliki herpes aktif dan sifilis yang tidak diobati namun tetap menjalankan hubungan seks tanpa memberitahu pasangannya tentang kondisinya, dalam istilah psikoanalisis disebut sebagai:",
+    "option_a": "ego yang kuat",
+    "option_b": "superego yang lemah",
+    "option_c": "id yang lemah",
+    "option_d": "superego yang kuat",
+    "answer": "B",
+    "id": "human_sexuality/dev/1"
+  },
+  {
+    "instruction": "Pernyataan berikut tentang departemen kabinet yang manakah SALAH?",
+    "option_a": "Mereka didirikan oleh cabang legislatif.",
+    "option_b": "Anggota mereka sering tidak memiliki pengaruh yang besar terhadap keputusan presiden.",
+    "option_c": "Mereka tidak semua dapat dijalankan oleh pemimpin yang berafiliasi dengan partai politik yang sama dengan presiden.",
+    "option_d": "Tidak semua lembaga federal adalah departemen kabinet.",
+    "answer": "C",
+    "id": "high_school_government_and_politics/dev/3"
+  },
+  {
+    "instruction": "Pilihlah interpretasi bahasa Inggris terbaik dari argumen yang diberikan dalam logika predikat. \nDm\n(∀x)(Wx ⊃ ~Dx)\n(∀x)Wx ∨ Ag\t/ (∃x)Ax",
+    "option_a": "Marina adalah penari. Beberapa lemah bukan penari. Entah semuanya lemah atau Georgia bermain bola voli. Jadi sesuatu bermain bola voli.",
+    "option_b": "Marina adalah penari. Tidak ada oranglemah yang merupakan penari. Segalanya adalah sebuah kelemahan atau bermain bola voli. Jadi sesuatu bermain bola voli.",
+    "option_c": "Marina adalah penari. Beberapa lemah bukan penari. Segalanya adalah sebuah kelemahan atau bermain bola voli. Jadi sesuatu bermain bola voli.",
+    "option_d": "Marina adalah penari. Tidak ada orang lemah yang merupakan penari. Entah semuanya lemah atau Georgia bermain bola voli. Jadi sesuatu bermain bola voli.",
+    "answer": "D",
+    "id": "formal_logic/dev/2"
+  },
+  {
+    "instruction": "Gulungan meter kumparan pergerakan memiliki 100 lilitan, panjangnya 40 mm, dan lebarnya 30 mm. Torsi kendali adalah 240 * 10-6 N-m pada skala penuh. Jika densitas fluks magnetik adalah 1 Wb/m2, rentang meter adalah",
+    "option_a": "1 mA.",
+    "option_b": "2 mA.",
+    "option_c": "3 mA.",
+    "option_d": "4 mA.",
+    "answer": "B",
+    "id": "electrical_engineering/dev/2"
+  },
+  {
+    "instruction": "Sebuah mesin RISC berpipa tertentu memiliki 8 register umum R0, R1, ..., R7 dan mendukung operasi berikut.\nADD Rs1, Rs2, Rd Tambahkan Rs1 dengan Rs2 dan masukkan hasilnya ke dalam Rd\nMUL Rs1, Rs2, Rd Kalikan Rs1 dengan Rs2 dan masukkan hasilnya ke dalam Rd\nOperasi biasanya memerlukan satu siklus; Namun, operasi memerlukan dua siklus jika menghasilkan hasil yang diperlukan oleh operasi yang segera mengikuti dalam sebuah urutan operasi. Pertimbangkan ekspresi AB + ABC + BC, di mana variabel A, B, C berada di register R0, R1, R2. Jika isi dari ketiga register ini tidak boleh diubah, berapa jumlah siklus clock minimum yang dibutuhkan untuk urutan operasi yang menghitung nilai AB + ABC + BC?",
+    "option_a": "5",
+    "option_b": "6",
+    "option_c": "7",
+    "option_d": "8",
+    "answer": "B",
+    "id": "college_computer_science/dev/1"
+  },
+  {
+    "instruction": "Mengapa Mars berwarna merah?",
+    "option_a": "Karena permukaannya tertutup mineral yang sangat teroksidasi (\"berkarat\").",
+    "option_b": "Karena atmosfer menyebar lebih banyak cahaya dengan panjang gelombang biru sehingga hanya cahaya merah yang tersisa.",
+    "option_c": "Karena Mars ditutupi dengan aliran lava kuno yang berwarna merah.",
+    "option_d": "Karena ada air yang mengalir di permukaan Mars sehingga mengubah mineral permukaannya beberapa miliar tahun yang lalu.",
+    "answer": "A",
+    "id": "astronomy/dev/4"
+  },
+  {
+    "instruction": "Apa yang seharusnya dilakukan oleh praktisi media hubungan masyarakat jika ia tidak tahu jawaban dari pertanyaan seorang reporter?",
+    "option_a": "Berikan kepada reporter informasi lain yang dipastikan benar.",
+    "option_b": "Katakan bahwa informasi itu 'off the record' dan akan disebarluaskan nanti.",
+    "option_c": "Katakan 'Saya tidak tahu' dan berjanji untuk memberikan informasi nanti.",
+    "option_d": "Katakan 'no comment' daripada terlihat tidak berpengetahuan.",
+    "answer": "C",
+    "id": "public_relations/dev/0"
+  },
+  {
+    "instruction": "Pola desain Singleton digunakan untuk menjamin bahwa hanya satu instance dari sebuah kelas yang dapat diinstantiasi. Yang mana dari berikut yang benar tentang pola desain ini?\nI. Kelas Singleton memiliki metode fabrik statis untuk memberikan instance-nya.\nII. Kelas Singleton dapat menjadi subkelas dari kelas lain.\nIII. Kelas Singleton memiliki konstruktor pribadi.",
+    "option_a": "Hanya I",
+    "option_b": "Hanya II",
+    "option_c": "Hanya III",
+    "option_d": "I, II, dan III",
+    "answer": "D",
+    "id": "college_computer_science/dev/2"
+  },
+  {
+    "instruction": "Bagaimana Defensive Realism dan Offensive Realism berbeda dalam menjelaskan perilaku negara?",
+    "option_a": "Realisme defensif menempatkan lebih banyak penekanan pada peran institusi internasional",
+    "option_b": "Realisme defensif menempatkan penekanan yang kurang pada faktor geografis",
+    "option_c": "Realisme ofensif memberikan lebih banyak prioritas pada kepentingan nasional daripada realisme defensif.",
+    "option_d": "Realisme defensif percaya bahwa negara adalah pengoptimasi keamanan, sedangkan realisme ofensif percaya bahwa negara adalah pengoptimasi kekuasaan",
+    "answer": "D",
+    "id": "us_foreign_policy/dev/3"
+  },
+  {
+    "instruction": "Katakanlah murid mata Anda memiliki diameter 5 mm dan Anda memiliki teleskop dengan aperture 50 cm. Berapa banyak cahaya yang dapat dikumpulkan teleskop dibandingkan dengan mata Anda?",
+    "option_a": "10000 kali lebih banyak",
+    "option_b": "100 kali lebih banyak",
+    "option_c": "1000 kali lebih banyak",
+    "option_d": "10 kali lebih banyak",
+    "answer": "A",
+    "id": "astronomy/dev/2"
+  },
+  {
+    "instruction": "Struktur homolog sering dikutip sebagai bukti untuk proses seleksi alam. Semua berikut ini adalah contoh struktur homolog KECUALI",
+    "option_a": "sayap burung dan sayap kelelawar",
+    "option_b": "sirip paus dan lengan manusia",
+    "option_c": "sirip dada lumba-lumba dan sirip anjing laut",
+    "option_d": "kaki depan serangga dan anggota depan anjing",
+    "answer": "D",
+    "id": "high_school_biology/dev/4"
+  },
+  {
+    "instruction": "Pasangan pernyataan manakah di bawah ini yang benar (tahun 2019)?",
+    "option_a": "Orang cenderung optimis tentang masa depan mereka sendiri dan masa depan negara atau dunia mereka.",
+    "option_b": "Orang cenderung optimis tentang masa depan mereka sendiri tetapi pesimistis tentang masa depan negara atau dunia mereka.",
+    "option_c": "Orang cenderung pesimistis tentang masa depan mereka sendiri tetapi optimis tentang masa depan negara atau dunia mereka.",
+    "option_d": "Orang cenderung pesimistis tentang masa depan mereka sendiri dan masa depan negara atau dunia mereka.",
+    "answer": "B",
+    "id": "global_facts/dev/0"
+  },
+  {
+    "instruction": "Sebuah tangki pada awalnya berisi larutan garam sebanyak 3 gram garam yang dilarutkan dalam 100 liter air. Larutan garam yang mengandung 0,02 gram garam per liter air disemprotkan ke dalam tangki pada laju 4 liter per menit. Larutan yang disemprotkan dicampur terus-menerus dengan larutan garam di dalam tangki, dan campuran keluar dari tangki pada laju 4 liter per menit. Jika pencampuran terjadi secara instan, berapa banyak gram garam yang ada dalam tangki setelah 100 menit berlalu?",
+    "option_a": "2",
+    "option_b": "2 - e^-2",
+    "option_c": "2 + e^-2",
+    "option_d": "2 + e^-4",
+    "answer": "D",
+    "id": "college_mathematics/dev/1"
+  },
+  {
+    "instruction": "Salah satu dari klien Anda dalam terapi meminta saran tentang program penurunan berat badan yang baik. Anda telah menyelidiki program-program yang ada dan mendaftar di program yang menurut Anda terbaik. Program ini menawarkan bonus $50 kepada pelanggannya untuk setiap orang baru yang mereka bawa ke program. Dalam keadaan seperti ini, respons yang paling tepat adalah",
+    "option_a": "memberitahu klien Anda kelebihan dan kekurangan dari setiap program yang Anda ketahui kecuali program yang Anda ikuti",
+    "option_b": "merekomendasikan kepada klien Anda program yang Anda ikuti dan menjelaskan bonus $50 yang akan Anda terima",
+    "option_c": "merekomendasikan kepada klien Anda program yang Anda ikuti dan menawarkan bonus $50 dikreditkan ke akun klien Anda dalam program",
+    "option_d": "memberitahu klien Anda kelebihan dan kekurangan dari setiap program yang Anda ketahui, namun tidak mengklaim bonus $50 jika klien Anda mendaftar di program Anda",
+    "answer": "D",
+    "id": "professional_psychology/dev/0"
+  },
+  {
+    "instruction": "Manakah yang benar tentang lantai harga?",
+    "option_a": "Lantai harga menggeser kurva permintaan ke kiri.",
+    "option_b": "Lantai yang efektif menciptakan kekurangan barang.",
+    "option_c": "Lantai harga menggeser kurva penawaran barang ke kanan.",
+    "option_d": "Untuk menjadi lantai yang efektif, harus ditetapkan di atas harga keseimbangan.",
+    "answer": "D",
+    "id": "high_school_microeconomics/dev/3"
+  },
+  {
+    "instruction": "Mana di antara rumus PL berikut paling baik melambangkan kalimat berikut?\nKura-kura hidup lama dan merupakan makhluk bahagia, kecuali jika mereka terluka.",
+    "option_a": "(L • H) ≡ I",
+    "option_b": "(L • H) ∨ I",
+    "option_c": "L • (H ∨ I)",
+    "option_d": "L • (H ⊃ R)",
+    "answer": "B",
+    "id": "formal_logic/dev/4"
+  },
+  {
+    "instruction": "Sekolah yurisprudensi ________ mempostulatkan bahwa hukum didasarkan pada apa yang \"benar\".",
+    "option_a": "Hukum Alam",
+    "option_b": "Analitis",
+    "option_c": "Sejarah",
+    "option_d": "Sosiologis",
+    "answer": "A",
+    "id": "jurisprudence/dev/3"
+  },
+  {
+    "instruction": "Pada tahun 2019, sekitar berapa persen orang Rusia menganggap sangat penting untuk memiliki media bebas di negara kita tanpa sensor dari pemerintah/negara?",
+    "option_a": "38%",
+    "option_b": "53%",
+    "option_c": "68%",
+    "option_d": "83%",
+    "answer": "A",
+    "id": "global_facts/dev/3"
+  },
+  {
+    "instruction": "Apa konsekuensi untuk estimator OLS jika heteroskedastisitas hadir dalam model regresi tetapi diabaikan?",
+    "option_a": "Akan bias",
+    "option_b": "Akan inkonsisten",
+    "option_c": "Akan tidak efisien",
+    "option_d": "Semua jawaban (a), (b), dan (c) akan benar.",
+    "answer": "C",
+    "id": "econometrics/dev/3"
+  },
+  {
+    "instruction": "Tanda perjanjian bagi laki-laki Yahudi adalah?",
+    "option_a": "Pelangi",
+    "option_b": "Sunat",
+    "option_c": "Anak laki-laki",
+    "option_d": "Bar mitzvah",
+    "answer": "B",
+    "id": "world_religions/dev/0"
+  },
+  {
+    "instruction": "Jika seseorang menyerang karakter penentang argumennya, bukannya merespons argumen lawan tersebut, orang pertama kemungkinan telah melakukan yang berikut ini:",
+    "option_a": "tu quoque",
+    "option_b": "tertawa cekikikan",
+    "option_c": "argumen melawan orang",
+    "option_d": "ignoratio elenchi",
+    "answer": "C",
+    "id": "logical_fallacies/dev/0"
+  },
+  {
+    "instruction": "Buat tabel kebenaran lengkap untuk pasangan proposisi berikut. Kemudian, menggunakan tabel kebenaran, tentukan apakah pernyataan tersebut secara logis setara atau saling bertentangan. Jika tidak, tentukan apakah mereka konsisten atau inkonsisten. Justifikasi jawabanmu.\nE ⊃ (F · E) dan ~E · F",
+    "option_a": "Secara logis setara",
+    "option_b": "Saling bertentangan",
+    "option_c": "Tidak secara logis setara atau saling bertentangan, tetapi konsisten",
+    "option_d": "Inkonsisten",
+    "answer": "C",
+    "id": "formal_logic/dev/3"
+  },
+  {
+    "instruction": "Manakah dari yang berikut ini yang tidak diketahui terlibat dalam pengendalian pembelahan sel?",
+    "option_a": "Siklin",
+    "option_b": "Protein kinase",
+    "option_c": "Titik pemeriksaan",
+    "option_d": "Sel fibroblas",
+    "answer": "D",
+    "id": "high_school_biology/dev/3"
+  },
+  {
+    "instruction": "Misalkan A adalah matriks real 2x2. Pernyataan berikut yang mana yang pasti benar?\r\nI. Semua entri dari A^2 nonnegatif.\r\nII. Determinan dari A^2 nonnegatif.\r\nIII. Jika A memiliki dua eigenvalue yang berbeda, maka A^2 memiliki dua eigenvalue yang berbeda.",
+    "option_a": "Hanya I",
+    "option_b": "Hanya II",
+    "option_c": "Hanya III",
+    "option_d": "Hanya II dan III",
+    "answer": "B",
+    "id": "college_mathematics/dev/2"
+  },
+  {
+    "instruction": "Anda mendorong sebuah truk di sepanjang jalan. Apakah akan lebih mudah untuk mempercepat truk di Mars? Mengapa? (Anggap tidak ada gesekan)",
+    "option_a": "Lebih sulit karena truk lebih berat di Mars.",
+    "option_b": "Lebih mudah karena truk lebih ringan di Mars.",
+    "option_c": "Lebih sulit karena truk lebih ringan di Mars.",
+    "option_d": "Tidak akan berbeda di mana pun Anda berada.",
+    "answer": "D",
+    "id": "astronomy/dev/0"
+  },
+  {
+    "instruction": "Posisi manakah yang diklaim oleh Rawls sebagai yang paling tidak mungkin diadopsi oleh POP (orang-orang dalam posisi asli)?",
+    "option_a": "POP akan memilih kesetaraan di atas kebebasan.",
+    "option_b": "POP akan memilih strategi 'maximin'.",
+    "option_c": "POP akan memilih prinsip 'perbedaan'.",
+    "option_d": "POP akan menolak 'sistem kebebasan alam.'",
+    "answer": "A",
+    "id": "jurisprudence/dev/0"
+  },
+  {
+    "instruction": "Untuk proses autoregresif yang stasioner, guncangan akan",
+    "option_a": "Akhirnya pudar",
+    "option_b": "Bertahan tanpa batas waktu",
+    "option_c": "Tumbuh secara eksponensial",
+    "option_d": "Tidak pernah terjadi",
+    "answer": "A",
+    "id": "econometrics/dev/0"
+  },
+  {
+    "instruction": "Defisit federal terjadi saat",
+    "option_a": "ekspor melebihi impor.",
+    "option_b": "impor melebihi ekspor.",
+    "option_c": "penerimaan pajak federal melebihi pengeluaran.",
+    "option_d": "pengeluaran federal melebihi penerimaan pajak federal.",
+    "answer": "D",
+    "id": "high_school_macroeconomics/dev/2"
+  },
+  {
+    "instruction": "Bagaimana struktur organisasi yang ditandai dengan gaya manajemen demokratis dan inklusif dapat dijelaskan?",
+    "option_a": "Hierarkis",
+    "option_b": "Birokratis",
+    "option_c": "Datar",
+    "option_d": "Fungsional",
+    "answer": "C",
+    "id": "management/dev/4"
+  },
+  {
+    "instruction": "Dalam tes genetik bayi baru lahir, ditemukan kelainan genetik langka yang diturunkan secara resesif berikatan X. Pernyataan manakah di bawah ini kemungkinan benar mengenai silsilah penyakit ini?",
+    "option_a": "Seluruh keturunan di sisi ibu akan memiliki kelainan tersebut.",
+    "option_b": "Perempuan akan mengalami dampak sekitar dua kali lebih berat daripada laki-laki dalam keluarga ini.",
+    "option_c": "Seluruh putri dari laki-laki yang terkena akan terkena dampak kelainan tersebut.",
+    "option_d": "Pembagian laki-laki dan perempuan yang terkena dampak akan sama.",
+    "answer": "C",
+    "id": "college_medicine/dev/2"
+  },
+  {
+    "instruction": "Berapa banyak kali usaha yang harus dilakukan untuk melakukan kanulasi pada pasien sebelum pekerjaan tersebut diserahkan kepada rekan kerja senior, menurut pengetahuan medis tahun 2020?",
+    "option_a": "4",
+    "option_b": "3",
+    "option_c": "2",
+    "option_d": "1",
+    "answer": "C",
+    "id": "clinical_knowledge/dev/3"
+  },
+  {
+    "instruction": "Untuk beberapa skenario berikut, di antara skenario mana tokoh utama (yang menggunakan saya/aku) melakukan sesuatu yang dengan jelas salah secara moral menurut standar moral biasa di AS pada tahun 2020? Skenario 1 | Saya sangat mencintai bayi laki-laki saya yang baru lahir. Skenario 2 | Gadis baru itu merasa malu tinggal di trailer park, jadi saya mengundang teman sekelas ke rumahnya.",
+    "option_a": "Salah, salah",
+    "option_b": "Salah, tidak salah",
+    "option_c": "Tidak salah, salah",
+    "option_d": "Tidak salah, tidak salah",
+    "answer": "C",
+    "id": "moral_scenarios/dev/0"
+  },
+  {
+    "instruction": "Apa yang membedakan diplomasi paksa dari kekuatan militer?",
+    "option_a": "Compellence adalah istilah lain untuk diplomasi paksa, tetapi meliputi kriteria yang lebih sempit; compellence meliputi ancaman yang bertujuan untuk memulai tindakan lawan. Ancaman untuk memaksa suatu negara untuk menyerahkan sebagian wilayahnya akan dianggap sebagai diplomasi paksa, selama ancaman tersebut secara proaktif memulai tindakan sebelum diplomasi reaktif diambil.",
+    "option_b": "Diplomasi paksa merupakan ancaman kekuatan terbatas untuk mendorong insentif lawan untuk mematuhi tuntutan dari pihak paksa. Ini adalah strategi pengaruh yang dimaksudkan untuk memperoleh kepatuhan: penggunaan kekuatan untuk mengalahkan lawan pertama tidak dihitung. Ini meninggalkan unsur pilihan dengan target untuk mematuhi, atau melanjutkan.",
+    "option_c": "Kekuatan militer, atau ancaman kekuatan militer, menggunakan ketakutan untuk mencapai tujuan strategis. Diplomasi paksa dibedakan dari pendekatan ini, karena tidak menggunakan ketakutan sebagai alat untuk memaksa lawan.",
+    "option_d": "Diplomasi paksa digunakan untuk menggunakan kekuatan tetapi membatasi efeknya pada komunitas internasional. Diplomasi paksa adalah strategi agresif yang dimaksudkan untuk memperoleh kepatuhan melalui kekalahan. Ini tidak meninggalkan unsur pilihan dengan target, target harus dipaksa untuk mematuhi atau terlibat dalam konflik. Ini berusaha untuk mengontrol dengan menerapkan kepatuhan dengan menghilangkan segala kesempatan untuk negosiasi atau konsesi.",
+    "answer": "B",
+    "id": "security_studies/dev/0"
+  },
+  {
+    "instruction": "Kesalahan kompleksitas pertanyaan terdiri dari",
+    "option_a": "memperdebatkan sesuatu yang lebih rendah hanya karena tidak melakukan sesuatu yang seharusnya tidak dilakukan.",
+    "option_b": "mencakup lebih dari satu pernyataan dalam proposisi dan memperlakukan bukti untuk satu pernyataan sebagai bukti untuk semua pernyataan.",
+    "option_c": "menarik kesimpulan sebelum memeriksa bukti, dan hanya mempertimbangkan bukti yang mendukung kesimpulan tersebut.",
+    "option_d": "mengajukan pertanyaan yang mencakup asumsi yang tidak terbukti atau lebih dari satu pertanyaan, sehingga membuat jawaban ya atau tidak secara langsung menjadi tidak bermakna.",
+    "answer": "D",
+    "id": "logical_fallacies/dev/1"
+  },
+  {
+    "instruction": "Bagaimana kita dapat menjelaskan hubungan antara pendekatan yang berpusat pada negara dengan konsep keamanan manusia secara terbaik?",
+    "option_a": "Ada divisi yang begitu luas dalam kerangka keamanan manusia mengenai sifat ancaman dan objek referensi sehingga tidak dapat disimpulkan perbandingan yang dapat diterapkan secara luas antara pendekatan yang berpusat pada negara dan keamanan manusia.",
+    "option_b": "Dengan mengadopsi kerangka keamanan manusia, keterbatasan pendekatan yang berpusat pada negara realis menjadi jelas. Sementara keamanan manusia menentukan objek referensi sebagai orang atau populasi, pendekatan yang berpusat pada negara memprioritaskan keamanan negara dengan mengesampingkan pengejaran keamanan manusia.",
+    "option_c": "Pendekatan yang berpusat pada negara terhadap keamanan adalah faksi keamanan manusia, biasanya didefinisikan di dalam sekolah besar dari keamanan manusia. Dengan menjadi berpusat pada negara, pendekatan ini memprioritaskan individu sebagai objek referensi dalam studi keamanan.",
+    "option_d": "Baik pendekatan yang berpusat pada negara maupun keamanan yang berpusat pada manusia saling terpisah dan menawarkan kerangka analitis yang memadai untuk memahami sistem keamanan internasional. Oleh karena itu, menjadi peran analis keamanan untuk menentukan konsep yang substansial mana yang benar, dan mana yang harus dibuang.",
+    "answer": "B",
+    "id": "security_studies/dev/3"
+  },
+  {
+    "instruction": "Sejumlah 30 pemain akan bermain basket di sebuah taman. Akan ada tepat 5 pemain di setiap tim. Pernyataan mana yang menjelaskan dengan benar bagaimana mencari jumlah tim yang dibutuhkan?",
+    "option_a": "Tambahkan 5 dengan 30 untuk menemukan 35 tim.",
+    "option_b": "Bagikan 30 dengan 5 untuk menemukan 6 tim.",
+    "option_c": "Kalikan 30 dan 5 untuk menemukan 150 tim.",
+    "option_d": "Kurangi 5 dari 30 untuk menemukan 25 tim.",
+    "answer": "B",
+    "id": "elementary_mathematics/dev/2"
+  },
+  {
+    "instruction": "Manakah di antara berikut yang merupakan contoh penggunaan perangkat pada Internet of Things (IoT)?",
+    "option_a": "Sebuah mobil memberi peringatan kepada pengemudinya bahwa mobil tersebut hampir menabrak suatu benda.",
+    "option_b": "Seorang pendaki gunung menggunakan jam GPS untuk melacak posisinya.",
+    "option_c": "Sebuah kulkas memesan susu dari layanan pengiriman online ketika stok susu di dalam kulkas hampir habis.",
+    "option_d": "Seorang pelari menggunakan jam tangan dengan sensor optik untuk memantau detak jantungnya.",
+    "answer": "C",
+    "id": "high_school_computer_science/dev/0"
+  },
+  {
+    "instruction": "Pertanyaan ini merujuk pada informasi berikut.\nDia memuat semua karya dan keinginan serta semua parfum dan semua rasa. Dia meliputi seluruh alam semesta dan dalam keheningan mencintai semua. Itulah Roh yang ada di dalam hatiku, inilah Brahman. Kepadanya aku akan datang saat aku melepas hidup ini, dan kepada-Nya akan datang orang yang memiliki iman dan tidak meragukan-Nya.\n—Upanishad, India, sekitar 1000 SM\nKepada agama apakah sang pembicara kemungkinan tergabung?",
+    "option_a": "Hinduisme",
+    "option_b": "Buddhisme",
+    "option_c": "Shintoisme",
+    "option_d": "Zoroastrianisme",
+    "answer": "A",
+    "id": "high_school_world_history/dev/0"
+  },
+  {
+    "instruction": "Secara tradisional, ketika kita memiliki atribut masukan yang bernilai riil selama pembelajaran pohon keputusan, kami mempertimbangkan pemisahan biner sesuai dengan apakah atribut di atas atau di bawah ambang batas tertentu. Pat menyarankan bahwa sebaliknya kita seharusnya memiliki pemisahan multiway dengan satu cabang untuk setiap nilai yang berbeda dari atribut tersebut. Dari daftar di bawah ini, pilih satu masalah terbesar dengan saran Pat:",
+    "option_a": "Terlalu mahal secara komputasi.",
+    "option_b": "Mungkin akan menghasilkan pohon keputusan yang buruk di set pelatihan dan set pengujian.",
+    "option_c": "Mungkin akan menghasilkan pohon keputusan yang bagus di set pelatihan tetapi buruk di set pengujian.",
+    "option_d": "Mungkin akan menghasilkan pohon keputusan yang bagus di set pengujian tetapi buruk di set pelatihan.",
+    "answer": "C",
+    "id": "machine_learning/dev/4"
+  }
+]

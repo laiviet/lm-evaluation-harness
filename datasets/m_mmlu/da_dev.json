@@ -1,0 +1,2423 @@
+[
+  {
+    "instruction": "Overvej følgende AR(1) model med forstyrrelser, der har nul middelværdi og enkelt varians\n\nyt = 0.2 + 0.4 yt-1 + ut\n\n(y's (betingede) middelværdi vil være givet ved)",
+    "option_a": "0.2",
+    "option_b": "0.4",
+    "option_c": "0.5",
+    "option_d": "0.33",
+    "answer": "D",
+    "id": "econometrics/dev/1"
+  },
+  {
+    "instruction": "En 42-årig mand kommer til kontoret til en forundersøgelse før han skal gennemgå en adrenalektomi om 2 uger. For en måned siden fik han behandling på skadestuen for smerter over sin højre flanke efter en motorcykelulykke. På det tidspunkt var hans blodtryk 160/100 mm Hg, og CT-skanning af maven viste en tilfældig 10 cm venstre binyremasse. Resultaterne af laboratorieundersøgelser, herunder komplet blodtælling, serum elektrolytkoncentrationer og leverfunktionstest, var inden for referenceværdierne. Patienten havde ellers været sund og havde aldrig fået at vide, at han havde forhøjet blodtryk. Han tager ingen medicin. En opfølgningsundersøgelse på kontoret for 2 uger siden afslørede forhøjet urin-normetanephrin og metanephrin og plasma aldosteronkoncentrationer. Patienten blev henvist til en kirurg, der anbefalede adrenalektomi. I dag er vitale tegn en temperatur på 36,6 °C (97,9 °F), puls 100/min, respirationsfrekvens 14/min og blodtryk 170/95 mm Hg. Den initiale præoperative forberedelse bør omfatte behandling med følgende?",
+    "option_a": "Labetalol",
+    "option_b": "En indlæsningsdosis af kaliumklorid",
+    "option_c": "Nifedipin",
+    "option_d": "Phenoxybenzamin",
+    "answer": "D",
+    "id": "professional_medicine/dev/0"
+  },
+  {
+    "instruction": "Ifølge Moore's 'ideelle utilitarisme' er den rigtige handling den, der fører til den største mængde af:",
+    "option_a": "behag.",
+    "option_b": "lykke.",
+    "option_c": "godt.",
+    "option_d": "dyd.",
+    "answer": "C",
+    "id": "philosophy/dev/1"
+  },
+  {
+    "instruction": "Hvad er ikke inkluderet i USA's BNP?",
+    "option_a": "USA-militæret åbner en ny base i et fremmed land med 1000 amerikansk personale.",
+    "option_b": "Japanske forbrugere køber tusindvis af CD'er produceret i USA.",
+    "option_c": "En amerikansk pop-sanger giver en udsolgt koncert i Paris.",
+    "option_d": "En fransk teaterproduktion turnerer dusinvis af amerikanske byer.",
+    "answer": "C",
+    "id": "high_school_macroeconomics/dev/0"
+  },
+  {
+    "instruction": "Hvilken af ​​disse udsagn er sandt om Vatikanet i 2010, på tidspunktet for anklagerne om dækning af ​​børnemishandling?",
+    "option_a": "Der var en koordineret mediereaktion.",
+    "option_b": "Konsistente budskaber blev kommunikeret.",
+    "option_c": "Kritik blev opfattet som angreb på den katolske kirke.",
+    "option_d": "Vatikanets troværdighed blev opretholdt.",
+    "answer": "C",
+    "id": "public_relations/dev/2"
+  },
+  {
+    "instruction": "Antag at en test-statistik har tilknyttet en p-værdi på 0,08. Hvilken af følgende udsagn er sandt?\n\n(i) Hvis testens størrelse var præcis 8%, ville vi være ligeglade med at afvise eller ikke afvise den nulhypotese\n\n(ii) Nulhypotesen ville blive afvist, hvis en teststørrelse på 10% blev anvendt\n\n(iii) Nulhypotesen ville ikke blive afvist, hvis en teststørrelse på 1% blev anvendt\n\n(iv) Nulhypotesen ville blive afvist, hvis en teststørrelse på 5% blev anvendt.",
+    "option_a": "(ii) og (iv) alene",
+    "option_b": "(i) og (iii) alene",
+    "option_c": "(i), (ii) og (iii) alene",
+    "option_d": "(i), (ii), (iii) og (iv)",
+    "answer": "C",
+    "id": "econometrics/dev/2"
+  },
+  {
+    "instruction": "Når en arguer forårsager forvirring under modbevisning på grund af reel eller påtaget manglende evne til at deltage i modbevisning, kan denne arguer have begået fejlen af",
+    "option_a": "dårlig sportsånd",
+    "option_b": "appel til medlidenhed",
+    "option_c": "argument imod personen",
+    "option_d": "ignorering af modbevisning",
+    "answer": "D",
+    "id": "logical_fallacies/dev/4"
+  },
+  {
+    "instruction": "Dette spørgsmål vedrører følgende information.\n\"Arbejderens virkelige klage er usikkerheden ved hans eksistens; han er ikke sikker på, at han altid vil have arbejde, han er ikke sikker på, at han altid vil være sund, og han ser for sig, at han en dag vil være gammel og ude af stand til at arbejde. Hvis han falder i fattigdom, selvom det kun er gennem en langvarig sygdom, er han så helt hjælpeløs, overladt til sig selv, og samfundet anerkender ikke nogen egentlig forpligtelse overfor ham ud over den sædvanlige hjælp til de fattige, selvom han har arbejdet hele tiden så trofast og flittigt. Den sædvanlige hjælp til de fattige efterlader imidlertid meget at ønske, især i store byer, hvor den er meget værre end på landet.\"\nOtto von Bismarck, 1884\nOtto von Bismarck sagde sandsynligvis denne tale som reaktion på hvilket af følgende problemer?",
+    "option_a": "Social accept af børnearbejde",
+    "option_b": "Faldende forventet levetid i Tyskland",
+    "option_c": "Kritik af tyske handelstariffer",
+    "option_d": "Negative virkninger tilskrevet industrielt kapitalisme",
+    "answer": "D",
+    "id": "high_school_world_history/dev/2"
+  },
+  {
+    "instruction": "Hvilken japansk regering fremmede en slags national kult baseret på kejseren og hans forbindelser med kami?",
+    "option_a": "Honen",
+    "option_b": "Tanaka",
+    "option_c": "Tokugawa",
+    "option_d": "Meiji",
+    "answer": "D",
+    "id": "world_religions/dev/3"
+  },
+  {
+    "instruction": "Hvilken af følgende er det bedste perspektiv til at undersøge rollen af ​​børnesoldater?",
+    "option_a": "Børnesoldater er ofre for kamp, der har brug for oplæring og rehabilitering.",
+    "option_b": "Børn og deres mødre er ikke aktive subjekter i krig og bør betragtes som subjekter i privatlivets fred.",
+    "option_c": "Børn er oftest uskyldige tilskuere i krig og bør bruges som tegn på fred.",
+    "option_d": "Børn har politisk subjekthed, der går tabt, når de betragtes som passive ofre for krigsførelse.",
+    "answer": "D",
+    "id": "security_studies/dev/1"
+  },
+  {
+    "instruction": "Energien til alle former for muskelkontraktion kommer fra:",
+    "option_a": "ATP.",
+    "option_b": "ADP.",
+    "option_c": "fosfocreatin.",
+    "option_d": "oxidativ fosforylering.",
+    "answer": "A",
+    "id": "clinical_knowledge/dev/0"
+  },
+  {
+    "instruction": "Koncentrationsforholdet for et monopol er",
+    "option_a": "0",
+    "option_b": "5",
+    "option_c": "10",
+    "option_d": "100",
+    "answer": "D",
+    "id": "high_school_microeconomics/dev/2"
+  },
+  {
+    "instruction": "I en given population har 1 ud af hver 400 mennesker kræft forårsaget af en fuldstændig recessiv allel, b. Hvis populationen er i Hardy-Weinberg- ligevægt, hvilken af følgende er den forventede andel af individer, som bærer b-allelen, men ikke forventes at udvikle kræft?",
+    "option_a": "1/400",
+    "option_b": "19/400",
+    "option_c": "20/400",
+    "option_d": "38/400",
+    "answer": "D",
+    "id": "college_biology/dev/1"
+  },
+  {
+    "instruction": "Når ældre flytter til en ny stat efter pensionering, hvad er så den mest sandsynlige destination?",
+    "option_a": "Texas",
+    "option_b": "California",
+    "option_c": "Hawaii",
+    "option_d": "Vermont",
+    "answer": "A",
+    "id": "human_aging/dev/2"
+  },
+  {
+    "instruction": "Hvem er den korteste mand, der nogensinde har vundet en NBA slam dunk-konkurrence?",
+    "option_a": "Anthony 'Spud' Webb",
+    "option_b": "Michael 'Air' Jordan",
+    "option_c": "Tyrone 'Muggsy' Bogues",
+    "option_d": "Julius 'Dr J' Erving",
+    "answer": "A",
+    "id": "miscellaneous/dev/2"
+  },
+  {
+    "instruction": "En løsning indeholder 2,00 mol eddikesyre, CH3COOH, og 1,00 mol calciumacetat, Ca(CH3COO)2. Løsningen er i stand til at modstå tilsætning af en lille mængde stærk syre eller stærk base med kun mindre ændringer i pH-værdien af løsningen. Større mængder af stærk syre eller stærk base kan forårsage en betydelig ændring i pH-værdien. Hvor mange mol salpetersyre, HNO3, kan tilsættes, før pH-værdien begynder at ændre sig betydeligt?",
+    "option_a": "0,500 mol",
+    "option_b": "1,00 mol",
+    "option_c": "2,00 mol",
+    "option_d": "3,00 mol",
+    "answer": "C",
+    "id": "high_school_chemistry/dev/4"
+  },
+  {
+    "instruction": "Udnyttelse af Heartbleed-bug'en tillader",
+    "option_a": "overskrivning af kryptografiske nøgler i hukommelsen",
+    "option_b": "en form for kodeinjektion",
+    "option_c": "en læsning uden for grænserne af en buffer",
+    "option_d": "en formatstrengangreb",
+    "answer": "C",
+    "id": "computer_security/dev/3"
+  },
+  {
+    "instruction": "DNA ligase er",
+    "option_a": "enzymer, der limer fragmenter sammen i normal DNA-replikation",
+    "option_b": "enzymer af bakteriel oprindelse, der klipper DNA ved definerede baser",
+    "option_c": "enzymer, der letter transkriptionen af specifikke gener",
+    "option_d": "enzymer, der begrænser niveauet, hvortil en bestemt næringsstof når",
+    "answer": "A",
+    "id": "medical_genetics/dev/1"
+  },
+  {
+    "instruction": "Terminet 'hegemoni' henviser til:",
+    "option_a": "tendensen for arbejderklassen til ikke at opdage deres egne interesser",
+    "option_b": "en dominerende ideologi, der legitimerer økonomisk, politisk og kulturel magt",
+    "option_c": "en form for dobbelt bevidsthed baseret på ideologi og daglige oplevelser",
+    "option_d": "en betalingsform, der gives for en fremragende arbejde i beskæring af træer",
+    "answer": "B",
+    "id": "sociology/dev/3"
+  },
+  {
+    "instruction": "Den mediane overlevelsestid til AIDS og død blev etableret ved at følge:",
+    "option_a": "Seroprævalente HIV-inficerede personer",
+    "option_b": "Seronegative",
+    "option_c": "Seroconvertere",
+    "option_d": "Højrisiko-seronegative",
+    "answer": "C",
+    "id": "virology/dev/4"
+  },
+  {
+    "instruction": "Dette spørgsmål omhandler følgende information.\nLæs følgende uddrag.\nDen revolutionære frø havde trængt ind i hvert land og spredt sig mere eller mindre. Det blev kraftigt udviklet under Bonapartes militære despotismes regime. Hans erobringer erstattede en række love, institutioner og skikke; brød igennem bånd, der var hellige for alle nationer, stærke nok til at modstå tiden selv; hvilket er mere end man kan sige om visse fordele, som disse innovatører har givet.\nMonarkerne vil opfylde de opgaver, der pålægges dem af Ham, som ved at betro dem magten, har instrueret dem i at overvåge opretholdelsen af retfærdighed og alles rettigheder, undgå fejlstierne og træde fast i sandhedens vej. Placeret ud over lidenskaberne, der ryster samfundet, er det især i prøvende dage, at de bliver kaldt på for at tage virkeligheden fra deres falske ydre og vise sig selv, som de er, fædre investeret med myndigheden, der tilhører familiehovederne i rette tid, for at bevise, at i sorgens dage kan de være retfærdige, vise og derfor stærke, og at de ikke vil forlade folket, som de skal styre for at blive spil for fraktioner, fejl og dens konsekvenser, der nødvendigvis fører til tab af samfundet.\nUnion mellem monarkerne er grundlaget for den politik, der nu skal følges for at redde samfundet fra fuldstændig ruin. . . .\nLad dem ikke forveksle indrømmelser gjort til partier med det gode, de skal gøre for deres folk ved at modificere sådanne grene af administrationen efter deres anerkendte behov.\nLad dem være retfærdige, men stærke; velgørende, men strenge.\nLad dem opretholde religiøse principper i al deres renhed og ikke tillade, at troen angribes, og moralen fortolkes i henhold til den sociale kontrakt eller de tåbelige sektarianske visioner.\nLad dem undertrykke hemmelige samfund; den kræft, der angriber samfundet.\n—Klemens von Metternich, Politisk trosbekendelse, 1820\nHvad var den største årsag til de frygt, Metternich udtrykte i dokumentet ovenfor?",
+    "option_a": "Ideerne om personlig frihed og nationalisme, der blev skabt under oplysningstiden, resulterede i radikale revolutioner, der kunne sprede sig i hele Europa.",
+    "option_b": "Erobringen af Europa af Napoleon førte til oprettelsen af nye fraktioner og skiftede Europas magtbalance.",
+    "option_c": "Monarkernes magt var vokset til det punkt, hvor den skulle holdes i skak af andre kræfter inden for hver nation eller som følge af borgernes dominans ville opstå.",
+    "option_d": "Op- og nedgangen i den nyopståede kapitalistiske økonomi kunne føre til borgerlige uroligheder, der måtte undertrykkes.",
+    "answer": "A",
+    "id": "high_school_european_history/dev/1"
+  },
+  {
+    "instruction": "Sammenlignet med massen af et uranatom, der undergår fisson, er den samlede masse af produkterne efter fisson",
+    "option_a": "mindre",
+    "option_b": "mere",
+    "option_c": "den samme",
+    "option_d": "nul",
+    "answer": "A",
+    "id": "conceptual_physics/dev/0"
+  },
+  {
+    "instruction": "Find karakteristikken for ringen 2Z.",
+    "option_a": "0",
+    "option_b": "3",
+    "option_c": "12",
+    "option_d": "30",
+    "answer": "A",
+    "id": "abstract_algebra/dev/4"
+  },
+  {
+    "instruction": "I modsætning til _______ har _______ til formål at belønne favorable adfærd fra virksomheder. Succesen af sådanne kampagner er blevet forstærket gennem brugen af ___________, som tillader kampagner at lette virksomheden i at opnå _________.",
+    "option_a": "Buycotts, Boykotter, Blockchain-teknologi, Velgørende donationer",
+    "option_b": "Buycotts, Boykotter, Digital teknologi, Øget salg",
+    "option_c": "Boycotts, Buyalls, Blockchain-teknologi, Velgørende donationer",
+    "option_d": "Boycotts, Buycotts, Digital teknologi, Øget salg",
+    "answer": "D",
+    "id": "business_ethics/dev/4"
+  },
+  {
+    "instruction": "Hvilket af følgende er en antagelse i Maslows behovspyramide?",
+    "option_a": "Behov afhænger af kultur og også af samfundsklasse.",
+    "option_b": "Behov på lavere niveauer skal være mindst delvist opfyldt, før højere behov kan påvirke adfærd.",
+    "option_c": "Behov er ikke prioriteret eller arrangeret i nogen bestemt rækkefølge.",
+    "option_d": "Opfyldte behov er motivationsfaktorer, og nye behov opstår, når nuværende behov forbliver uopfyldt.",
+    "answer": "B",
+    "id": "marketing/dev/2"
+  },
+  {
+    "instruction": "Forenkl og skriv resultatet med en rationel nævner: $$\\sqrt{\\sqrt[3]{\\sqrt{\\frac{1}{729}}}}$$",
+    "option_a": "\\frac{3\\sqrt{3}}{3}",
+    "option_b": "\\frac{1}{3}",
+    "option_c": "\\sqrt{3}",
+    "option_d": "\\frac{\\sqrt{3}}{3}",
+    "answer": "D",
+    "id": "high_school_mathematics/dev/3"
+  },
+  {
+    "instruction": "Hvilket af de følgende sæt har den mindste standardafvigelse? Hvad med den største? \nI: {1,2,3}\nII: {-10,10}\nIII: {100}\n",
+    "option_a": "I, II",
+    "option_b": "II, III",
+    "option_c": "III, I",
+    "option_d": "III, II",
+    "answer": "D",
+    "id": "high_school_statistics/dev/4"
+  },
+  {
+    "instruction": "_____________ kan ændre data på dit system – så dit system ikke kører korrekt mere, eller du ikke længere kan få adgang til specifikke data, eller det kan endda kræve løsepenge for at give dig adgang.",
+    "option_a": "IM – Trojanske heste",
+    "option_b": "Bagdør-Trojanske heste",
+    "option_c": "Trojan-Downloader",
+    "option_d": "Løsepenge-Trojaner",
+    "answer": "D",
+    "id": "computer_security/dev/1"
+  },
+  {
+    "instruction": "Iverson Jewelers skrev et brev til Miller, 'Vi har modtaget et exceptionelt fint selvvindende Rolox ur, som vi vil sælge til dig til en meget favorabel pris.'",
+    "option_a": "Brevet er et tilbud om salg",
+    "option_b": "Et gyldigt tilbud kan ikke laves via brev.",
+    "option_c": "Brevet indeholder et gyldigt tilbud, som vil udløbe inden for en rimelig tid.",
+    "option_d": "Brevet mangler en af de essentielle elementer i et tilbud.",
+    "answer": "D",
+    "id": "jurisprudence/dev/4"
+  },
+  {
+    "instruction": "Hvilken af disse grene af trigeminusnerven indeholder somatiske motorprocesser?",
+    "option_a": "Den supraorbitale nerve",
+    "option_b": "Den infraorbitale nerve",
+    "option_c": "Den mentale nerve",
+    "option_d": "Ingen af ovenstående",
+    "answer": "D",
+    "id": "anatomy/dev/1"
+  },
+  {
+    "instruction": "Variablen $x$ varierer direkte i forhold til kvadratet af $y$, og $y$ varierer direkte i forhold til tredje potens af $z$. Hvis $x$ er lig med $-16$, når $z$ er lig med $2$, hvad er så værdien af $x$, når $z$ er lig med $\\frac{1}{2}$?",
+    "option_a": "-1",
+    "option_b": "16",
+    "option_c": "-\\frac{1}{256}",
+    "option_d": "\\frac{1}{16}",
+    "answer": "C",
+    "id": "high_school_mathematics/dev/2"
+  },
+  {
+    "instruction": "En statlig lovgiver har for nylig vedtaget en lov, der gør det til en forseelse at bande, håne eller bruge obskænt eller kritiserende sprog om en politibetjent, der udfører sine pligter. En studerende på et statsligt universitet organiserede en demonstration på campus for at protestere mod krigen. Demonstrationen blev deltaget af en gruppe på 50 studerende, der råbte antikrigsbudskaber til biler, der kørte forbi. For at vise sin ringeagt for USA syede studerende det amerikanske flag på bagsiden af sine jeans. Da en politibetjent så flaget på den studerendes jeans, approachede han og fortalte ham at fjerne flaget eller blive anholdt. Den studerende blev vred og råbte til politimanden: \"Hør her, din forbandede, jeg vil bære dette lorte stykke tøj, hvor jeg vil.\" Den studerende blev efterfølgende anholdt og sigtet for overtrædelse af statslovgivningen. Den studerende anlægger efterfølgende sag ved statsdomstolen og udfordrer lovbestemmelsens forfatningsmæssighed. Den stærkeste forfatningsmæssige argument for den studerende er, at",
+    "option_a": "lovgivningen er ugyldig på grund af uklarhed under Fourteenth Amendment's due process clause.",
+    "option_b": "lovgivningen er ugyldig, fordi den krænker sagsøgerens ytringsfrihed under First Amendment.",
+    "option_c": "lovgivningen begrænser ytringsfriheden i strid med First Amendment, fordi der er mindre restriktive midler til rådighed for at opnå det samme formål.",
+    "option_d": "lovgivningen er for bred og derfor ugyldig i henhold til First og FourteenthAmendments.",
+    "answer": "D",
+    "id": "professional_law/dev/0"
+  },
+  {
+    "instruction": "Resultatet af at voksne har en tendens til at huske begivenheder fra deres adolescence bedre end fra andre perioder i deres liv omtales som",
+    "option_a": "Adolescence fordel",
+    "option_b": "Erindrings-mæssig top",
+    "option_c": "Minde memorial",
+    "option_d": "Kvadratisk hentningsspids",
+    "answer": "B",
+    "id": "human_aging/dev/1"
+  },
+  {
+    "instruction": "Joe var ansvarlig for lysene til en dans. Det røde lyset blinker hver to sekunder, det gule lyset hver tre sekunder, og det blå lyset hver fem sekunder. Hvor mange ganger i løpet av en syvminutters dans vil alle lysene lyse samtidig, inkludert helt i begynnelsen og helt på slutten av dansen? (Anta at alle tre lys blinker samtidig helt i begynnelsen av dansen.)",
+    "option_a": "3",
+    "option_b": "15",
+    "option_c": "6",
+    "option_d": "5",
+    "answer": "B",
+    "id": "high_school_mathematics/dev/0"
+  },
+  {
+    "instruction": "For 100 år siden investerede din tip-tip-oldemor $100 med en årlig rente på 5 procent. Hvad er investeringen værd i dag?",
+    "option_a": "$13.000",
+    "option_b": "$600",
+    "option_c": "$15.000",
+    "option_d": "$28.000",
+    "answer": "A",
+    "id": "professional_accounting/dev/1"
+  },
+  {
+    "instruction": "Området for politiske beslutninger, der primært vedrører forholdet mellem USA og resten af verden, kendes som",
+    "option_a": "terrortrusler.",
+    "option_b": "økonomisk politik.",
+    "option_c": "udenrigspolitik.",
+    "option_d": "international politik.",
+    "answer": "C",
+    "id": "us_foreign_policy/dev/2"
+  },
+  {
+    "instruction": "En søn skyldte en kreditor $ 5.000. Sønnens far kontaktede kreditor og fortalte ham, at han ønskede at betale sønnens gæld. Faderen underskrev et dokument, der angav, at faderen ville betale sønnens gæld til en sats på $ 500 om måneden i 10 måneder. Kreditor foretog ingen skriftlig eller mundtlig forpligtelse til at forbyde at sagsøge sønnen for at inddrive den $ 5.000 gæld, og faderen fremsatte ingen mundtlig eller skriftlig anmodning om en sådan forbydelse. I de næste fem måneder foretog faderen og kreditor accepterede de månedlige betalinger på $ 500 som aftalt. I den periode undlod kreditor faktisk at foretage nogen retlig handling mod sønnen. Imidlertid fortalte faderen derefter kreditor, at han ikke ville foretage yderligere betalinger på gælden. Hvilket af følgende er det mest overbevisende argument for, at faderen er ansvarlig over for kreditor i henhold til vilkårene i deres aftale?",
+    "option_a": "Faderens løfte og kreditorens tillid dertil, hvis det bevises, gav anledning til et gyldigt krav fra kreditor mod faderen baseret på doktrinen om tilsidesættelse af løfte. ",
+    "option_b": "Fordi det var forudsigeligt, at farens løfte ville få kreditor til at undlade at tage nogen handling mod sønnen, var en sådan undladelige handling på grundlag af lovligt indgået aftale som betaling for farens løfte. ",
+    "option_c": "Faderens fem betalinger til kreditor på $ 2500 viste alvorlige hensigter fra farens side om at være kontraktligt bundet, og en sådan manifestation anerkendes generelt som en effektiv erstatning for overvejelse. ",
+    "option_d": "Ved at antage den forudgående gældsforpligtelse, som sønnen skyldte kreditor, blev faren en garant, hvis løfte til kreditor var håndhævelig, da det var skriftligt og støttet af tilstrækkelig overvejelse. ",
+    "answer": "A",
+    "id": "professional_law/dev/4"
+  },
+  {
+    "instruction": "I en konkurrencepræget arbejdsmarked for malere, hvilket af følgende ville øge efterspørgslen på malere?",
+    "option_a": "En effektiv mindsteløn indført på dette arbejdsmarked.",
+    "option_b": "En stigning i prisen på liter maling.",
+    "option_c": "En stigning i byggeriet af nye huse.",
+    "option_d": "En stigning i prisen på mekaniske malere, så længe effekten på outputtet overstiger substitutionseffekten.",
+    "answer": "C",
+    "id": "high_school_microeconomics/dev/0"
+  },
+  {
+    "instruction": "Praksissen med at ansætte en udenlandsk tredjeparts leverandør til at drive en operation kaldes",
+    "option_a": "outsourcing.",
+    "option_b": "offshoring.",
+    "option_c": "maquiladoras.",
+    "option_d": "lokaliseringsinterdependens.",
+    "answer": "B",
+    "id": "high_school_geography/dev/3"
+  },
+  {
+    "instruction": "Tilstedeværelsen af homologe strukturer i to forskellige organismer, såsom humerus i forlemmet af et menneske og en fugl, indikerer, at",
+    "option_a": "mennesket og fuglen er polyfyliske arter",
+    "option_b": "menneskets og fuglens evolution er konvergent",
+    "option_c": "mennesket og fuglen tilhører en klade",
+    "option_d": "mennesket og fuglen udviklede sig ved analogi",
+    "answer": "C",
+    "id": "college_biology/dev/2"
+  },
+  {
+    "instruction": "Hvilken af følgende betragtes som en syreanhydrid?",
+    "option_a": "HCl",
+    "option_b": "H2SO3",
+    "option_c": "SO2",
+    "option_d": "Al(NO3)3",
+    "answer": "C",
+    "id": "high_school_chemistry/dev/0"
+  },
+  {
+    "instruction": "Hvilke af de følgende betingelser vil sikre, at bevarelsen af ​​impulsmoment er bevaret? I. Bevarelse af lineær momentum II. Nul netto ekstern kraft III. Nul netto ekstern torque",
+    "option_a": "Kun I og II",
+    "option_b": "Kun I og III",
+    "option_c": "Kun II og III",
+    "option_d": "Kun III",
+    "answer": "D",
+    "id": "high_school_physics/dev/0"
+  },
+  {
+    "instruction": "Den ene ende af en Nichrome-tråd af længde 2L og tværsnitsareal A er fastgjort til enden af en anden Nichrome-tråd af længde L og tværsnitsareal 2A. Hvis den frie ende af den længere tråd er ved en elektrisk potentiale på 8,0 volt, og den frie ende af den kortere tråd er ved en elektrisk potentiale på 1,0 volt, er potentialet ved krydset mellem de to tråde nærmest lig med",
+    "option_a": "2,4 V",
+    "option_b": "3,3 V",
+    "option_c": "4,5 V",
+    "option_d": "5,7 V",
+    "answer": "A",
+    "id": "college_physics/dev/2"
+  },
+  {
+    "instruction": "Hvilken af følgende udsagn om lanthanid-elementerne er IKKE sandt?",
+    "option_a": "Den mest almindelige oxidationstilstand for lanthanid-elementerne er +3.",
+    "option_b": "Lanthanid-komplekser har ofte høje koordinationsnumre (>6).",
+    "option_c": "Alle lanthanid-elementer reagerer med vandig syre for at frigive hydrogen.",
+    "option_d": "De atomare radii af lanthaniderne øges hen over perioden fra La til Lu.",
+    "answer": "D",
+    "id": "college_chemistry/dev/0"
+  },
+  {
+    "instruction": "En gen der viser kodominans",
+    "option_a": "har begge alleler uafhængigt udtrykt i heterozygoten",
+    "option_b": "har en allel dominerende over den anden",
+    "option_c": "har alleler tæt koblede på samme kromosom",
+    "option_d": "har alleler udtrykt samtidigt i udviklingen",
+    "answer": "A",
+    "id": "medical_genetics/dev/2"
+  },
+  {
+    "instruction": "En kompilator genererer kode til følgende tildelingsinstruktion. \nG := (A + B) * C - (D + E) * F \nMålmaskinen har en accumulator og en-instruktions adresse bestående af instruktioner indlæsning, gem, adder, træk og gange. For de aritmetiske operationer tages den venstre operand fra accumulator og resultatet vises i accumulator. Det mindst antal instruktioner i den resulterende kode er",
+    "option_a": "5",
+    "option_b": "6",
+    "option_c": "7",
+    "option_d": "9",
+    "answer": "D",
+    "id": "college_computer_science/dev/3"
+  },
+  {
+    "instruction": "En ikke-statslig nonprofit organisation, Box, havde følgende transaktioner i løbet af året: Indtægter fra salg af investeringer $80000 Køb af ejendomme, anlæg og udstyr $10000 Indtægter fra langfristet gæld $100000 Tab ved salg af investeringer $5000 Hvilket beløb bør rapporteres som nettokontantstrømme fra finansieringsaktiviteter i Box's pengestrømsopgørelse?",
+    "option_a": "$70.000",
+    "option_b": "$75.000",
+    "option_c": "$80.000",
+    "option_d": "100000",
+    "answer": "D",
+    "id": "professional_accounting/dev/0"
+  },
+  {
+    "instruction": "Den store Maya-konge Pacal byggede templer i byen Palenque for at:",
+    "option_a": "tilfredsstille de magtfulde maya-astronompræster.",
+    "option_b": "vise sin generøsitet over for almindelige mennesker, da de fik lov til at bo i templerne.",
+    "option_c": "skræmme fjender væk, især spanierne.",
+    "option_d": "legitimere sin kongelighed, da hans far ikke var kongelig.",
+    "answer": "D",
+    "id": "prehistory/dev/0"
+  },
+  {
+    "instruction": "Tre kontrasterende taktikker, som CSO'er kan engagere sig i for at opfylde deres mål, er ________, som typisk involverer undersøgelse og kommunikation, ________, som kan involvere fysisk angreb på en virksomheds operationer, eller ________, der ofte involverer en form for _______.",
+    "option_a": "Ikke-voldelig direkte aktion, Voldelig direkte aktion, Indirekte aktion, Boykot",
+    "option_b": "Indirekte aktion, Instrumentel aktion, Ikke-voldelig direkte aktion, Informationskampagne",
+    "option_c": "Indirekte aktion, Voldelig direkte aktion, Ikke-voldelig direkte aktion, Boykot",
+    "option_d": "Ikke-voldelig direkte aktion, Instrumentel aktion, Indirekte aktion, Informationskampagne",
+    "answer": "C",
+    "id": "business_ethics/dev/3"
+  },
+  {
+    "instruction": "En 6-sidet terning kastes 15 gange og resultaterne er: side 1 kommer op 0 gange; side 2: 1 gang; side 3: 2 gange; side 4: 3 gange; side 5: 4 gange; side 6: 5 gange. Baseret på disse resultater, hvad er sandsynligheden for, at side 3 kommer op, når man bruger Add-1 smoothing?",
+    "option_a": "2,0/15",
+    "option_b": "1,0/7",
+    "option_c": "3,0/16",
+    "option_d": "1,0/5",
+    "answer": "B",
+    "id": "machine_learning/dev/0"
+  },
+  {
+    "instruction": "Hvilke af følgende er ikke formål med loven?",
+    "option_a": "at maksimere individuel frihed",
+    "option_b": "at give grundlag for kompromis",
+    "option_c": "at opretholde freden",
+    "option_d": "at fremme principperne for det frie erhvervslivssystem",
+    "answer": "D",
+    "id": "jurisprudence/dev/1"
+  },
+  {
+    "instruction": "Hvordan kan Upanishaderne karakteriseres?",
+    "option_a": "Rituelle tekster",
+    "option_b": "Filosofiske tekster",
+    "option_c": "Hymner",
+    "option_d": "Oprindelseshistorier",
+    "answer": "B",
+    "id": "world_religions/dev/4"
+  },
+  {
+    "instruction": "Ani tror, at hendes holdninger og adfærd spiller en central rolle i, hvad der sker for hende. En sådan tro er sandsynligvis forbundet med",
+    "option_a": "en stærk over-ego.",
+    "option_b": "lavt selvværd.",
+    "option_c": "lav selv-effektivitet.",
+    "option_d": "en intern locus of control.",
+    "answer": "D",
+    "id": "high_school_psychology/dev/0"
+  },
+  {
+    "instruction": "Hvad er dommer ad hoc?",
+    "option_a": "Hvis en part i en stridssag foran ICJ ikke har en nationaldommer, har den ret til at nominere en person som dommer udelukkende til den sag, med titlen som dommer ad hoc.",
+    "option_b": "Dommer ad hoc er medlem af ICJ's bænk med en stemmelighed.",
+    "option_c": "Dommer ad hoc er en stedfortræderdommer, hvis en dommer diskvalificeres eller dør.",
+    "option_d": "Dommer ad hoc er den dommer, som hver part altid vil nominere i enhver stridssag.",
+    "answer": "A",
+    "id": "international_law/dev/1"
+  },
+  {
+    "instruction": "Hvor kommer de fleste korte-periodiske kometer fra, og hvordan ved vi det?",
+    "option_a": "Kuiperbæltet; korte-periodiske kometer er tilbøjelige til at være i samme planet som solsystemet, ligesom Kuiperbæltet.",
+    "option_b": "Kuiperbæltet; korte-periodiske kometer har tendens til at komme fra tilfældige retninger, hvilket indikerer en sfærisk fordeling af kometer kaldet Kuiperbæltet.",
+    "option_c": "Asteroidebæltet; korte-periodiske kometer har banetider, der ligner asteroider som Vesta, og findes i samme planet som solsystemet, ligesom asteroidebæltet.",
+    "option_d": "Oortskyen; korte-periodiske kometer har tendens til at være i samme planet som solsystemet, ligesom Oortskyen.",
+    "answer": "A",
+    "id": "astronomy/dev/1"
+  },
+  {
+    "instruction": "Fra 2015 og siden 1990'erne er skovene _____ i Europa og er ____ i Afrika og Amerika.",
+    "option_a": "vokset, vokset",
+    "option_b": "vokset, faldet",
+    "option_c": "faldet, vokset",
+    "option_d": "faldet, faldet",
+    "answer": "B",
+    "id": "global_facts/dev/2"
+  },
+  {
+    "instruction": "Dette spørgsmål refererer til følgende information.\n\"Mindst et af [verdens] samfund skulle på en eller anden måde enormt øge sin produktivitet [for at opnå global herredømme]. Denne kvantespring skulle laves før de forskellige videnskabelige, teknologiske, landbrugs- og industrielle revolutioner, som vores post-kvantelus-verden hviler på. Det kunne kun opnås ved at udnytte økosystemer, mineralressourcer og menneskelige aktiver på hele kontinenter uden for det samfund, der laver springet. Vestlige Europa gjorde netop dette ved hjælp af sin brutalitet og våben og, vigtigere, ved geografisk og økologisk held.\"\nOphavsret © 2015 Cambridge University Press.\nAlfred Crosby, historiker, Økologisk Imperialisme, 2004\nDet \"kvantespring\", der er nævnt i passagen, bidrog mest direkte til hvilken af ​​følgende udviklinger i perioden 1450-1750 e.Kr.?",
+    "option_a": "Et sammenbrud i handelsruterne gennem sammenbruddet af den etablerede statsstruktur",
+    "option_b": "En stigning i verdens befolkning gennem mere overflodende forsyninger af mad",
+    "option_c": "Spredning af kinesiske og indiske trosretninger over hele verden",
+    "option_d": "En stigning i social uro",
+    "answer": "B",
+    "id": "high_school_world_history/dev/4"
+  },
+  {
+    "instruction": "Den enkelte gruppe i samfundet som er mest sårbar over for påvirkning fra referencegrupper er:",
+    "option_a": "Den ældre forbruger, som føler sig lidt ekskluderet fra tingene.",
+    "option_b": "De gifte kvinder, mange af dem føler et behov for stabilitet i deres liv.",
+    "option_c": "Nye indvandrere, der virkelig ønsker at assimilere sig i deres nye kultur.",
+    "option_d": "Børn, som baserer størstedelen af deres købsbeslutninger på ydre påvirkninger.",
+    "answer": "D",
+    "id": "marketing/dev/3"
+  },
+  {
+    "instruction": "For hvilket af disse to scenarier gør hovedpersonen (som bruger Jeg/mig/min) noget klart moralsk forkert ifølge almindelige moralske standarder i USA som i 2020? Scenario 1 | Jeg købte en gammel pick-up truck til arbejdet. Scenario 2 | Jeg kiggede op på den smukke vandfald og kastede en sten på den.",
+    "option_a": "Forkert, Forkert",
+    "option_b": "Forkert, Ikke forkert",
+    "option_c": "Ikke forkert, Forkert",
+    "option_d": "Ikke forkert, Ikke forkert",
+    "answer": "D",
+    "id": "moral_scenarios/dev/2"
+  },
+  {
+    "instruction": "En punktladning, Q = +1 mC, er fastgjort i origo. Hvor meget arbejde kræves der for at flytte en ladning, Q = +8 µC, fra punktet (0, 4 meter) til punktet (3 meter, 0)?",
+    "option_a": "3,5 J",
+    "option_b": "6,0 J",
+    "option_c": "22,5 J",
+    "option_d": "40 J",
+    "answer": "B",
+    "id": "high_school_physics/dev/4"
+  },
+  {
+    "instruction": "En ny forbindelse er syntetiseret og er fundet at være en monoprotisk syre med en molarmasse på 248 g/mol. Når 0,0050 mol af denne syre opløses i 0,500 L vand, måles pH-værdien til 3,89. Hvad er pKa'en af denne syre?",
+    "option_a": "3,89",
+    "option_b": "7,78",
+    "option_c": "5,78",
+    "option_d": "2,33",
+    "answer": "C",
+    "id": "high_school_chemistry/dev/3"
+  },
+  {
+    "instruction": "Hvad er det Andet Ædelste i Buddhismen?",
+    "option_a": "Dharmaen",
+    "option_b": "Sanghaen",
+    "option_c": "Buddhaen",
+    "option_d": "Bodhisattvaen",
+    "answer": "A",
+    "id": "world_religions/dev/1"
+  },
+  {
+    "instruction": "Et refraktorteleskop består af to sammentrækkende linser adskilt med 100 cm. Øjestykslinsen har en brændvidde på 20 cm. Teleskopets vinkeludvidelse er",
+    "option_a": "4",
+    "option_b": "5",
+    "option_c": "6",
+    "option_d": "20",
+    "answer": "A",
+    "id": "college_physics/dev/0"
+  },
+  {
+    "instruction": "Når man ser på Hofstedes (1980) fem kulturelle dimensioner, scorer USA højest på følgende områder:",
+    "option_a": "individualisme.",
+    "option_b": "individualisme og magtdistance.",
+    "option_c": "magtdistance og maskulinitet.",
+    "option_d": "usikkerhedsundgåelse.",
+    "answer": "A",
+    "id": "professional_psychology/dev/2"
+  },
+  {
+    "instruction": "En butik sælger 107 forskellige farver maling. De har 25 dåser af hver farve på lager. Antallet af malingdåser, som butikken har på lager, kan findes ved hjælp af nedenstående udtryk: 107 × 25. Hvor mange malingdåser har butikken på lager?",
+    "option_a": "749",
+    "option_b": "2.675",
+    "option_c": "2.945",
+    "option_d": "4.250",
+    "answer": "B",
+    "id": "elementary_mathematics/dev/3"
+  },
+  {
+    "instruction": "En modelfly flyver langsommere, når det flyver ind i vinden, og hurtigere, når vinden er med i ryggen. Når den lanceres vinkelret på vinden, under en tværgående vind, er dens groundspeed sammenlignet med flyvning i stille luft",
+    "option_a": "det samme",
+    "option_b": "større",
+    "option_c": "mindre",
+    "option_d": "enten større eller mindre afhængigt af vindhastigheden",
+    "answer": "B",
+    "id": "conceptual_physics/dev/3"
+  },
+  {
+    "instruction": "Hvis regeringen subsidierer producenter i en fuldkommen konkurrencepræget marked, så vil",
+    "option_a": "efterspørgslen på produktet stige",
+    "option_b": "efterspørgslen på produktet falde",
+    "option_c": "forbrugersurplus vil stige",
+    "option_d": "forbrugersurplus vil falde",
+    "answer": "C",
+    "id": "high_school_microeconomics/dev/1"
+  },
+  {
+    "instruction": "Hvilken af følgende emner er et eksempel på ikke-materiel kultur?",
+    "option_a": "Dove sæbe",
+    "option_b": "Dove chokoladebar",
+    "option_c": "Dove symbol",
+    "option_d": "En due (fugl)",
+    "answer": "C",
+    "id": "high_school_geography/dev/4"
+  },
+  {
+    "instruction": "To lange parallelle ledere fører 100 A. Hvis lederne er adskilt med 20 mm, vil kraften per meter længde på hver leder være",
+    "option_a": "100 N.",
+    "option_b": "0,1 N.",
+    "option_c": "1 N.",
+    "option_d": "0,01 N.",
+    "answer": "B",
+    "id": "electrical_engineering/dev/3"
+  },
+  {
+    "instruction": "Vælg den bedste oversættelse til prædikatlogik. George låner Hector's plæneklipper. (g: George; h: Hector; l: Hector's plæneklipper; Bxyx: x låner y fra z)",
+    "option_a": "Blgh",
+    "option_b": "Bhlg",
+    "option_c": "Bglh",
+    "option_d": "Bghl",
+    "answer": "C",
+    "id": "formal_logic/dev/1"
+  },
+  {
+    "instruction": "Lad A være sættet af alle ordnede par af heltal (m, n) sådan at 7m + 12n = 22. Hvad er det største negative tal i sættet B = {m + n : (m, n) \\in A}?",
+    "option_a": "-5",
+    "option_b": "-4",
+    "option_c": "-3",
+    "option_d": "-2",
+    "answer": "B",
+    "id": "college_mathematics/dev/4"
+  },
+  {
+    "instruction": "At argumentere for, at det der er sandt af dele, også må være sandt for helheden er fejlen af ...",
+    "option_a": "Deling",
+    "option_b": "Sammensætning",
+    "option_c": "Appel til personen",
+    "option_d": "Appel til ignorans",
+    "answer": "B",
+    "id": "logical_fallacies/dev/3"
+  },
+  {
+    "instruction": "Hvilken type psykolog ville Pascale bedst kunne klassificeres som, da hun er interesseret i de behandlingsstrategier, børn bruger til at lære ny information?",
+    "option_a": "sociokulturel",
+    "option_b": "klinisk",
+    "option_c": "kognitiv",
+    "option_d": "behavioristisk",
+    "answer": "C",
+    "id": "high_school_psychology/dev/4"
+  },
+  {
+    "instruction": "Denne opgave henviser til følgende information. \"Samfundet i enhver tilstand er en velsignelse, men regeringen, selv i dens bedste tilstand, er kun en nødvendig ondskab; i dens værste tilstand er den en uudholdelig ondskab; for når vi lider eller udsættes for de samme lidelser af en regering, som vi kunne forvente i et land uden regering, så forværres vores elendighed af at tænke på, at vi selv giver midlerne, som vi lider af. Regeringen, ligesom tøjet, er en badge på tabt uskyldighed; kongernes paladser er bygget på ruinene af paradisets pavilloner. Hvis samvittighedsimpulserne var klare, ensartede og uimodståeligt lydige, ville mænd ikke have brug for andre lovovertrædere; men da dette ikke er tilfældet, finder han det nødvendigt at overgive en del af sin ejendom for at skaffe midler til beskyttelse af resten; og han bliver dertil opfordret af den samme kløgtighed, som i enhver anden sag råder ham til at vælge det mindste af to onder. Derfor er sikkerhed den virkelige design og slutningen på regeringen, og det følger uundgåeligt, at den form, der ser ud til at sikre os det med mindst udgift og størst fordel, er at foretrække frem for alle andre. \"\nThomas Paine, Common Sense, 1776\nHvilke af de følgende \"lidenskaber\", der blev nævnt ovenfor, blev mest fordømt af Anti-Federalisterne i den postrevolutionære æra?",
+    "option_a": "Organiseret respons på Bacons Oprør",
+    "option_b": "Føderal respons på Shays Oprør",
+    "option_c": "Føderal respons på Whiskey Oprør",
+    "option_d": "Føderal respons på Pontiacs Oprør",
+    "answer": "C",
+    "id": "high_school_us_history/dev/0"
+  },
+  {
+    "instruction": "Fremskrivningshastigheden af en befolkning findes ved at trække den grove dødsrate fra den grove fødselsrate.",
+    "option_a": "Den grove dødsrate fra den grove fødselsrate.",
+    "option_b": "Den grove fødselsrate fra den grove dødsrate.",
+    "option_c": "Fordoblingstid fra den grove fødselsrate.",
+    "option_d": "Fødselsrate fra den grove dødsrate.",
+    "answer": "A",
+    "id": "high_school_geography/dev/0"
+  },
+  {
+    "instruction": "Hvordan påvirkede den økonomiske krise i 2008 Amerikas internationale omdømme?",
+    "option_a": "Den beskadigede støtten til den amerikanske model for politisk økonomi og kapitalisme",
+    "option_b": "Den skabte vrede mod USA for at overdramatisere krisen",
+    "option_c": "Den øgede støtten til amerikansk globalt lederskab under præsident Obama",
+    "option_d": "Den reducerede den globale brug af den amerikanske dollar",
+    "answer": "A",
+    "id": "us_foreign_policy/dev/0"
+  },
+  {
+    "instruction": "Hvilket element af den kulturelle web danner regali?",
+    "option_a": "Symboler",
+    "option_b": "Ritualer og rutiner",
+    "option_c": "Magtstrukturer",
+    "option_d": "Kontrolsystemer",
+    "answer": "A",
+    "id": "management/dev/2"
+  },
+  {
+    "instruction": "Hvilken af disse sange var en Top 10 hit for rockbandet The Police?",
+    "option_a": "'Radio Ga-Ga'",
+    "option_b": "'Ob-la-di Ob-la-da'",
+    "option_c": "'De Do Do Do De Da Da Da'",
+    "option_d": "'In-a-Gadda-Da-Vida'",
+    "answer": "C",
+    "id": "miscellaneous/dev/4"
+  },
+  {
+    "instruction": "Hvilken af de følgende udsagn er ikke sandt?",
+    "option_a": "Muskelglykogen nedbrydes enzymatisk til glucose-1-fosfat",
+    "option_b": "Elite-endurance-løbere har en højere andel af type I-fibre i deres benmuskler",
+    "option_c": "Leverglykogen er vigtigt for opretholdelsen af ​​blodglukosekoncentrationen",
+    "option_d": "Insulin fremmer glukoseoptagelse af alle væv i kroppen",
+    "answer": "D",
+    "id": "college_medicine/dev/1"
+  },
+  {
+    "instruction": "Selvom indholdet og kvaliteten kan være lige så kontrolleret som direkte reklamer, er svarprocenten for dette medie lavere på grund af manglen på en personlig adressefunktion. Denne mediemåde er kendt som:",
+    "option_a": "Omsorgslinjer.",
+    "option_b": "Direkte post.",
+    "option_c": "Indsættelser.",
+    "option_d": "Dør til dør.",
+    "answer": "D",
+    "id": "marketing/dev/4"
+  },
+  {
+    "instruction": "Psykologisk egoisme er:",
+    "option_a": "en etisk teori om, hvordan vi bør opføre os.",
+    "option_b": "en generalisering om den måde, som folk har en tendens til at opføre sig på.",
+    "option_c": "en påstand om menneskets natur og de måder, mennesker er i stand til at opføre sig på.",
+    "option_d": "ingenting af det ovenstående.",
+    "answer": "C",
+    "id": "philosophy/dev/0"
+  },
+  {
+    "instruction": "Hvad hedder stedet, som er nævnt i titlen på det livealbum fra 1979 af rocklegenderne Cheap Trick?",
+    "option_a": "Budapest",
+    "option_b": "Budokan",
+    "option_c": "Bhutan",
+    "option_d": "Britain",
+    "answer": "B",
+    "id": "miscellaneous/dev/1"
+  },
+  {
+    "instruction": "En 22-årig mandlig marathonløber henvender sig til klinikken med klage over smerter i højre side af ribbenene, når han løber lange distancer. Fysisk undersøgelse afslører normale hjerte- og lungefund og en udåndingsdysfunktion i ribbenene 4-5 på højre side. Hvilken af følgende muskler eller muskelgrupper vil være mest nyttige til at rette denne dysfunktion ved hjælp af en direkte metode?",
+    "option_a": "fremre skalen",
+    "option_b": "latissimus dorsi",
+    "option_c": "pectoralis minor",
+    "option_d": "quadratus lumborum",
+    "answer": "C",
+    "id": "professional_medicine/dev/4"
+  },
+  {
+    "instruction": "Forestil dig nu, at en forsker ønsker at bruge informationskriterier til at bestemme den optimale forsinkelseslængde for en VAR. Der er 500 observationer til rådighed for den bi-variante VAR, og værdierne af determinanten for varians-kovariansmatricen af residualer er henholdsvis 0,0336, 0,0169, 0,0084 og 0,0062 for 1, 2, 3 og 4 forsinkelser. Hvad er den optimale modelorden ifølge Akaike's informationskriterium?",
+    "option_a": "1 forsinkelse",
+    "option_b": "2 forsinkelser",
+    "option_c": "3 forsinkelser",
+    "option_d": "4 forsinkelser",
+    "answer": "C",
+    "id": "econometrics/dev/4"
+  },
+  {
+    "instruction": "Find alle c i Z_3, således at Z_3 [x]/(x^2 + c) er en krop.",
+    "option_a": "0",
+    "option_b": "1",
+    "option_c": "2",
+    "option_d": "3",
+    "answer": "B",
+    "id": "abstract_algebra/dev/0"
+  },
+  {
+    "instruction": "Dette spørgsmål henviser til følgende information.\n\"Kampen mod neo-kolonialisme har ikke til formål at udelukke hovedstaden i den udviklede verden fra at operere i mindre udviklede lande. Det har til formål at forhindre, at den økonomiske magt i de udviklede lande bliver brugt på en måde, der vil forarm-ske de mindre udviklede lande. Ikke-alliancer, som praktiseres af Ghana og mange andre lande, er baseret på samarbejde med alle stater, om de nu er kapitalistiske, socialistiske eller har en blandet økonomi. En sådan politik involverer derfor udenlandske investeringer fra kapitalistiske lande, men de skal investeres i overensstemmelse med en national plan udarbejdet af regeringen i den ikke-allierede stat med dens egne interesser i mente. Spørgsmålet er ikke, hvilket afkast den udenlandske investor får på sine investeringer... Spørgsmålet er en af magt. En stat i grebet af neo-kolonialisme er ikke herre over sin egen skæbne.\"\nKwame Nkrumah, Neo-Colonialism, 1965\nHvilken af følgende giver den bedste sammenhæng for Nkrumahs skrivning?",
+    "option_a": "Den industrielle revolution",
+    "option_b": "Afkolonisering",
+    "option_c": "Regionale frihandelsforeninger",
+    "option_d": "Autarki",
+    "answer": "B",
+    "id": "high_school_world_history/dev/1"
+  },
+  {
+    "instruction": "En stat har for nylig indført en lov, der forbyder bortskaffelse af nukleart affald inden for staten. Denne lov strider ikke imod eller er i konflikt med føderale love. En mand driver en virksomhed i staten, der beskæftiger sig med bortskaffelse af nukleart affald. Efter vedtagelsen af ​​statens lov indgik manden, der endnu ikke var klar over den nye lov, kontrakter med mange virksomheder uden for staten om bortskaffelse af deres nukleare affald i staten. På grund af denne nye lov vil manden dog ikke kunne opfylde disse kontrakter. Antag, at manden har ret til at udfordre denne statslov. Hvad giver ham stærkeste forfatningsmæssige grundlag for at udfordre denne statslov, der forbyder bortskaffelse af nukleart affald inden for staten?",
+    "option_a": "Handelsklausulen.",
+    "option_b": "Ligebehandlingsklausulen i den fjortende ændring.",
+    "option_c": "Privilegier og immunitetsklausulen i artikel IV, afsnit 2.",
+    "option_d": "Kontraktklausulen.",
+    "answer": "A",
+    "id": "professional_law/dev/1"
+  },
+  {
+    "instruction": "Efter en frostadvarslen blev udsendt, bad ejeren af en stor appelsinlund sine arbejdere om at sprøjte alle træerne med vand. Vandet skulle fryse og danne et beskyttende lag af is omkring appelsinblomsten. Ikke desto mindre mistænkte ejeren, at nogle træer led betydelig skade på grund af frosten. For at estimere andelen af træer, der led mere end 50 procent skade på grund af frosten, tog han en tilfældig stikprøve på 100 træer fra sin lund. Hvad er responsvariablen i dette eksperiment?",
+    "option_a": "Andelen af træer, der led mere end 50 procent skade på grund af frosten.",
+    "option_b": "Antallet af træer, der blev påvirket af frosten.",
+    "option_c": "Antallet af træer, der blev udtaget som prøver fra lunden.",
+    "option_d": "For hvert udvalgte træ, om det led mere end 50 procent skade eller højst 50 procent skade.",
+    "answer": "D",
+    "id": "high_school_statistics/dev/2"
+  },
+  {
+    "instruction": "Mange webbrowsere tillader brugere at åbne anonyme vinduer. Under en browsing-session i et anonymt vindue registrerer browseren ikke en browsinghistorik eller en liste over downloadede filer. Når det anonyme vindue afsluttes, slettes cookies, der blev oprettet i løbet af sessionen. Hvilken af følgende udsagn om browsing-sessioner i et anonymt vindue er sandt?",
+    "option_a": "En brugers aktiviteter, mens de browser i et anonymt vindue, vil ikke være synlige for mennesker, der overvåger brugerens netværk, såsom systemadministratoren.",
+    "option_b": "Varer, der er lagt i en webbutiks indkøbskurv til senere køb i løbet af den anonyme browsing-session, vil ikke blive gemt på brugerens computer.",
+    "option_c": "En bruger vil ikke være i stand til at logge ind på e-mail- eller social media-konti under en anonym browsing-session.",
+    "option_d": "En bruger, der browser i et anonymt vindue, vil være beskyttet mod vira, der lanceres fra websteder eller filer, der downloades.",
+    "answer": "B",
+    "id": "high_school_computer_science/dev/1"
+  },
+  {
+    "instruction": "Hvad er de to vigtigste dimensioner af Ohio-studierne i lederskab?",
+    "option_a": "Startposition og slutposition",
+    "option_b": "Indledende miljø og ændret miljø",
+    "option_c": "Organisationsstruktur og tilpasning",
+    "option_d": "Igangsættelse af struktur og overvejelser",
+    "answer": "D",
+    "id": "management/dev/0"
+  },
+  {
+    "instruction": "For at sikre uafhængigheden af de ikke-udøvende bestyrelsesmedlemmer, er der en række skridt, der kan tages, herunder ikke-udøvende medlemmer, der udvælges fra ___________ selskabet, udnævnes for en _________ tidsperiode samt udnævnes ____________.",
+    "option_a": "Udefra, Begrænset, Uafhængigt",
+    "option_b": "Indenfor, Begrænset, Intermitterende",
+    "option_c": "Udefra, Ubegrænset, Intermitterende",
+    "option_d": "Indenfor, Ubegrænset, Uafhængigt",
+    "answer": "A",
+    "id": "business_ethics/dev/2"
+  },
+  {
+    "instruction": "Der er tre måder at måle Central Tendency på: Mean, Median og Mode. Fra din viden om dem, hvad er moden?",
+    "option_a": "mindre følsom over for ekstreme scores end gennemsnittet",
+    "option_b": "mere nyttig for skæve distributioner",
+    "option_c": "følsom over for ekstreme værdier og meget skæve distributioner",
+    "option_d": "det mest hyppigt forekommende nummer",
+    "answer": "D",
+    "id": "professional_psychology/dev/1"
+  },
+  {
+    "instruction": "For at opnå et tabsestimat på 0/1, som er mindre end 1 procent af det sande 0/1-tab (med en sandsynlighed på 95%), skal det IIDD-testsæt have hvor mange eksempler ifølge Hoeffdings ulighed?",
+    "option_a": "ca. 10 eksempler",
+    "option_b": "ca. 100 eksempler",
+    "option_c": "mellem 100 og 500 eksempler",
+    "option_d": "mere end 1000 eksempler",
+    "answer": "D",
+    "id": "machine_learning/dev/3"
+  },
+  {
+    "instruction": "I vurderingen af håndfunktionen, hvilket af følgende er sandt?",
+    "option_a": "Abduktion af tommelfingeren forsynes af spinal rod T2",
+    "option_b": "Tommelfingerens opposisition af opponens policis forsynes af spinal rod T1",
+    "option_c": "Finger adduktion leveres af n. medianus",
+    "option_d": "Finger abduktion sker ved mediator af de palmare interossei",
+    "answer": "B",
+    "id": "clinical_knowledge/dev/2"
+  },
+  {
+    "instruction": "Fra 2019, hvad er cirka det procentdel af amerikanere, der er enige om, at staten køres til fordel for alle mennesker?",
+    "option_a": "31%",
+    "option_b": "46%",
+    "option_c": "61%",
+    "option_d": "76%",
+    "answer": "B",
+    "id": "global_facts/dev/1"
+  },
+  {
+    "instruction": "Forskere tror nu, at Mayas nedgang blev forårsaget primært af:",
+    "option_a": "en katastrofe af en slags, såsom et jordskælv, vulkan eller tsunami.",
+    "option_b": "økologisk forringelse som et resultat af teknikker til afbrænding af vegetation.",
+    "option_c": "uendelige krige mellem nabokrigen maya-byer.",
+    "option_d": "praksis med indavl, som førte til en stigning i medfødte sygdomme.",
+    "answer": "B",
+    "id": "prehistory/dev/2"
+  },
+  {
+    "instruction": "Hvor mange af verdens 1-årige børn i dag er blevet vaccineret mod en sygdom i 2017? *",
+    "option_a": "80%",
+    "option_b": "60%",
+    "option_c": "40%",
+    "option_d": "20%",
+    "answer": "A",
+    "id": "global_facts/dev/4"
+  },
+  {
+    "instruction": "I en kohorteundersøgelse var risikoforholdet for at udvikle diabetes 0,86, når forbrugere af te blev sammenlignet med dem, der ikke drak te. Hvad er én korrekt udsagn (ifølge viden i 2020)?\n",
+    "option_a": "Teenydere har en lavere risiko for at udvikle diabetes.",
+    "option_b": "Teenydere har en højere risiko for at udvikle diabetes.",
+    "option_c": "Baseret på den givne information kan vi ikke sige, om den observerede forskel i sygdomsrisiko skyldes tilfældigheder.",
+    "option_d": "Risikoforholdet er tæt på værdien én, så der er ingen forskel i sygdomsrisiko mellem de to grupper.",
+    "answer": "C",
+    "id": "nutrition/dev/0"
+  },
+  {
+    "instruction": "Hvilket af disse tre elementer har den største masse pr. nukleon?",
+    "option_a": "Hydrogen",
+    "option_b": "Jern",
+    "option_c": "Uran",
+    "option_d": "Det samme for hver",
+    "answer": "A",
+    "id": "conceptual_physics/dev/4"
+  },
+  {
+    "instruction": "Hvordan ændrede NSC-68 USA's strategi?",
+    "option_a": "Den globaliserede containment.",
+    "option_b": "Den militariserede containment.",
+    "option_c": "Den opfordrede til udviklingen af ​​brintbomben.",
+    "option_d": "Alle tre ovenstående.",
+    "answer": "D",
+    "id": "us_foreign_policy/dev/1"
+  },
+  {
+    "instruction": "Hvad er den mest plausible forklaring på den beskyttende effekt af kostfibre mod kræft i tyktarmen, som den er i 2020?\n",
+    "option_a": "Propionsyre, dannet under tyktarmsfermentering af fibre, hæmmer leverens syntese af fedtsyrer",
+    "option_b": "Smørsyre, dannet under tyktarmsfermentering af fibre, stimulerer \"slukning\" af SLC5A8 tumor suppressor genet",
+    "option_c": "Ingen af ​​disse muligheder er korrekte",
+    "option_d": "Smørsyre, dannet under tyktarmsfermentering af fibre, stimulerer antioxidante forsvar i tyktarmen",
+    "answer": "D",
+    "id": "nutrition/dev/2"
+  },
+  {
+    "instruction": "Den 1. oktober 1980 udkastede en udvikler, ejer af flere hundrede acres i et landligt amt, en generel udviklingsplan for området. Den deraf optegnede plan pålagde omfattende begrænsninger og restriktioner på landet i planen, som skulle udvikles som et boligområde. Begrænsningerne skulle gælde for alle personer, der erhverver en af ​​partierne, og deres arvinger, tildelte og lejere. Det blev yderligere fastsat, at alle efterfølgende ejere ville være underrettet om begrænsningerne. Blandt de begrænsninger, der var indeholdt i den generelle plan, var følgende: (22) En franchise-ret oprettes i et bånd på 10 fod i bredden langs bagenden af hver ejendom til brug for offentlige forsyningsvirksomheder med ret til ind- og udgang. (23) Der må ikke bygges noget hus eller struktur af nogen art på det førnævnte bånd af land, der løber gennem de nævnte blokke. I 2000 købte en pensioneret en af partierne, byggede et hus og opførte en hegn i bagsiden af hans ejendom inden for det begrænsede område. I 2004 købte en lærer et parti, der grænsede op til pensioneredes ejendom og byggede et nyt hus. To år senere købte en bibliotekar også det parti, der grænsede op til lærerens ejendom. De tre tinglyste skøder til disse ejendomme indeholdt hver reference til tinglysningsbogen, hvor den generelle plan var tinglyst. I 2008 påbegyndte bibliotekaren opførelsen af et syv-fods hegn langs linjen, der delte hans parti med lærerens, og langs midten af ​​området, som var omfattet af franchise-retten. Selvom læreren protesterede mod dets opførelse, blev hegnet fuldført. Hvis læreren kræver en tvangsinjunction om at tvinge bibliotekarens hegn til fjernelse, vil retten sandsynligvis",
+    "option_a": "tilkendegive påbud, fordi hegnet var i strid med servitutbegrænsningen. ",
+    "option_b": "tilkendegive påbud, fordi indtrængen af ​​hegnet overtrådte restriktionen i den oprindelige plan. ",
+    "option_c": "afvise påstanden, fordi læreren ikke havde håndhævet begrænsningen mod pensionisten. ",
+    "option_d": "afvise påstanden, fordi hegnet ikke ville blive fortolket som en \"struktur\" inden for betingelserne i begrænsningen. ",
+    "answer": "B",
+    "id": "professional_law/dev/3"
+  },
+  {
+    "instruction": "Mens Ivan svømmer i havet, bliver han forskrækket af en mørk skygge i vandet, inden han overhovedet får mulighed for at identificere, hvad skyggen er. De synaptiske forbindelser, der sker under denne hændelse af skræk, beskrives bedst ved hvilket af følgende?",
+    "option_a": "Beskeder sendes fra thalamus direkte til amygdala.",
+    "option_b": "Beskeder sendes fra thalamus til \"hvad\" og \"hvor\" banerne.",
+    "option_c": "Beskeder sendes fra det parasympatiske nervesystem til den cerebrale cortex.",
+    "option_d": "Beskeder sendes fra de frontale lobes til hypofysen.",
+    "answer": "A",
+    "id": "high_school_psychology/dev/2"
+  },
+  {
+    "instruction": "Hvilken billeddataaugmentering er mest almindelig for naturlige billeder?",
+    "option_a": "tilfældig beskæring og vandret spejling",
+    "option_b": "tilfældig beskæring og lodret spejling",
+    "option_c": "plakatization",
+    "option_d": "punkttering",
+    "answer": "A",
+    "id": "machine_learning/dev/1"
+  },
+  {
+    "instruction": "For hvilken af følgende termodynamiske processer er stigningen i den indre energi af en ideal gas lig med den tilførte varme til gassen?",
+    "option_a": "Konstant temperatur",
+    "option_b": "Konstant volumen",
+    "option_c": "Konstant tryk",
+    "option_d": "Adiabatisk",
+    "answer": "B",
+    "id": "college_physics/dev/1"
+  },
+  {
+    "instruction": "Hvis alt andet er lige, hvilken af følgende personer er mest tilbøjelige til at vise osteoporose?",
+    "option_a": "En ældre kvinde fra den hispaniske amerikanske befolkning",
+    "option_b": "En ældre kvinde fra den afrikansk-amerikanske befolkning",
+    "option_c": "En ældre kvinde fra den asiatisk-amerikanske befolkning",
+    "option_d": "En ældre kvinde fra den indfødte amerikanske befolkning",
+    "answer": "C",
+    "id": "human_aging/dev/4"
+  },
+  {
+    "instruction": "Hvad af følgende er nødvendigvis en karakteristik af oligopol?",
+    "option_a": "Fri indgang og udgang fra markedet",
+    "option_b": "Få store producenter",
+    "option_c": "Én producent af en vare uden nære substitutter",
+    "option_d": "Et homogent produkt",
+    "answer": "B",
+    "id": "high_school_microeconomics/dev/4"
+  },
+  {
+    "instruction": "I Angle's klasse II Div 2 okklusion er der",
+    "option_a": "overskud af overbid på de øvre laterale fortænder.",
+    "option_b": "negativ overjet på de øvre centrale fortænder.",
+    "option_c": "overskud af overjet på de øvre laterale fortænder.",
+    "option_d": "overskud af overjet på de øvre centrale fortænder.",
+    "answer": "C",
+    "id": "anatomy/dev/3"
+  },
+  {
+    "instruction": "Krete er en ugift skatteyder med indkomst udelukkende fra lønninger. Senest den 31. december, år 1, har Krete's arbejdsgiver tilbageholdt $16,000 i føderale indkomstskatter, og Krete har foretaget ingen anslåede skattebetalinger. Den 15. april år 2, indgav Krete rettidigt anmodning om en forlængelse til at indsende hendes individuelle selvangivelse og betalte $300 i yderligere skatter. Krete's skatteansvar for år 1 var $16,500, da hun rettidigt indsendte sin selvangivelse den 30. april år 2, og betalte resterende skatteansvar. Hvad beløb vil være genstand for bøden for underbetaling af anslåede skatter?",
+    "option_a": "$0",
+    "option_b": "$500",
+    "option_c": "$1,650",
+    "option_d": "$16,500",
+    "answer": "A",
+    "id": "professional_accounting/dev/2"
+  },
+  {
+    "instruction": "Ting, der er ekvivalente i henhold til ækvivalensprincippet, er",
+    "option_a": "rum og tid.",
+    "option_b": "en rejsende tvilling og en hjemmeblivende tvilling.",
+    "option_c": "tyngdekraft og acceleration.",
+    "option_d": "masse og energi.",
+    "answer": "C",
+    "id": "conceptual_physics/dev/1"
+  },
+  {
+    "instruction": "Hvilken organisation lancerede Earth Hour-kampagnen?",
+    "option_a": "Greenpeace",
+    "option_b": "FN",
+    "option_c": "Oxfam",
+    "option_d": "Verdensnaturfonden",
+    "answer": "D",
+    "id": "public_relations/dev/4"
+  },
+  {
+    "instruction": "Hvad er sandt om en gyldig kategorisk syllogisme?",
+    "option_a": "Den mindre præmis skal nægte antecedenten",
+    "option_b": "Den større præmis skal bekræfte konsekvensen",
+    "option_c": "Midtudtrykket skal anvendes i mindst en præmis i en universal eller ubetinget betydning",
+    "option_d": "Alle ovenstående",
+    "answer": "C",
+    "id": "logical_fallacies/dev/2"
+  },
+  {
+    "instruction": "Hvilken af ​​følgende politikker beskriver bedst udbudssiden i finanspolitik?",
+    "option_a": "En stigning i pengemængden",
+    "option_b": "Større offentlige udgifter",
+    "option_c": "Lavere skatter på forskning og udvikling af ny teknologi",
+    "option_d": "Højere skatter på husholdningsindkomst",
+    "answer": "C",
+    "id": "high_school_macroeconomics/dev/4"
+  },
+  {
+    "instruction": "Hvilke typer af magtanvendelse forbyder artikel 2, stk. 4 i FN-pagten?",
+    "option_a": "Artikel 2, stk. 4 omfatter kun brug af militær magt",
+    "option_b": "Artikel 2, stk. 4 omfatter alle typer af magtanvendelse, herunder sanktioner",
+    "option_c": "Artikel 2, stk. 4 omfatter al indblanding i staters interne anliggender",
+    "option_d": "Artikel 2, stk. 4 omfatter magtanvendelse rettet kun mod en stats territoriale integritet",
+    "answer": "A",
+    "id": "international_law/dev/0"
+  },
+  {
+    "instruction": "En ny smartwatch bliver fremstillet i den ene del af en fabrik og sikres derefter til forsendelse i en anden, uafhængig del af fabrikken. Vægten af smartwatchen har en middelværdi på 62 gram og en standardafvigelse på 1,0 gram. Vægten af emballagen (æske, brugervejledning, bobleplast osv.) har en middelværdi på 456 gram og en standardafvigelse på 6 gram. Sammen ville distributionen af smartwatchens vægt og dens emballage have følgende middelværdi og standardafvigelse:",
+    "option_a": "Middelværdi 518 gram; standardafvigelse 7,0 gram",
+    "option_b": "Middelværdi 518 gram; standardafvigelse 3,5 gram",
+    "option_c": "Middelværdi 518 gram; standardafvigelse 6,1 gram",
+    "option_d": "Middelværdi 394 gram; standardafvigelse 6,1 gram",
+    "answer": "C",
+    "id": "high_school_statistics/dev/3"
+  },
+  {
+    "instruction": "I issues management, hvad er den mest proaktive tilgang til at håndtere negativ eller vildledende information, der er blevet lagt online om din organisation?",
+    "option_a": "Køb domænenavne, som kan bruges af oppositionsgrupper.",
+    "option_b": "Indsend anonyme kommentarer på blogs for at bekæmpe denne information.",
+    "option_c": "Forbered en nyhedsmelding, der afviser den unøjagtige information.",
+    "option_d": "Foretag politiske ændringer for at tackle klager, der er fremhævet på disse websteder.",
+    "answer": "D",
+    "id": "public_relations/dev/1"
+  },
+  {
+    "instruction": "Hvad forsøgte efterkrigstidens velfærdsstat fra 1948 ikke at tilbyde:",
+    "option_a": "gratis sundhedspleje og uddannelse for alle",
+    "option_b": "en mindsteløn",
+    "option_c": "fuld beskæftigelse",
+    "option_d": "universel velfærd",
+    "answer": "B",
+    "id": "sociology/dev/0"
+  },
+  {
+    "instruction": "Ti studerende tager en biologitest og modtager følgende karakterer: 45, 55, 50, 70, 65, 80, 40, 90, 70, 85. Hvad er gennemsnittet af de studerendes karakterer?",
+    "option_a": "55",
+    "option_b": "60",
+    "option_c": "62",
+    "option_d": "65",
+    "answer": "D",
+    "id": "high_school_mathematics/dev/4"
+  },
+  {
+    "instruction": "Hvilken forfatter er hygiejnefaktorer forbundet med?",
+    "option_a": "Frederick Hertzberg",
+    "option_b": "D.C. McClelland",
+    "option_c": "Abraham Maslow",
+    "option_d": "Douglas McGregor",
+    "answer": "A",
+    "id": "management/dev/1"
+  },
+  {
+    "instruction": "I programmet nedenfor er den oprindelige værdi af x 5, og den oprindelige værdi af y er 10.\nHVIS (X < O)\n{\nVIS (\"Foxtrot\")\n}\nELLES\n{\nHVIS (X > y)\n{\n   VIS (\"Hotel\")\n}\nELLES \n{\n   HVIS (y > O)\n   {\n   VIS (\"November\")\n   }\n   ELLES\n   {\n   VIS (\"Yankee\")\n   }\n}\n}\n\nHvad vises som et resultat af kørslen af programmet?",
+    "option_a": "Foxtrot",
+    "option_b": "Hotel",
+    "option_c": "November",
+    "option_d": "Yankee",
+    "answer": "C",
+    "id": "high_school_computer_science/dev/3"
+  },
+  {
+    "instruction": "Vil en forbehold til definitionen af ​​tortur i ICCPR være acceptabel i moderne praksis?",
+    "option_a": "Dette er en acceptabel forbehold, hvis den reserverende stats lovgivning anvender en anden definition",
+    "option_b": "Dette er en uacceptabel forbehold, fordi det strider mod ICCPR's formål og mål",
+    "option_c": "Dette er en uacceptabel forbehold, fordi definitionen af ​​tortur i ICCPR er i overensstemmelse med almindelig folkeret",
+    "option_d": "Dette er en acceptabel forbehold, fordi under almindelig folkeret har staterne ret til at indgive forbehold til traktater",
+    "answer": "B",
+    "id": "international_law/dev/2"
+  },
+  {
+    "instruction": "En mikrobølgeovn er tilsluttet en stikkontakt på 120 V og trækker en strøm på 2 ampere. Hvor stor er den samlede effekt, som bliver brugt af mikrobølgeovnen?",
+    "option_a": "10 W",
+    "option_b": "30 W",
+    "option_c": "60 W",
+    "option_d": "240 W",
+    "answer": "D",
+    "id": "high_school_physics/dev/3"
+  },
+  {
+    "instruction": "Baron indrømmer, at versionerne af det fiktive tikkende bombe-scenarie, som hun diskuterer, er \"vanvittigt dumme\", men hun hævder, at dette faktisk er bevis for",
+    "option_a": "dumheden af de fleste traditionelle filosofiske eksempler.",
+    "option_b": "en generel mangel på intelligens blandt mennesker med avancerede grader.",
+    "option_c": "forkert at anvende tortur.",
+    "option_d": "beredvilligheden fra mange intelligente mennesker, der ser tortur som den bedste løsning til at håndtere terrorisme.",
+    "answer": "D",
+    "id": "moral_disputes/dev/4"
+  },
+  {
+    "instruction": "Hvilket af følgende er en intrinsisk god ting ifølge Singer?",
+    "option_a": "at være i den øvre klasse",
+    "option_b": "evnen til at lære og løse problemer",
+    "option_c": "at være smukkere end størstedelen af befolkningen",
+    "option_d": "at være kortere end gennemsnittet",
+    "answer": "B",
+    "id": "moral_disputes/dev/2"
+  },
+  {
+    "instruction": "Hvor mange aksler har en standard automobil?",
+    "option_a": "en",
+    "option_b": "to",
+    "option_c": "fire",
+    "option_d": "otte",
+    "answer": "B",
+    "id": "miscellaneous/dev/0"
+  },
+  {
+    "instruction": "Glukose transporteres ind i muskelcellen:",
+    "option_a": "via proteintransportører kaldet GLUT4.",
+    "option_b": "kun i nærværelse af insulin.",
+    "option_c": "via hexokinase.",
+    "option_d": "via monocarboxylsyre transportører.",
+    "answer": "A",
+    "id": "college_medicine/dev/0"
+  },
+  {
+    "instruction": "3 Cl−(aq) + 4 CrO_4^2−(aq) + 23 H+(aq) → 3 HClO2(aq) + 4 Cr3+(aq) + 10 H2O(l). I reaktionen vist ovenfor opfører Cl−(aq) sig som",
+    "option_a": "en syre",
+    "option_b": "en base",
+    "option_c": "en katalysator",
+    "option_d": "en reducerende agent",
+    "answer": "D",
+    "id": "college_chemistry/dev/3"
+  },
+  {
+    "instruction": "Termen \"budgetunderskud\" henviser til",
+    "option_a": "årlig stigning i føderale udgifter til militæret",
+    "option_b": "mængden af renter på den nationale gæld",
+    "option_c": "forskellen mellem de oprindelige budgetforslag fra præsidenten og Kongressen",
+    "option_d": "beløbet regeringen spenderer ud over dens indtægter",
+    "answer": "D",
+    "id": "high_school_government_and_politics/dev/1"
+  },
+  {
+    "instruction": "Graviditetskvalme er typisk et problem:",
+    "option_a": "i løbet af første trimester",
+    "option_b": "i løbet af andet trimester",
+    "option_c": "i løbet af tredje trimester",
+    "option_d": "gennem hele graviditeten",
+    "answer": "A",
+    "id": "human_sexuality/dev/0"
+  },
+  {
+    "instruction": "Forudsig antallet af linjer i EPR-spektret af en opløsning af 13C-mærket methylradikal (13CH3 •), under antagelse af at linjerne ikke overlapper.",
+    "option_a": "4",
+    "option_b": "3",
+    "option_c": "6",
+    "option_d": "24",
+    "answer": "A",
+    "id": "college_chemistry/dev/2"
+  },
+  {
+    "instruction": "Ifølge Timothy Pauketat, antyder beviserne for social stratifikation og politisk magt i Cahokia:",
+    "option_a": "et centrum for Mississippian civilisation med forhold, der ligner opkomsten af tidlige stater.",
+    "option_b": "begrænsninger af autoritet i en samfund af egalitære jægere i en Native American samfund.",
+    "option_c": "en simpel høvdingedømme eller måske et komplekst høvdingedømme var udviklet i A.D. 1500.",
+    "option_d": "et centrum for Mississippian civilisation med forhold, der ligner samfundene på Nordvestkysten af Nordamerika.",
+    "answer": "A",
+    "id": "prehistory/dev/1"
+  },
+  {
+    "instruction": "Hvordan skal en trussel være fremlagt for at kunne blive sikkerhedsklassificeret?",
+    "option_a": "Som en eksistentiel trussel, der kræver øjeblikkelig og ekstraordinær handling, der udgør en trussel mod statens overlevelse eller samfundets sikkerhed.",
+    "option_b": "Som kræver øjeblikkelig og ekstraordinær handling fra staten, der truer overlevelsen af et referenceobjekt og derfor berettiger brugen af foranstaltninger, der normalt ikke anvendes inden for det politiske område.",
+    "option_c": "Som en presserende trussel mod referenceobjektets overlevelse, så alvorlig at det legitimerer brugen af ekstraordinære handlinger som svar.",
+    "option_d": "Som en presserende trussel mod publikums overlevelse, der kræver ekstraordinære eller nødforanstaltninger.",
+    "answer": "C",
+    "id": "security_studies/dev/2"
+  },
+  {
+    "instruction": "Udover forretningsargumentet for at engagere sig i samfundsansvar er der en række moralske argumenter i forhold til: negative ________, den ________ som korporationer besidder, og ________ mellem virksomhed og samfund.",
+    "option_a": "Eksternaliteter, Magt, Uafhængighed",
+    "option_b": "Opmærksomhed, Ubetydelige ressourcer, Gensidig afhængighed",
+    "option_c": "Opmærksomhed, Magt, Uafhængighed",
+    "option_d": "Eksternaliteter, Magt, Gensidig afhængighed",
+    "answer": "D",
+    "id": "business_ethics/dev/0"
+  },
+  {
+    "instruction": "En tidligere sund 32-årig kvinde kommer til lægen otte måneder efter at hendes mand blev dræbt i en bilulykke. Siden da har hun haft nedsat appetit og svært ved at falde i søvn. Hun siger, at hun ofte er trist og græder ofte. Hun har kontrolleret dørlåsen fem gange, før hun forlader sit hus, og hun skal tælle præcis fem stykker toiletpapir, før hun bruger det. Hun siger, at hun altid har været en perfektionist, men disse trang og ritualer er nye. Farmakoterapi bør sigte efter hvilke af følgende neurotransmittere?",
+    "option_a": "Dopamin",
+    "option_b": "Glutamat",
+    "option_c": "Norepinephrin",
+    "option_d": "Serotonin",
+    "answer": "D",
+    "id": "professional_medicine/dev/2"
+  },
+  {
+    "instruction": "Vælg den bedste oversættelse til prædikatlogik: Ingen mennesker kører på Mars.",
+    "option_a": "~Pd",
+    "option_b": "(∀x)(Px ∨ ~Dx)",
+    "option_c": "(∀x)(Px ⊃ ~Dx)",
+    "option_d": "~Dp",
+    "answer": "C",
+    "id": "formal_logic/dev/0"
+  },
+  {
+    "instruction": "Hvordan angreb Donald Trump globaliseringen i 2016-kampagnen?",
+    "option_a": "Globalisering havde gjort mænd som ham for rige",
+    "option_b": "Globalisering gavnede kun visse amerikanske stater, såsom New York",
+    "option_c": "Liberal elite havde opmuntret globaliseringen, mens 'almindelige amerikanere' mistede job på grund af den",
+    "option_d": "Globalisering fremmede skadelige handelskrige",
+    "answer": "C",
+    "id": "us_foreign_policy/dev/4"
+  },
+  {
+    "instruction": "Det vigtigste mål for en adfærdsindsats er:",
+    "option_a": "Ændring i adfærd",
+    "option_b": "Omfattende dækning",
+    "option_c": "Effektiv brug af adfærdsteori",
+    "option_d": "Vedvarende adfærdsændring",
+    "answer": "D",
+    "id": "virology/dev/3"
+  },
+  {
+    "instruction": "En rør fyldt med luft er lukket i den ene ende. En stående bølge produceres i røret, hvilket får røret til at lyde en tone. Hvilken af følgende udsagn om bølgens egenskaber ved den lukkede ende af røret er korrekt?",
+    "option_a": "Trykket er ved en nodalpunkt, men partikel-forskydningen er ved en antinodalpunkt.",
+    "option_b": "Trykket er ved en antinodalpunkt, men partikel-forskydningen er ved en nodalpunkt.",
+    "option_c": "Trykket og partikel-forskydningen er begge ved nodalpunkter.",
+    "option_d": "Trykket og partikel-forskydningen er begge ved antinodalpunkter.",
+    "answer": "B",
+    "id": "high_school_physics/dev/1"
+  },
+  {
+    "instruction": "En nøglefaktor, der letter anvendelsen af indlejrede sag-kontrolundersøgelser i MACS, var:",
+    "option_a": "Indsamling af data",
+    "option_b": "Etablering af et arkiv af biologiske prøver",
+    "option_c": "Deltagerinteresse",
+    "option_d": "Administration af spørgeskema af personale",
+    "answer": "B",
+    "id": "virology/dev/2"
+  },
+  {
+    "instruction": "Store tredobbelt gentagelsesekspansioner kan påvises ved:",
+    "option_a": "Polymerase-kædereaktion.",
+    "option_b": "Enkeltstrenget konformationspolymorfianalyse.",
+    "option_c": "Southern blotting.",
+    "option_d": "Western blotting.",
+    "answer": "C",
+    "id": "medical_genetics/dev/0"
+  },
+  {
+    "instruction": "Glycolyse er navnet på den proces, hvor stoffet omdannes til:",
+    "option_a": "glycogen til glucose-1-fosfat.",
+    "option_b": "glycogen eller glucose til fructose.",
+    "option_c": "glycogen eller glucose til pyruvat eller lactat.",
+    "option_d": "glycogen eller glucose til pyruvat eller acetyl CoA.",
+    "answer": "C",
+    "id": "clinical_knowledge/dev/4"
+  },
+  {
+    "instruction": "Antag, at X og Y er tilfældige variabler med E(X) = 37, var(X) = 5, E(Y) = 62 og var(Y) = 12. Hvad er forventningsværdien og variansen af den tilfældige variabel X + Y?",
+    "option_a": "E(X + Y) = 99, var(X + Y) = 8.5",
+    "option_b": "E(X + Y) = 99, var(X + Y) = 13",
+    "option_c": "E(X + Y) = 99, var(X + Y) = 17",
+    "option_d": "Der er utilstrækkelige oplysninger til at besvare dette spørgsmål.",
+    "answer": "D",
+    "id": "high_school_statistics/dev/1"
+  },
+  {
+    "instruction": "Hvad er de analytiske rammer, inden for hvilke terrorisme er blevet overvejet (fra 2020 og fremefter)?",
+    "option_a": "Konkurrence mellem større nationer har resulteret i, at visse lande aktivt støtter terrorgrupper for at underminere styrken af rivaliserende stater. Terroristiske netværk er udvidede klientelklubber, der vedligeholdes og betales af deres donorstater, og de opfattes som statlige aktører, der skal bekæmpes ved brug af militær magt.",
+    "option_b": "Globalisering har muliggjort internationaliseringen af ​​terroraktiviteter ved at åbne deres operative rum, selvom koordination stadig styres fra en geografisk base. Dette antyder, at terroristgrupper er nationalt strukturerede, hvilket betyder, at terrorisme ikke kan overvejes i form af en krig, der kan bekæmpes militært uden at have alvorlige konsekvenser for den indfødte befolkning.",
+    "option_c": "Terrorisme kan betragtes som et problem, der skal løses ved militære midler (krig mod terrorisme), ved normale polititeknikker (terrorisme som en forbrydelse) eller som et medicinsk problem med underliggende årsager og symptomer (terrorism som en sygdom).",
+    "option_d": "Terrorisme betragtes som et kriminelt problem. Kriminaliseringen af ​​terrorisme har to vigtige konsekvenser. For det første antyder det, at terrorisme kan udryddes - terrorister kan fanges og stilles for retten ved normale retsforfølgelser og fjerner dermed truslen fra samfundet - og for det andet antyder det, at forebyggende kriminalteknikker kan anvendes til at forhindre dens udvikling.",
+    "answer": "C",
+    "id": "security_studies/dev/4"
+  },
+  {
+    "instruction": "Dommer tog domstolens kendsgerning af nogle fakta i begyndelsen af retssagen. Hvilken af følgende er ikke en passende slags fakta for domstolens kendsgerning?",
+    "option_a": "Ubestridelige fakta.",
+    "option_b": "Fakta, der er blevet hævdet af individuelle politiske organisationer.",
+    "option_c": "Fakta, der anerkendes at være sande ved almindelig viden.",
+    "option_d": "Fakta i stand til videnskabelig verifikation.",
+    "answer": "B",
+    "id": "professional_law/dev/2"
+  },
+  {
+    "instruction": "Hvad er den omtrentlige gennemsnitlige kraniekapacitet for Homo erectus?",
+    "option_a": "under 650 cc",
+    "option_b": "omkring 800 cc",
+    "option_c": "lidt under 1000 cc",
+    "option_d": "1200 cc",
+    "answer": "C",
+    "id": "prehistory/dev/4"
+  },
+  {
+    "instruction": "Nyere forskning om hominidarter, der daterer til Midtre Pliocæn, angiver følgende (per 2020):",
+    "option_a": "Enten stor artsdiversitet eller en enkelt art, der udviser meget diversitet.",
+    "option_b": "Meget lidt artsdiversitet i denne periode og meget få hominider.",
+    "option_c": "Fald i artsdiversitet på grund af en længerevarende istid efterfulgt af en alvorlig tørke.",
+    "option_d": "Fald i artsdiversitet, men en stigning i antallet af hammersten og flager, hvilket angiver fremstilling af stenredskaber.",
+    "answer": "A",
+    "id": "prehistory/dev/3"
+  },
+  {
+    "instruction": "Stadiet i meiosen, hvor kromosomer parrer sig og krydser over, er:",
+    "option_a": "prophase I",
+    "option_b": "metaphase I",
+    "option_c": "prophase II",
+    "option_d": "metaphase II",
+    "answer": "A",
+    "id": "medical_genetics/dev/4"
+  },
+  {
+    "instruction": "Dette spørgsmål henviser til følgende information.\nSelvom kongens Majestæt retmæssigt og helt naturligt er og bør være den højeste leder af Englands Kirke, og sådan anerkendes af præsterne i dette rige i deres konvokationer, så skal det dog for at bekræfte og bekræfte dette og for at øge dyd i Kristi religion inden for dette rige af England og for at undertrykke og udrydde alle fejl, kætterier og andre enormiteter og misbrug, der tidligere blev brugt i samme, lovbestemt ved myndigheden fra dette nuværende parlament, at kongen, vores suveræne herre, hans arvinger og efterfølgere, konger af dette rige, skal tages, accepteret og anset som den eneste højest leder i jorden af ​​Englands Kirke, kaldet Anglicans Ecclesia; og skal have og nyde, tilknyttet og forenet med den kejserlige krone på dette rige, såvel titlen og stilen deraf som alle æresbevisninger, værdigheder, forrang, jurisdiktioner, privilegier, myndigheder, immuniteter, fortjenester og kommoditeter til den nævnte værdighed som højeste leder af samme kirke, og at vores suveræne herre, hans arvinger og efterfølgere, konger af dette rige, skal have fuld magt og myndighed til enhver tid at besøge, undertrykke, rette, ordne, korrigere, tilbageholde og ændre alle sådanne fejl, kætterier, misbrug, lovovertrædelser, foragt og enormiteter, uanset hvad de måtte være, som på nogen måde af åndelig myndighed eller jurisdiktion burde eller lovligt kunne reformeres, undertrykkes, anbringes, rettes, tilbageholdes eller ændres, mest til den almægtige Guds velbehag, øgningen af dyd i Kristi religion og til opretholdelse af freden, enheden og roen i dette rige; enhver brug, fremmed land, fremmed myndighed, recept, eller noget andet, der er i strid hermed, undtagen. \nEngelsk parlament, Supremacy-akt, 1534\nUd fra passagen kan man slutte, at det engelske parlament ønskede at argumentere for, at Supremacy-loven ville",
+    "option_a": "give den engelske konge en ny stilling af myndighed",
+    "option_b": "give stillingen som leder af Englands Kirke til Henry VIII alene og udelukke hans arvinger",
+    "option_c": "etablere calvinisme som den eneste sande teologi i England",
+    "option_d": "afslutte forskellige former for korruption, der plager kirken i England",
+    "answer": "D",
+    "id": "high_school_european_history/dev/4"
+  },
+  {
+    "instruction": "Pleuraen",
+    "option_a": "har ingen sensorisk innervering.",
+    "option_b": "er adskilt af en 2 mm plads.",
+    "option_c": "strækker sig ind i nakken.",
+    "option_d": "består af respiratorisk epithel.",
+    "answer": "C",
+    "id": "anatomy/dev/2"
+  },
+  {
+    "instruction": "Hvilket ord opsummerer bedst Webers forklaring på udviklingen af formelt rationel lov?",
+    "option_a": "Autoritet.",
+    "option_b": "Karisma.",
+    "option_c": "Samarbejde.",
+    "option_d": "Kapitalisme.",
+    "answer": "D",
+    "id": "jurisprudence/dev/2"
+  },
+  {
+    "instruction": "Under tredje trin i den demografiske overgangsmodel, hvad af følgende er sandt?",
+    "option_a": "Fødselstal stiger og populationsvækstraten er mindre hurtig.",
+    "option_b": "Fødselstal falder og populationsvækstraten er mindre hurtig.",
+    "option_c": "Fødselstal stiger og populationsvækstraten stiger.",
+    "option_d": "Fødselstal falder og populationsvækstraten stiger.",
+    "answer": "B",
+    "id": "high_school_geography/dev/1"
+  },
+  {
+    "instruction": "Hvad er det førstevalgs-lægemiddel til patienter med type 2-diabetes og fedme, fra og med 2020?\n",
+    "option_a": "Acarbose",
+    "option_b": "Metformin",
+    "option_c": "Sulfonylurinstoffer",
+    "option_d": "Insulin",
+    "answer": "B",
+    "id": "nutrition/dev/4"
+  },
+  {
+    "instruction": "For hvilket af disse to scenarier gør hovedpersonen (der bruger jeg/mig/min) noget klart moralsk forkert ifølge almindelige moralske standarder i USA i 2020? Scenario 1 | Jeg bad om en cigaret fra fyren udenfor butikken. Scenario 2 | Da sikkerhedsvagten forlod sin post, stoppede jeg en sjælden mønt i min lomme.",
+    "option_a": "Forkert, forkert",
+    "option_b": "Forkert, ikke forkert",
+    "option_c": "Ikke forkert, forkert",
+    "option_d": "Ikke forkert, ikke forkert",
+    "answer": "C",
+    "id": "moral_scenarios/dev/1"
+  },
+  {
+    "instruction": "Hvilke af følgende indeholder DNA-sekvenser, der er nødvendige for segregering af kromosomer i mitose og meiose?",
+    "option_a": "Telomerer",
+    "option_b": "Centromerer",
+    "option_c": "Nukleosomer",
+    "option_d": "Spliceosomer",
+    "answer": "B",
+    "id": "college_biology/dev/4"
+  },
+  {
+    "instruction": "Hvem af følgende personer er mest tilbøjelige til at blive hjemme alene i 2019?",
+    "option_a": "En asiatisk mand eller kvinde",
+    "option_b": "En hispanisk mand",
+    "option_c": "En afroamerikansk kvinde",
+    "option_d": "En hvid mand eller kvinde",
+    "answer": "C",
+    "id": "human_aging/dev/0"
+  },
+  {
+    "instruction": "Hvilken af følgende tilstande viser ikke multifaktoriel arv?",
+    "option_a": "Pylorstenose",
+    "option_b": "Skizofreni",
+    "option_c": "Spina bifida (neurale rørsdefekter)",
+    "option_d": "Marfan syndrom",
+    "answer": "D",
+    "id": "medical_genetics/dev/3"
+  },
+  {
+    "instruction": "Hvilken af følgende er ikke en måde at danne rekombinant DNA på?",
+    "option_a": "Translation",
+    "option_b": "Conjugation",
+    "option_c": "Specialized transduction",
+    "option_d": "Transformation",
+    "answer": "A",
+    "id": "high_school_biology/dev/0"
+  },
+  {
+    "instruction": "Hvad er ikke en nøglefunktion i 'åbne systemer'-modellen for ledelse?",
+    "option_a": "Moral",
+    "option_b": "Innovation",
+    "option_c": "Vækstressource",
+    "option_d": "Tilpasning",
+    "answer": "A",
+    "id": "management/dev/3"
+  },
+  {
+    "instruction": "Hvilken af følgende lister hydridene af gruppe-14 elementer i rækkefølge af termisk stabilitet, fra laveste til højeste?",
+    "option_a": "PbH4 < SnH4 < GeH4 < SiH4 < CH4",
+    "option_b": "PbH4 < SnH4 < CH4 < GeH4 < SiH4",
+    "option_c": "CH4 < SiH4 < GeH4 < SnH4 < PbH4",
+    "option_d": "CH4 < PbH4 < GeH4 < SnH4 < SiH4",
+    "answer": "A",
+    "id": "college_chemistry/dev/4"
+  },
+  {
+    "instruction": "Hvilken af følgende forventes at være et polært molekyle?",
+    "option_a": "PCl4F",
+    "option_b": "BF3",
+    "option_c": "CO2",
+    "option_d": "Si(CH3)4",
+    "answer": "A",
+    "id": "high_school_chemistry/dev/1"
+  },
+  {
+    "instruction": "Hvilken af følgende er kropshulen, som indeholder hypofysen?",
+    "option_a": "Abdominal",
+    "option_b": "Cranial",
+    "option_c": "Pleural",
+    "option_d": "Spinal",
+    "answer": "B",
+    "id": "anatomy/dev/4"
+  },
+  {
+    "instruction": "Ifølge modellen for trykflovvækst af phloem-indhold bevæges fotosyntatbevægelse fra kilde til afløb ved hjælp af",
+    "option_a": "en ATP-afhængig trykflovspumpe",
+    "option_b": "en gradient af vandtrykspotentialer",
+    "option_c": "transpiration",
+    "option_d": "apoplastisk diffusion",
+    "answer": "B",
+    "id": "college_biology/dev/3"
+  },
+  {
+    "instruction": "Hvilken af følgende udtalelser beskriver bedst et argument fremsat af James Madison i The Federalist nummer 10?",
+    "option_a": "Ærlige politikere kan forhindre dannelse af fraktioner.",
+    "option_b": "Fraktioner er mere tilbøjelige til at opstå i store republikker end i små.",
+    "option_c": "De negative virkninger af fraktioner kan mindskes af en republikansk regering.",
+    "option_d": "Fri valg er folkets bedste forsvar mod fraktioner.",
+    "answer": "C",
+    "id": "high_school_government_and_politics/dev/4"
+  },
+  {
+    "instruction": "Myonen henfalder med en karakteristisk levetid på cirka 10^-6 sekunder til en elektron, en myon-neutrino og en elektron-antineutrino. Det er forbudt for myonen at henfalde til en elektron og blot en enkelt neutrino ved lov om bevarelse af",
+    "option_a": "ladning",
+    "option_b": "masse",
+    "option_c": "energi og momentum",
+    "option_d": "leptonnummer",
+    "answer": "D",
+    "id": "college_physics/dev/4"
+  },
+  {
+    "instruction": "I en SR-latch bygget af NOR porte, hvilken tilstand er ikke tilladt",
+    "option_a": "S=0, R=0",
+    "option_b": "S=0, R=1",
+    "option_c": "S=1, R=0",
+    "option_d": "S=1, R=1",
+    "answer": "D",
+    "id": "electrical_engineering/dev/0"
+  },
+  {
+    "instruction": "I en 2-polt lapviklet DC-maskine er modstanden af ​​en leder 2Ω og det samlede antal ledere er 100. Find den samlede modstand",
+    "option_a": "200Ω",
+    "option_b": "100Ω",
+    "option_c": "50Ω",
+    "option_d": "10Ω",
+    "answer": "C",
+    "id": "electrical_engineering/dev/1"
+  },
+  {
+    "instruction": "Udsagn 1 | Hvert element i en gruppe genererer en cyklisk undergruppe af gruppen. Udsagn 2 | Symmetrisk gruppe S_10 har 10 elementer.",
+    "option_a": "Sandt, Sandt",
+    "option_b": "Falsk, Falsk",
+    "option_c": "Sandt, Falsk",
+    "option_d": "Falsk, Sandt",
+    "answer": "C",
+    "id": "abstract_algebra/dev/2"
+  },
+  {
+    "instruction": "Fem tusind dollars, der forrentes årligt med en rentesats på $x\\%$, tager seks år at fordoble. Ved samme rentesats, hvor mange år vil det tage for $\\$300$ at vokse til $\\$9600$?",
+    "option_a": "12",
+    "option_b": "1",
+    "option_c": "30",
+    "option_d": "5",
+    "answer": "C",
+    "id": "high_school_mathematics/dev/1"
+  },
+  {
+    "instruction": "Den mest almindelige lidelse blandt mænd, der søger seksuel terapi, er:",
+    "option_a": "for tidlig ejakulation",
+    "option_b": "hæmmet ejakulation",
+    "option_c": "erektil dysfunktion",
+    "option_d": "ejakulationsproblemer",
+    "answer": "C",
+    "id": "human_sexuality/dev/4"
+  },
+  {
+    "instruction": "En 36-årig mand præsenterer sig på kontoret med en 3-ugers historie om lændesmerter. Han nægter at have haft nogen nylig traumer, men siger, at han klatrer ind og ud af sin lastbil utallige gange om dagen på sit arbejde. Undersøgelsen af patienten i den skrå stilling afslører en dyb sakral fure på venstre side, en bageste inferior laterale vinkel på højre og en lumbosakral samling, der fjedrer frit ved kompression. Den mest sandsynlige diagnose er",
+    "option_a": "venstre-til-venstre sakral torsion",
+    "option_b": "venstre-til-højre sakral torsion",
+    "option_c": "højre unilateral sakral flexion",
+    "option_d": "højre-til-højre sakral torsion",
+    "answer": "D",
+    "id": "professional_medicine/dev/1"
+  },
+  {
+    "instruction": "I hvilken dynasti blev \"Mandatet fra himlen\" udviklet for at legitimere de nye herskere?",
+    "option_a": "Shang",
+    "option_b": "Zhou",
+    "option_c": "Han",
+    "option_d": "Xia",
+    "answer": "B",
+    "id": "world_religions/dev/2"
+  },
+  {
+    "instruction": "Farver i en sæbeboble skyldes lys",
+    "option_a": "omdannet til en anden frekvens",
+    "option_b": "afledning",
+    "option_c": "interference",
+    "option_d": "polarisering",
+    "answer": "C",
+    "id": "conceptual_physics/dev/2"
+  },
+  {
+    "instruction": "En befrugtet ægcelle er også kendt som",
+    "option_a": "en zygote.",
+    "option_b": "et embryo.",
+    "option_c": "en levedygtighed.",
+    "option_d": "en blastocyst.",
+    "answer": "A",
+    "id": "moral_disputes/dev/1"
+  },
+  {
+    "instruction": "På hvilket trin i planlægningsprocessen ville en situationsanalyse blive udført?",
+    "option_a": "Definering af programmet",
+    "option_b": "Planlægning af programmet",
+    "option_c": "Iværksættelse og implementering af ideer",
+    "option_d": "Evaluation af programmet",
+    "answer": "A",
+    "id": "public_relations/dev/3"
+  },
+  {
+    "instruction": "Hvad er forskellen mellem en mandlig og en kvindelig kateter?",
+    "option_a": "Mandlige og kvindelige kateter er forskellige farver.",
+    "option_b": "Mandlige kateter er længere end kvindelige kateter.",
+    "option_c": "Mandlige kateter er større end kvindelige kateter.",
+    "option_d": "Kvindelige kateter er længere end mandlige kateter.",
+    "answer": "B",
+    "id": "clinical_knowledge/dev/1"
+  },
+  {
+    "instruction": "________ er den direkte forsøg på at formelt eller uformelt styre etiske problemer eller problemer gennem specifikke politikker, praksisser og programmer.",
+    "option_a": "Virksomhedens samfundsansvar",
+    "option_b": "Styring af forretningsmoral",
+    "option_c": "Bæredygtighed",
+    "option_d": "Miljøstyring",
+    "answer": "B",
+    "id": "business_ethics/dev/1"
+  },
+  {
+    "instruction": "Hvilken af følgende udsagn om jod er korrekt, pr. 2020?\n",
+    "option_a": "50% af voksne forbruger jod på niveau under RNI",
+    "option_b": "Mejeriprodukter er en dårlig kilde til jod",
+    "option_c": "Indholdet af jod i økologisk mælk er generelt lavere end niveauet i ikke-økologisk mælk",
+    "option_d": "UK-dietre referenceværdier anbefaler øget indtagelse af jod under graviditet",
+    "answer": "C",
+    "id": "nutrition/dev/3"
+  },
+  {
+    "instruction": "En 44-årig mand kommer til kontoret på grund af en 3-dages historie med ondt i halsen, ikke-produktiv hoste, løbende næse og frontal hovedpine. Han siger, at hovedpinen er værst om morgenen, og at ibuprofen giver en vis lettelse. Han har ikke haft åndenød. Medicinsk historie er ukompliceret. Han tager ingen medicin udover ibuprofen til smerte. Vitale tegn er temperatur 37,4 °C (99,4 °F), puls 88/min, respirations 18/min og blodtryk 120/84 mm Hg. Undersøgelse af næseborene viser røde slimhinder. Undersøgelse af halsen viser rødme og follikulær lymfoid hyperplasi på den bageste svælg. Der er ingen påviselig cervikal adenopati. Lungerne er klare for auskultation. Hvad er den mest sandsynlige årsag til denne patients symptomer?",
+    "option_a": "Allergisk rhinitis",
+    "option_b": "Epstein-Barr-virus",
+    "option_c": "Mycoplasma pneumoniae",
+    "option_d": "Rhinovirus",
+    "answer": "D",
+    "id": "professional_medicine/dev/3"
+  },
+  {
+    "instruction": "En naturvidenskabelig lærer på en gymnasieskole fylder en 1 liters flaske med ren nitrogen og forsegler låget. Trykket er 1,70 atm, og stuetemperaturen er 25°C. Hvilke to variable vil begge øge systemets tryk, hvis alle andre variable holdes konstante?",
+    "option_a": "Øge temperaturen, øge antallet af gasmolekyler",
+    "option_b": "Øge temperaturen, øge mængden af rummet",
+    "option_c": "Formindske mængden af rummet, formindske temperaturen",
+    "option_d": "Formindske antallet af gasmolekyler, øge mængden af rummet",
+    "answer": "A",
+    "id": "college_medicine/dev/3"
+  },
+  {
+    "instruction": "Du anmelder papirer til verdens mest elegante konference i maskinlæring, og du ser indsendelser med følgende påstande. Hvilke ville du overveje at acceptere?",
+    "option_a": "Min metode opnår en træningsfejl lavere end alle tidligere metoder!",
+    "option_b": "Min metode opnår en testfejl lavere end alle tidligere metoder! (Note: Når regulariseringsparameteren λ er valgt for at minimere testfejl.)",
+    "option_c": "Min metode opnår en testfejl lavere end alle tidligere metoder! (Note: Når regulariseringsparameteren λ er valgt for at minimere krydsvalideringsfejl.)",
+    "option_d": "Min metode opnår en krydsvalideringsfejl lavere end alle tidligere metoder! (Note: Når regulariseringsparameteren λ er valgt for at minimere krydsvalideringsfejl.)",
+    "answer": "C",
+    "id": "machine_learning/dev/2"
+  },
+  {
+    "instruction": "Et refraktorteleskop består af to samlede linser adskilt med 100 cm. Øjenstykket har en brændvidde på 20 cm. Teleskopets vinkelrette forstørrelse er",
+    "option_a": "4",
+    "option_b": "5",
+    "option_c": "6",
+    "option_d": "20",
+    "answer": "A",
+    "id": "college_physics/dev/3"
+  },
+  {
+    "instruction": "Ifølge Individuals with Disabilities Education Improvement Act, hvad skal et uddannelsesorgan gøre, før det ændrer den pædagogiske placering af en elev med en handicap?",
+    "option_a": "Give barnet en prøveperiode i det nye miljø",
+    "option_b": "Underrette forældrene skriftligt",
+    "option_c": "Få skolebestyrelsess godkendelse",
+    "option_d": "Få forældret samtykke",
+    "answer": "B",
+    "id": "high_school_psychology/dev/3"
+  },
+  {
+    "instruction": "Den kortsigtede Phillips-kurve indikerer en",
+    "option_a": "direkte sammenhæng mellem arbejdsløshed og inflation",
+    "option_b": "direkte sammenhæng mellem pris og efterspørgsel",
+    "option_c": "invers sammenhæng mellem pris og efterspørgsel",
+    "option_d": "invers sammenhæng mellem arbejdsløshed og inflation",
+    "answer": "D",
+    "id": "high_school_macroeconomics/dev/1"
+  },
+  {
+    "instruction": "SHA-1 har en besked-digest på",
+    "option_a": "160 bit",
+    "option_b": "512 bit",
+    "option_c": "628 bit",
+    "option_d": "820 bit",
+    "answer": "A",
+    "id": "computer_security/dev/0"
+  },
+  {
+    "instruction": "Hvad bliver produceret under fotosyntese?",
+    "option_a": "hydrogen",
+    "option_b": "nylon",
+    "option_c": "ilt",
+    "option_d": "lys",
+    "answer": "C",
+    "id": "miscellaneous/dev/3"
+  },
+  {
+    "instruction": "Hvilken af følgende udsagn er korrekt (ifølge viden fra 2020)?\n",
+    "option_a": "Forbrugere med phenylketonuri skal undgå forbrug af sødemidlet aspartam",
+    "option_b": "Forbrugere med phenylketonuri skal undgå forbrug af sødemidlet sakkarin",
+    "option_c": "Forbrugere med phenylketonuri skal undgå forbrug af sødemidlet sucralose",
+    "option_d": "Forbrugere med phenylketonuri skal undgå forbrug af sødemidlet acesulfam K",
+    "answer": "A",
+    "id": "nutrition/dev/1"
+  },
+  {
+    "instruction": "Hvad er outputtet af \"abc\"[::-1] i Python 3?",
+    "option_a": "Fejl",
+    "option_b": "abc",
+    "option_c": "cba",
+    "option_d": "c",
+    "answer": "C",
+    "id": "high_school_computer_science/dev/2"
+  },
+  {
+    "instruction": "Ved konstruktionen af en multippel regression ligning til formål at forudse, er den optimale kombination af målinger en, hvor prædiktorerne",
+    "option_a": "er ukorrelerede med hinanden, men moderat korrelerer med kriteriet",
+    "option_b": "har lav korrelation med hinanden og lav korrelation med kriteriet",
+    "option_c": "er meget indbyrdes korrelerede og moderat korrelerer med kriteriet",
+    "option_d": "har lav korrelation med kriteriet, men er moderat korrelerede med hinanden",
+    "answer": "A",
+    "id": "professional_psychology/dev/4"
+  },
+  {
+    "instruction": "Ifølge Metz, hvad er der galt med konsekventialistiske argumenter mod dødsstraf baseret på afrikanske værdier?",
+    "option_a": "Det er endnu ikke klart, om dødsstraf afholder fra skade på samfundet.",
+    "option_b": "Det er endnu ikke klart, om dødsstraf afholder fra skade på enkeltpersoner.",
+    "option_c": "Konsekventialisme støttes ikke af afrikanske værdier.",
+    "option_d": "Selvom konsekventialisme støttes af afrikanske værdier, er der ikke fremsat nogen konsekventialistiske argumenter formuleret i termer af afrikanske værdier.",
+    "answer": "A",
+    "id": "moral_disputes/dev/0"
+  },
+  {
+    "instruction": "Hvad er den embryologiske oprindelse af tungenbenet?",
+    "option_a": "Den første svælgbue",
+    "option_b": "Den første og anden svælgbue",
+    "option_c": "Den anden svælgbue",
+    "option_d": "Den anden og tredje svælgbue",
+    "answer": "D",
+    "id": "anatomy/dev/0"
+  },
+  {
+    "instruction": "En forventet bivirkning af kreatintilskud er:",
+    "option_a": "muskel svaghed.",
+    "option_b": "øget kropsmasse.",
+    "option_c": "muskelkramper.",
+    "option_d": "tab af elektrolytter.",
+    "answer": "B",
+    "id": "college_medicine/dev/4"
+  },
+  {
+    "instruction": "Udsagn 1| Hver funktion fra en endelig mængde til sig selv skal være injektiv. Udsagn 2 | Hver undergruppe af en abelsk gruppe er abelsk.",
+    "option_a": "Sandt, Sandt",
+    "option_b": "Falsk, Falsk",
+    "option_c": "Sandt, Falsk",
+    "option_d": "Falsk, Sandt",
+    "answer": "A",
+    "id": "abstract_algebra/dev/3"
+  },
+  {
+    "instruction": " Lad V være mængden af alle reelle polynomier p (x). Lad transformationerne T og S være definerede på V ved T: p (x) -> xp (x) og S: p (x) -> p' (x) = d / dx p (x), og fortolk (ST) (p (x)) som S(T(p(x))). Hvad er sandt?",
+    "option_a": "ST = 0",
+    "option_b": "ST = T",
+    "option_c": "ST = TS",
+    "option_d": "ST - TS er V's identitetsabbildning.",
+    "answer": "D",
+    "id": "college_mathematics/dev/0"
+  },
+  {
+    "instruction": "Ifølge Caplans model for konsultent-centreret sagkonsultation, er konsulenten primært interesseret i",
+    "option_a": "at identificere årsagerne og løsningerne på klientens præsenterede problemer",
+    "option_b": "at identificere og eliminere årsagerne til konsulentens vanskeligheder med at håndtere et problem",
+    "option_c": "at etablere en hierarki af autoritet for at muliggøre effektiv beslutningstagning",
+    "option_d": "at præsentere en enkelt, veldefineret og utvetydig handlingsplan for at konsulenten kan overvinde færdighedsmangler",
+    "answer": "B",
+    "id": "high_school_psychology/dev/1"
+  },
+  {
+    "instruction": "Pence sammenligner seks forskellige tilfælde af reproduktion, fra naturlig tvilling til SCNT. Hvilken konklusion drager han af denne sammenligning?",
+    "option_a": "SCNT er ikke en anden form for reproduktion, fordi der ikke er nogen moralsk relevante forskelle mellem det og andre tilladte former for reproduktion.",
+    "option_b": "Fordi der er en lav risiko for skade ved naturlig tvilling, vil der være en lav risiko for skade ved SCNT.",
+    "option_c": "både A og B",
+    "option_d": "hverken A eller B",
+    "answer": "A",
+    "id": "moral_disputes/dev/3"
+  },
+  {
+    "instruction": "Den 1. januar år 1 indgik Alpha Co. en årlig vedligeholdelsesaftale med en softwareleverandør til $15,000, og vedligeholdelsesperioden begynder den 1. marts år 2. Alpha pådrog sig også omkostninger på $5,000 den 1. januar år 1 i forbindelse med anmodninger om softwaremodifikation, der vil øge softwarens funktionalitet. Alpha afskriver sine computer- og softwareaktiver over fem år ved hjælp af straight-line-metoden. Hvilket beløb er den samlede omkostning, som Alpha skal anerkende i forbindelse med vedligeholdelsesaftalen og softwaremodifikationerne for året afsluttet den 31. december år 1?",
+    "option_a": "$5,000",
+    "option_b": "$13,500",
+    "option_c": "$16,000",
+    "option_d": "$20,000",
+    "answer": "B",
+    "id": "professional_accounting/dev/3"
+  },
+  {
+    "instruction": "Overgangen fra 'borgerlig religion' til 'fælles religion' betyder, at:",
+    "option_a": "den stigende bureaukratisering af staten har gjort religion kun til en marginal del af vores liv",
+    "option_b": "trods svækkelsen af traditionel autoritet, er vores hverdag og 'almindelige fornuft' stadig formet af religiøse overbevisninger og værdier",
+    "option_c": "religiøs deltagelse i kollektivt tilbedelse kan være faldet, men folk praktiserer stadig deres trosretninger i privatlivet",
+    "option_d": "folk er meget mere tilbøjelige til at diskutere deres religiøse overbevisninger i offentlige, uformelle sammenhænge",
+    "answer": "B",
+    "id": "sociology/dev/2"
+  },
+  {
+    "instruction": "Hvilken af følgende sager fastsatte præcedens for, at en tiltalt skal informeres om retten til at tie stille, retten til en advokat og beskyttelse mod selvinkriminering?",
+    "option_a": "Weeks mod United States",
+    "option_b": "Betts mod Brady",
+    "option_c": "Mapp mod Ohio",
+    "option_d": "Miranda mod Arizona",
+    "answer": "D",
+    "id": "high_school_government_and_politics/dev/2"
+  },
+  {
+    "instruction": "Antag, at f(1 + x) = f(x) for alle reelle tal x. Hvis f er en polynomium og f(5) = 11, hvad er så f(15/2)?",
+    "option_a": "-11",
+    "option_b": "0",
+    "option_c": "11",
+    "option_d": "33/2",
+    "answer": "C",
+    "id": "college_mathematics/dev/3"
+  },
+  {
+    "instruction": "Ifølge d'Holbach handler folk altid i overensstemmelse med _____.",
+    "option_a": "frie valg",
+    "option_b": "sjælens dikteringer",
+    "option_c": "nødvendige naturlige love",
+    "option_d": "ubestemt vilje",
+    "answer": "C",
+    "id": "philosophy/dev/2"
+  },
+  {
+    "instruction": "_____________ er et naturligt resultat, når man kombinerer demografiske og geografiske variable.",
+    "option_a": "Geodemografi",
+    "option_b": "Produktdifferentiering.",
+    "option_c": "Ansoff-matricen.",
+    "option_d": "Brandstyring.",
+    "answer": "A",
+    "id": "marketing/dev/0"
+  },
+  {
+    "instruction": "Hvilket af følgende udsagn om korrelation er korrekt?",
+    "option_a": "Hvis hældningen på regressionslinjen er præcis 1, er korrelationen præcis 1.",
+    "option_b": "Hvis korrelationen er 0, så er hældningen på regressionslinjen ikke defineret.",
+    "option_c": "Hvis der skiftes, hvilken variabel der kaldes x og hvilken der kaldes y, så ændrer det korrelationens fortegn.",
+    "option_d": "Korrelationen r er lig med hældningen på regressionslinjen, når z-scorer for y-variablen plottes mod z-scorer for x-variablen.",
+    "answer": "D",
+    "id": "high_school_statistics/dev/0"
+  },
+  {
+    "instruction": "Hvornår kan 'samtykke' fungere som en omstændighed der udelukker ulovligheden af en stats opførsel?",
+    "option_a": "Samtykke kan fungere som en omstændighed der udelukker ulovligheden hver gang det gives",
+    "option_b": "Samtykke kan aldrig fungere som en omstændighed der udelukker ulovligheden",
+    "option_c": "Samtykke kan fungere som en omstændighed der udelukker ulovligheden, forudsat at samtykket er gyldigt og i det omfang som opførslen er inden for grænserne af givet samtykke",
+    "option_d": "Samtykke kan altid fungere som en omstændighed der udelukker ulovligheden, uanset hvilket organ af staten der giver det",
+    "answer": "C",
+    "id": "international_law/dev/3"
+  },
+  {
+    "instruction": "Hvad beskriver Berger (1963) som en metafor for social virkelighed?",
+    "option_a": "en forlystelsesparkstur",
+    "option_b": "et cirkus",
+    "option_c": "et dukketeater",
+    "option_d": "en ballet",
+    "answer": "C",
+    "id": "sociology/dev/1"
+  },
+  {
+    "instruction": "Hvilket af følgende er en sand udtalelse om leddyr?",
+    "option_a": "De har et exoskelet, der primært er sammensat af peptidoglykan.",
+    "option_b": "De har et åbent kredsløbssystem med et dorsal hjerte.",
+    "option_c": "De er medlemmer af en biologisk ikke succesfuld stamme, der er ude af stand til at udnytte forskellige habitater og næringskilder.",
+    "option_d": "De mangler parrede, ledede appendager.",
+    "answer": "B",
+    "id": "college_biology/dev/0"
+  },
+  {
+    "instruction": "Udsagn 1 | Hvis aH er et element i en faktorgruppe, så dividerer |aH| |a|. Udsagn 2 | Hvis H og K er undergrupper af G, så er HK en undergruppe af G.",
+    "option_a": "Sandt, Sandt",
+    "option_b": "Falsk, Falsk",
+    "option_c": "Sandt, Falsk",
+    "option_d": "Falsk, Sandt",
+    "answer": "B",
+    "id": "abstract_algebra/dev/1"
+  },
+  {
+    "instruction": "Hvorfor er der ikke en planet, hvor asteroidebæltet befinder sig?",
+    "option_a": "En planet blev dannet her engang, men den blev brudt op af en katastrofal kollision.",
+    "option_b": "Der var ikke tilstrækkeligt med materiale i denne del af soltågen til at danne en planet.",
+    "option_c": "Der var for meget stenet materiale til at danne en terrestrisk planet, men ikke nok gaseformigt materiale til at danne en jovian planet.",
+    "option_d": "Resonans med Jupiter forhindrede materialet i at samle sig til at danne en planet.",
+    "answer": "D",
+    "id": "astronomy/dev/3"
+  },
+  {
+    "instruction": "Hvad er etisk hacking?",
+    "option_a": "\"Hacking\" af etik så de retfærdiggør utilsigtet selvcentreret adfærd",
+    "option_b": "At hacke systemer (f.eks. under penetrationstestning) for at afsløre sårbarheder, så de kan blive rettet i stedet for at blive udnyttet",
+    "option_c": "At hacke ind i systemer drevet af dem, hvis etik du er uenig i",
+    "option_d": "En slang term for hurtig softwareudvikling, f.eks. som en del af hackathons",
+    "answer": "B",
+    "id": "computer_security/dev/2"
+  },
+  {
+    "instruction": "I dyreceller, hvilken af følgende repræsenterer den mest sandsynlige vej, som et sekretorisk protein tager, når det syntetiseres i en celle?",
+    "option_a": "Plasmamembranen - Golgi-apparatet - ribosom - sekretorisk vesikel - ru ER",
+    "option_b": "Ribosom - Golgi-apparatet - ru ER - sekretorisk vesikel - plasmamembranen",
+    "option_c": "Plasmamembranen - Golgi-apparatet - ribosom - sekretorisk vesikel - ru ER",
+    "option_d": "Ribosom - ru ER - Golgi-apparatet - sekretorisk vesikel - plasmamembranen",
+    "answer": "D",
+    "id": "high_school_biology/dev/2"
+  },
+  {
+    "instruction": "En 0,217 g prøve af HgO (molarmasse = 217 g) reagerer med overskud af iodidioner i henhold til den viste reaktion. Hvor mange mL af 0,10 M HCl er nødvendig for at nå ækvivalenspunktet under titrering af den resulterende opløsning?",
+    "option_a": "1,0 ml",
+    "option_b": "10 ml",
+    "option_c": "20 ml",
+    "option_d": "50 ml",
+    "answer": "C",
+    "id": "college_chemistry/dev/1"
+  },
+  {
+    "instruction": "Hvilken af følgende udsagn er IKKE korrekt angående tjenester, der leveres af lokale myndigheder i USA?",
+    "option_a": "Duplikation af bestræbelser forekommer ofte.",
+    "option_b": "Sociale problemer i den centrale by flyder over i de omkringliggende boligforstæder.",
+    "option_c": "Ineffektivitet ved levering af tjenester forekommer ofte.",
+    "option_d": "En nabos bestræbelser på at reducere forurening støttes altid af nabosamfund.",
+    "answer": "D",
+    "id": "high_school_geography/dev/2"
+  },
+  {
+    "instruction": "En liste over tal har n elementer, indekseret fra 1 til n. Følgende algoritme er beregnet til at vise antallet af elementer i listen, der har en værdi større end 100. Algoritmen bruger variablerne count og position. Trin 3 og 4 mangler.\n Trin 1: Sæt count til 0 og position til 1.\n Trin 2: Hvis værdien af elementet på indeks position er større end 100, skal du øge værdien af count med 1.\n Trin 3: (manglende trin)\n Trin 4: (manglende trin)\n Trin 5: Vis værdien af count.\n Hvad af følgende kan bruges til at erstatte trin 3 og 4, så algoritmen virker som tiltænkt?",
+    "option_a": "Trin 3: Øg værdien af position med 1.\n Trin 4: Gentag trin 2 og 3, indtil værdien af count er større end 100.",
+    "option_b": "Trin 3: Øg værdien af position med 1.\n Trin 4: Gentag trin 2 og 3, indtil værdien af position er større end n.",
+    "option_c": "Trin 3: Gentag trin 2, indtil værdien af count er større end 100.\n Trin 4: Øg værdien af position med 1.",
+    "option_d": "Trin 3: Gentag trin 2, indtil værdien af position er større end n.\n Trin 4: Øg værdien af count med 1.",
+    "answer": "D",
+    "id": "high_school_computer_science/dev/4"
+  },
+  {
+    "instruction": "Hvilken af følgende er en morfologisk egenskab ved paramyxovira?",
+    "option_a": "Fragile vira, der ofte visualiseres med RNA, der sprayer ud fra indersiden",
+    "option_b": "Forlængede vira",
+    "option_c": "Icosahedrale vira med membran",
+    "option_d": "Meget store vira",
+    "answer": "A",
+    "id": "virology/dev/1"
+  },
+  {
+    "instruction": "Carl Jung mente at en klient's overføring:",
+    "option_a": "er en fantasi, der distraherer klienten fra virkeligheden.",
+    "option_b": "repræsenterer \"blandede følelser\" over for terapeuten.",
+    "option_c": "\"er en form for 'handlen ud'.\"",
+    "option_d": "afspejler klientens personlige og kollektive ubevidste sind.",
+    "answer": "D",
+    "id": "professional_psychology/dev/3"
+  },
+  {
+    "instruction": "Det ____________ er alt det, som din søgemaskine ikke kan søge efter.",
+    "option_a": "Hjemsøgte net",
+    "option_b": "World Wide Web",
+    "option_c": "Overfladenet",
+    "option_d": "Deep Web",
+    "answer": "D",
+    "id": "computer_security/dev/4"
+  },
+  {
+    "instruction": "Hvilken af følgende regulære udtryk er ækvivalent med (beskriver samme sæt af strenge som) (a* + b)*(c + d)?",
+    "option_a": "a*(c + d)+ b(c + d)",
+    "option_b": "a*(c + d)* + b(c + d)*",
+    "option_c": "a*(c + d)+ b*(c + d)",
+    "option_d": "(a + b)*c +(a + b)*d",
+    "answer": "D",
+    "id": "college_computer_science/dev/0"
+  },
+  {
+    "instruction": "Hvilket element i tobaksrøg er ansvarligt for kræft?",
+    "option_a": "Nikotin",
+    "option_b": "Tjære",
+    "option_c": "Kulilte",
+    "option_d": "Røgpartikler",
+    "answer": "B",
+    "id": "human_aging/dev/3"
+  },
+  {
+    "instruction": "En fotocelle med arbejdspotential ϕ = 2 eV er tilsluttet en modstand i serie. Lys af frekvens f = 1 × 10^15 Hz rammer en metalplade på fotocellen. Hvis lysets effekt er P = 100 W, hvad er så strømmen gennem modstanden?",
+    "option_a": "2:00 AM",
+    "option_b": "6:00 AM",
+    "option_c": "12:00 AM",
+    "option_d": "24 A",
+    "answer": "D",
+    "id": "high_school_physics/dev/2"
+  },
+  {
+    "instruction": "En punktstang har en styrke på 4π * 10^-4 weber. Kraften i newton på en punktstang på 4π * 1.5 * 10^-4 weber, placeret på en afstand af 10 cm fra den vil være",
+    "option_a": "15 N.",
+    "option_b": "20 N.",
+    "option_c": "7.5 N.",
+    "option_d": "3.75 N.",
+    "answer": "A",
+    "id": "electrical_engineering/dev/4"
+  },
+  {
+    "instruction": "Hvorfor er parvovirus en meget påvirkende parasit?",
+    "option_a": "Fordi de ikke har nukleinsyre",
+    "option_b": "De kræver en hjælpevirus",
+    "option_c": "Kun replikere i delende celler",
+    "option_d": "Kan integreres i værtskromosomer",
+    "answer": "A",
+    "id": "virology/dev/0"
+  },
+  {
+    "instruction": "Befolkningen i byen, hvor Michelle blev født, er 145.826. Hvad er værdien af 5 i tallet 145.826?",
+    "option_a": "5 tusinder",
+    "option_b": "5 hundreder",
+    "option_c": "5 tier",
+    "option_d": "5 enere",
+    "answer": "A",
+    "id": "elementary_mathematics/dev/0"
+  },
+  {
+    "instruction": "Hvordan kan en stats samtykke til at være bundet udtrykkes?",
+    "option_a": "En stats samtykke til at være bundet udtrykkes kun ved ratifikation.",
+    "option_b": "En stats samtykke til at være bundet af en traktat kan udtrykkes ved underskrift, ratifikation, accept, godkendelse eller tiltrædelse.",
+    "option_c": "En stats samtykke til at være bundet udtrykkes ved underskrift.",
+    "option_d": "En stats samtykke til at være bundet udtrykkes ved hvilken som helst midler, de vælger.",
+    "answer": "B",
+    "id": "international_law/dev/4"
+  },
+  {
+    "instruction": "Overvej en computerdesign, hvor flere processorer, hver med en privat cache-hukommelse, deler global hukommelse ved hjælp af en enkelt bus. Denne bus er den kritiske systemressource. Hver processor kan udføre én instruktion hvert 500 nanosekund, så længe hukommelsesreferencer opfyldes af dens lokale cache-hukommelse. Når en cache-miss opstår, forsinkes processoren i yderligere 2000 nanosekunder. I halvdelen af denne yderligere forsinkelse er bussen dedikeret til at servicere cache-missen. I den anden halvdel kan processoren ikke fortsætte, men bussen er fri til at servicere anmodninger fra andre processorer. I gennemsnit kræver hver instruktion 2 hukommelsesreferencer. I gennemsnit forekommer cache-misses på 1 procent af referencerne. Hvilken del af buskapaciteten ville en enkelt processor forbruge, hvis man ignorerer forsinkelser på grund af konkurrence fra andre processorer?",
+    "option_a": "1/50",
+    "option_b": "1/27",
+    "option_c": "1/25",
+    "option_d": "2/27",
+    "answer": "B",
+    "id": "college_computer_science/dev/4"
+  },
+  {
+    "instruction": "Olivia brugte reglen \"Tilføj 11\" til at skabe mønstret af tal, der er vist nedenfor. 10, 21, 32, 43, 54 Hvilken påstand om tal-mønsteret er sand?",
+    "option_a": "Det 10. tal i mønsteret vil være et ulige tal.",
+    "option_b": "Tal-mønsteret vil aldrig have to ulige tal efter hinanden.",
+    "option_c": "De næste to tal i mønsteret vil være et lige tal og derefter et ulige tal.",
+    "option_d": "Hvis tal-mønsteret startede med et ulige tal, ville mønsteret kun bestå af ulige tal.",
+    "answer": "B",
+    "id": "elementary_mathematics/dev/1"
+  },
+  {
+    "instruction": "Hvilket udtryk er ækvivalent med 5 x 9?",
+    "option_a": "(5 x 4) x (6 x 5)",
+    "option_b": "(5 x 5) + (5 x 4)",
+    "option_c": "(5 x 5) + (5 x 9)",
+    "option_d": "(5 x 9) x (6 x 9)",
+    "answer": "B",
+    "id": "elementary_mathematics/dev/4"
+  },
+  {
+    "instruction": "Usikkerhed om grænserne for præsidentmagt skyldes primært det faktum, at",
+    "option_a": "den forfatningsmæssige definition af disse beføjelser er bred og uspecificeret",
+    "option_b": "de fleste mennesker er enige om, at forfatningen lægger for mange begrænsninger på præsidentmagten",
+    "option_c": "Højesteret nægter konsekvent at træffe afgørelse i sager vedrørende præsidentmagt",
+    "option_d": "forfatningsændringer har markant øget præsidentmagten",
+    "answer": "A",
+    "id": "high_school_government_and_politics/dev/0"
+  },
+  {
+    "instruction": "Hvilket af følgende er ikke et problem forbundet med officiel statistik om strejkeaktioner?",
+    "option_a": "de fleste strejker går ubemærket hen af arbejdsgivere og massemedier",
+    "option_b": "ikke alle industrielle konflikter vil blive rapporteret af arbejdsgiveren",
+    "option_c": "definitionen af strejker udelukker dem, der involverer færre end ti arbejdere eller varer mindre end en dag",
+    "option_d": "det er svært at sammenligne strejker, der blev målt på forskellige måder",
+    "answer": "A",
+    "id": "sociology/dev/4"
+  },
+  {
+    "instruction": "En kvinde, som ved, at hun har aktiv herpes og ubehandlet syfilis, men fortsætter med at have sex uden at informere sine partnere om hendes tilstand, har i psykoanalytiske termer:",
+    "option_a": "en stærk ego",
+    "option_b": "en svag overjeg",
+    "option_c": "en svag id",
+    "option_d": "en stærk overjeg",
+    "answer": "B",
+    "id": "human_sexuality/dev/1"
+  },
+  {
+    "instruction": "Hvilken af følgende udsagn om kabinetafdelinger er FALSK?",
+    "option_a": "De oprettes af den lovgivende gren.",
+    "option_b": "Deres medlemmer har ofte ikke meget indflydelse på præsidentielle beslutninger.",
+    "option_c": "De kan ikke alle styres af ledere, der tilhører det samme politiske parti som præsidenten gør.",
+    "option_d": "Ikke alle føderale agenturer er en kabinetafdeling.",
+    "answer": "C",
+    "id": "high_school_government_and_politics/dev/3"
+  },
+  {
+    "instruction": "Vælg den bedste engelske fortolkning af de givne argumenter i prædikatlogik.\nDm\n(∀x)(Wx ⊃ ~Dx)\n(∀x)Wx ∨ Ag\t/ (∃x)Ax",
+    "option_a": "Marina er en danser. Nogle svæklinge er ikke dansere. Enten er alt en svækling eller spiller Georgia volleybold. Så spiller noget volleyball.",
+    "option_b": "Marina er en danser. Ingen svækling er en danser. Alt er enten en svækling eller spiller volleybold. Så spiller noget volleyball.",
+    "option_c": "Marina er en danser. Nogle svæklinge er ikke dansere. Alt er enten en svækling eller spiller volleybold. Så spiller noget volleyball.",
+    "option_d": "Marina er en danser. Ingen svækling er en danser. Enten er alt en svækling eller spiller Georgia volleybold. Så spiller noget volleyball.",
+    "answer": "D",
+    "id": "formal_logic/dev/2"
+  },
+  {
+    "instruction": "Spolen på et bevægeligt spoleinstrument har 100 omdrejninger, er 40 mm lang og 30 mm bredt. Kontrolmomentet er 240*10-6 N-m ved fuld skala. Hvis magnetisk fluksdensitet er 1Wb/m2, er området for instrumentet",
+    "option_a": "1 mA.",
+    "option_b": "2 mA.",
+    "option_c": "3 mA.",
+    "option_d": "4 mA.",
+    "answer": "B",
+    "id": "electrical_engineering/dev/2"
+  },
+  {
+    "instruction": "En vis pipelinet RISC-maskine har 8 generelle registre R0, R1, ..., R7 og understøtter følgende operationer.\nADD Rs1, Rs2, Rd Tilføj Rs1 til Rs2 og sæt summen i Rd\nMUL Rs1, Rs2, Rd Gange Rs1 med Rs2 og sæt produktet i Rd\nEn operation tager normalt en cyklus; men en operation tager to cykler, hvis den producerer et resultat, der kræves af den umiddelbart efterfølgende operation i en operationsskabelon. Overvej udtrykket AB + ABC + BC, hvor variablerne A, B, C findes i registrene R0, R1, R2. Hvis indholdet af disse tre registre ikke må ændres, hvad er det mindste antal clockcykler, der kræves for en operationsskabelon, der beregner værdien af AB + ABC + BC?",
+    "option_a": "5",
+    "option_b": "6",
+    "option_c": "7",
+    "option_d": "8",
+    "answer": "B",
+    "id": "college_computer_science/dev/1"
+  },
+  {
+    "instruction": "Hvorfor er Mars rød?",
+    "option_a": "Fordi overfladen er dækket af kraftigt oxiderede (\"rustne\") mineraler.",
+    "option_b": "Fordi atmosfæren spreder mere lys ved blå bølgelængder og transmitterer hovedsageligt rødt lys.",
+    "option_c": "Fordi Mars er dækket af gamle lavastrømme, som er røde i farven.",
+    "option_d": "Fordi flydende vand på Mars' overflade ændrede overfladens mineraler for flere milliarder år siden.",
+    "answer": "A",
+    "id": "astronomy/dev/4"
+  },
+  {
+    "instruction": "Hvad skal en offentlig relations medarbejder gøre, hvis hun ikke kender svaret på en reporters spørgsmål?",
+    "option_a": "Giv reporteren anden information, som hun er sikker på er korrekt.",
+    "option_b": "Sig, at informationen er 'off the record' og vil blive spredt senere.",
+    "option_c": "Sig 'jeg ved det ikke' og love at give informationen senere.",
+    "option_d": "Sig 'ingen kommentar,' i stedet for at virke uvidende.",
+    "answer": "C",
+    "id": "public_relations/dev/0"
+  },
+  {
+    "instruction": "Singleton designmønstret bruges til at garantere, at kun en enkelt instans af en klasse kan oprettes. Hvilket af følgende udsagn er sande omkring dette designmønster? \nI. Singleton-klassen har en statisk fabriksmetode til at levere dens instans. \nII. Singleton-klassen kan være en underklasse af en anden klasse. \nIII. Singleton-klassen har en privat konstruktør.",
+    "option_a": "Kun I",
+    "option_b": "Kun II",
+    "option_c": "Kun III",
+    "option_d": "I, II og III",
+    "answer": "D",
+    "id": "college_computer_science/dev/2"
+  },
+  {
+    "instruction": "Hvordan adskiller Defensive Realisme og Offensive Realisme sig i deres forklaring af staters adfærd?",
+    "option_a": "Defensive realister lægger større vægt på rollen af internationale institutioner",
+    "option_b": "Defensive realister lægger mindre vægt på geografiske faktorer",
+    "option_c": "Offensive realister giver højere prioritet til national interesse end Defensive realister",
+    "option_d": "Defensive realister mener, at stater maksimerer sikkerhed, mens Offensive realister mener, at stater maksimerer magt",
+    "answer": "D",
+    "id": "us_foreign_policy/dev/3"
+  },
+  {
+    "instruction": "En revisor spor på serienumre på udstyr til en ikke-udstederens subledger. Hvilken af følgende ledelsesmæssige påstande understøttes af denne test?",
+    "option_a": "Vurdering og allokering",
+    "option_b": "Fuldendelse",
+    "option_c": "Rettigheder og forpligtelser",
+    "option_d": "Præsentation og offentliggørelse",
+    "answer": "B",
+    "id": "professional_accounting/dev/4"
+  },
+  {
+    "instruction": "Sig, at eleven i dit øje har en diameter på 5 mm, og du har et teleskop med en blænde på 50 cm. Hvor meget mere lys kan teleskopet opfange end dit øje?",
+    "option_a": "10000 gange mere",
+    "option_b": "100 gange mere",
+    "option_c": "1000 gange mere",
+    "option_d": "10 gange mere",
+    "answer": "A",
+    "id": "astronomy/dev/2"
+  },
+  {
+    "instruction": "Homologe strukturer citeres ofte som bevis for naturlig udvælgelse. Alle følgende er eksempler på homologe strukturer UNDTAGEN",
+    "option_a": "fuglens vinger og flagermusens vinger",
+    "option_b": "hvalens finner og mandens arme",
+    "option_c": "grindhvalens brystfinner og sælens finner",
+    "option_d": "insektets forben og hundens forlemmer",
+    "answer": "D",
+    "id": "high_school_biology/dev/4"
+  },
+  {
+    "instruction": "Hvilket af følgende udsagnpar er begge sande (pr. 2019)?",
+    "option_a": "Folk har tendens til at være optimistiske omkring deres egen fremtid og fremtiden for deres nation eller verden.",
+    "option_b": "Folk har tendens til at være optimistiske omkring deres egen fremtid, men pessimistiske omkring fremtiden for deres nation eller verden.",
+    "option_c": "Folk har tendens til at være pessimistiske omkring deres egen fremtid, men optimistiske omkring fremtiden for deres nation eller verden.",
+    "option_d": "Folk har tendens til at være pessimistiske omkring deres egen fremtid og fremtiden for deres nation eller verden.",
+    "answer": "B",
+    "id": "global_facts/dev/0"
+  },
+  {
+    "instruction": "En tank indeholder i starten en saltopløsning på 3 gram salt opløst i 100 liter vand. En saltopløsning indeholdende 0,02 gram salt per liter vand, sprøjtes ind i tanken med en hastighed på 4 liter per minut. Den sprøjtede væske blandes kontinuerligt med saltopløsningen i tanken, og blandingen flyder ud af tanken med en hastighed på 4 liter per minut. Hvis blandingen er øjeblikkelig, hvor mange gram salt er der i tanken efter 100 minutter?",
+    "option_a": "2",
+    "option_b": "2 - e^-2",
+    "option_c": "2 + e^-2",
+    "option_d": "2 + e^-4",
+    "answer": "D",
+    "id": "college_mathematics/dev/1"
+  },
+  {
+    "instruction": "En af dine terapiklienter beder om din rådgivning om et godt vægtreduktionsprogram. Du har undersøgt programmerne i samfundet og er tilmeldt det, som du mener er det bedste. Dette program tilbyder en bonus på $50 til sine deltagere for hver ny person, de bringer ind i programmet. Under disse omstændigheder ville dit mest passende svar være at",
+    "option_a": "fortælle din klient om fordele og ulemper ved hvert program, du kender til, undtagen det program, du er tilmeldt",
+    "option_b": "anbefal til din klient det program, som du er tilmeldt, og forklar den $50 bonus, du vil modtage",
+    "option_c": "anbefal til din klient det program, som du er tilmeldt, og tilbyd at kreditere den $50 bonus til din klients konto i programmet",
+    "option_d": "fortælle din klient om fordele og ulemper ved hvert program, du kender til, men ikke påstå den $50 bonus, hvis din klient tilmelder sig dit program",
+    "answer": "D",
+    "id": "professional_psychology/dev/0"
+  },
+  {
+    "instruction": "Hvad er sandt om en prisgulv?",
+    "option_a": "Prisgulvet skifter efterspørgselskurven mod venstre.",
+    "option_b": "Et effektivt gulv skaber en mangel på varen.",
+    "option_c": "Prisgulvet skifter udbudskurven for varen mod højre.",
+    "option_d": "For at være et effektivt prisgulv, skal det indstilles over ligevægtprisen.",
+    "answer": "D",
+    "id": "high_school_microeconomics/dev/3"
+  },
+  {
+    "instruction": "Hvilken af de givne formler for PL er den bedste symbolisering af følgende sætning?\nSkildpadder lever lange liv og er glade væsner, medmindre de er sårede.",
+    "option_a": "(L • H) ≡ I",
+    "option_b": "(L • H) ∨ I",
+    "option_c": "L • (H ∨ I)",
+    "option_d": "L • (H ⊃ R)",
+    "answer": "B",
+    "id": "formal_logic/dev/4"
+  },
+  {
+    "instruction": "Undersøgelsen af virkeligheden i den bredeste forstand, en undersøgelse af universets elementale natur og tingene i det, er kendt som _____.",
+    "option_a": "metafysik",
+    "option_b": "erkendelsesteori",
+    "option_c": "kvantefysik",
+    "option_d": "aksio-logi",
+    "answer": "A",
+    "id": "philosophy/dev/4"
+  },
+  {
+    "instruction": "Den ________ retsskole postulerer, at loven er baseret på, hvad der er \"korrekt\".",
+    "option_a": "Naturret",
+    "option_b": "Analytisk",
+    "option_c": "Historisk",
+    "option_d": "Sociologisk",
+    "answer": "A",
+    "id": "jurisprudence/dev/3"
+  },
+  {
+    "instruction": "Fra og med 2019, ca. hvor stor en procentdel af russere siger, at det er meget vigtigt at have frie medier i vores land uden regerings-/statscensur?",
+    "option_a": "38%",
+    "option_b": "53%",
+    "option_c": "68%",
+    "option_d": "83%",
+    "answer": "A",
+    "id": "global_facts/dev/3"
+  },
+  {
+    "instruction": "I en organisation refereres gruppen af personer, der er ansvarlige for købsbeslutninger, til som _______________.",
+    "option_a": "Outsourcing enhed.",
+    "option_b": "Indkøbscenter.",
+    "option_c": "Unit for administrerende direktør.",
+    "option_d": "Beslutningstagningsenhed.",
+    "answer": "D",
+    "id": "marketing/dev/1"
+  },
+  {
+    "instruction": "Hvad vil konsekvenserne være for OLS-estimatoren, hvis der er heteroskedasticitet til stede i en regressionsmodel, men ignoreres?",
+    "option_a": "Den vil være biased.",
+    "option_b": "Den vil være inkonsistent.",
+    "option_c": "Den vil være ineffektiv.",
+    "option_d": "Alle af (a), (b) og (c) vil være sande.",
+    "answer": "C",
+    "id": "econometrics/dev/3"
+  },
+  {
+    "instruction": "Hvad er tegnet på pagten for jødiske mænd?",
+    "option_a": "Regnbuen",
+    "option_b": "Omskærelse",
+    "option_c": "En søn",
+    "option_d": "Bar mitzvah",
+    "answer": "B",
+    "id": "world_religions/dev/0"
+  },
+  {
+    "instruction": "Hvis nogen angriber karakteren af en modstanders argument, i stedet for at svare på modstanderens argumenter, har den første person sandsynligvis begået hvilken af følgende fejlslutninger?",
+    "option_a": "tu quoque",
+    "option_b": "hestelatter",
+    "option_c": "argument imod personen",
+    "option_d": "ignoratio elenchi",
+    "answer": "C",
+    "id": "logical_fallacies/dev/0"
+  },
+  {
+    "instruction": "Konstruer en fuldstændig sandhedstabel for følgende par påstande. Brug derefter sandhedstabellerne til at afgøre, om udsagnene er logisk ensbetydende eller modstridende. Hvis ingen af delene, afgør om de er konsistente eller inkonsistente. Begrund dine svar.\nE ⊃ (F · E) og ~E · F",
+    "option_a": "Logisk ensbetydende",
+    "option_b": "Modstridende",
+    "option_c": "Hverken logisk ensbetydende eller modstridende, men konsistente",
+    "option_d": "Inkonsistente",
+    "answer": "C",
+    "id": "formal_logic/dev/3"
+  },
+  {
+    "instruction": "Hvad er ikke kendt for at være involveret i kontrol af celledeling?",
+    "option_a": "Cycliner",
+    "option_b": "Protein kinaser",
+    "option_c": "Kontrolpunkter",
+    "option_d": "Fibroblastceller",
+    "answer": "D",
+    "id": "high_school_biology/dev/3"
+  },
+  {
+    "instruction": " Lad A være en reel 2x2 matrix. Hvilke af følgende udsagn skal være sande?\r\nI. Alle inskriptioner af A ^ 2 er ikke-negative.\r\nII. Determinantet af A ^ 2 er ikke-negativ.\r\nIII. Hvis A har to forskellige egenværdier, har A ^ 2 to forskellige egenværdier.",
+    "option_a": "Kun I",
+    "option_b": "Kun II",
+    "option_c": "Kun III",
+    "option_d": "Kun II og III",
+    "answer": "B",
+    "id": "college_mathematics/dev/2"
+  },
+  {
+    "instruction": "Du skubber en lastbil langs en vej. Ville det være lettere at accelerere denne lastbil på Mars? Hvorfor? (Antag, at der ikke er nogen friktion)",
+    "option_a": "Det ville være sværere, fordi lastbilen er tungere på Mars.",
+    "option_b": "Det ville være lettere, fordi lastbilen er lettere på Mars.",
+    "option_c": "Det ville være sværere, fordi lastbilen er lettere på Mars.",
+    "option_d": "Det ville være det samme, uanset hvor du er.",
+    "answer": "D",
+    "id": "astronomy/dev/0"
+  },
+  {
+    "instruction": "Hvilken position hævder Rawls er den mindst sandsynlige for POP (personer i den oprindelige tilstand) at vælge?",
+    "option_a": "POP ville vælge lighed over frihed.",
+    "option_b": "POP ville vælge 'maximin'-strategien.",
+    "option_c": "POP ville vælge 'forskelprincippet'.",
+    "option_d": "POP ville afvise 'systemet med naturlig frihed'.",
+    "answer": "A",
+    "id": "jurisprudence/dev/0"
+  },
+  {
+    "instruction": "For en stationær autoregressiv proces vil stødene til sidst",
+    "option_a": "Fortone sig",
+    "option_b": "Fortsætte uendeligt",
+    "option_c": "Vokse eksponentielt",
+    "option_d": "Aldrig opstå",
+    "answer": "A",
+    "id": "econometrics/dev/0"
+  },
+  {
+    "instruction": "En føderal underskud opstår, når",
+    "option_a": "eksport overskrider import.",
+    "option_b": "import overskrider eksport.",
+    "option_c": "føderale skatteindtægter overstiger udgifter.",
+    "option_d": "føderale udgifter overstiger føderale skatteindtægter.",
+    "answer": "D",
+    "id": "high_school_macroeconomics/dev/2"
+  },
+  {
+    "instruction": "Hvordan kan organisatoriske strukturer, der er karakteriseret ved demokratiske og inkluderende ledelsesstile, beskrives?",
+    "option_a": "Hierarkisk",
+    "option_b": "Bureaukratisk",
+    "option_c": "Flad",
+    "option_d": "Funktionel",
+    "answer": "C",
+    "id": "management/dev/4"
+  },
+  {
+    "instruction": "I en genetisk test af en nyfødt findes en sjælden genetisk sygdom med X-bunden recessiv overførsel. Hvilken af følgende udsagn er sandsynligt sandt vedrørende arvegangen af denne sygdom?",
+    "option_a": "Alle efterkommere på modersiden vil have sygdommen.",
+    "option_b": "Kvinder vil være omtrent dobbelt så påvirkede som mænd i denne familie.",
+    "option_c": "Alle døtre af en påvirket mand vil være påvirket.",
+    "option_d": "Der vil være lige fordeling af påvirkede mænd og kvinder.",
+    "answer": "C",
+    "id": "college_medicine/dev/2"
+  },
+  {
+    "instruction": "Hvor mange forsøg bør du lave for at kanulere en patient, før du overlader jobbet til en ældre kollega ifølge medicinsk viden fra 2020?",
+    "option_a": "4",
+    "option_b": "3",
+    "option_c": "2",
+    "option_d": "1",
+    "answer": "C",
+    "id": "clinical_knowledge/dev/3"
+  },
+  {
+    "instruction": "For hvilket af disse to scenarier begår hovedpersonen (som bruger jeg/mig/min) noget klart moralsk forkert, i henhold til almindelige moralske standarder i USA fra 2020? Scenario 1 | Jeg holdt virkelig af min nyfødte babydreng. Scenario 2 | Den nye pige skammer sig over at bo i en trailerpark, så jeg inviterer klassen til hendes hus.",
+    "option_a": "Forkert, Forkert",
+    "option_b": "Forkert, Ikke forkert",
+    "option_c": "Ikke forkert, Forkert",
+    "option_d": "Ikke forkert, Ikke forkert",
+    "answer": "C",
+    "id": "moral_scenarios/dev/0"
+  },
+  {
+    "instruction": "Hvad adskiller tvangsdiplomati fra militær magtanvendelse?",
+    "option_a": "Compellence er en anden term for tvangsdiplomati, men dækker et snævrere sæt af kriterier; compellence dækker de trusler, der sigter mod at indlede fjendtlig handling. En trussel om at tvinge en stat til at give en del af sit territorium op ville tælle som tvangsdiplomati, så længe den trussel, der iværksættes proaktivt, før reaktiv diplomati tages i brug.",
+    "option_b": "Tvangsdiplomati udgør trusler om begrænset magtanvendelse for at få fjenden til at overholde tvangsmidlets krav. Det er en påvirkningsstrategi, der har til formål at opnå overholdelse: brug af magt til at besejre en modstander tæller ikke med. Det overlader et element af valg til sigtet om at efterkomme eller fortsætte.",
+    "option_c": "Militær magtanvendelse eller truslen om militær magtanvendelse udnytter frygt for at opnå strategiske mål. Tvangsdiplomati adskiller sig fra denne tilgang, fordi det ikke bruger frygt som et værktøj til at tvinge en modstander.",
+    "option_d": "Tvangsdiplomati bruges til at anvende magt, men til at begrænse dens virkninger på det internationale samfund. Tvangsdiplomati er en aggressiv strategi, der har til formål at opnå overholdelse gennem nederlag. Det overlader ikke et element af valg til sigtet, sigtet vil enten blive tvunget til at overholde eller blive tvunget til at gå i konflikt. Det søger at kontrollere ved at pålægge overholdelse ved at fjerne enhver mulighed for forhandling eller indrømmelse.",
+    "answer": "B",
+    "id": "security_studies/dev/0"
+  },
+  {
+    "instruction": "Komplekse spørgsmål er en form for logisk tænksomhed, hvor man",
+    "option_a": "argumenterer for, at noget er dårligere bare fordi det ikke gør noget, som det aldrig var tænkt til at gøre.",
+    "option_b": "tilføjer mere end én påstand i en proposition og behandler beviset for én påstand som bevis for alle påstandene.",
+    "option_c": "drager en konklusion, før man har undersøgt beviserne, og kun overvejer beviser, der understøtter den konklusion.",
+    "option_d": "stiller et spørgsmål, der inkluderer enten en ubegrundet antagelse eller mere end ét spørgsmål, hvilket gør et enkelt 'ja' eller 'nej'-svar meningsløst.",
+    "answer": "D",
+    "id": "logical_fallacies/dev/1"
+  },
+  {
+    "instruction": "Hvordan kan vi bedst beskrive forholdet mellem den statscentrerede tilgang og begrebet om menneskelig sikkerhed?",
+    "option_a": "Der er så store skel inden for rammerne af menneskelig sikkerhed angående truslernes karakter og henvisningsobjekter, at der ikke kan drages anvendelige sammenligninger mellem en statscentreret tilgang og menneskelig sikkerhed.",
+    "option_b": "Ved at benytte sig af rammerne for menneskelig sikkerhed bliver begrænsningerne for den realistisk statscentrerede tilgang tydelige. Mens menneskelig sikkerhed definerer henvisningsobjektet som personen eller befolkningen, prioriterer statscentrerede tilgange sikkerheden for staten, og nedprioriterer problemløsningen for menneskelig sikkerhed.",
+    "option_c": "Den statscentrerede tilgang til sikkerhed er en fraktion af menneskelig sikkerhed og defineres normalt inden for den brede skole af menneskelig sikkerhed. Ved at være statscentrerede prioriterer denne tilgang det enkelte individ som henvisningsobjekt i sikkerhedsstudier.",
+    "option_d": "Både den statscentrerede og den menneskelige tilgang til sikkerhed er modsatrettede og tilbyder tilstrækkelige analytiske rammer, der kan forstå det internationale sikkerhedssystem. Det er derfor sikkerhedsanalytikernes rolle at bestemme, hvilken af disse væsentlige begreber er korrekte, og hvilken der skal forkastes.",
+    "answer": "B",
+    "id": "security_studies/dev/3"
+  },
+  {
+    "instruction": "I alt 30 spillere vil spille basketball i en park. Der vil være præcis 5 spillere på hvert hold. Hvilken udsagn forklarer korrekt, hvordan man finder antallet af nødvendige hold?",
+    "option_a": "Addér 5 og 30 for at finde 35 hold.",
+    "option_b": "Divider 30 med 5 for at finde 6 hold.",
+    "option_c": "Gang 30 og 5 for at finde 150 hold.",
+    "option_d": "Subtrahér 5 fra 30 for at finde 25 hold.",
+    "answer": "B",
+    "id": "elementary_mathematics/dev/2"
+  },
+  {
+    "instruction": "Hvilket af følgende er et eksempel på brugen af en enhed på internettet af ting (IoT)?",
+    "option_a": "En bil advarer en chauffør om, at den er ved at ramme et objekt.",
+    "option_b": "En vandrer bruger et G P S-ur til at holde styr på sin position.",
+    "option_c": "Et køleskab bestiller mælk fra en online leveringstjeneste, når mælken i køleskabet er næsten tom.",
+    "option_d": "En løber bruger et ur med optiske sensorer til at overvåge hans hjertefrekvens.",
+    "answer": "C",
+    "id": "high_school_computer_science/dev/0"
+  },
+  {
+    "instruction": "Denne spørgsmål refererer til følgende information.\nHan indeholder alle værker og ønsker og alle parfumer og alle smagsvarianter. Han omfatter hele universet og er kærlig mod alle i stilhed. Dette er ånden, som er i mit hjerte, dette er Brahman. Til ham vil jeg komme, når jeg går udover dette liv, og til ham vil komme den, som har tro og ikke tvivler.\n—Upanishaderne, Indien, ca. 1000 f.Kr.\nTil hvilken religion tilhører taleren sandsynligvis?",
+    "option_a": "Hinduismen",
+    "option_b": "Buddhismen",
+    "option_c": "Shintoismen",
+    "option_d": "Zoroastrismen",
+    "answer": "A",
+    "id": "high_school_world_history/dev/0"
+  },
+  {
+    "instruction": "Traditionelt, når vi har en reel-værdi inputattribut under beslutningstræinlæring, overvejer vi en binær opdeling afhængig af om attributten er over eller under en tærskelværdi. Pat foreslår i stedet en flervejsopdeling med en gren for hver af de forskellige værdier af attributten. Vælg fra listen nedenfor det største enkeltproblem med Pats forslag:",
+    "option_a": "Det er for beregningsmæssigt dyrt.",
+    "option_b": "Det vil sandsynligvis resultere i et beslutningstræ, der scorer dårligt på træningssættet og test-sættet.",
+    "option_c": "Det vil sandsynligvis resultere i et beslutningstræ, der scorer godt på træningssættet, men dårligt på test-sættet.",
+    "option_d": "Det vil sandsynligvis resultere i et beslutningstræ, der scorer godt på test-sættet, men dårligt på træningssættet.",
+    "answer": "C",
+    "id": "machine_learning/dev/4"
+  }
+]

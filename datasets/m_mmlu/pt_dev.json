@@ -1,0 +1,2522 @@
+[
+  {
+    "instruction": "Considere o seguinte modelo AR(1) com distúrbios tendo média zero e variância unitária\n\nyt = 0.2 + 0.4 yt-1 + ut\n\nA média (incondicional) de y será dada por",
+    "option_a": "0.2",
+    "option_b": "0.4",
+    "option_c": "0.5",
+    "option_d": "0.33",
+    "answer": "D",
+    "id": "econometrics/dev/1"
+  },
+  {
+    "instruction": "Um homem de 42 anos vem ao consultório para avaliação pré-operatória antes de passar por adrenalectomia agendada daqui a 2 semanas. Há um mês, ele recebeu cuidados no departamento de emergência por dor sobre seu flanco direito após colisão em veículo automotivo. Naquela época, a pressão arterial era de 160/100 mm Hg e a tomografia computadorizada do abdômen mostrou uma massa adrenal esquerda incidental de 10 cm. Resultados de exames laboratoriais, incluindo contagem completa de células sanguíneas, concentrações séricas de eletrólitos e testes de função hepática, estavam dentro dos valores de referência. O paciente, de outra forma, estava saudável e nunca tinha sido informado que tinha pressão arterial elevada. Ele não toma nenhum medicamento. Uma visita de acompanhamento no consultório duas semanas atrás revelou concentrações elevadas de normetanefrina e metanefrina urinárias e de aldosterona plasmática. O paciente foi encaminhado a um cirurgião, que recomendou a adrenalectomia. Hoje, os sinais vitais são temperatura de 36,6°C (97,9°F), pulso de 100/min, respirações de 14/min e pressão arterial de 170/95 mm Hg. O exame físico não revela achados significantes. A preparação pré-operatória inicial deve incluir o tratamento com qual das seguintes opções?",
+    "option_a": "Labetalol",
+    "option_b": "Uma dose de carga de cloreto de potássio",
+    "option_c": "Nifedipina",
+    "option_d": "Fenoxibenzamina",
+    "answer": "D",
+    "id": "professional_medicine/dev/0"
+  },
+  {
+    "instruction": "De acordo com o utilitarismo ideal de Moore, a ação correta é aquela que traz a maior quantidade de:",
+    "option_a": "prazer.",
+    "option_b": "felicidade.",
+    "option_c": "bem.",
+    "option_d": "virtude.",
+    "answer": "C",
+    "id": "philosophy/dev/1"
+  },
+  {
+    "instruction": "Qual dos seguintes itens não está incluído no PIB dos EUA?",
+    "option_a": "As forças militares dos EUA abrem uma nova base em um país estrangeiro com 1000 funcionários dos EUA.",
+    "option_b": "Os consumidores japoneses compram milhares de CDs produzidos nos Estados Unidos.",
+    "option_c": "Um cantor pop americano faz um show lotado em Paris.",
+    "option_d": "Uma produção teatral francesa faz turnê por dezenas de cidades americanas.",
+    "answer": "C",
+    "id": "high_school_macroeconomics/dev/0"
+  },
+  {
+    "instruction": "Qual dessas afirmações é verdadeira sobre o Vaticano em 2010, na época das acusações de encobrimento de abuso infantil?",
+    "option_a": "Houve uma resposta coordenada da mídia.",
+    "option_b": "Mensagens consistentes foram comunicadas.",
+    "option_c": "Críticas foram vistas como ataques à Igreja Católica.",
+    "option_d": "A credibilidade do Vaticano foi mantida.",
+    "answer": "C",
+    "id": "public_relations/dev/2"
+  },
+  {
+    "instruction": "Suponha que uma estatística de teste tenha associada a ela um valor p de 0,08. Qual das seguintes afirmações é verdadeira?\n\n(i) Se o tamanho do teste fosse exatamente 8%, ficaríamos indiferentes em rejeitar ou não rejeitar a hipótese nula\n\n(ii) A hipótese nula seria rejeitada se um tamanho de teste de 10% fosse usado\n\n(iii) A hipótese nula não seria rejeitada se um tamanho de teste de 1% fosse usado\n\n(iv) A hipótese nula seria rejeitada se um tamanho de teste de 5% fosse usado.",
+    "option_a": "(ii) e (iv) somente",
+    "option_b": "(i) e (iii) somente",
+    "option_c": "(i), (ii) e (iii) somente",
+    "option_d": "(i), (ii), (iii) e (iv)",
+    "answer": "C",
+    "id": "econometrics/dev/2"
+  },
+  {
+    "instruction": "Quando um argumentador causa confusão durante uma refutação por falta real ou fingida de habilidade para se engajar em refutação, esse argumentador pode ter cometido a falácia de",
+    "option_a": "espírito esportivo pobre",
+    "option_b": "apelo à compaixão",
+    "option_c": "argumento contra a pessoa",
+    "option_d": "ignorância da refutação",
+    "answer": "D",
+    "id": "logical_fallacies/dev/4"
+  },
+  {
+    "instruction": "Esta pergunta se refere às seguintes informações.\n\"A verdadeira queixa do trabalhador é a insegurança de sua existência; ele não tem certeza de que sempre terá trabalho, não tem certeza de que sempre estará saudável e prevê que um dia ficará velho e incapaz de trabalhar. Se ele cair na pobreza, mesmo que seja apenas por uma doença prolongada, ele estará completamente indefeso, entregue a si mesmo, e a sociedade atualmente não reconhece nenhuma obrigação real para com ele além da ajuda habitual aos pobres, mesmo que tenha trabalhado todo o tempo assim fielmente e diligentemente. A ajuda habitual aos pobres, no entanto, deixa muito a desejar, especialmente nas grandes cidades, onde é muito pior do que no campo.\"\nOtto von Bismarck, 1884\nOtto von Bismarck provavelmente fez este discurso em reação a qual dos seguintes problemas?",
+    "option_a": "Aceitação social do trabalho infantil",
+    "option_b": "Expectativa de vida decrescente na Alemanha",
+    "option_c": "Críticas aos impostos comerciais alemães",
+    "option_d": "Efeitos negativos atribuídos ao capitalismo industrial",
+    "answer": "D",
+    "id": "high_school_world_history/dev/2"
+  },
+  {
+    "instruction": "Qual governo japonês promoveu um tipo de culto nacional baseado no imperador e suas associações com os kami?",
+    "option_a": "Honen",
+    "option_b": "Tanaka",
+    "option_c": "Tokugawa",
+    "option_d": "Meiji",
+    "answer": "D",
+    "id": "world_religions/dev/3"
+  },
+  {
+    "instruction": "Qual é a melhor abordagem para investigar o papel dos soldados infantis?",
+    "option_a": "Os soldados infantis são vítimas do combate que precisam de reeducação e reabilitação.",
+    "option_b": "As crianças e suas mães não são sujeitos ativos na guerra e devem ser consideradas como sujeitos no âmbito privado.",
+    "option_c": "As crianças são frequentemente espectadores inocentes na guerra e devem ser utilizados como símbolos de paz.",
+    "option_d": "As crianças possuem uma subjetividade política que é ignorada quando são consideradas vítimas passivas da guerra.",
+    "answer": "D",
+    "id": "security_studies/dev/1"
+  },
+  {
+    "instruction": "A energia para todas as formas de contração muscular é fornecida por:",
+    "option_a": "ATP.",
+    "option_b": "ADP.",
+    "option_c": "fosfocreatina.",
+    "option_d": "fosforilação oxidativa.",
+    "answer": "A",
+    "id": "clinical_knowledge/dev/0"
+  },
+  {
+    "instruction": "A razão de concentração para um monopólio é",
+    "option_a": "0",
+    "option_b": "5",
+    "option_c": "10",
+    "option_d": "100",
+    "answer": "D",
+    "id": "high_school_microeconomics/dev/2"
+  },
+  {
+    "instruction": "Em uma determinada população, 1 em cada 400 pessoas tem um câncer causado por um alelo completamente recessivo, b. Supondo que a população está em equilíbrio de Hardy-Weinberg, qual das seguintes opções é a proporção esperada de indivíduos que transportam o alelo b, mas não se espera que desenvolvam o câncer?",
+    "option_a": "1/400",
+    "option_b": "19/400",
+    "option_c": "20/400",
+    "option_d": "38/400",
+    "answer": "D",
+    "id": "college_biology/dev/1"
+  },
+  {
+    "instruction": "Quando os idosos se mudam para um novo estado após a aposentadoria, qual dos seguintes é o destino mais provável?",
+    "option_a": "Texas",
+    "option_b": "California",
+    "option_c": "Hawaii",
+    "option_d": "Vermont",
+    "answer": "A",
+    "id": "human_aging/dev/2"
+  },
+  {
+    "instruction": "Quem é o homem mais baixo a vencer uma competição de enterrada da NBA?",
+    "option_a": "Anthony 'Spud' Webb",
+    "option_b": "Michael 'Air' Jordan",
+    "option_c": "Tyrone 'Muggsy' Bogues",
+    "option_d": "Julius 'Dr J' Erving",
+    "answer": "A",
+    "id": "miscellaneous/dev/2"
+  },
+  {
+    "instruction": "Uma solução contém 2,00 moles de ácido acético, CH3COOH, e 1,00 mole de acetato de cálcio, Ca(CH3COO)2. A solução é capaz de resistir à adição de uma pequena quantidade de ácido forte ou base forte com apenas alterações pequenas no pH da solução. Quantidades maiores de ácido forte ou base forte podem causar uma mudança significativa no pH. Quantos moles de ácido nítrico, HNO3, podem ser adicionados antes que o pH comece a mudar significativamente?",
+    "option_a": "0,500 mol",
+    "option_b": "1,00 mol",
+    "option_c": "2,00 mol",
+    "option_d": "3,00 mol",
+    "answer": "C",
+    "id": "high_school_chemistry/dev/4"
+  },
+  {
+    "instruction": "A exploração do bug Heartbleed permite",
+    "option_a": "sobrescrever chaves criptográficas na memória",
+    "option_b": "um tipo de injeção de código",
+    "option_c": "uma leitura fora dos limites de um buffer",
+    "option_d": "um ataque de string de formato",
+    "answer": "C",
+    "id": "computer_security/dev/3"
+  },
+  {
+    "instruction": "DNA ligase é",
+    "option_a": "uma enzima que une fragmentos na replicação normal do DNA",
+    "option_b": "uma enzima de origem bacteriana que corta o DNA em sequências de bases definidas",
+    "option_c": "uma enzima que facilita a transcrição de genes específicos",
+    "option_d": "uma enzima que limita o nível até que um nutriente específico alcance",
+    "answer": "A",
+    "id": "medical_genetics/dev/1"
+  },
+  {
+    "instruction": "O termo 'hegemonia' refere-se a:",
+    "option_a": "a tendência da classe trabalhadora não perceber seus próprios interesses",
+    "option_b": "uma ideologia dominante que legitima o poder econômico, político e cultural",
+    "option_c": "uma forma de dupla consciência baseada na ideologia e nas experiências cotidianas",
+    "option_d": "um modo de pagamento dado por excelentes topiários",
+    "answer": "B",
+    "id": "sociology/dev/3"
+  },
+  {
+    "instruction": "O tempo médio de sobrevivência à AIDS e à morte foi estabelecido seguindo:",
+    "option_a": "Indivíduos infectados pelo HIV soroprevalentes",
+    "option_b": "Soronegativos",
+    "option_c": "Soroconversores",
+    "option_d": "Soronegativos de alto risco",
+    "answer": "C",
+    "id": "virology/dev/4"
+  },
+  {
+    "instruction": "Esta questão refere-se à seguinte informação.\n\"De fato, tanto as fatwas de ilustres [eruditos] que baseiam sua opinião na razão e na tradição quanto o consenso da comunidade sunita concordam que a antiga obrigação de extirpar, exterminar e expulsar a má inovação deve ser o objetivo de nossa aspiração exaltada, pois \"O zelo religioso é uma vitória para a Fé de Deus, o Benévolo\"; então, de acordo com as palavras do Profeta (Paz sobre ele!) \"Quem quer que introduza a má inovação em nossa ordem deve ser expulso\" e \"Quem quer que faça algo contra nossa ordem deve ser expulso\", a ação se tornou necessária e exigente...\nCarta do Sultão Otomano Selim I a Ismail I Shah Safavid, 1514\"\n A carta de Selim I é claramente um exemplo de qual das seguintes opções?",
+    "option_a": "A manutenção da supremacia militar a todo custo",
+    "option_b": "Aumento das tensões entre seitas religiosas",
+    "option_c": "Fatores que causaram o colapso do Império Otomano",
+    "option_d": "Esforços de pacificação entre os impérios islâmicos",
+    "answer": "B",
+    "id": "high_school_world_history/dev/3"
+  },
+  {
+    "instruction": "Esta pergunta diz respeito às informações a seguir.\nLeia o seguinte trecho.\nA semente revolucionária penetrou em todos os países e se espalhou mais ou menos. Foi amplamente desenvolvida durante o regime do despotismo militar de Bonaparte. Suas conquistas deslocaram uma série de leis, instituições e costumes; romperam com laços sagrados entre todas as nações, fortes o suficiente para resistir ao tempo em si; o que não pode ser dito de certos benefícios concedidos por esses inovadores.\nOs monarcas cumprirão os deveres que lhes são impostos por Aquele que, ao confiar-lhes o poder, lhes impôs a responsabilidade de velar pela manutenção da justiça e dos direitos de todos, evitar os caminhos do erro e seguir firmemente o caminho da verdade. Colocados além das paixões que agitam a sociedade, são principalmente em dias de provação que são chamados a despojar as realidades de suas falsas aparências e a mostrar-se como são, pais investidos da autoridade pertencente por direito aos chefes de família, para provar que, em dias de luto, sabem ser justos, sábios e, portanto, fortes e que não abandonarão o povo que devem governar para serem o brinquedo de facções, do erro e suas consequências, que devem envolver a perda da sociedade.\nA união entre os monarcas é a base da política que agora deve ser seguida para salvar a sociedade da ruína total. . . .\nQue não confundam concessões feitas aos partidos com o bem que devem fazer pelo seu povo, em modificar, de acordo com as suas necessidades reconhecidas, os ramos da administração que requerem isso. \nSejam justos, mas fortes; benevolentes, mas rigorosos.\nMantenham os princípios religiosos em toda a sua pureza e não permitam que a fé seja atacada e a moralidade interpretada de acordo com o contrato social ou as visões dos tolos sectários.\nSuprimam as Sociedades Secretas; aquele câncer da sociedade.\n-Klemens von Metternich, Confissão de Fé Política, 1820\nQual das opções a seguir foi a maior causa dos medos expressos por Metternich no documento acima?",
+    "option_a": "As ideias de liberdade pessoal e nacionalismo concebidas durante o Iluminismo resultaram em revoluções radicais que puderam se espalhar por toda a Europa.",
+    "option_b": "A conquista da Europa por Napoleão levou à criação de novas facções e mudou o equilíbrio de poder europeu.",
+    "option_c": "O poder dos monarcas cresceu a ponto de precisar ser controlado por outros poderes dentro de cada nação, ou ocorreriam revoltas civis.",
+    "option_d": "O ciclo econômico ascendente e descendente da recém-emergente economia capitalista poderia levar a distúrbios civis que devem ser reprimidos.",
+    "answer": "A",
+    "id": "high_school_european_history/dev/1"
+  },
+  {
+    "instruction": "Comparada à massa de um átomo de urânio em fissão, as massas combinadas dos produtos após a fissão são",
+    "option_a": "menores",
+    "option_b": "maiores",
+    "option_c": "iguais",
+    "option_d": "zero",
+    "answer": "A",
+    "id": "conceptual_physics/dev/0"
+  },
+  {
+    "instruction": "Encontre a característica do anel 2Z.",
+    "option_a": "0",
+    "option_b": "3",
+    "option_c": "12",
+    "option_d": "30",
+    "answer": "A",
+    "id": "abstract_algebra/dev/4"
+  },
+  {
+    "instruction": "Em contraste com _______, _______ visam recompensar o comportamento favorável das empresas. O sucesso de tais campanhas foi aumentado através do uso de ___________ que permitem que as campanhas facilitem a empresa na conquista de _________.",
+    "option_a": "Buycotts, Boycotts, tecnologia Blockchain, doações de caridade",
+    "option_b": "Buycotts, Boycotts, tecnologia digital, aumento de vendas",
+    "option_c": "Boycotts, Buyalls, tecnologia Blockchain, doações de caridade",
+    "option_d": "Boycotts, Buycotts, tecnologia digital, aumento de vendas",
+    "answer": "D",
+    "id": "business_ethics/dev/4"
+  },
+  {
+    "instruction": "Qual das seguintes é uma suposição na hierarquia das necessidades de Maslow?",
+    "option_a": "As necessidades dependem da cultura e também da classe social.",
+    "option_b": "As necessidades de nível inferior devem ser pelo menos parcialmente satisfeitas antes que as necessidades mais altas possam afetar o comportamento.",
+    "option_c": "As necessidades não são priorizadas ou organizadas em qualquer ordem específica.",
+    "option_d": "As necessidades satisfeitas são motivadoras e novas necessidades surgem quando as necessidades atuais permanecem insatisfeitas.",
+    "answer": "B",
+    "id": "marketing/dev/2"
+  },
+  {
+    "instruction": "Simplifique e escreva o resultado com um denominador racional: $$\\sqrt{\\sqrt[3]{\\sqrt{\\frac{1}{729}}}}$$",
+    "option_a": "\\frac{3\\sqrt{3}}{3}",
+    "option_b": "\\frac{1}{3}",
+    "option_c": "\\sqrt{3}",
+    "option_d": "\\frac{\\sqrt{3}}{3}",
+    "answer": "D",
+    "id": "high_school_mathematics/dev/3"
+  },
+  {
+    "instruction": "Qual dos seguintes conjuntos tem o menor desvio padrão? Qual tem o maior?\nI: {1,2,3}\nII: {-10,10}\nIII: {100}\n",
+    "option_a": "I, II",
+    "option_b": "II, III",
+    "option_c": "III, I",
+    "option_d": "III, II",
+    "answer": "D",
+    "id": "high_school_statistics/dev/4"
+  },
+  {
+    "instruction": "_____________ pode modificar os dados no seu sistema - de forma que o seu sistema não funcione correctamente ou você não possa mais acessar dados específicos, ou até mesmo pedir resgate para devolver o acesso.",
+    "option_a": "IM - Trojans",
+    "option_b": "Trojans de porta traseira",
+    "option_c": "Trojan-Downloader",
+    "option_d": "Trojan de resgate",
+    "answer": "D",
+    "id": "computer_security/dev/1"
+  },
+  {
+    "instruction": "A loja Iverson enviou uma carta para Miller com a seguinte informação: 'Recebemos um relógio Rolox automático excepcionalmente fino o qual venderemos a você por um preço muito favorável.'",
+    "option_a": "A carta é uma oferta para venda",
+    "option_b": "Uma oferta válida não pode ser feita por carta.",
+    "option_c": "A carta contém uma oferta válida que irá terminar dentro de um tempo razoável.",
+    "option_d": "A carta não possui um dos elementos essenciais de uma oferta.",
+    "answer": "D",
+    "id": "jurisprudence/dev/4"
+  },
+  {
+    "instruction": "Quais desses ramos do nervo trigêmeo contêm processos motores somáticos?",
+    "option_a": "O nervo supra-orbital",
+    "option_b": "O nervo infra-orbital",
+    "option_c": "O nervo mental",
+    "option_d": "Nenhum dos acima",
+    "answer": "D",
+    "id": "anatomy/dev/1"
+  },
+  {
+    "instruction": "A variável $x$ varia diretamente com o quadrado de $y$ e $y$ varia diretamente com o cubo de $z$. Se $x$ é igual a $-16$ quando $z$ é igual a 2, qual é o valor de $x$ quando $z$ é igual a $\\frac{1}{2}$?",
+    "option_a": "-1",
+    "option_b": "16",
+    "option_c": "-\\frac{1}{256}",
+    "option_d": "\\frac{1}{16}",
+    "answer": "C",
+    "id": "high_school_mathematics/dev/2"
+  },
+  {
+    "instruction": "Recentemente, uma legislatura estadual promulgou uma lei tornando-o crime menor xingar ou insultar ou usar linguagem obscena ou vergonhosa com relação a um policial que esteja desempenhando suas funções. Um estudante de uma universidade estadual organizou uma manifestação no campus em protesto à guerra. O protesto foi realizado por um grupo de 50 estudantes que gritavam mensagens anti-guerra para os carros que passavam. Para demonstrar seu desprezo pelos Estados Unidos, o estudante costurou a bandeira americana na parte de trás de sua calça jeans. Quando um policial viu a bandeira costurada na calça jeans do estudante, se aproximou e disse para ele remover a bandeira ou seria preso. O estudante ficou irritado e gritou com o policial: \"Escute, seu bastardo, vou usar este trapo onde eu quiser.\" O estudante foi preso em seguida e acusado de violar a lei estadual. O estudante subsequente entrou com uma ação na justiça estadual desafiando a constitucionalidade da lei. O argumento constitucional mais forte do estudante é que",
+    "option_a": "a lei é vaga e, portanto, inconstitucional sob a cláusula do devido processo legal da Décima Quarta Emenda.",
+    "option_b": "a lei é inválida porque viola a liberdade de expressão do peticionário sob a Primeira Emenda.",
+    "option_c": "a lei é uma restrição abusiva à liberdade de expressão sob a Primeira Emenda porque há meios menos restritivos disponíveis para alcançar o mesmo objetivo.",
+    "option_d": "a lei é excessivamente abrangente e, consequentemente, inválida sob as Primeira e Décima Quarta Emendas.",
+    "answer": "D",
+    "id": "professional_law/dev/0"
+  },
+  {
+    "instruction": "O fato de que adultos tendem a lembrar de eventos da adolescência melhor do que de outros períodos de suas vidas é referido como o",
+    "option_a": "Vantagem da adolescência",
+    "option_b": "Obstáculo da reminiscência",
+    "option_c": "Memorial da memória",
+    "option_d": "Pico de recuperação quadrática",
+    "answer": "B",
+    "id": "human_aging/dev/1"
+  },
+  {
+    "instruction": "Joe estava encarregado das luzes para uma dança. A luz vermelha pisca a cada dois segundos, a luz amarela a cada três segundos e a luz azul a cada cinco segundos. Se incluirmos o início e o final da dança, quantas vezes durante uma dança de sete minutos todas as luzes se acenderão ao mesmo tempo? (Suponha que todas as três luzes pisquem simultaneamente no início da dança.)",
+    "option_a": "3",
+    "option_b": "15",
+    "option_c": "6",
+    "option_d": "5",
+    "answer": "B",
+    "id": "high_school_mathematics/dev/0"
+  },
+  {
+    "instruction": "Há cem anos, sua tataravó investiu $ 100 com juros anuais de 5%. Quanto vale o investimento hoje?",
+    "option_a": "$13.000",
+    "option_b": "$600",
+    "option_c": "$15.000",
+    "option_d": "$28.000",
+    "answer": "A",
+    "id": "professional_accounting/dev/1"
+  },
+  {
+    "instruction": "A partir das regras de solubilidade, qual das seguintes afirmações é verdadeira?",
+    "option_a": "Todos os cloretos, brometos e iodetos são solúveis",
+    "option_b": "Todos os sulfatos são solúveis",
+    "option_c": "Todos os hidróxidos são solúveis",
+    "option_d": "Todos os compostos que contêm amônio são solúveis",
+    "answer": "D",
+    "id": "high_school_chemistry/dev/2"
+  },
+  {
+    "instruction": "O conjunto de decisões políticas que dizem principalmente respeito às relações entre os Estados Unidos e o resto do mundo é conhecido como",
+    "option_a": "política antiterrorismo.",
+    "option_b": "política econômica.",
+    "option_c": "política externa.",
+    "option_d": "política internacional.",
+    "answer": "C",
+    "id": "us_foreign_policy/dev/2"
+  },
+  {
+    "instruction": "Um filho devia a um credor $5.000. O pai do filho contatou o credor e disse que queria pagar a dívida do filho. O pai assinou um documento afirmando que pagaria a dívida do filho em parcelas de $500 por mês durante dez meses. O credor não se comprometeu por escrito ou oralmente a não processar o filho para coletar a dívida de $5.000, e o pai não solicitou oralmente ou por escrito tal impedimento. Durante os próximos cinco meses, o pai pagou e o credor aceitou os pagamentos de $500 mensais conforme combinado. Durante esse período, o credor, de fato, evitou tomar qualquer medida legal contra o filho. No entanto, o pai informou então ao credor que não faria mais pagamentos da dívida. Qual dos seguintes é o argumento mais persuasivo de que o pai é responsável pelo credor nos termos do acordo deles?",
+    "option_a": "A promessa do pai e a confiança do credor nela, se for comprovada, geraram uma reivindicação válida do credor contra o pai com base na doutrina de estoppel promissório.",
+    "option_b": "Porque era previsível que a promessa do pai induzisse o credor a não tomar nenhuma ação contra o filho, tal abstenção foi, como questão de direito, uma contraprestação negociada pela promessa do pai.",
+    "option_c": "Os cinco pagamentos do pai ao credor, totalizando $2.500, demonstram uma intenção séria por parte do pai de estar contratualmente vinculado, e tal manifestação geralmente é reconhecida como um substituto eficaz para a contraprestação.",
+    "option_d": "Ao assumir a obrigação de dívida anterior que o filho devia ao credor, o pai se tornou um fiador cuja promessa ao credor era aplicável, uma vez que foi feita por escrito e com contraprestação adequada.",
+    "answer": "A",
+    "id": "professional_law/dev/4"
+  },
+  {
+    "instruction": "Num mercado de trabalho competitivo para pintores de casas, o que aumentaria a demanda por pintores de casas?",
+    "option_a": "Um salário mínimo efetivo imposto neste mercado de trabalho.",
+    "option_b": "Um aumento no preço dos galões de tinta.",
+    "option_c": "Um aumento na construção de novas casas.",
+    "option_d": "Um aumento no preço de pintores mecânicos, desde que o efeito de produção exceda o efeito substituição.",
+    "answer": "C",
+    "id": "high_school_microeconomics/dev/0"
+  },
+  {
+    "instruction": "A prática de contratar um provedor de serviços terceirizado estrangeiro para executar uma operação é chamada de",
+    "option_a": "terceirização.",
+    "option_b": "deslocalização.",
+    "option_c": "maquiladoras.",
+    "option_d": "interdependência locacional.",
+    "answer": "B",
+    "id": "high_school_geography/dev/3"
+  },
+  {
+    "instruction": "A presença de estruturas homólogas em dois organismos diferentes, como o úmero no membro frontal de um ser humano e uma ave, indica que",
+    "option_a": "o ser humano e a ave são espécies polifiléticas",
+    "option_b": "a evolução do ser humano e da ave é convergente",
+    "option_c": "o ser humano e a ave pertencem a um clado",
+    "option_d": "o ser humano e a ave desenvolveram-se por analogia",
+    "answer": "C",
+    "id": "college_biology/dev/2"
+  },
+  {
+    "instruction": "Qual dos seguintes é considerado um anidrido ácido?",
+    "option_a": "HCl",
+    "option_b": "H2SO3",
+    "option_c": "SO2",
+    "option_d": "Al(NO3)3",
+    "answer": "C",
+    "id": "high_school_chemistry/dev/0"
+  },
+  {
+    "instruction": "Qual das seguintes condições garantirá que o momento angular seja conservado? I. Conservação do momento linear II. Força externa líquida zero III. Torque externo líquido zero",
+    "option_a": "somente I e II",
+    "option_b": "somente I e III",
+    "option_c": "somente II e III",
+    "option_d": "somente III",
+    "answer": "D",
+    "id": "high_school_physics/dev/0"
+  },
+  {
+    "instruction": "Uma extremidade de um fio Nichrome de comprimento 2L e área transversal A é presa a uma extremidade de outro fio Nichrome com comprimento L e área transversal 2A. Se a extremidade livre do fio mais comprido estiver em um potencial elétrico de 8,0 volts e a extremidade livre do fio mais curto estiver em um potencial elétrico de 1,0 volts, o potencial no ponto de junção dos dois fios é mais próximo de",
+    "option_a": "2,4 V",
+    "option_b": "3,3 V",
+    "option_c": "4,5 V",
+    "option_d": "5,7 V",
+    "answer": "A",
+    "id": "college_physics/dev/2"
+  },
+  {
+    "instruction": "Qual das seguintes afirmações sobre os elementos lantanídeos NÃO é verdadeira?",
+    "option_a": "O estado de oxidação mais comum dos elementos lantanídeos é +3.",
+    "option_b": "Os complexos de lantanídeos frequentemente possuem altos números de coordenação (>6).",
+    "option_c": "Todos os elementos lantanídeos reagem com ácido aquoso para liberar hidrogênio.",
+    "option_d": "Os raios atômicos dos elementos lantanídeos aumentam em todo o período de La a Lu.",
+    "answer": "D",
+    "id": "college_chemistry/dev/0"
+  },
+  {
+    "instruction": "Um gene que demonstra codominância",
+    "option_a": "tem ambos alelos expressos independentemente no heterozigoto",
+    "option_b": "tem um alelo dominante sobre o outro",
+    "option_c": "tem alelos fortemente ligados no mesmo cromossomo",
+    "option_d": "tem alelos expressos ao mesmo tempo no desenvolvimento",
+    "answer": "A",
+    "id": "medical_genetics/dev/2"
+  },
+  {
+    "instruction": "Um compilador gera código para a seguinte instrução de atribuição. \nG := (A + B) * C - (D + E) * F \nA máquina alvo possui um único acumulador e um conjunto de instruções de endereço único, consistindo de instruções load, store, add, subtract e multiply. Para as operações aritméticas, o operando esquerdo é retirado do acumulador e o resultado aparece no acumulador. O menor número possível de instruções no código resultante é",
+    "option_a": "5",
+    "option_b": "6",
+    "option_c": "7",
+    "option_d": "9",
+    "answer": "D",
+    "id": "college_computer_science/dev/3"
+  },
+  {
+    "instruction": "Uma organização não governamental sem fins lucrativos, chamada Box, teve as seguintes transações no ano: Renda da venda de investimentos $80000 Compra de propriedade, planta e equipamento $10000 Renda de dívida de longo prazo $100000 Perda na venda de investimento $5000 Qual é o montante que deve ser reportado como sendo o saldo líquido fornecido pelas atividades de financiamento no fluxo de caixa da Box?",
+    "option_a": "$70,000",
+    "option_b": "$75,000",
+    "option_c": "$80,000",
+    "option_d": "100000",
+    "answer": "D",
+    "id": "professional_accounting/dev/0"
+  },
+  {
+    "instruction": "Mantendo tudo o mais constante, qual das seguintes políticas monetárias seria utilizada para impulsionar as exportações dos EUA?",
+    "option_a": "Aumentar a taxa de desconto",
+    "option_b": "Aumentar a taxa de reserva",
+    "option_c": "Comprar títulos do governo",
+    "option_d": "Reduzir as tarifas",
+    "answer": "C",
+    "id": "high_school_macroeconomics/dev/3"
+  },
+  {
+    "instruction": "O grande rei maia Pacal construiu templos na cidade de Palenque com o objetivo de:",
+    "option_a": "satisfazer os poderosos sacerdotes astrônomos maias.",
+    "option_b": "demonstrar sua generosidade ao povo comum, já que eles podiam viver nos templos.",
+    "option_c": "afugentar inimigos, em particular os espanhóis.",
+    "option_d": "legitimar seu reinado, já que seu pai não era um governante real.",
+    "answer": "D",
+    "id": "prehistory/dev/0"
+  },
+  {
+    "instruction": "Três táticas contrastantes que as OSCs podem empregar para atender seus objetivos são ________, que geralmente envolve pesquisa e comunicação, ________, que pode envolver ataques físicos às operações de uma empresa ou ________, que geralmente envolve algum tipo de _______.",
+    "option_a": "Ação direta não violenta, Ação direta violenta, Ação indireta, Boicote",
+    "option_b": "Ação indireta, Ação instrumental, Ação direta não violenta, Campanha informativa",
+    "option_c": "Ação indireta, Ação direta violenta, Ação direta não violenta, Boicote",
+    "option_d": "Ação direta não violenta, Ação instrumental, Ação indireta, Campanha informativa",
+    "answer": "C",
+    "id": "business_ethics/dev/3"
+  },
+  {
+    "instruction": "Um dado de 6 lados é lançado 15 vezes e os resultados são os seguintes: lado 1 não aparece nenhuma vez; lado 2: 1 vez; lado 3: 2 vezes; lado 4: 3 vezes; lado 5: 4 vezes; lado 6: 5 vezes. Com base nesses resultados, qual é a probabilidade do lado 3 aparecer ao usar Suavização Adicionada 1?",
+    "option_a": "2,0/15",
+    "option_b": "1,0/7",
+    "option_c": "3,0/16",
+    "option_d": "1,0/5",
+    "answer": "B",
+    "id": "machine_learning/dev/0"
+  },
+  {
+    "instruction": "As funções da lei incluem tudo, exceto o quê?",
+    "option_a": "maximizar a liberdade individual",
+    "option_b": "fornecer uma base para o compromisso",
+    "option_c": "manter a paz",
+    "option_d": "promover os princípios do sistema de livre iniciativa",
+    "answer": "D",
+    "id": "jurisprudence/dev/1"
+  },
+  {
+    "instruction": "Como as Upanixades podem ser caracterizadas?",
+    "option_a": "Textos rituais",
+    "option_b": "Textos filosóficos",
+    "option_c": "Hinos",
+    "option_d": "Histórias de origem",
+    "answer": "B",
+    "id": "world_religions/dev/4"
+  },
+  {
+    "instruction": "Ani acredita que suas atitudes e comportamentos desempenham um papel central no que acontece com ela. Tal crença provavelmente está associada a",
+    "option_a": "um superego forte.",
+    "option_b": "baixa autoestima.",
+    "option_c": "baixa autoeficácia.",
+    "option_d": "um locus de controle interno.",
+    "answer": "D",
+    "id": "high_school_psychology/dev/0"
+  },
+  {
+    "instruction": "O que é um juiz ad hoc?",
+    "option_a": "Se uma parte em um caso litigioso perante a CIJ não tiver um juiz nacional, ela tem o direito de indicar alguém como juiz exclusivamente para esse caso, com o título de juiz ad hoc.",
+    "option_b": "O juiz ad hoc é um membro do tribunal da CIJ com direito a voto de desempate.",
+    "option_c": "Juiz ad hoc é um juiz substituto, caso um juiz seja desqualificado ou faleça.",
+    "option_d": "O juiz ad hoc é o juiz que cada parte sempre indicará em todos os casos litigiosos.",
+    "answer": "A",
+    "id": "international_law/dev/1"
+  },
+  {
+    "instruction": "De onde vêm a maioria dos cometas de curto período e como sabemos disso?",
+    "option_a": "Do cinturão de Kuiper; Cometas de curto período tendem a estar no plano do sistema solar, assim como o cinturão de Kuiper.",
+    "option_b": "Do cinturão de Kuiper; Cometas de curto período tendem a vir de direções aleatórias indicando uma distribuição esférica de cometas chamada cinturão de Kuiper .",
+    "option_c": "Do cinturão de asteroides; Cometas de curto período têm períodos orbitais semelhantes aos asteroides como Vesta e são encontrados no plano do sistema solar, assim como o cinturão de asteroides.",
+    "option_d": "Da nuvem de Oort; Cometas de curto período tendem a estar no plano do sistema solar, assim como a nuvem de Oort.",
+    "answer": "A",
+    "id": "astronomy/dev/1"
+  },
+  {
+    "instruction": "A partir de 2015, desde 1990 as florestas têm ____ na Europa e têm ____ na África e nas Américas.",
+    "option_a": "aumentado, aumentado",
+    "option_b": "aumentado, diminuído",
+    "option_c": "diminuído, aumentado",
+    "option_d": "diminuído, diminuído",
+    "answer": "B",
+    "id": "global_facts/dev/2"
+  },
+  {
+    "instruction": "Esta pergunta se refere às seguintes informações.\n\"Pelo menos uma das sociedades do mundo teria que aumentar enormemente sua produtividade [para alcançar a hegemonia global]. Esse salto quântico teria que ser feito antes das várias revoluções científicas, tecnológicas, agrícolas e industriais, sobre as quais nosso mundo pós-salto quântico descansa. Isso só poderia ser realizado explorando os ecossistemas, os recursos minerais e os ativos humanos de continentes inteiros fora das terras da sociedade que está dando o salto. A Europa Ocidental fez exatamente isso por meio de sua brutalidade e armas e, mais importante, por sorte geográfica e ecológica.\"\nCopyright © 2015 Cambridge University Press.\nAlfred Crosby, historiador, Ecological Imperialism, 2004\nO \"salto quântico\" mencionado na passagem contribuiu mais diretamente para qual dos seguintes desenvolvimentos no período de 1450 a 1750 d.C.?",
+    "option_a": "Uma quebra nas rotas comerciais através do colapso da estrutura estatal estabelecida",
+    "option_b": "Um aumento na população mundial através de suprimentos mais abundantes de alimentos",
+    "option_c": "A disseminação de sistemas de crença chineses e indianos por todo o mundo",
+    "option_d": "Um aumento nos distúrbios sociais",
+    "answer": "B",
+    "id": "high_school_world_history/dev/4"
+  },
+  {
+    "instruction": "O grupo único dentro da sociedade que é mais vulnerável à influência do grupo de referência é:",
+    "option_a": "O consumidor mais velho que se sente um pouco deixado de fora das coisas.",
+    "option_b": "As mulheres casadas, muitas das quais sentem a necessidade de estabilidade em suas vidas.",
+    "option_c": "Novos imigrantes que realmente desejam se assimilar à sua nova cultura.",
+    "option_d": "Crianças, que baseiam a maioria de suas decisões de compra em influências externas.",
+    "answer": "D",
+    "id": "marketing/dev/3"
+  },
+  {
+    "instruction": "Para qual desses dois cenários o personagem principal (que usa eu/mim/meu) faz algo claramente moralmente errado, de acordo com os padrões morais comuns nos EUA em 2020? Cenário 1 | Eu comprei uma antiga caminhonete para o trabalho. Cenário 2 | Eu olhei para a linda cachoeira e joguei uma pedra nela.",
+    "option_a": "Errado, errado",
+    "option_b": "Errado, Não errado",
+    "option_c": "Não errado, errado",
+    "option_d": "Não errado, Não errado",
+    "answer": "D",
+    "id": "moral_scenarios/dev/2"
+  },
+  {
+    "instruction": "Uma carga puntiforme, Q = +1 mC, está fixa na origem. Quanto trabalho é necessário para mover uma carga, Q = +8 µC, do ponto (0, 4 metros) para o ponto (3 metros, 0)?",
+    "option_a": "3,5 J",
+    "option_b": "6,0 J",
+    "option_c": "22,5 J",
+    "option_d": "40 J",
+    "answer": "B",
+    "id": "high_school_physics/dev/4"
+  },
+  {
+    "instruction": "Um novo composto é sintetizado e encontrado para ser um ácido monoprótico com uma massa molar de 248 g/mol. Quando 0,0050 mol deste ácido são dissolvidos em 0,500 L de água, o pH é medido como 3,89. Qual é o pKa deste ácido?",
+    "option_a": "3,89",
+    "option_b": "7,78",
+    "option_c": "5,78",
+    "option_d": "2,33",
+    "answer": "C",
+    "id": "high_school_chemistry/dev/3"
+  },
+  {
+    "instruction": "Qual é a Segunda Joia do Budismo?",
+    "option_a": "O Dharma",
+    "option_b": "A Sangha",
+    "option_c": "O Buda",
+    "option_d": "O Bodhisattva",
+    "answer": "A",
+    "id": "world_religions/dev/1"
+  },
+  {
+    "instruction": "Um telescópio refrator consiste em duas lentes convergentes separadas por 100 cm. A lente ocular possui distância focal de 20 cm. A ampliação angular do telescópio é",
+    "option_a": "4",
+    "option_b": "5",
+    "option_c": "6",
+    "option_d": "20",
+    "answer": "A",
+    "id": "college_physics/dev/0"
+  },
+  {
+    "instruction": "Em termos das cinco dimensões culturais de Hofstede (1980), os Estados Unidos têm a pontuação mais alta na escala em:",
+    "option_a": "individualismo.",
+    "option_b": "individualismo e distância do poder.",
+    "option_c": "distância do poder e masculinidade.",
+    "option_d": "evitação da incerteza.",
+    "answer": "A",
+    "id": "professional_psychology/dev/2"
+  },
+  {
+    "instruction": "Uma loja vende 107 cores diferentes de tinta. Eles têm 25 latas de cada cor em armazenamento. O número de latas de tinta que a loja tem em armazenamento pode ser encontrado usando a expressão abaixo. 107 × 25. Quantas latas de tinta a loja tem em armazenamento?",
+    "option_a": "749",
+    "option_b": "2.675",
+    "option_c": "2.945",
+    "option_d": "4.250",
+    "answer": "B",
+    "id": "elementary_mathematics/dev/3"
+  },
+  {
+    "instruction": "Um avião modelo voa mais devagar quando voa contra o vento e mais rápido com vento a favor. Quando lançado perpendicularmente ao vento cruzado, sua velocidade em relação ao solo comparada a voar em ar parado é",
+    "option_a": "a mesma",
+    "option_b": "maior",
+    "option_c": "menor",
+    "option_d": "maior ou menor dependendo da velocidade do vento",
+    "answer": "B",
+    "id": "conceptual_physics/dev/3"
+  },
+  {
+    "instruction": "Esta questão refere-se à seguinte informação.\nNa Rússia, nada estava indo bem e [Souvarine] desesperava-se pelas notícias que recebera. Seus antigos companheiros estavam todos se voltando para os políticos; os famosos Nihilistas que fizeram a Europa tremer - filhos de padres de aldeia, da classe média baixa, de comerciantes - não conseguiam se elevar acima da ideia de libertação nacional e pareciam acreditar que o mundo seria libertado - quando eles tivessem matado o seu déspota... \"Tolices! Eles nunca sairão disso com suas tolices.\" Então, abaixando ainda mais a voz, em poucas palavras amargas descreveu seu antigo sonho de fraternidade. Ele renunciara a seu título e sua fortuna; ele fora entre os trabalhadores, apenas na esperança de ver, finalmente, a fundação de uma nova sociedade trabalhista em comum. Todas as moedas em seus bolsos haviam ido há muito tempo para as crianças do assentamento; ele fora tão afetuoso quanto um irmão com os mineiros, sorrindo para suas suspeitas, conquistando-os com seus modos tranquilos de trabalhador e seu desgosto pelo falatório. Mas decididamente, a fusão não havia ocorrido. Sua voz mudou, seus olhos brilharam, ele os fixou em Étienne, falando diretamente com ele: \"Agora, você entende isso? Esses trabalhadores chapéu em Marselha que ganharam o grande prêmio da loteria de cem mil francos foram logo investi-lo, declarando que vão viver sem fazer nada! Sim, essa é a sua ideia, todos vocês trabalhadores franceses; vocês querem desenterrar um tesouro para devorá-lo sozinhos depois em algum canto preguiçoso e egoísta. Vocês podem gritar o quanto quiserem contra os ricos, vocês não têm coragem suficiente para devolver aos pobres o dinheiro que a sorte lhes traz. Vocês nunca serão dignos da felicidade enquanto possuírem algo, e seu ódio pelos burgueses provém exclusivamente de um desejo irado de serem burgueses em seus lugares.\"\nÉmile Zola, escritor francês, Germinal, 1885\nO trecho demonstra a preocupação direta com o bem-estar das classes trabalhadoras que tipicamente fazia parte de qual movimento?",
+    "option_a": "Capitalista",
+    "option_b": "Científico",
+    "option_c": "Comunista",
+    "option_d": "Existencialista",
+    "answer": "C",
+    "id": "high_school_european_history/dev/2"
+  },
+  {
+    "instruction": "Se o governo subsidiar produtores em um mercado perfeitamente competitivo, então",
+    "option_a": "a demanda pelo produto aumentará",
+    "option_b": "a demanda pelo produto diminuirá",
+    "option_c": "o excedente do consumidor aumentará",
+    "option_d": "o excedente do consumidor diminuirá",
+    "answer": "C",
+    "id": "high_school_microeconomics/dev/1"
+  },
+  {
+    "instruction": "Qual dos seguintes itens é um exemplo de cultura não material?",
+    "option_a": "Sabonete Dove",
+    "option_b": "Barra de chocolate Dove",
+    "option_c": "Símbolo Dove",
+    "option_d": "Uma pomba (ave)",
+    "answer": "C",
+    "id": "high_school_geography/dev/4"
+  },
+  {
+    "instruction": "Dois condutores longos e paralelos carregam 100 A. Se os condutores forem separados por 20 mm, a força por metro de comprimento de cada condutor será",
+    "option_a": "100 N.",
+    "option_b": "0,1 N.",
+    "option_c": "1 N.",
+    "option_d": "0,01 N.",
+    "answer": "B",
+    "id": "electrical_engineering/dev/3"
+  },
+  {
+    "instruction": "Selecione a melhor tradução para lógica de predicado. George pega emprestado o cortador de grama de Hector. (g: George; h: Hector; l: cortador de grama de Hector; Bxyx: x pega emprestado y de z)",
+    "option_a": "Blgh",
+    "option_b": "Bhlg",
+    "option_c": "Bglh",
+    "option_d": "Bghl",
+    "answer": "C",
+    "id": "formal_logic/dev/1"
+  },
+  {
+    "instruction": "Seja A o conjunto de todos os pares ordenados de inteiros (m, n) tais que 7m + 12n = 22. Qual é o maior número negativo no conjunto B = {m+n: (m, n) \\in A}?",
+    "option_a": "-5",
+    "option_b": "-4",
+    "option_c": "-3",
+    "option_d": "-2",
+    "answer": "B",
+    "id": "college_mathematics/dev/4"
+  },
+  {
+    "instruction": "Defender que o que é verdadeiro das partes deve ser verdadeiro do todo é a falácia de...",
+    "option_a": "Divisão",
+    "option_b": "Composição",
+    "option_c": "Apelo à pessoa",
+    "option_d": "Apelo à ignorância",
+    "answer": "B",
+    "id": "logical_fallacies/dev/3"
+  },
+  {
+    "instruction": "Pascale está interessada nas estratégias de processamento que as crianças usam para aprender novas informações. Pascale seria melhor classificada como que tipo de psicóloga?",
+    "option_a": "sociocultural",
+    "option_b": "clínica",
+    "option_c": "cognitiva",
+    "option_d": "behaviorista",
+    "answer": "C",
+    "id": "high_school_psychology/dev/4"
+  },
+  {
+    "instruction": "Esta pergunta refere-se à seguinte informação.\n\"A sociedade em todo estado é uma bênção, mas o governo, mesmo em seu melhor estado, é apenas um mal necessário; em seu pior estado, um mal insuportável; pois quando sofremos, ou estamos expostos às mesmas misérias por um governo, que poderíamos esperar em um país sem governo, nossa calamidade é agravada ao refletirmos que fornecemos os meios pelos quais sofremos. O governo, como a roupa, é prova da inocência perdida; os palácios dos reis são construídos sobre as ruínas dos jardins do paraíso. Pois se os impulsos da consciência fossem claros, uniformes e irresistivelmente obedecidos, o homem não precisaria de outro legislador; mas como isso não é o caso, ele acha necessário entregar uma parte de sua propriedade para fornecer meios para a proteção do resto; e isso ele é induzido a fazer pela mesma prudência que, em todo outro caso, o aconselha a escolher o menor de dois males. Portanto, sendo a segurança o verdadeiro projeto e fim do governo, segue-se incontestavelmente que qualquer forma desse mesmo governo que apareça mais provável de assegurá-la para nós, com o menor custo e o maior benefício, é preferível a todas as outras.\"\nThomas Paine, Sentido Comum, 1776\nQuais das seguintes \"misérias\" aludidas acima foram mais condenadas pelos anti-federalistas da era pós-revolucionária?",
+    "option_a": "Resposta organizada à Rebelião de Bacon",
+    "option_b": "Resposta federal à Rebelião de Shays",
+    "option_c": "Resposta federal à Rebelião do Whiskey",
+    "option_d": "Resposta federal à Rebelião de Pontiac",
+    "answer": "C",
+    "id": "high_school_us_history/dev/0"
+  },
+  {
+    "instruction": "A taxa de aumento natural de uma população é encontrada subtraindo-se a",
+    "option_a": "taxa de mortalidade bruta da taxa de natalidade bruta.",
+    "option_b": "taxa de natalidade bruta da taxa de mortalidade bruta.",
+    "option_c": "tempo de duplicação da taxa de natalidade bruta.",
+    "option_d": "taxa de fertilidade da taxa de mortalidade bruta.",
+    "answer": "A",
+    "id": "high_school_geography/dev/0"
+  },
+  {
+    "instruction": "Como a crise financeira de 2008 afetou a reputação internacional da América?",
+    "option_a": "Ela prejudicou o apoio ao modelo de economia política e capitalismo dos EUA",
+    "option_b": "Ela criou raiva nos Estados Unidos por exagerar na crise",
+    "option_c": "Ela aumentou o apoio ao liderança global americana sob o presidente Obama",
+    "option_d": "Ela reduziu o uso global do dólar americano",
+    "answer": "A",
+    "id": "us_foreign_policy/dev/0"
+  },
+  {
+    "instruction": "Qual elemento da teia cultural forma regalia?",
+    "option_a": "Símbolos",
+    "option_b": "Rituais e rotinas",
+    "option_c": "Estruturas de poder",
+    "option_d": "Sistemas de controle",
+    "answer": "A",
+    "id": "management/dev/2"
+  },
+  {
+    "instruction": "Qual destas músicas foi um sucesso Top 10 da banda de rock The Police?",
+    "option_a": "'Radio Ga-Ga'",
+    "option_b": "'Ob-la-di Ob-la-da'",
+    "option_c": "'De Do Do Do De Da Da Da'",
+    "option_d": "'In-a-Gadda-Da-Vida'",
+    "answer": "C",
+    "id": "miscellaneous/dev/4"
+  },
+  {
+    "instruction": "Qual das seguintes declarações não é verdadeira?",
+    "option_a": "O glicogênio muscular é quebrado enzimaticamente em glicose-1-fosfato",
+    "option_b": "Corredores de resistência de elite têm uma alta proporção de fibras do Tipo I em seus músculos das pernas",
+    "option_c": "O glicogênio hepático é importante na manutenção da concentração de glicose no sangue",
+    "option_d": "A insulina promove a captação de glicose por todos os tecidos do corpo",
+    "answer": "D",
+    "id": "college_medicine/dev/1"
+  },
+  {
+    "instruction": "Embora o conteúdo e qualidade possam ser tão controlados quanto ao correio direto, as taxas de resposta desse meio são menores devido à falta de um mecanismo de endereço pessoal. Este formato de mídia é conhecido como:",
+    "option_a": "Linhas de apoio.",
+    "option_b": "Correio direto.",
+    "option_c": "Inserções.",
+    "option_d": "Porta a porta.",
+    "answer": "D",
+    "id": "marketing/dev/4"
+  },
+  {
+    "instruction": "O egoísmo psicológico é:",
+    "option_a": "uma teoria ética sobre como devemos nos comportar.",
+    "option_b": "uma generalização sobre a maneira como as pessoas tendem a se comportar.",
+    "option_c": "uma afirmação sobre a natureza humana e as maneiras pelas quais as pessoas são capazes de se comportar.",
+    "option_d": "nenhuma das alternativas acima.",
+    "answer": "C",
+    "id": "philosophy/dev/0"
+  },
+  {
+    "instruction": "Qual lugar é nomeado no título do álbum ao vivo de 1979 dos lendários Cheap Trick?",
+    "option_a": "Budapeste",
+    "option_b": "Budokan",
+    "option_c": "Butão",
+    "option_d": "Grã-Bretanha",
+    "answer": "B",
+    "id": "miscellaneous/dev/1"
+  },
+  {
+    "instruction": "Um corredor de maratona do sexo masculino de 22 anos se apresenta ao consultório com queixa de dor nas costelas do lado direito ao correr longas distâncias. O exame físico revela achados normais de coração e pulmões e uma disfunção da exalação nas costelas 4-5 do lado direito. Qual dos seguintes músculos ou grupos musculares será mais útil na correção dessa disfunção utilizando um método direto?",
+    "option_a": "escaleno anterior",
+    "option_b": "dorso largo",
+    "option_c": "peitoral menor",
+    "option_d": "quadrado lombar",
+    "answer": "C",
+    "id": "professional_medicine/dev/4"
+  },
+  {
+    "instruction": "Suponha agora que um pesquisador deseja usar critérios de informação para determinar o comprimento de defasagem ótimo para um VAR. 500 observações estão disponíveis para o VAR bivariado, e os valores do determinante da matriz de variância-covariância de resíduos são 0,0336, 0,0169, 0,0084 e 0,0062 para 1, 2, 3 e 4 defasagens, respectivamente. Qual é a ordem do modelo ótimo de acordo com o critério de informação de Akaike?",
+    "option_a": "1 defasagem",
+    "option_b": "2 defasagens",
+    "option_c": "3 defasagens",
+    "option_d": "4 defasagens",
+    "answer": "C",
+    "id": "econometrics/dev/4"
+  },
+  {
+    "instruction": "Encontre todos os c em Z_3 tais que Z_3[x]/(x^2 + c) seja um campo.",
+    "option_a": "0",
+    "option_b": "1",
+    "option_c": "2",
+    "option_d": "3",
+    "answer": "B",
+    "id": "abstract_algebra/dev/0"
+  },
+  {
+    "instruction": "Esta pergunta refere-se à seguinte informação.\n\"A luta contra o neocolonialismo não tem como objetivo excluir o capital do mundo desenvolvido de operar em países menos desenvolvidos. Tem como objetivo impedir que o poder financeiro dos países desenvolvidos seja usado de tal forma a empobrecer os menos desenvolvidos.\nA não-alinhamento, como praticada pelo Gana e muitos outros países, baseia-se na cooperação com todos os Estados, sejam eles capitalistas, socialistas ou tenham uma economia mista. Tal política, portanto, envolve investimentos estrangeiros de países capitalistas, mas deve ser investida de acordo com um plano nacional elaborado pelo governo do Estado não alinhado com seus próprios interesses em mente. A questão não é o retorno que o investidor estrangeiro recebe sobre seus investimentos... A questão é de poder. Um Estado sob o neocolonialismo não é mestre do seu próprio destino.\"\nKwame Nkrumah, Neocolonialismo, 1965\nQual dos seguintes fornece o melhor contexto para as escritas de Nkrumah?",
+    "option_a": "A Revolução Industrial",
+    "option_b": "Descolonização",
+    "option_c": "Associações Regionais de Livre Comércio",
+    "option_d": "Autarquia",
+    "answer": "B",
+    "id": "high_school_world_history/dev/1"
+  },
+  {
+    "instruction": "Recentemente, um estado promulgou uma lei que proíbe o descarte de qualquer resíduo nuclear dentro do estado. Essa lei não contraria ou entra em conflito com nenhuma lei federal. Um homem opera uma empresa no estado que está envolvida no descarte de resíduos nucleares. Após a aprovação da lei do estado, o homem, que ainda não estava ciente da nova lei, celebrou contratos com muitas empresas de fora do estado para descartar seus resíduos nucleares dentro do estado. No entanto, em razão dessa nova lei, o homem não poderá cumprir esses contratos. Suponha que o homem tenha legitimidade para contestar essa lei estadual. Qual dos seguintes apresenta suas bases constitucionais mais fortes para contestar a lei estadual que proíbe o descarte de resíduos nucleares dentro do estado?",
+    "option_a": "A cláusula do comércio.",
+    "option_b": "A cláusula de proteção igualitária da Décima Quarta Emenda.",
+    "option_c": "A cláusula de privilégios e imunidades do Artigo IV, Seção 2.",
+    "option_d": "A cláusula do contrato.",
+    "answer": "A",
+    "id": "professional_law/dev/1"
+  },
+  {
+    "instruction": "Depois de um aviso de geada, o proprietário de um grande pomar de laranjas pediu aos seus trabalhadores que borrifassem todas as suas árvores com água. A água deveria congelar e formar uma cobertura protetora de gelo ao redor da flor de laranjeira. No entanto, o proprietário suspeitava que algumas árvores sofreram danos consideráveis ​​devido à geada. Para estimar a proporção de árvores que sofreram mais de 50 por cento de danos devido à geada, ele fez uma amostra aleatória de 100 árvores de seu pomar. Qual é a variável de resposta neste experimento?",
+    "option_a": "A proporção de árvores que sofreram mais de 50 por cento de danos devido à geada.",
+    "option_b": "O número de árvores afetadas pela geada.",
+    "option_c": "O número de árvores amostradas do pomar.",
+    "option_d": "Para cada árvore amostrada, se ela sofreu mais de 50 por cento de danos ou no máximo 50 por cento de danos.",
+    "answer": "D",
+    "id": "high_school_statistics/dev/2"
+  },
+  {
+    "instruction": "Muitos navegadores da Web permitem que os usuários abram janelas anônimas. Durante uma sessão de navegação em uma janela anônima, o navegador não registra um histórico de navegação ou uma lista de arquivos baixados. Quando a janela anônima é fechada, os cookies criados durante a sessão são excluídos. Qual das seguintes declarações sobre sessões de navegação em uma janela anônima é verdadeira?",
+    "option_a": "As atividades de um usuário navegando em uma janela anônima não serão visíveis para pessoas que monitoram a rede do usuário, como o administrador do sistema.",
+    "option_b": "Itens colocados no carrinho de compras da loja virtual para compra futura durante a sessão de navegação anônima não serão salvos no computador do usuário.",
+    "option_c": "Um usuário não poderá fazer login em contas de e-mail ou mídia social durante a sessão de navegação anônima.",
+    "option_d": "Um usuário navegando em uma janela anônima estará protegido contra vírus lançados de quaisquer sites visitados ou arquivos baixados.",
+    "answer": "B",
+    "id": "high_school_computer_science/dev/1"
+  },
+  {
+    "instruction": "Quais são as duas principais dimensões dos Estudos de Ohio sobre liderança?",
+    "option_a": "Posição inicial e posição final",
+    "option_b": "Ambiente inicial e ambiente alterado",
+    "option_c": "Estrutura organizacional e condicionamento",
+    "option_d": "Estrutura iniciadora e considerações",
+    "answer": "D",
+    "id": "management/dev/0"
+  },
+  {
+    "instruction": "Para garantir a independência dos membros do conselho não executivos, existem algumas medidas que podem ser tomadas, incluindo a seleção de membros provenientes de _______ da empresa, a nomeação com um período de tempo ___________ e sua nomeação ___________.",
+    "option_a": "Fora, limitado, de forma independente",
+    "option_b": "Dentro, limitado, de forma intermitente",
+    "option_c": "Fora, ilimitado, de forma intermitente",
+    "option_d": "Dentro, ilimitado, de forma independente",
+    "answer": "A",
+    "id": "business_ethics/dev/2"
+  },
+  {
+    "instruction": "Existem três formas de medir a Tendência Central: a Média, a Mediana e a Moda. Com base no seu conhecimento sobre elas, qual é a Moda?",
+    "option_a": "menos sensível a valores extremos do que a média",
+    "option_b": "mais útil para distribuições assimétricas",
+    "option_c": "sensível a valores extremos e distribuições altamente assimétricas",
+    "option_d": "o número que ocorre com mais frequência",
+    "answer": "D",
+    "id": "professional_psychology/dev/1"
+  },
+  {
+    "instruction": "Para obter uma estimativa de perda 0/1 que seja inferior a 1% da verdadeira perda 0/1 (com uma probabilidade de 95%), de acordo com a desigualdade de Hoeffding, o conjunto de testes IID deve ter quantos exemplos?",
+    "option_a": "cerca de 10 exemplos",
+    "option_b": "cerca de 100 exemplos",
+    "option_c": "entre 100 e 500 exemplos",
+    "option_d": "mais de 1000 exemplos",
+    "answer": "D",
+    "id": "machine_learning/dev/3"
+  },
+  {
+    "instruction": "Na avaliação da função da mão, qual das seguintes afirmações é verdadeira?",
+    "option_a": "A abdução do polegar é fornecida pela raiz espinhal T2",
+    "option_b": "A oposição do polegar pelo opponens policis é fornecida pela raiz espinhal T1",
+    "option_c": "Adução dos dedos é fornecida pelo nervo mediano",
+    "option_d": "Abdução dos dedos é mediada pelos interósseos palmares",
+    "answer": "B",
+    "id": "clinical_knowledge/dev/2"
+  },
+  {
+    "instruction": "A partir de 2019, qual porcentagem de americanos concorda que o estado é administrado para o benefício de todas as pessoas?",
+    "option_a": "31%",
+    "option_b": "46%",
+    "option_c": "61%",
+    "option_d": "76%",
+    "answer": "B",
+    "id": "global_facts/dev/1"
+  },
+  {
+    "instruction": "Pesquisadores agora acreditam que a declinação dos Maias foi causada principalmente por:",
+    "option_a": "um cataclismo de algum tipo, como um terremoto, vulcão ou tsunami.",
+    "option_b": "degradação ecológica resultante de técnicas de agricultura de corte e queima de matas.",
+    "option_c": "guerras intermináveis entre estados vizinhos maias.",
+    "option_d": "práticas de cruzamento que levaram a um forte aumento de distúrbios congênitos.",
+    "answer": "B",
+    "id": "prehistory/dev/2"
+  },
+  {
+    "instruction": "Em 2017, quantas das crianças de um ano de idade do mundo foram vacinadas contra alguma doença? *",
+    "option_a": "80%",
+    "option_b": "60%",
+    "option_c": "40%",
+    "option_d": "20%",
+    "answer": "A",
+    "id": "global_facts/dev/4"
+  },
+  {
+    "instruction": "Em um estudo de coorte, a razão de risco de desenvolver diabetes foi de 0,86 ao comparar consumidores de chá (os expostos) com aqueles que não bebiam chá (os não expostos). Qual das seguintes afirmações está correta (de acordo com o conhecimento em 2020)?\n",
+    "option_a": "Os bebedores de chá têm menor risco de desenvolver diabetes.",
+    "option_b": "Os bebedores de chá têm maior risco de desenvolver diabetes.",
+    "option_c": "Com base nas informações dadas, não podemos afirmar se a diferença observada no risco de doença é resultado do acaso.",
+    "option_d": "A razão de risco está próxima do valor um, então não há diferença no risco de doença entre os dois grupos.",
+    "answer": "C",
+    "id": "nutrition/dev/0"
+  },
+  {
+    "instruction": "Qual destes três elementos tem a maior massa por nucléon?",
+    "option_a": "Hidrogênio",
+    "option_b": "Ferro",
+    "option_c": "Urânio",
+    "option_d": "Mesma em cada",
+    "answer": "A",
+    "id": "conceptual_physics/dev/4"
+  },
+  {
+    "instruction": "Como o NSC-68 mudou a estratégia dos Estados Unidos?",
+    "option_a": "Ele globalizou o contenção.",
+    "option_b": "Ele militarizou o contenção.",
+    "option_c": "Ele pediu o desenvolvimento da bomba de hidrogênio.",
+    "option_d": "Todos acima",
+    "answer": "D",
+    "id": "us_foreign_policy/dev/1"
+  },
+  {
+    "instruction": "Qual das seguintes opções é a explicação mais plausível para o efeito protetor das fibras alimentares contra o câncer de cólon, em 2020?\n",
+    "option_a": "O ácido propiônico, formado durante a fermentação de fibra no cólon, inibe a síntese de ácidos graxos no fígado",
+    "option_b": "O ácido butírico, formado durante a fermentação de fibra no cólon, estimula a \"silenciamento\" do gene supressor de tumor SLC5A8",
+    "option_c": "Nenhuma destas opções está correta",
+    "option_d": "O ácido butírico, formado durante a fermentação de fibra no cólon, estimula a defesa antioxidante no cólon",
+    "answer": "D",
+    "id": "nutrition/dev/2"
+  },
+  {
+    "instruction": "Em 1º de outubro de 1980, um desenvolvedor, proprietário de várias centenas de acres em um condado rural, redigiu um plano geral de desenvolvimento para a área. O plano devidamente registrado impôs elaboradas limitações e restrições à terra no plano, que deveria ser desenvolvido como um distrito residencial. As restrições se estenderam a todas as pessoas que adquiriram lotes e seus herdeiros, cessionários e arrendatários. Também foi previsto que todos os proprietários subsequentes seriam informados das restrições. Entre essas restrições no plano geral, estavam as seguintes: (22) É criado um direito de franquia em uma faixa de terra com 10 pés de largura ao longo da parte de trás de cada lote para uso de empresas de serviços públicos com direito de ingresso e egresso. (23) Nenhuma casa ou estrutura de qualquer tipo deve ser construída na faixa de terra acima mencionada que atravessa os referidos blocos. Em 2000, um aposentado comprou um dos lotes, construiu uma casa e ergueu uma cerca na parte de trás de sua propriedade dentro da área restrita. Em 2004, um professor comprou um lote adjacente à propriedade do aposentado e construiu uma nova casa. Dois anos depois, um bibliotecário comprou o lote que fazia divisa com a propriedade do professor. Os três contratos de venda de propriedades continham referências ao livro onde o plano geral foi registrado. Em 2008, o bibliotecário começou a construção de uma cerca de madeira de sete pés ao longo da linha que dividia seu lote com o do professor, e ao longo do centro da área sujeita ao direito de franquia. Embora o professor tenha se oposto à construção, a cerca foi concluída. Se o professor buscar uma liminar mandatória para obrigar a remoção da cerca do bibliotecário, o tribunal provavelmente irá",
+    "option_a": "conceder o pedido, porque a cerca violou a restrição da servidão. ",
+    "option_b": "conceder o pedido, porque a invasão da cerca violou a restrição do plano original. ",
+    "option_c": "negar o pedido, porque o professor não exigiu o cumprimento da restrição contra o aposentado. ",
+    "option_d": "negar o pedido, porque a cerca não seria interpretada como \"uma estrutura\" nos termos da restrição. ",
+    "answer": "B",
+    "id": "professional_law/dev/3"
+  },
+  {
+    "instruction": "Enquanto nadava no oceano, Ivan foi assustado por uma sombra escura na água antes mesmo de ter a chance de identificar o que era a sombra. As conexões sinápticas que ocorrem durante esse incidente de susto são melhor descritas por qual das seguintes opções?",
+    "option_a": "Mensagens são enviadas diretamente do tálamo para a amígdala.",
+    "option_b": "Mensagens são enviadas do tálamo para as vias \"o quê\" e \"onde\".",
+    "option_c": "Mensagens são enviadas do sistema nervoso parassimpático para o córtex cerebral.",
+    "option_d": "Mensagens são enviadas dos lobos frontais para a glândula pituitária.",
+    "answer": "A",
+    "id": "high_school_psychology/dev/2"
+  },
+  {
+    "instruction": "Qual é o tipo mais comum de aumento de dados de imagem para imagens naturais?",
+    "option_a": "corte aleatório e inversão horizontal",
+    "option_b": "corte aleatório e inversão vertical",
+    "option_c": "posterização",
+    "option_d": "dithering",
+    "answer": "A",
+    "id": "machine_learning/dev/1"
+  },
+  {
+    "instruction": "Para qual dos seguintes processos termodinâmicos o aumento da energia interna de um gás ideal é igual ao calor adicionado ao gás?",
+    "option_a": "Temperatura constante",
+    "option_b": "Volume constante",
+    "option_c": "Pressão constante",
+    "option_d": "Adiabático",
+    "answer": "B",
+    "id": "college_physics/dev/1"
+  },
+  {
+    "instruction": "Considerando que todas as outras coisas sejam iguais, qual das seguintes pessoas tem mais probabilidade de apresentar osteoporose?",
+    "option_a": "Uma mulher hispânica americana mais velha",
+    "option_b": "Uma mulher afro-americana mais velha",
+    "option_c": "Uma mulher asiático-americana mais velha",
+    "option_d": "Uma mulher nativa americana mais velha",
+    "answer": "C",
+    "id": "human_aging/dev/4"
+  },
+  {
+    "instruction": "Qual dos seguintes é necessariamente uma característica de oligopólio?",
+    "option_a": "Livre entrada e saída do mercado",
+    "option_b": "Alguns grandes produtores",
+    "option_c": "Um produtor de um bem sem substitutos próximos",
+    "option_d": "Um produto homogêneo",
+    "answer": "B",
+    "id": "high_school_microeconomics/dev/4"
+  },
+  {
+    "instruction": "Na Classe II Divisão 2 da Oclusão de Angle, existe",
+    "option_a": "excesso de sobremordida nos incisivos laterais superiores.",
+    "option_b": "overjet negativo dos incisivos centrais superiores.",
+    "option_c": "excesso de overjet nos incisivos laterais superiores.",
+    "option_d": "excesso de overjet nos incisivos centrais superiores.",
+    "answer": "C",
+    "id": "anatomy/dev/3"
+  },
+  {
+    "instruction": "Krete é um contribuinte solteiro com renda exclusivamente proveniente de salários. Até 31 de dezembro do ano 1, o empregador de Krete reteve $ 16.000 em impostos federais sobre a renda e Krete não fez nenhum pagamento estimado de impostos. Em 15 de abril do ano 2, Krete solicitou uma prorrogação para apresentar sua declaração de imposto de renda individual e pagou $ 300 de impostos adicionais. A responsabilidade tributária de Krete no ano 1 era de $ 16.500 quando ela apresentou sua declaração em 30 de abril do ano 2 e pagou o saldo restante da responsabilidade tributária. Qual valor estaria sujeito à penalidade por falta de pagamento de imposto estimado?",
+    "option_a": "$0",
+    "option_b": "$500",
+    "option_c": "$1.650",
+    "option_d": "$16.500",
+    "answer": "A",
+    "id": "professional_accounting/dev/2"
+  },
+  {
+    "instruction": "Coisas que são equivalentes de acordo com o princípio da equivalência são",
+    "option_a": "espaço e tempo.",
+    "option_b": "um gêmeo que viaja e um gêmeo que fica em casa.",
+    "option_c": "gravidade e aceleração.",
+    "option_d": "massa e energia.",
+    "answer": "C",
+    "id": "conceptual_physics/dev/1"
+  },
+  {
+    "instruction": "Qual foi a organização que lançou a campanha Hora do Planeta?",
+    "option_a": "Greenpeace",
+    "option_b": "As Nações Unidas",
+    "option_c": "Oxfam",
+    "option_d": "Fundo Mundial para a Natureza",
+    "answer": "D",
+    "id": "public_relations/dev/4"
+  },
+  {
+    "instruction": "Qual das seguintes afirmações é verdadeira sobre um silogismo categórico válido?",
+    "option_a": "A premissa menor deve negar o antecedente",
+    "option_b": "A premissa maior deve afirmar o consequente",
+    "option_c": "O termo médio deve ser usado em pelo menos uma premissa em um sentido universal ou não qualificado",
+    "option_d": "Todos os itens acima",
+    "answer": "C",
+    "id": "logical_fallacies/dev/2"
+  },
+  {
+    "instruction": "Qual das seguintes políticas melhor descreve a política fiscal do lado da oferta?",
+    "option_a": "Um aumento no fornecimento de dinheiro",
+    "option_b": "Aumento dos gastos do governo",
+    "option_c": "Impostos mais baixos na pesquisa e desenvolvimento de novas tecnologias",
+    "option_d": "Impostos mais altos sobre a renda familiar",
+    "answer": "C",
+    "id": "high_school_macroeconomics/dev/4"
+  },
+  {
+    "instruction": "Quais tipos de força o artigo 2(4) da Carta da ONU proíbe?",
+    "option_a": "O artigo 2(4) engloba apenas o uso da força armada",
+    "option_b": "O artigo 2(4) engloba todos os tipos de força, incluindo sanções",
+    "option_c": "O artigo 2(4) engloba todas as interferências nos assuntos internos dos Estados",
+    "option_d": "O artigo 2(4) engloba força direcionada apenas contra a integridade territorial de um Estado",
+    "answer": "A",
+    "id": "international_law/dev/0"
+  },
+  {
+    "instruction": "Um novo smartwatch é fabricado em uma parte da fábrica, e então é preparado para envio em outra parte independente da fábrica. O peso do smartwatch tem uma média de 62 gramas e um desvio padrão de 1,0 gramas. O peso da embalagem (caixa, guia do usuário, plástico bolha, etc.) tem uma média de 456 gramas e um desvio padrão de 6 gramas. Em conjunto, a distribuição do peso do smartwatch e sua embalagem teria a seguinte média e desvio padrão:",
+    "option_a": "Média de 518 gramas; desvio padrão de 7,0 gramas",
+    "option_b": "Média de 518 gramas; desvio padrão de 3,5 gramas",
+    "option_c": "Média de 518 gramas; desvio padrão de 6,1 gramas",
+    "option_d": "Média de 394 gramas; desvio padrão de 6,1 gramas",
+    "answer": "C",
+    "id": "high_school_statistics/dev/3"
+  },
+  {
+    "instruction": "Na gestão de questões, qual é a abordagem mais proativa para lidar com informações negativas ou enganosas postadas on-line sobre sua organização?",
+    "option_a": "Compre nomes de domínio que possam ser usados por grupos de oposição.",
+    "option_b": "Poste comentários anônimos em blogs para combater essas informações.",
+    "option_c": "Prepare um comunicado à imprensa que descredite as informações imprecisas.",
+    "option_d": "Faça mudanças de política para lidar com reclamações destacadas nesses sites.",
+    "answer": "D",
+    "id": "public_relations/dev/1"
+  },
+  {
+    "instruction": "Qual era a perspectiva de Tolstói sobre o significado da vida antes de sua conversão ao cristianismo?",
+    "option_a": "otimista",
+    "option_b": "satisfeito",
+    "option_c": "nominalmente religioso",
+    "option_d": "pessimista",
+    "answer": "D",
+    "id": "philosophy/dev/3"
+  },
+  {
+    "instruction": "Qual dos seguintes itens o estado de bem-estar pós-guerra de 1948 não se propôs a oferecer:",
+    "option_a": "cuidados de saúde e educação gratuitos para todos",
+    "option_b": "salário mínimo",
+    "option_c": "emprego pleno",
+    "option_d": "bem-estar universal",
+    "answer": "B",
+    "id": "sociology/dev/0"
+  },
+  {
+    "instruction": "Dez estudantes fazem uma prova de biologia e recebem as seguintes notas: 45, 55, 50, 70, 65, 80, 40, 90, 70, 85. Qual é a média das notas dos estudantes?",
+    "option_a": "55",
+    "option_b": "60",
+    "option_c": "62",
+    "option_d": "65",
+    "answer": "D",
+    "id": "high_school_mathematics/dev/4"
+  },
+  {
+    "instruction": "Com que escritor estão associados os fatores de higiene?",
+    "option_a": "Frederick Hertzberg",
+    "option_b": "D.C. McClelland",
+    "option_c": "Abraham Maslow",
+    "option_d": "Douglas McGregor",
+    "answer": "A",
+    "id": "management/dev/1"
+  },
+  {
+    "instruction": "No programa abaixo, o valor inicial de x é 5 e o valor inicial de y é 10.\n SE (X < O)\n {\n EXIBIR (\"Foxtrot\")\n }\n SENÃO\n {\n SE (X > y)\n {\n   EXIBIR (\"Hotel\")\n }\n SENÃO \n {\n   SE (y > O)\n   {\n   EXIBIR (\"November\")\n   }\n   SENÃO\n   {\n   EXIBIR (\"Yankee\")\n   }\n }\n }\n \n O que é exibido como resultado da execução do programa?",
+    "option_a": "Foxtrot",
+    "option_b": "Hotel",
+    "option_c": "November",
+    "option_d": "Yankee",
+    "answer": "C",
+    "id": "high_school_computer_science/dev/3"
+  },
+  {
+    "instruction": "Seria uma reserva à definição de tortura na ICCPR aceitável na prática contemporânea?",
+    "option_a": "Esta é uma reserva aceitável se a legislação do país que realiza a reserva emprega uma definição diferente",
+    "option_b": "Esta é uma reserva inaceitável porque contraria o objetivo e propósito do ICCPR",
+    "option_c": "Esta é uma reserva inaceitável porque a definição de tortura na ICCPR é consistente com o direito internacional costumeiro",
+    "option_d": "Esta é uma reserva aceitável porque, sob o direito internacional geral, os Estados têm o direito de apresentar reservas aos tratados",
+    "answer": "B",
+    "id": "international_law/dev/2"
+  },
+  {
+    "instruction": "Um forno de microondas está conectado a uma tomada de 120 V e consome uma corrente elétrica de 2 A. Qual é a taxa de utilização de energia pelo forno de microondas?",
+    "option_a": "10 W",
+    "option_b": "30 W",
+    "option_c": "60 W",
+    "option_d": "240 W",
+    "answer": "D",
+    "id": "high_school_physics/dev/3"
+  },
+  {
+    "instruction": "Baron admite que as versões hipotéticas da bomba-relógio que ela discute são \"surpreendentemente estúpidas\", mas ela afirma que isso é na verdade uma evidência de",
+    "option_a": "a estupidez da maioria dos exemplos filosóficos tradicionais.",
+    "option_b": "uma falta geral de inteligência entre pessoas com diplomas avançados.",
+    "option_c": "a incorreção da tortura.",
+    "option_d": "a prontidão por parte de muitas pessoas inteligentes para ver a tortura como a melhor solução para lidar com o terrorismo.",
+    "answer": "D",
+    "id": "moral_disputes/dev/4"
+  },
+  {
+    "instruction": "Qual dos seguintes é um bem intrínseco, de acordo com Singer?",
+    "option_a": "estar na classe alta",
+    "option_b": "a capacidade de aprender e resolver problemas",
+    "option_c": "ser mais bonito do que a maioria da população",
+    "option_d": "ser mais baixo do que a média",
+    "answer": "B",
+    "id": "moral_disputes/dev/2"
+  },
+  {
+    "instruction": "Quantos eixos tem um automóvel padrão?",
+    "option_a": "um",
+    "option_b": "dois",
+    "option_c": "quatro",
+    "option_d": "oito",
+    "answer": "B",
+    "id": "miscellaneous/dev/0"
+  },
+  {
+    "instruction": "A glicose é transportada para dentro da célula muscular:",
+    "option_a": "por meio de transportadores de proteínas chamados GLUT4.",
+    "option_b": "somente na presença de insulina.",
+    "option_c": "por meio da hexoquinase.",
+    "option_d": "por meio de transportadores de ácido monocarboxílico.",
+    "answer": "A",
+    "id": "college_medicine/dev/0"
+  },
+  {
+    "instruction": "3 Cl−(aq) + 4 CrO_4^2−(aq) + 23 H+(aq) → 3 HClO2(aq) + 4 Cr3+(aq) + 10 H2O(l). Na reação mostrada acima, Cl−(aq) se comporta como",
+    "option_a": "um ácido",
+    "option_b": "uma base",
+    "option_c": "um catalisador",
+    "option_d": "um agente redutor",
+    "answer": "D",
+    "id": "college_chemistry/dev/3"
+  },
+  {
+    "instruction": "O termo \"déficit orçamentário\" refere-se ao",
+    "option_a": "aumento anual dos gastos federais com militares",
+    "option_b": "quantidade de juros sobre a dívida nacional",
+    "option_c": "diferença entre as propostas iniciais do orçamento feitas pelo presidente e pelo Congresso",
+    "option_d": "quantidade que o governo gasta em excesso em relação às suas receitas",
+    "answer": "D",
+    "id": "high_school_government_and_politics/dev/1"
+  },
+  {
+    "instruction": "Esta pergunta refere-se às seguintes informações.\nOs trechos abaixo são dos Navigation Acts de 1651.\n[A] partir do primeiro dia de dezembro, mil seiscentos e cinquenta e um, e dali em diante, nenhum bem ou mercadoria de qualquer natureza, crescimento, produção ou fabricação da Ásia, África ou América, ou de qualquer parte delas; ou de quaisquer ilhas pertencentes a elas, ou que são descritas ou marcadas nos habituais mapas ou cartas desses lugares, tanto das colônias inglesas quanto de outras, poderão ser importados ou trazidos para esta Comunidade da Inglaterra, ou para a Irlanda, ou para qualquer outra terra, ilha, colônia ou território pertencente a esta Comunidade, ou em sua posse, em nenhum outro navio ou navios, embarcação ou embarcações, senão naqueles que realmente e sem fraude pertencem apenas ao povo desta Comunidade, ou a suas colônias, como os proprietários ou possuidores legais deles; e cujo mestre e marujos também sejam do povo desta Comunidade, sob pena de perda e confisco de todos os bens que forem importados em desacordo com esta lei, , , ,\n[N]enhum bem ou mercadoria do crescimento, produção ou fabricação da Europa, ou de qualquer parte dela, será, após o primeiro dia de dezembro, mil seiscentos e cinquenta e um, importado ou trazido para esta Comunidade da Inglaterra, ou para quaisquer outras terras ou territórios pertencentes a esta Comunidade, ou em sua posse, em nenhum outro navio ou navios, embarcação ou embarcações, senão naqueles que realmente e sem fraude pertencem apenas ao povo desta Comunidade, e em nenhum outro, exceto apenas aqueles navios e embarcações estrangeiros que realmente e legalmente pertencem ao povo desse país ou lugar, do qual os referidos bens são crescimento, produção ou fabricação.\nQual das seguintes opções melhor descreve o resultado dos Navigation Acts de 1651?",
+    "option_a": "Eles serviram como um catalisador para o crescimento do transporte marítimo e comércio ultramarino inglês, mas fizeram pouco para limitar as perspectivas dos holandeses no século XVII.",
+    "option_b": "Eles trouxeram prejuízos quase imediatos para a economia holandesa, pois seu domínio comercial ultramarino terminou rapidamente.",
+    "option_c": "Eles foram revogados durante a restauração dos Stuart, já que buscaram relações diplomáticas normais com os holandeses para não precisarem do apoio financeiro do Parlamento para a guerra.",
+    "option_d": "Eles levaram a quase um século de guerra recorrente entre a Inglaterra e os Países Baixos, que só terminaria após a independência americana.",
+    "answer": "A",
+    "id": "high_school_european_history/dev/3"
+  },
+  {
+    "instruction": "O enjoo matinal é um problema típico:",
+    "option_a": "durante o primeiro trimestre",
+    "option_b": "durante o segundo trimestre",
+    "option_c": "durante o terceiro trimestre",
+    "option_d": "durante toda a gravidez",
+    "answer": "A",
+    "id": "human_sexuality/dev/0"
+  },
+  {
+    "instruction": "Preveja o número de linhas no espectro EPR de uma solução do radical metil 13C-labeled (13CH3•), supondo que as linhas não se sobreponham.",
+    "option_a": "4",
+    "option_b": "3",
+    "option_c": "6",
+    "option_d": "24",
+    "answer": "A",
+    "id": "college_chemistry/dev/2"
+  },
+  {
+    "instruction": "De acordo com Timothy Pauketat, a evidência de estratificação social e poder político em Cahokia sugere:",
+    "option_a": "um centro de civilização Mississippiana com condições semelhantes às do surgimento de estados primitivos.",
+    "option_b": "as limitações da autoridade em uma sociedade indígena de caçadores-coletores igualitários.",
+    "option_c": "um chefe simples ou talvez um chefe complexo havia evoluído por volta de 1500 d.C.",
+    "option_d": "um centro de civilização Mississippiana com condições semelhantes às sociedades da Costa Noroeste da América do Norte.",
+    "answer": "A",
+    "id": "prehistory/dev/1"
+  },
+  {
+    "instruction": "Para se tornar assegurado, uma ameaça deve ser apresentada de que maneira?",
+    "option_a": "Como uma ameaça existencial que exige ação imediata e extraordinária, representando uma ameaça à sobrevivência do Estado ou à segurança da sociedade.",
+    "option_b": "Como exigindo ação imediata e extraordinária pelo Estado, ameaçando a sobrevivência de um objeto referencial e, portanto, justificando o uso de medidas normalmente não empregadas no âmbito político.",
+    "option_c": "Como uma ameaça urgente à sobrevivência do objeto referencial, tão séria que legitima o emprego de ação extraordinária em resposta.",
+    "option_d": "Como uma ameaça urgente à sobrevivência da audiência que requer medidas extraordinárias ou de emergência.",
+    "answer": "C",
+    "id": "security_studies/dev/2"
+  },
+  {
+    "instruction": "Para além do caso de negócio para se envolver em CSR, existem vários argumentos morais relacionados com: ______ negativos, o ________ que as corporações possuem e a ________ entre os negócios e a sociedade.",
+    "option_a": "Externalidades, Poder, Independência",
+    "option_b": "Publicidade, Recursos insuficientes, Dependência mútua",
+    "option_c": "Publicidade, Poder, Independência",
+    "option_d": "Externalidades, Poder, Dependência mútua",
+    "answer": "D",
+    "id": "business_ethics/dev/0"
+  },
+  {
+    "instruction": "Uma mulher saudável de 32 anos de idade vem ao médico oito meses depois que o marido morreu em um acidente de carro. Desde então, ela tem tido diminuição do apetite e dificuldade para dormir. Ela afirma estar frequentemente triste e chorar com frequência. Ela esteve verificando a fechadura da porta cinco vezes antes de sair de casa e precisa contar exatamente cinco pedaços de papel higiênico antes de usá-lo. Ela diz que sempre foi uma perfeccionista, mas esses impulsos e rituais são novos. A farmacoterapia deve ser direcionada para qual dos seguintes neurotransmissores?",
+    "option_a": "Dopamina",
+    "option_b": "Glutamato",
+    "option_c": "Norepinefrina",
+    "option_d": "Serotonina",
+    "answer": "D",
+    "id": "professional_medicine/dev/2"
+  },
+  {
+    "instruction": "Selecione a melhor tradução em lógica de predicados: Nenhuma pessoa dirige em Marte.",
+    "option_a": "~Pd",
+    "option_b": "(∀x)(Px ∨ ~Dx)",
+    "option_c": "(∀x)(Px ⊃ ~Dx)",
+    "option_d": "~Dp",
+    "answer": "C",
+    "id": "formal_logic/dev/0"
+  },
+  {
+    "instruction": "Como Donald Trump atacou a globalização na campanha de 2016?",
+    "option_a": "A globalização tinha enriquecido homens como ele demais",
+    "option_b": "A globalização beneficiava apenas determinados estados americanos, como Nova York",
+    "option_c": "As elites liberais incentivaram a globalização, enquanto os 'americanos comuns' perderam empregos por causa dela",
+    "option_d": "A globalização incentivou guerras comerciais danosas",
+    "answer": "C",
+    "id": "us_foreign_policy/dev/4"
+  },
+  {
+    "instruction": "O objetivo mais importante de uma intervenção comportamental é:",
+    "option_a": "Mudança de comportamento",
+    "option_b": "Cobertura abrangente",
+    "option_c": "Uso efetivo da teoria comportamental",
+    "option_d": "Mudança de comportamento sustentada",
+    "answer": "D",
+    "id": "virology/dev/3"
+  },
+  {
+    "instruction": "Um tubo cheio de ar é fechado em uma extremidade. Uma onda estacionária é produzida no tubo, fazendo com que o tubo produza um som. Qual das seguintes afirmações é correta sobre as propriedades da onda na extremidade fechada do tubo?",
+    "option_a": "A pressão está em um nó, mas o deslocamento de partículas está em um antinó.",
+    "option_b": "A pressão está em um antinó, mas o deslocamento de partículas está em um nó.",
+    "option_c": "A pressão e o deslocamento de partículas estão em nós.",
+    "option_d": "A pressão e o deslocamento de partículas estão em antinós.",
+    "answer": "B",
+    "id": "high_school_physics/dev/1"
+  },
+  {
+    "instruction": "Um fator chave que facilitou a aplicação de estudos de caso-controle aninhados do MACS foi:",
+    "option_a": "Coleta de dados",
+    "option_b": "Estabelecimento de um repositório de espécimes biológicos",
+    "option_c": "Interesse do participante",
+    "option_d": "Administração do questionário pela equipe",
+    "answer": "B",
+    "id": "virology/dev/2"
+  },
+  {
+    "instruction": "Grandes expansões de repetição de trinucleotídeos podem ser detectadas por:",
+    "option_a": "reação em cadeia da polimerase.",
+    "option_b": "análise de polimorfismo de conformação de fita simples.",
+    "option_c": "blotting de Southern.",
+    "option_d": "blotting de Western.",
+    "answer": "C",
+    "id": "medical_genetics/dev/0"
+  },
+  {
+    "instruction": "Glicólise é o nome dado ao caminho envolvendo a conversão de:",
+    "option_a": "glicogênio em glucose-1-fosfato.",
+    "option_b": "glicogênio ou glicose em frutose.",
+    "option_c": "glicogênio ou glicose em piruvato ou lactato.",
+    "option_d": "glicogênio ou glicose em piruvato ou acetil CoA.",
+    "answer": "C",
+    "id": "clinical_knowledge/dev/4"
+  },
+  {
+    "instruction": "Suponha que X e Y são variáveis aleatórias com E(X) = 37, var(X) = 5, E(Y) = 62 e var(Y) = 12. Qual é o valor esperado e a variância da variável aleatória X + Y?",
+    "option_a": "E(X + Y) = 99, var(X + Y) = 8.5",
+    "option_b": "E(X + Y) = 99, var(X + Y) = 13",
+    "option_c": "E(X + Y) = 99, var(X + Y) = 17",
+    "option_d": "Não há informações suficientes para responder a esta pergunta.",
+    "answer": "D",
+    "id": "high_school_statistics/dev/1"
+  },
+  {
+    "instruction": "Quais são os quadros de análise nos quais o terrorismo tem sido considerado (a partir de 2020)?",
+    "option_a": "A competição entre nações maiores resultou em alguns países apoiando ativamente grupos terroristas para minar a força dos estados rivais. As redes terroristas são clubes de patronagem extendidos mantidos e pagos pelos seus estados doadores e são conceituados como sendo como atores do estado, a serem tratados usando a força militar.",
+    "option_b": "A globalização permitiu a internacionalização das atividades terroristas ao abrir o seu espaço operacional, embora a coordenação ainda seja gerida a partir de uma base geográfica. Isso sugere que os grupos terroristas são nacionalmente estruturados, o que significa que o terrorismo não pode ser considerado em termos de uma guerra a ser derrotada militarmente sem ter graves implicações sobre a população indígena.",
+    "option_c": "O terrorismo pode ser visto como um problema a ser resolvido por meios militares (guerra ao terrorismo), por técnicas policiais normais (terrorismo como crime), ou como um problema médico com causas e sintomas subjacentes (terrorismo como doença).",
+    "option_d": "O terrorismo é visto como um problema criminal. A criminalização do terrorismo tem duas implicações importantes. Em primeiro lugar, sugere que o terrorismo pode ser erradicado - os terroristas podem ser presos e levados a julgamento pelos procedimentos judiciais normais, removendo assim a ameaça da sociedade - e, em segundo lugar, sugere que técnicas de prevenção do crime são aplicáveis para prevenir o seu desenvolvimento.",
+    "answer": "C",
+    "id": "security_studies/dev/4"
+  },
+  {
+    "instruction": "O juiz tomou conhecimento judicial de alguns fatos no início do julgamento. Qual das seguintes categorias de fato não é apropriada para o conhecimento judicial?",
+    "option_a": "Fatos indiscutíveis.",
+    "option_b": "Fatos que foram afirmados por organizações políticas individuais.",
+    "option_c": "Fatos reconhecidos verdadeiros pelo conhecimento comum.",
+    "option_d": "Fatos capazes de verificação científica.",
+    "answer": "B",
+    "id": "professional_law/dev/2"
+  },
+  {
+    "instruction": "Qual é a capacidade craniana média aproximada do Homo erectus?",
+    "option_a": "abaixo de 650 cc",
+    "option_b": "cerca de 800 cc",
+    "option_c": "um pouco menos de 1000 cc",
+    "option_d": "1200 cc",
+    "answer": "C",
+    "id": "prehistory/dev/4"
+  },
+  {
+    "instruction": "Pesquisa recente sobre a datação de espécies de hominídeos do Plioceno Médio indica que havia (em 2020):",
+    "option_a": "uma grande quantidade de diversidade de espécies ou uma única espécie que exibia muita diversidade.",
+    "option_b": "muito pouca diversidade de espécies durante esse período e poucos hominídeos.",
+    "option_c": "diminuição da diversidade de espécies devido a uma prolongada era glacial seguida de uma seca severa.",
+    "option_d": "diminuição da diversidade de espécies, mas um aumento no número de martelos e lascas, indicando a fabricação de ferramentas de pedra.",
+    "answer": "A",
+    "id": "prehistory/dev/3"
+  },
+  {
+    "instruction": "O estágio da meiose em que cromossomos se pareiam e sofrem permutação é:",
+    "option_a": "prófase I",
+    "option_b": "metáfase I",
+    "option_c": "prófase II",
+    "option_d": "metáfase II",
+    "answer": "A",
+    "id": "medical_genetics/dev/4"
+  },
+  {
+    "instruction": "Esta pergunta refere-se às seguintes informações.\nEmbora a Majestade do rei seja justa e corretamente o chefe supremo da Igreja da Inglaterra e seja reconhecida pelo clero deste reino em suas convocações, contudo, para corroborar e confirmar essa ideia e aumentar a virtude da religião de Cristo dentro deste reino da Inglaterra, e para reprimir e extirpar todos os erros, heresias e outras enormidades e abusos utilizados anteriormente no mesmo, seja promulgado, por autoridade deste presente parlamento, que o rei, nosso soberano senhor, seus herdeiros e sucessores, reis deste reino, serão considerados, aceitos e reputados como o único cabeça supremo na terra da Igreja da Inglaterra, chamada Anglicans Ecclesia; e terão e desfrutarão, anexadas e unidas à coroa imperial deste reino, tanto o título e estilo deste, quanto todas as honras, dignidades, preeminências, jurisdições, privilégios, autoridades, imunidades, lucros e benefícios que pertencem e dizem respeito à dignidade do cabeça supremo da mesma Igreja; e que nosso soberano senhor, seus herdeiros e sucessores, reis deste reino, terão pleno poder e autoridade para visitar, reprimir, reparar, gravar, ordenar, corrigir, restringir e emendar quaisquer erros, heresias, abusos, ofensas, desprezos e enormidades, quaisquer que sejam, que devem ou podem ser legalmente reformadas, reprimidas, ordenadas, reparadas, corrigidas, restringidas ou emendadas por qualquer tipo de autoridade ou jurisdição espiritual, mais para o prazer do Todo-Poderoso Deus, o aumento da virtude na religião de Cristo e para a conservação da paz, unidade e tranquilidade deste reino; qualquer uso, terra estrangeira, autoridade estrangeira, prescrição ou qualquer outra coisa em contrário, não obstante.\nParlamento Inglês, Ato de Supremacia, 1534\n A partir do texto, pode-se inferir que o Parlamento Inglês desejava argumentar que o Ato de Supremacia iria",
+    "option_a": "dar ao rei inglês uma nova posição de autoridade",
+    "option_b": "dar a posição de cabeça da Igreja da Inglaterra apenas a Henrique VIII e excluir seus herdeiros",
+    "option_c": "estabelecer o calvinismo como a única verdadeira teologia na Inglaterra",
+    "option_d": "acabar com diversas formas de corrupção que afligiam a Igreja na Inglaterra",
+    "answer": "D",
+    "id": "high_school_european_history/dev/4"
+  },
+  {
+    "instruction": "A pleura",
+    "option_a": "não possui inervação sensitiva.",
+    "option_b": "é separada por um espaço de 2 mm.",
+    "option_c": "se estende até o pescoço.",
+    "option_d": "é composta de epitélio respiratório.",
+    "answer": "C",
+    "id": "anatomy/dev/2"
+  },
+  {
+    "instruction": "Qual palavra resume melhor a explicação de Weber sobre o desenvolvimento da lei formalmente racional?",
+    "option_a": "Autoridade.",
+    "option_b": "Carisma.",
+    "option_c": "Cooperação.",
+    "option_d": "Capitalismo.",
+    "answer": "D",
+    "id": "jurisprudence/dev/2"
+  },
+  {
+    "instruction": "Durante a terceira fase do modelo de transição demográfica, qual das seguintes afirmações é verdadeira?",
+    "option_a": "As taxas de natalidade aumentam e a taxa de crescimento populacional é menos rápida.",
+    "option_b": "As taxas de natalidade diminuem e a taxa de crescimento populacional é menos rápida.",
+    "option_c": "As taxas de natalidade aumentam e a taxa de crescimento populacional aumenta.",
+    "option_d": "As taxas de natalidade diminuem e a taxa de crescimento populacional aumenta.",
+    "answer": "B",
+    "id": "high_school_geography/dev/1"
+  },
+  {
+    "instruction": "Qual é o medicamento de primeira linha para pacientes com diabetes tipo 2 e obesidade, até 2020?\n",
+    "option_a": "Acarbose",
+    "option_b": "Metformina",
+    "option_c": "Sulfonilureias",
+    "option_d": "Insulina",
+    "answer": "B",
+    "id": "nutrition/dev/4"
+  },
+  {
+    "instruction": "Para qual desses dois cenários o personagem principal (que usa Eu/mim/meu) faz algo claramente moralmente errado, de acordo com os padrões morais comuns nos EUA em 2020? Cenário 1 | Pedi um cigarro para o cara do lado de fora da loja. Cenário 2 | Quando o guarda de segurança saiu do posto, eu coloquei uma moeda rara no bolso.",
+    "option_a": "Errado, Errado",
+    "option_b": "Errado, Não errado",
+    "option_c": "Não errado, Errado",
+    "option_d": "Não errado, Não errado",
+    "answer": "C",
+    "id": "moral_scenarios/dev/1"
+  },
+  {
+    "instruction": "Esta pergunta refere-se à seguinte informação.\nNão venho para incentivar reivindicações pessoais, nem buscar benefícios individuais; eu apareço como defensor dos que não podem pleitear suas próprias causas; venho como amigo daqueles que são abandonados, oprimidos e desolados. Na Providência de Deus, sou a voz do maníaco cujos gritos agudos das masmorras sombrias de suas prisões não penetram em seus Halls de Legislação. Sou a Esperança dos seres pobres e enlouquecidos que definham nas celas, estábulos, gaiolas, e salas de apoio de seus asilos. Sou a Revelação de centenas de criaturas lamuriosas e sofredoras, escondidas em suas moradias particulares, e em canetas e cabanas - afastadas, isoladas de todas as influências curativas, de todos os cuidados de restauração mental... Se suas melancólicas histórias fossem expostas diante de vocês como reveladas a meu espírito aflito durante os últimos três meses, com que prontidão, com que sinceridade vocês buscariam os meios mais aprovados de alívio; quão pequenos, quão insignificantes, por comparação, pareceriam os sacrifícios que lhes são solicitados a fazer; como poucos centavos e dólares, reunidos de cada cidadão, diminuiriam em valor como uma posse, em comparação aos certos benefícios e vasto bem que se pode assegurar aos sofridos insanos... pela consagração e aplicação de um fundo suficiente para a construção de um hospital adequado.\n- Dorothea Dix, Memorial Solicitando um Hospital Estadual para Proteção e Cura dos Insanos,\nApresentado à Assembleia Geral da Carolina do Norte, novembro de 1848\nDorothea Dix pode ser melhor comparada a quem?",
+    "option_a": "Abigail Adams",
+    "option_b": "Clara Barton",
+    "option_c": "Shirley Temple",
+    "option_d": "Hillary Clinton",
+    "answer": "B",
+    "id": "high_school_us_history/dev/4"
+  },
+  {
+    "instruction": "Quais dos seguintes contêm sequências de DNA necessárias para a segregação de cromossomos na mitose e meiose?",
+    "option_a": "Telômeros",
+    "option_b": "Centrômeros",
+    "option_c": "Nucleossomos",
+    "option_d": "Espliceossomos",
+    "answer": "B",
+    "id": "college_biology/dev/4"
+  },
+  {
+    "instruction": "Qual dessas pessoas a seguir é mais provável de permanecer em casa sozinha, a partir de 2019?",
+    "option_a": "Um homem ou mulher asiático(a)",
+    "option_b": "Um homem hispânico",
+    "option_c": "Uma mulher afro-americana",
+    "option_d": "Um homem ou mulher branco(a)",
+    "answer": "C",
+    "id": "human_aging/dev/0"
+  },
+  {
+    "instruction": "Qual das seguintes condições não apresenta uma herança multifatorial?",
+    "option_a": "Estenose pilórica",
+    "option_b": "Esquizofrenia",
+    "option_c": "Espina bífida (defeitos do tubo neural)",
+    "option_d": "Síndrome de Marfan",
+    "answer": "D",
+    "id": "medical_genetics/dev/3"
+  },
+  {
+    "instruction": "Qual dos seguintes não é uma forma de formar DNA recombinante?",
+    "option_a": "Tradução",
+    "option_b": "Conjugação",
+    "option_c": "Transdução especializada",
+    "option_d": "Transformação",
+    "answer": "A",
+    "id": "high_school_biology/dev/0"
+  },
+  {
+    "instruction": "Qual característica não é uma característica-chave do modelo de gestão de 'sistemas abertos'?",
+    "option_a": "Moral",
+    "option_b": "Inovação",
+    "option_c": "Recurso de crescimento",
+    "option_d": "Adaptação",
+    "answer": "A",
+    "id": "management/dev/3"
+  },
+  {
+    "instruction": "Qual das opções a seguir lista os hidretos de elementos do grupo 14 em ordem de estabilidade térmica, do mais baixo ao mais alto?",
+    "option_a": "PbH4 < SnH4 < GeH4 < SiH4 < CH4",
+    "option_b": "PbH4 < SnH4 < CH4 < GeH4 < SiH4",
+    "option_c": "CH4 < SiH4 < GeH4 < SnH4 < PbH4",
+    "option_d": "CH4 < PbH4 < GeH4 < SnH4 < SiH4",
+    "answer": "A",
+    "id": "college_chemistry/dev/4"
+  },
+  {
+    "instruction": "Qual dos seguintes é esperado ser uma molécula polar?",
+    "option_a": "PCl4F",
+    "option_b": "BF3",
+    "option_c": "CO2",
+    "option_d": "Si(CH3)4",
+    "answer": "A",
+    "id": "high_school_chemistry/dev/1"
+  },
+  {
+    "instruction": "Qual das seguintes opções é a cavidade corporal que contém a glândula pituitária?",
+    "option_a": "Abdominal",
+    "option_b": "Craniana",
+    "option_c": "Pleural",
+    "option_d": "Espinal",
+    "answer": "B",
+    "id": "anatomy/dev/4"
+  },
+  {
+    "instruction": "De acordo com o modelo de pressão-fluxo de movimento de conteúdo do floema, o movimento de fotossintatos do suprimento até o local de consumo é impulsionado por",
+    "option_a": "uma bomba de fluxo sob pressão dependente de ATP",
+    "option_b": "um gradiente de potencial de pressão da água",
+    "option_c": "transpiração",
+    "option_d": "difusão apoplástica",
+    "answer": "B",
+    "id": "college_biology/dev/3"
+  },
+  {
+    "instruction": "Qual das seguintes afirmações melhor expressa um argumento formulado por James Madison no The Federalist número 10?",
+    "option_a": "Políticos honestos podem impedir o desenvolvimento de facções.",
+    "option_b": "As facções são mais propensas a ocorrer em repúblicas grandes do que em pequenas.",
+    "option_c": "Os efeitos negativos do sectarismo podem ser reduzidos por um governo republicano.",
+    "option_d": "Eleições livres são a melhor defesa do povo contra o sectarismo.",
+    "answer": "C",
+    "id": "high_school_government_and_politics/dev/4"
+  },
+  {
+    "instruction": "O múon decai com uma vida útil característica de cerca de 10^-6 segundos em um elétron, um neutrino do múon e um antineutrino do elétron. O múon é proibido de decair em um elétron e apenas um único neutrino pela lei da conservação do",
+    "option_a": "carga",
+    "option_b": "massa",
+    "option_c": "energia e momento",
+    "option_d": "número de léptons",
+    "answer": "D",
+    "id": "college_physics/dev/4"
+  },
+  {
+    "instruction": "Em um latch SR construído a partir de portas NOR, qual condição não é permitida",
+    "option_a": "S=0, R=0",
+    "option_b": "S=0, R=1",
+    "option_c": "S=1, R=0",
+    "option_d": "S=1, R=1",
+    "answer": "D",
+    "id": "electrical_engineering/dev/0"
+  },
+  {
+    "instruction": "Em uma máquina de corrente contínua com enrolamento em anel de duas polaridades, a resistência de um condutor é de 2Ω e o número total de condutores é 100. Encontre a resistência total",
+    "option_a": "200Ω",
+    "option_b": "100Ω",
+    "option_c": "50Ω",
+    "option_d": "10Ω",
+    "answer": "C",
+    "id": "electrical_engineering/dev/1"
+  },
+  {
+    "instruction": "Declaração 1 | Cada elemento de um grupo gera um subgrupo cíclico do grupo. Declaração 2 | O grupo simétrico S_10 tem 10 elementos.",
+    "option_a": "Verdadeiro, Verdadeiro",
+    "option_b": "Falso, Falso",
+    "option_c": "Verdadeiro, Falso",
+    "option_d": "Falso, Verdadeiro",
+    "answer": "C",
+    "id": "abstract_algebra/dev/2"
+  },
+  {
+    "instruction": "Cinco mil dólares, compostos anualmente a uma taxa de juros de $x\\%$, levam seis anos para dobrar. Com a mesma taxa de juros, quantos anos levará para $\\$300$ crescer até $\\$9600$?",
+    "option_a": "12",
+    "option_b": "1",
+    "option_c": "30",
+    "option_d": "5",
+    "answer": "C",
+    "id": "high_school_mathematics/dev/1"
+  },
+  {
+    "instruction": "O distúrbio mais comum entre homens que buscam terapia sexual é:",
+    "option_a": "ejaculação precoce",
+    "option_b": "ejaculação inibida",
+    "option_c": "disfunção erétil",
+    "option_d": "distúrbio ejaculatório",
+    "answer": "C",
+    "id": "human_sexuality/dev/4"
+  },
+  {
+    "instruction": "Um homem de 36 anos se apresenta ao consultório com uma história de 3 semanas de dor lombar. Ele nega qualquer trauma recente, mas diz que sobe e desce de sua caminhonete várias vezes ao dia devido ao seu trabalho. O exame do paciente na posição prona revela uma fenda sacral profunda do lado esquerdo, um ângulo posterior inferior lateral do lado direito e uma junção lombossacral que salta livremente na compressão. O diagnóstico mais provável é",
+    "option_a": "torsão sacral à esquerda",
+    "option_b": "torsão sacral à esquerda e à direita",
+    "option_c": "flexão sacral unilateral direita",
+    "option_d": "torsão sacral à direita",
+    "answer": "D",
+    "id": "professional_medicine/dev/1"
+  },
+  {
+    "instruction": "Em qual dinastia foi desenvolvido o \"Mandato do Céu\" para legitimar os novos governantes?",
+    "option_a": "Shang",
+    "option_b": "Zhou",
+    "option_c": "Han",
+    "option_d": "Xia",
+    "answer": "B",
+    "id": "world_religions/dev/2"
+  },
+  {
+    "instruction": "As cores em uma bolha de sabão resultam da luz",
+    "option_a": "convertida para uma frequência diferente",
+    "option_b": "deflexão",
+    "option_c": "interferência",
+    "option_d": "polarização",
+    "answer": "C",
+    "id": "conceptual_physics/dev/2"
+  },
+  {
+    "instruction": "Um óvulo fertilizado também é conhecido como",
+    "option_a": "um zigoto.",
+    "option_b": "um embrião.",
+    "option_c": "uma viabilidade.",
+    "option_d": "um blastocisto.",
+    "answer": "A",
+    "id": "moral_disputes/dev/1"
+  },
+  {
+    "instruction": "Em qual estágio do processo de planejamento seria realizada uma análise de situação?",
+    "option_a": "Definindo o programa",
+    "option_b": "Planejando o programa",
+    "option_c": "Tomando ação e implementando ideias",
+    "option_d": "Avaliação do programa",
+    "answer": "A",
+    "id": "public_relations/dev/3"
+  },
+  {
+    "instruction": "Qual é a diferença entre um cateter masculino e um cateter feminino?",
+    "option_a": "Os cateteres masculinos e femininos têm cores diferentes.",
+    "option_b": "Os cateteres masculinos são mais longos do que os cateteres femininos.",
+    "option_c": "Os cateteres masculinos são maiores do que os cateteres femininos.",
+    "option_d": "Os cateteres femininos são mais longos do que os cateteres masculinos.",
+    "answer": "B",
+    "id": "clinical_knowledge/dev/1"
+  },
+  {
+    "instruction": "_______ é a tentativa direta de gerenciar formal ou informalmente questões ou problemas éticos, por meio de políticas, práticas e programas específicos.",
+    "option_a": "Responsabilidade social corporativa",
+    "option_b": "Gestão ética em negócios",
+    "option_c": "Sustentabilidade",
+    "option_d": "Gestão ambiental",
+    "answer": "B",
+    "id": "business_ethics/dev/1"
+  },
+  {
+    "instruction": "Qual das seguintes afirmações sobre o iodo está correta em 2020?\n",
+    "option_a": "50% dos adultos consomem iodo em níveis abaixo do IDR",
+    "option_b": "Produtos lácteos são uma fonte pobre de iodo",
+    "option_c": "O teor de iodo do leite orgânico é geralmente inferior ao nível do leite não orgânico",
+    "option_d": "Os valores de referência dietética do Reino Unido recomendam um aumento na ingestão de iodo durante a gravidez",
+    "answer": "C",
+    "id": "nutrition/dev/3"
+  },
+  {
+    "instruction": "Um homem de 44 anos vai ao consultório médico devido a uma história de 3 dias de dor de garganta, tosse não produtiva, coriza e dor de cabeça frontal. Ele diz que a dor de cabeça piora de manhã e que o ibuprofeno oferece algum alívio. Ele não teve falta de ar. O histórico médico é insignificante. Ele não toma medicamentos além do ibuprofeno para dor. Os sinais vitais são temperatura 37,4°C (99,4°F), pulso 88/min, respiração 18/min e pressão arterial 120/84 mm Hg. A examinação das narinas mostra membranas mucosas eritematosas. A examinação da garganta mostra eritema e hiperplasia linfoide folicular na orofaringe posterior. Não há adenopatia cervical palpável. Os pulmões estão claros à ausculta. Qual dos seguintes é a causa mais provável dos sintomas deste paciente?",
+    "option_a": "Rinite alérgica",
+    "option_b": "Vírus Epstein-Barr",
+    "option_c": "Mycoplasma pneumoniae",
+    "option_d": "Rhinovirus",
+    "answer": "D",
+    "id": "professional_medicine/dev/3"
+  },
+  {
+    "instruction": "Um professor de ciências do ensino médio enche uma garrafa de 1 litro com nitrogênio puro e fecha a tampa. A pressão é de 1,70 atm e a temperatura ambiente é de 25°C. Quais são as duas variáveis que aumentam a pressão do sistema, se todas as outras variáveis forem mantidas constantes?",
+    "option_a": "Aumentar a temperatura, aumentar as moles de gás",
+    "option_b": "Aumentar a temperatura, aumentar o volume",
+    "option_c": "Diminuir o volume, diminuir a temperatura",
+    "option_d": "Diminuir as moles de gás, aumenta o volume",
+    "answer": "A",
+    "id": "college_medicine/dev/3"
+  },
+  {
+    "instruction": "Você está revisando trabalhos para a Conferência de Aprendizado de Máquina mais Chique do Mundo e vê submissões com as seguintes alegações. Quais você consideraria aceitar?",
+    "option_a": "Meu método alcança um erro de treinamento menor do que todos os métodos anteriores!",
+    "option_b": "Meu método alcança um erro de teste menor do que todos os métodos anteriores! (Nota de rodapé: quando o parâmetro de regularização λ é escolhido de forma a minimizar o erro de teste.)",
+    "option_c": "Meu método alcança um erro de teste menor do que todos os métodos anteriores! (Nota de rodapé: quando o parâmetro de regularização λ é escolhido de forma a minimizar o erro de validação cruzada.)",
+    "option_d": "Meu método alcança um erro de validação cruzada menor do que todos os métodos anteriores! (Nota de rodapé: quando o parâmetro de regularização λ é escolhido de forma a minimizar o erro de validação cruzada.)",
+    "answer": "C",
+    "id": "machine_learning/dev/2"
+  },
+  {
+    "instruction": "Um telescópio refrator consiste em duas lentes convergentes separadas por 100 cm. A lente ocular tem uma distância focal de 20 cm. A ampliação angular do telescópio é",
+    "option_a": "4",
+    "option_b": "5",
+    "option_c": "6",
+    "option_d": "20",
+    "answer": "A",
+    "id": "college_physics/dev/3"
+  },
+  {
+    "instruction": "De acordo com a Lei de Melhoria da Educação dos Indivíduos com Deficiências, o que uma agência educacional deve fazer antes de mudar a colocação educacional de um aluno com deficiência?",
+    "option_a": "Dar à criança um período experimental no novo ambiente",
+    "option_b": "Notificar os pais por escrito",
+    "option_c": "Obter aprovação do conselho escolar",
+    "option_d": "Obter consentimento dos pais",
+    "answer": "B",
+    "id": "high_school_psychology/dev/3"
+  },
+  {
+    "instruction": "A curva de Phillips de curto prazo indica uma",
+    "option_a": "relação direta entre desemprego e inflação",
+    "option_b": "relação direta entre preço e quantidade demandada",
+    "option_c": "relação inversa entre preço e quantidade demandada",
+    "option_d": "relação inversa entre desemprego e inflação",
+    "answer": "D",
+    "id": "high_school_macroeconomics/dev/1"
+  },
+  {
+    "instruction": "O SHA-1 tem um resumo da mensagem de",
+    "option_a": "160 bits",
+    "option_b": "512 bits",
+    "option_c": "628 bits",
+    "option_d": "820 bits",
+    "answer": "A",
+    "id": "computer_security/dev/0"
+  },
+  {
+    "instruction": "O que é produzido durante a fotossíntese?",
+    "option_a": "hidrogênio",
+    "option_b": "nylon",
+    "option_c": "oxigênio",
+    "option_d": "luz",
+    "answer": "C",
+    "id": "miscellaneous/dev/3"
+  },
+  {
+    "instruction": "Uma mutação em uma enzima bacteriana alterou um aminoácido polar anterior em um aminoácido não polar. Este aminoácido estava localizado em um local distante do sítio ativo da enzima. Como essa mutação poderia alterar a especificidade do substrato da enzima?",
+    "option_a": "Alterando o pH ótimo da enzima",
+    "option_b": "Alterando a localização da enzima na célula",
+    "option_c": "Alterando a forma da proteína",
+    "option_d": "Uma mudança de aminoácidos longe do local ativo não pode alterar a especificidade do substrato da enzima.",
+    "answer": "C",
+    "id": "high_school_biology/dev/1"
+  },
+  {
+    "instruction": "Qual das seguintes afirmações é correta (de acordo com o conhecimento em 2020)?\n",
+    "option_a": "Os consumidores com fenilcetonúria devem evitar o consumo do adoçante aspartame",
+    "option_b": "Os consumidores com fenilcetonúria devem evitar o consumo do adoçante sacarina",
+    "option_c": "Os consumidores com fenilcetonúria devem evitar o consumo do adoçante sucralose",
+    "option_d": "Os consumidores com fenilcetonúria devem evitar o consumo do adoçante acesulfame K",
+    "answer": "A",
+    "id": "nutrition/dev/1"
+  },
+  {
+    "instruction": "Qual é a saída de \"abc\"[::-1] em Python 3?",
+    "option_a": "Erro",
+    "option_b": "abc",
+    "option_c": "cba",
+    "option_d": "c",
+    "answer": "C",
+    "id": "high_school_computer_science/dev/2"
+  },
+  {
+    "instruction": "Na construção de uma equação de regressão múltipla para fins de previsão, a combinação ideal de medidas é aquela em que os preditores",
+    "option_a": "não são correlacionados entre si, mas são moderadamente correlacionados com o critério",
+    "option_b": "têm baixas correlações entre si e baixas correlações com o critério",
+    "option_c": "são altamente intercorrelacionados entre si e moderadamente correlacionados com o critério",
+    "option_d": "têm baixas correlações com o critério, mas são moderadamente correlacionados entre si",
+    "answer": "A",
+    "id": "professional_psychology/dev/4"
+  },
+  {
+    "instruction": "De acordo com Metz, qual é o problema com argumentos consequencialistas contra a pena de morte baseados em valores africanos?",
+    "option_a": "Ainda não está claro se a pena de morte impede o dano à comunidade.",
+    "option_b": "Ainda não está claro se a pena de morte impede o dano a indivíduos.",
+    "option_c": "O consequencialismo não é apoiado pelos valores africanos.",
+    "option_d": "Mesmo que o consequencialismo seja apoiado pelos valores africanos, nenhum argumento consequencialista formulado em termos de valores africanos foi oferecido.",
+    "answer": "A",
+    "id": "moral_disputes/dev/0"
+  },
+  {
+    "instruction": "Qual é a origem embriológica do osso hioide?",
+    "option_a": "O primeiro arco faríngeo",
+    "option_b": "O primeiro e segundo arcos faríngeos",
+    "option_c": "O segundo arco faríngeo",
+    "option_d": "O segundo e terceiro arcos faríngeos",
+    "answer": "D",
+    "id": "anatomy/dev/0"
+  },
+  {
+    "instruction": "Um efeito colateral esperado da suplementação de creatina é:",
+    "option_a": "fraqueza muscular.",
+    "option_b": "ganho de massa corporal.",
+    "option_c": "cãibras musculares.",
+    "option_d": "perda de eletrólitos.",
+    "answer": "B",
+    "id": "college_medicine/dev/4"
+  },
+  {
+    "instruction": "Declaração 1| Toda função de um conjunto finito em si mesmo deve ser injetora. Declaração 2| Todo subgrupo de um grupo abeliano é abeliano.",
+    "option_a": "Verdadeiro, Verdadeiro",
+    "option_b": "Falso, Falso",
+    "option_c": "Verdadeiro, Falso",
+    "option_d": "Falso, Verdadeiro",
+    "answer": "A",
+    "id": "abstract_algebra/dev/3"
+  },
+  {
+    "instruction": "Seja V o conjunto de todos os polinômios reais de p(x). Defina as transformações T e S em V por T: p(x) -> xp(x) e S: p(x) -> p'(x) = d/dx p(x) e interprete (ST)(p(x)) como S(T(p(x))). Qual das alternativas abaixo é verdadeira?",
+    "option_a": "ST = 0",
+    "option_b": "ST = T",
+    "option_c": "ST = TS",
+    "option_d": "ST - TS é o mapa identidade de V para si mesmo.",
+    "answer": "D",
+    "id": "college_mathematics/dev/0"
+  },
+  {
+    "instruction": "De acordo com o modelo de Caplan de consulta de casos centrados no consultor, o consultor está principalmente interessado em:",
+    "option_a": "identificar as causas e soluções dos problemas apresentados pelo cliente",
+    "option_b": "identificar e eliminar as causas das dificuldades do consultor em lidar com um problema",
+    "option_c": "estabelecer uma hierarquia de autoridade para permitir a tomada de decisões eficazes",
+    "option_d": "apresentar um único curso de ação bem definido e sem ambiguidade para que o consultor possa superar as deficiências de habilidades",
+    "answer": "B",
+    "id": "high_school_psychology/dev/1"
+  },
+  {
+    "instruction": "Pence compara seis casos diferentes de reprodução, desde gêmeos naturais até SCNT. Que conclusão ele tira dessa comparação?",
+    "option_a": "SCNT não é um tipo diferente de reprodução porque não há diferenças moralmente relevantes entre ela e outros meios permissíveis de reprodução.",
+    "option_b": "Devido ao baixo risco de danos nos gêmeos naturais, haverá um baixo risco de danos na SCNT.",
+    "option_c": "ambas A e B",
+    "option_d": "nem A nem B",
+    "answer": "A",
+    "id": "moral_disputes/dev/3"
+  },
+  {
+    "instruction": "Em 1º de janeiro, ano 1, Alpha Co. assinou um acordo de manutenção anual com um provedor de software no valor de $15.000. O período de manutenção começa em 1º de março, ano 2. Alpha também incorreu em $5.000 em custos relacionados a solicitações de modificação de software que aumentarão a funcionalidade do software em 1º de janeiro, ano 1. Alpha deprecia e amortiza seus ativos de computador e software ao longo de cinco anos usando o método linear. Qual é o valor total que Alpha deve reconhecer relacionado ao acordo de manutenção e as modificações de software para o ano encerrado em 31 de dezembro, ano 1?",
+    "option_a": "$5.000",
+    "option_b": "$13.500",
+    "option_c": "$16.000",
+    "option_d": "$20.000",
+    "answer": "B",
+    "id": "professional_accounting/dev/3"
+  },
+  {
+    "instruction": "A mudança da 'religião civil' para 'religião comum' significa que:",
+    "option_a": "a crescente burocracia do estado fez com que a religião se tornasse apenas uma parte marginal de nossas vidas",
+    "option_b": "apesar do enfraquecimento da autoridade tradicional, nossas vidas cotidianas e 'senso comum' ainda são moldadas por crenças e valores religiosos",
+    "option_c": "a participação religiosa no culto coletivo pode ter diminuído, mas as pessoas ainda praticam suas religiões em particular",
+    "option_d": "as pessoas são muito mais propensas a discutir suas crenças religiosas em ambientes públicos e informais",
+    "answer": "B",
+    "id": "sociology/dev/2"
+  },
+  {
+    "instruction": "Qual dos seguintes casos estabeleceu o precedente de que um réu deve ser informado do direito de permanecer em silêncio, do direito a um advogado e da proteção contra a autoincriminação?",
+    "option_a": "Semana v. Estados Unidos",
+    "option_b": "Betts v. Brady",
+    "option_c": "Mapp v. Ohio",
+    "option_d": "Miranda v. Arizona",
+    "answer": "D",
+    "id": "high_school_government_and_politics/dev/2"
+  },
+  {
+    "instruction": "Suponha que f(1 + x) = f(x) para todo x real. Se f é um polinômio e f(5) = 11, então f(15/2)",
+    "option_a": "-11",
+    "option_b": "0",
+    "option_c": "11",
+    "option_d": "33/2",
+    "answer": "C",
+    "id": "college_mathematics/dev/3"
+  },
+  {
+    "instruction": "De acordo com d'Holbach, as pessoas sempre agem de acordo com _____.",
+    "option_a": "escolhas livres",
+    "option_b": "ditames da alma",
+    "option_c": "leis naturais necessárias",
+    "option_d": "vontade indeterminada",
+    "answer": "C",
+    "id": "philosophy/dev/2"
+  },
+  {
+    "instruction": "________ é um resultado natural ao combinar variáveis ​​demográficas e geográficas.",
+    "option_a": "Geodemografia",
+    "option_b": "Diferenciação de produto.",
+    "option_c": "Matriz Ansoff.",
+    "option_d": "Gestão de marca.",
+    "answer": "A",
+    "id": "marketing/dev/0"
+  },
+  {
+    "instruction": "Qual das seguintes afirmações é verdadeira sobre correlação?",
+    "option_a": "Se a inclinação da linha de regressão for exatamente 1, então a correlação é exatamente 1.",
+    "option_b": "Se a correlação for 0, então a inclinação da linha de regressão é indefinida.",
+    "option_c": "Inverter qual variável é chamada de x e qual é chamada de y muda o sinal da correlação.",
+    "option_d": "A correlação r é igual à inclinação da linha de regressão quando os escores z para a variável y são plotados contra os escores z para a variável x.",
+    "answer": "D",
+    "id": "high_school_statistics/dev/0"
+  },
+  {
+    "instruction": "Quando 'consentimento' pode servir como circunstância que exclui a ilicitude da conduta de um Estado?",
+    "option_a": "O consentimento pode servir como circunstância que exclui a ilicitude sempre que for dado.",
+    "option_b": "O consentimento nunca pode servir como circunstância que exclui a ilicitude.",
+    "option_c": "O consentimento pode servir como circunstância que exclui a ilicitude, desde que o consentimento seja válido e na medida em que a conduta permaneça dentro dos limites do consentimento dado.",
+    "option_d": "O consentimento sempre pode servir como circunstância que exclui a ilicitude, independentemente de qual órgão do Estado o dê.",
+    "answer": "C",
+    "id": "international_law/dev/3"
+  },
+  {
+    "instruction": "Qual a metáfora para a realidade social descrita por Berger (1963)?",
+    "option_a": "um parque de diversões",
+    "option_b": "um circo",
+    "option_c": "um teatro de marionetes",
+    "option_d": "um balé",
+    "answer": "C",
+    "id": "sociology/dev/1"
+  },
+  {
+    "instruction": "Qual das seguintes opções representa uma declaração precisa sobre os artrópodes?",
+    "option_a": "Eles possuem um exoesqueleto composto principalmente por peptidoglicano.",
+    "option_b": "Eles possuem um sistema circulatório aberto com um coração dorsal.",
+    "option_c": "Eles são membros de um filo biologicamente mal-sucedido incapaz de explorar habitats e fontes de nutrição diversas.",
+    "option_d": "Eles não possuem apêndices pareados e articulados.",
+    "answer": "B",
+    "id": "college_biology/dev/0"
+  },
+  {
+    "instruction": "Declaração 1 | Se aH é um elemento de um grupo fatorial, então |aH| divide |a|. Declaração 2 | Se H e K são subgrupos de G, então HK é um subgrupo de G.",
+    "option_a": "Verdadeiro, Verdadeiro",
+    "option_b": "Falso, Falso",
+    "option_c": "Verdadeiro, Falso",
+    "option_d": "Falso, Verdadeiro",
+    "answer": "B",
+    "id": "abstract_algebra/dev/1"
+  },
+  {
+    "instruction": "Por que não há um planeta onde está localizado o cinturão de asteroides?",
+    "option_a": "Um planeta já se formou aqui, mas foi quebrado por uma colisão catastrófica.",
+    "option_b": "Não havia material suficiente nesta parte da nebulosa solar para formar um planeta.",
+    "option_c": "Havia muito material rochoso para formar um planeta terrestre, mas não havia material gasoso suficiente para formar um planeta joviano.",
+    "option_d": "A ressonância com Júpiter impediu que o material se coletasse para formar um planeta.",
+    "answer": "D",
+    "id": "astronomy/dev/3"
+  },
+  {
+    "instruction": "O que é hacking ético?",
+    "option_a": "\"Hackear\" a ética para justificar comportamentos egoístas não intencionais",
+    "option_b": "Hackear sistemas (por exemplo, durante testes de penetração) para expor vulnerabilidades a fim de que possam ser corrigidas, em vez de exploradas",
+    "option_c": "Hackear sistemas de pessoas cuja ética você discorde",
+    "option_d": "Um termo informal para desenvolvimento rápido de software, por exemplo, como parte de hackathons",
+    "answer": "B",
+    "id": "computer_security/dev/2"
+  },
+  {
+    "instruction": "Nas células animais, qual dos seguintes representa o caminho mais provável que uma proteína secretória percorre durante a síntese de uma célula?",
+    "option_a": "Membrana plasmática - Aparelho de golgi - Ribossomo - Vesícula secretória - Retículo endoplasmático rugoso",
+    "option_b": "Ribossomo - Aparelho de golgi - Retículo endoplasmático rugoso - Vesícula secretória - Membrana plasmática",
+    "option_c": "Membrana plasmática - Aparelho de golgi - Ribossomo - Vesícula secretória - Retículo endoplasmático rugoso",
+    "option_d": "Ribossomo - Retículo endoplasmático rugoso - Aparelho de golgi - Vesícula secretória - Membrana plasmática",
+    "answer": "D",
+    "id": "high_school_biology/dev/2"
+  },
+  {
+    "instruction": "Uma amostra de 0,217 g de HgO (massa molar = 217 g) reage com excesso de íons iodeto de acordo com a reação mostrada acima. A titulação da solução resultante requer quantos mL de HCl 0,10 M para atingir o ponto de equivalência?",
+    "option_a": "1,0 mL",
+    "option_b": "10 mL",
+    "option_c": "20 mL",
+    "option_d": "50 mL",
+    "answer": "C",
+    "id": "college_chemistry/dev/1"
+  },
+  {
+    "instruction": "Qual das seguintes afirmações NÃO é precisa com relação aos serviços fornecidos pelos governos locais nos Estados Unidos?",
+    "option_a": "A duplicação de esforços ocorre frequentemente.",
+    "option_b": "Os problemas sociais da cidade central transbordam para os subúrbios residenciais circundantes.",
+    "option_c": "A ineficiência na prestação de serviços ocorre com frequência.",
+    "option_d": "Os esforços de um bairro para reduzir a poluição são sempre apoiados pelas comunidades vizinhas.",
+    "answer": "D",
+    "id": "high_school_geography/dev/2"
+  },
+  {
+    "instruction": "Uma lista de números tem n elementos, indexados de 1 a n. O seguinte algoritmo destina-se a exibir o número de elementos na lista que têm um valor maior que 100. O algoritmo utiliza as variáveis contagem e posição. As etapas 3 e 4 estão faltando. \n Etapa 1: Defina contagem como 0 e posição como 1. \n Etapa 2: Se o valor do elemento no índice da posição for maior que 100, aumente o valor da contagem em 1. \n Etapa 3: (etapa faltando) \n Etapa 4: (etapa faltando) \n Etapa 5: Exibir o valor da contagem. \n Qual das seguintes opções poderia ser usada para substituir as etapas 3 e 4 para que o algoritmo funcione conforme o previsto?",
+    "option_a": "Etapa 3: Aumente o valor da posição em 1. \n Etapa 4: Repita as etapas 2 e 3 até que o valor da contagem seja maior que 100.",
+    "option_b": "Etapa 3: Aumente o valor da posição em 1. \n Etapa 4: Repita as etapas 2 e 3 até que o valor da posição seja maior que n.",
+    "option_c": "Etapa 3: Repita a etapa 2 até que o valor da contagem seja maior que 100. \n Etapa 4: Aumente o valor da posição em 1.",
+    "option_d": "Etapa 3: Repita a etapa 2 até que o valor da posição seja maior que n. \n Etapa 4: Aumente o valor da contagem em 1.",
+    "answer": "D",
+    "id": "high_school_computer_science/dev/4"
+  },
+  {
+    "instruction": "Qual dos seguintes é uma característica morfológica dos paramixovírus?",
+    "option_a": "Vírus frágeis frequentemente visualizados com RNA jorrando do interior",
+    "option_b": "Vírus alongados",
+    "option_c": "Vírus icosaédricos com envelope",
+    "option_d": "Vírus muito grandes",
+    "answer": "A",
+    "id": "virology/dev/1"
+  },
+  {
+    "instruction": "Carl Jung acreditava que a transferência do cliente:",
+    "option_a": "é uma fantasia que distrai o cliente da realidade.",
+    "option_b": "representa \"sentimentos mistos\" em relação ao terapeuta.",
+    "option_c": "\"é uma forma de 'ato falho'.\"",
+    "option_d": "reflete o inconsciente pessoal e coletivo do cliente.",
+    "answer": "D",
+    "id": "professional_psychology/dev/3"
+  },
+  {
+    "instruction": "O ____________ é qualquer coisa que seu mecanismo de busca não pode pesquisar.",
+    "option_a": "Web assombrada",
+    "option_b": "World Wide Web",
+    "option_c": "Web superficial",
+    "option_d": "Web Profunda",
+    "answer": "D",
+    "id": "computer_security/dev/4"
+  },
+  {
+    "instruction": "Qual das seguintes expressões regulares é equivalente a (descreve o mesmo conjunto de strings que) (a* + b)*(c + d)?",
+    "option_a": "a*(c + d)+ b(c + d)",
+    "option_b": "a*(c + d)* + b(c + d)*",
+    "option_c": "a*(c + d)+ b*(c + d)",
+    "option_d": "(a + b)*c +(a + b)*d",
+    "answer": "D",
+    "id": "college_computer_science/dev/0"
+  },
+  {
+    "instruction": "Qual elemento da fumaça do tabaco é responsável pelos cânceres?",
+    "option_a": "Nicotina",
+    "option_b": "Alcatrão",
+    "option_c": "Monóxido de carbono",
+    "option_d": "Partículas de fumaça",
+    "answer": "B",
+    "id": "human_aging/dev/3"
+  },
+  {
+    "instruction": "Uma célula fotoelétrica de função trabalho ϕ = 2eV é conectada a um resistor em série. A luz de frequência f = 1 × 10^15 Hz atinge uma placa metálica da célula fotoelétrica. Se a potência da luz é P = 100 W, qual é a corrente através do resistor?",
+    "option_a": "2:00 da manhã",
+    "option_b": "6:00 da manhã",
+    "option_c": "12:00 da manhã",
+    "option_d": "24 A",
+    "answer": "D",
+    "id": "high_school_physics/dev/2"
+  },
+  {
+    "instruction": "Um pólo de ponto tem uma força de 4π * 10^-4 webers. A força em newtons em um pólo de ponto de 4π * 1,5 * 10^-4 webers colocado a uma distância de 10 cm dele será",
+    "option_a": "15 N.",
+    "option_b": "20 N.",
+    "option_c": "7,5 N.",
+    "option_d": "3.75 N.",
+    "answer": "A",
+    "id": "electrical_engineering/dev/4"
+  },
+  {
+    "instruction": "Por que os parvovírus são um parasita altamente impactante?",
+    "option_a": "Porque eles não possuem ácido nucleico",
+    "option_b": "Eles requerem um vírus auxiliar",
+    "option_c": "Somente se replicam em células em divisão",
+    "option_d": "Podem integrar-se aos cromossomos do hospedeiro",
+    "answer": "A",
+    "id": "virology/dev/0"
+  },
+  {
+    "instruction": "A população da cidade onde Michelle nasceu é 145.826. Qual é o valor do 5 no número 145.826?",
+    "option_a": "5 milhares",
+    "option_b": "5 centenas",
+    "option_c": "5 dezenas",
+    "option_d": "5 unidades",
+    "answer": "A",
+    "id": "elementary_mathematics/dev/0"
+  },
+  {
+    "instruction": "Como o consentimento de um Estado pode ser expresso para ser vinculado?",
+    "option_a": "O consentimento de um Estado para ser vinculado é expresso apenas pela ratificação",
+    "option_b": "O consentimento de um estado em ser vinculado por um tratado pode ser expresso por assinatura, ratificação, aceitação, aprovação ou adesão",
+    "option_c": "O consentimento de um Estado para ser vinculado é expresso por assinatura",
+    "option_d": "O consentimento de um Estado para ser vinculado é expresso por qualquer meio que escolherem",
+    "answer": "B",
+    "id": "international_law/dev/4"
+  },
+  {
+    "instruction": "Considere um projeto de computador no qual vários processadores, cada um com uma memória cache privada, compartilham uma memória global usando um único barramento. Este barramento é o recurso crítico do sistema. Cada processador pode executar uma instrução a cada 500 nanossegundos, desde que as referências de memória sejam satisfeitas por sua cache local. Quando ocorre uma falha de cache, o processador é atrasado por 2.000 nanossegundos adicionais. Durante metade desse atraso adicional, o barramento é dedicado a atender a falha de cache. Durante a outra metade, o processador não pode continuar, mas o barramento está livre para atender solicitações de outros processadores. Em média, cada instrução requer 2 referências de memória. Em média, falhas de cache ocorrem em 1 por cento das referências. Qual proporção da capacidade do barramento seria consumida por um único processador, ignorando atrasos devido à concorrência de outros processadores?",
+    "option_a": "1/50",
+    "option_b": "1/27",
+    "option_c": "1/25",
+    "option_d": "2/27",
+    "answer": "B",
+    "id": "college_computer_science/dev/4"
+  },
+  {
+    "instruction": "Olívia usou a regra \"Adicionar 11\" para criar o padrão numérico mostrado abaixo. 10, 21, 32, 43, 54 Qual das afirmações sobre o padrão numérico é verdadeira?",
+    "option_a": "O décimo número no padrão será um número par.",
+    "option_b": "O padrão numérico nunca terá dois números pares consecutivos.",
+    "option_c": "Os próximos dois números no padrão serão um número par seguido por um número ímpar.",
+    "option_d": "Se o padrão numérico começasse com um número ímpar, então o padrão teria apenas números ímpares.",
+    "answer": "B",
+    "id": "elementary_mathematics/dev/1"
+  },
+  {
+    "instruction": "Esta pergunta se refere às seguintes informações. \n\"Como nossa conduta recente no Conestoga Manor e em Lancaster tem causado muita especulação e grande diversidade de opiniões neste e nos governos vizinhos, alguns defendendo e outros condenando-a, alguns aliviando caridosamente o crime e outros pintando-o maliciosamente nas cores mais odiosas e detestáveis, achamos nosso dever expor ao público todo o assunto como apareceu, e ainda aparece, para nós. . . . \n\"Se essas coisas não são suficientes para provar um apego injustificável dos Queakers aos índios selvagens, uma resolução fixa de favorecê-los e uma insensibilidade total às angústias humanas, vamos considerar alguns fatos mais recentes. Quando descobrimos no verão passado que provavelmente não obteríamos ajuda do governo, alguns voluntários saíram por nossa própria despesa, determinados a expulsar nossos inimigos de nossas fronteiras; e quando chegamos perto da grande ilha, soubemos que um número de seus guerreiros havia saído contra nossas fronteiras. Com base nisso, voltamos e os encontramos e lutamos com eles na colina de Munfey, onde perdemos alguns de nossos homens e matamos alguns de seus guerreiros e salvamos nossas fronteiras dessa história em outra expedição. Mas assim que destruímos suas provisões na grande ilha e arruinamos seu comércio com as boas pessoas em Belém, esses mesmos índios, suspeitosamente acusados de terem assassinado nossos amigos no condado de Northampton, foram protegidos pelo governo pela influência de alguns queakers para protegê-los dos ressentimentos de amigos e familiares dos mortos e apoiá-los no inverno.\"\n—\"Apologia dos meninos de Paxton\" (panfleto), 1764 (Nota: \"apologia\" neste contexto deve ser lido como uma explicação, não como uma admissão de culpa ou arrependimento.)\nOs sentimentos expressos na explicação acima refletem qual das tensões contínuas durante o período colonial da história americana?",
+    "option_a": "Tensões entre políticas britânicas e aspirações dos colonos norte-americanos.",
+    "option_b": "Tensões entre índios americanos aliados dos franceses e aqueles aliados dos britânicos.",
+    "option_c": "Tensões entre afro-americanos livres e plantadores brancos.",
+    "option_d": "Tensões entre os colonos do interior e as elites dentro da América colonial.",
+    "answer": "D",
+    "id": "high_school_us_history/dev/1"
+  },
+  {
+    "instruction": "Qual expressão é equivalente a 5 x 9?",
+    "option_a": "(5 x 4) x (6 x 5)",
+    "option_b": "(5 x 5) + (5 x 4)",
+    "option_c": "(5 x 5) + (5 x 9)",
+    "option_d": "(5 x 9) x (6 x 9)",
+    "answer": "B",
+    "id": "elementary_mathematics/dev/4"
+  },
+  {
+    "instruction": "A incerteza sobre os limites do poder presidencial é causada principalmente pelo fato de que",
+    "option_a": "a definição constitucional desses poderes é ampla e não específica",
+    "option_b": "a maioria das pessoas concorda que a Constituição impõe muitos limites ao poder presidencial",
+    "option_c": "a Suprema Corte consistentemente se recusa a decidir casos relacionados aos poderes presidenciais",
+    "option_d": "as emendas constitucionais aumentaram grandemente os poderes presidenciais",
+    "answer": "A",
+    "id": "high_school_government_and_politics/dev/0"
+  },
+  {
+    "instruction": "Qual dos seguintes não é um problema associado às estatísticas oficiais sobre greves?",
+    "option_a": "a maioria das greves passa despercebida pelos empregadores e pela mídia em massa",
+    "option_b": "nem todas as disputas industriais serão relatadas pelo empregador",
+    "option_c": "a definição de greves exclui aquelas que envolvem menos de dez trabalhadores ou duram menos de um dia",
+    "option_d": "é difícil comparar greves que foram medidas de maneiras diferentes",
+    "answer": "A",
+    "id": "sociology/dev/4"
+  },
+  {
+    "instruction": "Uma mulher que sabe que tem herpes ativo e sífilis não tratada, mas continua a ter relações sexuais sem informar seus parceiros sobre sua condição, tem, em termos psicanalíticos:",
+    "option_a": "um ego forte",
+    "option_b": "um superego fraco",
+    "option_c": "um id fraco",
+    "option_d": "um superego forte",
+    "answer": "B",
+    "id": "human_sexuality/dev/1"
+  },
+  {
+    "instruction": "Qual das seguintes afirmações sobre departamentos do gabinete é FALSA?",
+    "option_a": "Eles são estabelecidos pelo poder legislativo.",
+    "option_b": "Seus membros frequentemente não têm muita influência sobre as decisões presidenciais.",
+    "option_c": "Todos não podem ser administrados por líderes que pertencem ao mesmo partido político do presidente.",
+    "option_d": " Nem todas as agências federais são departamentos do gabinete.",
+    "answer": "C",
+    "id": "high_school_government_and_politics/dev/3"
+  },
+  {
+    "instruction": "Selecione a melhor interpretação em inglês dos argumentos dados na lógica proposicional.\nDm\n(∀x)(Wx ⊃ ~Dx)\n(∀x)Wx ∨ Ag\t/ (∃x)Ax",
+    "option_a": "Marina é uma dançarina. Alguns fracos não são dançarinos. Ou tudo é fraco ou Georgia joga vôlei. Então algo joga vôlei.",
+    "option_b": "Marina é uma dançarina. Nenhum fraco é dançarino. Tudo é ou um fraco ou joga vôlei. Então algo joga vôlei.",
+    "option_c": "Marina é uma dançarina. Alguns fracos não são dançarinos. Tudo é ou um fraco ou joga vôlei. Então algo joga vôlei.",
+    "option_d": "Marina é uma dançarina. Nenhum fraco é dançarino. Ou tudo é fraco ou Georgia joga vôlei. Então algo joga vôlei.",
+    "answer": "D",
+    "id": "formal_logic/dev/2"
+  },
+  {
+    "instruction": "A bobina de um medidor de bobina móvel tem 100 voltas, tem 40 mm de comprimento e 30 mm de largura. O torque de controle é de 240 * 10-6 N-m na escala total. Se a densidade de fluxo magnético for de 1 Wb / m2, a faixa do medidor é",
+    "option_a": "1 mA.",
+    "option_b": "2 mA.",
+    "option_c": "3 mA.",
+    "option_d": "4 mA.",
+    "answer": "B",
+    "id": "electrical_engineering/dev/2"
+  },
+  {
+    "instruction": "Uma certa máquina RISC pipeline possui 8 registradores de propósito geral R0, R1, ..., R7 e suporta as seguintes operações.\nADD Rs1, Rs2, Rd Adicione Rs1 a Rs2 e coloque a soma em Rd\nMUL Rs1, Rs2, Rd Multiplique Rs1 por Rs2 e coloque o produto em Rd\nUma operação normalmente leva um ciclo de clock, no entanto, uma operação leva dois ciclos de clock se produzir um resultado exigido pela operação imediatamente seguinte em uma sequência de operação. Considere a expressão AB + ABC + BC, onde as variáveis A, B, C estão localizadas nos registradores R0, R1, R2. Se o conteúdo desses três registradores não deve ser modificado, qual é o número mínimo de ciclos de clock necessários para uma sequência de operações que calcula o valor de AB + ABC + BC?",
+    "option_a": "5",
+    "option_b": "6",
+    "option_c": "7",
+    "option_d": "8",
+    "answer": "B",
+    "id": "college_computer_science/dev/1"
+  },
+  {
+    "instruction": "Por que Marte é vermelho?",
+    "option_a": "Porque a superfície está coberta com minerais fortemente oxidados (\"enferrujados\").",
+    "option_b": "Porque a atmosfera dispersa mais luz em comprimentos de onda mais azuis transmitindo principalmente luz vermelha.",
+    "option_c": "Porque Marte está coberto com fluxos de lava antigos que são vermelhos na cor.",
+    "option_d": "Porque a água corrente na superfície de Marte alterou os minerais da superfície há vários bilhões de anos.",
+    "answer": "A",
+    "id": "astronomy/dev/4"
+  },
+  {
+    "instruction": "O que deve fazer um profissional de relações públicas se não souber a resposta a uma pergunta do repórter?",
+    "option_a": "Dar ao repórter outras informações que estejam certas.",
+    "option_b": "Dizer que a informação é 'off the record' e será divulgada mais tarde.",
+    "option_c": "Dizer 'Não sei' e prometer fornecer a informação mais tarde.",
+    "option_d": "Dizer 'sem comentários' em vez de parecer desinformado.",
+    "answer": "C",
+    "id": "public_relations/dev/0"
+  },
+  {
+    "instruction": "O padrão de projeto Singleton é usado para garantir que apenas uma única instância de uma classe possa ser instanciada. Quais dos seguintes são verdadeiros sobre esse padrão de design?\nI. A classe Singleton possui um método de fábrica estático para fornecer sua instância.\nII. A classe Singleton pode ser uma subclasse de outra classe.\nIII. A classe Singleton tem um construtor privado.",
+    "option_a": "Apenas I",
+    "option_b": "Apenas II",
+    "option_c": "Apenas III",
+    "option_d": "I, II e III",
+    "answer": "D",
+    "id": "college_computer_science/dev/2"
+  },
+  {
+    "instruction": "Qual é a diferença entre o Realismo Defensivo e o Realismo Ofensivo na explicação do comportamento dos Estados?",
+    "option_a": "Os realistas defensivos dão maior ênfase ao papel das instituições internacionais",
+    "option_b": "Os realistas defensivos dão menos ênfase aos fatores geográficos",
+    "option_c": "Os realistas ofensivos dão maior prioridade ao interesse nacional do que os realistas defensivos.",
+    "option_d": "Os realistas defensivos acreditam que os Estados maximizam sua segurança, enquanto os realistas ofensivos acreditam que os Estados maximizam seu poder.",
+    "answer": "D",
+    "id": "us_foreign_policy/dev/3"
+  },
+  {
+    "instruction": "Um auditor rastreia os números de série do equipamento até um subledger de um não emissor. Qual das seguintes afirmações gerenciais é suportada por este teste?",
+    "option_a": "Valoração e alocação",
+    "option_b": "Completude",
+    "option_c": "Direitos e obrigações",
+    "option_d": "Apresentação e divulgação",
+    "answer": "B",
+    "id": "professional_accounting/dev/4"
+  },
+  {
+    "instruction": "Suponha que a pupila do seu olho tenha um diâmetro de 5 mm e você tenha um telescópio com uma abertura de 50 cm. Quanta mais luz o telescópio pode capturar do que seu olho?",
+    "option_a": "10000 vezes mais",
+    "option_b": "100 vezes mais",
+    "option_c": "1000 vezes mais",
+    "option_d": "10 vezes mais",
+    "answer": "A",
+    "id": "astronomy/dev/2"
+  },
+  {
+    "instruction": "As estruturas homólogas são frequentemente citadas como evidência para o processo de seleção natural. Todos os itens a seguir são exemplos de estruturas homólogas, EXCETO",
+    "option_a": "as asas de um pássaro e as asas de um morcego",
+    "option_b": "as nadadeiras de uma baleia e os braços de um homem",
+    "option_c": "as barbatanas peitorais de um golfinho e as nadadeiras de uma foca",
+    "option_d": "as patas dianteiras de um inseto e os membros dianteiros de um cão",
+    "answer": "D",
+    "id": "high_school_biology/dev/4"
+  },
+  {
+    "instruction": "Qual dos seguintes pares de afirmações são verdadeiros (a partir de 2019)?",
+    "option_a": "As pessoas tendem a ser otimistas em relação ao seu próprio futuro e ao futuro de sua nação ou do mundo.",
+    "option_b": "As pessoas tendem a ser otimistas em relação ao seu próprio futuro, mas pessimistas em relação ao futuro de sua nação ou do mundo.",
+    "option_c": "As pessoas tendem a ser pessimistas em relação ao seu próprio futuro, mas otimistas em relação ao futuro de sua nação ou do mundo.",
+    "option_d": "As pessoas tendem a ser pessimistas em relação ao seu próprio futuro e ao futuro de sua nação ou do mundo.",
+    "answer": "B",
+    "id": "global_facts/dev/0"
+  },
+  {
+    "instruction": "Um tanque contém inicialmente uma solução salina de 3 gramas de sal dissolvidos em 100 litros de água. Uma solução salina contendo 0,02 gramas de sal por litro de água é pulverizada no tanque a uma taxa de 4 litros por minuto. A solução pulverizada é continuamente misturada com a solução salina no tanque e a mistura flui para fora do tanque a uma taxa de 4 litros por minuto. Se a mistura for instantânea, quantos gramas de sal estarão presentes no tanque após 100 minutos?",
+    "option_a": "2",
+    "option_b": "2 - e^-2",
+    "option_c": "2 + e^-2",
+    "option_d": "2 + e^-4",
+    "answer": "D",
+    "id": "college_mathematics/dev/1"
+  },
+  {
+    "instruction": "Um dos seus clientes de terapia pede-lhe conselhos sobre um bom programa de redução de peso. Você investigou os programas na comunidade e está matriculado no que considera o melhor. Este programa oferece um bônus de US$50 para seus clientes para cada nova pessoa que eles trazem para o programa. Nessas circunstâncias, a sua resposta mais apropriada seria",
+    "option_a": "informar ao seu cliente os prós e contras de cada programa que você conhece, exceto aquele em que você está matriculado",
+    "option_b": "recomendar ao seu cliente o programa em que você está matriculado e explicar o bônus de US$50 que você receberá",
+    "option_c": "recomendar ao seu cliente o programa em que você está matriculado e oferecer creditar o bônus de US$50 na conta do seu cliente no programa",
+    "option_d": "informar ao seu cliente os prós e contras de cada programa que você conhece, mas não reivindicar o bônus de US$50 se seu cliente se matricular no seu programa",
+    "answer": "D",
+    "id": "professional_psychology/dev/0"
+  },
+  {
+    "instruction": "O que é verdadeiro sobre um piso de preços?",
+    "option_a": "O piso de preços desloca a curva de demanda para a esquerda.",
+    "option_b": "Um piso efetivo cria escassez do bem.",
+    "option_c": "O piso de preços desloca a curva de oferta do bem para a direita.",
+    "option_d": "Para ser efetivo, o piso deve ser definido acima do preço de equilíbrio.",
+    "answer": "D",
+    "id": "high_school_microeconomics/dev/3"
+  },
+  {
+    "instruction": "Qual das fórmulas de PL a seguir é a melhor simbolização da seguinte frase?\nAs tartarugas vivem muito e são criaturas felizes, a não ser que estejam feridas.",
+    "option_a": "(L • H) ≡ I",
+    "option_b": "(L • H) ∨ I",
+    "option_c": "L • (H ∨ I)",
+    "option_d": "L • (H ⊃ R)",
+    "answer": "B",
+    "id": "formal_logic/dev/4"
+  },
+  {
+    "instruction": "O estudo da realidade no sentido mais amplo, uma investigação sobre a natureza elementar do universo e das coisas nele existentes, é conhecido como _____.",
+    "option_a": "metafísica",
+    "option_b": "epistemologia",
+    "option_c": "física quântica",
+    "option_d": "axiologia",
+    "answer": "A",
+    "id": "philosophy/dev/4"
+  },
+  {
+    "instruction": "A escola de jurisprudência ________ postula que a lei é baseada no que é \"correto\".",
+    "option_a": "Lei Natural",
+    "option_b": "Analítica",
+    "option_c": "Histórica",
+    "option_d": "Sociológica",
+    "answer": "A",
+    "id": "jurisprudence/dev/3"
+  },
+  {
+    "instruction": "A partir de 2019, qual é a porcentagem de russos que consideram muito importante ter uma mídia livre em nosso país sem censura do governo ou Estado?",
+    "option_a": "38%",
+    "option_b": "53%",
+    "option_c": "68%",
+    "option_d": "83%",
+    "answer": "A",
+    "id": "global_facts/dev/3"
+  },
+  {
+    "instruction": "Em uma organização, o grupo de pessoas responsáveis pelas decisões de compra é chamado de _______________.",
+    "option_a": "Unidade de terceirização.",
+    "option_b": "Centro de compras.",
+    "option_c": "Unidade executiva-chefe.",
+    "option_d": "Unidade de tomada de decisão.",
+    "answer": "D",
+    "id": "marketing/dev/1"
+  },
+  {
+    "instruction": "Quais seriam as consequências para o estimador OLS se a heteroscedasticidade estiver presente em um modelo de regressão, mas for ignorada?",
+    "option_a": "Ficará enviesado",
+    "option_b": "Ficará inconsistente",
+    "option_c": "Será ineficiente",
+    "option_d": "Todas as alternativas (a), (b) e (c) serão verdadeiras.",
+    "answer": "C",
+    "id": "econometrics/dev/3"
+  },
+  {
+    "instruction": "Qual é o sinal da aliança para os homens judeus?",
+    "option_a": "O arco-íris",
+    "option_b": "Circuncisão",
+    "option_c": "Um filho",
+    "option_d": "Bar mitzvah",
+    "answer": "B",
+    "id": "world_religions/dev/0"
+  },
+  {
+    "instruction": "Se alguém ataca o caráter do argumentador adversário, em vez de responder aos argumentos desse oponente, a primeira pessoa provavelmente cometeu qual das seguintes falácias?",
+    "option_a": "tu quoque",
+    "option_b": "riso de escárnio",
+    "option_c": "argumento contra a pessoa",
+    "option_d": "ignoratio elenchi",
+    "answer": "C",
+    "id": "logical_fallacies/dev/0"
+  },
+  {
+    "instruction": "Construa uma tabela verdade completa para os seguintes pares de proposições. Em seguida, utilizando as tabelas verdade, determine se as afirmações são logicamente equivalentes ou contraditórias. Se não forem, determine se são consistentes ou inconsistentes. Justifique suas respostas.\nE ⊃ (F · E) and ~E · F",
+    "option_a": "Logicamente equivalentes",
+    "option_b": "Contraditórias",
+    "option_c": "Não são logicamente equivalentes nem contraditórias, mas consistentes",
+    "option_d": "Inconsistentes",
+    "answer": "C",
+    "id": "formal_logic/dev/3"
+  },
+  {
+    "instruction": "Qual dos seguintes não é conhecido por estar envolvido no controle da divisão celular?",
+    "option_a": "Ciclinas",
+    "option_b": "Quinases de proteínas",
+    "option_c": "Pontos de verificação",
+    "option_d": "Células de fibroblastos",
+    "answer": "D",
+    "id": "high_school_biology/dev/3"
+  },
+  {
+    "instruction": "Seja A uma matriz real 2x2. Qual das seguintes afirmações deve ser verdadeira?\r\nI. Todos os elementos de A^2 são não negativos.\r\nII. O determinante de A^2 é não negativo.\r\nIII. Se A tem dois autovalores distintos, então A^2 tem dois autovalores distintos.",
+    "option_a": "Somente I",
+    "option_b": "Somente II",
+    "option_c": "Somente III",
+    "option_d": "Somente II e III",
+    "answer": "B",
+    "id": "college_mathematics/dev/2"
+  },
+  {
+    "instruction": "Esta pergunta refere-se às seguintes informações.\n\"No novo Código de Leis que suponho será necessário você fazer, desejo que lembre-se das senhoras e seja mais generoso e favorável a elas do que seus antepassados. Não coloque um poder ilimitado nas mãos dos maridos. Lembre-se de que todos os homens seriam tiranos se pudessem. Se cuidado e atenção particulares não forem prestados às Senhoras, estamos determinadas a fomentar uma rebelião e não nos consideraremos obrigadas por quaisquer leis nas quais não tenhamos voz ou representação.\"\nAbigail Adams, em carta a John Adams, 1776\n\"Legislação especial para mulheres nos coloca em uma posição muito anômala. Mulheres investidas dos direitos de cidadãs em uma seção - eleitoras, juradas, ocupantes de cargos públicos - cruzando uma linha imaginária, são sujeitas na próxima. Em alguns estados, uma mulher casada pode possuir propriedade e realizar negócios em seu próprio nome; em outros, seus ganhos pertencem ao marido. Em alguns estados, uma mulher pode testemunhar contra o marido, processar e ser processada nos tribunais; em outros, ela não tem reparação em caso de danos à pessoa, propriedade ou caráter. Em caso de divórcio por causa de adultério do marido, a esposa inocente é considerada sem nenhum direito às crianças ou propriedades, a menos que por decreto especial do tribunal. Mas em nenhum estado da União a esposa tem direito à sua própria pessoa ou a qualquer parte dos ganhos conjuntos da coparticipação durante a vida do marido. Em alguns estados, as mulheres podem entrar nas faculdades de direito e exercer a advocacia nos tribunais; em outros, são proibidas. Em algumas universidades, as meninas desfrutam de iguais oportunidades educacionais que os meninos, enquanto muitas das mais orgulhosas instituições do país negam-lhes a admissão, embora os filhos da China, Japão e África sejam bem-vindos lá. Mas os privilégios já concedidos nos diversos estados estão longe de serem seguros.\"\nSusan B. Anthony, \"Declaração de Direitos para as Mulheres\", 4 de julho de 1876\nOs sentimentos expressos no segundo trecho por Susan B. Anthony são provavelmente em apoio a",
+    "option_a": "a Emenda dos Direitos Iguais",
+    "option_b": "sufixo universal",
+    "option_c": "direitos dos estados",
+    "option_d": "proibição",
+    "answer": "B",
+    "id": "high_school_us_history/dev/2"
+  },
+  {
+    "instruction": "Você está empurrando um caminhão ao longo de uma estrada. Seria mais fácil acelerar esse caminhão em Marte? Por quê? (Assuma que não há atrito)",
+    "option_a": "Seria mais difícil, já que o caminhão é mais pesado em Marte.",
+    "option_b": "Seria mais fácil, já que o caminhão é mais leve em Marte.",
+    "option_c": "Seria mais difícil, já que o caminhão é mais leve em Marte.",
+    "option_d": "Seria o mesmo, não importa onde você esteja.",
+    "answer": "D",
+    "id": "astronomy/dev/0"
+  },
+  {
+    "instruction": "Qual posição Rawls afirma ser a menos provável de ser adotada pelo POP (pessoas na posição original)?",
+    "option_a": "O POP escolheria a igualdade acima da liberdade.",
+    "option_b": "O POP optaria pela estratégia 'maximina'.",
+    "option_c": "O POP optaria pelo 'princípio da diferença'.",
+    "option_d": "O POP rejeitaria o 'sistema de liberdade natural'.",
+    "answer": "A",
+    "id": "jurisprudence/dev/0"
+  },
+  {
+    "instruction": "Para um processo autoregressivo estacionário, choques irão",
+    "option_a": "Eventualmente desaparecer",
+    "option_b": "Persistir indefinidamente",
+    "option_c": "Crescer exponencialmente",
+    "option_d": "Nunca ocorrer",
+    "answer": "A",
+    "id": "econometrics/dev/0"
+  },
+  {
+    "instruction": "Um déficit federal ocorre quando",
+    "option_a": "as exportações superam as importações.",
+    "option_b": "as importações superam as exportações.",
+    "option_c": "as contribuições fiscais federais excedem os gastos.",
+    "option_d": "os gastos federais superam as receitas fiscais federais.",
+    "answer": "D",
+    "id": "high_school_macroeconomics/dev/2"
+  },
+  {
+    "instruction": "Como podem ser descritas as estruturas organizacionais caracterizadas por estilos democráticos e inclusivos de gestão?",
+    "option_a": "Hierárquicas",
+    "option_b": "Burocráticas",
+    "option_c": "Planas",
+    "option_d": "Funcionais",
+    "answer": "C",
+    "id": "management/dev/4"
+  },
+  {
+    "instruction": "Esta questão refere-se às informações a seguir.\nO seguinte trecho é de um panfleto.\nVocê me fará justiça em lembrar que sempre apoiei vigorosamente o Direito de todo homem à sua própria opinião, por mais diferente que essa opinião pudesse ser da minha. Aquele que nega a outro esse direito se torna um escravo de sua opinião presente, porque se auto exclui do direito de mudá-la.\nA arma mais formidável contra erros de todos os tipos é a Razão. Nunca usei outra arma, e confio que nunca irei usar.\nA circunstância que agora ocorreu na França da abolição total de toda a ordem nacional do clero, de tudo o que se relaciona a sistemas compulsórios de religião e de artigos de fé compulsórios, não só precipitou minha intenção, como também tornou uma obra deste tipo extremamente necessária, para que não percamos, na ruína geral da superstição, dos falsos sistemas de governo e da falsa teologia, de vista a moralidade, a humanidade e a teologia que é verdadeira.\nEu acredito em um só Deus, e nada mais; e espero a felicidade além desta vida.\nEu acredito na igualdade dos homens; e acredito que os deveres religiosos consistem em fazer justiça, amar a misericórdia e se esforçar para fazer nossos semelhantes felizes.\nEu não acredito no credo professado pela igreja judaica, pela igreja romana, pela igreja grega, pela igreja turca, pela igreja protestante, nem por qualquer igreja que eu conheça. Minha própria mente é minha igreja.\nTodas as instituições nacionais de igrejas, sejam judaicas, cristãs ou turcas, parecem-me nada mais que invenções humanas, criadas para aterrorizar e escravizar a humanidade, e monopolizar poder e lucro.\nNão quero dizer com essa declaração condenar aqueles que pensam de maneira diferente; eles têm o mesmo direito de acreditar em sua fé do que eu tenho na minha.\n- Thomas Paine, A Era da Razão, 1794-1795\nQual dos seguintes filósofos do Iluminismo projetou um sistema de freios e contrapesos para o governo evitar abusos de poder?",
+    "option_a": "Jean Jacques Rousseau",
+    "option_b": "Baron Montesquieu",
+    "option_c": "Mary Wollstonecraft",
+    "option_d": "Adam Smith",
+    "answer": "B",
+    "id": "high_school_european_history/dev/0"
+  },
+  {
+    "instruction": "Em um teste genético de um recém-nascido, uma doença genética rara é encontrada, que tem transmissão recessiva ligada ao cromossomo X. Qual das seguintes afirmações é provavelmente verdadeira em relação ao pedigree dessa doença?",
+    "option_a": "Todos os descendentes pelo lado materno terão a doença.",
+    "option_b": "As fêmeas serão aproximadamente duas vezes mais afetadas do que os machos nesta família.",
+    "option_c": "Todas as filhas de um homem afetado serão afetadas.",
+    "option_d": "Haverá distribuição igual de homens e mulheres afetados.",
+    "answer": "C",
+    "id": "college_medicine/dev/2"
+  },
+  {
+    "instruction": "Quantas tentativas você deve fazer para canular um paciente antes de passar o trabalho para um colega sênior, de acordo com o conhecimento médico de 2020?",
+    "option_a": "4",
+    "option_b": "3",
+    "option_c": "2",
+    "option_d": "1",
+    "answer": "C",
+    "id": "clinical_knowledge/dev/3"
+  },
+  {
+    "instruction": "Para qual desses dois cenários o personagem principal (que usa eu/mim/meu) faz algo claramente moralmente errado, de acordo com os padrões morais comuns nos Estados Unidos em 2020? Cenário 1 | Eu realmente amei meu bebê recém-nascido menino. Cenário 2 | A nova garota está constrangida de morar em um parque de trailers, então convido a turma para a casa dela.",
+    "option_a": "Errado, Errado",
+    "option_b": "Errado, Não errado",
+    "option_c": "Não errado, Errado",
+    "option_d": "Não errado, Não errado",
+    "answer": "C",
+    "id": "moral_scenarios/dev/0"
+  },
+  {
+    "instruction": "O que distingue a diplomacia coercitiva da força militar?",
+    "option_a": "Compelência é outro termo para diplomacia coerciva, mas com critérios mais estreitos; compelência abrange ameaças destinadas a iniciar ação adversária. Uma ameaça para coagir um estado a desistir de parte de seu território seria considerada diplomacia coercitiva, desde que essa ameaça inicie ação proativamente antes de uma diplomacia reativa ser tomada.",
+    "option_b": "Diplomacia coercitiva consiste em ameaças de força limitada para induzir o incentivo do adversário a cumprir exigências do coagente. É uma estratégia de influência destinada a obter conformidade: o uso da força para derrotar um oponente primeiro não conta. Deixa um elemento de escolha com o alvo para cumprir ou continuar.",
+    "option_c": "Força militar, ou a ameaça de força militar, utiliza o medo para atingir objetivos estratégicos. A diplomacia coercitiva é diferenciada desse abordagem, pois não usa o medo como uma ferramenta para coagir um adversário.",
+    "option_d": "A diplomacia coercitiva é empregada para usar a força, mas limitar seus efeitos na comunidade internacional. A diplomacia coercitiva é uma estratégia ofensiva que visa obter conformidade por meio da derrota. Não deixa um elemento de escolha com o alvo, o alvo é forçado a cumprir ou se envolver em conflito. Busca controlar impondo conformidade, removendo qualquer oportunidade de negociação ou concessão.",
+    "answer": "B",
+    "id": "security_studies/dev/0"
+  },
+  {
+    "instruction": "A falácia da questão complexa consiste em",
+    "option_a": "argumentar que algo é inferior apenas porque não faz algo para o qual nunca foi destinado.",
+    "option_b": "incluir mais de uma afirmação na proposição e tratar a prova de uma afirmação como prova para todas as afirmações.",
+    "option_c": "tirar uma conclusão antes de examinar as evidências e considerar apenas as evidências que apoiam essa conclusão.",
+    "option_d": "fazer uma pergunta que inclui uma suposição não comprovada ou mais de uma pergunta, tornando uma resposta simples de sim ou não sem significado.",
+    "answer": "D",
+    "id": "logical_fallacies/dev/1"
+  },
+  {
+    "instruction": "Como podemos melhor descrever a relação entre a abordagem centrada no estado e o conceito de segurança humana?",
+    "option_a": "Existem divisões tão amplas dentro da estrutura de segurança humana em relação à natureza das ameaças e objetos de referência que nenhuma comparação amplamente aplicável entre abordagens centradas no estado e segurança humana pode ser feita.",
+    "option_b": "Ao adotar a estrutura de segurança humana, as limitações da abordagem centrada no estado realista se tornam evidentes. Enquanto a segurança humana define o objeto de referência como a pessoa ou a população, as abordagens centradas no estado priorizam a segurança do estado, deixando em segundo plano a busca pela segurança humana.",
+    "option_c": "A abordagem centrada no estado para a segurança é uma facção da segurança humana, geralmente definida dentro da ampla escola de segurança humana. Ao ser centrada no estado, essa abordagem prioriza o indivíduo como objeto de referência nos estudos de segurança.",
+    "option_d": "Tanto as abordagens centradas no estado como as centradas no humano são mutuamente exclusivas e oferecem uma estrutura analítica suficiente para entender o sistema de segurança internacional. Portanto, cabe aos analistas de segurança determinar qual desses conceitos substanciais está correto e qual deve ser descartado.",
+    "answer": "B",
+    "id": "security_studies/dev/3"
+  },
+  {
+    "instruction": "Um total de 30 jogadores jogarão basquete em um parque. Haverá exatamente 5 jogadores em cada time. Qual afirmação explica corretamente como encontrar o número de times necessários?",
+    "option_a": "Adicione 5 a 30 para encontrar 35 times.",
+    "option_b": "Divida 30 por 5 para encontrar 6 times.",
+    "option_c": "Multiplique 30 e 5 para encontrar 150 times.",
+    "option_d": "Subtraia 5 de 30 para encontrar 25 times.",
+    "answer": "B",
+    "id": "elementary_mathematics/dev/2"
+  },
+  {
+    "instruction": "Qual das seguintes opções é um exemplo de uso de um dispositivo na Internet das Coisas (IoT)?",
+    "option_a": "Um carro alerta o motorista que está prestes a bater em um objeto.",
+    "option_b": "Um caminhante usa um relógio GPS para acompanhar sua posição.",
+    "option_c": "Uma geladeira solicita leite de um serviço de entrega online quando o leite na geladeira está quase acabando.",
+    "option_d": "Um corredor usa um relógio com sensores ópticos para monitorar sua frequência cardíaca.",
+    "answer": "C",
+    "id": "high_school_computer_science/dev/0"
+  },
+  {
+    "instruction": "Esta pergunta se refere às seguintes informações.\nEle contém todas as obras e desejos e todos os perfumes e todos os gostos. Ele envolve todo o universo e em silêncio é amoroso com todos. Este é o Espírito que está em meu coração, este é Brahman. A ele irei quando ultrapassar essa vida, e a ele virá aquele que tem fé e não duvida.\n—Os Upanishads, Índia, c. 1000 a.C.\nA que religião o orador provavelmente pertence?",
+    "option_a": "Hinduísmo",
+    "option_b": "Budismo",
+    "option_c": "Xintoísmo",
+    "option_d": "Zoroastrismo",
+    "answer": "A",
+    "id": "high_school_world_history/dev/0"
+  },
+  {
+    "instruction": "Tradicionalmente, quando temos um atributo de entrada de valor real durante o aprendizado da árvore de decisão, consideramos uma divisão binária de acordo com se o atributo estiver acima ou abaixo de um limite. Pat sugere que, em vez disso, devemos ter uma divisão em várias vias com um ramo para cada um dos valores distintos do atributo. Da lista abaixo, escolha o maior problema com a sugestão de Pat:",
+    "option_a": "É muito caro em termos computacionais.",
+    "option_b": "Provavelmente resultaria em uma árvore de decisão que tem uma pontuação ruim no conjunto de treinamento e no teste.",
+    "option_c": "Provavelmente resultaria em uma árvore de decisão que tem uma pontuação boa no conjunto de treinamento, mas ruim no teste.",
+    "option_d": "Provavelmente resultaria em uma árvore de decisão que tem uma pontuação boa no teste, mas ruim no conjunto de treinamento.",
+    "answer": "C",
+    "id": "machine_learning/dev/4"
+  }
+]

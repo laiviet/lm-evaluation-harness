@@ -1,0 +1,2441 @@
+[
+  {
+    "instruction": "考虑以下的AR(1)模型，其中干扰项具有零均值和单位方差\n\nyt = 0.2 + 0.4 yt-1 + ut\n\ny（无条件）均值为",
+    "option_a": "0.2",
+    "option_b": "0.4",
+    "option_c": "0.5",
+    "option_d": "0.33",
+    "answer": "D",
+    "id": "econometrics/dev/1"
+  },
+  {
+    "instruction": "一个42岁的男子来到诊所进行术前评估，以准备在2周内进行肾上腺切除手术。一个月前，他在摩托车事故后因右侧腰部疼痛在急诊科接受了治疗。当时，他的血压为160/100毫米汞柱，腹部CT扫描显示有一颗意外发现的10厘米左侧肾上腺肿瘤。包括完整血细胞计数、血清电解质浓度和肝功能检测在内的实验室研究结果均在参考范围内。此前，患者一直身体健康，从未被告知有高血压。他没有服用任何药物。2周前，在诊所进行的随访发现他的尿中化验结果为高的正甘肾上腺素和甘肾上腺素以及血浆醛固酮浓度。患者被转介给一位外科医生，后者建议进行肾上腺切除。今天的生命体征是：体温36.6摄氏度（97.9华氏度），脉搏100次/分钟，呼吸14次/分钟，血压为170/95毫米汞柱。体格检查未发现任何明显的发现。术前准备包括以下哪种治疗？",
+    "option_a": "拉贝洛尔",
+    "option_b": "氯化钾负荷剂量",
+    "option_c": "尼群地平",
+    "option_d": "苯妥英胺",
+    "answer": "D",
+    "id": "professional_medicine/dev/0"
+  },
+  {
+    "instruction": "根据穆尔的“理想功利主义”，正确的行动是带来最多的:",
+    "option_a": "快乐。",
+    "option_b": "幸福。",
+    "option_c": "善良。",
+    "option_d": "美德。",
+    "answer": "C",
+    "id": "philosophy/dev/1"
+  },
+  {
+    "instruction": "以下哪项不包括在美国国内生产总值中？",
+    "option_a": "美国军方在外国开设了一个新基地，驻扎1000名美国人员。",
+    "option_b": "日本消费者购买了数千张在美国制作的CD。",
+    "option_c": "一位美国流行歌手在巴黎举行了一场售罄的演唱会。",
+    "option_d": "一部法国剧院制作在美国数十个城市进行了巡回演出。",
+    "answer": "C",
+    "id": "high_school_macroeconomics/dev/0"
+  },
+  {
+    "instruction": "关于2010年教皇庇护十六世堆积儿童虐待掩盖指控，以下哪一个陈述是正确的？",
+    "option_a": "出现了协调一致的媒体回应。",
+    "option_b": "传递了连贯的信息。",
+    "option_c": "批评被视为对天主教会的攻击。",
+    "option_d": "梵蒂冈的信誉得到了维护。",
+    "answer": "C",
+    "id": "public_relations/dev/2"
+  },
+  {
+    "instruction": "假设一个检验统计量的 p 值为 0.08。以下哪个陈述是正确的？\n\n(i) 如果检验大小正好为 8％，那么我们会在拒绝和不拒绝原假设之间保持中立\n\n(ii) 如果使用10％的检验大小，则原假设将被拒绝\n\n(iii) 如果使用1％的检验大小，则原假设将不被拒绝\n\n(iv) 如果使用5％的检验大小，则原假设将被拒绝。",
+    "option_a": "仅 (ii) 和 (iv)",
+    "option_b": "仅 (i) 和 (iii)",
+    "option_c": "仅 (i)，(ii) 和 (iii)",
+    "option_d": "(i)，(ii)，(iii) 和 (iv)",
+    "answer": "C",
+    "id": "econometrics/dev/2"
+  },
+  {
+    "instruction": "当争论者因为真实或被假装的无法进行反驳而引起混淆时，该争论者可能犯了以下哪种谬误：",
+    "option_a": "不良体育精神",
+    "option_b": "同情上诉",
+    "option_c": "攻击人身",
+    "option_d": "无法反驳的无知",
+    "answer": "D",
+    "id": "logical_fallacies/dev/4"
+  },
+  {
+    "instruction": "以下问题参考以下信息。\n\"工人真正的不满在于他的生存不安全；他不能确定自己总能有工作，他不能确定自己总能保持健康，而且他预见到自己有一天会变得年老体衰而不能工作。如果他因长期生病而陷入贫困，他就完全无助于自己，而社会目前并没有承认任何真正的义务对他进行帮助，除了对穷人的通常救助，即使他一直非常忠实和勤奋地工作。然而，穷人的通常帮助还有很多需要改进的地方，特别是在大城市，情况比乡村要糟得多。\"\n奥托·冯·俾斯麦，1884年\n奥托·冯·俾斯麦发表这篇演讲，可能是针对以下哪个问题的反应？",
+    "option_a": "儿童劳动的社会认可",
+    "option_b": "德国人的预期寿命下降",
+    "option_c": "对德国贸易壁垒的批评",
+    "option_d": "归因于工业资本主义的负面影响",
+    "answer": "D",
+    "id": "high_school_world_history/dev/2"
+  },
+  {
+    "instruction": "哪个日本政府推崇一种以天皇及其与神的联系为基础的国家信仰呢？",
+    "option_a": "Honen",
+    "option_b": "Tanaka",
+    "option_c": "Tokugawa",
+    "option_d": "Meiji",
+    "answer": "D",
+    "id": "world_religions/dev/3"
+  },
+  {
+    "instruction": "以下哪个视角最适合研究童兵的角色？",
+    "option_a": "童兵是作战中的受害者，需要重新教育和康复。",
+    "option_b": "儿童和他们的母亲不是战争中的主动主体，最好将他们视为私人领域的主体。",
+    "option_c": "儿童在战争中往往是无辜旁观者，最好被用作和平的象征。",
+    "option_d": "儿童具有政治主体性，当他们被视为被动战争受害者时，这种主体性就被忽视了。",
+    "answer": "D",
+    "id": "security_studies/dev/1"
+  },
+  {
+    "instruction": "所有形式的肌肉收缩所需的能量来源是：",
+    "option_a": "ATP.",
+    "option_b": "ADP.",
+    "option_c": "磷酸肌酸。",
+    "option_d": "氧化磷酸化。",
+    "answer": "A",
+    "id": "clinical_knowledge/dev/0"
+  },
+  {
+    "instruction": "独占企业的集中度比率是",
+    "option_a": "0",
+    "option_b": "5",
+    "option_c": "10",
+    "option_d": "100",
+    "answer": "D",
+    "id": "high_school_microeconomics/dev/2"
+  },
+  {
+    "instruction": "在给定的人群中，每400人中就有一个人患有由完全隐性等位基因b引起的癌症。假设这个人群处于哈代-温伯格平衡状态，以下哪个是传播b等位基因但不预期患癌症的人群期望比例？",
+    "option_a": "1/400",
+    "option_b": "19/400",
+    "option_c": "20/400",
+    "option_d": "38/400",
+    "answer": "D",
+    "id": "college_biology/dev/1"
+  },
+  {
+    "instruction": "当老年人退休后搬到新州时，以下哪个州更有可能成为他们的目的地？",
+    "option_a": "德克萨斯州",
+    "option_b": "加利福尼亚州",
+    "option_c": "夏威夷州",
+    "option_d": "佛蒙特州",
+    "answer": "A",
+    "id": "human_aging/dev/2"
+  },
+  {
+    "instruction": "NBA 扣篮大赛历史上谁是身高最矮的获胜者？",
+    "option_a": "安东尼·韦伯（Anthony 'Spud' Webb）",
+    "option_b": "迈克尔·乔丹（Michael 'Air' Jordan）",
+    "option_c": "泰隆·伯格斯（Tyrone 'Muggsy' Bogues）",
+    "option_d": "朱利叶斯·欧文（Julius 'Dr J' Erving）",
+    "answer": "A",
+    "id": "miscellaneous/dev/2"
+  },
+  {
+    "instruction": "一个溶液包含2.00摩尔的乙酸，CH3COOH，和1.00摩尔的醋酸钙，Ca（CH3COO）2。该溶液能够抵抗少量强酸或强碱的加入，只有一些小的pH变化。大量的强酸或强碱会引起显著的pH变化。在pH开始发生重大变化之前，最多可以加入多少摩尔的硝酸，HNO3？",
+    "option_a": "0.500摩尔",
+    "option_b": "1.00摩尔",
+    "option_c": "2.00摩尔",
+    "option_d": "3.00摩尔",
+    "answer": "C",
+    "id": "high_school_chemistry/dev/4"
+  },
+  {
+    "instruction": "利用“心脏出血”缺陷",
+    "option_a": "覆盖内存中的加密密钥",
+    "option_b": "一种代码注入",
+    "option_c": "越界读取缓冲区外的内容",
+    "option_d": "格式化字符串攻击",
+    "answer": "C",
+    "id": "computer_security/dev/3"
+  },
+  {
+    "instruction": "DNA连接酶是",
+    "option_a": "在正常DNA复制过程中连接片段的酶",
+    "option_b": "来自细菌的酶，切割定义的碱基序列的DNA",
+    "option_c": "促进特定基因转录的酶",
+    "option_d": "限制特定营养物质达到的水平的酶",
+    "answer": "A",
+    "id": "medical_genetics/dev/1"
+  },
+  {
+    "instruction": "术语“霸权主义”是指：",
+    "option_a": "工人阶级倾向于不认识自身利益的趋势",
+    "option_b": "一种主导意识形态，合法化经济、政治和文化权力",
+    "option_c": "一种基于意识形态和日常经验的双重意识形态",
+    "option_d": "一种出色盆景作品的支付方式",
+    "answer": "B",
+    "id": "sociology/dev/3"
+  },
+  {
+    "instruction": "通过以下方式确定艾滋病和死亡的中位生存时间：",
+    "option_a": "血清流行病学阳性的HIV感染者",
+    "option_b": "血清流行病学阴性者",
+    "option_c": "血清转换者",
+    "option_d": "高危血清阴性者",
+    "answer": "C",
+    "id": "virology/dev/4"
+  },
+  {
+    "instruction": "本题涉及以下信息。\n“毫无疑问，根据那些基于理性和传统的著名学者的法律裁定以及逊尼派社区的共识，根除、消灭和驱逐邪恶的创新是我们崇高追求的目标，因为“宗教狂热是真主慈悲的胜利”；如先知（愿主福安）的话所说：“谁把邪恶的创新带入我们的秩序中，必须被驱逐”，“谁违反我们的命令，必须被驱逐”，行动已经成为必要和紧迫的……”\n1514年，奥斯曼苏丹塞利姆一世致萨非沙阿伊斯梅尔一世的信\n塞利姆一世的信明显是以下哪种情况的例子？",
+    "option_a": "不惜一切代价保持军事优势",
+    "option_b": "扩大宗教派系之间的紧张关系",
+    "option_c": "导致奥斯曼帝国崩溃的因素",
+    "option_d": "伊斯兰帝国间的和平努力",
+    "answer": "B",
+    "id": "high_school_world_history/dev/3"
+  },
+  {
+    "instruction": "这道问题涉及以下信息。\n阅读以下摘录。\n革命的种子已经渗透到了每个国家，或多或少地传播开来。在波拿巴军事专制统治下，它得到了很大的发展。他的征服推翻了许多法律、制度和习惯；打破了所有民族所珍视的联系，这些联系足以经得起时间的考验；这种情况比这些创新者所带来的某些好处更为普遍。\n君主将履行由授予他们权力的那位负责人所赋予的职责，即看守正义和所有人的权利，避免走入错误的道路，坚定地走在真理的道路上。超越了社会所激起的激情，在试炼的日子里，他们主要被召唤来剥夺现实的虚假外貌，展示自己的真实面貌，成为具有家长头衔的父亲，证明在哀悼的日子里，他们知道如何公正、明智、也因此强大，并且不会放弃他们应该统治的人民，使之成为派系、错误及其后果的玩物，这将导致社会的丧失。\n君主之间的联盟是现在必须遵循的政策的基础。. . .\n让他们不要混淆为党派做出的让步与他们应该为人民所做的善事，在修改根据他们公认的需要需要修改的行政部门时。\n让他们公正，但要强硬；慈善，但要严格。\n让他们在所有纯洁的宗教原则上保持纯洁，不允许信仰受到攻击，道德按照社会契约或愚蠢宗派的愿景来解释。\n让他们镇压秘密社团；社会的腐烂。\n—克莱门斯·冯·梅特涅希（Klemens von Metternich），1820年《政治信仰告白》\n根据上述文件，以下哪个是梅特涅希表达的恐惧的最大原因？",
+    "option_a": "启蒙运动期间构思的个人自由和民族主义思想导致了可能在欧洲传播的激进革命。",
+    "option_b": "拿破仑对欧洲的征服导致了新的派系的创建和欧洲权力的转移。",
+    "option_c": "君主的权力已经增长到需要得到每个国家内的其他力量的制约的程度，否则将导致平民的统治。",
+    "option_d": "新兴资本主义经济的上升和下降周期可能导致平民的动荡，必须加以镇压。",
+    "answer": "A",
+    "id": "high_school_european_history/dev/1"
+  },
+  {
+    "instruction": "相较于发生裂变的铀原子的质量，裂变后的产物总质量",
+    "option_a": "更小",
+    "option_b": "更大",
+    "option_c": "相同",
+    "option_d": "为零",
+    "answer": "A",
+    "id": "conceptual_physics/dev/0"
+  },
+  {
+    "instruction": "求环 2Z 的特征。",
+    "option_a": "0",
+    "option_b": "3",
+    "option_c": "12",
+    "option_d": "30",
+    "answer": "A",
+    "id": "abstract_algebra/dev/4"
+  },
+  {
+    "instruction": "与抵制不同，支持运动旨在奖励公司的良好行为。通过使用___________，这些运动的成功得以提高，使得运动能够促进公司实现__________。",
+    "option_a": "购买支持运动，抵制运动，区块链技术，慈善捐赠",
+    "option_b": "购买支持运动，抵制运动，数字技术，增加销售额",
+    "option_c": "抵制运动，全面支持运动，区块链技术，慈善捐赠",
+    "option_d": "抵制运动，购买支持运动，数字技术，增加销售额",
+    "answer": "D",
+    "id": "business_ethics/dev/4"
+  },
+  {
+    "instruction": "以下哪个是马斯洛需求层次结构假设的一部分？",
+    "option_a": "需求取决于文化和社会阶层。",
+    "option_b": "在更高的需求影响行为之前，必须至少部分满足低层需求。",
+    "option_c": "需求未按任何特定顺序进行排序。",
+    "option_d": "满足的需求是动机，当前需求无法满足时，新的需求会出现。",
+    "answer": "B",
+    "id": "marketing/dev/2"
+  },
+  {
+    "instruction": "简化并将结果写成一个有理数分母：$$\\sqrt{\\sqrt[3]{\\sqrt{\\frac{1}{729}}}}$$",
+    "option_a": "\\frac{3\\sqrt{3}}{3}",
+    "option_b": "\\frac{1}{3}",
+    "option_c": "\\sqrt{3}",
+    "option_d": "\\frac{\\sqrt{3}}{3}",
+    "answer": "D",
+    "id": "high_school_mathematics/dev/3"
+  },
+  {
+    "instruction": "以下哪个集合的标准差最小？哪个最大？\nI：{1，2，3}\nII：{-10，10}\nIII：{100}\n",
+    "option_a": "I，II",
+    "option_b": "II，III",
+    "option_c": "III，I",
+    "option_d": "III，II",
+    "answer": "D",
+    "id": "high_school_statistics/dev/4"
+  },
+  {
+    "instruction": "恶意软件可以修改您计算机上的数据，导致您的计算机无法正常运行，您也可能无法访问特定的数据，甚至可能要求赎金才能恢复访问权限。",
+    "option_a": "IM - 特洛伊木马",
+    "option_b": "后门特洛伊木马",
+    "option_c": "特洛伊木马下载器",
+    "option_d": "勒索特洛伊木马",
+    "answer": "D",
+    "id": "computer_security/dev/1"
+  },
+  {
+    "instruction": "Iverson Jewelers 给 Miller 写了一封信：“我们收到了一只非常好的自动上链 Rolox 手表，我们愿以非常优惠的价格卖给您。”",
+    "option_a": "该信是一份销售要约。",
+    "option_b": "一封信不能构成有效的要约。",
+    "option_c": "该信包含一个有效的要约，该要约将在合理时间内终止。",
+    "option_d": "该信缺少了要约的基本要素之一。",
+    "answer": "D",
+    "id": "jurisprudence/dev/4"
+  },
+  {
+    "instruction": "这些三叉神经分支中哪些包含运动神经过程？",
+    "option_a": "眶上神经",
+    "option_b": "眶下神经",
+    "option_c": "下颌神经",
+    "option_d": "以上都不是",
+    "answer": "D",
+    "id": "anatomy/dev/1"
+  },
+  {
+    "instruction": "变量 $x$ 与 $y$ 的平方成正比，而 $y$ 与 $z$ 的立方成正比。如果当 $z=2$ 时 $x=-16$，那么当 $z=\\frac{1}{2}$ 时 $x$ 的值是多少？",
+    "option_a": "-1",
+    "option_b": "16",
+    "option_c": "-\\frac{1}{256}",
+    "option_d": "\\frac{1}{16}",
+    "answer": "C",
+    "id": "high_school_mathematics/dev/2"
+  },
+  {
+    "instruction": "一项州议会最近制定了一项法规，规定诅咒或谩骂或使用淫秽或侮辱性语言对正在执行职责的警察进行的行为属于轻罪。一名州立大学的学生组织了一次校园示威活动来抗议战争。其间一群由50名学生组成的团队在场外高喊反战口号。为表达对美国的蔑视，这名学生将美国国旗缝在了牛仔裤的后面。警察发现了学生牛仔裤上缝着的国旗后，前来要求他移除国旗，否则将被逮捕。学生感到愤怒，大声对警察喊道：\"听着，你这个混蛋，我可以在任何场合穿这个破布。\"之后学生被逮捕，并被控违反州法规。学生随后在州法院提起诉讼，挑战该法规的合宪性。对于学生来说，最有力的宪法论据是",
+    "option_a": "该法规模糊不清，在第十四修正案的正当程序条款下无效。",
+    "option_b": "该法规无效，因为侵犯了申请者在第一修正案下的言论自由。",
+    "option_c": "该法规缩减言论自由的范围，在第一修正案下无效，因为可以采取更少限制性的手段来达到相同的目的。",
+    "option_d": "该法规过于宽泛，因此在第一和第十四修正案下无效。",
+    "answer": "D",
+    "id": "professional_law/dev/0"
+  },
+  {
+    "instruction": "成年人记得自己青少年时期的事件比其他时期更好的发现被称为",
+    "option_a": "青少年优势",
+    "option_b": "追忆之峰",
+    "option_c": "纪念纪念",
+    "option_d": "二次检索峰值",
+    "answer": "B",
+    "id": "human_aging/dev/1"
+  },
+  {
+    "instruction": "乔负责舞会灯光。红灯每两秒闪烁一次，黄灯每三秒闪烁一次，蓝灯每五秒闪烁一次。如果包括舞会开始和结束的时候，这个七分钟舞会期间所有灯光同时亮了多少次？（假设舞会一开始就三种灯光同时闪烁。）",
+    "option_a": "3",
+    "option_b": "15",
+    "option_c": "6",
+    "option_d": "5",
+    "answer": "B",
+    "id": "high_school_mathematics/dev/0"
+  },
+  {
+    "instruction": "一百年前，您的曾曾祖母以每年5%的利率投资了100美元。 今天这个投资价值多少？",
+    "option_a": "13000美元",
+    "option_b": "600美元",
+    "option_c": "15000美元",
+    "option_d": "28000美元",
+    "answer": "A",
+    "id": "professional_accounting/dev/1"
+  },
+  {
+    "instruction": "根据溶解度规则，以下哪个是正确的？",
+    "option_a": "所有氯化物、溴化物和碘化物都是可溶的",
+    "option_b": "所有硫酸盐都是可溶的",
+    "option_c": "所有氢氧化物都是可溶的",
+    "option_d": "所有含铵的化合物都是可溶的",
+    "answer": "D",
+    "id": "high_school_chemistry/dev/2"
+  },
+  {
+    "instruction": "主要涉及美国与世界其他国家关系的政策决策领域称为",
+    "option_a": "恐怖主义政策。",
+    "option_b": "经济政策。",
+    "option_c": "外交政策。",
+    "option_d": "国际政策。",
+    "answer": "C",
+    "id": "us_foreign_policy/dev/2"
+  },
+  {
+    "instruction": "在一个竞争激烈的房屋油漆工劳动力市场中，以下哪一项会增加房屋油漆工的需求？",
+    "option_a": "在这个劳动力市场上实施有效的最低工资。",
+    "option_b": "壁画价格上涨。",
+    "option_c": "新房建设量增加。",
+    "option_d": "当产出效应超过替代效应时，机械油漆工的价格上涨。",
+    "answer": "C",
+    "id": "high_school_microeconomics/dev/0"
+  },
+  {
+    "instruction": "雇用外国第三方服务提供商来运营业务的做法被称为",
+    "option_a": "外包。",
+    "option_b": "离岸。",
+    "option_c": "工业园区。",
+    "option_d": "位置相互依存性。",
+    "answer": "B",
+    "id": "high_school_geography/dev/3"
+  },
+  {
+    "instruction": "两个不同生物体内存在同源结构，例如人类和鸟类的前肢肱骨，表明",
+    "option_a": "人类和鸟类是多系群物种",
+    "option_b": "人类和鸟类的进化是相似的",
+    "option_c": "人类和鸟类属于同一演化支",
+    "option_d": "人类和鸟类是相似发展的",
+    "answer": "C",
+    "id": "college_biology/dev/2"
+  },
+  {
+    "instruction": "以下哪个化学物质被认为是酸酐？",
+    "option_a": "HCl",
+    "option_b": "H2SO3",
+    "option_c": "SO2",
+    "option_d": "Al(NO3)3",
+    "answer": "C",
+    "id": "high_school_chemistry/dev/0"
+  },
+  {
+    "instruction": "以下哪些条件将确保角动量守恒？I. 线动量守恒 II. 净外力为零 III. 净外力矩为零",
+    "option_a": "仅 I 和 II",
+    "option_b": "仅 I 和 III",
+    "option_c": "仅 II 和 III",
+    "option_d": "仅 III",
+    "answer": "D",
+    "id": "high_school_physics/dev/0"
+  },
+  {
+    "instruction": "一个长为2L，横截面积为A的镍铬线的一端连接在另一根长度为L，横截面积为2A的镍铬线的一端。如果较长那根线的自由端电势为8.0伏，较短那根线的自由端电势为1.0伏，那么两根导线交汇处的电势最接近",
+    "option_a": "2.4伏特",
+    "option_b": "3.3伏特",
+    "option_c": "4.5伏特",
+    "option_d": "5.7伏特",
+    "answer": "A",
+    "id": "college_physics/dev/2"
+  },
+  {
+    "instruction": "以下哪个关于镧系元素的说法是不正确的？",
+    "option_a": "镧系元素最常见的氧化态为+3。",
+    "option_b": "镧系元素的配合物往往具有较高的配位数（> 6）。",
+    "option_c": "所有镧系元素都会与水溶液中的酸反应，释放出氢气。",
+    "option_d": "从镧到镥，镧系元素的原子半径沿周期表递增。",
+    "answer": "D",
+    "id": "college_chemistry/dev/0"
+  },
+  {
+    "instruction": "一种呈显性共存表现的基因",
+    "option_a": "在杂合子中两个等位基因独立表达",
+    "option_b": "其中一个等位基因显性于另一个等位基因",
+    "option_c": "等位基因紧密链接在同一染色体上",
+    "option_d": "在发育过程中表达的等位基因同时发挥作用",
+    "answer": "A",
+    "id": "medical_genetics/dev/2"
+  },
+  {
+    "instruction": "编译器生成以下赋值语句的代码。\nG := (A + B) * C - (D + E) * F\n目标机器有一个累加器和单地址指令集，包括载入（load）、存储（store）、加法（add）、减法（subtract）和乘法（multiply）指令。对于算术运算，左操作数取自累加器，结果出现在累加器中。所得代码的最小指令数量为：",
+    "option_a": "5",
+    "option_b": "6",
+    "option_c": "7",
+    "option_d": "9",
+    "answer": "D",
+    "id": "college_computer_science/dev/3"
+  },
+  {
+    "instruction": "一家非政府非盈利组织Box，在本年度进行了以下交易：出售投资获得 $80000，购买不动产和设备支付 $10000，获得长期债务 $100000，投资出售亏损 $5000。Box 在现金流量表中应如何报告融资活动提供的净现金流量？",
+    "option_a": "$70,000",
+    "option_b": "$75,000",
+    "option_c": "$80,000",
+    "option_d": "100000",
+    "answer": "D",
+    "id": "professional_accounting/dev/0"
+  },
+  {
+    "instruction": "在其他条件不变的情况下，下列哪种货币政策可用于推动美国出口？",
+    "option_a": "提高贴现率",
+    "option_b": "增加准备金率",
+    "option_c": "购买政府证券",
+    "option_d": "降低关税",
+    "answer": "C",
+    "id": "high_school_macroeconomics/dev/3"
+  },
+  {
+    "instruction": "玛雅伟大的国王帕卡尔在帕伦克市建造神庙，目的是:",
+    "option_a": "满足强大的玛雅天文学家祭司。",
+    "option_b": "向普通人显示他的慷慨，因为他们被允许住在神庙里。",
+    "option_c": "吓退敌人，尤其是西班牙人。",
+    "option_d": "使自己的国王地位合法化，因为他的父亲不是皇室成员。",
+    "answer": "D",
+    "id": "prehistory/dev/0"
+  },
+  {
+    "instruction": "CSO组织可以采取的三种对策是________，它通常涉及研究和沟通，________，可能涉及攻击公司的运营，或者________，通常涉及某种形式的________。",
+    "option_a": "非暴力直接行动，暴力直接行动，间接行动，抵制",
+    "option_b": "间接行动，工具性行动，非暴力直接行动，信息运动",
+    "option_c": "间接行动，暴力直接行动，非暴力直接行动，抵制",
+    "option_d": "非暴力直接行动，工具性行动，间接行动，信息运动",
+    "answer": "C",
+    "id": "business_ethics/dev/3"
+  },
+  {
+    "instruction": "掷一枚六面色子15次，结果如下：面1出现0次；面2：1次；面3：2次；面4：3次；面5：4次；面6：5次。基于这些结果，当使用Add-1 Smoothing时，面3出现的概率是多少？",
+    "option_a": "2.0/15",
+    "option_b": "1.0/7",
+    "option_c": "3.0/16",
+    "option_d": "1.0/5",
+    "answer": "B",
+    "id": "machine_learning/dev/0"
+  },
+  {
+    "instruction": "法律的功能不包括以下哪个?",
+    "option_a": "最大化个人自由",
+    "option_b": "提供妥协的基础",
+    "option_c": "维持和平",
+    "option_d": "促进自由企业制度的原则",
+    "answer": "D",
+    "id": "jurisprudence/dev/1"
+  },
+  {
+    "instruction": "乌潘尼沙德怎样描述？",
+    "option_a": "仪式文本",
+    "option_b": "哲学文本",
+    "option_c": "赞歌",
+    "option_d": "起源故事",
+    "answer": "B",
+    "id": "world_religions/dev/4"
+  },
+  {
+    "instruction": "Ani认为她的态度和行为对发生在她身上的事情起着核心作用。这种信念很可能与",
+    "option_a": "强大的超我。",
+    "option_b": "低自尊。",
+    "option_c": "低自我效能。",
+    "option_d": "内在的控制定势。",
+    "answer": "D",
+    "id": "high_school_psychology/dev/0"
+  },
+  {
+    "instruction": "什么是临时法官？",
+    "option_a": "如果国际法院在争端案件中的一方没有本国法官，它有权为该案件提名某个人作为仅供该案件的法官，称为临时法官。",
+    "option_b": "临时法官是国际法院中拥有决定性投票权的法官。",
+    "option_c": "临时法官是代理法官，用于当某个法官被取消资格或去世时。",
+    "option_d": "临时法官是每个争议案件中每一方都会提名的法官。",
+    "answer": "A",
+    "id": "international_law/dev/1"
+  },
+  {
+    "instruction": "短周期彗星大多来自哪里，我们是如何知道的？",
+    "option_a": "柯伊伯带；短周期彗星倾向于在与柯伊伯带一样的太阳系平面内。",
+    "option_b": "柯伊伯带；短周期彗星倾向于从随机方向来临，表明彗星的分布呈球形，称为柯伊伯带。",
+    "option_c": "小行星带；短周期彗星的轨道周期类似于像维斯塔这样的小行星，就像小行星带一样在太阳系平面内发现。",
+    "option_d": "奥尔特云；短周期彗星倾向于在与奥尔特云一样的太阳系平面内。",
+    "answer": "A",
+    "id": "astronomy/dev/1"
+  },
+  {
+    "instruction": "截至2015年，自1990年以来，欧洲的森林____，非洲和美洲的森林____。",
+    "option_a": "增加，增加",
+    "option_b": "增加，减少",
+    "option_c": "减少，增加",
+    "option_d": "减少，减少",
+    "answer": "B",
+    "id": "global_facts/dev/2"
+  },
+  {
+    "instruction": "请根据以下信息回答问题。\n\"为了实现全球霸权，至少需要[世界上]的一个社会在各种科学、技术、农业和工业革命之前实现巨大的生产力增长。这个量子飞跃只能通过开发跨越整个大陆的生态系统、矿产资源和人力资产来完成，这些大陆在进行飞跃的社会的领土之外。西欧通过残暴和武器，更重要的是通过地理和生态的运气，做到了这一点。\"\n版权所有 © 2015 剑桥大学出版社。\n历史学家阿尔弗雷德·克罗斯比，著《生态帝国主义》，2004年\n文章中提到的\"量子飞跃\"对1450至1750年间以下哪项发展产生了最直接的贡献？",
+    "option_a": "通过已崩溃的建立状态结构的贸易路线瓦解",
+    "option_b": "通过更丰富的食品供应使世界人口增加",
+    "option_c": "中国和印度信仰体系在全球范围内的传播",
+    "option_d": "社会动荡的加剧",
+    "answer": "B",
+    "id": "high_school_world_history/dev/4"
+  },
+  {
+    "instruction": "社会中最容易受到参考群体影响的是哪个群体？",
+    "option_a": "年长的消费者，他们感到有些被排挤在外。",
+    "option_b": "已婚女性，她们中许多人感觉需要生活稳定。",
+    "option_c": "新移民，他们真的想融入他们的新文化。",
+    "option_d": "儿童，他们的大部分购买决策基于外部影响。",
+    "answer": "D",
+    "id": "marketing/dev/3"
+  },
+  {
+    "instruction": "根据2020年美国的普通道德标准，以下两种情况中，主要人物（使用I/me/my）哪种行为明显违反道德？情况1 | 我为工作买了一辆旧皮卡车。情况2 | 我仰望着美丽的瀑布，并朝它扔了一块石头。",
+    "option_a": "错误，错误",
+    "option_b": "错误，不错误",
+    "option_c": "不错误，错误",
+    "option_d": "不错误，不错误",
+    "answer": "D",
+    "id": "moral_scenarios/dev/2"
+  },
+  {
+    "instruction": "一个点电荷 Q = +1 mC 固定在原点上。将电荷 Q = +8 µC 从点 (0, 4 米) 移动到点 (3 米，0)，需要多少功？",
+    "option_a": "3.5 J",
+    "option_b": "6.0 J",
+    "option_c": "22.5 J",
+    "option_d": "40 J",
+    "answer": "B",
+    "id": "high_school_physics/dev/4"
+  },
+  {
+    "instruction": "合成出一种新化合物，发现它是一种摩尔质量为248克/摩尔的一元酸。当将0.0050摩尔该酸溶解在0.500升水中时，测得其pH值为3.89。这种酸的pKa是多少？",
+    "option_a": "3.89",
+    "option_b": "7.78",
+    "option_c": "5.78",
+    "option_d": "2.33",
+    "answer": "C",
+    "id": "high_school_chemistry/dev/3"
+  },
+  {
+    "instruction": "佛教中的第二宝是什么？",
+    "option_a": "法",
+    "option_b": "僧",
+    "option_c": "佛",
+    "option_d": "菩萨",
+    "answer": "A",
+    "id": "world_religions/dev/1"
+  },
+  {
+    "instruction": "折射望远镜由两个距离为100厘米的凸透镜组成。目镜透镜的焦距为20厘米。望远镜的角放大率为",
+    "option_a": "4",
+    "option_b": "5",
+    "option_c": "6",
+    "option_d": "20",
+    "answer": "A",
+    "id": "college_physics/dev/0"
+  },
+  {
+    "instruction": "根据霍夫斯泰德 (1980) 提出的五个文化维度，在以下哪个维度上，美国排名最高：",
+    "option_a": "个人主义。",
+    "option_b": "个人主义和权力距离。",
+    "option_c": "权力距离和阳刚之气。",
+    "option_d": "不确定性回避。",
+    "answer": "A",
+    "id": "professional_psychology/dev/2"
+  },
+  {
+    "instruction": "一家商店售卖107种不同颜色的油漆。他们在库存中每种颜色都有25桶油漆。以下算式可以计算该商店库存中的油漆桶数：107 × 25。商店库存中的油漆桶数是多少？",
+    "option_a": "749",
+    "option_b": "2,675",
+    "option_c": "2,945",
+    "option_d": "4,250",
+    "answer": "B",
+    "id": "elementary_mathematics/dev/3"
+  },
+  {
+    "instruction": "一架模型飞机在逆风飞行时速度较慢，在顺风飞行时速度较快。当以与风相交直角的角度发射时，其地速相对于静止空气飞行时",
+    "option_a": "相同",
+    "option_b": "更快",
+    "option_c": "更慢",
+    "option_d": "根据风速而定，可能更快或更慢",
+    "answer": "B",
+    "id": "conceptual_physics/dev/3"
+  },
+  {
+    "instruction": "如果政府在完全竞争市场上补贴生产者，那么",
+    "option_a": "产品的需求将会增加",
+    "option_b": "产品的需求将会减少",
+    "option_c": "消费者剩余将会增加",
+    "option_d": "消费者剩余将会减少",
+    "answer": "C",
+    "id": "high_school_microeconomics/dev/1"
+  },
+  {
+    "instruction": "以下哪个选项是非物质文化的例子？",
+    "option_a": "多芬肥皂",
+    "option_b": "多芬巧克力棒",
+    "option_c": "多芬符号",
+    "option_d": "一只鸽子",
+    "answer": "C",
+    "id": "high_school_geography/dev/4"
+  },
+  {
+    "instruction": "两条长导线承载100 A电流。如果这些导线相距20毫米，每条导线每米长度的力将为",
+    "option_a": "100 牛。",
+    "option_b": "0.1 牛。",
+    "option_c": "1 牛。",
+    "option_d": "0.01 牛。",
+    "answer": "B",
+    "id": "electrical_engineering/dev/3"
+  },
+  {
+    "instruction": "选择最佳的命题逻辑翻译。George 借了 Hector 的割草机。(g: George; h: Hector; l: Hector的割草机; Bxyx: x从z借用了y)",
+    "option_a": "Blgh",
+    "option_b": "Bhlg",
+    "option_c": "Bglh",
+    "option_d": "Bghl",
+    "answer": "C",
+    "id": "formal_logic/dev/1"
+  },
+  {
+    "instruction": "令A为所有符合7m + 12n = 22条件的整数有序对(m, n)的集合。集合B = {m + n : (m, n) \\in A}，B中最大的负数是多少？",
+    "option_a": "-5",
+    "option_b": "-4",
+    "option_c": "-3",
+    "option_d": "-2",
+    "answer": "B",
+    "id": "college_mathematics/dev/4"
+  },
+  {
+    "instruction": "认为部分的真实情况一定是整体的真实情况，是以下哪种谬误？",
+    "option_a": "分割",
+    "option_b": "合成",
+    "option_c": "人身攻击",
+    "option_d": "无知引用",
+    "answer": "B",
+    "id": "logical_fallacies/dev/3"
+  },
+  {
+    "instruction": "Pascale对儿童学习新信息所使用的处理策略感兴趣。Pascale最适合被归类为哪种类型的心理学家？",
+    "option_a": "社会文化",
+    "option_b": "临床",
+    "option_c": "认知",
+    "option_d": "行为主义者",
+    "answer": "C",
+    "id": "high_school_psychology/dev/4"
+  },
+  {
+    "instruction": "这道题目涉及以下信息。\n“在每个州，社会都是一种福利，但即使在其最佳状态下，政府也只是一种必要的恶；在其最糟糕的状态下，它是一种无法容忍的恶；因为当我们因政府而受苦或面临与没有政府的国家相同的苦难时，我们反思提高了我们遭受苦难的方式。政府像衣服一样，是失去纯真的徽章；国王的宫殿建在天堂的废墟上。因为良心的冲动如果清晰、一致且不可抗拒，人们就不需要其他的立法者；但事实并非如此，他发现有必要放弃他的一部分财产，以提供保护其他财产的手段；他被同样的谨慎所激励，在其他情况下，建议他在两个灾难中选择较小的一个。因此，安全是政府真正的设计和目的，不容置疑的是，不论政府的形式如何，只要它最有可能以最小的代价和最大的利益确保我们的安全，就优于其他形式。”\n托马斯·潘恩，《常识》（1776）\n以下哪种“苦难”是后革命时期反联邦主义者最受谴责的？",
+    "option_a": "对贝肯起义的有组织反应",
+    "option_b": "对谢伊起义的联邦反应",
+    "option_c": "对威士忌起义的联邦反应",
+    "option_d": "对龙骨起义的联邦反应",
+    "answer": "C",
+    "id": "high_school_us_history/dev/0"
+  },
+  {
+    "instruction": "人口自然增长率是通过从粗出生率中减去粗死亡率来计算的。",
+    "option_a": "从粗出生率中减去粗死亡率。",
+    "option_b": "从粗死亡率中减去粗出生率。",
+    "option_c": "从翻倍时间中减去粗出生率。",
+    "option_d": "从生育率中减去粗死亡率。",
+    "answer": "A",
+    "id": "high_school_geography/dev/0"
+  },
+  {
+    "instruction": "2008年金融危机如何影响美国的国际声誉？",
+    "option_a": "它损害了对美国的政治经济和资本主义模式的支持",
+    "option_b": "它让世界对美国因夸大危机而感到愤怒",
+    "option_c": "它增加了人们对奥巴马总统领导下的美国全球领导力的支持",
+    "option_d": "它减少了全球使用美元的比例",
+    "answer": "A",
+    "id": "us_foreign_policy/dev/0"
+  },
+  {
+    "instruction": "文化网中哪个元素构成了礼服？",
+    "option_a": "符号",
+    "option_b": "仪式和惯例",
+    "option_c": "权力结构",
+    "option_d": "控制系统",
+    "answer": "A",
+    "id": "management/dev/2"
+  },
+  {
+    "instruction": "以下哪首歌是摇滚乐队The Police的十大热门歌曲？",
+    "option_a": "“Radio Ga-Ga”",
+    "option_b": "“Ob-la-di Ob-la-da”",
+    "option_c": "“De Do Do Do De Da Da Da”",
+    "option_d": "“In-a-Gadda-Da-Vida”",
+    "answer": "C",
+    "id": "miscellaneous/dev/4"
+  },
+  {
+    "instruction": "虽然内容和质量可以像直邮一样受控，但由于缺乏个人地址机制，此媒体的响应率较低。此媒体格式称为：",
+    "option_a": "护理热线。",
+    "option_b": "直邮。",
+    "option_c": "插页广告。",
+    "option_d": "挨家挨户。",
+    "answer": "D",
+    "id": "marketing/dev/4"
+  },
+  {
+    "instruction": "心理利己主义是：",
+    "option_a": "关于我们应该如何行为的伦理理论。",
+    "option_b": "有关人们如何倾向于行为方式的一般化陈述。",
+    "option_c": "有关人类本性以及人们行为方式的主张。",
+    "option_d": "以上都不是。",
+    "answer": "C",
+    "id": "philosophy/dev/0"
+  },
+  {
+    "instruction": "rock传奇乐队Cheap Trick的1979年现场专辑标题中提到了哪个地方的名字？",
+    "option_a": "布达佩斯",
+    "option_b": "日本武道馆",
+    "option_c": "不丹",
+    "option_d": "英国",
+    "answer": "B",
+    "id": "miscellaneous/dev/1"
+  },
+  {
+    "instruction": "一名22岁的男性马拉松选手来诊所找医生咨询，抱怨跑长距离时出现右侧肋骨疼痛。体格检查显示心肺方面正常，但右侧第4-5根肋骨呼气性失调。以下哪个肌肉或肌肉群利用直接方法纠正该疾病最有用？",
+    "option_a": "前斜角肌",
+    "option_b": "背阔肌",
+    "option_c": "小胸肌",
+    "option_d": "腰方肌",
+    "answer": "C",
+    "id": "professional_medicine/dev/4"
+  },
+  {
+    "instruction": "假设现在有一位研究人员希望使用信息准则来确定VAR的最优滞后期。一组横跨500个观测值的双变量VAR的剩余方差协方差矩阵行列式的数值分别为0.0336、0.0169、0.0084和0.0062，分别对应1、2、3和4个滞后期。根据AIC，最优模型阶数是多少？",
+    "option_a": "1个滞后期",
+    "option_b": "2个滞后期",
+    "option_c": "3个滞后期",
+    "option_d": "4个滞后期",
+    "answer": "C",
+    "id": "econometrics/dev/4"
+  },
+  {
+    "instruction": "求所有 Z_3 中的 c，使得 Z_3[x]/(x^2 + c) 是一个域。",
+    "option_a": "0",
+    "option_b": "1",
+    "option_c": "2",
+    "option_d": "3",
+    "answer": "B",
+    "id": "abstract_algebra/dev/0"
+  },
+  {
+    "instruction": "此问题涉及以下信息。\n“与新殖民主义的斗争并不是要排除发达国家的资本在欠发达国家的运营。它的目的是防止发达国家的财政实力被用来以使贫困的欠发达国家更加贫困的方式运作。非对齐主义的实践是以与所有国家的合作为基础的，无论它们是资本主义国家，社会主义国家还是混合经济体。因此，这样的政策涉及来自资本主义国家的对外投资，但必须根据非对齐主义国家政府制定的符合国家利益的国家计划进行投资。问题并不在于外国投资者所获得的投资回报率......问题在于权力。处于新殖民主义之中的国家不是自己命运的主宰。”\nKwame Nkrumah，Neo-Colonialism，1965\n下列哪一项提供了最佳的Nkrumah的著作上下文？",
+    "option_a": "工业革命",
+    "option_b": "去殖民化",
+    "option_c": "地区自由贸易协会",
+    "option_d": "自给自足",
+    "answer": "B",
+    "id": "high_school_world_history/dev/1"
+  },
+  {
+    "instruction": "最近一个州通过了一项法规，禁止在该州内处置任何核废料。这项法律不违反或冲突任何联邦法规。一名男子在该州经营一家处置核废料的公司。在该州法规颁布后，该男子尚未意识到新法规，与许多外州公司签订了处理其核废料的合同。然而，由于这项新法律，该男子将无法执行这些合同。假设该男子有资格挑战这项州法律。以下哪一项是他挑战该州禁止在该州内处置核废料法律的最强宪法依据？",
+    "option_a": "《商业条款》。",
+    "option_b": "《第十四修正案》平等保护条款。",
+    "option_c": "宪法第四条第二款特权和豁免条款。",
+    "option_d": "合同条款。",
+    "answer": "A",
+    "id": "professional_law/dev/1"
+  },
+  {
+    "instruction": "当出现霜冻警报时，一个大型橙园的老板要求他的工人给所有的树喷水。水应该冻结，并在橙花周围形成一层保护性的冰覆盖。然而，老板怀疑由于霜冻造成了一些树受到了相当大的损坏。为了估计由于霜冻导致超过50%的树木受到损坏的比例，他从橙园中随机抽取了100棵树组成了样本。在这个实验中，哪个是响应变量？",
+    "option_a": "因霜冻遭受超过50%损失的树木比例。",
+    "option_b": "受霜冻影响的树木数量。",
+    "option_c": "从橙园中抽样的树木数量。",
+    "option_d": "针对每个抽样的树木，其是否遭受了超过50%的损害或至多50%的损害。",
+    "answer": "D",
+    "id": "high_school_statistics/dev/2"
+  },
+  {
+    "instruction": "许多网络浏览器允许用户打开匿名窗口。在匿名窗口中浏览时，浏览器不记录浏览历史或下载文件列表。退出匿名窗口时，会删除会话期间创建的 cookie。关于在匿名窗口中浏览的哪些说法是正确的？",
+    "option_a": "在匿名窗口中浏览的用户活动将不会被那些监控用户网络的人（例如系统管理员）看到。",
+    "option_b": "在匿名浏览会话期间放入 Web 商店购物车中进行以便未来购买的商品将不会保存在用户的计算机上。",
+    "option_c": "用户将无法在匿名浏览会话期间登录电子邮件或社交媒体账户。",
+    "option_d": "在匿名窗口中浏览的用户将受到来自任何访问的网站或下载文件启动的病毒的保护。",
+    "answer": "B",
+    "id": "high_school_computer_science/dev/1"
+  },
+  {
+    "instruction": "俄亥俄领导研究的两个主要维度是什么？",
+    "option_a": "起始位置和结束位置",
+    "option_b": "初始环境和变化环境",
+    "option_c": "组织结构和调节",
+    "option_d": "初始结构和考虑因素",
+    "answer": "D",
+    "id": "management/dev/0"
+  },
+  {
+    "instruction": "为确保非执行董事会成员的独立性，可以采取一些步骤，其中包括从公司_______外招募非执行董事，指定一段_______时间来任职，以及独立地被任命。",
+    "option_a": "公司外部，有限的，独立地",
+    "option_b": "公司内部，有限的，间歇性地",
+    "option_c": "公司外部，无限制的，间歇性地",
+    "option_d": "公司内部，无限制的，独立地",
+    "answer": "A",
+    "id": "business_ethics/dev/2"
+  },
+  {
+    "instruction": "如何计算数据集的中心趋势有三种方法：算术平均数、中位数以及众数。从你对它们的了解中，众数是什么？",
+    "option_a": "比算术平均数对极端值不太敏感",
+    "option_b": "对偏态分布更有用",
+    "option_c": "对极端值和高度偏态分布敏感",
+    "option_d": "出现频率最高的数字",
+    "answer": "D",
+    "id": "professional_psychology/dev/1"
+  },
+  {
+    "instruction": "根据霍夫丁不等式，为了获得真正的0/1损失的百分之一以下的损失估计（概率为95%），IID测试集合必须包含多少个样本？",
+    "option_a": "大约10个样本",
+    "option_b": "大约100个样本",
+    "option_c": "100至500个样本之间",
+    "option_d": "超过1000个样本",
+    "answer": "D",
+    "id": "machine_learning/dev/3"
+  },
+  {
+    "instruction": "在手部功能评估中，以下哪个陈述是正确的？",
+    "option_a": "拇指外展由脊神经根T2供应",
+    "option_b": "拇指对立肌的对立由脊神经根T1供应",
+    "option_c": "手指内收由正中神经供应",
+    "option_d": "手指外展由掌侧骨间肌介导",
+    "answer": "B",
+    "id": "clinical_knowledge/dev/2"
+  },
+  {
+    "instruction": "截至2019年，大约有多少美国人同意州政府是为全体人民谋福利运作的？",
+    "option_a": "31%",
+    "option_b": "46%",
+    "option_c": "61%",
+    "option_d": "76%",
+    "answer": "B",
+    "id": "global_facts/dev/1"
+  },
+  {
+    "instruction": "研究人员现在认为玛雅人的衰落主要是由以下原因造成的：",
+    "option_a": "某种灾难，例如地震、火山或海啸。",
+    "option_b": "由于刀耕火种的农业技术而导致的生态退化。",
+    "option_c": "邻近的玛雅城邦之间不断的战争。",
+    "option_d": "交配行为的做法导致致残疾病的急剧增加。",
+    "answer": "B",
+    "id": "prehistory/dev/2"
+  },
+  {
+    "instruction": "截至2017年，今天世界上有多少1岁儿童接种了某种疾病的疫苗？ *",
+    "option_a": "80%",
+    "option_b": "60%",
+    "option_c": "40%",
+    "option_d": "20%",
+    "answer": "A",
+    "id": "global_facts/dev/4"
+  },
+  {
+    "instruction": "在一项队列研究中，将喝茶的人群（暴露组）与不喝茶的人群（未暴露组）进行比较，其患糖尿病的风险比为0.86。以下哪个说法是正确的（根据2020年的知识）？\n",
+    "option_a": "喝茶人群患糖尿病的风险较低。",
+    "option_b": "喝茶人群患糖尿病的风险较高。",
+    "option_c": "基于所给信息，我们无法确定观察到的疾病风险差异是否是由于偶然性的结果。",
+    "option_d": "风险比接近于1，因此两组之间没有疾病风险的差异。",
+    "answer": "C",
+    "id": "nutrition/dev/0"
+  },
+  {
+    "instruction": "这三种元素中哪一种元素的每个核子质量最高？",
+    "option_a": "氢",
+    "option_b": "铁",
+    "option_c": "铀",
+    "option_d": "每个核子的质量相同",
+    "answer": "A",
+    "id": "conceptual_physics/dev/4"
+  },
+  {
+    "instruction": "NSC-68如何改变了美国的战略？",
+    "option_a": "它全球化了遏制。",
+    "option_b": "它军事化了遏制。",
+    "option_c": "它呼吁发展氢弹。",
+    "option_d": "以上全是。",
+    "answer": "D",
+    "id": "us_foreign_policy/dev/1"
+  },
+  {
+    "instruction": "截至2020年，以下哪个解释最有可能解释膳食纤维对结肠癌的保护作用？\n",
+    "option_a": "结肠纤维发酵过程中形成的丙酸抑制肝脏脂肪酸合成",
+    "option_b": "结肠纤维发酵过程中形成的丁酸刺激SLC5A8抑癌基因\"沉默\"",
+    "option_c": "这些选项均不正确",
+    "option_d": "结肠纤维发酵过程中形成的丁酸刺激结肠中的抗氧化防御",
+    "answer": "D",
+    "id": "nutrition/dev/2"
+  },
+  {
+    "instruction": "1980年10月1日，一位开发商拥有一片数百英亩的农村土地，并为该地区起草了一份总体规划。该计划已被正式记录，对计划中的土地施加了精细的限制和限制条件，该地区将被开发为住宅区。这些限制将适用于所有购买任何一块地的人以及他们的继承人、受让人和承租人。此外，计划规定，所有后续业主将被要求注意限制条件。其中在总体规划中的限制之一是：（22）在每块地的后面创造10英尺宽的土地特许经营权，供公共事业公司使用，并享有进入和出入的权利。 （23）任何房屋或任何类型的结构都不得在上述土地带上建造。在2000年，一位退休人员购买了其中一块地，建造了一座房子，并在限制区域内的房屋后面建了一堵围墙。2004年，一位老师购买了一块与退休人员财产相邻的地皮，并建造了一座新房子。两年后，一名图书管理员购买了相邻老师房产的地块。这些财产的三份契约文件均包含对记录总体规划的契约书的引用。2008年，图书馆管理员开始修建沿着他的地块与老师之间的分界线和在土地特许经营权范围内中心的七英尺高的柱形栅栏。尽管老师反对其建造，但围栏已经完成。如果老师寻求强制令以迫使图书馆管理员拆除围栏，则法院极有可能会",
+    "option_a": "给予救济，因为围栏违反了管道用地限制。",
+    "option_b": "给予救济，因为围栏的侵入违反了原始计划中的限制。",
+    "option_c": "拒绝救济，因为老师未能对退休人员执行限制。",
+    "option_d": "拒绝救济，因为围栏不会被解释为限制条款内的“结构”。",
+    "answer": "B",
+    "id": "professional_law/dev/3"
+  },
+  {
+    "instruction": "在海里游泳时，伊万甚至还没来得及确认黑影是什么就被吓到了。在这种惊吓情况下发生的突触连接最能用以下哪个描述？",
+    "option_a": "信息直接从丘脑发送到杏仁核。",
+    "option_b": "信息从丘脑发送到“什么”和“哪里”通路。",
+    "option_c": "信息从副交感神经系统发送到大脑皮层。",
+    "option_d": "信息从额叶发送到垂体腺。",
+    "answer": "A",
+    "id": "high_school_psychology/dev/2"
+  },
+  {
+    "instruction": "自然图像最常用的图像数据增强方式是什么？",
+    "option_a": "随机裁剪和水平翻转",
+    "option_b": "随机裁剪和竖直翻转",
+    "option_c": "色调分离",
+    "option_d": "抖动",
+    "answer": "A",
+    "id": "machine_learning/dev/1"
+  },
+  {
+    "instruction": "以下哪种热力学过程中，理想气体内能的增加量等于向气体添加的热量？",
+    "option_a": "恒温",
+    "option_b": "恒容",
+    "option_c": "恒压",
+    "option_d": "绝热",
+    "answer": "B",
+    "id": "college_physics/dev/1"
+  },
+  {
+    "instruction": "其他条件相同，以下哪位个体更有可能患上骨质疏松症？",
+    "option_a": "一位年长的西班牙裔美国女性",
+    "option_b": "一位年长的非裔美国女性",
+    "option_c": "一位年长的亚裔美国女性",
+    "option_d": "一位年长的美洲原住民女性",
+    "answer": "C",
+    "id": "human_aging/dev/4"
+  },
+  {
+    "instruction": "以下哪一项是寡头垄断必然的特征？",
+    "option_a": "可以自由进入和退出市场",
+    "option_b": "少数几家大型生产商",
+    "option_c": "唯一生产无可替代物品的生产厂商",
+    "option_d": "同种类产品",
+    "answer": "B",
+    "id": "high_school_microeconomics/dev/4"
+  },
+  {
+    "instruction": "在AngleII类第2种咬合方式中，存在以下情况",
+    "option_a": "上侧切牙的反合过度。",
+    "option_b": "上中切牙的负性前伸。",
+    "option_c": "上侧切牙的过度前伸。",
+    "option_d": "上中切牙的过度前伸。",
+    "answer": "C",
+    "id": "anatomy/dev/3"
+  },
+  {
+    "instruction": "Krete 是一位仅从工资收入来源的未婚纳税人。到 year 1 年底为止，Krete 的雇主已经代扣了 $16,000 的联邦所得税，Krete 没有进行任何预计税款缴纳。在 year 2 年 4 月 15 日，Krete 及时申请延期申报个人所得税，另外缴纳了 $300 的附加税款。Krete 的 year 1 年度税负为 $16,500，同时在 year 2 年 4 月 30 日及时申报并支付了其余的税款。那么应该缴纳未缴预计税款罚款的金额是多少？",
+    "option_a": "$0",
+    "option_b": "$500",
+    "option_c": "$1,650",
+    "option_d": "$16,500",
+    "answer": "A",
+    "id": "professional_accounting/dev/2"
+  },
+  {
+    "instruction": "根据等效原理，以下物体是相等的",
+    "option_a": "空间和时间。",
+    "option_b": "旅行中的孪生兄弟和呆在家的孪生兄弟。",
+    "option_c": "重力和加速度。",
+    "option_d": "质量和能量。",
+    "answer": "C",
+    "id": "conceptual_physics/dev/1"
+  },
+  {
+    "instruction": "地球一小时是由哪个组织发起的活动？",
+    "option_a": "绿色和平组织",
+    "option_b": "联合国",
+    "option_c": "乐施会",
+    "option_d": "世界自然基金会",
+    "answer": "D",
+    "id": "public_relations/dev/4"
+  },
+  {
+    "instruction": "下列哪个是有效的分类三段论的真实陈述？",
+    "option_a": "次前提必须否定前提中的结论",
+    "option_b": "主前提必须肯定结论",
+    "option_c": "中间术语必须在至少一个前提中以普遍或未限定的方式使用",
+    "option_d": "以上全部",
+    "answer": "C",
+    "id": "logical_fallacies/dev/2"
+  },
+  {
+    "instruction": "以下哪项政策最能描述供给侧财政政策？",
+    "option_a": "货币供应量增加",
+    "option_b": "政府支出增加",
+    "option_c": "降低新技术研发的税收",
+    "option_d": "增加个人所得税",
+    "answer": "C",
+    "id": "high_school_macroeconomics/dev/4"
+  },
+  {
+    "instruction": "联合国宪章第2(4)条禁止哪些类型的武力？",
+    "option_a": "第2(4)条仅包括武装力量",
+    "option_b": "第2(4)条包括所有类型的力量，包括制裁",
+    "option_c": "第2(4)条包括所有干涉国家内政的行为",
+    "option_d": "第2(4)条仅禁止针对国家领土完整的武力",
+    "answer": "A",
+    "id": "international_law/dev/0"
+  },
+  {
+    "instruction": "在工厂的一个部分制造了一个新的智能手表，然后在另一个独立的部分对其进行包装以进行运输。智能手表的重量平均为62克，标准差为1.0克。包装的重量（盒子、用户指南、气泡膜等）的平均重量为456克，标准差为6克。两者重量的分布将具有以下平均值和标准差：",
+    "option_a": "平均重量518克；标准差7.0克",
+    "option_b": "平均重量518克；标准差3.5克",
+    "option_c": "平均重量518克；标准差6.1克",
+    "option_d": "平均重量394克；标准差6.1克",
+    "answer": "C",
+    "id": "high_school_statistics/dev/3"
+  },
+  {
+    "instruction": "在问题管理方面，应对组织被发布的负面或误导性信息最积极的方法是什么？",
+    "option_a": "购买可能会被反对团体使用的域名。",
+    "option_b": "发表匿名评论以打击这些信息。",
+    "option_c": "准备一份新闻稿，驳斥不准确的信息。",
+    "option_d": "制定政策变化，解决这些网站上提出的投诉。",
+    "answer": "D",
+    "id": "public_relations/dev/1"
+  },
+  {
+    "instruction": "托尔斯泰在皈依基督教之前，对于生命的意义持有什么样的观点？",
+    "option_a": "乐观主义者",
+    "option_b": "满意的",
+    "option_c": "名义上有宗教信仰的",
+    "option_d": "悲观主义者",
+    "answer": "D",
+    "id": "philosophy/dev/3"
+  },
+  {
+    "instruction": "1948年的战后福利国家不旨在提供以下哪项服务:",
+    "option_a": "所有人免费的医疗保健与教育",
+    "option_b": "最低工资",
+    "option_c": "全民就业",
+    "option_d": "全民福利",
+    "answer": "B",
+    "id": "sociology/dev/0"
+  },
+  {
+    "instruction": "十名学生参加生物学测试并获得以下分数：45、55、50、70、65、80、40、90、70、85。学生的测试成绩的平均值是多少？",
+    "option_a": "55",
+    "option_b": "60",
+    "option_c": "62",
+    "option_d": "65",
+    "answer": "D",
+    "id": "high_school_mathematics/dev/4"
+  },
+  {
+    "instruction": "卫生因素与哪位作家有关？",
+    "option_a": "弗雷德里克·赫茨伯格",
+    "option_b": "D.C.麦克莱兰",
+    "option_c": "亚伯拉罕·马斯洛",
+    "option_d": "道格拉斯·麦克格雷戈",
+    "answer": "A",
+    "id": "management/dev/1"
+  },
+  {
+    "instruction": "在下面的程序中，x的初始值为5，y的初始值为10。\n如果 (X < O)\n {\n 显示 (\"Foxtrot\")\n }\n 否则\n {\n 如果 (X > y)\n {\n   显示 (\"Hotel\")\n }\n 否则 \n {\n   如果 (y > O)\n   {\n   显示 (\"November\")\n   }\n   否则\n   {\n   显示 (\"Yankee\")\n   }\n }\n }\n \n 运行程序后显示的结果是什么？",
+    "option_a": "Foxtrot",
+    "option_b": "Hotel",
+    "option_c": "November",
+    "option_d": "Yankee",
+    "answer": "C",
+    "id": "high_school_computer_science/dev/3"
+  },
+  {
+    "instruction": "如今，对于在《ICCPR》中对酷刑定义的保留是否可以接受？",
+    "option_a": "如果保留国家的立法采用了不同的定义，那么这是可以接受的。",
+    "option_b": "这是不可接受的保留，因为它违反了《ICCPR》的目的和宗旨。",
+    "option_c": "这是不可接受的保留，因为《ICCPR》对酷刑的定义符合惯例国际法。",
+    "option_d": "这是可以接受的保留，因为根据国际法的一般原则，国家有权对条约进行保留。",
+    "answer": "B",
+    "id": "international_law/dev/2"
+  },
+  {
+    "instruction": "一个微波炉连接到一个电源插座，电压为120伏，电流为2安。微波炉的能量消耗率是多少？",
+    "option_a": "10 W",
+    "option_b": "30 W",
+    "option_c": "60 W",
+    "option_d": "240 W",
+    "answer": "D",
+    "id": "high_school_physics/dev/3"
+  },
+  {
+    "instruction": "巴隆承认她所讨论的滴滴声炸弹假设的版本是“惊人的愚蠢”，但她声称这实际上是证明",
+    "option_a": "大多数传统哲学例子的愚蠢。",
+    "option_b": "高学位人群普遍缺乏智力。",
+    "option_c": "酷刑是错误的。",
+    "option_d": "许多聪明人都准备好把酷刑视为应对恐怖主义的最佳解决方案。",
+    "answer": "D",
+    "id": "moral_disputes/dev/4"
+  },
+  {
+    "instruction": "根据辛格的说法，以下哪个是内在价值？",
+    "option_a": "身处上层阶级",
+    "option_b": "具有学习和解决问题的能力",
+    "option_c": "比大部分人更美丽",
+    "option_d": "低于平均身高",
+    "answer": "B",
+    "id": "moral_disputes/dev/2"
+  },
+  {
+    "instruction": "标准汽车有几个轴？",
+    "option_a": "一个",
+    "option_b": "两个",
+    "option_c": "四个",
+    "option_d": "八个",
+    "answer": "B",
+    "id": "miscellaneous/dev/0"
+  },
+  {
+    "instruction": "葡萄糖被运输到肌肉细胞中：",
+    "option_a": "通过被称为GLUT4的蛋白质转运体。",
+    "option_b": "只有在胰岛素存在时才能进行。",
+    "option_c": "通过hexokinase进行。",
+    "option_d": "通过单羧酸转运体进行。",
+    "answer": "A",
+    "id": "college_medicine/dev/0"
+  },
+  {
+    "instruction": "3 Cl−(aq) + 4 CrO_4^2−(aq) + 23 H+(aq) → 3 HClO2(aq) + 4 Cr3+(aq) + 10 H2O(l)。在上述反应中，Cl−(aq)的行为是",
+    "option_a": "一个酸",
+    "option_b": "一个碱",
+    "option_c": "一个催化剂",
+    "option_d": "一个还原剂",
+    "answer": "D",
+    "id": "college_chemistry/dev/3"
+  },
+  {
+    "instruction": "术语“预算赤字”是指",
+    "option_a": "联邦军事支出的年增加",
+    "option_b": "国债利息的总额",
+    "option_c": "总统和国会最初预算提案之间的差异",
+    "option_d": "政府支出超过其收入的金额",
+    "answer": "D",
+    "id": "high_school_government_and_politics/dev/1"
+  },
+  {
+    "instruction": "这个问题涉及以下信息。以下摘录出自1651年的航海法。\n自一千六百五十一年十二月一日开始，任何亚洲、非洲或美洲的生长、生产或制造的货物或商品，或任何属于这些地区或在这些地区的通常地图或卡片上标注的任何岛屿，以及英国或其他种植园的，都不能进口到英国共和国、爱尔兰共和国或任何其他属于或被这些共和国占有的陆地、岛屿、种植园或领土，也不能用任何其他船只运送，只能用真正、没有欺骗性地属于这些共和国的人民或属于它们的种植园、作为所有者或合法所有人拥有的船只，并且船长和水手也必须是这些共和国的人民。否则，违反此法案进口的所有货物将被罚没和失去。\n自一千六百五十一年十二月一日开始，任何欧洲或欧洲任何部分的生长、生产或制造的货物或商品，都不得进口到英国共和国或任何其他属于或被这些共和国占有的陆地或领土中，也不能用任何其他船只运送。除了真正、没有欺骗意图的只属于这些共和国或这些货物生长、生产或制造所在的国家或地区的外国船只。\n以下哪个最准确描述了1651年航海法的结果？",
+    "option_a": "它们促进了英国航运和海外贸易的增长，但在17世纪并没有限制荷兰的前景。",
+    "option_b": "它们几乎立即给荷兰经济带来了困难，因为他们在海外贸易方面的主导地位很快结束。",
+    "option_c": "在归还斯图亚特家族王室期间，它们被撤回，因为他们寻求与荷兰的正常外交关系，以免需要议会在战争中提供财务支持。",
+    "option_d": "它们导致英国和荷兰之间长达一个世纪的不断战争，直到美国独立后才结束。",
+    "answer": "A",
+    "id": "high_school_european_history/dev/3"
+  },
+  {
+    "instruction": "孕吐通常是个问题:",
+    "option_a": "在怀孕的第一季度",
+    "option_b": "在怀孕的第二季度",
+    "option_c": "在怀孕的第三季度",
+    "option_d": "整个孕期都有可能",
+    "answer": "A",
+    "id": "human_sexuality/dev/0"
+  },
+  {
+    "instruction": "预测13C标记甲基自由基（13CH3·）溶液EPR谱中的线数，假设这些线不重叠。",
+    "option_a": "4",
+    "option_b": "3",
+    "option_c": "6",
+    "option_d": "24",
+    "answer": "A",
+    "id": "college_chemistry/dev/2"
+  },
+  {
+    "instruction": "根据蒂莫西·帕克特的说法，卡霍基的社会分层和政治权力证据表明：",
+    "option_a": "密西西比文明的中心，具有早期国家崛起时的类似条件。",
+    "option_b": "一个原住民平等采集者社会中权力的限制。",
+    "option_c": "一个简单的酋长国，或者可能是一个复杂的酋长国在公元1500年前就已进化。",
+    "option_d": "密西西比文明的中心，具有北美西北部社会类似的条件。",
+    "answer": "A",
+    "id": "prehistory/dev/1"
+  },
+  {
+    "instruction": "为了被证券化，威胁必须以以下哪种方式呈现？",
+    "option_a": "作为一种存在威胁，需要立即采取非凡措施，对国家或社会安全构成威胁。",
+    "option_b": "作为一种需要国家立即采取非凡措施的威胁，威胁到参照对象的生存，因此需要采取通常不在政治领域采用的措施。",
+    "option_c": "作为对参照对象生存的紧急威胁，如此严重以至于正当化采取非凡措施作出回应。",
+    "option_d": "作为对观众生存的紧急威胁，需要采取特别或紧急措施。",
+    "answer": "C",
+    "id": "security_studies/dev/2"
+  },
+  {
+    "instruction": "除了参与企业社会责任的商业案例之外，还有许多与负面____有关的道德争论，______的公司拥有的权力以及商业与社会的______。",
+    "option_a": "外部性，权力，独立性",
+    "option_b": "宣传，虚无的资源，相互依存",
+    "option_c": "宣传，权力，独立性",
+    "option_d": "外部性，权力，相互依存",
+    "answer": "D",
+    "id": "business_ethics/dev/0"
+  },
+  {
+    "instruction": "一个先前健康的32岁女性，在其丈夫死于车祸8个月后来找医生。自那时以来，她食欲不振，难以入睡。她说她经常感到悲伤并经常流泪。她在离开她的房子之前重新检查门锁五次，而且在使用厕纸之前必须数出正好五片。她说她一直是个完美主义者，但这些冲动和仪式是新出现的。应该针对以下哪种神经递质进行药物治疗？",
+    "option_a": "多巴胺",
+    "option_b": "谷氨酸",
+    "option_c": "去甲肾上腺素",
+    "option_d": "5-羟色胺",
+    "answer": "D",
+    "id": "professional_medicine/dev/2"
+  },
+  {
+    "instruction": "选出最佳的一项对这个命题进行谓词逻辑翻译：没有人在火星开车。",
+    "option_a": "~Pd",
+    "option_b": "(∀x)(Px ∨ ~Dx)",
+    "option_c": "(∀x)(Px ⊃ ~Dx)",
+    "option_d": "~Dp",
+    "answer": "C",
+    "id": "formal_logic/dev/0"
+  },
+  {
+    "instruction": "川普在2016年竞选中是如何攻击全球化的？",
+    "option_a": "全球化使像他这样的人太富有",
+    "option_b": "全球化只有像纽约这样的某些美国州获益",
+    "option_c": "自由派精英推动全球化，而'普通美国人'因此失业",
+    "option_d": "全球化鼓励了有害的贸易战",
+    "answer": "C",
+    "id": "us_foreign_policy/dev/4"
+  },
+  {
+    "instruction": "行为干预最重要的目标是：",
+    "option_a": "改变行为",
+    "option_b": "全面覆盖",
+    "option_c": "有效利用行为理论",
+    "option_d": "持续的行为改变",
+    "answer": "D",
+    "id": "virology/dev/3"
+  },
+  {
+    "instruction": "管子一端被封闭，充满空气。在管子中产生一定频率的驻波，从而使管子发出了声音。以下哪项是有关管子封闭端处波的属性的正确描述？",
+    "option_a": "压强为节点，而粒子位移为反节点。",
+    "option_b": "压强为反节点，而粒子位移为节点。",
+    "option_c": "压强和粒子位移都为节点。",
+    "option_d": "压强和粒子位移都为反节点。",
+    "answer": "B",
+    "id": "high_school_physics/dev/1"
+  },
+  {
+    "instruction": "促成从MACS开始使用嵌套病例对照研究的关键因素是：",
+    "option_a": "数据收集",
+    "option_b": "建立生物标本储存库",
+    "option_c": "参与者兴趣",
+    "option_d": "由工作人员进行问卷调查",
+    "answer": "B",
+    "id": "virology/dev/2"
+  },
+  {
+    "instruction": "大的三联重复扩展可以通过以下方式检测:",
+    "option_a": "聚合酶链式反应。",
+    "option_b": "单链构象多态性分析。",
+    "option_c": "Southern Blotting。",
+    "option_d": "Western Blotting。",
+    "answer": "C",
+    "id": "medical_genetics/dev/0"
+  },
+  {
+    "instruction": "糖酵解是指将以下物质转化为：",
+    "option_a": "将糖原转化为葡萄糖-1-磷酸。",
+    "option_b": "将糖原或葡萄糖转化为果糖。",
+    "option_c": "将糖原或葡萄糖转化为丙酮酸或乳酸。",
+    "option_d": "将糖原或葡萄糖转化为丙酮酸或乙酰辅酶A。",
+    "answer": "C",
+    "id": "clinical_knowledge/dev/4"
+  },
+  {
+    "instruction": "假设随机变量X和Y的期望值分别为E(X)=37，方差为var(X)=5，E(Y)=62，方差为var(Y)=12。随机变量X+Y的期望值和方差分别是多少？",
+    "option_a": "E(X+Y)=99，var(X+Y)=8.5",
+    "option_b": "E(X+Y)=99，var(X+Y)=13",
+    "option_c": "E(X+Y)=99，var(X+Y)=17",
+    "option_d": "无法回答此问题。",
+    "answer": "D",
+    "id": "high_school_statistics/dev/1"
+  },
+  {
+    "instruction": "2020年以来，恐怖主义一直是在哪些分析框架下考虑的？",
+    "option_a": "较大国家之间的竞争导致一些国家积极支持恐怖组织以削弱敌对国家的实力。恐怖网络是由捐赠国维护和付费的客户俱乐部，被构想为类似于国家行为者，应该使用军事力量对付。",
+    "option_b": "全球化使恐怖活动国际化，开放了其操作空间，尽管协调仍然是从地理基础进行的。这表明恐怖组织是国家结构化的，这意味着不能在不严重影响土著人口的情况下将恐怖主义视为应该通过军事手段打败的战争。",
+    "option_c": "恐怖主义可以被视为一个问题，可以通过军事手段（打击恐怖主义）、正常的警察技术（恐怖主义作为犯罪）或作为一个具有根本原因和症状的医学问题（恐怖主义作为疾病）来解决。",
+    "option_d": "恐怖主义被视为一个犯罪问题。恐怖主义的犯罪化有两个重要的含义。首先，它表明恐怖主义可以被根除 - 恐怖分子可以通过正常的司法程序被抓获并受到审判，从而从社会上消除了恐怖威胁；其次，它表明预防犯罪技术适用于防止其发展。",
+    "answer": "C",
+    "id": "security_studies/dev/4"
+  },
+  {
+    "instruction": "审判开始时，法官已经事先审查了一些事实。以下哪种事实不适合作为法律认定的基础？",
+    "option_a": "不容置疑的事实。",
+    "option_b": "被个人政治组织声称的事实。",
+    "option_c": "通过常识可以认证的事实。",
+    "option_d": "需要进行科学验证才能确认的事实。",
+    "answer": "B",
+    "id": "professional_law/dev/2"
+  },
+  {
+    "instruction": "Homo erectus的头骨容积大约是多少?",
+    "option_a": "小于650毫升",
+    "option_b": "大约800毫升",
+    "option_c": "略低于1000毫升",
+    "option_d": "1200毫升",
+    "answer": "C",
+    "id": "prehistory/dev/4"
+  },
+  {
+    "instruction": "中新世中期人类物种年代测定的最新研究表明(截至2020年)：",
+    "option_a": "该时期有很多物种多样性，或者是一种物种展现出了很多多样性。",
+    "option_b": "该时期物种多样性很少，人类也很少。",
+    "option_c": "由于漫长的冰河时期和严重的干旱，物种多样性减少了。",
+    "option_d": "物种多样性减少，但石锤和石片的数量增加，表明制造石器的能力提高了。",
+    "answer": "A",
+    "id": "prehistory/dev/3"
+  },
+  {
+    "instruction": "减数分裂的染色体配对和交叉的阶段是：",
+    "option_a": "I期前期",
+    "option_b": "I期中期",
+    "option_c": "II期前期",
+    "option_d": "II期中期",
+    "answer": "A",
+    "id": "medical_genetics/dev/4"
+  },
+  {
+    "instruction": "根据以下信息回答问题。\n尽管国王陛下公正合理地是英格兰国教的最高元首，而且在这个教区的传道人在他们的会议中承认了这一点，但是，为了加强和确认这一点，并为了在英格兰境内基督宗教的道德增长，以及压制和消除此前在同一领域中使用的所有错误、异端和其他罪行、庞大的滥用和不正之风，特此由现有议会的授权，宣布，包括本国皇室的国王及其继承人在内，此教会地位的唯一最高元首，即被称为英国圣公会的主内，在这领地上享有并拥有几乎所有的头衔、地位、荣耀、品位、管辖权、特权、豁免权、利益和相关权益；并且，我们的国王，及其继承人，作为这个领地的国王，将拥有全面的权力和权限，以便每一次来进行访问、压制、纠正、记录、指示、修正、约束和改善所有这样的错误、异端、滥用、犯罪、蔑视和庞大罪状，无论这些属于任何形式的灵性权威或管辖应否得到合法的修正、控制、指出、修正、限制或改进，最能取悦全能的上帝，增进基督宗教的美德，为保护这个领地的和平、团结和安宁。尽管任何惯例、外国权威、处方或其他任何与此相反的事情。\n英格兰议会，至高法令，1534\n由文中可以推断出，英格兰议会希望通过至高法令。",
+    "option_a": "给予英国国王新的权力地位",
+    "option_b": "将英格兰国教的主席职位仅授予亨利八世，而排除他的继承人",
+    "option_c": "确定加尔文教义为唯一正确的英格兰神学",
+    "option_d": "结束折磨英国教会的各种腐败形式",
+    "answer": "D",
+    "id": "high_school_european_history/dev/4"
+  },
+  {
+    "instruction": "胸膜",
+    "option_a": "没有感觉神经。",
+    "option_b": "间隔为 2 毫米。",
+    "option_c": "延伸至颈部。",
+    "option_d": "由呼吸道上皮组成。",
+    "answer": "C",
+    "id": "anatomy/dev/2"
+  },
+  {
+    "instruction": "韦伯对正式理性法律发展的解释中哪个词最能概括其思想？",
+    "option_a": "权威。",
+    "option_b": "魅力。",
+    "option_c": "协作。",
+    "option_d": "资本主义。",
+    "answer": "D",
+    "id": "jurisprudence/dev/2"
+  },
+  {
+    "instruction": "在人口转变模型的第三阶段，以下哪项是正确的？",
+    "option_a": "出生率增加，人口增长率减缓。",
+    "option_b": "出生率下降，人口增长率减缓。",
+    "option_c": "出生率增加，人口增长率增加。",
+    "option_d": "出生率下降，人口增长率增加。",
+    "answer": "B",
+    "id": "high_school_geography/dev/1"
+  },
+  {
+    "instruction": "截至2020年，2型糖尿病和肥胖病人的首选药物是什么?",
+    "option_a": "阿卡波糖",
+    "option_b": "二甲双胍",
+    "option_c": "磺脲类药物",
+    "option_d": "胰岛素",
+    "answer": "B",
+    "id": "nutrition/dev/4"
+  },
+  {
+    "instruction": "根据2020年美国的普通道德标准，下列两种情况中，主角（使用I/我）在哪种情况下明显违反道德标准？情况1 | 我从店外的人那里要了一支香烟。情况2 | 当保安离开他的岗位时，我偷走了一枚罕见的硬币。",
+    "option_a": "错了，错了",
+    "option_b": "错了，不错",
+    "option_c": "不错，错了",
+    "option_d": "不错，不错",
+    "answer": "C",
+    "id": "moral_scenarios/dev/1"
+  },
+  {
+    "instruction": "下列哪些选项包含有必要在有丝分裂和减数分裂中进行染色体分离所需的DNA序列？",
+    "option_a": "端粒",
+    "option_b": "着丝粒",
+    "option_c": "核小体",
+    "option_d": "剪接体",
+    "answer": "B",
+    "id": "college_biology/dev/4"
+  },
+  {
+    "instruction": "以下哪类人在2019年更有可能独自待在家中？",
+    "option_a": "亚洲男性或女性",
+    "option_b": "西班牙裔男性",
+    "option_c": "非裔美国女性",
+    "option_d": "白人男性或女性",
+    "answer": "C",
+    "id": "human_aging/dev/0"
+  },
+  {
+    "instruction": "以下哪种情况不显示多因素遗传？",
+    "option_a": "幽门狭窄",
+    "option_b": "精神分裂症",
+    "option_c": "脊柱裂（神经管缺陷）",
+    "option_d": "马凡氏综合征",
+    "answer": "D",
+    "id": "medical_genetics/dev/3"
+  },
+  {
+    "instruction": "以下哪个不是形成重组 DNA 的方法？",
+    "option_a": "翻译",
+    "option_b": "接合",
+    "option_c": "专门转导",
+    "option_d": "转化",
+    "answer": "A",
+    "id": "high_school_biology/dev/0"
+  },
+  {
+    "instruction": "「开放系统」管理模型的哪个特征不是关键特征？",
+    "option_a": "士气",
+    "option_b": "创新",
+    "option_c": "成长资源",
+    "option_d": "适应能力",
+    "answer": "A",
+    "id": "management/dev/3"
+  },
+  {
+    "instruction": "以下哪个最佳按热稳定性从低到高列出了第14族元素的氢化物？",
+    "option_a": "PbH4 < SnH4 < GeH4 < SiH4 < CH4",
+    "option_b": "PbH4 < SnH4 < CH4 < GeH4 < SiH4",
+    "option_c": "CH4 < SiH4 < GeH4 < SnH4 < PbH4",
+    "option_d": "CH4 < PbH4 < GeH4 < SnH4 < SiH4",
+    "answer": "A",
+    "id": "college_chemistry/dev/4"
+  },
+  {
+    "instruction": "以下哪个分子是极性分子？",
+    "option_a": "PCl4F",
+    "option_b": "BF3",
+    "option_c": "CO2",
+    "option_d": "Si(CH3)4",
+    "answer": "A",
+    "id": "high_school_chemistry/dev/1"
+  },
+  {
+    "instruction": "以下哪一个是包含垂体的腔体？",
+    "option_a": "腹部",
+    "option_b": "颅腔",
+    "option_c": "胸腔",
+    "option_d": "脊椎",
+    "answer": "B",
+    "id": "anatomy/dev/4"
+  },
+  {
+    "instruction": "根据韧皮部内物质压力流模型，从来源组织到汇流组织的光合产物移动是由什么驱动的？",
+    "option_a": "依靠一个ATP依赖性压力流泵",
+    "option_b": "依靠水势梯度压力",
+    "option_c": "蒸腾作用",
+    "option_d": "细胞壁外弥散",
+    "answer": "B",
+    "id": "college_biology/dev/3"
+  },
+  {
+    "instruction": "以下哪个陈述最恰当地表述了詹姆斯·麦迪逊在《联邦党人文集》第十篇中所做的论断？",
+    "option_a": "诚实的政治家可以防止派系的产生。",
+    "option_b": "在大的共和国中派系更容易发生。",
+    "option_c": "共和制政府可以减少派系主义的负面影响。",
+    "option_d": "自由选举是人民抵御派系主义的最佳防线。",
+    "answer": "C",
+    "id": "high_school_government_and_politics/dev/4"
+  },
+  {
+    "instruction": "μ子具有特征寿命约为10^-6秒的衰变，分解成一个电子，一个μ型中微子和一个反电子型中微子。根据守恒定律，μ子禁止衰变成一个电子和单一的中微子。",
+    "option_a": "电荷",
+    "option_b": "质量",
+    "option_c": "能量和动量",
+    "option_d": "轻子数",
+    "answer": "D",
+    "id": "college_physics/dev/4"
+  },
+  {
+    "instruction": "在由 NOR 门构建的 SR 触发器中，哪个条件不被允许",
+    "option_a": "S=0，R=0",
+    "option_b": "S=0，R=1",
+    "option_c": "S=1，R=0",
+    "option_d": "S=1，R=1",
+    "answer": "D",
+    "id": "electrical_engineering/dev/0"
+  },
+  {
+    "instruction": "在一个2极扫极绕组的直流电机中，一个导体的电阻为2Ω，导体的总数为100。求总电阻。",
+    "option_a": "200Ω",
+    "option_b": "100Ω",
+    "option_c": "50Ω",
+    "option_d": "10Ω",
+    "answer": "C",
+    "id": "electrical_engineering/dev/1"
+  },
+  {
+    "instruction": "语句1 | 群中的每个元素都生成群的循环子群。语句2 | 对称群S_10有10个元素。",
+    "option_a": "正确，正确",
+    "option_b": "错误，错误",
+    "option_c": "正确，错误",
+    "option_d": "错误，正确",
+    "answer": "C",
+    "id": "abstract_algebra/dev/2"
+  },
+  {
+    "instruction": "以 $x\\%$ 的利率每年复利一次，五千美元需要六年才能翻倍。以相同的利率，三百美元需要多少年才能增长到九千六百美元？",
+    "option_a": "12",
+    "option_b": "1",
+    "option_c": "30",
+    "option_d": "5",
+    "answer": "C",
+    "id": "high_school_mathematics/dev/1"
+  },
+  {
+    "instruction": "寻求性治疗的男性中最常见的失调是：",
+    "option_a": "早泄",
+    "option_b": "抑制射精",
+    "option_c": "勃起障碍",
+    "option_d": "射精障碍",
+    "answer": "C",
+    "id": "human_sexuality/dev/4"
+  },
+  {
+    "instruction": "一个36岁的男性前来就诊，主诉腰部疼痛已持续3周。他否认最近有任何创伤，但说他每天要爬上爬下他的卡车好几次。病人俯卧位检查显示左侧有深的骶沟、右侧有后下外侧角，并且腰骶连接处在压缩过程中自由跳动。最可能的诊断是",
+    "option_a": "左侧骶骨扭转",
+    "option_b": "右侧骶骨扭转",
+    "option_c": "右侧骶骨单侧屈曲",
+    "option_d": "右侧骶骨扭转",
+    "answer": "D",
+    "id": "professional_medicine/dev/1"
+  },
+  {
+    "instruction": "哪个朝代发展了“天命”概念来合法统治者？",
+    "option_a": "商朝",
+    "option_b": "周朝",
+    "option_c": "汉朝",
+    "option_d": "夏朝",
+    "answer": "B",
+    "id": "world_religions/dev/2"
+  },
+  {
+    "instruction": "肥皂泡中的颜色是由光线引起的。",
+    "option_a": "转换成不同的频率",
+    "option_b": "偏转",
+    "option_c": "干涉",
+    "option_d": "偏振",
+    "answer": "C",
+    "id": "conceptual_physics/dev/2"
+  },
+  {
+    "instruction": "受精卵也被称为",
+    "option_a": "卵受精卵。",
+    "option_b": "胚胎。",
+    "option_c": "生存能力。",
+    "option_d": "囊胚。",
+    "answer": "A",
+    "id": "moral_disputes/dev/1"
+  },
+  {
+    "instruction": "规划过程中哪个阶段会进行情况分析？",
+    "option_a": "定义方案",
+    "option_b": "规划方案",
+    "option_c": "采取行动并实施想法",
+    "option_d": "评价方案",
+    "answer": "A",
+    "id": "public_relations/dev/3"
+  },
+  {
+    "instruction": "男性导尿管和女性导尿管有什么区别？",
+    "option_a": "男性导尿管和女性导尿管的颜色不同。",
+    "option_b": "男性导尿管比女性导尿管长。",
+    "option_c": "男性导尿管比女性导尿管粗。",
+    "option_d": "女性导尿管比男性导尿管长。",
+    "answer": "B",
+    "id": "clinical_knowledge/dev/1"
+  },
+  {
+    "instruction": "_______ 是通过特定的政策、实践和计划，直接试图正式或非正式地管理道德问题或问题的行为。",
+    "option_a": "企业社会责任",
+    "option_b": "商业道德管理",
+    "option_c": "可持续性",
+    "option_d": "环境管理",
+    "answer": "B",
+    "id": "business_ethics/dev/1"
+  },
+  {
+    "instruction": "2020年，以下哪种关于碘的陈述是正确的？\n",
+    "option_a": "50％的成年人的碘摄入量低于推荐摄入量（RNI）",
+    "option_b": "乳制品是低碘的食品来源",
+    "option_c": "有机牛奶的碘含量通常比非有机牛奶低",
+    "option_d": "英国膳食参考值建议妊娠期间增加碘的摄入量",
+    "answer": "C",
+    "id": "nutrition/dev/3"
+  },
+  {
+    "instruction": "44岁男性因喉咙痛、无产痰咳嗽、流鼻涕和额头头痛历时三天来就诊。患者称早晨头痛较重，布洛芬可提供一些缓解。他没有呼吸急促的现象。病史没有明显异常。除了用布洛芬缓解疼痛外，他没有服用其他药物。生命体征为体温37.4度C（99.4度F），脉搏88次/分钟，呼吸18次/分钟，血压120/84 mmHg。鼻腔检查显示有红肿的黏膜。喉部检查显示后下咽有红斑和滤泡样淋巴细胞增生。没有触及颈部腺体肿大。听诊肺部没有异常。以下哪种情况最有可能导致该患者的症状？",
+    "option_a": "过敏性鼻炎",
+    "option_b": "EB病毒",
+    "option_c": "支原体肺炎",
+    "option_d": "鼻病毒",
+    "answer": "D",
+    "id": "professional_medicine/dev/3"
+  },
+  {
+    "instruction": "一位高中科学教师用纯氮填充一个1升的瓶子并密封盖子。压力为1.70大气压，室温为25℃。只有在保持其他变量不变的情况下，哪两个变量都能增加系统的压力？",
+    "option_a": "增加温度，增加气体摩尔数",
+    "option_b": "增加温度，增加体积",
+    "option_c": "减小体积，减小温度",
+    "option_d": "减少气体摩尔数，增加体积",
+    "answer": "A",
+    "id": "college_medicine/dev/3"
+  },
+  {
+    "instruction": "您正在审查世界上最花哨的机器学习会议的论文，并看到以下声明的论文。您会考虑接受哪些？",
+    "option_a": "我的方法达到比以前所有方法更低的训练误差！",
+    "option_b": "我的方法达到比以前所有方法更低的测试误差！（脚注：当正则化参数λ被选择为最小化测试误差时。）",
+    "option_c": "我的方法达到比以前所有方法更低的测试误差！（脚注：当正则化参数λ被选择为最小化交叉验证误差时。）",
+    "option_d": "我的方法达到比以前所有方法更低的交叉验证误差！（脚注：当正则化参数λ被选择为最小化交叉验证误差时。）",
+    "answer": "C",
+    "id": "machine_learning/dev/2"
+  },
+  {
+    "instruction": "折射望远镜由两个聚焦透镜组成，间距为100厘米。目镜透镜焦距为20厘米。望远镜的角倍率是",
+    "option_a": "4",
+    "option_b": "5",
+    "option_c": "6",
+    "option_d": "20",
+    "answer": "A",
+    "id": "college_physics/dev/3"
+  },
+  {
+    "instruction": "根据《残疾人教育改进法》，在更改残疾学生的教育场所之前，教育机构必须完成以下哪项？",
+    "option_a": "在新环境中给予学生试用期",
+    "option_b": "以书面方式通知家长",
+    "option_c": "获得学校董事会的批准",
+    "option_d": "获得家长的同意",
+    "answer": "B",
+    "id": "high_school_psychology/dev/3"
+  },
+  {
+    "instruction": "短期菲利普斯曲线指示了",
+    "option_a": "失业率和通胀率之间的正向关系",
+    "option_b": "价格和需求量之间的正向关系",
+    "option_c": "价格和需求量之间的反向关系",
+    "option_d": "失业率和通胀率之间的反向关系",
+    "answer": "D",
+    "id": "high_school_macroeconomics/dev/1"
+  },
+  {
+    "instruction": "SHA-1 的消息摘要为",
+    "option_a": "160 位",
+    "option_b": "512 位",
+    "option_c": "628 位",
+    "option_d": "820 位",
+    "answer": "A",
+    "id": "computer_security/dev/0"
+  },
+  {
+    "instruction": "光合作用期间产生什么？",
+    "option_a": "氢气",
+    "option_b": "尼龙",
+    "option_c": "氧气",
+    "option_d": "光线",
+    "answer": "C",
+    "id": "miscellaneous/dev/3"
+  },
+  {
+    "instruction": "细菌酶中的一种突变导致先前极性氨基酸变成了非极性氨基酸，这种氨基酸位于远离酶活性位点的位置。这种突变可能会如何改变酶的底物特异性？",
+    "option_a": "改变酶的pH最适值",
+    "option_b": "改变酶在细胞中的位置",
+    "option_c": "改变蛋白质的形状",
+    "option_d": "远离活性位点的氨基酸变化无法改变酶的底物特异性。",
+    "answer": "C",
+    "id": "high_school_biology/dev/1"
+  },
+  {
+    "instruction": "根据2020年的知识，以下哪种说法是正确的？\n",
+    "option_a": "苯丙酮尿症患者必须避免消费甜味剂阿斯巴甜。",
+    "option_b": "苯丙酮尿症患者必须避免消费糖精甜味剂。",
+    "option_c": "苯丙酮尿症患者必须避免消费三氯蔗糖甜味剂。",
+    "option_d": "苯丙酮尿症患者必须避免消费乙酰磺酸钾甜味剂。",
+    "answer": "A",
+    "id": "nutrition/dev/1"
+  },
+  {
+    "instruction": "Python 3 中 \"abc\"[::-1] 的输出是什么？",
+    "option_a": "错误",
+    "option_b": "abc",
+    "option_c": "cba",
+    "option_d": "c",
+    "answer": "C",
+    "id": "high_school_computer_science/dev/2"
+  },
+  {
+    "instruction": "在建立多元回归方程用于预测目的时，最优的测量组合是指预测变量",
+    "option_a": "相互不相关但与标准度量数值适度相关",
+    "option_b": "相互之间相关性很低且与标准度量数值之间相关性也很低",
+    "option_c": "相互之间高度相关，且与标准度量适度相关",
+    "option_d": "与标准度量的相关性很低，但彼此之间适度相关",
+    "answer": "A",
+    "id": "professional_psychology/dev/4"
+  },
+  {
+    "instruction": "根据梅兹的论述，基于非洲价值观的后果主义反对死刑的论据有何错误之处？",
+    "option_a": "尚不清楚死刑是否能够避免对社区造成的伤害。",
+    "option_b": "尚不清楚死刑是否能够避免对任何个人造成的伤害。",
+    "option_c": "非洲价值观不支持后果主义。",
+    "option_d": "即使非洲价值观支持后果主义，也没有提出基于非洲价值观的后果主义论据。",
+    "answer": "A",
+    "id": "moral_disputes/dev/0"
+  },
+  {
+    "instruction": "颞骨的胚胎学起源是什么？",
+    "option_a": "第一鳃弓",
+    "option_b": "第一和第二鳃弓",
+    "option_c": "第二鳃弓",
+    "option_d": "第二和第三鳃弓",
+    "answer": "D",
+    "id": "anatomy/dev/0"
+  },
+  {
+    "instruction": "肌酸补充的预期副作用是:",
+    "option_a": "肌肉无力。",
+    "option_b": "体重增加。",
+    "option_c": "肌肉痉挛。",
+    "option_d": "电解质流失。",
+    "answer": "B",
+    "id": "college_medicine/dev/4"
+  },
+  {
+    "instruction": "命题 1 | 有限集合到自身的每个函数必须是一对一的。命题 2 | 阿贝尔群的每个子群都是阿贝尔群。",
+    "option_a": "真，真",
+    "option_b": "假，假",
+    "option_c": "真，假",
+    "option_d": "假，真",
+    "answer": "A",
+    "id": "abstract_algebra/dev/3"
+  },
+  {
+    "instruction": "设 V 是所有实多项式 p(x) 的集合。定义变换 T，S 在 V 上，使得 T：p(x) -> xp(x)，S：p(x) -> p'(x) = d/dx p(x)，并将 (ST)(p(x)) 解释为 S(T(p(x)))。以下哪个选项是正确的？",
+    "option_a": "ST = 0",
+    "option_b": "ST = T",
+    "option_c": "ST = TS",
+    "option_d": "ST - TS 是 V 到自身的恒等映射。",
+    "answer": "D",
+    "id": "college_mathematics/dev/0"
+  },
+  {
+    "instruction": "根据卡普兰的咨询者为中心的案例咨询模型，顾问主要关注于",
+    "option_a": "识别客户呈现问题的原因和解决方案",
+    "option_b": "识别和消除咨询者在处理问题时遇到的困难的原因",
+    "option_c": "建立权威层级以促进有效的决策制定",
+    "option_d": "提供单一、明确和明确的行动方案，用于顾问克服技能缺陷",
+    "answer": "B",
+    "id": "high_school_psychology/dev/1"
+  },
+  {
+    "instruction": "彭斯比较了六种不同的生殖方式，从自然双胞胎到SCNT。他从这个比较中得出了什么结论？",
+    "option_a": "SCNT不是一种不同的生殖方式，因为它和其他允许的生殖方式之间没有道德上重要的区别。",
+    "option_b": "因为自然双胞胎的风险很低，所以SCNT的风险也很低。",
+    "option_c": "A和B都是正确的",
+    "option_d": "A和B都不正确",
+    "answer": "A",
+    "id": "moral_disputes/dev/3"
+  },
+  {
+    "instruction": "在1年1月1日，Alpha Co.与一个软件供应商签署了一份$15,000的年度维护协议，维护期从2年3月1日开始。Alpha还在1年1月1日支出了$5,000用于软件修改请求，将增加软件的功能。Alpha使用直线法在五年内计提其计算机和软件资产的折旧和摊销。结束于1年12月31日的一年内，Alpha应识别出与维护协议和软件修改相关的总费用是多少？",
+    "option_a": "$5,000",
+    "option_b": "$13,500",
+    "option_c": "$16,000",
+    "option_d": "$20,000",
+    "answer": "B",
+    "id": "professional_accounting/dev/3"
+  },
+  {
+    "instruction": "从 “公民宗教” 转向 “共同宗教” 意味着：",
+    "option_a": "国家日益增长的官僚主义使得宗教成为了我们生活中的一个边缘部分",
+    "option_b": "尽管传统权威力量减弱了，“常识” 和我们日常生活仍然被宗教信仰和价值观所影响塑造",
+    "option_c": "群体礼拜的宗教参与可能有所下降，但人们仍然在私下里信仰宗教",
+    "option_d": "人们更有可能在公共或非正式的场合讨论他们的宗教信仰",
+    "answer": "B",
+    "id": "sociology/dev/2"
+  },
+  {
+    "instruction": "以下哪个案例确立了被告必须被告知保持沉默权利、请律师权利以及免受自证其罪的保护的先例？",
+    "option_a": "周 v. 美国",
+    "option_b": "贝茨 v. 布雷迪",
+    "option_c": "马普 v. 俄亥俄州",
+    "option_d": "米兰达 v. 亚利桑那州",
+    "answer": "D",
+    "id": "high_school_government_and_politics/dev/2"
+  },
+  {
+    "instruction": "假设f(1+x)=f(x)对于所有实数x成立。如果f是一个多项式且f(5)=11，则f(15/2)",
+    "option_a": "-11",
+    "option_b": "0",
+    "option_c": "11",
+    "option_d": "33/2",
+    "answer": "C",
+    "id": "college_mathematics/dev/3"
+  },
+  {
+    "instruction": "根据德霍尔巴赫的说法，人们总是根据_____来行动。",
+    "option_a": "自由选择",
+    "option_b": "灵魂支配",
+    "option_c": "必然的自然法则",
+    "option_d": "不确定的意志",
+    "answer": "C",
+    "id": "philosophy/dev/2"
+  },
+  {
+    "instruction": "当结合人口统计和地理因素时，___________是自然而然的结果。",
+    "option_a": "地理人口特征",
+    "option_b": "产品差异化",
+    "option_c": "安索夫矩阵",
+    "option_d": "品牌管理",
+    "answer": "A",
+    "id": "marketing/dev/0"
+  },
+  {
+    "instruction": "以下哪个关于相关性的陈述是正确的？",
+    "option_a": "如果回归线的斜率恰好为1，则相关性恰好为1。",
+    "option_b": "如果相关性为0，则回归线的斜率未定义。",
+    "option_c": "更改称为x和y的变量的位置会更改相关性的符号。",
+    "option_d": "当y变量的z得分与x变量的z得分绘制在一起时，相关系数r等于回归线的斜率。",
+    "answer": "D",
+    "id": "high_school_statistics/dev/0"
+  },
+  {
+    "instruction": "“在什么情况下‘同意’可以作为国家行为不非法的情况排除之一？”",
+    "option_a": "只要同意被给予，同意可以作为情况排除一。",
+    "option_b": "同意永远不能作为情况排除一。",
+    "option_c": "只要同意是有效的，并且该行为仍在所给予的同意的限制范围内，同意可以作为情况排除一。",
+    "option_d": "无论国家的哪个机构提供同意，同意始终可以作为情况排除一。",
+    "answer": "C",
+    "id": "international_law/dev/3"
+  },
+  {
+    "instruction": "Berger（1963）将社会现实比作什么隐喻？",
+    "option_a": "一次游乐园游艺",
+    "option_b": "马戏团",
+    "option_c": "木偶剧院",
+    "option_d": "芭蕾舞",
+    "answer": "C",
+    "id": "sociology/dev/1"
+  },
+  {
+    "instruction": "关于节肢动物，以下哪个陈述是准确的？",
+    "option_a": "它们拥有由主要由肽聚糖组成的外骨骼。",
+    "option_b": "它们拥有背部心脏的开放循环系统。",
+    "option_c": "它们属于一个生物学上不成功的门，无法利用不同的栖息地和营养来源。",
+    "option_d": "它们缺乏成对的、有关节的附肢。",
+    "answer": "B",
+    "id": "college_biology/dev/0"
+  },
+  {
+    "instruction": "语句1 | 如果aH是因子群的元素，则|aH|可以被|a|整除。语句2 | 如果H和K是G的子群，则HK是G的子群。",
+    "option_a": "真，真",
+    "option_b": "假，假",
+    "option_c": "真，假",
+    "option_d": "假，真",
+    "answer": "B",
+    "id": "abstract_algebra/dev/1"
+  },
+  {
+    "instruction": "为什么在小行星带的地方没有行星存在？",
+    "option_a": "在这里曾经形成一颗行星，但是因为一次灾难性的碰撞而被击碎了。",
+    "option_b": "在太阳云雾这一部分没有足够的物质来形成一颗行星。",
+    "option_c": "这里有太多的岩石物质来形成一个类地行星，但是没有足够的气态物质来形成一个类木行星。",
+    "option_d": "与木星引力共振阻碍物质聚集形成行星。",
+    "answer": "D",
+    "id": "astronomy/dev/3"
+  },
+  {
+    "instruction": "什么是道德黑客攻击？",
+    "option_a": "通过“黑客攻击”伦理道德来证明自私行为（不是答案）",
+    "option_b": "渗透测试期间入侵系统，以暴露漏洞，以便修复而非利用（答案）",
+    "option_c": "入侵那些你不同意他们伦理道德的系统（不是答案）",
+    "option_d": "快速软件开发的俚语，例如在黑客马拉松中（不是答案）",
+    "answer": "B",
+    "id": "computer_security/dev/2"
+  },
+  {
+    "instruction": "在动物细胞中，以下哪种代表了细胞合成分泌蛋白的最可能途径？",
+    "option_a": "质膜-高尔基体-核糖体-分泌小泡-粗面内质网",
+    "option_b": "核糖体-高尔基体-粗面内质网-分泌小泡-质膜",
+    "option_c": "质膜-高尔基体-核糖体-分泌小泡-粗面内质网",
+    "option_d": "核糖体-粗面内质网-高尔基体-分泌小泡-质膜",
+    "answer": "D",
+    "id": "high_school_biology/dev/2"
+  },
+  {
+    "instruction": "一份0.217g的HgO样品（摩尔质量=217g）根据上述反应与过量的碘化物离子反应。测定得到的溶液需要多少毫升0.10 M HCl到达当量点？",
+    "option_a": "1.0毫升",
+    "option_b": "10毫升",
+    "option_c": "20毫升",
+    "option_d": "50毫升",
+    "answer": "C",
+    "id": "college_chemistry/dev/1"
+  },
+  {
+    "instruction": "以下哪个关于美国地方政府提供的服务的陈述是不正确的？",
+    "option_a": "经常会发生工作重复。",
+    "option_b": "中心城市的社会问题会波及周围的居民郊区。",
+    "option_c": "提供服务的低效率经常发生。",
+    "option_d": "一个邻里社区减少污染的努力总是得到附近社区的支持。",
+    "answer": "D",
+    "id": "high_school_geography/dev/2"
+  },
+  {
+    "instruction": "一个由n个元素组成的数字列表，索引从1到n。下面的算法旨在显示列表中具有大于100的值的元素数。算法使用变量count和position。步骤3和4缺失。\n 步骤1：将count设置为0，并将position设置为1。\n 步骤2：如果索引位置处元素的值大于100，则将count的值增加1。\n 步骤3：（缺失步骤）\n 步骤4：（缺失步骤）\n 步骤5：显示count的值。\n 以下哪个选项可以替换步骤3和4，使算法实现预期的功能？",
+    "option_a": "步骤3：将position的值增加1。\n 步骤4：重复步骤2和3，直到count的值大于100。",
+    "option_b": "步骤3：将position的值增加1。\n 步骤4：重复步骤2和3，直到position的值大于n。",
+    "option_c": "步骤3：重复步骤2，直到count的值大于100。\n 步骤4：将position的值增加1。",
+    "option_d": "步骤3：重复步骤2，直到position的值大于n。\n 步骤4：将count的值增加1。",
+    "answer": "D",
+    "id": "high_school_computer_science/dev/4"
+  },
+  {
+    "instruction": "以下哪个是副黏病毒的形态特征。",
+    "option_a": "易碎的病毒，常见于从内部喷出RNA的情况",
+    "option_b": "纺锤形病毒",
+    "option_c": "具有包膜的二十面体病毒",
+    "option_d": "非常大的病毒",
+    "answer": "A",
+    "id": "virology/dev/1"
+  },
+  {
+    "instruction": "卡尔·荣格认为客户的移情：",
+    "option_a": "是一种幻想，会使客户脱离现实。",
+    "option_b": "代表着客户对治疗师的“复杂感情”。",
+    "option_c": "“是‘外显’的一种形式。”",
+    "option_d": "反映了客户个人和集体无意识的状态。",
+    "answer": "D",
+    "id": "professional_psychology/dev/3"
+  },
+  {
+    "instruction": "____________ 是任何搜索引擎无法搜索到的内容。",
+    "option_a": "被鬼怪附身的网页",
+    "option_b": "全球网络",
+    "option_c": "表层网址",
+    "option_d": "深层网址",
+    "answer": "D",
+    "id": "computer_security/dev/4"
+  },
+  {
+    "instruction": "下列哪个正则表达式与 (a* + b)*(c + d) 等效（描述了相同的字符串集）？",
+    "option_a": "a*(c + d)+ b(c + d)",
+    "option_b": "a*(c + d)* + b(c + d)*",
+    "option_c": "a*(c + d)+ b*(c + d)",
+    "option_d": "(a + b)*c +(a + b)*d",
+    "answer": "D",
+    "id": "college_computer_science/dev/0"
+  },
+  {
+    "instruction": "烟草烟中哪种元素引起癌症？",
+    "option_a": "尼古丁",
+    "option_b": "焦油",
+    "option_c": "一氧化碳",
+    "option_d": "烟雾颗粒",
+    "answer": "B",
+    "id": "human_aging/dev/3"
+  },
+  {
+    "instruction": "一个光电池的工作函数为 ϕ = 2eV，与一个电阻器串联。光的频率为 f = 1 × 10^15 Hz，照射到光电池的金属板上。如果光的功率为 P = 100 W，通过电阻器的电流是多少？",
+    "option_a": "凌晨 2 点",
+    "option_b": "早上 6 点",
+    "option_c": "中午 12 点",
+    "option_d": "24 A",
+    "answer": "D",
+    "id": "high_school_physics/dev/2"
+  },
+  {
+    "instruction": "一点磁极的强度为4π* 10^-4韦伯。一个强度为4π* 1.5 * 10^-4韦伯的点磁极距离它10厘米时的牛顿力是",
+    "option_a": "15 N。",
+    "option_b": "20 N。",
+    "option_c": "7.5 N。",
+    "option_d": "3.75 N。",
+    "answer": "A",
+    "id": "electrical_engineering/dev/4"
+  },
+  {
+    "instruction": "为什么犬细小病毒是一种高影响力的寄生虫？",
+    "option_a": "因为它们没有核酸",
+    "option_b": "它们需要辅助病毒",
+    "option_c": "只在分裂细胞中复制",
+    "option_d": "可以整合到宿主染色体中",
+    "answer": "A",
+    "id": "virology/dev/0"
+  },
+  {
+    "instruction": "米歇尔出生的城市的人口为145,826。请问数字145,826中的数字5代表的是哪个数量级?",
+    "option_a": "5 千位",
+    "option_b": "5 百位",
+    "option_c": "5 十位",
+    "option_d": "5 个位",
+    "answer": "A",
+    "id": "elementary_mathematics/dev/0"
+  },
+  {
+    "instruction": "一个国家如何表达其被约束的同意？",
+    "option_a": "一个国家的同意表达只能通过批准表示",
+    "option_b": "一个国家对一项条约的同意可以通过签署、批准、接受、认可或加入来表示",
+    "option_c": "一个国家的同意表达是通过签字表示的",
+    "option_d": "一个国家对其被绑定的同意是通过任何方式表示的",
+    "answer": "B",
+    "id": "international_law/dev/4"
+  },
+  {
+    "instruction": "考虑一种计算机设计，其中多个处理器，每个处理器都有一个私有的缓存内存，并使用单个总线共享全局内存。这个总线是关键的系统资源。只要内存引用是满足其本地缓存的，每个处理器可以每500纳秒执行一条指令。当缓存未命中时，处理器会延迟2,000纳秒。在这个额外的延迟的一半时间里，总线专门用于处理缓存未命中。在另一半时间里，处理器不能继续执行，但总线可以自由地为其他处理器提供服务请求。平均每条指令需要2次内存引用。平均情况下，缓存未命中的占引用的1%。如果忽略来自其他处理器竞争的延迟，那么单个处理器会占用总线容量的比例是多少？",
+    "option_a": "1/50",
+    "option_b": "1/27",
+    "option_c": "1/25",
+    "option_d": "2/27",
+    "answer": "B",
+    "id": "college_computer_science/dev/4"
+  },
+  {
+    "instruction": "Olivia使用规则“添加11”创建了如下所示的数字模式。10, 21, 32, 43, 54。关于此数字模式的哪种说明是正确的？",
+    "option_a": "模式中的第10个数字将是偶数。",
+    "option_b": "数字模式永远不会有两个相邻的偶数。",
+    "option_c": "模式中接下来的两个数字将是一个偶数，然后是一个奇数。",
+    "option_d": "如果数字模式以奇数开头，那么该模式将只包含奇数。",
+    "answer": "B",
+    "id": "elementary_mathematics/dev/1"
+  },
+  {
+    "instruction": "以下哪个式子等价于 5 x 9?",
+    "option_a": "(5 x 4) x (6 x 5)",
+    "option_b": "(5 x 5) + (5 x 4)",
+    "option_c": "(5 x 5) + (5 x 9)",
+    "option_d": "(5 x 9) x (6 x 9)",
+    "answer": "B",
+    "id": "elementary_mathematics/dev/4"
+  },
+  {
+    "instruction": "总统权力的限制不确定性主要是由于",
+    "option_a": "宪法对这些权力的定义宽泛而不具体",
+    "option_b": "大多数人认为宪法对总统权力的限制太多了",
+    "option_c": "最高法院一贯拒绝就涉及总统权力的案件作出裁决",
+    "option_d": "宪法修正案大大增加了总统的权力",
+    "answer": "A",
+    "id": "high_school_government_and_politics/dev/0"
+  },
+  {
+    "instruction": "下列哪项不是关于罢工行动官方统计数据的问题之一？",
+    "option_a": "大多数罢工行动未被雇主和媒体注意到",
+    "option_b": "并非所有劳资纠纷都会被雇主报告",
+    "option_c": "罢工的定义不包括涉及少于十名工人或持续不足一天的罢工",
+    "option_d": "很难比较不同方式测量的罢工行动",
+    "answer": "A",
+    "id": "sociology/dev/4"
+  },
+  {
+    "instruction": "一位知道自己患有活性疱疹和未经治疗的梅毒但继续发生性行为而不告知其伴侣的女性在精神分析学术语中被称为：",
+    "option_a": "强大自我",
+    "option_b": "薄弱超我",
+    "option_c": "薄弱本我",
+    "option_d": "强大超我",
+    "answer": "B",
+    "id": "human_sexuality/dev/1"
+  },
+  {
+    "instruction": "关于内阁部门，下列哪种陈述是错误的？",
+    "option_a": "它们由立法部门设立。",
+    "option_b": "它们的成员通常对总统决策没有太大的影响力。",
+    "option_c": "它们不能全部由属于总统所在政党的领导人运作。",
+    "option_d": "并非每个联邦机构都是内阁部门。",
+    "answer": "C",
+    "id": "high_school_government_and_politics/dev/3"
+  },
+  {
+    "instruction": "选择谓词逻辑中给出的命题的最佳英文解释。\nDm\n（∀x）（Wx ⊃ ~Dx）\n（∀x）Wx ∨ Ag \t /（∃x）Ax",
+    "option_a": "玛丽娜是一名舞者。一些软弱无力者不是舞者。要么一切都是软弱无力者，要么乔治亚打排球。因此，某物打排球。",
+    "option_b": "玛丽娜是一名舞者。没有软弱无力者是舞者。一切都是软弱无力者或打排球。因此，某物打排球。",
+    "option_c": "玛丽娜是一名舞者。一些软弱无力者不是舞者。一切都是软弱无力者或打排球。因此，某物打排球。",
+    "option_d": "玛丽娜是一名舞者。没有软弱无力者是舞者。要么一切都是软弱无力者，要么乔治亚打排球。因此，某物打排球。",
+    "answer": "D",
+    "id": "formal_logic/dev/2"
+  },
+  {
+    "instruction": "移动线圈仪表的线圈有100匝，长40毫米，宽30毫米。全量程的控制力矩是240*10-6牛-米。如果磁通密度是1 Wb/m2，仪表的量程是",
+    "option_a": "1毫安。",
+    "option_b": "2毫安。",
+    "option_c": "3毫安。",
+    "option_d": "4毫安。",
+    "answer": "B",
+    "id": "electrical_engineering/dev/2"
+  },
+  {
+    "instruction": "某个流水线RISC机器有8个通用寄存器R0、R1、…… R7，并支持以下操作。\nADD Rs1，Rs2，Rd：将Rs1加上Rs2，并将和存储在Rd中\nMUL Rs1，Rs2，Rd：将Rs1与Rs2相乘，并将积存储在Rd中\n操作通常需要一个时钟周期；但是，如果一个操作产生一个立即后续操作所需的结果，则需要两个周期。考虑表达式AB + ABC + BC，其中变量A、B、C位于寄存器R0、R1、R2中。如果这三个寄存器的内容不能被修改，那么计算AB + ABC + BC所需的操作序列的最小时钟周期数是多少？",
+    "option_a": "5",
+    "option_b": "6",
+    "option_c": "7",
+    "option_d": "8",
+    "answer": "B",
+    "id": "college_computer_science/dev/1"
+  },
+  {
+    "instruction": "火星为什么是红色的？",
+    "option_a": "因为其表面被严重氧化（\"生锈\"）的矿物质所覆盖。",
+    "option_b": "因为大气散射更多蓝光波长，从而传输的主要是红光。",
+    "option_c": "因为火星被古老的熔岩流覆盖，而熔岩是红色的。",
+    "option_d": "因为几十亿年前流动的水改变了火星表面的矿物质。",
+    "answer": "A",
+    "id": "astronomy/dev/4"
+  },
+  {
+    "instruction": "如果公共关系媒体从业者不知道记者的问题的答案，她应该怎么做？",
+    "option_a": "给记者其他她确定是正确的信息。",
+    "option_b": "说这些信息是“非正式”的并将会稍后传播。",
+    "option_c": "说“我不知道”，并承诺稍后提供信息。",
+    "option_d": "说“无可奉告”，而不是显得无知。",
+    "answer": "C",
+    "id": "public_relations/dev/0"
+  },
+  {
+    "instruction": "Singleton 设计模式用于确保只有一个类的实例可以被实例化。以下哪些是这种设计模式的真实描述？\nI. Singleton 类具有静态工厂方法来提供其实例。\nII. Singleton 类可以是另一个类的子类。\nIII. Singleton 类具有私有构造函数。",
+    "option_a": "仅I",
+    "option_b": "仅II",
+    "option_c": "仅III",
+    "option_d": "I、II 和 III",
+    "answer": "D",
+    "id": "college_computer_science/dev/2"
+  },
+  {
+    "instruction": "国防现实主义和进攻性现实主义在解释国家行为方面有何不同？",
+    "option_a": "国防现实主义者更加强调国际机构的作用。",
+    "option_b": "国防现实主义者对地理因素的重视较少。",
+    "option_c": "进攻性现实主义者比国防现实主义者更优先考虑国家利益。",
+    "option_d": "国防现实主义者认为国家是安全最大化者，而进攻性现实主义者认为国家是实力最大化者。",
+    "answer": "D",
+    "id": "us_foreign_policy/dev/3"
+  },
+  {
+    "instruction": "审计员跟踪设备上的序列号到非发行人的分户账。以下哪种管理断言得到了支持？",
+    "option_a": "估值和分配",
+    "option_b": "完整性",
+    "option_c": "权利和义务",
+    "option_d": "陈述和披露",
+    "answer": "B",
+    "id": "professional_accounting/dev/4"
+  },
+  {
+    "instruction": "假设你的瞳孔直径为5毫米，而你有一台口径为50厘米的望远镜。这台望远镜可以接收多少倍于你的眼睛的光线？",
+    "option_a": "多10000倍",
+    "option_b": "多100倍",
+    "option_c": "多1000倍",
+    "option_d": "多10倍",
+    "answer": "A",
+    "id": "astronomy/dev/2"
+  },
+  {
+    "instruction": "同源结构通常被认为是自然选择过程的证据。 以下所有都是同源结构的例子，除了",
+    "option_a": "鸟的翅膀和蝙蝠的翅膀",
+    "option_b": "鲸鱼的鳍和人的手臂",
+    "option_c": "海豚的胸鳍和海豹的鳍",
+    "option_d": "昆虫的前腿和狗的前肢",
+    "answer": "D",
+    "id": "high_school_biology/dev/4"
+  },
+  {
+    "instruction": "以下哪组陈述都是正确的（截至2019年）？",
+    "option_a": "人们倾向于对自己的未来和自己的国家或世界的未来持乐观态度。",
+    "option_b": "人们倾向于对自己的未来持乐观态度，但对自己的国家或世界的未来持悲观态度。",
+    "option_c": "人们倾向于对自己的未来持悲观态度，但对自己的国家或世界的未来持乐观态度。",
+    "option_d": "人们倾向于对自己的未来和自己的国家或世界的未来都持悲观态度。",
+    "answer": "B",
+    "id": "global_facts/dev/0"
+  },
+  {
+    "instruction": "一个容器最初含有3克盐溶于100升水的盐水。一种盐水溶液每升水含盐0.02克被以每分钟4升的速率喷洒到容器内。喷洒的盐水溶液不断地与容器内的盐水混合，并以每分钟4升的速率从容器中流出。如果混合是瞬时进行的，那么100分钟后容器内有多少克盐？",
+    "option_a": "2",
+    "option_b": "2 - e^-2",
+    "option_c": "2 + e^-2",
+    "option_d": "2 + e^-4",
+    "answer": "D",
+    "id": "college_mathematics/dev/1"
+  },
+  {
+    "instruction": "您的一位治疗客户询问您关于一个好的减重计划的建议。您已经调查了社区中的这些计划，并加入了您认为最好的计划。该计划为其会员带来每个新人的50美元奖金。在这种情况下，您最恰当的回应是：",
+    "option_a": "告诉您的客户，除了您所参与的计划外，还了解到的其他所有方案的优缺点",
+    "option_b": "向您的客户推荐您参与的该计划，并解释你将会获得的50美元奖金",
+    "option_c": "向您的客户推荐您参与的该计划，并提供将50美元奖金存入您客户的计划账户的选择",
+    "option_d": "告诉您的客户，除了您所了解的所有方案的优缺点外，如果您的客户报名参加了您的计划，您不会获得50美元奖金",
+    "answer": "D",
+    "id": "professional_psychology/dev/0"
+  },
+  {
+    "instruction": "以下哪项是关于价格底限的正确描述？",
+    "option_a": "价格底限会使需求曲线向左移动。",
+    "option_b": "有效的价格底限会导致物品短缺。",
+    "option_c": "价格底限会使商品供给曲线向右移动。",
+    "option_d": "要成为有效的价格底限，必须将其设定在均衡价格之上。",
+    "answer": "D",
+    "id": "high_school_microeconomics/dev/3"
+  },
+  {
+    "instruction": "对宇宙及其中各物的基本本质进行探究的广义现实研究被称为____。",
+    "option_a": "形而上学",
+    "option_b": "认识论",
+    "option_c": "量子物理学",
+    "option_d": "价值论",
+    "answer": "A",
+    "id": "philosophy/dev/4"
+  },
+  {
+    "instruction": "法学中的________ 法学派认为法律基于\"正确的\"。",
+    "option_a": "自然法",
+    "option_b": "分析法学",
+    "option_c": "历史法学",
+    "option_d": "社会法学",
+    "answer": "A",
+    "id": "jurisprudence/dev/3"
+  },
+  {
+    "instruction": "截至2019年，大约有多少俄罗斯人认为在我们国家拥有没有政府/国家审查的自由媒体非常重要?",
+    "option_a": "38%",
+    "option_b": "53%",
+    "option_c": "68%",
+    "option_d": "83%",
+    "answer": "A",
+    "id": "global_facts/dev/3"
+  },
+  {
+    "instruction": "如果在回归模型中存在异方差性但被忽略，那么OLS估计量将会出现什么后果？",
+    "option_a": "它将是有偏的",
+    "option_b": "它将是不一致的",
+    "option_c": "它将是低效的",
+    "option_d": "(a)、(b)和(c)都会成立。",
+    "answer": "C",
+    "id": "econometrics/dev/3"
+  },
+  {
+    "instruction": "犹太男性的盟约标志是什么?",
+    "option_a": "彩虹",
+    "option_b": "割礼",
+    "option_c": "儿子",
+    "option_d": "成人礼",
+    "answer": "B",
+    "id": "world_religions/dev/0"
+  },
+  {
+    "instruction": "如果有人攻击反对者的角色，而不是回应对手的论点，那么第一个人可能犯了以下哪种谬误？",
+    "option_a": "tu quoque",
+    "option_b": "horse laugh",
+    "option_c": "针对人的论点",
+    "option_d": "ignoratio elenchi",
+    "answer": "C",
+    "id": "logical_fallacies/dev/0"
+  },
+  {
+    "instruction": "为下列二元命题构造一个完整的真值表。然后，使用真值表确定这些陈述是否逻辑上等价或矛盾。如果两者都不是，确定它们是否一致或不一致。证明您的答案。\nE ⊃ (F · E) 和 ~E · F",
+    "option_a": "逻辑等价",
+    "option_b": "矛盾",
+    "option_c": "既非逻辑等价也非矛盾，但一致",
+    "option_d": "不一致",
+    "answer": "C",
+    "id": "formal_logic/dev/3"
+  },
+  {
+    "instruction": "以下哪个在细胞分裂控制中未知？",
+    "option_a": "细胞周期蛋白",
+    "option_b": "蛋白激酶",
+    "option_c": "检查点",
+    "option_d": "成纤维细胞",
+    "answer": "D",
+    "id": "high_school_biology/dev/3"
+  },
+  {
+    "instruction": "令 A 为实 2x2 矩阵。以下哪些陈述必须为真？\r\nI. A^2 的所有条目均为非负数。\r\nII. A^2 的行列式为非负数。\r\nIII. 如果 A 有两个不同的特征值，则 A^2 有两个不同的特征值。",
+    "option_a": "仅为 I",
+    "option_b": "仅为 II",
+    "option_c": "仅为 III",
+    "option_d": "仅为 II 和 III",
+    "answer": "B",
+    "id": "college_mathematics/dev/2"
+  },
+  {
+    "instruction": "此题与以下信息有关。\n“在我认为将需要你制定的新法典中，我希望你记住女士们，对她们要比你的祖先更慷慨和有好处。不要把如此无限的权力交到丈夫手中。请记住，所有男人都希望成为暴君。如果不对女士们进行特别的关注和关怀，我们决定发动起义，我们不会受到我们没有发言权或代表权的任何法律的约束。”\n艾比盖尔·亚当斯，在1776年致约翰·亚当斯的一封信中\n“针对妇女的特殊立法使我们处于一个异常的位置。在某些地区，女人被赋予公民的权利-选民、陪审员、公职人员-在翻越一道想象中的界线之后，变成了下一步的对象。 在一些国家，已婚妇女可以用自己的名字持有财产并进行业务交易，在其他国家，她的收入归丈夫所有。 在某些国家，女人可以对丈夫提供证词，在法庭上起诉和被起诉；在其他国家，她在人身、财产或品格受到侵害时没有救济。 在因丈夫通奸而离婚的情况下，除非法院作出特别裁决，否则无辜妻子被认为没有孩子或财产权利。 但是，在任何一个联邦州，妻子都没有享有自己的人身权或执掌婚姻期间伙伴公司的任何部分的权利。 在一些州，妇女可以进入法学院并在法庭上实践；在其他州，妇女被禁止这样做。 在一些大学里，女孩享有和男孩一样的教育优势，而许多傲慢的机构却不准许她们入内，虽然中国、日本和非洲的男孩可以在那里受到欢迎。 但是，已经授予的各个国家享有的特权并不安全。”\n苏珊·B·安东尼，1876年7月4日《妇女权利宣言》\n苏珊·B·安东尼在第二个摘录中表达的观点最可能支持",
+    "option_a": "平等权利修正案",
+    "option_b": "普选",
+    "option_c": "州权",
+    "option_d": "禁酒",
+    "answer": "B",
+    "id": "high_school_us_history/dev/2"
+  },
+  {
+    "instruction": "你正在沿着一条路推一辆卡车。在火星上加速这辆卡车会更容易吗？为什么？（假设没有摩擦力）",
+    "option_a": "由于火星上的卡车更重，因此会更困难。",
+    "option_b": "在火星上由于卡车更轻，所以会更容易。",
+    "option_c": "由于火星上的卡车更轻，因此会更困难。",
+    "option_d": "无论在哪里，都是相同的。",
+    "answer": "D",
+    "id": "astronomy/dev/0"
+  },
+  {
+    "instruction": "Rawls声称在最初状态人民中最不可能采纳的立场是哪个？",
+    "option_a": "最初状态人民会选择平等高于自由。",
+    "option_b": "最初状态人民会选择“最大化最小值”策略。",
+    "option_c": "最初状态人民会选择“差异原则”。",
+    "option_d": "最初状态人民将拒绝“自然自由制度”。",
+    "answer": "A",
+    "id": "jurisprudence/dev/0"
+  },
+  {
+    "instruction": "对于一个固定的自回归过程，冲击将会",
+    "option_a": "最终消失",
+    "option_b": "无限持续",
+    "option_c": "指数增长",
+    "option_d": "永远不会发生",
+    "answer": "A",
+    "id": "econometrics/dev/0"
+  },
+  {
+    "instruction": "如何描述以民主和包容式管理风格为特点的组织架构？",
+    "option_a": "层级式的",
+    "option_b": "官僚式的",
+    "option_c": "扁平式的",
+    "option_d": "职能型的",
+    "answer": "C",
+    "id": "management/dev/4"
+  },
+  {
+    "instruction": "对于新生儿的基因测试，发现有一种罕见的X连锁隐性遗传疾病。以下哪个陈述在该疾病的谱系图中可能是正确的？",
+    "option_a": "母亲方的所有子女都会患上该疾病。",
+    "option_b": "在该家族中，女性受影响的比例将是男性的两倍左右。",
+    "option_c": "一个患病男性的所有女儿都将受到影响。",
+    "option_d": "男性和女性患该疾病的比例将相等。",
+    "answer": "C",
+    "id": "college_medicine/dev/2"
+  },
+  {
+    "instruction": "2020年医学知识指出，在将工作交给资深同事之前，您应尝试多少次穿刺患者？",
+    "option_a": "4",
+    "option_b": "3",
+    "option_c": "2",
+    "option_d": "1",
+    "answer": "C",
+    "id": "clinical_knowledge/dev/3"
+  },
+  {
+    "instruction": "按照2020年美国普遍的道德标准，以下哪种情景中，使用I/me/my的主角明显违反了道德准则？ 情景1 | 我非常爱我的新生儿男孩。  情景2 | 新来的女孩因住在拖车公园而感到尴尬，因此我邀请同班同学来她家。",
+    "option_a": "错了，错了",
+    "option_b": "错了，不错",
+    "option_c": "不错，错了",
+    "option_d": "不错，不错",
+    "answer": "C",
+    "id": "moral_scenarios/dev/0"
+  },
+  {
+    "instruction": "什么是强制性外交与军事力量之间的区别？",
+    "option_a": "Compellence是强制性外交的另一个术语，但它涵盖的标准范围较窄；Compellence涵盖那些旨在引发对手行动的威胁。威胁迫使一个国家放弃部分领土将被视为强制性外交，只要那个威胁在采取反应性外交之前积极地启动行动。",
+    "option_b": "强制性外交构成对有限武力的威胁，以促使对手遵守施加者的要求。它是一种旨在获得依从的影响策略：首先使用武力击败对手不计入其中。它在目标身上留下了选择的元素，要么遵从，要么继续。",
+    "option_c": "军事力量或军事力量的威胁利用恐惧来实现战略目标。强制性外交与此方法有所不同，因为它不会使用恐惧作为迫使对手的工具。",
+    "option_d": "强制性外交被用来使用武力但限制其对国际社会的影响。强制性外交是一种旨在通过打败对手获得依从的积极策略。它不会在目标身上留下选择的元素，目标要么被迫遵守，要么参与冲突。它通过消除任何谈判或让步的机会来通过施加依从来控制。",
+    "answer": "B",
+    "id": "security_studies/dev/0"
+  },
+  {
+    "instruction": "复杂问题谬误包括",
+    "option_a": "因为某件事情没有完成其本来的目的而认为其不好。",
+    "option_b": "在命题中包含超过一个论证，认为证明了一个论证就证明了所有论证。",
+    "option_c": "在检查证据之前得出结论，并只考虑支持该结论的证据。",
+    "option_d": "问一个包含未经证明的假设或者超过一个问题的问题，从而使一个明确的是或否的回答毫无意义。",
+    "answer": "D",
+    "id": "logical_fallacies/dev/1"
+  },
+  {
+    "instruction": "如何最好地描述国家中心主义方法与人类安全概念之间的关系？",
+    "option_a": "由于关于威胁性质和指向对象的不同意见，人类安全框架内存在如此广泛的分歧，无法进行广泛适用的国家中心主义方法和人类安全之间的比较。",
+    "option_b": "通过采用人类安全框架，现实主义国家中心主义方法的局限性变得明显。尽管人类安全将指向对象定义为个人或人口，国家中心主义方法则将国家安全作为优先事项，削弱了追求人类安全的重要性。",
+    "option_c": "国家中心主义安全方法是人类安全的一个派别，通常在人类安全广泛的学派内被定义。这种方法通过以国家为中心来将个人作为安全研究的指向对象。",
+    "option_d": "国家中心主义和以人为中心的安全方法都是相互独立的，并提供了足够的分析框架来理解国际安全体系。因此，安全分析人员的角色是确定哪些重要概念是正确的，哪些应该被舍弃。",
+    "answer": "B",
+    "id": "security_studies/dev/3"
+  },
+  {
+    "instruction": "一共30名球员在公园里打篮球。每个队会有5名球员。以下哪个陈述正确解释了如何找到所需的队伍数量？",
+    "option_a": "将5加上30，找到35个队伍。",
+    "option_b": "将30除以5，找到6个队伍。",
+    "option_c": "将30和5相乘，找到150个队伍。",
+    "option_d": "用30减去5，找到25个队伍。",
+    "answer": "B",
+    "id": "elementary_mathematics/dev/2"
+  },
+  {
+    "instruction": "以下哪一个是物联网(IoT)设备的使用例子？",
+    "option_a": "一辆汽车会提醒司机它即将撞到一个物体。",
+    "option_b": "一位徒步旅行者使用GPS手表来追踪自己的位置。",
+    "option_c": "当冰箱里的牛奶快用完时，冰箱会向在线配送服务订购牛奶。",
+    "option_d": "一位跑步者使用带有光学传感器的手表来监测自己的心率。",
+    "answer": "C",
+    "id": "high_school_computer_science/dev/0"
+  },
+  {
+    "instruction": "这道题目是关于下面的信息。\n他涵盖了所有的作品和愿望，所有的香水和所有的味道。他包容了整个宇宙，在沉默中爱所有的人。这就是存在于我的心中的精神，这就是梵天。当我超越了这个世界，我就要来到他的身边，有信仰且不怀疑的人也会来到他的身边。\n——乌潘尼沙德，印度，公元前1000年\n说话者最可能属于哪个宗教？",
+    "option_a": "印度教",
+    "option_b": "佛教",
+    "option_c": "神道教",
+    "option_d": "琐罗亚斯特教",
+    "answer": "A",
+    "id": "high_school_world_history/dev/0"
+  },
+  {
+    "instruction": "决策树学习中，当我们有一个实值输入属性时，传统方法是根据属性是否高于或低于某个阈值进行二元分裂。帕特建议我们采用多路分裂，为该属性的每个不同值创建一个分支。从下面的列表中选择一个单一的最大问题，涉及帕特的建议：",
+    "option_a": "计算成本太高。",
+    "option_b": "可能会导致决策树在训练集和测试集上得分均低。",
+    "option_c": "可能会导致决策树在训练集上得分高但在测试集上得分低。",
+    "option_d": "可能会导致决策树在测试集上得分高但在训练集上得分低。",
+    "answer": "C",
+    "id": "machine_learning/dev/4"
+  }
+]
