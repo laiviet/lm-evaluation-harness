@@ -1,0 +1,23 @@
+{
+  "results": {
+    "arc_hu_easy": {
+      "acc": 0.2768959435626102,
+      "acc_stderr": 0.01880834056778404,
+      "acc_norm": 0.23809523809523808,
+      "acc_norm_stderr": 0.017902656676116995
+    }
+  },
+  "versions": {
+    "arc_hu_easy": 0
+  },
+  "config": {
+    "model": "hf-auto",
+    "model_args": "pretrained=sshleifer/tiny-gpt2",
+    "batch_size": "1",
+    "device": "cuda",
+    "no_cache": false,
+    "limit": null,
+    "bootstrap_iters": 100000,
+    "description_dict": {}
+  }
+}

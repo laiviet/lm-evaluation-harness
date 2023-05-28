@@ -1,0 +1,23 @@
+{
+  "results": {
+    "arc_vi_challenge": {
+      "acc": 0.20469798657718122,
+      "acc_stderr": 0.02341232810510543,
+      "acc_norm": 0.24496644295302014,
+      "acc_norm_stderr": 0.02495503598089894
+    }
+  },
+  "versions": {
+    "arc_vi_challenge": 0
+  },
+  "config": {
+    "model": "hf-auto",
+    "model_args": "pretrained=sshleifer/tiny-gpt2",
+    "batch_size": "1",
+    "device": "cuda",
+    "no_cache": false,
+    "limit": null,
+    "bootstrap_iters": 100000,
+    "description_dict": {}
+  }
+}
