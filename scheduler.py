@@ -9,18 +9,19 @@ TRUTHFULQA_MULTIPLE_CHOICE_TASKS = [f'truthfulqa_{lang}_mc' for lang in LANGS]
 TRUTHFULQA_TASKS = TRUTHFULQA_GENERATION_TASKS + TRUTHFULQA_MULTIPLE_CHOICE_TASKS
 
 model_configs = [
-    # ('hf-auto', 'bigscience/bloom-560m', 'bloom-560', 1, 'cuda'),
-    ('hf-auto', 'gpt2', 'gpt2', 1, 'cuda'),
-    ('hf-auto', 'gpt2-medium', 'gpt2-medium', 1, 'cuda'),
-    ('hf-auto', 'gpt2-large', 'gpt2-large', 1, 'cuda'),
-    # ('hf-auto', 'bigscience/bloom-1b7', 'bloom-1b7', 1, 'cuda'),
-    # ('hf-auto', 'bigscience/bloom-7b1', 'bloom-7b1', 1, 'cuda'),
     # ('hf-auto', 'sshleifer/tiny-gpt2', 'tiny-gpt2', 1, 'cuda'),
+    # ('hf-auto', 'bigscience/bloom-560m', 'bloom-560', 1, 'cuda'),
+    # ('hf-auto', 'gpt2', 'gpt2', 1, 'cuda'),
+    # ('hf-auto', 'gpt2-medium', 'gpt2-medium', 1, 'cuda'),
+    # ('hf-auto', 'gpt2-large', 'gpt2-large', 1, 'cuda'),
+    # ('hf-auto', 'bigscience/bloom-1b7', 'bloom-1b7', 1, 'cuda'),
+    ('hf-auto', 'bigscience/bloom-3b', 'bloom-3b', 1, 'cuda'),
+    # ('hf-auto', 'bigscience/bloom-7b1', 'bloom-7b1', 1, 'cuda'),
 ]
 
 commands = []
 for model, pretrained, alias, bs, device in model_configs:
-    for task in ARC_TASKS:
+    for task in TRUTHFULQA_TASKS + ARC_TASKS:
         cmd = f'python main.py --model {model} ' + \
               f'--model_args pretrained={pretrained} ' + \
               f'--model_alias {alias} ' + \

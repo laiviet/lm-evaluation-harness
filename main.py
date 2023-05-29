@@ -34,7 +34,7 @@ class MultiChoice:
 
 def parse_args():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--model", required=True)
+    parser.add_argument("--model", default='hf-auto')
     parser.add_argument("--model_alias", type=str, required=True)
     parser.add_argument("--model_args", default="")
     parser.add_argument("--tasks", default=None, choices=MultiChoice(tasks.ALL_TASKS))
