@@ -10,7 +10,10 @@ TRUTHFULQA_TASKS = TRUTHFULQA_GENERATION_TASKS + TRUTHFULQA_MULTIPLE_CHOICE_TASK
 
 model_configs = [
     # ('hf-auto', 'bigscience/bloom-560m', 'bloom-560', 1, 'cuda'),
-    ('hf-auto', 'bigscience/bloom-1b7', 'bloom-1b7', 1, 'cuda'),
+    ('hf-auto', 'gpt2', 'gpt2', 1, 'cuda'),
+    ('hf-auto', 'gpt2-medium', 'gpt2-medium', 1, 'cuda'),
+    ('hf-auto', 'gpt2-large', 'gpt2-large', 1, 'cuda'),
+    # ('hf-auto', 'bigscience/bloom-1b7', 'bloom-1b7', 1, 'cuda'),
     # ('hf-auto', 'bigscience/bloom-7b1', 'bloom-7b1', 1, 'cuda'),
     # ('hf-auto', 'sshleifer/tiny-gpt2', 'tiny-gpt2', 1, 'cuda'),
 ]
