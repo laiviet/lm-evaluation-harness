@@ -1,0 +1,23 @@
+{
+  "results": {
+    "arc_nl_easy": {
+      "acc": 0.3257042253521127,
+      "acc_stderr": 0.01968091954788333,
+      "acc_norm": 0.2904929577464789,
+      "acc_norm_stderr": 0.01906578231040886
+    }
+  },
+  "versions": {
+    "arc_nl_easy": 0
+  },
+  "config": {
+    "model": "hf-auto",
+    "model_args": "pretrained=/sensei-fs/users/daclai/uoChatGPT/bloom-7b1",
+    "batch_size": "1",
+    "device": "cuda",
+    "no_cache": false,
+    "limit": null,
+    "bootstrap_iters": 100000,
+    "description_dict": {}
+  }
+}
