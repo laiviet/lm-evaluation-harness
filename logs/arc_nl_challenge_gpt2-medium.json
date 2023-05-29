@@ -1,0 +1,23 @@
+{
+  "results": {
+    "arc_nl_challenge": {
+      "acc": 0.23154362416107382,
+      "acc_stderr": 0.024476414420146628,
+      "acc_norm": 0.2550335570469799,
+      "acc_norm_stderr": 0.025292327380712687
+    }
+  },
+  "versions": {
+    "arc_nl_challenge": 0
+  },
+  "config": {
+    "model": "hf-auto",
+    "model_args": "pretrained=gpt2-medium",
+    "batch_size": "1",
+    "device": "cuda",
+    "no_cache": false,
+    "limit": null,
+    "bootstrap_iters": 100000,
+    "description_dict": {}
+  }
+}

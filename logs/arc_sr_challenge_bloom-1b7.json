@@ -1,0 +1,23 @@
+{
+  "results": {
+    "arc_sr_challenge": {
+      "acc": 0.23986486486486486,
+      "acc_stderr": 0.024860949670846393,
+      "acc_norm": 0.2635135135135135,
+      "acc_norm_stderr": 0.025649141242391035
+    }
+  },
+  "versions": {
+    "arc_sr_challenge": 0
+  },
+  "config": {
+    "model": "hf-auto",
+    "model_args": "pretrained=bigscience/bloom-1b7",
+    "batch_size": "1",
+    "device": "cuda",
+    "no_cache": false,
+    "limit": null,
+    "bootstrap_iters": 100000,
+    "description_dict": {}
+  }
+}

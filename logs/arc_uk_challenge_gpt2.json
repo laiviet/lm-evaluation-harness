@@ -1,0 +1,23 @@
+{
+  "results": {
+    "arc_uk_challenge": {
+      "acc": 0.21212121212121213,
+      "acc_stderr": 0.023761611918761662,
+      "acc_norm": 0.24242424242424243,
+      "acc_norm_stderr": 0.02490893747050876
+    }
+  },
+  "versions": {
+    "arc_uk_challenge": 0
+  },
+  "config": {
+    "model": "hf-auto",
+    "model_args": "pretrained=gpt2",
+    "batch_size": "1",
+    "device": "cuda",
+    "no_cache": false,
+    "limit": null,
+    "bootstrap_iters": 100000,
+    "description_dict": {}
+  }
+}

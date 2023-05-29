@@ -1,0 +1,49 @@
+{
+  "results": {
+    "truthfulqa_da_gen": {
+      "bleurt_max": -1.1718070768916957,
+      "bleurt_max_stderr": 0.01649225310199103,
+      "bleurt_acc": 0.6286811779769527,
+      "bleurt_acc_stderr": 0.01729981304310068,
+      "bleurt_diff": 0.12203981612884128,
+      "bleurt_diff_stderr": 0.012974514776903878,
+      "bleu_max": 3.677413483864225,
+      "bleu_max_stderr": 0.3538603981008331,
+      "bleu_acc": 0.17797695262483995,
+      "bleu_acc_stderr": 0.013695458584696847,
+      "bleu_diff": 0.610783678220974,
+      "bleu_diff_stderr": 0.310329639263991,
+      "rouge1_max": 11.18015283884488,
+      "rouge1_max_stderr": 0.6793053765064322,
+      "rouge1_acc": 0.22407170294494239,
+      "rouge1_acc_stderr": 0.01492990351885876,
+      "rouge1_diff": 0.8936944080718174,
+      "rouge1_diff_stderr": 0.45072305127379886,
+      "rouge2_max": 6.1112560281660855,
+      "rouge2_max_stderr": 0.5414496468874813,
+      "rouge2_acc": 0.1382842509603073,
+      "rouge2_acc_stderr": 0.01236007410652495,
+      "rouge2_diff": 0.9255325690998831,
+      "rouge2_diff_stderr": 0.4806180811956185,
+      "rougeL_max": 10.237460801776141,
+      "rougeL_max_stderr": 0.6347798532644663,
+      "rougeL_acc": 0.22407170294494239,
+      "rougeL_acc_stderr": 0.014929903518858754,
+      "rougeL_diff": 0.9485672258900538,
+      "rougeL_diff_stderr": 0.449798454823736
+    }
+  },
+  "versions": {
+    "truthfulqa_da_gen": 1
+  },
+  "config": {
+    "model": "hf-auto",
+    "model_args": "pretrained=bigscience/bloom-3b",
+    "batch_size": "1",
+    "device": "cuda",
+    "no_cache": false,
+    "limit": null,
+    "bootstrap_iters": 100000,
+    "description_dict": {}
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "results": {
+    "truthfulqa_fr_gen": {
+      "bleurt_max": -0.8351538724736939,
+      "bleurt_max_stderr": 0.007599262087724548,
+      "bleurt_acc": 0.5800756620428752,
+      "bleurt_acc_stderr": 0.017537401890997287,
+      "bleurt_diff": 0.02039178980404011,
+      "bleurt_diff_stderr": 0.002948476985309506,
+      "bleu_max": 0.06946106135054668,
+      "bleu_max_stderr": 4.3888188813848444e-17,
+      "bleu_acc": 0.0,
+      "bleu_acc_stderr": 0.0,
+      "bleu_diff": 0.0,
+      "bleu_diff_stderr": 0.0,
+      "rouge1_max": 0.0,
+      "rouge1_max_stderr": 0.0,
+      "rouge1_acc": 0.0,
+      "rouge1_acc_stderr": 0.0,
+      "rouge1_diff": 0.0,
+      "rouge1_diff_stderr": 0.0,
+      "rouge2_max": 0.0,
+      "rouge2_max_stderr": 0.0,
+      "rouge2_acc": 0.0,
+      "rouge2_acc_stderr": 0.0,
+      "rouge2_diff": 0.0,
+      "rouge2_diff_stderr": 0.0,
+      "rougeL_max": 0.0,
+      "rougeL_max_stderr": 0.0,
+      "rougeL_acc": 0.0,
+      "rougeL_acc_stderr": 0.0,
+      "rougeL_diff": 0.0,
+      "rougeL_diff_stderr": 0.0
+    }
+  },
+  "versions": {
+    "truthfulqa_fr_gen": 1
+  },
+  "config": {
+    "model": "hf-auto",
+    "model_args": "pretrained=sshleifer/tiny-gpt2",
+    "batch_size": "1",
+    "device": "cuda",
+    "no_cache": false,
+    "limit": null,
+    "bootstrap_iters": 100000,
+    "description_dict": {}
+  }
+}

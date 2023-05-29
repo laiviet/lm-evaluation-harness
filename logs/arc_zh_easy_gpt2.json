@@ -1,0 +1,23 @@
+{
+  "results": {
+    "arc_zh_easy": {
+      "acc": 0.29173989455184535,
+      "acc_stderr": 0.01907304936580476,
+      "acc_norm": 0.29349736379613356,
+      "acc_norm_stderr": 0.019106662305021352
+    }
+  },
+  "versions": {
+    "arc_zh_easy": 0
+  },
+  "config": {
+    "model": "hf-auto",
+    "model_args": "pretrained=gpt2",
+    "batch_size": "1",
+    "device": "cuda",
+    "no_cache": false,
+    "limit": null,
+    "bootstrap_iters": 100000,
+    "description_dict": {}
+  }
+}
