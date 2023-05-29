@@ -1,0 +1,23 @@
+{
+  "results": {
+    "arc_uk_easy": {
+      "acc": 0.3110720562390158,
+      "acc_stderr": 0.01942420408516087,
+      "acc_norm": 0.26537785588752194,
+      "acc_norm_stderr": 0.01852636347133302
+    }
+  },
+  "versions": {
+    "arc_uk_easy": 0
+  },
+  "config": {
+    "model": "hf-auto",
+    "model_args": "pretrained=bigscience/bloom-1b7",
+    "batch_size": "1",
+    "device": "cuda",
+    "no_cache": false,
+    "limit": null,
+    "bootstrap_iters": 100000,
+    "description_dict": {}
+  }
+}
