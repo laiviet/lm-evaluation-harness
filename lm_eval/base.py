@@ -20,7 +20,8 @@ from abc import abstractmethod
 
 class LM(abc.ABC):
     def __init__(self):
-        self.cache_hook = CacheHook(None)
+        pass
+        # self.cache_hook = CacheHook(None)
 
     @abstractmethod
     def loglikelihood(self, requests):
@@ -114,8 +115,8 @@ class LM(abc.ABC):
         args2 = {k: v for k, v in additional_config.items() if v is not None}
         return cls(**args, **args2)
 
-    def set_cache_hook(self, cache_hook):
-        self.cache_hook = cache_hook
+    # def set_cache_hook(self, cache_hook):
+    #     self.cache_hook = cache_hook
 
 
 class BaseLM(LM):
@@ -371,8 +372,8 @@ class BaseLM(LM):
                 answer = (float(logits.sum()), bool(max_equal))
 
                 # partial caching
-                if cache_key is not None:
-                    self.cache_hook.add_partial("loglikelihood", cache_key, answer)
+                # if cache_key is not None:
+                #     self.cache_hook.add_partial("loglikelihood", cache_key, answer)
 
                 res.append(answer)
 
@@ -418,7 +419,7 @@ class BaseLM(LM):
                 s = s.split(term)[0]
 
             # partial caching
-            self.cache_hook.add_partial("greedy_until", (context, until), s)
+            # self.cache_hook.add_partial("greedy_until", (context, until), s)
 
             res.append(s)
 
@@ -824,19 +825,19 @@ def hash_args(attr, args):
     return hashlib.sha256(dat.encode("utf-8")).hexdigest()
 
 
-class CacheHook:
-    def __init__(self, cachinglm):
-        if cachinglm is None:
-            self.dbdict = None
-            return
-
-        self.dbdict = cachinglm.dbdict
-
-    def add_partial(self, attr, req, res):
-        if self.dbdict is None:
-            return
-        hsh = hash_args(attr, req)
-        self.dbdict[hsh] = res
+# class CacheHook:
+#     def __init__(self, cachinglm):
+#         if cachinglm is None:
+#             self.dbdict = None
+#             return
+#
+#         self.dbdict = cachinglm.dbdict
+#
+#     def add_partial(self, attr, req, res):
+#         if self.dbdict is None:
+#             return
+#         hsh = hash_args(attr, req)
+#         self.dbdict[hsh] = res
 
 
 class CachingLM:
@@ -855,7 +856,7 @@ class CachingLM:
         self.dbdict = SqliteDict(cache_db, autocommit=True)
 
         # add hook to lm
-        lm.set_cache_hook(self.get_cache_hook())
+        # lm.set_cache_hook(self.get_cache_hook())
 
     def __getattr__(self, attr):
         def fn(requests):
@@ -895,8 +896,8 @@ class CachingLM:
 
         return fn
 
-    def get_cache_hook(self):
-        return CacheHook(self)
+    # def get_cache_hook(self):
+    #     return CacheHook(self)
 
 
 REQUEST_RETURN_LENGTHS = {
