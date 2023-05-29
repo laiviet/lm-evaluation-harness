@@ -60,7 +60,7 @@ class LangTaskConfig(datasets.BuilderConfig):
 
         assert task in ['mc', 'gen']
 
-        if task == 'mc':
+        if task == 'gen':
             self.features = datasets.Features(
                 {
                     "type": datasets.Value("string"),
@@ -72,7 +72,7 @@ class LangTaskConfig(datasets.BuilderConfig):
                     "source": datasets.Value("string"),
                 }
             )
-        elif task == 'gen':
+        elif task == 'mc':
             self.features = datasets.Features(
                 {
                     "question": datasets.Value("string"),
