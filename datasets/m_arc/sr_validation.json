@@ -1,0 +1,2664 @@
+[
+  {
+    "id": "ARC-Challenge/validation/Mercury_7099103",
+    "answer": "D",
+    "instruction": "Divlje kupine se aseksualno reprodukuju stvaranjem novih korena kada se grane dodiruju sa zemljom. Takođe se reprodukuju seksualno putem svojih cvetova. Koja je prednost crne kupine koja se može reprodukovati seksualno i aseksualno?",
+    "option_a": "To im omogućava da rastu više.",
+    "option_b": "Proizvodi cvetove koji privlače insekte.",
+    "option_c": "Proizvodi kupine sa više ukusa.",
+    "option_d": "Omogućava crnim kupinama da se prilagode novim uslovima."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2006_9_31-v1",
+    "answer": "C",
+    "instruction": "Koja od navedenih opcija opisuje mehaničku energiju vozića koji je na vrhu strmog brda u mirovanju?",
+    "option_a": "Vozić nema mehaničku energiju.",
+    "option_b": "Mehanička energija vozića je potpuno kinetička.",
+    "option_c": "Mehanička energija vozića je potpuno potencijalna.",
+    "option_d": "Mehanička energija vozića je pola potencijalna, a pola kinetička."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7090738",
+    "answer": "A",
+    "instruction": "Koje pitanje se može odgovoriti naučnim istraživanjem?",
+    "option_a": "Kako solarna energija utiče na formiranje oblaka?",
+    "option_b": "Zašto su tigrovi lepši od iguana?",
+    "option_c": "Koji je najbolji predmet za studiranje na fakultetu?",
+    "option_d": "Da li bi ljudi trebalo da investiraju u putovanja u svemir?"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7130883",
+    "answer": "B",
+    "instruction": "Jedan inženjerski razred dobio je zadatak da razvije robota. Robot se mora dizajnirati tako da koristi elektromagnetnu energiju kao jedini izvor pogona. Koju temu najverovatnije proučava inženjerski razred?",
+    "option_a": "upotrebu baterija i hemijske energije",
+    "option_b": "kako se može koristiti zračna energija i solarni kolektori",
+    "option_c": "pretvaranje kinetičke energije u potencijalnu energiju",
+    "option_d": "kako se toplotna energija može pretvoriti u električnu energiju"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7190155",
+    "answer": "B",
+    "instruction": "U Amazonskom prašumi živi mnogo različitih biljnih i životinjskih vrsta. Koji je najverovatniji rezultat velikih površina smanjenja šume u Amazonu?",
+    "option_a": "povećanje populacije životinja",
+    "option_b": "smanjenje proizvodnje kiseonika",
+    "option_c": "povećanje padavina",
+    "option_d": "smanjenje zagađivača"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_177398",
+    "answer": "B",
+    "instruction": "Koje od sledećeg predstavlja automobil koji se kreće severoistočnim pravcem brzinom od 50 km/h?",
+    "option_a": "brzina",
+    "option_b": "brzina i pravac kretanja",
+    "option_c": "ubrzanje",
+    "option_d": "usporenje"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7246995",
+    "answer": "C",
+    "instruction": "Neke biljne ćelije trebaju energiju da bi prenosile hranljive materije kroz ćelijsku membranu. Koji tip transformacije energije koriste ove biljne ćelije da bi unijele molekulu hrane unutar ćelijske membrane?",
+    "option_a": "termalna energija u kinetičku energiju",
+    "option_b": "potencijalna energija u svjetlosnu energiju",
+    "option_c": "hemijska energija u kinetičku energiju",
+    "option_d": "kinetička energija u potencijalnu energiju"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_189490",
+    "answer": "A",
+    "instruction": "Opservacija grahorica Gregora Mendela predstavlja primer",
+    "option_a": "dokaza zasnovanog na istraživanju koji podržava naučnu teoriju.",
+    "option_b": "zaključka koji se testira hipotezom.",
+    "option_c": "slučajnog testiranja tokom eksperimenta.",
+    "option_d": "dokaza za i protiv naučnog modela."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7139790",
+    "answer": "C",
+    "instruction": "Hobotnica ima posebne ćelije u koži zvane hromatofori koji omogućavaju hobotnici da gotovo trenutno promijeni boju. Najvjerojatnije hromatofori pomažu hobotnici",
+    "option_a": "brže plivati.",
+    "option_b": "usporiti disanje.",
+    "option_c": "sakriti se od grabežljivaca.",
+    "option_d": "regulirati tjelesnu temperaturu."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7282608",
+    "answer": "C",
+    "instruction": "Otpadne vode iz kuća nisu sve iste. Siva voda se odnosi na otpadnu vodu iz sudopera i kada. Ne sadrži ljudske biološke otpatke, pa je može ponovo koristiti umesto da se tretira kao kanalizacija. Koja upotreba sive vode pokazuje dobro upravljanje resursima?",
+    "option_a": "pranje sudova i pijenje",
+    "option_b": "pijenje i zalivanje cvetnih leja",
+    "option_c": "zalivanje cvetnih leja i zalivanje drveća",
+    "option_d": "zalivanje drveća i pranje sudova"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7145513",
+    "answer": "B",
+    "instruction": "Životni procesi zahtevaju energiju. Biokemijski procesi uključuju specifične reakcije. Koja je karakteristika biokemijskih procesa zajednička svim životinjama?",
+    "option_a": "funkcionišu na bilo kom nivou pH vrednosti",
+    "option_b": "oslobađaju toplotu kao proizvod",
+    "option_c": "koriste samo anaerobnu respiraciju",
+    "option_d": "količina apsorbovane energije"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7018148",
+    "answer": "B",
+    "instruction": "VEĆINA elemenata koji se nalaze na Periodnom sistemu elemenata su",
+    "option_a": "gasovi.",
+    "option_b": "metali.",
+    "option_c": "tečnosti.",
+    "option_d": "nemetali."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_401294",
+    "answer": "B",
+    "instruction": "Oblik listova biljaka koje dobro uspevaju u kišnoj klimi su najčešće",
+    "option_a": "crveni i sjajni.",
+    "option_b": "široki i ravni.",
+    "option_c": "debeli i voskasti.",
+    "option_d": "oštri i uski."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7207410",
+    "answer": "C",
+    "instruction": "Storm chasers su ljudi koji se približavaju olujama radi posmatranja i merenja. Koje znanje su storm chasersi dodali studiji o olujama koje je najviše pomoglo u modifikovanju teorija o formiranju oluja?",
+    "option_a": "njihova viđenja oštećenja od oluje",
+    "option_b": "njihova lična iskustva u olujama",
+    "option_c": "podaci koje su prikupili na početku oluja",
+    "option_d": "njihovo entuzijazam za proučavanje različitih oluja"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_8_2015_11",
+    "answer": "A",
+    "instruction": "Koje od navedenih najbolje opisuje masu čvrstog bloka leda?",
+    "option_a": "količina materije u bloku",
+    "option_b": "količina prostora koju blok zauzima",
+    "option_c": "silu gravitacije koja djeluje na blok",
+    "option_d": "udaljenost između molekula u bloku"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7201705",
+    "answer": "A",
+    "instruction": "U mnogim delovima sveta, zemlja koja je suviše suva za uzgoj koristi se za ispašu stoke. Prekomeran ispašaj uništava autohtone biljke i razbija prirodni pokrivač zemlje. Kako prekomeran ispašaj dovodi do pustinjastanja?",
+    "option_a": "povećanjem brzine kojom se erozijom gornjeg sloja zemlje",
+    "option_b": "omogućavanjem kolonizacije zemljišta vrstama koje nisu autohtone",
+    "option_c": "smanjenjem hrane koja je dostupna stoci",
+    "option_d": "uzrokujući da zemlja brže upija padavine"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7133858",
+    "answer": "B",
+    "instruction": "Tvar može proći kroz različite promjene. Koja najbolje demonstrira kemijsku promjenu?",
+    "option_a": "topljenje soli",
+    "option_b": "gorenje drveta",
+    "option_c": "ključanje vode",
+    "option_d": "topljenje leda"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2003_5_31",
+    "answer": "D",
+    "instruction": "Koji od ovih nije instinktivno ponašanje?",
+    "option_a": "ptica koja gradi gnijezdo",
+    "option_b": "kornjača koja zakopava jaja",
+    "option_c": "medvjed koji hibernira zimi",
+    "option_d": "konj koji vuče plug"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7198380",
+    "answer": "D",
+    "instruction": "Različite vrste herbivornih glodara su živele u istom ekosistemu. Koja je verovatno najviše porasla, dovodeći do veće konkurencije za resurse među glodarima?",
+    "option_a": "plodnost zemljišta",
+    "option_b": "brojnost proizvođača u oblasti",
+    "option_c": "količina ostataka hrane koje su predator ostavili",
+    "option_d": "stopa kojom su se primarni potrošači selili u oblast"
+  },
+  {
+    "id": "ARC-Challenge/validation/LEAP_2012_8_10441",
+    "answer": "C",
+    "instruction": "Vrsta guštera najviše jede plodove jedne određene vrste drveća. Ako virus ubije većinu ovih stabala, koji pojedinci guštera će najverovatnije preživeti?",
+    "option_a": "gušteri koji mogu da se penju više na drvo u potrazi za hranom",
+    "option_b": "gušteri tamnije boje",
+    "option_c": "gušteri koji mogu da pronađu druge vrste hrane",
+    "option_d": "gušteri koji daju više potomstva"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7217053",
+    "answer": "B",
+    "instruction": "Biološka evolucija može se dogoditi kroz sve navedeno, osim",
+    "option_a": "konkurencije.",
+    "option_b": "fosilizacije.",
+    "option_c": "varijacije.",
+    "option_d": "adaptacije."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7233660",
+    "answer": "C",
+    "instruction": "Neki naučnici teoretišu da bi pomeranje ploča moglo da promeni nivo vode u morima Zemlje. Kako bi priroda pomeranja ploča ograničila moguće promene nivoa mora?",
+    "option_a": "čineći samo male promene",
+    "option_b": "menjajući samo nekoliko određenih okeanskih bazena",
+    "option_c": "uzrokujući promene da se dešavaju veoma sporo",
+    "option_d": "izazivajući parne promene sa jednakim i suprotnim efektima"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7115395",
+    "answer": "A",
+    "instruction": "Koje promene će najverovatnije imati negativan uticaj na ekosistem?",
+    "option_a": "izgradnja puta",
+    "option_b": "sadnja drveta",
+    "option_c": "dodavanje izvora slatke vode",
+    "option_d": "kreiranje prirodnog rezervata"
+  },
+  {
+    "id": "ARC-Challenge/validation/MSA_2013_8_3",
+    "answer": "D",
+    "instruction": "Geolozi su identifikovali sedam glavnih tektonskih ploča na površini Zemlje. Koja evidencija najbolje ukazuje na sudar tektonskih ploča?",
+    "option_a": "Vetar erozira stenske formacije na površini.",
+    "option_b": "Fosili datiraju hiljadama godina unazad.",
+    "option_c": "Mali kamenčići su ostavljeni kada glečeri povuku.",
+    "option_d": "Stariji slojevi stena se nalaze iznad novijih slojeva stena."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7205135",
+    "answer": "C",
+    "instruction": "Kako su čestice u bloku gvožđa pogođene kada se blok otopi?",
+    "option_a": "Čestice dobijaju masu.",
+    "option_b": "Čestice sadrže manje energije.",
+    "option_c": "Čestice se kreću brže.",
+    "option_d": "Čestice povećavaju se u volumenu."
+  },
+  {
+    "id": "ARC-Challenge/validation/ACTAAP_2010_5_10",
+    "answer": "A",
+    "instruction": "Sara pali baterijsku lampu i drži predmet pod svetlom. Kako će moći da zaključi da li je predmet neproziran?",
+    "option_a": "Nijedan zrak svetla neće proći kroz predmet.",
+    "option_b": "Neki zraci svetla će se reflektovati.",
+    "option_c": "Svetlost će se savijati pod uglom.",
+    "option_d": "Svetlo će jasno proći kroz predmet."
+  },
+  {
+    "id": "ARC-Challenge/validation/TIMSS_2003_8_pg29",
+    "answer": "E",
+    "instruction": "Koja od sledećih organa NIJE smještena u abdomenu?",
+    "option_a": "jetra",
+    "option_b": "bubrezi",
+    "option_c": "želudac",
+    "option_d": "mokraćna bešika",
+    "option_e": "srce"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7181685",
+    "answer": "A",
+    "instruction": "Svojstvo boje cveta je visoko varijabilno kod određenih vrsta ruža, što dovodi do stvaranja cvetova različitih boja. Kako je došlo do varijacije boje cveta kod ruža?",
+    "option_a": "mutacijom",
+    "option_b": "opeklinom",
+    "option_c": "prirodnim odabirom",
+    "option_d": "aseksualnim razmnožavanjem"
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2011_5_20",
+    "answer": "D",
+    "instruction": "Zec sa snježnom stopom dvaput godišnje mijenja krzno. Ljeti, krzno je smeđe boje. Zimi, krzno je bijelo. Koji od ovih izjava najbolje objašnjava prednost mijenjanja krzna?",
+    "option_a": "Mijenjanje krzna održava zečje tijelo čistim.",
+    "option_b": "Mijenjanje krzna pomaže zečju kretanja brzijim.",
+    "option_c": "Mijenjanje krzna održava toplo zečje sklonište.",
+    "option_d": "Mijenjanje krzna pomaže zeca da se uklopi u svoje stanište."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7008120",
+    "answer": "A",
+    "instruction": "Binarne zvijezde se koriste od strane naučnika da odrede zvijezdinu",
+    "option_a": "masu.",
+    "option_b": "sjaj.",
+    "option_c": "udaljenost od Zemlje.",
+    "option_d": "udaljenost od Sunca."
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_13",
+    "answer": "B",
+    "instruction": "Kada dječak pogleda u mirnu baru, može vidjeti svoje lice. Koja fizička karakteristika bare omogućava ovaj efekat?",
+    "option_a": "fleksibilnost",
+    "option_b": "reflektivnost",
+    "option_c": "temperatura",
+    "option_d": "volumen"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_1",
+    "answer": "B",
+    "instruction": "Student je posadio dva zrna pasulja u dva identična lonca sa istom vrstom zemlje. Jedan lonac je stavio u orman, a drugi pored sunčanog prozora. Svaki dan je zalivao svaki od lonaca sa 15 mililitara vode. Koja je bila razlika između dva lonca?",
+    "option_a": "količina vode",
+    "option_b": "količina svetla",
+    "option_c": "vrsta zemlje",
+    "option_d": "vrsta semena"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7141698",
+    "answer": "B",
+    "instruction": "Kada se pojavi munja, zagreva okolni vazduh. Topli vazduh se širi i proizvodi grmljavinu. Kojom vrstom energije se konvertuje energija munje da bi se proizvela grmljavina?",
+    "option_a": "gravitacionom",
+    "option_b": "mehaničkom",
+    "option_c": "nuklearnom",
+    "option_d": "zračnom"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_407314",
+    "answer": "A",
+    "instruction": "Ученици из две класе су проводили исту истраживање. Сваки од њих је добио различите резултате. Који је најбољи начин да ученици одреде зашто су резултати били различити?",
+    "option_a": "Прегледајте кораке које сте предузели током истраживања.",
+    "option_b": "Изменихте хипотезу истраживања.",
+    "option_c": "Истражите податке о сличним истраживањима.",
+    "option_d": "Сprovedite друго истраживанje."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_406781",
+    "answer": "C",
+    "instruction": "Koja interakcija između životinja najbolje kontroliše populaciju vrste?",
+    "option_a": "divlje životinje obeležavaju svoje teritorije",
+    "option_b": "riba remora putuje sa ajkulama",
+    "option_c": "lavovi love zebre",
+    "option_d": "vukovi putuju u čoporima"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400845",
+    "answer": "B",
+    "instruction": "Munje mogu proizvesti sve ove oblike energije osim",
+    "option_a": "energije toplote.",
+    "option_b": "solarnu energiju.",
+    "option_c": "svetlosnu energiju.",
+    "option_d": "električnu energiju."
+  },
+  {
+    "id": "ARC-Challenge/validation/ACTAAP_2009_5_5",
+    "answer": "B",
+    "instruction": "Janetu su dati uzorci minerala koje treba da identifikuje. Jedan od uzoraka je žute boje. Koji od ovih minerala je najverovatnije žute boje?",
+    "option_a": "Talk",
+    "option_b": "Sumpor",
+    "option_c": "Gips",
+    "option_d": "Hematit"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7171938",
+    "answer": "D",
+    "instruction": "Okeanski talasi Zemlje su jako uticani Mesecom. Tokom kojih lunarne faze su okeanski talasi najniži na Zemlji?",
+    "option_a": "puna i prva četvrtina",
+    "option_b": "puna i nova mesecina",
+    "option_c": "poslednja četvrtina i nova mesecina",
+    "option_d": "prva četvrtina i poslednja četvrtina"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415354",
+    "answer": "C",
+    "instruction": "Koje od ovih ponašanja delfin nauči?",
+    "option_a": "jede male ribe",
+    "option_b": "pliva u slanoj vodi",
+    "option_c": "balansira loptu na nosu",
+    "option_d": "diše kroz škrge"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_17",
+    "answer": "C",
+    "instruction": "Kojim osobinama bi se mačka najverovatnije nasledila od svojih roditelja?",
+    "option_a": "imajući ožiljak",
+    "option_b": "jurcajući igračku",
+    "option_c": "imajući beli krzneni kaput",
+    "option_d": "znajući svoje ime"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7251685",
+    "answer": "B",
+    "instruction": "Koja aktivnost najefikasnije osigurava pravilan rad osteocita?",
+    "option_a": "povećanje disajne frekvencije",
+    "option_b": "konsumiranje hrane bogate mineralima",
+    "option_c": "smanjenje stresnog vježbanja",
+    "option_d": "pijenje vode bez iona"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7267995",
+    "answer": "C",
+    "instruction": "Neki biljni i životinjski vrste ovise jedni o drugima. Koji od ovih životinja pomaže tisućama biljnih vrsta u razmnožavanju?",
+    "option_a": "vjeverice",
+    "option_b": "gliste",
+    "option_c": "pčele",
+    "option_d": "bubamare"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7193043",
+    "answer": "B",
+    "instruction": "Nenativne biljke mogu preuzeti područja koja su nekada bila naseljena biljnim vrstama koje su autohtone. Koji abiotski proces najmanje vjerojatno uzrokuje invaziju nenativnih biljaka?",
+    "option_a": "poplave",
+    "option_b": "vremenska erozija",
+    "option_c": "oluje prašine",
+    "option_d": "topljenje glečera"
+  },
+  {
+    "id": "ARC-Challenge/validation/VASoL_2008_5_28",
+    "answer": "C",
+    "instruction": "Podmornice su istražile mnoge dijelove okeana. Kako podmornice rone, naučnici primjećuju da dolazi do povećanja -",
+    "option_a": "količine svjetla",
+    "option_b": "temperature vode",
+    "option_c": "pritiska vode",
+    "option_d": "tipova okeanskih organizama"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7154263",
+    "answer": "B",
+    "instruction": "Fitoplankton su biljka slični mikroskopski organizmi koji plivaju u vodama poput okeana. U procesu fotosinteze oni apsorbuju ugljen dioksid. Šta bi se najvjerovatnije desilo ako bi populacija fitoplanktona bila uništena?",
+    "option_a": "Temperature mora bi se smanjile.",
+    "option_b": "Gasovi staklene bašte bi se povećali.",
+    "option_c": "Količina atmosferskog kiseonika bi se povećala.",
+    "option_d": "Nivo mora bi se drasticno smanjio."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7032743",
+    "answer": "C",
+    "instruction": "Koja karakteristika geparda je verovatnije da se nauči nego što se nasleđuje?",
+    "option_a": "brzina",
+    "option_b": "vrećasti šarolik krzneni pokrivač",
+    "option_c": "strateški lov",
+    "option_d": "ne uvlačni kandži"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_19",
+    "answer": "B",
+    "instruction": "Kako mačići rastu i postaju mačke, njihova telesna težina obično",
+    "option_a": "se smanjuje",
+    "option_b": "se povećava",
+    "option_c": "ostaje ista"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7115273",
+    "answer": "C",
+    "instruction": "Koji abiotski faktor sprečava postizanje dna velikih cvetova algi na površini jezera?",
+    "option_a": "voda",
+    "option_b": "so",
+    "option_c": "svetlost",
+    "option_d": "kiseonik"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7205555",
+    "answer": "A",
+    "instruction": "Voda ima mnogo jedinstvenih hemijskih svojstava. Koje svojstvo vode čini vodu dobrom rastvaračem kristalnih soli?",
+    "option_a": "jaka polarizacija",
+    "option_b": "slaba provodljivost",
+    "option_c": "visoka viskoznost",
+    "option_d": "nizak pH"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7192990",
+    "answer": "A",
+    "instruction": "Šumske požare izazivaju sušne prilike u mnogim područjima. Ako sušne prilike traju duži period, koja pojava bi mogla ugroziti ponovnu naseljenost drveća?",
+    "option_a": "smanjenje debljine zemljišta",
+    "option_b": "smanjenje količine erozije",
+    "option_c": "povećanje populacije bakterija",
+    "option_d": "povećanje proizvodnje kiseonika"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_408859",
+    "answer": "A",
+    "instruction": "Амерички кајмани су чести у мокрим пределима Флориде. Познато је да једу жабе, кострељце, рибу, мишеве и птице. Коју улогу игра амерички кајман у свом екосистему?",
+    "option_a": "потрошач",
+    "option_b": "разлагач",
+    "option_c": "мртвачник",
+    "option_d": "произвођач"
+  },
+  {
+    "id": "ARC-Challenge/validation/TIMSS_2007_4_pg90",
+    "answer": "C",
+    "instruction": "Sju je izmerila koliko šećera se rastvori u šoljici hladne vode, šoljici mlake vode i šoljici vruće vode. Šta je najverovatnije primetila?",
+    "option_a": "Hladna voda je rastvorila najviše šećera.",
+    "option_b": "Mlaka voda je rastvorila najviše šećera.",
+    "option_c": "Vruća voda je rastvorila najviše šećera.",
+    "option_d": "Hladna voda, mlaka voda i vruća voda su rastvorile istu količinu šećera."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_180058",
+    "answer": "A",
+    "instruction": "Fosil otkriven u Koloradu datira iz ranog mezozoika. Godinu dana kasnije otkriven je sličan fosil u Vajomingu koji takođe datira iz ranog mezozoika. Ova dva organizma verovatno su živela u",
+    "option_a": "istom okruženju u isto vreme.",
+    "option_b": "istom okruženju u različitim vremenima.",
+    "option_c": "različitim okruženjima u isto vreme.",
+    "option_d": "različitim okruženjima u različitim vremenima."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400050",
+    "answer": "C",
+    "instruction": "Šta se dešava kada je temperatura u kući hladnija od temperature odabrane na termostatu?",
+    "option_a": "Grejalica će se pregrevati.",
+    "option_b": "Termostat će postati vruć.",
+    "option_c": "Grejalica će se automatski uključiti.",
+    "option_d": "Termostat će se oglasiti zvučnim signalom."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_1998_8_13",
+    "answer": "D",
+    "instruction": "Koje nije glavno kontroverzno pitanje koje se povezuje sa upotrebom nuklearne energije?",
+    "option_a": "odlaganje nuklearnih otpadnih proizvoda",
+    "option_b": "zdravstveni rizici u područjima oko nuklearnih postrojenja",
+    "option_c": "termalno zagađenje vodenih tela koja se koriste za hlađenje",
+    "option_d": "nezaoslenje zbog prelaska na nuklearnu energiju"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_4",
+    "answer": "A",
+    "instruction": "Koje agregatno stanje nema definisanu zapreminu i oblik?",
+    "option_a": "gas",
+    "option_b": "tečnost",
+    "option_c": "čvrsta materija"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7233678",
+    "answer": "A",
+    "instruction": "Naučnici veruju da je kontinentalni pomak tokom geološke istorije Zemlje imao značajan uticaj na cikluse Zemljinih toplijih i hladnijih klima. Koji od sledećih opisa karakteristika kontinenata Zemlje je najverovatnije da će uzrokovati promene u globalnoj klimi tokom pomaka kontinenata?",
+    "option_a": "Lokacija kontinenta utiče na reflektivnost njegove površine.",
+    "option_b": "Dubina kontinentalne ploče određuje njenu specifičnu toplotu.",
+    "option_c": "Kontinentalni pomak apsorbuje velike količine kinetičke energije.",
+    "option_d": "Temperatura kontinenta je uticajena najbližim okeanom."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_LBS10666",
+    "answer": "B",
+    "instruction": "Biljke obično ne moraju da jedu druge organizme zato što biljke",
+    "option_a": "ne trebaju energiju hrane da bi preživjele.",
+    "option_b": "pretvaraju sunčevu svjetlost u energiju hrane.",
+    "option_c": "dobijaju svu svoju hranu iz tla.",
+    "option_d": "čuvaju pohranjenu energiju hrane u svojim korijenima."
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_8_38",
+    "answer": "A",
+    "instruction": "Supstanca u čvrstoj fazi (stanju) materije ima",
+    "option_a": "određeni oblik i određeni obujam",
+    "option_b": "određeni oblik, ali nema određen obujam",
+    "option_c": "nema određeni oblik, ali ima određen obujam",
+    "option_d": "nema određeni oblik niti određen obujam"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2004_8_28",
+    "answer": "A",
+    "instruction": "Kako bi merljive osobine loptice za golf se promenile kada bi se premestila sa Zemlje na Mesec?",
+    "option_a": "Imala bi istu masu, ali drugu težinu.",
+    "option_b": "Imala bi istu težinu, ali drugu masu.",
+    "option_c": "Imala bi istu gustinu, ali drugu masu.",
+    "option_d": "Imala bi istu masu, ali drugu gustinu."
+  },
+  {
+    "id": "ARC-Challenge/validation/LEAP__7_10354",
+    "answer": "D",
+    "instruction": "Naučni profesor Džoan upozorio je klasu da budu skeptični dok uče o novim naučnim otkrićima. Zašto je važno biti skeptičan u vezi novih otkrića u nauci?",
+    "option_a": "zato što mnoga naučna otkrića nisu zasnovana na činjenicama",
+    "option_b": "zato što većina naučnih otkrića nema naučnu vrednost",
+    "option_c": "zato što većina naučnika pravi greške u formulisanju naučnih otkrića",
+    "option_d": "zato što sva naučna otkrića moraju biti kritički pregledana pre nego što mogu biti prihvaćena"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2003_8_25",
+    "answer": "B",
+    "instruction": "U automobilu, koji od sledećih komponenti je dizajniran posebno da pruža povratnu informaciju vozaču?",
+    "option_a": "volan",
+    "option_b": "brzinomer",
+    "option_c": "pedala kočnice",
+    "option_d": "ključ automobila"
+  },
+  {
+    "id": "ARC-Challenge/validation/TIMSS_2011_8_pg63",
+    "answer": "C",
+    "instruction": "Šta od navedenog definiše jedinjenje?",
+    "option_a": "različite supstance pomešane zajedno",
+    "option_b": "atomi i molekuli pomešani zajedno",
+    "option_c": "atomima različitih elemenata kombinovani zajedno",
+    "option_d": "atomima istog elementa kombinovani zajedno"
+  },
+  {
+    "id": "ARC-Challenge/validation/AIMS_2009_4_29",
+    "answer": "D",
+    "instruction": "Frižider koristi električnu energiju za stvaranje hladnog prostora za skladištenje hrane. Kakav negativan uticaj upotreba frižidera ima na životnu sredinu?",
+    "option_a": "Električna energija potrebna za održavanje hladnoće može biti skupa.",
+    "option_b": "Ako nestane struje, hrana će propasti i izazvati bolest.",
+    "option_c": "Duže očuvana hrana smanjuje odlaske u prodavnice i korišćenje benzina.",
+    "option_d": "Stari frižideri sadrže hemikalije i zauzimaju prostor na deponiji."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_LBS10472",
+    "answer": "B",
+    "instruction": "Biljke imaju specijalizovana tkiva na krajevima stabljika. Čemu ova tkiva pomažu biljkama?",
+    "option_a": "variti hranu",
+    "option_b": "rasti više",
+    "option_c": "proizvoditi hranu",
+    "option_d": "apsovovati vodu"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415491",
+    "answer": "C",
+    "instruction": "Zemlja kruži oko Sunca jedanput godišnje. Koliko puta Mesec obiđe Zemlju u toku godine?",
+    "option_a": "1",
+    "option_b": "7",
+    "option_c": "13",
+    "option_d": "28"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2011_5_17673",
+    "answer": "A",
+    "instruction": "Jozef ima dva štapa od magneta. On gura krajeve dva magneta zajedno, a onda ih oslobađa. Magneti se brzo udaljavaju. Koja od navedenih izjava najbolje objašnjava zašto se to događa?",
+    "option_a": "Sjeverni polovi dvaju magneta su okrenuti jedan prema drugome.",
+    "option_b": "Jedan je magnet sjeverni pol, a drugi magnet je južni pol.",
+    "option_c": "Krajevi magneta se odbijaju, ali središta privlače.",
+    "option_d": "Jedan magnet skladišti energiju, a drugi magnet oslobađa energiju."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_416648",
+    "answer": "A",
+    "instruction": "Paramecium i volvox oboje mogu se reprodukovati seksualno. Kako se seksualna reprodukcija u volvoxu razlikuje od seksualne reprodukcije u paramecijumu?",
+    "option_a": "Kolonije Volvoxa proizvode gamete.",
+    "option_b": "Stanice Volvoxa prolaze kroz konjugaciju.",
+    "option_c": "Kolonije Volvoxa proizvode jednostanične potomke.",
+    "option_d": "Stanice Volvoxa se reproduciraju vegetativnim pupljenjem."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7207620",
+    "answer": "A",
+    "instruction": "Neke instrumente snimaju nivoe kiseonika u ozonskom sloju Zemljine atmosfere. Održavanje evidencije ovih podataka tokom mnogo godina je primer",
+    "option_a": "izgradnje dokaza kroz kontinuiranu istragu.",
+    "option_b": "identifikovanje hipoteze koja podržava podatke.",
+    "option_c": "izvodjenje zaključaka o dokazima iz rezultata.",
+    "option_d": "predlaganje podataka koji su jednostavni za razumevanje."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7164850",
+    "answer": "A",
+    "instruction": "Naučni čas je osmislio poster koji pokazuje kako su se formirali ostrva na preprekama duž obale Floride. Studenti su prikazali uticaj vetra, talasa i plime na pesak koji je formirao ova ostrva. Na posteru, koji par sistema bi trebalo da učenici kažu da najviše utiče na formiranje ostrva na preprekama?",
+    "option_a": "hidrosfera i atmosfera",
+    "option_b": "atmosfera i litosfera",
+    "option_c": "biosfera i hidrosfera",
+    "option_d": "litosfera i biosfera"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7011270",
+    "answer": "B",
+    "instruction": "Koliko otprilike traje jedna revolucija Meseca oko Zemlje?",
+    "option_a": "7 dana",
+    "option_b": "30 dana",
+    "option_c": "90 dana",
+    "option_d": "365 dana"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_412337",
+    "answer": "D",
+    "instruction": "Tokom istraživanja, toplota se prenela iz tečnosti u okruženje. Koji par objašnjenja najbolje objašnjava ovaj rezultat?",
+    "option_a": "Temperatura tečnosti se povećala ili je tečnost postala gas.",
+    "option_b": "Temperatura tečnosti se povećala ili je tečnost postala čvrsta.",
+    "option_c": "Temperatura tečnosti se smanjila ili je tečnost postala gas.",
+    "option_d": "Temperatura tečnosti se smanjila ili je tečnost postala čvrsta."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_1998_8_2",
+    "answer": "C",
+    "instruction": "Struktura ćelije koja čini ćeliju biljke čvršćom od ćelije životinje je",
+    "option_a": "ćelijska membrana.",
+    "option_b": "citoplazma.",
+    "option_c": "ćelijski zid.",
+    "option_d": "ribosom."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7124338",
+    "answer": "D",
+    "instruction": "Za naučnika bi bilo korisno imati radoznali um jer bi ga to usmerilo ka",
+    "option_a": "povećanju kreativnosti.",
+    "option_b": "nerazumevanju rada drugih naučnika.",
+    "option_c": "radu na prihvatanju objavljenih hipoteza.",
+    "option_d": "sprovođenju istraživanja radi potvrđivanja ili opovrgavanja teorija."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_405454",
+    "answer": "D",
+    "instruction": "Koji kuhinjski alat najmanje mijenja okolinu?",
+    "option_a": "plinski roštilj",
+    "option_b": "električna tava za prženje",
+    "option_c": "mikrovalna pećnica",
+    "option_d": "solarna pećnica"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7007875",
+    "answer": "B",
+    "instruction": "Koji stvara vetar?",
+    "option_a": "akcija talasa",
+    "option_b": "solarska energija",
+    "option_c": "zaljuljani árbovi",
+    "option_d": "gravitaciona sila"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_417146",
+    "answer": "A",
+    "instruction": "Većinu kiseonika u atmosferi stvaraju alge. Gde najveći broj algi živi?",
+    "option_a": "obalski okean",
+    "option_b": "duboki okean",
+    "option_c": "bare",
+    "option_d": "jezera"
+  },
+  {
+    "id": "ARC-Challenge/validation/LEAP_2004_8_10397",
+    "answer": "B",
+    "instruction": "Kada su ljudi hodali po Mesecu, ustanovili su da mogu da skoče više nego na Zemlji. Zašto je ovo tačno?",
+    "option_a": "Na Mesecu nema atmosfere.",
+    "option_b": "Mesec izvršava manju gravitacionu silu nego Zemlja.",
+    "option_c": "Skafanderi su im pomogli da skoče više.",
+    "option_d": "Mesec se brže okreće od Zemlje."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_407695",
+    "answer": "D",
+    "instruction": "Џуан и Лакиша гурњу неколико предмета низ рампу. Желе да виде који предмет најдалеко гурне. Шта би требало да ураде да би могли да понове своју истрагу?",
+    "option_a": "Постављајте предмете у групе.",
+    "option_b": "Промените висину рампе.",
+    "option_c": "Изаберите друге предмете за гуртање.",
+    "option_d": "Забележите детаље истраживања."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7158673",
+    "answer": "D",
+    "instruction": "Ana je trkačica na duge staze. Nakon završene trke primetila je da joj je vruće usled oslobađanja termalne energije. Koje je najverovatnije izvor termalne energije?",
+    "option_a": "sudar sa vazduhom",
+    "option_b": "apsorbovana toplota od sunca",
+    "option_c": "apsorbovana mehanička energija",
+    "option_d": "konverzije energije koje se događaju u njenom telu"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7018515",
+    "answer": "C",
+    "instruction": "Najverovatniji razlog zašto zvuk putuje brže u slanoj vodi nego u slatkoj vodi je taj što slana voda",
+    "option_a": "je elastičnija.",
+    "option_b": "brže upija toplotu.",
+    "option_c": "ima veću gustinu.",
+    "option_d": "bolje reflektuje zvuk."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_412551",
+    "answer": "D",
+    "instruction": "Gavranovi imaju dvije varijante boje: crvenu i sivu. Koju prednost ima sivi gavran u staništu koje se sastoji od drveća sa tamno obojenom korom?",
+    "option_a": "gniježđenje",
+    "option_b": "hranjenje",
+    "option_c": "razmnožavanje",
+    "option_d": "skrivanje"
+  },
+  {
+    "id": "ARC-Challenge/validation/VASoL_2008_5_19",
+    "answer": "D",
+    "instruction": "Trojica bejzbol igrača istražuju ko može najdalje da baci lopticu. Obeležavaju prostor na igralištu za svoje istraživanje. Šta bi trebalo da drže konstantnim?",
+    "option_a": "Visina igrača",
+    "option_b": "Boja bačenih loptica",
+    "option_c": "Redosled kojim igrači bacaju",
+    "option_d": "Mesto sa kog igrači bacaju"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7120890",
+    "answer": "A",
+    "instruction": "Šta najbolje demonstrira da talasi prenose energiju?",
+    "option_a": "zvono koje zvoni u tornju",
+    "option_b": "list koji pada sa drveta",
+    "option_c": "lopta koja se kotrlja niz brdo",
+    "option_d": "zastava koja se mrdne na vetru"
+  },
+  {
+    "id": "ARC-Challenge/validation/AKDE&ED_2008_8_44",
+    "answer": "A",
+    "instruction": "Koju karakteristiku poseduju životinje samo iz jedne od sledećih taksonomskih grupa: gmizavci, sisari, ptice, vodozemci ili ribe?",
+    "option_a": "imaju dlaku",
+    "option_b": "ležu jaja",
+    "option_c": "imaju peraja na šapama",
+    "option_d": "dišu kroz škrge"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415348",
+    "answer": "D",
+    "instruction": "Koje je nasledno svojstvo drveta?",
+    "option_a": "slomljena grana na boru",
+    "option_b": "šupljina na hrastu",
+    "option_c": "ožiljak na javoru",
+    "option_d": "debeli stablo na orahovom drvetu"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7014368",
+    "answer": "C",
+    "instruction": "Дугашашавне струје су океански таласи који ударају у плаже под веома малим угловима. У областима где постоје дугашашне струје, који ефекат имају на земљљане површине?",
+    "option_a": "Граде планине.",
+    "option_b": "Изазивају земљотресе.",
+    "option_c": "Премештају песак, креирајући песковите спитове.",
+    "option_d": "Стварају слатководне реке унутар земље."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7245193",
+    "answer": "C",
+    "instruction": "Na ruralnom području su uklonjene biljke i zemlja do same stene zbog izgradnje puta, ali put nikada nije izgrađen. Područje je počelo da se regeneriše. Koji organizmi su najverovatnije prvi ponovo se pojavili?",
+    "option_a": "drveće",
+    "option_b": "žbunje",
+    "option_c": "lišajevi i mahovine",
+    "option_d": "kukolj i travnate ruže"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7251668",
+    "answer": "D",
+    "instruction": "Populacija dafnija pokazuje vertikalnu migraciju od dna jednometarskog jezera tokom dana do površine jezera tokom noći. Na koji faktor se populacija dafnija najverovatnije odaziva?",
+    "option_a": "pH vode",
+    "option_b": "bistrija voda",
+    "option_c": "pritiskom vode",
+    "option_d": "temperaturom vode"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2013_8_29421",
+    "answer": "A",
+    "instruction": "Kada se znoj osobe ispari, osoba se oseća hladnije. Koja od sledećih tvrdnji najbolje opisuje zašto znojenje pomaže osobi da se oseća hladno?",
+    "option_a": "Toplota se apsorbuje znojem kada ispari.",
+    "option_b": "Toplota se apsorbuje telom kada se znoj ispari.",
+    "option_c": "Temperatura vode u znoju opada kada ispari.",
+    "option_d": "Temperatura vode u telu raste kada se znoj ispari."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7082145",
+    "answer": "D",
+    "instruction": "Kako bi se linijski grafikon trebao koristiti za prikazivanje podataka o udaljenosti i vremenu kretanja objekta?",
+    "option_a": "Na y-osu treba biti naznačeno vrijeme, koje je ovisna varijabla.",
+    "option_b": "Na y-osu treba biti naznačena udaljenost, koja je nezavisna varijabla.",
+    "option_c": "Na x-osi treba biti naznačena udaljenost, koja je ovisna varijabla.",
+    "option_d": "Na x-osi treba biti naznačeno vrijeme, koje je nezavisna varijabla."
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2007_5_39",
+    "answer": "D",
+    "instruction": "Ученици уче о природним ресурсима у Мериленду. Једна група ученика истражује информације о обновљивим природним ресурсима у држави. Друга група истражује информације о непоновљивим природним ресурсима у држави. Ресурси које ученици истражују укључују биљке, животиње, земљиште, минерале, воду, угаљ и нафту. Која од следећих људских активности негативно утиче на природни ресурс?",
+    "option_a": "риболов у језеру",
+    "option_b": "коришћење воде за производњу електричне енергије",
+    "option_c": "засаждивање домаћих врста биљака дуж језерског обода",
+    "option_d": "усмеравање отока са пољопривредног земљишта у језеро"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_22",
+    "answer": "A",
+    "instruction": "Dlaka nekih životinja postaje gušća u zimskom periodu i opada u proljeće. Ova zapažanja pokazuju kako životinje",
+    "option_a": "reaguju na promene u okruženju",
+    "option_b": "se kreću sa jednog mesta na drugo kako bi preživele",
+    "option_c": "skladište masnoće za zimu",
+    "option_d": "konkurišu sa drugim životinjama za hranu"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7006790",
+    "answer": "B",
+    "instruction": "Koji od sledećih najbolje objašnjava uzrok podrhtavanja prozora tokom grmljavine?",
+    "option_a": "električna energija",
+    "option_b": "zvučna energija",
+    "option_c": "svetlosna energija",
+    "option_d": "toplota"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7284043",
+    "answer": "C",
+    "instruction": "Slonovi na afričkim savanama jedu žbunje i male drveće. Ovo ponašanje čisti zemlju i omogućava da trava raste. Griziva poput gazele jedu travu. Lavovi love gazele. Koji dvije vrste u ovoj sceni imaju najkooperativniji odnos?",
+    "option_a": "slonovi i žbunje",
+    "option_b": "žbunje i lavovi",
+    "option_c": "slonovi i gazele",
+    "option_d": "gazele i lavovi"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7175455",
+    "answer": "D",
+    "instruction": "U Australiji se srednjednevne temperature mogu popeti i iznad 110°F (43°C). Kako bi se rashladili, kenguri ližu svoje ruke, prekrivajući ih debelim slojem pljuvačke. Kako pljuvačka isparava, djeluje kao mehanizam hlađenja i smanjuje tjelesnu temperaturu kengura. Koja riječ najbolje opisuje ovu aktivnost?",
+    "option_a": "prirodna selekcija",
+    "option_b": "obrambeni mehanizam",
+    "option_c": "strukturna prilagodba",
+    "option_d": "ponašajne prilagodbe"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_401714",
+    "answer": "B",
+    "instruction": "U laboratorijskom eksperimentu, studenti testiraju identitet nepoznatog praha. Koja metoda je najprikladnija za prenošenje praha na vagu?",
+    "option_a": "otkupite četkom na prenosni papir",
+    "option_b": "uzimajte labaratorijskom spatulom na prenosni papir",
+    "option_c": "uhvatite prstima i podignite na prenosni papir",
+    "option_d": "sipajte iz boce na prenosni papir"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_409529",
+    "answer": "B",
+    "instruction": "Robert je ribar koji želi da pronađe način da uhvati više riba. Odlučio je da proba različite veličine udica. Robert je ulovio 4 soma, 3 pastrmke i 7 babuški koristeći gliste kao mamac. Koji je nezavisna (manipulisana) promenljiva u Robertovom istraživanju?",
+    "option_a": "vrsta mamca",
+    "option_b": "veličina udice",
+    "option_c": "vrsta ulovljene ribe",
+    "option_d": "broj ulovljenih riba"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7223038",
+    "answer": "C",
+    "instruction": "Postoji mnogo veličina i boja zvijezda. Koja od navedenih najbolje opisuje kategoriju u koju bi se Sunce smjestilo?",
+    "option_a": "plavi naddivovski zvijezde",
+    "option_b": "crveni divovski zvijezde",
+    "option_c": "žute glavne serije zvijezde",
+    "option_d": "bijele patuljaste zvijezde"
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2008_5_24",
+    "answer": "C",
+    "instruction": "Mnogi prirodni resursi nalaze se u Merilendu i okolini. Neki od ovih prirodnih resursa su obnovljivi, a neki nisu obnovljivi. Ljudi koriste oba tipa resursa u svakodnevnoj aktivnosti. Korištenje prirodnih resursa često proizvodi otpadne proizvode. Centri za recikliranje su mjesta gdje ljudi odnose materijale koji se mogu ponovo koristiti za izradu novih proizvoda. Kako recikliranje papira pozitivno utiče na životnu sredinu?",
+    "option_a": "smanjuje zagađenje vazduha",
+    "option_b": "povećava eroziju tla",
+    "option_c": "smanjuje broj sječenih stabala",
+    "option_d": "povećava uništavanje staništa"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2010_5_11998",
+    "answer": "A",
+    "instruction": "Buđenka je vrsta cvetne vinove loze koja se penje po drveću i ogradama. Koje od sledećih ponašanja najviše pomaže buđenki da se popne uz ogradu?",
+    "option_a": "stablovitost stabljika kao odgovor na dodir",
+    "option_b": "oticanje stabljika kao odgovor na vodu",
+    "option_c": "otvaranje cvetova kao odgovor na svetlost",
+    "option_d": "rast korena kao odgovor na gravitaciju"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7139493",
+    "answer": "B",
+    "instruction": "Koja mogućnost je najverovatnije odgovorna za sposobnost stjeničnih buba da prežive ponovljenu izloženost insekticidima?",
+    "option_a": "diverzitet vrsta",
+    "option_b": "genetski diverzitet",
+    "option_c": "diverzitet ekosistema",
+    "option_d": "populacioni diverzitet"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_14",
+    "answer": "A",
+    "instruction": "Solarni paneli se koriste za apsorbovanje sunčeve svetlosti. Koja boja panela bi apsorbovala najviše sunčeve svetlosti?",
+    "option_a": "crna",
+    "option_b": "zelena",
+    "option_c": "bela",
+    "option_d": "žuta"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2006_9_35",
+    "answer": "A",
+    "instruction": "Koje od sledećih genetskih stanja proizilazi iz problema sa segregacijom?",
+    "option_a": "Trizomija 16: stanje izazvano kada zigot dobije tri kopije hromozoma 16",
+    "option_b": "Hantingtonova bolest: stanje izazvano kada zigot dobije mutirani dominantni alel",
+    "option_c": "Hemofilija: stanje izazvano kada zigot dobije X hromozom sa određenim recesivnim alelom",
+    "option_d": "Anemija srpastih ćelija: stanje izazvano kada zigot dobije recesivni alel hemoglobina od oba roditelja"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2015_8_7",
+    "answer": "B",
+    "instruction": "Jedan student zagreva dve posude vode na šporetu na najvišoj postavci. Jedna posuda sadrži 1 L vode, a druga posuda sadrži 3 L vode. Student greje svaku posudu dok voda ne proključa. Koji od sledećih izjava najbolje opisuje šta se događa s vodom u posudama?",
+    "option_a": "Voda u obe posude proključa istovremeno.",
+    "option_b": "Voda u obe posude proključa na istoj temperaturi.",
+    "option_c": "3 L vode se zagreva više od 1 L vode pre nego što proključa.",
+    "option_d": "3 L vode apsorbira toplotu brže od 1 L vode."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7115063",
+    "answer": "A",
+    "instruction": "Šta je najverovatnije da će poremetiti močvarni ekosistem?",
+    "option_a": "izgradnja stambenog naselja",
+    "option_b": "sadnja autohtonog divljeg cveća",
+    "option_c": "period velikih padavina",
+    "option_d": "udar groma"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7144795",
+    "answer": "D",
+    "instruction": "Одређено станиште је доживело велики број измена у условима животне средине у последњих 75 година. Која од следећих карактеристика је највероватнија да ће одржати врсту на животу у оваквим условима?",
+    "option_a": "популација са много јединки",
+    "option_b": "велика разноврсност врста у постојећој заједници",
+    "option_c": "прилагођености које омогућавају јединкама да живе у различитим условима",
+    "option_d": "понашања која стимулишу развој прилагођености у новим животним срединама"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_400934",
+    "answer": "C",
+    "instruction": "Prema periodnom sistemu elemenata, koji skup elemenata ima slična svojstva?",
+    "option_a": "H, C, I",
+    "option_b": "He, H, Al",
+    "option_c": "He, Ne, Ar",
+    "option_d": "Na, Ca, Al"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7004410",
+    "answer": "B",
+    "instruction": "Jedno ograničenje lanaca ishrane prikaza ekosistema je to što ne",
+    "option_a": "uključuju proizvođače ekosistema.",
+    "option_b": "uključuju sve vrste u ekosistemu.",
+    "option_c": "prikazuju potrošače u ekosistemu.",
+    "option_d": "prikazuju odnos grabežljivac-plijen u ekosistemu."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7029505",
+    "answer": "C",
+    "instruction": "Kako se krvne grupe razlikuju u ABO klasifikaciji krvnih grupa?",
+    "option_a": "različite veličine crvenih krvnih zrnaca",
+    "option_b": "različite veličine belih krvnih zrnaca",
+    "option_c": "različiti marker proteini na crvenim krvnim zrncima",
+    "option_d": "različiti marker proteini na belim krvnim zrncima"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_LBS10598",
+    "answer": "A",
+    "instruction": "Kocka leda se topi, a zatim isparava. Kocka leda i vodena para imaju istu",
+    "option_a": "masu.",
+    "option_b": "gustinu.",
+    "option_c": "zapreminu.",
+    "option_d": "temperaturu."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7245893",
+    "answer": "B",
+    "instruction": "Koji deo digestivnog sistema prvi izaziva hemijske promene u hrani?",
+    "option_a": "zubi u ustima",
+    "option_b": "pljuvačka u ustima",
+    "option_c": "enzimi u stomaku",
+    "option_d": "enzimi u tankom crevu"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7246925",
+    "answer": "D",
+    "instruction": "Leucine je jedna od aminokiselina koje su potrebne vašem tijelu, ali koje ono ne može sam stvoriti. Koji od ovih procesa se događa tako da ljudsko tijelo može dobiti leucin?",
+    "option_a": "Tijelo pretvara druge aminokiseline u leucin.",
+    "option_b": "Tijelo skladišti ugljikohidrate koji sadrže leucin.",
+    "option_c": "Tijelo razgrađuje masne kiseline da bi dobilo leucin.",
+    "option_d": "Tijelo probavlja proteine u hrani da bi dobilo leucin."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7138688",
+    "answer": "D",
+    "instruction": "Koji postupak najbolje pomaže u određivanju da li je istraga naučno valjana?",
+    "option_a": "vodeći beleške o stanju opreme koja se koristi u postupku",
+    "option_b": "sprovođenje istrage sa grupom ljudi",
+    "option_c": "temeljito jednom sprovođenje postupka",
+    "option_d": "ponavljanje istrage nekoliko puta"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_408700",
+    "answer": "C",
+    "instruction": "Ema je napravila šolju čaja i promešala ga kašikom. Kašika je postala topla. Kako se toplota sa čaja prenela na kašiku?",
+    "option_a": "konvekcija",
+    "option_b": "zračenje",
+    "option_c": "provodljivost",
+    "option_d": "isparavanje"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7100608",
+    "answer": "B",
+    "instruction": "Porodica Majkla gradi novu kuću. Žele da koriste električnu energiju koja se generiše iz obnovljivih izvora. Koje od ovih izvora energije bi pomoglo porodici da ostvari svoj cilj?",
+    "option_a": "benzinski motor",
+    "option_b": "solarni krovni paneli",
+    "option_c": "elektrana na ugalj",
+    "option_d": "nuklearna elektrana"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7133648",
+    "answer": "C",
+    "instruction": "Koji zadatak u kuhinji je primer fizičke promene?",
+    "option_a": "prženje jaja",
+    "option_b": "pečenje torte",
+    "option_c": "topljenje putera",
+    "option_d": "pečenje tosta"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_401244",
+    "answer": "D",
+    "instruction": "Koji tip stene je najkorisniji za proučavanje istorije živih organizama?",
+    "option_a": "bazalt",
+    "option_b": "mermer",
+    "option_c": "granit",
+    "option_d": "krečnjak"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_400397",
+    "answer": "C",
+    "instruction": "Koje od ovih ponašanja je medvjed najvjerojatnije naučio živeći u svom okruženju?",
+    "option_a": "pijanje vode",
+    "option_b": "jedenje riba",
+    "option_c": "otvaranje poklopaca kante za smeće",
+    "option_d": "zaštita svojih mladunaca"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7245088",
+    "answer": "D",
+    "instruction": "Koje odgovara opisu sastava ugljenih hidrata?",
+    "option_a": "lipidi koji se udružuju da bi formirali fosfolipide",
+    "option_b": "monomeri koji se udružuju da bi formirali polimere",
+    "option_c": "aminokiseline koje se udružuju da bi formirale polipeptide",
+    "option_d": "šećeri koji se udružuju da bi formirali polisaharide"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_408809",
+    "answer": "C",
+    "instruction": "U miševa, određena vrsta prikazuje nepotpunu dominaciju u boji krzna. Potomstvo crnog (BB) miša i belog (bb) miša su sivi (Bb) miševi. Ukrštanje između dva siva miša najverovatnije će proizvesti potomke sa kojim procentom boje krzna?",
+    "option_a": "25% crne, 75% sive",
+    "option_b": "25% sive, 75% bele",
+    "option_c": "25% bele, 25% crne, 50% sive",
+    "option_d": "25% sive, 25% crne, 50% bele"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7068863",
+    "answer": "C",
+    "instruction": "Učenik je istraživao uticaj gvožđa na rast biljaka. Četiri identične biljke primile su različite količine gvožđa prilikom zalivanja. Ovo istraživanje bi bilo unapređeno kada bi postojale",
+    "option_a": "gliste u zemljištu.",
+    "option_b": "manje biljaka u eksperimentu.",
+    "option_c": "biljke koje su primile vodu bez dodatka gvožđa.",
+    "option_d": "biljke koje su primile različite količine sunčeve svetlosti."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7166880",
+    "answer": "D",
+    "instruction": "Klej pažljivo prati vremensku prognozu kako bi se pripremio za put na plažu sutra. Prognoza predviđa da će preko noći doći nisko-pritisni sistem. Koji tip vremena je najverovatnije da će Klej dočekati sutra ujutru?",
+    "option_a": "maglovito",
+    "option_b": "sunčano",
+    "option_c": "vedro i hladnije",
+    "option_d": "oblačno i kišovito"
+  },
+  {
+    "id": "ARC-Challenge/validation/ACTAAP_2007_7_25",
+    "answer": "A",
+    "instruction": "Koje nije pravilo sigurnosti za naučni laboratorijum?",
+    "option_a": "Precizno izmerite tečnosti u baki.",
+    "option_b": "Nikada ne sečite objekte držeći ih u rukama.",
+    "option_c": "Nosite zaštitne naočare prilikom manipulisanja opasnim supstancama.",
+    "option_d": "Kada udišete mirise, raznesite gasove prema nosu umesto da stavljate lice iznad izvora."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7018445",
+    "answer": "D",
+    "instruction": "Kroz koji materijal bi zvuk najbrže putovao?",
+    "option_a": "pluta",
+    "option_b": "voda",
+    "option_c": "vazduh",
+    "option_d": "čelik"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7033653",
+    "answer": "C",
+    "instruction": "Koja je najbolja jedinica za merenje udaljenosti između Zemlje i drugih solarnih sistema u svemiru?",
+    "option_a": "milje",
+    "option_b": "kilometri",
+    "option_c": "svetlosne godine",
+    "option_d": "astronomske jedinice"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2006_5_29",
+    "answer": "D",
+    "instruction": "Četiri šipke jednake debljine, ali napravljene od različitih metala, testirane su s istom težinom kako bi se vidjelo koja je najfleksibilnija. Koje od sljedećeg je najbolji način za izvještavanje o rezultatima ovog eksperimenta?",
+    "option_a": "popis svake vrste korištene šipke",
+    "option_b": "skica svake šipke prije testiranja",
+    "option_c": "tablica koja prikazuje koliko svaka šipka teži",
+    "option_d": "stupčasti grafikon koji prikazuje koliko svaka šipka savija"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7159268",
+    "answer": "A",
+    "instruction": "Nakon poslednjeg ledenog doba, otapanje polarnih i planinskih ledenih kapa uzrokovalo je porast nivoa vode u okeanima.  Koja promena je najverovatnije nastala usled ovog porasta?",
+    "option_a": "povećanje sadržaja soli u postojećim obalnim močvarama",
+    "option_b": "povećanje broja organizama u postojećim grebenima",
+    "option_c": "smanjenje broja plima i oseka svakog dana",
+    "option_d": "smanjenje dubine okeanskog dna"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_400885",
+    "answer": "D",
+    "instruction": "Koja jednačina je uravnotežena hemijska jednačina?",
+    "option_a": "2NaOH + CaBr_{2} -> Ca(OH)_{2} + NaBr",
+    "option_b": "NO + Cl_{2} -> NOCl",
+    "option_c": "CaCO_{3} -> CaO + 2CO_{2}",
+    "option_d": "2AlCl_{3} + 3Mg -> 3MgCl_{2} + 2Al"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7038273",
+    "answer": "A",
+    "instruction": "Dok obavlja eksperiment, student sakuplja nekoliko različitih temperatura vode, dve merenja mase i tri merenja zapremine. Koji od ovih načina bi bio najbolji za organizovanje podataka?",
+    "option_a": "u tabeli",
+    "option_b": "na grafikonu",
+    "option_c": "kroz pisani opis",
+    "option_d": "ilustrovano slikama"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_407574",
+    "answer": "A",
+    "instruction": "Koji gas proizvođači oslobađaju, a potrošači ga udišu kako bi preživjeli?",
+    "option_a": "kiseonik",
+    "option_b": "azot",
+    "option_c": "vodena para",
+    "option_d": "ugljen-dioksid"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_1998_4_8",
+    "answer": "B",
+    "instruction": "Gde bi mogao biti NAJOPASNIJI raditi sa električnim alatima?",
+    "option_a": "u garaži",
+    "option_b": "pored bazena",
+    "option_c": "blizu televizora ili računara",
+    "option_d": "u hladnom podrumu"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7128695",
+    "answer": "C",
+    "instruction": "Naučnik otkriva nešto novo tokom istraživanja, ali ne vodi jasnu evidenciju o urađenim testovima. Kako nedostatak evidencije može uticati na rad naučnika?",
+    "option_a": "Poništava procedure i zaključke.",
+    "option_b": "Čini podatke dobijene u studiji neispravnim.",
+    "option_c": "Sprječava druge naučnike da potvrde rezultate.",
+    "option_d": "Ograničava druge naučnike da razvijaju nove hipoteze."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400178",
+    "answer": "C",
+    "instruction": "Koja smesa se može razdvojiti na svoje sastojke?",
+    "option_a": "krompir čips",
+    "option_b": "čokoladna torta",
+    "option_c": "voćna salata",
+    "option_d": "jaja na oko"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7189823",
+    "answer": "A",
+    "instruction": "Vulkan eruptira i prekriva okolinu lavom i vulkanskim pepelom. Kada ekosistem počne da se oporavlja, koji bi tip biljke najverovatnije prvi kolonizovao zemljište u području oko erupcije?",
+    "option_a": "mahovine",
+    "option_b": "divlje cvijeće",
+    "option_c": "tvrdolisne drveće",
+    "option_d": "zimzeleni grmovi"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_412683",
+    "answer": "D",
+    "instruction": "Koja je brzina talasa od 2 Hz koji ima talasnu dužinu od 10 m?",
+    "option_a": "5 m/s",
+    "option_b": "8 m/s",
+    "option_c": "12 m/s",
+    "option_d": "20 m/s"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_184258",
+    "answer": "A",
+    "instruction": "Koja od narednih karakteristika tokova najdirektnije utiče na taloženje u toku?",
+    "option_a": "klinasto nagib",
+    "option_b": "nadmorska visina",
+    "option_c": "bazni nivo",
+    "option_d": "kvalitet vode"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_192168",
+    "answer": "D",
+    "instruction": "Научни модели су врло често кориштени. За коју од наведених циљева, физички модел би најмање помогао?",
+    "option_a": "симулација научних феномена",
+    "option_b": "поједностављење комплексне идеје",
+    "option_c": "омогућавају визуелизацију",
+    "option_d": "приказивање података"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_LBS10399",
+    "answer": "D",
+    "instruction": "Mikroskop uvećava objekat sa 50x uvećanjem. Koliko je dug objekat ako slika izgleda kao da je duga 0.5 cm?",
+    "option_a": "100 cm",
+    "option_b": "25 cm",
+    "option_c": "2.5 cm",
+    "option_d": "0.01 cm"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7228603",
+    "answer": "C",
+    "instruction": "Koja od sljedećih tvrdnji predstavlja rezultat razmjene homolognih dijelova hromozoma tokom procesa mejoze?",
+    "option_a": "slučajne mutacije",
+    "option_b": "smanjen broj gameta",
+    "option_c": "potomci sa jedinstvenim kombinacijama osobina",
+    "option_d": "smanjen broj alela na svakom hromozomu"
+  },
+  {
+    "id": "ARC-Challenge/validation/MEA_2013_5_3",
+    "answer": "D",
+    "instruction": "Sunce se klasifikuje kao zvezda. Koja karakteristika identifikuje Sunce kao zvezdu?",
+    "option_a": "Sunce se okreće oko svoje ose.",
+    "option_b": "Sunce se nalazi izvan Mlečnog puta.",
+    "option_c": "Sunce je deo sazvežđa Veliki medved.",
+    "option_d": "Sunce stvara svetlost i energiju u nuklearnoj reakciji."
+  },
+  {
+    "id": "ARC-Challenge/validation/NCEOGA_2013_8_38",
+    "answer": "C",
+    "instruction": "Zimi, dlaka arktičkog lisca je bijela. U ljeto, dlaka tamni u crvenkastosmeđu. Šta najvjerovatnije uzrokuje promjenu boje lisčeve dlake?",
+    "option_a": "količina prisutne sunlight",
+    "option_b": "životni prostor lisice",
+    "option_c": "lisicine gene",
+    "option_d": "starost lisice"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7221095",
+    "answer": "A",
+    "instruction": "Koji od ovih elemenata u ekosistemu je abiotički?",
+    "option_a": "prosečna godišnja količina padavina u ekosistemu",
+    "option_b": "vrste proizvođača prisutnih u ekosistemu",
+    "option_c": "veličina populacije predatora u ekosistemu",
+    "option_d": "mikroorganizmi koji žive u zemljištu ekosistema"
+  },
+  {
+    "id": "ARC-Challenge/validation/MEAP_2005_5_1",
+    "answer": "C",
+    "instruction": "Vodena para postoji u atmosferi kao ___.",
+    "option_a": "vidljiv gas",
+    "option_b": "vidljiva tečnost",
+    "option_c": "nevidljiv gas",
+    "option_d": "nevidljiva tečnost"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_406939",
+    "answer": "C",
+    "instruction": "Koji je način da se papir podvrgne hemijskoj promeni?",
+    "option_a": "presaviti papir na pola",
+    "option_b": "potopiti papir u vodu",
+    "option_c": "zapaliti papir vatrom",
+    "option_d": "iseći papir makazama"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7219415",
+    "answer": "C",
+    "instruction": "Koji primer je funkcija selektivno propusne membrane ćelije?",
+    "option_a": "podržavanje oblika ćelije",
+    "option_b": "proizvodnja proteina za ćeliju",
+    "option_c": "ograničavanje hemikalija koje difunduju iz ćelije",
+    "option_d": "skladištenje otpadnih produkata za ćeliju"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_1999_8_22",
+    "answer": "B",
+    "instruction": "Koja vrsta mosta koristi kablove za podršku?",
+    "option_a": "trusni most",
+    "option_b": "viseći most",
+    "option_c": "grebenasti most",
+    "option_d": "konzolni most"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2006_9_33",
+    "answer": "D",
+    "instruction": "Gepardi su došli blizu izumiranja zbog lova, suše i bolesti. Sada postoji vrlo malo genetičke varijacije u populacijama geparda. Šta je rezultat ograničene genetičke varijacije u trenutnim populacijama geparda u odnosu na prethodne populacije sa većom varijacijom?",
+    "option_a": "Gepardi u trenutnim populacijama su otporniji na nove bolesti.",
+    "option_b": "Stopa preživljavanja mladih geparda je povećana u trenutnim populacijama.",
+    "option_c": "Gepardi u trenutnim populacijama nisu u stanju da se razmnožavaju sa drugim vrstama.",
+    "option_d": "Trenutne populacije geparda su manje sposobne da se prilagode promenama u okolini."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7135310",
+    "answer": "C",
+    "instruction": "Zašto je izlazna energija mašine uvek manja od ulazne energije?",
+    "option_a": "Deo energije se uništava dok mašina radi.",
+    "option_b": "Mašina mora da prevlada stalnu silu magnetizma.",
+    "option_c": "Korisna energija se smanjuje kako se energija prenosi u okolinu.",
+    "option_d": "Deo energije se oslobađa kao toplota prilikom konverzije."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_414131",
+    "answer": "C",
+    "instruction": "Koje svojstvo podrazumijeva svaki element?",
+    "option_a": "Svi elementi su metali.",
+    "option_b": "Svi elementi imaju šest elektrona.",
+    "option_c": "Svi elementi su čiste supstance.",
+    "option_d": "Svi elementi postoje u čvrstom agregatnom stanju."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7112753",
+    "answer": "B",
+    "instruction": "Da bi pronašli populaciju buba, naučnici moraju koristiti visoko specijalizovanu opremu. Koji faktor bi najverovatnije ograničio sposobnost pronalaženja buba?",
+    "option_a": "klima",
+    "option_b": "trošak",
+    "option_c": "uzorak veličine",
+    "option_d": "politika"
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2009_5_16",
+    "answer": "D",
+    "instruction": "Učenici su posjetili teleskop Morris W. Offit koji se nalazi u Opservatoriji za svemirsku nauku u Marylandu. Naučili su o zvijezdama, planetama i mjesecu. Učenici su zapisali informacije u nastavku. • Oblici zvijezda ostaju isti, ali njihova mjesta na nebu se čine promjenjivim. • Sunce, planete i mjesec čine se da se kreću na nebu. • Najbliža zvijezda našem Sunčevom sistemu je Proxima Centauri. • Polaris je zvijezda koja je dio uzorka zvijezda nazvanog Mali Medvjed. Koja izjava najbolje objašnjava zašto Sunce svakog dana izgleda da se kreće po nebu?",
+    "option_a": "Sunce se vrti oko Zemlje.",
+    "option_b": "Zemlja se okreće oko Sunca.",
+    "option_c": "Sunce se okreće oko svoje ose.",
+    "option_d": "Zemlja se okreće oko svoje ose."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7236023",
+    "answer": "B",
+    "instruction": "Masu vazduha nalazimo na visini od 1000 metara u centru niskog pritiska ciklona na severnoj hemisferi. Koja od sledećih opcija najbolje opisuje kretanje čestica vazduha u ovoj masi vazduha usled uslova ciklona i rotacije Zemlje dok masa vazduha ide ka spoljašnosti?",
+    "option_a": "Čestice vazduha se kreću nagore i levo.",
+    "option_b": "Čestice vazduha se kreću nagore i desno.",
+    "option_c": "Čestice vazduha se kreću nadole i levo.",
+    "option_d": "Čestice vazduha se kreću nadole i desno."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7270008",
+    "answer": "C",
+    "instruction": "Izvlačenje uglja iz površinskih rudnika podrazumeva uklanjanje sve vegetacije i stena iznad uglja koji se vadi. Koji su dva podsistema Zemlje koji najdirektnije pate zbog ovog procesa?",
+    "option_a": "litosfera i atmosfera",
+    "option_b": "biosfera i hidrosfera",
+    "option_c": "litosfera i biosfera",
+    "option_d": "atmosfera i hidrosfera"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7099768",
+    "answer": "D",
+    "instruction": "Kada se bowling kugla oslobodi iz ruke bacača, energija u kugli je delimično",
+    "option_a": "spremljena u kugli sve dok ne udari u čunjeve.",
+    "option_b": "povećana zbog primenjene trenja na kuglu.",
+    "option_c": "pretvorena iz kinetičke energije u gravitacionu potencijalnu energiju.",
+    "option_d": "pretvorena u toplotu i zvuk kada dođe u kontakt sa podom."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7269238",
+    "answer": "D",
+    "instruction": "Dizel motori mogu sagorevati mnoge vrste goriva. Koje gorivo bi bilo najobnovljivije gorivo za dizel motor?",
+    "option_a": "konvencionalno dizel gorivo",
+    "option_b": "destilovani kerozin",
+    "option_c": "konvencionalno proizvedeno biljno ulje",
+    "option_d": "organski proizvedeno biljno ulje"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7187915",
+    "answer": "A",
+    "instruction": "Amanda i Jake su naučili o kinetičkoj i potencijalnoj energiji u jednostavnom električnom kolu. Kolo koje proučavaju ima bateriju, žice i sijalicu. Koja je forma potencijalne energije u kolu?",
+    "option_a": "hemijska energija u bateriji",
+    "option_b": "svetlosna energija od sijalice",
+    "option_c": "toplota izgubljena iz električnih žica",
+    "option_d": "električna energija koja se kreće kroz sijalicu"
+  },
+  {
+    "id": "ARC-Challenge/validation/OHAT_2011_8_3",
+    "answer": "D",
+    "instruction": "Koja radnja predstavlja hemijsku promjenu?",
+    "option_a": "Dugačka kosa se reže i suši.",
+    "option_b": "Drvena olovka se naoštri i slomi.",
+    "option_c": "Kocka leda se topi i postaje bistra tečnost.",
+    "option_d": "Gvozdeni ekser postaje narandžast i oštećen na površini."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7159775",
+    "answer": "A",
+    "instruction": "Janette sprovodi istraživanje kako bi utvrdila koje hrane je učinju umornom. Jede jednu od četiri različite vrste hrane svakog dana u isto vrijeme tokom četiri dana, a zatim bilježi kako se osjeća. Traži od svoje prijateljice Carmen da uradi isto istraživanje kako bi vidjela da li dobija slične rezultate. Šta bi najviše otežalo repliciranje istraživanja?",
+    "option_a": "mjerenje količine umora",
+    "option_b": "osiguravanje iste hrane koju jedu",
+    "option_c": "bilježenje posmatranja u istoj tabeli",
+    "option_d": "osiguravanje da je hrana na istoj temperaturi"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_402239",
+    "answer": "C",
+    "instruction": "Koji je najbolji način da se čuvaju prirodni resursi kod kuće?",
+    "option_a": "Bacajte sav stakleni otpad u smeće.",
+    "option_b": "Koristite papirne ubruse za čišćenje prosutih tečnosti.",
+    "option_c": "Skraćujte vrijeme provedeno pod tušem.",
+    "option_d": "Zalijevajte travnjak svaki dan."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_184013",
+    "answer": "C",
+    "instruction": "Koja od sledećih opcija bi bila najmanje destruktivna za zemlju?",
+    "option_a": "zemljotres magnitude 7,2",
+    "option_b": "tropska oluja",
+    "option_c": "električna oluja",
+    "option_d": "vulkanska erupcija"
+  },
+  {
+    "id": "ARC-Challenge/validation/NCEOGA_2013_8_4",
+    "answer": "D",
+    "instruction": "Koji odgovor najbolje objašnjava zašto ukupna masa proizvoda bi bila manja od ukupne mase reaktanata nakon hemijske reakcije?",
+    "option_a": "Došlo je do fizičke promene.",
+    "option_b": "Atomima uključenim u reakciju nedostaje masa.",
+    "option_c": "Stvorili su se taloži u novoj otopini.",
+    "option_d": "Gasi su se oslobodili u atmosferu."
+  },
+  {
+    "id": "ARC-Challenge/validation/ACTAAP_2013_7_17",
+    "answer": "D",
+    "instruction": "Grupa želi da utvrdi da li se broj vodenih ptica koje preleću Arkansas menja svake godine. Koji metod treba da koriste kako bi prikupili tu informaciju?",
+    "option_a": "Uhvatiti što više ptica tokom jedne godine. Prikupiti podatke o lokaciji svake ptice.",
+    "option_b": "Prvog dana proleća iduće godine, prebrojati ptice na najvećem jezeru u državi. Uporediti podatke sa prošlom godinom.",
+    "option_c": "Postaviti posmatrača na lokaciju na državnoj granici. Zamoliti tu osobu da prebroja ptice kako dolaze u državu. Ovo raditi tokom dve godine.",
+    "option_d": "Odabrati jedan dan u godini tokom migracije. Brojati ptice na deset različitih jezera širom države. Raditi ovo istog dana svake godine tokom deset godina."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7183015",
+    "answer": "A",
+    "instruction": "Nedavni članak u naučnom časopisu objašnjava vezu između konvektivnih struja i tektonskih ploča. Kako teče tečnost u unutrašnjosti mantla, uzrokuje kretanje koračnih ploča. Šta najverovatnije uzrokuje cirkulaciju tečnosti unutar Zemlje?",
+    "option_a": "prenos energije",
+    "option_b": "globalno zagrevanje",
+    "option_c": "morske varijacije",
+    "option_d": "oceanske struje"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2014_8_17",
+    "answer": "D",
+    "instruction": "Koja od navedenih je primjer aseksualne reprodukcije?",
+    "option_a": "Kornjače polažu oplođena jaja u rupu u pijesku.",
+    "option_b": "Sjemenke se formiraju u češerima nakon što pelud doseže češere.",
+    "option_c": "Ribe otpuštaju jajne stanice i spermatozoide na površinu vode.",
+    "option_d": "Stabla šalju korijenske izdanke koji stvaraju nove stabljike."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_401286",
+    "answer": "B",
+    "instruction": "Mnoge ugrožene životinje se hvataju, obeležavaju, a potom se puštaju nazad u njihovo okruženje. Oznaka može biti komad kodiranog plastike ili metala koji se postavlja na sigurno mesto na telu. Koja je najverovatniji razlog za obeležavanje životinja?",
+    "option_a": "da bi se pratila njihova ishrana",
+    "option_b": "da bi se pratila njihova kretanja",
+    "option_c": "da bi se pratilo njihovo spavanje",
+    "option_d": "da bi se pratila njihova reprodukcija"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7207358",
+    "answer": "C",
+    "instruction": "Najbolji opis moderne teorije atoma je rezultat koje od ovih aktivnosti?",
+    "option_a": "eksperimenata Džona Daltona ranog 19. veka",
+    "option_b": "razgovora između dva važna naučnika",
+    "option_c": "istraživanja mnogih naučnika tokom mnogo godina",
+    "option_d": "ideje o atomima Demokrita pre više od 2000 godina"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7015435",
+    "answer": "A",
+    "instruction": "Koji su proizvodi reakcije između jake kiseline i jake baze?",
+    "option_a": "sol i voda",
+    "option_b": "dva različita elementa",
+    "option_c": "slaba kiselina i slaba baza",
+    "option_d": "ionski oblik vodoničnih i hidroksidnih jona"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7044678",
+    "answer": "A",
+    "instruction": "Koja tvrdnja najbolje objašnjava šta se događa sa listom kada izgubi potrebnu vodu?",
+    "option_a": "Njegov turgorski pritisak se smanjuje.",
+    "option_b": "Njegov atmosferski pritisak se smanjuje.",
+    "option_c": "Njegova stopa transpiracije se povećava.",
+    "option_d": "Njegova stopa fotosinteze se povećava."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_400905",
+    "answer": "D",
+    "instruction": "Sunce je udaljeno od Zemlje približno 1.5 x 10^8 km. Brzina svetlosti je 3.0 x 10^8 m/sec. Kolika je udaljenost od Sunca do Zemlje u svetlosnim sekundama?",
+    "option_a": "2.0 svetlosne sekunde",
+    "option_b": "0.5 svetlosnih sekundi",
+    "option_c": "2.0 x 10^-3 svetlosne sekunde",
+    "option_d": "5.0 x 10^2 svetlosne sekunde"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_LBS10040",
+    "answer": "D",
+    "instruction": "Šta fotosinteza proizvodi što pomaže biljkama da rastu?",
+    "option_a": "voda",
+    "option_b": "kiseonik",
+    "option_c": "protein",
+    "option_d": "šećer"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_8_41",
+    "answer": "D",
+    "instruction": "U saobraćajnoj nesreći, sigurnosni pojas pomaže u sprečavanju povreda primenom sile",
+    "option_a": "manje od sile kretanja putnika",
+    "option_b": "veće od sile kretanja automobila",
+    "option_c": "u istom smeru kao kretanje automobila",
+    "option_d": "u suprotnom smeru od kretanja putnika"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7141908",
+    "answer": "C",
+    "instruction": "Naučnici su otkrili novu vrstu kompleksnog organizma na dnu okeana. Organizam najverovatnije",
+    "option_a": "je jednoćelijski.",
+    "option_b": "je vrsta bakterija.",
+    "option_c": "sastoji se od više ćelija.",
+    "option_d": "nema organizovanu jezgru."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_406029",
+    "answer": "D",
+    "instruction": "Za naučnu aktivnost, Mia je morala svake noći crtati sliku Mjeseca. Ako je Mia nacrtala mladi Mjesec, koju vrstu Mjeseca će Mia nacrtati oko sedam dana kasnije?",
+    "option_a": "prepun",
+    "option_b": "pun Mjesec",
+    "option_c": "mlad Mjesec",
+    "option_d": "prva četvrt"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7105123",
+    "answer": "C",
+    "instruction": "Fosilni zapisi ukazuju da se promene vrsta uopšteno",
+    "option_a": "zaustavljaju kada se vrsta formira.",
+    "option_b": "ubrzavaju sa stabilnim uslovima.",
+    "option_c": "dešavaju u toku mnogo generacija.",
+    "option_d": "su nezavisne od okruženja."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400339",
+    "answer": "C",
+    "instruction": "Koja tvrdnja nije razlog zbog kog stabla u šumi rastu na različitim visinama?",
+    "option_a": "Neka stabla zahtevaju manje sunčeve svetlosti od drugih.",
+    "option_b": "Stabla su zasađena u različitim godinama.",
+    "option_c": "Ptice grade gnezda u kraćim stablima.",
+    "option_d": "Viša stabla imaju listove samo na gornjim granama."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415366",
+    "answer": "B",
+    "instruction": "Stabla trebaju kiseonik. Kroz korene blizu površine zemlje dolazi kiseonik koji stablu treba. Koji organizmi pomažu stablima da dobiju kiseonik?",
+    "option_a": "Dekorativci koji prave rupe u stablu",
+    "option_b": "Crvi koji prave rupe u zemlji blizu stabla",
+    "option_c": "Pečurke koje rastu uz bazu stabla",
+    "option_d": "Veverice koje jedu orase na zemlji blizu stabla"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7168123",
+    "answer": "B",
+    "instruction": "Anita je trčala oko staze u svojoj školi. Na kraju svog trčanja, više je vazduha udisala u pluća i njen ritam srca se povećao. Koje sistemi regulišu disajni i srčani ritam u Aniti?",
+    "option_a": "mišićni i koštani",
+    "option_b": "nervni i endokrini",
+    "option_c": "probavni i izlučni",
+    "option_d": "respiratorni i cirkulatorni"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7141400",
+    "answer": "A",
+    "instruction": "Poljoprivrednik nekoliko godina zaredom sije kukuruz na polju. Svake godine primjećuje da mu prinos kukuruza po jutru opada, iako su uvjeti vremena bili vrlo slični. Čiji promjena abiotičkog faktora najvjerojatnije uzrokuje smanjenje proizvodnje kukuruza?",
+    "option_a": "smanjenje sadržaja hranjivih tvari u tlu",
+    "option_b": "povećanje oborina",
+    "option_c": "povećanje brzine vjetra",
+    "option_d": "smanjenje količine sunčeve svjetlosti"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2012_8_23636",
+    "answer": "D",
+    "instruction": "Koji od sledećih procesa obično traje najduže vreme?",
+    "option_a": "Vrela lava se hladi i formira novu stenu.",
+    "option_b": "Vodena para kondenzuje se formirajući oblak.",
+    "option_c": "Seizmički talas prolazi kroz mantu.",
+    "option_d": "Okeanska kotlina se formira između dva kontinenta."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_406705",
+    "answer": "B",
+    "instruction": "Anaina klasa je za zadatke izbrojala broj leptira u školskom vrtu. Anine rezultati su se razlikovali od ostatka klase. Šta bi trebalo da uradi?",
+    "option_a": "Promeniti zadatak.",
+    "option_b": "Ostaviti rezultate kakvi jesu.",
+    "option_c": "Uspostaviti slučaj sa razlikujućim rezultatima.",
+    "option_d": "Zamoliti nastavnika da broji umesto nje."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7186148",
+    "answer": "B",
+    "instruction": "Student meša šolju vrućeg kakaa kašikom. Kako se prenosi toplota između vrelog kakaa i dela kašike koji se nalazi u vrelom kakau?",
+    "option_a": "Kondukacija prenosi energiju iz kašike u vrući kakao.",
+    "option_b": "Kondukacija prenosi energiju iz vrućeg kakaa u kašiku.",
+    "option_c": "Konvekcija prenosi energiju iz kašike u vrući kakao.",
+    "option_d": "Konvekcija prenosi energiju iz vrućeg kakaa u kašiku."
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_28",
+    "answer": "B",
+    "instruction": "Velike ptice su pojele male životinje u području. Ako bi sve velike ptice umrle od bolesti, broj malih životinja na području bi verovatno",
+    "option_a": "smanjio se",
+    "option_b": "povećao se",
+    "option_c": "ostao isti"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7005478",
+    "answer": "B",
+    "instruction": "Telesna temperatura ljudskog tela je relativno konstantna. Koji mehanizam povratne sprege pomaže ljudskom telu da održava normalnu temperaturu u hladnom okruženju?",
+    "option_a": "Voda se luči sa kože.",
+    "option_b": "Mišići se trese u malim pokretima.",
+    "option_c": "Brzina otkucaja srca usporava.",
+    "option_d": "Pluća uzimaju dodatni vazduh."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2009_8_5",
+    "answer": "D",
+    "instruction": "Koji od sledećih metoda bi bio najefikasniji u smanjenju gužve u saobraćaju vazdušnih letelica na prometnom aerodromu?",
+    "option_a": "davanje povratnih informacija o performansama pilotima",
+    "option_b": "davanje informacija o letovima putnicima",
+    "option_c": "povećanje broja letelica na aerodromu",
+    "option_d": "povećanje broja pista na aerodromu"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7037573",
+    "answer": "D",
+    "instruction": "Koja je najbolja praksa koju treba slediti prilikom završavanja eksperimenta?",
+    "option_a": "oprezno rukovanje sa toplim staklenim posudama",
+    "option_b": "gašenje gorionika kada ih ne koristite",
+    "option_c": "proučavanje laboratorijskih postupaka pre sprovođenja eksperimenta",
+    "option_d": "proveravanje sa nastavnikom postupka za odlaganje hemikalija"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2012_5_8",
+    "answer": "B",
+    "instruction": "Kameron kupuje novi radni sto. Želi da bude siguran da će sto stati u ugao sobe. Kada Kameron bude kupovao novi sto, šta će mu najviše pomoći da bude siguran da će sto stati?",
+    "option_a": "slika koja pokazuje tepih u sobi",
+    "option_b": "dijagram koji prikazuje mere sobe",
+    "option_c": "crtež koji prikazuje kako se sastavlja sto",
+    "option_d": "lista alata koji su mu potrebni da sastavi sto"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7092295",
+    "answer": "C",
+    "instruction": "Koje djelovanje stvara konkurenciju između ekoloških problema i ekonomskih dobitaka?",
+    "option_a": "zaštita ugroženih životinja",
+    "option_b": "ponovno uvođenje životinja u njihova prirodna staništa",
+    "option_c": "korištenje šumskog zemljišta za gradnju kuća",
+    "option_d": "korištenje gradskih autobusa za prijevoz"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7131828",
+    "answer": "C",
+    "instruction": "U mnogim tropskim područjima, komarci mogu prenositi parazita koji mogu uzrokovati zaraznu bolest među ljudima. Šta najbolje opisuje ovu vrstu odnosa između komaraca i ljudi?",
+    "option_a": "grabežljivac-plijen",
+    "option_b": "konkurencija za resurse",
+    "option_c": "biotički faktori koji međusobno djeluju",
+    "option_d": "prijenos energije između proizvođača i potrošača"
+  },
+  {
+    "id": "ARC-Challenge/validation/TIMSS_2003_8_pg31",
+    "answer": "B",
+    "instruction": "Lepeza može učiniti da vatra od drveta gori jače zato što lepeza",
+    "option_a": "zagreva hranu dovoljno da izgori",
+    "option_b": "dodaje više kiseonika potrebnog za izgaranje",
+    "option_c": "povećava količinu drveta koje ima da izgori",
+    "option_d": "pruža energiju potrebnu da se održi vatra"
+  },
+  {
+    "id": "ARC-Challenge/validation/ACTAAP_2007_7_5",
+    "answer": "B",
+    "instruction": "Sprovodi se eksperiment sa zatvorenim kontejnerom. Kontejner započinje sa temperaturom od 70 stepeni F i pritiskom vazduha od 20 psi. Kontejner se zagreva, a pritisak unutar kontejnera raste ravnomerno sa povećanjem temperature. Ako se kontejner ohladi nazad na 70 stepeni F, koji će biti pritisak vazduha?",
+    "option_a": "10 psi",
+    "option_b": "20 psi",
+    "option_c": "30 psi",
+    "option_d": "40 psi"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7120908",
+    "answer": "D",
+    "instruction": "Glider je motorni avion. Osim veličine, koji su glavni faktori koje treba uzeti u obzir prilikom dizajniranja jedrilice koja bi preletela veliku udaljenost?",
+    "option_a": "uticaj na okolinu i masa",
+    "option_b": "troškovi i uticaj na okolinu",
+    "option_c": "čvrstoća i troškovi",
+    "option_d": "masa i čvrstoća"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_180443",
+    "answer": "C",
+    "instruction": "Koja faza Mjeseca slijedi nakon porastajuće puni Mjesec?",
+    "option_a": "opadajući puni Mjesec",
+    "option_b": "rastući mladi Mjesec",
+    "option_c": "puni Mjesec",
+    "option_d": "mladi Mjesec"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7238963",
+    "answer": "A",
+    "instruction": "Grozničavo lice kod ljudi kodira se dominantnom alelom C. Lice bez razdvajanja kodira se recesivnom alelom c. Muškarac s kombinacijom alela cc za ovaj karakteristiku proizvodi zigotu sa ženom s kombinacijom alela Cc za ovaj karakteristiku. Koje kombinacije alela bi mogle nastati u zigoti?",
+    "option_a": "Cc ili cc",
+    "option_b": "CC ili Cc",
+    "option_c": "Samo CC",
+    "option_d": "Samo Cc"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_184765",
+    "answer": "B",
+    "instruction": "Koje od sledećih najverovatnije će biti posledica seče velikih kontinuiranih šumskih površina?",
+    "option_a": "Procenat kiseonika u oblasti će se povećati.",
+    "option_b": "Količina erozije u oblasti će se povećati.",
+    "option_c": "Raznovrsnost vrsta u oblasti će se povećati.",
+    "option_d": "Hranljivi sastojci u zemljištu oblasti će se povećati."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7235813",
+    "answer": "D",
+    "instruction": "Ugljenik prolazi kroz različite rezervoare na Zemlji. Vreme koje je potrebno da se ovi rezervoari formiraju varira. Koja je to proces u ugljeničnom ciklusu koji je potreban milionima godina da bi se formirao navedeni rezervoar?",
+    "option_a": "uključivanje ugljenika probavom u tkiva životinja",
+    "option_b": "oslobađanje ugljenika u atmosferu tokom disanja",
+    "option_c": "ugljenik iz atmosfere koji je inkorporiran u šećere u biljkama",
+    "option_d": "razgradnja ugljenika u biljnim tkivima radi formiranja ulja"
+  },
+  {
+    "id": "ARC-Challenge/validation/OHAT_2007_5_24",
+    "answer": "B",
+    "instruction": "Kako razgraditelji pomažu drugim organizmima da prežive u šumi?",
+    "option_a": "Oni oslobađaju kiseonik u vazduh koji životinje udišu.",
+    "option_b": "Oni dodaju hranljive materije u zemljište koju biljke koriste za rast.",
+    "option_c": "Oni obezbeđuju sklonište u šumama gde se životinje mogu sakriti.",
+    "option_d": "Oni koriste sunčevu svetlost da proizvode hranu za biljke i životinje."
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2007_8_15",
+    "answer": "C",
+    "instruction": "Ljudske aktivnosti utiču na životnu sredinu. Koja ljudska aktivnost utiče na najmanju površinu životne sredine?",
+    "option_a": "paljenje šume",
+    "option_b": "paljenje fosilnih goriva",
+    "option_c": "kopanje nove deponije",
+    "option_d": "prskanje useva hemikalijama"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7162838",
+    "answer": "D",
+    "instruction": "Laboratorijske pacove hranili su dodatkom borovnica, jagoda ili spanaća njihovoj redovnoj hrani. Nakon osam nedelja, pacovi su testirani na pamćenje i motoričke sposobnosti. Pacovi koji su dobijali dodatak borovnica pokazali su najveći napredak. Koja varijabla je nezavisna (manipulisana) u ovom istraživanju?",
+    "option_a": "test motoričkih sposobnosti",
+    "option_b": "proces starenja",
+    "option_c": "test pamćenja",
+    "option_d": "dodaci ishrani"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_405973",
+    "answer": "B",
+    "instruction": "Na malom ostrvu žive različite vrste ptica. Oluja uništava većinu biljaka na kojima ptice hrane i grade svoja gnezda. Koja vrsta ptica će najverovatnije preživeti na ostrvu?",
+    "option_a": "ptice koje imaju najveći broj",
+    "option_b": "ptice koje su najbolje sposobne da se prilagode",
+    "option_c": "ptice koje mogu da lete najdalje",
+    "option_d": "ptice sa najjačim kljunom"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2000_8_10",
+    "answer": "B",
+    "instruction": "Koji od ovih izjava je mišljenje?",
+    "option_a": "Mnoge biljke su zelene.",
+    "option_b": "Mnoge biljke su lepe.",
+    "option_c": "Biljkama je potrebna sunčeva svetlost.",
+    "option_d": "Biljke mogu rasti na različitim mestima."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7103180",
+    "answer": "B",
+    "instruction": "Koji biom ima najviše vegetacije?",
+    "option_a": "pustinja",
+    "option_b": "šuma",
+    "option_c": "travnjak",
+    "option_d": "tundra"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7221865",
+    "answer": "C",
+    "instruction": "Група ученика је пратила формирање мехурића када је вода кључала. Шта се догодило са материјом због физичке промене воде?",
+    "option_a": "Нова материја је створена у мехурићима.",
+    "option_b": "Стара материја је уништена када се вода претворила у гас.",
+    "option_c": "Материја је била сачувана када је променила форму.",
+    "option_d": "Састојци материје су се променили."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7242743",
+    "answer": "D",
+    "instruction": "Proteini koji su sintetizovani u ribosomskim subunitima prolaze kroz obimne posttranslacione modifikacije i pakovanje te se usmeravaju na odgovarajuće odredište. Koja strukturna komponenta ćelije učestvuje u takvoj modifikaciji?",
+    "option_a": "endoplazmatski retikulum",
+    "option_b": "lizozomi",
+    "option_c": "mitohondrije",
+    "option_d": "Goldžijev aparat"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7103565",
+    "answer": "C",
+    "instruction": "Visokotlačni sistemi sprečavaju vazduh da izdiže u hladnije regione atmosfere gde voda može kondenzovati. Šta će najverovatnije biti posledica ako visokotlačni sistem ostane duže vreme na jednom području?",
+    "option_a": "magla",
+    "option_b": "kiša",
+    "option_c": "suša",
+    "option_d": "tornado"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415541",
+    "answer": "D",
+    "instruction": "Koji od ovih objekata će najverovatnije izplivati na vodi?",
+    "option_a": "staklena kuglica",
+    "option_b": "čelična kuglica",
+    "option_c": "čvrsta guma loptica",
+    "option_d": "stoni teniski reket za loptice"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_9",
+    "answer": "A",
+    "instruction": "Učenik izvadi posudu za led iz zamrzivača i stavi je na sto. Kockice leda su čvrste i hladne. Učenik zaboravi da vrati posudu za led u zamrzivač. Sutra, kockice leda trebaju biti",
+    "option_a": "tečne i toplije",
+    "option_b": "čvrste i toplije",
+    "option_c": "tečne i hladnije",
+    "option_d": "čvrste i hladnije"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7097318",
+    "answer": "D",
+    "instruction": "Jedan veverica ispustila je žir sa grane hrastovog drveta. Šta će se promeniti dok žir pada sa drveta na zemlju?",
+    "option_a": "masa žira",
+    "option_b": "silu na žiru",
+    "option_c": "gustina žira",
+    "option_d": "brzina žira"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_8_20",
+    "answer": "B",
+    "instruction": "Jednačina ispod pokazuje proizvode koji se formiraju kada rastvor srebro nitrata (AgNO3) reaguje sa rastvorom natrijum hlorida (NaCl). AgNO3 \u0002+ NaCl (Reaktanti) -> NaNO3 \u0002+ AgCl (Proizvodi) U ovoj jednačini, ukupna masa reaktanata je",
+    "option_a": "veća od ukupne mase proizvoda",
+    "option_b": "jednaka ukupnoj masi proizvoda",
+    "option_c": "jednaka masi AgCl",
+    "option_d": "manja od mase AgCl"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415397",
+    "answer": "C",
+    "instruction": "Koja promena pravi strukturu na Zemljinoj površini?",
+    "option_a": "Poplava tera ljude da napuste grad.",
+    "option_b": "Zemljotres pravi talase u polju.",
+    "option_c": "Vulkan stvara novu zemlju lavo.",
+    "option_d": "Klisura u zaliv stvara plimu."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7246348",
+    "answer": "A",
+    "instruction": "Koja karakteristika nije rezultat divergiranja tektonskih ploča?",
+    "option_a": "žleb",
+    "option_b": "dolina raseda",
+    "option_c": "oceanska pučina",
+    "option_d": "srednjeoceanska brazda"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7270200",
+    "answer": "A",
+    "instruction": "Naučnici su objasnili kako su aminokiseline, ugljeni hidrati, nukleinske kiseline i masne kiseline mogle biti sintetizovane na Zemlji pre nego što su se pojavili živi organizmi. Koje otkriće bi najviše podržalo tvrdnju da je život spontano generisao iz ovih biohemikalija?",
+    "option_a": "Ove hemikalije se mogu samostalno sastaviti u strukturu koja se replicira.",
+    "option_b": "Ove hemikalije se koriste od strane živih organizama danas.",
+    "option_c": "Ove hemikalije se nalaze na drugoj planeti.",
+    "option_d": "Ove hemikalije se mogu samostalno sastaviti u virus."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415026",
+    "answer": "C",
+    "instruction": "Koje životinje bi najverovatnije bile pogođene poplavom na priobalnom području?",
+    "option_a": "srne",
+    "option_b": "rakuni",
+    "option_c": "aligatori",
+    "option_d": "kojoti"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7143518",
+    "answer": "D",
+    "instruction": "Dabrovi su poznati po tome što grade branove preko reka i potoka rušeći drveće i sakupljajući granje i žbunje. Populacija dabrova u Sjedinjenim Državama se smanjila zbog lovokrađe od strane ljudi. Koja je ekološka posledica koja se najverovatnije javlja sa smanjenjem populacije dabrova?",
+    "option_a": "značajan pad populacije riba",
+    "option_b": "značajan porast šumskih ekosistema",
+    "option_c": "značajan porast isparavanja vode",
+    "option_d": "značajan pad broja staništa za jezera"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7032340",
+    "answer": "D",
+    "instruction": "Od navedenih opcija, koja predstavlja prirodni svet korišćenjem modela?",
+    "option_a": "čitanje knjige o zajednici prerijskih pasa",
+    "option_b": "gledanje slike zajednice prerijskih pasa",
+    "option_c": "istraživanje zajednice prerijskih pasa upotrebom interneta",
+    "option_d": "posmatranje zajednice prerijskih pasa u izložbi u zoološkom vrtu"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_415263",
+    "answer": "C",
+    "instruction": "Koje od sledećih stvari se nalazi u ćeliji eukariota, ali ne i u ćeliji prokariota?",
+    "option_a": "DNK",
+    "option_b": "citoplazma",
+    "option_c": "jezgro",
+    "option_d": "ćelijska membrana"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7090720",
+    "answer": "B",
+    "instruction": "Etanol je alternativno gorivo koje se pravi od kukuruza. Koja je jedna od nepovoljnih posledica korišćenja etanola kao goriva?",
+    "option_a": "smanjenje troškova proizvodnje goriva",
+    "option_b": "smanjenje raspoložive zemlje za proizvodnju hrane",
+    "option_c": "povećanje potrošnje fosilnih goriva",
+    "option_d": "povećan ugljenični otisak od pogona automobila"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_410964",
+    "answer": "D",
+    "instruction": "Ученици истражују како функционише звоно на вратима. Која од следећих тврђења је највероватније забележена током истраживања?",
+    "option_a": "Сва звона на вратима производе леп звук.",
+    "option_b": "Батерија је најбољи извор напајања за звонце на вратима.",
+    "option_c": "Већина људи више воли да користи звоно на вратима него да куца.",
+    "option_d": "Звоно на вратима користи проводник умотан око магнета."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7057313",
+    "answer": "A",
+    "instruction": "Srčani mišić se najbolje opisuje kao",
+    "option_a": "isti tip ćelija koje zajedno rade.",
+    "option_b": "različiti sistemi koji zajedno rade.",
+    "option_c": "isti tip organa koji formiraju sistem.",
+    "option_d": "različiti organi koji obavljaju funkciju."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_402101",
+    "answer": "D",
+    "instruction": "Koje karakteristike se mogu pronaći na površini i Zemlje i Meseca?",
+    "option_a": "biljke",
+    "option_b": "okeani",
+    "option_c": "životinje",
+    "option_d": "planine"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2010_8_12010",
+    "answer": "C",
+    "instruction": "Neki tipovi bakterija proizvode supstancu koja je otrovna za insekte, ali bezopasna za ljude. Naučnici su izolovali gen koji kontroliše proizvodnju ove supstance. Koji od sledećih razloga je najbolji za umetanje ovog gena u biljku kukuruza?",
+    "option_a": "Kukuruz će brže rasti.",
+    "option_b": "Potrebno će biti manje đubriva.",
+    "option_c": "Potrebno će biti manje pesticida.",
+    "option_d": "Kukuruz će biti hranjiviji."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7038133",
+    "answer": "B",
+    "instruction": "Učenik planira istraživanje kako bi izračunao brzine različitih lopti dok se kotrljaju niz rampu. Koje informacije nije neophodno da učenik zabeleži?",
+    "option_a": "veličina svake lopte",
+    "option_b": "debljina rampe",
+    "option_c": "dužina rampe",
+    "option_d": "vreme koje lopti treba da pređe put"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_407169",
+    "answer": "D",
+    "instruction": "Kada stanište sa malim ribnjakom prođe kroz dug period suše, šta je najverovatnije da će se desiti sa mnogim ribama u ribnjaku?",
+    "option_a": "Prilagodiće se suvom okruženju.",
+    "option_b": "Živeće na drugim izvorima vode.",
+    "option_c": "Odseliće se u drugo stanište.",
+    "option_d": "Neće moći preživeti."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7103215",
+    "answer": "C",
+    "instruction": "Učenik/ica želi da utvrdi efekat belog luka na rast vrste gljivica. Uzorci nekoliko kultura gljivica uzgajaju se u istoj količini agara i pod istim svetlom. Svaki uzorak dobija različitu količinu belog luka. Šta je nezavisna varijabla u ovom istraživanju?",
+    "option_a": "količina agara",
+    "option_b": "količina svetla",
+    "option_c": "količina belog luka",
+    "option_d": "količina rasta"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2013_8_29432",
+    "answer": "B",
+    "instruction": "Koja od sledećih delova biljne ćelije ima funkciju koja je najviše slična funkciji životinjskog skeleta?",
+    "option_a": "ćelijska membrana",
+    "option_b": "ćelijski zid",
+    "option_c": "hloroplast",
+    "option_d": "jezgro"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7018008",
+    "answer": "A",
+    "instruction": "Koja osobina atoma najbolje opisuje njegova električna svojstva?",
+    "option_a": "neutralan",
+    "option_b": "izolovan",
+    "option_c": "pozitivno naelektrisan",
+    "option_d": "negativno naelektrisan"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7166530",
+    "answer": "B",
+    "instruction": "Ira je morao da napravi laboratorijsku analizu nakon škole. Materijale, hemikalije, opremu i zaštitnu opremu dobio je od svog učitelja. Brzo, ali oprezno, obavio je korake u pisanom postupku eksperimenta. Kako bi uštedio vrijeme, odlučio je zabilježiti svoja zapažanja i rezultate kasnije. Šta će najvjerojatnije biti negativno utjecajno na njegovu odluku?",
+    "option_a": "sposobnost da se slijede upute",
+    "option_b": "sposobnost da se napiše valjan izvještaj",
+    "option_c": "sposobnost da se prate sigurnosne smjernice",
+    "option_d": "sposobnost da se dođe do zaključka"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400047",
+    "answer": "B",
+    "instruction": "Učenik je ostavio čokoladu na suncu tokom vrućeg dana. Kojom karakteristikom se promenila čokolada dok se topila?",
+    "option_a": "njena masa",
+    "option_b": "njena forma",
+    "option_c": "njena težina",
+    "option_d": "njena struktura"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7044100",
+    "answer": "C",
+    "instruction": "Na koji način se mogu iscrpiti hranjive materije u poljoprivrednom tlu?",
+    "option_a": "prekomjerna ispaša",
+    "option_b": "erozija vjetrom",
+    "option_c": "povećano navodnjavanje",
+    "option_d": "povećana gnojidba"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7075145",
+    "answer": "A",
+    "instruction": "Koji od ovih procesa omogućava stanicama da unose vodu?",
+    "option_a": "osmoza",
+    "option_b": "mitoza",
+    "option_c": "fotosinteza",
+    "option_d": "disanje"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_192290",
+    "answer": "D",
+    "instruction": "Iako pripadaju istoj porodici, orao i pelikan se razlikuju. Koja je jedna razlika između njih?",
+    "option_a": "njihova sklonost prema jedenju ribe",
+    "option_b": "njihova sposobnost letenja",
+    "option_c": "njihov način reprodukcije",
+    "option_d": "njihov način hvatanja hrane"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7093975",
+    "answer": "D",
+    "instruction": "Koji je prirodni uzrok sušenja rijeka?",
+    "option_a": "zagađenje",
+    "option_b": "erozija",
+    "option_c": "porast podzemnih voda",
+    "option_d": "nedostatak padavina"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7085820",
+    "answer": "D",
+    "instruction": "Kako voda počinje da se zaledi, molekuli vode",
+    "option_a": "dobijaju toplotnu energiju.",
+    "option_b": "se kreću slobodnije.",
+    "option_c": "povećavaju svoju veličinu.",
+    "option_d": "usporavaju svoju brzinu."
+  },
+  {
+    "id": "ARC-Challenge/validation/MEA_2016_5_6",
+    "answer": "C",
+    "instruction": "Balon pun vode se stavlja u zamrzivač. Koja karakteristika vode će se promeniti kada voda dostigne tačku zamrzavanja?",
+    "option_a": "boja",
+    "option_b": "masa",
+    "option_c": "stanje",
+    "option_d": "težina"
+  },
+  {
+    "id": "ARC-Challenge/validation/NCEOGA_2013_5_43",
+    "answer": "B",
+    "instruction": "Šta se mora dogoditi pre nego što se mogu formirati oblaci?",
+    "option_a": "Vodena para mora da se zagreje.",
+    "option_b": "Vodena para mora da izgubi toplotnu energiju.",
+    "option_c": "Padavine moraju početi da padaju i odvajaju se.",
+    "option_d": "Transpiracija mora dodati vodenu paru u atmosferu."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7250023",
+    "answer": "A",
+    "instruction": "Sve ćelije, prokariotske i eukariotske, imaju nekoliko zajedničkih karakteristika. Koju ćelijsku karakteristiku imaju kako prokariotske tako i eukariotske ćelije?",
+    "option_a": "ribosom",
+    "option_b": "membrana hloroplasta",
+    "option_c": "jezgro",
+    "option_d": "endoplazmatski retikulum"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7003955",
+    "answer": "D",
+    "instruction": "Kakav tip naelektrisanja ima pojedinačna vlakna kose kada stoje uspravno zbog statičkog elektriciteta?",
+    "option_a": "neutralni naboj",
+    "option_b": "neutralno pražnjenje",
+    "option_c": "trajni pozitivan naboj",
+    "option_d": "privremeni pozitivni naboji"
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2010_5_18",
+    "answer": "D",
+    "instruction": "Vetar je prirodni resurs koji koristi jugoistočna obala rijeke Česapeake. Kako bi ljudi najbolje mogli iskoristiti ove vjetrove?",
+    "option_a": "Vjetrovi bi mogli donositi naftne mrlje u zaljev.",
+    "option_b": "Vjetrovi bi se mogli pretvoriti u fosilna goriva.",
+    "option_c": "Vjetrovi bi mogli nositi zagađeni zrak prema kopnu.",
+    "option_d": "Vjetrovi se mogu koristiti za proizvodnju električne energije."
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_2",
+    "answer": "D",
+    "instruction": "Koliko oko jednu revoluciju oko Sunca zemlja obavi za:",
+    "option_a": "jedan dan",
+    "option_b": "jednu nedelju",
+    "option_c": "jedan mesec",
+    "option_d": "jednu godinu"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_411306",
+    "answer": "D",
+    "instruction": "Različite vrste biljaka imaju neke karakteristike zajedničke. Koju karakteristiku većina biljaka dijeli?",
+    "option_a": "veličinu korijena",
+    "option_b": "oblik listova",
+    "option_c": "boju cvjetova",
+    "option_d": "strukturu ćelija"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7241115",
+    "answer": "C",
+    "instruction": "Koji događaj je najverovatnije omogućio eksploziju raznolikosti sisara koja se dogodila tokom krede?",
+    "option_a": "formiranje superkontinenta Pangeje",
+    "option_b": "intenzivna vulkanska aktivnost",
+    "option_c": "hlađenje temperature",
+    "option_d": "rastući nivo mora"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7042735",
+    "answer": "C",
+    "instruction": "U časovima nauke se pravi rastvor vode i netoksičnog jedinjenja. Šta treba uraditi sa rastvorom kada završi demonstracija?",
+    "option_a": "Treba ga prosuti u slivnik.",
+    "option_b": "Treba ga prosuti u kontejner za reciklažu.",
+    "option_c": "Treba ga prosuti u kontejner za otpad.",
+    "option_d": "Treba ga staviti u kontejner za opasan otpad."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2004_9_13",
+    "answer": "D",
+    "instruction": "Koji od sledećih tipova naprezanja predstavlja primarni tip naprezanja koji fiksna prihvatna klešta primenjuju na drveni komad?",
+    "option_a": "vučno",
+    "option_b": "smično",
+    "option_c": "torsijsko",
+    "option_d": "kompresiono"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_176015",
+    "answer": "D",
+    "instruction": "Grupa studenata istražuje dva sastojka da bi odredila koji je stočna so, a koji stočni šećer. Kako bi studenti najbolje identifikovali svaki sastojak?",
+    "option_a": "primećivanjem da li se rastvaraju u vodi",
+    "option_b": "proučavanjem boje supstance",
+    "option_c": "posmatranjem da li se lepe za površinu",
+    "option_d": "ispitivanjem oblika kristala"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7215180",
+    "answer": "C",
+    "instruction": "Naučnici skupljaju uzorke granita u planinama zapadne Nevade. Koja od ovih formata je najbolja za prikazivanje i upoređivanje procenata minerala pronađenih u jednom uzorku granita?",
+    "option_a": "stubičasti dijagram",
+    "option_b": "linijski dijagram",
+    "option_c": "tortni dijagram",
+    "option_d": "rasipni dijagram"
+  },
+  {
+    "id": "ARC-Challenge/validation/TIMSS_2007_4_pg26",
+    "answer": "B",
+    "instruction": "Životinja ima šest nogu. Koja životinja je najverovatnije u pitanju?",
+    "option_a": "pauk",
+    "option_b": "muva",
+    "option_c": "gušter",
+    "option_d": "sto nogu"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_177818",
+    "answer": "C",
+    "instruction": "Dužina vremena između noći i dana na Zemlji varira tokom godine. Ova varijacija vremena se objašnjava pretežno sa",
+    "option_a": "pozicijom Sunca.",
+    "option_b": "pozicijom Meseca.",
+    "option_c": "Zemljinim uglom nagiba",
+    "option_d": "udaljenošću Zemlje od Sunca"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_405487",
+    "answer": "B",
+    "instruction": "Jedne godine, hrastovi u parku su počeli više proizvoditi žir. Naredne godine, populacija čipmanki u parku takođe se povećala. Šta najbolje objašnjava zašto je sledeće godine bilo više čipmanki?",
+    "option_a": "Povećala su se hladovita područja.",
+    "option_b": "Povećali su se izvori hrane.",
+    "option_c": "Povećao se nivo kiseonika.",
+    "option_d": "Povećala se dostupnost vode."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400612",
+    "answer": "C",
+    "instruction": "Površina Zemlje konstantno se mijenja zbog vremenskih uvjeta i erozije. Uspoređujući s Zemljom, na Mjesecu je malo vremenskih uvjeta i erozije zbog",
+    "option_a": "nedostatka gravitacije na Mjesecu.",
+    "option_b": "tanke atmosfere na Mjesecu.",
+    "option_c": "nedostatka zraka i vode na Mjesecu.",
+    "option_d": "nedostatka živih bića na Mjesecu."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400655",
+    "answer": "A",
+    "instruction": "Koja od ovih promena najviše može biti primetna između leta i zime?",
+    "option_a": "količine dnevnog svetla",
+    "option_b": "visine talasa okeana",
+    "option_c": "broja oluja",
+    "option_d": "veličine oblaka"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415735",
+    "answer": "C",
+    "instruction": "Anya je na topao dan stavila kocku leda na trotoar. Kocka leda se uskoro otopila stvarajući baru. Koji proces je uzrokovao topljenje kocke leda?",
+    "option_a": "Toplota se prenosila kroz kocku leda konvekcijom.",
+    "option_b": "Toplota se prenosila iz zraka na kocku leda zračenjem.",
+    "option_c": "Toplota se prenosila iz zraka i trotoara provođenjem.",
+    "option_d": "Toplota se prenosila kroz kocku leda u trotoar provođenjem."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2005_8_5",
+    "answer": "D",
+    "instruction": "Merkur, planetа koja je najbliža Suncu, ima ekstremne površinske temperature koje se kreću od 465°C tokom sunčevog zračenja do -180°C u mraku. Zašto postoji takav veliki raspon temperatura na Merkuru?",
+    "option_a": "Planeta je premala da zadrži toplotu.",
+    "option_b": "Planeta se zagreva samo na jednoj strani.",
+    "option_c": "Planeta odbija toplotu s tamne strane.",
+    "option_d": "Planeta nema atmosferu da zadrži toplotu."
+  },
+  {
+    "id": "ARC-Challenge/validation/TIMSS_2003_8_pg14",
+    "answer": "B",
+    "instruction": "Zašto bi muški insekti bili tretirani kako bi se sprečila proizvodnja sperme?",
+    "option_a": "Da se poveća broj ženskih insekata",
+    "option_b": "Da bi se smanjila ukupna populacija insekata",
+    "option_c": "Da se proizvedu nove vrste insekata",
+    "option_d": "Da se spriječi parenje insekata"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_20",
+    "answer": "D",
+    "instruction": "Glavna funkcija stabla je da pruži",
+    "option_a": "vazduh",
+    "option_b": "voće",
+    "option_c": "sunčevu svetlost",
+    "option_d": "podršku"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7017990",
+    "answer": "A",
+    "instruction": "Koja radnja ne predstavlja postupak bezbednosti u laboratoriji?",
+    "option_a": "probavanje hemijskih uzoraka",
+    "option_b": "korišćenje otpornih na toplotu rukavica ako je staklo za grejanje vruće",
+    "option_c": "vezivanje dugih kose",
+    "option_d": "pranje hemijskog kvašenja sa puno vode"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7264023",
+    "answer": "D",
+    "instruction": "Koji od ovih elemenata vjerovatno nije prisutan u organskom spoju?",
+    "option_a": "ugljenik",
+    "option_b": "vodonik",
+    "option_c": "dušik",
+    "option_d": "kalijum"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7138513",
+    "answer": "A",
+    "instruction": "Jedno ostrvo ima mnogo vrsta ptica, nema autohtonih vrsta zmija i malo velikih predatora. Braon zmije jedu ptičja jaja. Koji je najverovatniji rezultat slučajnog puštanja braon zmija na ostrvu?",
+    "option_a": "više zmija i manje ptica",
+    "option_b": "više zmija i više ptica",
+    "option_c": "manje zmija i manje ptica",
+    "option_d": "manje zmija i više ptica"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_401663",
+    "answer": "B",
+    "instruction": "Koje objekte student može staviti u hrpu komposta da bi sačuvao resurse?",
+    "option_a": "đubriva",
+    "option_b": "sočiva biljka",
+    "option_c": "staklene bačve",
+    "option_d": "plastične pipete"
+  },
+  {
+    "id": "ARC-Challenge/validation/ACTAAP_2011_5_3",
+    "answer": "C",
+    "instruction": "Velika količina sedimenta se uzima vodom dok voda teče nizbrdo u rijekama i potocima. Kada voda u rijeci ili potoku brzo teče, a onda počne usporavati, što je vjerojatno da će se dogoditi s česticama sedimenta koje voda nosi?",
+    "option_a": "Količina većih čestica sedimenta koje voda nosi će se povećati.",
+    "option_b": "Količina manjih čestica sedimenta koje voda nosi će se povećati.",
+    "option_c": "Količina većih čestica sedimenta koje voda nosi će se smanjiti.",
+    "option_d": "Količina manjih čestica sedimenta koje voda nosi će se smanjiti."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7195440",
+    "answer": "B",
+    "instruction": "Svake godine se uništi oko 50 miliona hektara tropskih kišnih šuma. Koji efekat je najverovatniji rezultat uništavanja ovih šuma?",
+    "option_a": "smanjenje erozije zemljišta",
+    "option_b": "smanjenje biodiverziteta",
+    "option_c": "unapređenje kvaliteta vazduha",
+    "option_d": "unapređenje kvaliteta vode"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7220378",
+    "answer": "C",
+    "instruction": "Klimatske promene mogu smanjiti količinu leda koji pluta na svetskim okeanima. Kako se najverovatnije ovaj promena može odraziti na količinu hrane dostupne za prehrambene organizme u moru?",
+    "option_a": "smanjenjem količine soli rastvorene u morskoj vodi",
+    "option_b": "povećanjem sposobnosti vode da se razdvoji u različite slojeve",
+    "option_c": "promenom temperatura koje zahtevaju jednoćelijski proizvođači",
+    "option_d": "onemogućavanjem organizama da brzo odgovore na promene u okolini"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7234483",
+    "answer": "B",
+    "instruction": "Koje je svojstvo prvo razvilo prebiotske supstance na kojima trenutno, dominantna teorija o podrijetlu života na Zemlji ovisi?",
+    "option_a": "stabilna odvojenost od okoline",
+    "option_b": "sastavljanje u samo-replikirajuće strukture",
+    "option_c": "pohrana karakteristika u kemijski kodiranom obliku",
+    "option_d": "nakupljanje molekula za pohranu energije"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7179358",
+    "answer": "B",
+    "instruction": "Ekosistem klimaks vatre zahteva periodiène šumske požare da bi održao stabilnost. Koja bi od ovih moguænosti bila najverovatniji rezultat sprečavanja prirodnih požara u ovom ekosistemu?",
+    "option_a": "Vrste borova bi se reprodukovale brže.",
+    "option_b": "Listopadne vrste bi zamenile vrste borova.",
+    "option_c": "Područja koja gore bi se lakše držala pod kontrolom.",
+    "option_d": "Drveće bi se širilo u prethodno nezasutavljenim područjima."
+  },
+  {
+    "id": "ARC-Challenge/validation/NCEOGA_2013_8_40",
+    "answer": "C",
+    "instruction": "Kako bi pušenje duvana najverovatnije negativno uticalo na sposobnost pojedinca da uspe u fizičkim aktivnostima?",
+    "option_a": "To ometa ravnotežu i koordinaciju.",
+    "option_b": "Smanjuje sposobnost donošenja brzih odluka.",
+    "option_c": "Smanjuje izdržljivost i kardiovaskularnu efikasnost.",
+    "option_d": "Smanjuje brzinu i snagu mišićnih kontrakcija."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7100695",
+    "answer": "D",
+    "instruction": "Koja geološka struktura će najverovatnije najduže trajati da se formira?",
+    "option_a": "pukotina u zemlji",
+    "option_b": "ponor",
+    "option_c": "meander reke",
+    "option_d": "lanac planina"
+  },
+  {
+    "id": "ARC-Challenge/validation/MEA_2016_5_7",
+    "answer": "B",
+    "instruction": "Učenik posmatra jednoćelijski organizam i list biljke i primećuje da imaju slične zelene delove. Učenik misli da oba organizma koriste zelene delove da bi živela. Koji dokaz podržava zaključak da oba organizma trebaju zelene delove da bi živela?",
+    "option_a": "Oba organizma koriste zelene delove da bi se kretali.",
+    "option_b": "Oba organizma umiru ako se uklone zelene delovi.",
+    "option_c": "Primećeno je da zelene delove kod oba organizma emituju svetlo.",
+    "option_d": "Zeleni delovi kod oba organizma mogu stvarati više zelenih delova."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7027230",
+    "answer": "A",
+    "instruction": "Koje područje istraživanja bi bilo najbolje istražiti kako bi se pronašli načini za smanjenje ekoloških problema koje uzrokuju ljudi?",
+    "option_a": "pretvaranje sunčeve svetlosti u električnu energiju",
+    "option_b": "traženje novih zaliha uglja",
+    "option_c": "pronalaženje rezervoara koji sadrže naftu",
+    "option_d": "pretvaranje šuma u poljoprivredno zemljište"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7245053",
+    "answer": "B",
+    "instruction": "Koji od sledećih spojeva je organski spoj?",
+    "option_a": "voda (H2O)",
+    "option_b": "heksan (C6H14)",
+    "option_c": "amonijak (NH3)",
+    "option_d": "sumpor-dioksid (SO2)"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_8_12",
+    "answer": "A",
+    "instruction": "Glavna funkcija biljnih sjemenki je da",
+    "option_a": "spremaju hranu za korišćenje u ranom razvoju",
+    "option_b": "privlače polen za korišćenje tokom razvoja",
+    "option_c": "upijaju svetlosnu energiju za korišćenje u fotosintezi",
+    "option_d": "proizvode hlorofil za korišćenje u fotosintezi"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7189035",
+    "answer": "D",
+    "instruction": "Skot je gledao rezultate ukrštanja crvenog i belog cveća. Koja je najverovatnija posledica ukrštanja koje pokazuje nepotpunu dominaciju?",
+    "option_a": "0% roze cveća",
+    "option_b": "25% belog cveća",
+    "option_c": "50% crvenog cveća",
+    "option_d": "100% roze cveća"
+  },
+  {
+    "id": "ARC-Challenge/validation/LEAP_2006_8_10412",
+    "answer": "B",
+    "instruction": "Jolie je želela da doručkuje tvrdo kuvano jaje. Stavila je jaje u ključalu vodu na petnaest minuta. Kada je razbila ljusku, tečni delovi jajeta postali su kruti. To je zato što je",
+    "option_a": "zagrevanje uklonilo vodu iz jajeta.",
+    "option_b": "zagrevanje je promenilo hemijske veze u jajetu.",
+    "option_c": "kuvanje je donelo krute delove jajeta na površinu.",
+    "option_d": "bakterije koje žive u tečnom delu jajeta su ubijene."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400172",
+    "answer": "A",
+    "instruction": "Koji naučnik je tvrdio da je Zemlja centar univerzuma?",
+    "option_a": "Aristotel",
+    "option_b": "Kopernik",
+    "option_c": "Ajnštajn",
+    "option_d": "Njutn"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2005_5_21",
+    "answer": "D",
+    "instruction": "Ženke foka obično se vraćaju na iste plaže iz godine u godinu da bi se okotile. Ako su ponavljano uznemiravane na tim plažama od strane ljudi, kako će se foke najverovatnije odazvati?",
+    "option_a": "Promeniće boju.",
+    "option_b": "Rodiće više mladunaca.",
+    "option_c": "Češće će lovitii hranu.",
+    "option_d": "Okotiće se na drugim plažama."
+  },
+  {
+    "id": "ARC-Challenge/validation/MEA_2010_8_11",
+    "answer": "A",
+    "instruction": "Kada se uspori kretanje molekula tečne vode, šta se najverovatnije dešava?",
+    "option_a": "Tečna voda se pretvara u čvrstu.",
+    "option_b": "Tečna voda kondenzuje.",
+    "option_c": "Tečna voda prolazi kroz hemijske promjene.",
+    "option_d": "Tečna voda postaje para."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7187058",
+    "answer": "A",
+    "instruction": "Svake noći, Džoni čita pored lampe koju osvetljava sijalica sa žarnom niti. Koja je najbolja indikacija da prenos električne energije do lampe nije efikasan?",
+    "option_a": "Sijalica se zagreva.",
+    "option_b": "Sijalica proizvodi svetlo.",
+    "option_c": "Lampa koristi bakarne žice.",
+    "option_d": "Lampu je moguće isključiti prekidačem."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7185133",
+    "answer": "A",
+    "instruction": "Trejsi je učila o strukturnoj organizaciji kod životinja. Koja razina strukturne organizacije najbolje opisuje jaje?",
+    "option_a": "jedna ćelija",
+    "option_b": "jedno tkivo",
+    "option_c": "jedan sistem",
+    "option_d": "jedan organ"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7183733",
+    "answer": "B",
+    "instruction": "U Everglejdovima, kondicija američkog aligatora je u tesnoj vezi sa dubinom vode. Kada nivo vode postane previsok, vrste životinja se rasipaju po širem području, što dovodi do smanjenja kondicije usled nemogućnosti da se pronađu dovoljne količine hrane. Kada nivo vode padne, vrste životinja se skupljaju u manjem području, što omogućava aligatorima efikasnije lovljenje. Ovaj scenario predstavlja primer kako je preživljavanje aligatora zavisno od ograničenja kojeg faktora?",
+    "option_a": "brzine razlaganja",
+    "option_b": "habitata plena",
+    "option_c": "proizvodne aktivnosti",
+    "option_d": "obnavljanja vode"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7205345",
+    "answer": "D",
+    "instruction": "Kada se proizvodi kuhinjska so (NaCl), koji od sledećih najbolje opisuje akcije natrijum (Na) i hlor (Cl) atoma?",
+    "option_a": "Atomi natrijuma zamene atome hlora.",
+    "option_b": "Atomi natrijuma i hlora se mešaju zajedno.",
+    "option_c": "Atomi natrijuma se rastvaraju u atomima hlora.",
+    "option_d": "Atomi natrijuma i hlora se hemijski vezuju."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2002_5_6",
+    "answer": "D",
+    "instruction": "Kolibriji mogu da lebde u vazduhu i da lete vrlo brzo. To koristi kolibriju u svemu osim u",
+    "option_a": "brzom izbegavanju predatora.",
+    "option_b": "lakom dostizanju cveća.",
+    "option_c": "dugom zadržavanju na jednom mestu dok piju nektar.",
+    "option_d": "očuvanju toplote jaja."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7166180",
+    "answer": "B",
+    "instruction": "Rast biljaka utiče na faktore životne sredine poput gravitacije. Ako se seme dozvoli da proklija i da raste dok je okrenuto na stranu, šta će se najverovatnije desiti?",
+    "option_a": "korenje će rasti naniže, stabljika će rasti naniže",
+    "option_b": "korenje će rasti naniže, stabljika će rasti nagore",
+    "option_c": "korenje će rasti nagore, stabljika će rasti naniže",
+    "option_d": "korenje će rasti nagore, stabljika će rasti nagore"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2012_5_23632",
+    "answer": "C",
+    "instruction": "Učenik je posmatrao kamen sastavljen od mnogo sitnih čestica peska poređanih u slojevima svetle i tamne boje. Koja od sledećih izjava opisuje kako se ovaj tip kamena najverovatnije formirao?",
+    "option_a": "Glina je bila zgnječena i zamrznuta ispod glečera.",
+    "option_b": "Lava vulkana se brzo ohladila u vodi.",
+    "option_c": "Rečna sedimenta su polako kompaktno skupljena i cementovana zajedno.",
+    "option_d": "Mineralna naselja su se stvrdnjavala u čvrsti kamen u podzemnim pećinama."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7267593",
+    "answer": "A",
+    "instruction": "Koji od ovih prirodnih katastrofa su najmanje predvidljive?",
+    "option_a": "zemljotresi",
+    "option_b": "uragani",
+    "option_c": "tornada",
+    "option_d": "mećave"
+  },
+  {
+    "id": "ARC-Challenge/validation/NAEP_2005_8_S11+14",
+    "answer": "B",
+    "instruction": "Čovjek NE MOŽE preživjeti gubitak kojeg od sljedećeg?",
+    "option_a": "Slijepog crijeva",
+    "option_b": "Jetre",
+    "option_c": "Pluća",
+    "option_d": "Bubrega"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7218750",
+    "answer": "C",
+    "instruction": "Koja vrsta rezervoara vode uvek može obezbediti slatku vodu?",
+    "option_a": "unutrašnja jezera",
+    "option_b": "rečni delti",
+    "option_c": "planinski glečeri",
+    "option_d": "tropska mora"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7026198",
+    "answer": "A",
+    "instruction": "Element krypton je gas koji pokazuje gotovo nikakvu kemijsku aktivnost. Da bi pronašli drugi element sličnih svojstava, na Periodnom sistemu elemenata učenik bi trebao potražiti?",
+    "option_a": "element u istoj grupi",
+    "option_b": "element u istom periodu",
+    "option_c": "element sa istim neto nabojem",
+    "option_d": "element sa istom atomskom masom"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7081760",
+    "answer": "B",
+    "instruction": "Da bi klasifikovao novo otkriveni organizam, naučnik istražuje strukturu, DNK i životni ciklus organizma. Naučnik će najverovatnije koristiti rezultate istraživanja da bi",
+    "option_a": "izgradio nove naučne metode.",
+    "option_b": "revidirao naučno znanje.",
+    "option_c": "formirao nove hipoteze.",
+    "option_d": "opovrgao naučne teorije."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7130603",
+    "answer": "C",
+    "instruction": "Koja količina iz navedenih nije izražena u jedinici džul?",
+    "option_a": "toplota",
+    "option_b": "svetlost",
+    "option_c": "snaga",
+    "option_d": "rad"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7074865",
+    "answer": "C",
+    "instruction": "Šta je istinito za alge, bakterije i cvetne biljke?",
+    "option_a": "One su neorganske.",
+    "option_b": "Sve one imaju hlorofil.",
+    "option_c": "One su sačinjene od ćelija.",
+    "option_d": "Sve one se hrane drugim organizmima."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7042700",
+    "answer": "D",
+    "instruction": "Koji uređaj ne bi bio potreban tokom disekcije životinje?",
+    "option_a": "rukavice",
+    "option_b": "zaštitne naočare",
+    "option_c": "laboratorijski mantil",
+    "option_d": "safety tuš"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7071365",
+    "answer": "D",
+    "instruction": "Koje poređenje leptira i moljaca je izjava činjenica?",
+    "option_a": "Leptiri su lepši i zabavniji za posmatranje od moljaca.",
+    "option_b": "Leptiri su bolji u letenju od moljaca.",
+    "option_c": "Leptiri i moljci su mnogo srećniji tokom dana.",
+    "option_d": "Leptiri i moljci imaju podjednak broj nogu."
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2007_4_52",
+    "answer": "C",
+    "instruction": "Biljke i životinje trebaju hranu za rast. Šta se dešava sa većinom hrane koju biljke proizvode?",
+    "option_a": "Hrana se oslobađa kao gas.",
+    "option_b": "Hrana se pretvara u vodu.",
+    "option_c": "Hrana se skladišti za buduću upotrebu.",
+    "option_d": "Hrana se koristi za apsorpciju sunčeve svetlosti."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7026443",
+    "answer": "D",
+    "instruction": "Koje osobine kućnih pasa se nasleđuju?",
+    "option_a": "Pas izbegava mačku kao kućnog ljubimca.",
+    "option_b": "Pas skače na sofu.",
+    "option_c": "Pas se okreće na komandu.",
+    "option_d": "Pas luči pljuvačku kada oseti hranu."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7008138",
+    "answer": "B",
+    "instruction": "Koja izjava opisuje asteroide i komete?",
+    "option_a": "Asteroide su čvrsti, a komete su gasovite.",
+    "option_b": "Asteroide su čvrsti, a komete su gasovite.",
+    "option_c": "Asteroide i komete su oba čvrsti.",
+    "option_d": "Asteroide i komete su oba gasoviti."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_402104",
+    "answer": "D",
+    "instruction": "Bacanje toksičnih hemikalija u ribnjak najverovatnije bi rezultiralo",
+    "option_a": "povećanjem nivoa kiseonika u ribnjaku.",
+    "option_b": "bržim rastom biljaka blizu ribnjaka.",
+    "option_c": "toksične hemikalije ne bi imale nikakav efekat na ribnjak.",
+    "option_d": "oštećenjem ili smrću riba u ribnjaku."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7086013",
+    "answer": "D",
+    "instruction": "Humboldt River Basin je jedan od najvažnijih izvora za neobnovljive resurse. Koja od ovih neobnovljivih resursa se proizvodi iz Humboldt River Basin-a?",
+    "option_a": "ugalj iz planinskih nalazišta",
+    "option_b": "nafta i gas iz podzemnih rezervoara",
+    "option_c": "električna energija iz hidroelektričnih generatora",
+    "option_d": "minerali iz rudarstva zlata, srebra i bakra"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7248238",
+    "answer": "D",
+    "instruction": "Komarac riba koja se nalazi na Bahamskim ostrvima živi u različitim izolovanim slatkovodnim ribnjacima koji su nekada bili jedno telo vode. Kada se nekoliko mužjaka i ženki komarčeve ribe iz dva izolovana ribnjaka stavi u jedan ribnjak, svaka riba ima preferenciju za parenje sa ribama iz svog izvornog ribnjaka. Šta je najverovatnije dovelo do ove preferencije za parenje?",
+    "option_a": "Dostupnost hrane uticala je na preferencije za parenje riba.",
+    "option_b": "Konkurencija za odgovarajućeg partnera uticala je na preferencije za parenje.",
+    "option_c": "Grabežljivci u ribnjaku uticali su na preferencije za parenje riba.",
+    "option_d": "Specijacija usled reproduktivne izolacije uticala je na preferencije za parenje."
+  }
+]

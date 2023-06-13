@@ -1,0 +1,2682 @@
+[
+  {
+    "id": "ARC-Challenge/validation/Mercury_7099103",
+    "answer": "D",
+    "instruction": "Wilde braam reproduceert zich aseksueel door nieuwe wortels te laten groeien wanneer stengels de grond raken. Ze reproduceren ook seksueel via hun bloemen. Wat is het voordeel van de braamplant die zich zowel seksueel als aseksueel kan voortplanten?",
+    "option_a": "Het stelt de planten in staat om hoger te groeien.",
+    "option_b": "Het produceert bloemen die insecten aantrekken.",
+    "option_c": "Het produceert bramen die meer smaak hebben.",
+    "option_d": "Het stelt braamplanten in staat om zich aan te passen aan nieuwe omstandigheden."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2006_9_31-v1",
+    "answer": "C",
+    "instruction": "Welke van de volgende beschrijft de mechanische energie van een kar die op rust staat boven op een steile heuvel?",
+    "option_a": "De kar heeft geen mechanische energie.",
+    "option_b": "De mechanische energie van de kar is volledig kinetisch.",
+    "option_c": "De mechanische energie van de kar is volledig potentieel.",
+    "option_d": "De mechanische energie van de kar is half potentieel en half kinetisch."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7090738",
+    "answer": "A",
+    "instruction": "Welke vraag kan beantwoord worden door middel van wetenschappelijk onderzoek?",
+    "option_a": "Hoe beïnvloedt zonne-energie de vorming van wolken?",
+    "option_b": "Waarom zijn tijgers mooier dan leguanen?",
+    "option_c": "Wat is het beste vak om op de universiteit te studeren?",
+    "option_d": "Moeten mensen investeren in ruimtereizen?"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7130883",
+    "answer": "B",
+    "instruction": "Een ingenieursklas is opgedragen om een robot te ontwikkelen. De robot moet ontworpen worden met behulp van elektromagnetische energie als enige energiebron. Welk onderwerp bestudeert de ingenieursklas waarschijnlijk?",
+    "option_a": "het gebruik van batterijen en chemische energie",
+    "option_b": "hoe stralingsenergie en zonnecollectoren kunnen worden gebruikt",
+    "option_c": "de omzetting van kinetische energie naar potentiële energie",
+    "option_d": "hoe thermische energie kan worden omgezet in elektrische energie"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7190155",
+    "answer": "B",
+    "instruction": "Veel verschillende plant- en diersoorten leven in het Amazone-regenwoud. Wat is het meest waarschijnlijke gevolg van grootschalige ontbossing in het Amazone-regenwoud?",
+    "option_a": "een toename van dierenpopulaties",
+    "option_b": "een afname van zuurstofproductie",
+    "option_c": "een toename van neerslag",
+    "option_d": "een afname van verontreinigende stoffen"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_177398",
+    "answer": "B",
+    "instruction": "Een auto die zich in noordoostelijke richting voortbeweegt met een snelheid van 50 km/uur, vertegenwoordigt welke van de volgende?",
+    "option_a": "snelheid",
+    "option_b": "snelheid en richting",
+    "option_c": "versnelling",
+    "option_d": "vertraging"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7246995",
+    "answer": "C",
+    "instruction": "Sommige plantencellen hebben energie nodig om voedingsstoffen over het celmembraan te transporteren. Welk type energieomzetting gebruiken deze plantencellen om het voedingsstofmolecuul binnen het celmembraan te brengen?",
+    "option_a": "thermische energie naar kinetische energie",
+    "option_b": "potentiële energie naar lichtenergie",
+    "option_c": "chemische energie naar kinetische energie",
+    "option_d": "kinetische energie naar potentiële energie"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_189490",
+    "answer": "A",
+    "instruction": "De observatie van erwtenplanten door Gregor Mendel is een voorbeeld van",
+    "option_a": "onderzoeksbewijs ter ondersteuning van een wetenschappelijke theorie.",
+    "option_b": "een conclusie die wordt getest door een hypothese.",
+    "option_c": "willekeurig testen tijdens een experiment.",
+    "option_d": "bewijs voor en tegen een wetenschappelijk model."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7139790",
+    "answer": "C",
+    "instruction": "Een octopus heeft speciale cellen in zijn huid die chromatoforen worden genoemd en waardoor de octopus bijna direct van kleur kan veranderen. De chromatoforen helpen de octopus hoogstwaarschijnlijk",
+    "option_a": "sneller zwemmen.",
+    "option_b": "langzamer ademen.",
+    "option_c": "zich verbergen voor roofdieren.",
+    "option_d": "zijn lichaamstemperatuur reguleren."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7282608",
+    "answer": "C",
+    "instruction": "Afvalwater van huishoudens is niet allemaal hetzelfde. Grijs water verwijst naar huishoudelijk afvalwater van gootstenen en badkuipen. Het bevat geen menselijke biologische afvalstoffen, dus het kan worden hergebruikt in plaats van te worden behandeld als rioolwater. Welke toepassingen van grijs water tonen goed beheer?",
+    "option_a": "afwassen en drinken",
+    "option_b": "drinken en bloembedden besproeien",
+    "option_c": "bloembedden besproeien en bomen water geven",
+    "option_d": "bomen water geven en afwassen"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7145513",
+    "answer": "B",
+    "instruction": "Levensprocessen vereisen energie. Biochemische processen omvatten specifieke reacties. Wat is een kenmerk van biochemische processen dat bij alle dieren voorkomt?",
+    "option_a": "functioneren op elk pH-niveau",
+    "option_b": "warmte vrijgegeven als product",
+    "option_c": "gebruik alleen anaerobe ademhaling",
+    "option_d": "hoeveelheid geabsorbeerde energie"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7018148",
+    "answer": "B",
+    "instruction": "DE MEERDERHEID van de elementen gevonden op het Periodiek Systeem van Elementen zijn",
+    "option_a": "gassen.",
+    "option_b": "metalen.",
+    "option_c": "vloeistoffen.",
+    "option_d": "niet-metalen."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_401294",
+    "answer": "B",
+    "instruction": "De vorm van plantenbladeren die goed gedijen in een regenachtig klimaat zijn meestal",
+    "option_a": "rood en glanzend.",
+    "option_b": "breed en plat.",
+    "option_c": "dik en wasachtig.",
+    "option_d": "scherp en smal."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7207410",
+    "answer": "C",
+    "instruction": "Storm chasers zijn mensen die dichtbij stormen komen om ze te observeren en metingen te verrichten. Welke kennis hebben storm chasers toegevoegd aan het onderzoek naar stormen die het meest heeft geholpen bij het aanpassen van theorieën over stormvorming?",
+    "option_a": "hun visie op stormschade",
+    "option_b": "hun persoonlijke ervaringen in stormen",
+    "option_c": "hun verzamelde data aan het begin van de storm",
+    "option_d": "hun enthousiasme voor het bestuderen van verschillende stormen"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_8_2015_11",
+    "answer": "A",
+    "instruction": "Wat beschrijft het beste de massa van een vast blok ijs?",
+    "option_a": "de hoeveelheid materie in het blok",
+    "option_b": "de hoeveelheid ruimte die het blok inneemt",
+    "option_c": "de zwaartekracht die op het blok werkt",
+    "option_d": "de afstand tussen de moleculen in het blok"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7201705",
+    "answer": "A",
+    "instruction": "In veel delen van de wereld wordt land dat te droog is om te bebouwen gebruikt voor het laten grazen van vee. Overbegrazing van deze gebieden vernietigt de inheemse planten en breekt de natuurlijke bodembedekking af. Hoe leidt overbegrazing tot woestijnvorming?",
+    "option_a": "door de snelheid waarmee de bovenste bodemlaag wordt geërodeerd te verhogen",
+    "option_b": "door niet-inheemse soorten het land te laten koloniseren",
+    "option_c": "door de hoeveelheid voedsel beschikbaar voor vee te verminderen",
+    "option_d": "door het land sneller water te laten opnemen na regenval"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7133858",
+    "answer": "B",
+    "instruction": "Materie kan verschillende veranderingen ondergaan. Wat geeft het beste een chemische verandering weer?",
+    "option_a": "zout oplossen",
+    "option_b": "hout verbranden",
+    "option_c": "water koken",
+    "option_d": "ijs smelten"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2003_5_31",
+    "answer": "D",
+    "instruction": "Welk van deze gedragingen is niet instinctief?",
+    "option_a": "een vogel die een nest bouwt",
+    "option_b": "een schildpad die haar eieren begraaft",
+    "option_c": "een beer die in de winter in winterslaap gaat",
+    "option_d": "een paard dat een ploeg trekt"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7198380",
+    "answer": "D",
+    "instruction": "Verschillende soorten herbivore knaagdieren leefden in hetzelfde ecosysteem. Welke factor nam hoogstwaarschijnlijk toe, waardoor er meer concurrentie om middelen ontstond tussen de knaagdieren?",
+    "option_a": "de vruchtbaarheid van de grond",
+    "option_b": "de populatie van producenten in het gebied",
+    "option_c": "de hoeveelheid voedselresten die door roofdieren achtergelaten werden",
+    "option_d": "de snelheid waarmee primaire consumenten het gebied introkken"
+  },
+  {
+    "id": "ARC-Challenge/validation/LEAP_2012_8_10441",
+    "answer": "C",
+    "instruction": "Een hagedissensoort eet voornamelijk vruchten van één bepaald type boom. Als een virus de meeste van deze bomen doodt, welke individuele hagedissen zullen waarschijnlijk overleven?",
+    "option_a": "hagedissen die hoger in de fruitbomen kunnen klimmen",
+    "option_b": "hagedissen die een donkerdere kleur hebben",
+    "option_c": "hagedissen die andere soorten voedsel kunnen vinden",
+    "option_d": "hagedissen die meer nakomelingen produceren"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7217053",
+    "answer": "B",
+    "instruction": "Biologische evolutie kan plaatsvinden via al deze processen behalve",
+    "option_a": "competitie.",
+    "option_b": "fossilisering.",
+    "option_c": "variatie.",
+    "option_d": "aanpassing."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7233660",
+    "answer": "C",
+    "instruction": "Sommige wetenschappers veronderstellen dat bewegingen van platen het waterniveau van de zeeën op aarde kunnen wijzigen. Hoe zou de aard van de plaatbeweging de mogelijke veranderingen in het zeeniveau beperken?",
+    "option_a": "door alleen kleine veranderingen te veroorzaken",
+    "option_b": "door slechts enkele specifieke oceaandepressies te veranderen",
+    "option_c": "door veranderingen te veroorzaken die op zeer langzame snelheden plaatsvinden",
+    "option_d": "door gepaarde veranderingen te veroorzaken met gelijke en tegengestelde effecten"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7115395",
+    "answer": "A",
+    "instruction": "Welke veranderingen zullen waarschijnlijk een negatief effect hebben op een ecosysteem?",
+    "option_a": "het bouwen van een weg",
+    "option_b": "het planten van een boom",
+    "option_c": "het toevoegen van een zoetwaterbron",
+    "option_d": "het creëren van een natuurreservaat"
+  },
+  {
+    "id": "ARC-Challenge/validation/MSA_2013_8_3",
+    "answer": "D",
+    "instruction": "Geologen hebben zeven grote tektonische platen aan het oppervlak van de Aarde geïdentificeerd. Welk bewijs geeft het beste aan dat tektonische platen op elkaar botsen?",
+    "option_a": "Wind erodeert oppervlaktegesteenteformaties.",
+    "option_b": "Fossielen dateren van duizenden jaren geleden.",
+    "option_c": "Kleine rotsen blijven achter wanneer gletsjers zich terugtrekken.",
+    "option_d": "Oudere lagen gesteente bevinden zich boven nieuwere lagen gesteente."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7205135",
+    "answer": "C",
+    "instruction": "Hoe worden de deeltjes in een blok ijzer beïnvloed wanneer het blok wordt gesmolten?",
+    "option_a": "De deeltjes krijgen meer massa.",
+    "option_b": "De deeltjes bevatten minder energie.",
+    "option_c": "De deeltjes bewegen sneller.",
+    "option_d": "De deeltjes nemen in volume toe."
+  },
+  {
+    "id": "ARC-Challenge/validation/ACTAAP_2010_5_10",
+    "answer": "A",
+    "instruction": "Sara zet een zaklamp aan en houdt een voorwerp tegen het licht. Hoe kan ze zien of het voorwerp ondoorzichtig is?",
+    "option_a": "Er zal geen licht doorschijnen.",
+    "option_b": "Er zal enig licht worden gereflecteerd.",
+    "option_c": "Het licht zal onder een hoek buigen.",
+    "option_d": "Het licht zal duidelijk doorschijnen."
+  },
+  {
+    "id": "ARC-Challenge/validation/TIMSS_2003_8_pg29",
+    "answer": "E",
+    "instruction": "Welk van de volgende organen bevindt zich NIET in de buik?",
+    "option_a": "lever",
+    "option_b": "nier",
+    "option_c": "maag",
+    "option_d": "blaas",
+    "option_e": "hart"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7181685",
+    "answer": "A",
+    "instruction": "Het kenmerk voor bloemkleur is zeer variabel bij bepaalde soorten rozenplanten, wat leidt tot de vorming van bloemen in verschillende kleuren. Hoe is de variatie in bloemkleur bij rozenplanten ontstaan?",
+    "option_a": "door mutatie",
+    "option_b": "door bestuiving",
+    "option_c": "door natuurlijke selectie",
+    "option_d": "door ongeslachtelijke voortplanting"
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2011_5_20",
+    "answer": "D",
+    "instruction": "De sneeuwhaas werpt zijn vacht twee keer per jaar af. In de zomer is de vacht van de haas bruin. In de winter is de vacht wit. Welke van deze verklaringen legt het beste het voordeel van het afwerpen van vacht uit?",
+    "option_a": "Het afwerpen van vacht houdt de haas schoon.",
+    "option_b": "Het afwerpen van vacht helpt de haas snel bewegen.",
+    "option_c": "Het afwerpen van vacht houdt het huis van de haas warm.",
+    "option_d": "Het afwerpen van vacht helpt de haas zich te camoufleren in zijn habitat."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7008120",
+    "answer": "A",
+    "instruction": "Binaire sterren worden door wetenschappers gebruikt om de massa van een ster te bepalen.",
+    "option_a": "Massa.",
+    "option_b": "Helderheid.",
+    "option_c": "Afstand tot de Aarde.",
+    "option_d": "Afstand tot de Zon."
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_13",
+    "answer": "B",
+    "instruction": "Een jongen kan zijn gezicht zien als hij in een rustige vijver kijkt. Welke fysieke eigenschap van de vijver maakt dit mogelijk?",
+    "option_a": "flexibiliteit",
+    "option_b": "reflectiviteit",
+    "option_c": "temperatuur",
+    "option_d": "volume"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_1",
+    "answer": "B",
+    "instruction": "Een student heeft twee bonen in twee identieke potten geplant met hetzelfde type grond. Hij plaatste één pot in een kast en de andere bij een zonnig venster. Elke dag schonk hij 15 milliliter water in elke pot. Welke factor was anders voor de twee potten?",
+    "option_a": "hoeveelheid water",
+    "option_b": "hoeveelheid licht",
+    "option_c": "type grond",
+    "option_d": "type zaad"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7141698",
+    "answer": "B",
+    "instruction": "Wanneer er bliksem voorkomt, verwarmt het de omringende lucht. De hete lucht zet uit en produceert een donder. In welk soort energie wordt de energie van de bliksem omgezet om donder te produceren?",
+    "option_a": "zwaartekracht",
+    "option_b": "mechanisch",
+    "option_c": "nucleair",
+    "option_d": "stralend"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_407314",
+    "answer": "A",
+    "instruction": "Studenten van twee klassen hebben hetzelfde onderzoek uitgevoerd. Elke klas kreeg verschillende resultaten. Wat is de beste manier voor de studenten om te bepalen waarom de resultaten verschillend waren?",
+    "option_a": "Bekijk de stappen die tijdens het onderzoek zijn genomen.",
+    "option_b": "Verander de hypothese van het onderzoek.",
+    "option_c": "Onderzoek gegevens over vergelijkbare onderzoeken.",
+    "option_d": "Voer een ander onderzoek uit."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_406781",
+    "answer": "C",
+    "instruction": "Welke interactie tussen dieren controleert het beste de populatie van een soort?",
+    "option_a": "wilde dieren die hun territoria markeren",
+    "option_b": "remora-vissen die met haaien meereizen",
+    "option_c": "leeuwen die jagen op zebra's",
+    "option_d": "wolven die in groepen reizen"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400845",
+    "answer": "B",
+    "instruction": "Bliksem kan al deze vormen van energie produceren, behalve",
+    "option_a": "warmte-energie.",
+    "option_b": "zonne-energie.",
+    "option_c": "lichtenergie.",
+    "option_d": "elektrische energie."
+  },
+  {
+    "id": "ARC-Challenge/validation/ACTAAP_2009_5_5",
+    "answer": "B",
+    "instruction": "Janet heeft enkele mineralen gekregen om te identificeren. Een van haar monsters is geel. Welk van deze mineralen is waarschijnlijk het geelst?",
+    "option_a": "Talk",
+    "option_b": "Zwavel",
+    "option_c": "Gips",
+    "option_d": "Hematiet"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7171938",
+    "answer": "D",
+    "instruction": "De oceaantijden van de Aarde worden sterk beïnvloed door de Maan. Tijdens welke maanfasen zijn de oceaantijden op Aarde het laagst?",
+    "option_a": "volle maan en eerste kwartier",
+    "option_b": "volle maan en nieuwe maan",
+    "option_c": "laatste kwartier en nieuwe maan",
+    "option_d": "eerste kwartier en laatste kwartier"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415354",
+    "answer": "C",
+    "instruction": "Welk van deze gedragingen leert een dolfijn?",
+    "option_a": "kleine vissen eten",
+    "option_b": "zwemmen in zout water",
+    "option_c": "een bal op zijn neus balanceren",
+    "option_d": "ademen door zijn spuitgat"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_17",
+    "answer": "C",
+    "instruction": "Welke eigenschap zou een kat hoogstwaarschijnlijk van zijn ouders erven?",
+    "option_a": "een litteken hebben",
+    "option_b": "achter een speeltje aanjagen",
+    "option_c": "witte vacht hebben",
+    "option_d": "zijn naam kennen"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7251685",
+    "answer": "B",
+    "instruction": "Welke activiteit zorgt het meest effectief voor het goed functioneren van osteocyten?",
+    "option_a": "het verhogen van de ademhalingssnelheid",
+    "option_b": "het consumeren van mineralenrijke voedingsmiddelen",
+    "option_c": "het verminderen van stressvolle lichaamsbeweging",
+    "option_d": "het drinken van water dat vrij is van ionen"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7267995",
+    "answer": "C",
+    "instruction": "Sommige plantensoorten en diersoorten zijn van elkaar afhankelijk. Welk van deze dieren helpt duizenden plantensoorten zich voort te planten?",
+    "option_a": "eekhoorns",
+    "option_b": "regenwormen",
+    "option_c": "honingbijen",
+    "option_d": "kevers"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7193043",
+    "answer": "B",
+    "instruction": "Niet-inheemse planten kunnen gebieden overnemen die ooit bevolkt werden door inheemse plantensoorten. Welk abiotisch proces is het minst waarschijnlijk om de invasie van niet-inheemse planten te veroorzaken?",
+    "option_a": "overstroming",
+    "option_b": "verwering",
+    "option_c": "stofstormen",
+    "option_d": "smeltende gletsjers"
+  },
+  {
+    "id": "ARC-Challenge/validation/VASoL_2008_5_28",
+    "answer": "C",
+    "instruction": "Onderzeeërs hebben veel delen van de oceaan verkend. Naarmate onderzeeërs dalen, observeren wetenschappers dat er een toename is in de -",
+    "option_a": "hoeveelheid licht",
+    "option_b": "watertemperatuur",
+    "option_c": "waterdruk",
+    "option_d": "soorten oceaanorganismen"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7154263",
+    "answer": "B",
+    "instruction": "Fytoplanktonen zijn plantachtige microscopische organismen die drijven in waterlichamen zoals de oceaan. Ze nemen kooldioxide op tijdens het fotosyntheseproces. Wat zou het meest waarschijnlijk gebeuren als de populatie fytoplankton werd vernietigd?",
+    "option_a": "De zeetemperatuur zou afnemen.",
+    "option_b": "Broeikasgassen zouden toenemen.",
+    "option_c": "De atmosferische zuurstof zou toenemen.",
+    "option_d": "De zeespiegel zou drastisch afnemen."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7032743",
+    "answer": "C",
+    "instruction": "Welke karakteristiek van een cheeta is waarschijnlijker om te leren dan om geërfd te worden?",
+    "option_a": "snelheid",
+    "option_b": "een gevlekte vacht",
+    "option_c": "jachtstrategieën",
+    "option_d": "klauwen die niet intrekken"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_19",
+    "answer": "B",
+    "instruction": "Als kittens opgroeien tot katten, neemt hun lichaamsgewicht meestal toe.",
+    "option_a": "neemt af",
+    "option_b": "neemt toe",
+    "option_c": "blijft hetzelfde"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7115273",
+    "answer": "C",
+    "instruction": "Grote bloei van algen op het oppervlak van een meer voorkomt welke abiotische factor om de bodem te bereiken?",
+    "option_a": "water",
+    "option_b": "zout",
+    "option_c": "licht",
+    "option_d": "zuurstof"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7205555",
+    "answer": "A",
+    "instruction": "Water heeft veel unieke chemische eigenschappen. Welke eigenschap van water maakt het een goed oplosmiddel van kristallijne zouten?",
+    "option_a": "sterke polariteit",
+    "option_b": "zwakke geleidbaarheid",
+    "option_c": "hoge viscositeit",
+    "option_d": "lage pH"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7192990",
+    "answer": "A",
+    "instruction": "In veel gebieden komen bosbranden voor als gevolg van droogteomstandigheden. Als deze droogteomstandigheden gedurende een lange periode aanhouden, kan dit leiden tot bedreiging van welk aspect van herbevolking van bomen?",
+    "option_a": "een afname van de dikte van de bodem",
+    "option_b": "een afname van de hoeveelheid erosie",
+    "option_c": "een toename van de bacteriepopulatie",
+    "option_d": "een toename van de productie van zuurstof"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_408859",
+    "answer": "A",
+    "instruction": "Amerikaanse alligators komen veel voor in moerasgebieden in Florida. Ze staan ​​erom bekend kikkers, schildpadden, vissen, muizen en vogels te eten. Welke rol vervult een Amerikaanse alligator in zijn ecosysteem?",
+    "option_a": "consument",
+    "option_b": "ontleder",
+    "option_c": "aaseter",
+    "option_d": "producent"
+  },
+  {
+    "id": "ARC-Challenge/validation/TIMSS_2007_4_pg90",
+    "answer": "C",
+    "instruction": "Sue heeft gemeten hoeveel suiker oplost in een kopje koud water, een kopje warm water en een kopje heet water. Wat heeft ze waarschijnlijk waargenomen?",
+    "option_a": "Het koude water loste de meeste suiker op.",
+    "option_b": "Het warme water loste de meeste suiker op.",
+    "option_c": "Het hete water loste de meeste suiker op.",
+    "option_d": "Het koude water, het warme water en het hete water losten allemaal dezelfde hoeveelheid suiker op."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_180058",
+    "answer": "A",
+    "instruction": "Een fossiel dat in Colorado is ontdekt dateert uit het vroege Mesozoïcum. Een jaar later wordt er een vergelijkbaar fossiel gevonden in Wyoming dat ook uit het vroege Mesozoïcum dateert. Deze twee organismen hebben waarschijnlijk in dezelfde omgeving geleefd",
+    "option_a": "op ongeveer dezelfde tijd.",
+    "option_b": "op verschillende tijden in dezelfde omgeving.",
+    "option_c": "in verschillende omgevingen op ongeveer dezelfde tijd.",
+    "option_d": "in verschillende omgevingen en op verschillende tijden."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400050",
+    "answer": "C",
+    "instruction": "Wat gebeurt er als de temperatuur in huis koeler is dan de geselecteerde temperatuur op de thermostaat?",
+    "option_a": "De oven zal oververhit raken.",
+    "option_b": "De thermostaat zal warm worden.",
+    "option_c": "De oven zal automatisch aan gaan.",
+    "option_d": "De thermostaat zal een piepend geluid afgeven."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_1998_8_13",
+    "answer": "D",
+    "instruction": "Wat is geen belangrijk controversieel probleem dat geassocieerd wordt met het gebruik van nucleaire energie?",
+    "option_a": "de verwijdering van nucleair afval",
+    "option_b": "de gezondheidsrisico's in gebieden rondom nucleaire installaties",
+    "option_c": "de thermische vervuiling van waterlichamen gebruikt voor koeling",
+    "option_d": "de werkloosheid door conversie naar nucleaire energie"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_4",
+    "answer": "A",
+    "instruction": "Welke aggregatietoestand heeft geen definitieve volume en geen definitieve vorm?",
+    "option_a": "gas",
+    "option_b": "vloeistof",
+    "option_c": "vast"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7233678",
+    "answer": "A",
+    "instruction": "Wetenschappers geloven dat continentale drift over de geologische geschiedenis van de aarde een significante impact heeft gehad op de cycli van warmere en koelere klimaten van de aarde. Welke uitspraak beschrijft een kenmerk van de continenten van de aarde dat waarschijnlijk de wereldwijde klimaatveranderingen veroorzaakt wanneer de continenten afdrijven?",
+    "option_a": "De locatie van het continent beïnvloedt de oppervlaktereflectiviteit ervan.",
+    "option_b": "De diepte van de continentale plaat bepaalt de specifieke warmte.",
+    "option_c": "Continentale drift absorbeert grote hoeveelheden kinetische energie.",
+    "option_d": "De temperatuur van een continent wordt beïnvloed door het dichtstbijzijnde oceaan."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_LBS10666",
+    "answer": "B",
+    "instruction": "Planten hebben meestal geen andere organismen nodig om te eten omdat planten",
+    "option_a": "geen voedselenergie nodig hebben om te leven.",
+    "option_b": "zonlicht omzetten in voedselenergie.",
+    "option_c": "alle voedselenergie uit de bodem halen.",
+    "option_d": "voedselenergie in hun wortels opslaan."
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_8_38",
+    "answer": "A",
+    "instruction": "Een stof in de vaste fase (toestand) heeft",
+    "option_a": "een bepaalde vorm en een bepaald volume",
+    "option_b": "een bepaalde vorm, maar geen bepaald volume",
+    "option_c": "geen bepaalde vorm, maar wel een bepaald volume",
+    "option_d": "geen bepaalde vorm en geen bepaald volume"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2004_8_28",
+    "answer": "A",
+    "instruction": "Hoe zouden de meetbare eigenschappen van een golfbal veranderen als het van de Aarde naar de Maan werd verplaatst?",
+    "option_a": "Het zou dezelfde massa hebben, maar een ander gewicht.",
+    "option_b": "Het zou hetzelfde gewicht hebben, maar een andere massa.",
+    "option_c": "Het zou dezelfde dichtheid hebben, maar een andere massa.",
+    "option_d": "Het zou dezelfde massa hebben, maar een andere dichtheid."
+  },
+  {
+    "id": "ARC-Challenge/validation/LEAP__7_10354",
+    "answer": "D",
+    "instruction": "De wetenschapsleraar van Joanne waarschuwde de klas om sceptisch te zijn bij het leren over nieuwe wetenschappelijke ontdekkingen. Waarom is het belangrijk om sceptisch te zijn over nieuwe ontdekkingen in de wetenschap?",
+    "option_a": "omdat veel wetenschappelijke ontdekkingen niet zijn gebaseerd op feiten",
+    "option_b": "omdat de meeste wetenschappelijke ontdekkingen geen wetenschappelijke waarde hebben",
+    "option_c": "omdat de meeste wetenschappers fouten maken bij het formuleren van wetenschappelijke ontdekkingen",
+    "option_d": "omdat alle wetenschappelijke ontdekkingen kritisch moeten worden onderzocht voordat ze kunnen worden geaccepteerd"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2003_8_25",
+    "answer": "B",
+    "instruction": "Bij een auto, welke van onderstaande componenten is specifiek ontworpen om feedback aan de bestuurder te geven?",
+    "option_a": "stuur",
+    "option_b": "snelheidsmeter",
+    "option_c": "rempedaal",
+    "option_d": "autosleutel"
+  },
+  {
+    "id": "ARC-Challenge/validation/TIMSS_2011_8_pg63",
+    "answer": "C",
+    "instruction": "Wat is de definitie van een verbinding?",
+    "option_a": "verschillende stoffen gemengd",
+    "option_b": "atomen en moleculen gemengd",
+    "option_c": "atomen van verschillende elementen die gecombineerd zijn",
+    "option_d": "atomen van hetzelfde element die gecombineerd zijn"
+  },
+  {
+    "id": "ARC-Challenge/validation/AIMS_2009_4_29",
+    "answer": "D",
+    "instruction": "Een koelkast gebruikt elektriciteit om een koude plek te maken om voedsel op te slaan. Wat is het negatieve effect van het gebruik van een koelkast op het milieu?",
+    "option_a": "De elektriciteit die nodig is om voedsel koud te houden kan duur zijn.",
+    "option_b": "Als de elektriciteit uitvalt, zal het voedsel bederven en je ziek maken.",
+    "option_c": "Voedsel langer opslaan vermindert het aantal bezoeken aan de supermarkt en het gebruik van benzine.",
+    "option_d": "Oude koelkasten bevatten chemicaliën en nemen ruimte in op stortplaatsen."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_LBS10472",
+    "answer": "B",
+    "instruction": "Planten hebben gespecialiseerde weefsels aan het einde van hun stelen. Waar helpen deze weefsels de planten bij?",
+    "option_a": "voedsel verteren",
+    "option_b": "groeien",
+    "option_c": "voedsel maken",
+    "option_d": "water opnemen"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415491",
+    "answer": "C",
+    "instruction": "De Aarde draait eens per jaar om de Zon. Hoe vaak draait de maan ongeveer om de Aarde in een jaar?",
+    "option_a": "1",
+    "option_b": "7",
+    "option_c": "13",
+    "option_d": "28"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2011_5_17673",
+    "answer": "A",
+    "instruction": "Jose heeft twee staafmagneten. Hij duwt de uiteinden van de twee magneten tegen elkaar en laat dan los. De magneten bewegen snel uit elkaar. Welke van de volgende verklaringen legt het beste uit waarom dit gebeurt?",
+    "option_a": "De noordpolen van de twee magneten staan tegenover elkaar.",
+    "option_b": "Een magneet is een noordpool en een magneet is een zuidpool.",
+    "option_c": "De uiteinden van magneten stoten elkaar af, maar de centra trekken elkaar aan.",
+    "option_d": "Een magneet slaat energie op en een magneet geeft energie af."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_416648",
+    "answer": "A",
+    "instruction": "Zowel paramecium als volvox kunnen zich seksueel voortplanten. Hoe verschilt seksuele voortplanting bij volvox van die bij paramecium?",
+    "option_a": "Volvox kolonies produceren gameten.",
+    "option_b": "Volvox cellen ondergaan conjugatie.",
+    "option_c": "Volvox kolonies produceren ééncellige nakomelingen.",
+    "option_d": "Volvox cellen planten zich voort door vegetatieve spruiting."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7207620",
+    "answer": "A",
+    "instruction": "Sommige instrumenten registreren het zuurstofniveau in de ozonlaag van de atmosfeer van de aarde. Het bijhouden van een verslag van deze gegevens gedurende vele jaren is een voorbeeld van",
+    "option_a": "bewijs opbouwen door voortdurend onderzoek.",
+    "option_b": "het identificeren van een hypothese die de gegevens ondersteunt.",
+    "option_c": "conclusies trekken over bewijs uit resultaten.",
+    "option_d": "voorstellen van gegevens die gemakkelijk te begrijpen zijn."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7164850",
+    "answer": "A",
+    "instruction": "Een wetenschapsklas heeft een poster ontworpen om te laten zien hoe de barrière-eilanden langs de kustlijn van Florida zijn gevormd. De studenten lieten de effecten van wind, golven en getijden zien op het zand dat deze eilanden vormde. Op de poster moet het paar systemen staan dat volgens de studenten de grootste invloed had op de vorming van barrière-eilanden?",
+    "option_a": "de hydrosfeer en atmosfeer",
+    "option_b": "de atmosfeer en lithosfeer",
+    "option_c": "de biosfeer en hydrosfeer",
+    "option_d": "de lithosfeer en biosfeer"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7011270",
+    "answer": "B",
+    "instruction": "Hoe lang duurt het gemiddeld voordat de Maan één keer rond de Aarde draait?",
+    "option_a": "7 dagen",
+    "option_b": "30 dagen",
+    "option_c": "90 dagen",
+    "option_d": "365 dagen"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7090598",
+    "answer": "C",
+    "instruction": "Welk van deze processen houdt de overdracht van een grote hoeveelheid thermische energie in?",
+    "option_a": "erosie",
+    "option_b": "sedimentatie",
+    "option_c": "subductie",
+    "option_d": "cementatie"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_412337",
+    "answer": "D",
+    "instruction": "Tijdens een onderzoek werd warmte overgedragen van een vloeistof naar de omgeving. Welke combinatie van verklaringen kan dit het beste verklaren?",
+    "option_a": "De temperatuur van de vloeistof steeg, of de vloeistof veranderde in een gas.",
+    "option_b": "De temperatuur van de vloeistof steeg, of de vloeistof veranderde in een vaste stof.",
+    "option_c": "De temperatuur van de vloeistof daalde, of de vloeistof veranderde in een gas.",
+    "option_d": "De temperatuur van de vloeistof daalde, of de vloeistof veranderde in een vaste stof."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_1998_8_2",
+    "answer": "C",
+    "instruction": "De celstructuur die een plantencel stijver maakt dan een dierlijke cel is de",
+    "option_a": "celmembraan.",
+    "option_b": "cytoplasma.",
+    "option_c": "celwand.",
+    "option_d": "ribosoom."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7124338",
+    "answer": "D",
+    "instruction": "Een onderzoekende geest zou nuttig zijn voor een wetenschapper, omdat dit hem zou leiden naar",
+    "option_a": "meer creativiteit.",
+    "option_b": "het wantrouwen van het werk van andere wetenschappers.",
+    "option_c": "werk om gepubliceerde hypotheses te accepteren.",
+    "option_d": "onderzoek doen om theorieën te bevestigen of te weerleggen."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_405454",
+    "answer": "D",
+    "instruction": "Welk kookgereedschap verandert de omgeving het minst?",
+    "option_a": "gasgrill",
+    "option_b": "elektrische koekenpan",
+    "option_c": "magnetronoven",
+    "option_d": "zonnekoker"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7007875",
+    "answer": "B",
+    "instruction": "Wat is verantwoordelijk voor het creëren van wind?",
+    "option_a": "golfbeweging",
+    "option_b": "zonne-energie",
+    "option_c": "bomen die waaien",
+    "option_d": "zwaartekracht"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_417146",
+    "answer": "A",
+    "instruction": "Het grootste deel van de zuurstof in de atmosfeer wordt geproduceerd door algen. Waar leven de meeste algen?",
+    "option_a": "kust oceaan",
+    "option_b": "diepe oceaan",
+    "option_c": "vijvers",
+    "option_d": "meren"
+  },
+  {
+    "id": "ARC-Challenge/validation/LEAP_2004_8_10397",
+    "answer": "B",
+    "instruction": "Toen mensen op de Maan liepen, ontdekten ze dat ze hoger konden springen dan op Aarde. Waarom is dit waar?",
+    "option_a": "Er is geen atmosfeer op de Maan.",
+    "option_b": "De Maan oefent minder zwaartekracht uit dan de Aarde.",
+    "option_c": "Ruimtepakken hielpen hen hoger te springen.",
+    "option_d": "De Maan roteert sneller dan de Aarde."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_407695",
+    "answer": "D",
+    "instruction": "Juan en LaKeisha rollen een paar voorwerpen van een helling af. Ze willen zien welk voorwerp het verst rolt. Wat moeten ze doen om hun onderzoek te herhalen?",
+    "option_a": "Plaats de voorwerpen in groepen.",
+    "option_b": "Verander de hoogte van de helling.",
+    "option_c": "Kies andere voorwerpen om te rollen.",
+    "option_d": "Registreer de details van het onderzoek."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7158673",
+    "answer": "D",
+    "instruction": "Ana is een cross-country hardloper. Nadat ze een race had voltooid, merkte ze dat ze zich warm voelde door de vrijgave van thermische energie. Wat is de meest waarschijnlijke bron van thermische energie?",
+    "option_a": "wrijving van de lucht",
+    "option_b": "warmte die wordt geabsorbeerd van de zon",
+    "option_c": "mechanische energie die wordt geabsorbeerd",
+    "option_d": "energie conversies die zich voordoen in haar lichaam"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7018515",
+    "answer": "C",
+    "instruction": "De meest waarschijnlijke reden dat geluid sneller reist in zoutwater dan in zoetwater is dat zoutwater",
+    "option_a": "meer elastisch is.",
+    "option_b": "warmte sneller absorbeert.",
+    "option_c": "een hogere dichtheid heeft.",
+    "option_d": "geluid beter reflecteert."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_412551",
+    "answer": "D",
+    "instruction": "Screech uilen hebben twee kleurvarianten: rood en grijs. Welk voordeel heeft de grijze Screech uil ten opzichte van de rode Screech uil in een habitat die bestaat uit bomen met donkergekleurde schors?",
+    "option_a": "nestelen",
+    "option_b": "voeden",
+    "option_c": "fokken",
+    "option_d": "verbergen"
+  },
+  {
+    "id": "ARC-Challenge/validation/VASoL_2008_5_19",
+    "answer": "D",
+    "instruction": "Drie honkballers onderzoeken wie de bal het verst kan gooien. Ze markeren een gebied op het speelplein voor hun onderzoek. Wat moeten ze constant houden?",
+    "option_a": "Lengte van de spelers",
+    "option_b": "Kleur van de gegooide honkballen",
+    "option_c": "Volgorde waarin de spelers gooien",
+    "option_d": "Plek van waaruit de spelers gooien"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7120890",
+    "answer": "A",
+    "instruction": "Welke optie laat het best zien dat golven energie overdragen?",
+    "option_a": "een klok die luidt in een toren",
+    "option_b": "een blad dat van een boom valt",
+    "option_c": "een bal die een heuvel afrolt",
+    "option_d": "een vlag die beweegt in de wind"
+  },
+  {
+    "id": "ARC-Challenge/validation/AKDE&ED_2008_8_44",
+    "answer": "A",
+    "instruction": "Welke eigenschap is van toepassing op dieren in slechts één van deze taxonomische groepen: reptielen, zoogdieren, vogels, amfibieën of vissen?",
+    "option_a": "hebben haar",
+    "option_b": "leggen eieren",
+    "option_c": "hebben gezwollen voeten",
+    "option_d": "ademen met kieuwen"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415348",
+    "answer": "D",
+    "instruction": "Wat is een erfelijke eigenschap van een boom?",
+    "option_a": "een afgebroken tak aan een dennenboom",
+    "option_b": "een holte in een eikenboom",
+    "option_c": "een litteken op een esdoornboom",
+    "option_d": "een dikke stam van een pecannootboom"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7014368",
+    "answer": "C",
+    "instruction": "Langsstromingen zijn oceaangolven die stranden raken onder extreem kleine hoeken. In gebieden waar langsstromingen zijn, welk effect hebben ze op landgebieden?",
+    "option_a": "Ze bouwen bergen op.",
+    "option_b": "Ze veroorzaken aardbevingen.",
+    "option_c": "Ze verplaatsen zand, waardoor zandbanken ontstaan.",
+    "option_d": "Ze creëren binnenzeeën van zout water."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7245193",
+    "answer": "C",
+    "instruction": "Er is een landelijk gebied tot op de rots schoongemaakt voor de bouw van een weg, maar de weg is nooit gebouwd. Het gebied begon weer te groeien. Welke organismen verschenen waarschijnlijk als eerste?",
+    "option_a": "bomen",
+    "option_b": "struiken",
+    "option_c": "korstmossen en mossen",
+    "option_d": "onkruid en egelantier"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7251668",
+    "answer": "D",
+    "instruction": "Een daphnia populatie vertoont een verticale migratie van de bodem van een één meter diepe vijver overdag naar het oppervlak van de vijver 's nachts. Op welke factor reageert de daphnia populatie waarschijnlijk het meest?",
+    "option_a": "de pH-waarde van het water",
+    "option_b": "de helderheid van het water",
+    "option_c": "de druk van het water",
+    "option_d": "de temperatuur van het water"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2013_8_29421",
+    "answer": "A",
+    "instruction": "Wanneer het zweet van een persoon verdampt, voelt die persoon zich koeler. Welke van de volgende uitspraken beschrijft het best waarom zweten de persoon helpt zich koeler te voelen?",
+    "option_a": "Warmte wordt door zweet opgenomen wanneer het verdampt.",
+    "option_b": "Warmte wordt door het lichaam opgenomen wanneer zweet verdampt.",
+    "option_c": "De temperatuur van het water in zweet daalt wanneer het verdampt.",
+    "option_d": "De temperatuur van het water in het lichaam stijgt wanneer zweet verdampt."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7082145",
+    "answer": "D",
+    "instruction": "Hoe moet een lijndiagram worden gebruikt om afstands- en tijdgegevens voor een bewegend object weer te geven?",
+    "option_a": "De y-as moet worden gelabeld als tijd, wat de afhankelijke variabele is.",
+    "option_b": "De y-as moet worden gelabeld als afstand, wat de onafhankelijke variabele is.",
+    "option_c": "De x-as moet worden gelabeld als afstand, wat de afhankelijke variabele is.",
+    "option_d": "De x-as moet worden gelabeld als tijd, wat de onafhankelijke variabele is."
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2007_5_39",
+    "answer": "D",
+    "instruction": "Studenten leren over de natuurlijke hulpbronnen in Maryland. Een groep studenten onderzoekt informatie over hernieuwbare natuurlijke hulpbronnen in de staat. De andere groep onderzoekt informatie over niet-hernieuwbare natuurlijke hulpbronnen in de staat. De hulpbronnen die de studenten onderzoeken zijn onder andere planten, dieren, bodem, mineralen, water, steenkool, en olie. Welke van de volgende menselijke activiteiten heeft een negatief effect op een natuurlijke hulpbron?",
+    "option_a": "vissen in een meer",
+    "option_b": "water gebruiken om elektriciteit op te wekken",
+    "option_c": "inheemse planten planten langs de oever van een meer",
+    "option_d": "water afvoeren van akkerland in een meer"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_22",
+    "answer": "A",
+    "instruction": "De vacht van sommige dieren wordt dikker in de winter en wordt in het voorjaar afgestoten. Deze observaties tonen hoe dieren",
+    "option_a": "reageren op veranderingen in hun omgeving",
+    "option_b": "van plaats naar plaats bewegen om te overleven",
+    "option_c": "vet opslaan voor de winter",
+    "option_d": "concurreren met andere dieren voor voedsel"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7006790",
+    "answer": "B",
+    "instruction": "Wat verklaart het beste waarom ramen rammelen tijdens een onweersbui?",
+    "option_a": "elektrische energie",
+    "option_b": "geluidsenergie",
+    "option_c": "lichtenergie",
+    "option_d": "warmte-energie"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7284043",
+    "answer": "C",
+    "instruction": "Olifanten op de Afrikaanse savanne eten struiken en kleine bomen. Dit gedrag maakt het land vrij en maakt het mogelijk dat grassen groeien. Grazers zoals gazellen eten het gras. Leeuwen jagen op de gazellen. Welke twee organismen hebben de meest coöperatieve relatie in dit scenario?",
+    "option_a": "de olifanten en de struiken",
+    "option_b": "de struiken en de leeuwen",
+    "option_c": "de olifanten en de gazellen",
+    "option_d": "de gazellen en de leeuwen"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7175455",
+    "answer": "D",
+    "instruction": "In Australië kunnen de temperaturen in de middag stijgen tot meer dan 110ºF (43ºC). Om hun lichaam koel te houden, likken kangoeroes hun armen, waardoor er een dikke laag speeksel op komt. Als het speeksel verdampt, werkt het als een koelmechanisme en verlaagt het de lichaamstemperatuur van de kangoeroe. Welke term beschrijft deze activiteit het beste?",
+    "option_a": "natuurlijke selectie",
+    "option_b": "verdedigingsmechanisme",
+    "option_c": "structurele aanpassingen",
+    "option_d": "gedragsaanpassingen"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_401714",
+    "answer": "B",
+    "instruction": "Bij een laboratoriumexperiment testen studenten de identiteit van een onbekend poeder. Welke methode is het meest geschikt om het poeder naar een weegschaal te verplaatsen?",
+    "option_a": "veeg met een borstel op een overzetpapier",
+    "option_b": "scheppen met een labspatel op een overzetpapier",
+    "option_c": "knijpen met de vingers en optillen op overzetpapier",
+    "option_d": "giet uit de fles op een overzetpapier"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_409529",
+    "answer": "B",
+    "instruction": "Robert is een visser die een manier wil vinden om meer vis te vangen. Hij heeft besloten om verschillende groottes van haken te proberen. Robert heeft 4 meervallen, 3 forellen en 7 baarzen gevangen terwijl hij wormen als aas gebruikte. Wat is de onafhankelijke (gemanipuleerde) variabele in Robert's onderzoek?",
+    "option_a": "type aas",
+    "option_b": "grootte van de haak",
+    "option_c": "type gevangen vis",
+    "option_d": "aantal gevangen vis"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7223038",
+    "answer": "C",
+    "instruction": "Er zijn veel maten en kleuren van sterren. Welke van de volgende beschrijft het beste de categorie waarin de zon zou worden geplaatst?",
+    "option_a": "Blauwe superreuzensterren",
+    "option_b": "Rode reuzensterren",
+    "option_c": "Gele hoofdreekssterren",
+    "option_d": "Witte dwergsterren"
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2008_5_24",
+    "answer": "C",
+    "instruction": "Veel natuurlijke hulpbronnen worden gevonden in Maryland en de omliggende gebieden. Sommige van deze natuurlijke hulpbronnen zijn hernieuwbaar en sommige zijn niet-hernieuwbaar. Mensen gebruiken beide soorten bronnen in dagelijkse activiteiten. Het gebruik van natuurlijke hulpbronnen leidt vaak tot afvalproducten. Recyclingcentra zijn de plaatsen waar mensen materialen naartoe brengen die hergebruikt kunnen worden om nieuwe producten te maken. Hoe heeft het recyclen van papier een positief effect op het milieu?",
+    "option_a": "vermindert luchtvervuiling",
+    "option_b": "verhoogt bodemerosie",
+    "option_c": "vermindert het aantal gekapte bomen",
+    "option_d": "verhoogt de vernietiging van leefgebieden"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2010_5_11998",
+    "answer": "A",
+    "instruction": "Een ochtendglorie is een soort bloeiende wijnstok die bomen en hekken beklimt. Welk van de volgende gedragingen helpt het meest bij het beklimmen van een hek voor een ochtendglorie plant?",
+    "option_a": "stengels die krullen als reactie op aanraking",
+    "option_b": "stengels die zwellen als reactie op water",
+    "option_c": "bloemen die openen als reactie op licht",
+    "option_d": "wortels die groeien als reactie op zwaartekracht"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7139493",
+    "answer": "B",
+    "instruction": "Wat is waarschijnlijk het meest verantwoordelijk voor het vermogen van chinch bugs om herhaaldelijke blootstelling aan insecticiden te overleven?",
+    "option_a": "soortendiversiteit",
+    "option_b": "genetische diversiteit",
+    "option_c": "ecosysteemdiversiteit",
+    "option_d": "populatiediversiteit"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_14",
+    "answer": "A",
+    "instruction": "Zonnepanelen worden gebruikt om zonlicht op te vangen. Welke kleur paneel zou het meeste zonlicht opvangen?",
+    "option_a": "zwart",
+    "option_b": "groen",
+    "option_c": "wit",
+    "option_d": "geel"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2006_9_35",
+    "answer": "A",
+    "instruction": "Welke van de volgende genetische aandoeningen ontstaat als gevolg van een probleem met segregatie?",
+    "option_a": "Trisomie 16: een aandoening die ontstaat wanneer een zygote drie exemplaren van chromosoom 16 ontvangt",
+    "option_b": "Huntington's ziekte: een aandoening die ontstaat wanneer een zygote een gemuteerd dominant allel ontvangt",
+    "option_c": "Hemofilie: een aandoening die ontstaat wanneer een zygote een X-chromosoom ontvangt met een bepaald recessief allel",
+    "option_d": "Sikkelcelanemie: een aandoening die ontstaat wanneer een zygote van elk ouder een recessief allel voor hemoglobine ontvangt"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2015_8_7",
+    "answer": "B",
+    "instruction": "Een student verwarmt twee pannen water op een fornuis met de hoogste stand. Een pan bevat 1 L water en de andere pan bevat 3 L water. De student verwarmt elke pan totdat het water kookt. Welke van de volgende uitspraken beschrijft het beste wat er met het water in de pannen gebeurt?",
+    "option_a": "Het water in beide pannen kookt tegelijkertijd.",
+    "option_b": "Het water in beide pannen kookt bij dezelfde temperatuur.",
+    "option_c": "De 3 L water wordt heter dan de 1 L water voordat het kookt.",
+    "option_d": "De 3 L water neemt sneller warmte op dan de 1 L water."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7115063",
+    "answer": "A",
+    "instruction": "Wat is het meest waarschijnlijk om een wetland-ecosysteem te verstoren?",
+    "option_a": "bouw van een woonwijk",
+    "option_b": "planten van inheemse wilde bloemen",
+    "option_c": "een periode van zware regenval",
+    "option_d": "een blikseminslag"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7144795",
+    "answer": "D",
+    "instruction": "Een bepaald leefgebied heeft de afgelopen 75 jaar veel veranderingen in de milieuomstandigheden ondergaan. Wat is het meest waarschijnlijke kenmerk van een soort die de beste kans heeft om te overleven bij deze veranderingen van milieuomstandigheden?",
+    "option_a": "een populatie met veel individuen",
+    "option_b": "grote soortendiversiteit in de huidige gemeenschap",
+    "option_c": "aanpassingen die individuen in staat stellen om in een verscheidenheid aan omstandigheden te leven",
+    "option_d": "gedragingen die de ontwikkeling van aanpassingen in nieuwe omgevingen bevorderen"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_400934",
+    "answer": "C",
+    "instruction": "Volgens het Periodiek Systeem der Elementen, welke groep elementen heeft vergelijkbare eigenschappen?",
+    "option_a": "H, C, I",
+    "option_b": "He, H, Al",
+    "option_c": "He, Ne, Ar",
+    "option_d": "Na, Ca, Al"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7004410",
+    "answer": "B",
+    "instruction": "Een beperking van voedselwebben bij het weergeven van een ecosysteem is dat ze niet",
+    "option_a": "producenten in het ecosysteem omvatten.",
+    "option_b": "alle soorten in het ecosysteem omvatten.",
+    "option_c": "consumenten in het ecosysteem tonen.",
+    "option_d": "roofdier-prooi relaties in het ecosysteem tonen."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7029505",
+    "answer": "C",
+    "instruction": "Hoe verschillen bloedtypen van elkaar in de ABO-bloedclassificatie?",
+    "option_a": "verschillende groottes van rode bloedcellen",
+    "option_b": "verschillende groottes van witte bloedcellen",
+    "option_c": "verschillende markeringsproteïnen op rode bloedcellen",
+    "option_d": "verschillende markeringsproteïnen op witte bloedcellen"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_LBS10598",
+    "answer": "A",
+    "instruction": "Een ijsblokje smelt en verdampt dan. Het ijsblokje en de waterdamp hebben dezelfde",
+    "option_a": "massa.",
+    "option_b": "dichtheid.",
+    "option_c": "volume.",
+    "option_d": "temperatuur."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7245893",
+    "answer": "B",
+    "instruction": "Welk deel van het spijsverteringssysteem zorgt als eerste voor chemische veranderingen aan voedsel?",
+    "option_a": "tanden in de mond",
+    "option_b": "speeksel in de mond",
+    "option_c": "enzymen in de maag",
+    "option_d": "enzymen in de dunne darm"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7246925",
+    "answer": "D",
+    "instruction": "Leucine is een van de aminozuren die je lichaam nodig heeft maar niet kan maken. Wat gebeurt er zodat het menselijk lichaam leucine kan verkrijgen?",
+    "option_a": "Het lichaam zet andere aminozuren om in leucine.",
+    "option_b": "Het lichaam slaat koolhydraten met leucine op.",
+    "option_c": "Het lichaam breekt vetzuren af om leucine te verkrijgen.",
+    "option_d": "Het lichaam verteert eiwitrijk voedsel om leucine te verkrijgen."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7138688",
+    "answer": "D",
+    "instruction": "Welke procedure helpt het beste om te bepalen of een onderzoek wetenschappelijk geldig is?",
+    "option_a": "aantekeningen bijhouden over de staat van de apparatuur die wordt gebruikt bij de procedure",
+    "option_b": "een onderzoek uitvoeren met een groep mensen",
+    "option_c": "de procedure grondig een keer uitvoeren",
+    "option_d": "een onderzoek meerdere keren herhalen"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_408700",
+    "answer": "C",
+    "instruction": "Emily maakte een kopje thee en roerde het met een lepel. De lepel werd warm. Hoe werd de warmte van de thee overgedragen op de lepel?",
+    "option_a": "convectie",
+    "option_b": "straling",
+    "option_c": "geleiding",
+    "option_d": "verdamping"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7100608",
+    "answer": "B",
+    "instruction": "De familie van Michael bouwt een nieuw huis. Ze willen graag elektriciteit gebruiken die wordt opgewekt door hernieuwbare energiebronnen. Welke van deze energiebronnen zou de familie helpen om dit doel te bereiken?",
+    "option_a": "benzinemotor",
+    "option_b": "zonnepanelen op het dak",
+    "option_c": "kolencentrale",
+    "option_d": "kerncentrale"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7133648",
+    "answer": "C",
+    "instruction": "Welke taak in de keuken is een voorbeeld van een fysieke verandering?",
+    "option_a": "een ei bakken",
+    "option_b": "een cake bakken",
+    "option_c": "boter smelten",
+    "option_d": "brood roosteren"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_401244",
+    "answer": "D",
+    "instruction": "Welk type gesteente is het meest nuttig bij het bestuderen van de geschiedenis van levende organismen?",
+    "option_a": "basalt",
+    "option_b": "marmer",
+    "option_c": "graniet",
+    "option_d": "kalksteen"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_400397",
+    "answer": "C",
+    "instruction": "Welk van deze gedragingen heeft een beer waarschijnlijk geleerd vanuit zijn leefomgeving?",
+    "option_a": "water drinken",
+    "option_b": "vis eten",
+    "option_c": "deksels van vuilnisbakken openen",
+    "option_d": "haar jongen beschermen"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7245088",
+    "answer": "D",
+    "instruction": "Wat beschrijft de samenstelling van koolhydraten?",
+    "option_a": "lipiden die zich verbinden om fosfolipiden te vormen",
+    "option_b": "monomeren die zich verbinden om polymeren te vormen",
+    "option_c": "aminozuren die zich verbinden om polypeptiden te vormen",
+    "option_d": "sachariden die zich verbinden om polysachariden te vormen"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_408809",
+    "answer": "C",
+    "instruction": "Bij muizen vertoont een bepaalde soort onvolledige dominantie in vachtkleuring. De nakomelingen van een zwarte (BB) muis en een witte (bb) muis zijn grijze (Bb) muizen. Een kruising tussen twee grijze muizen zal waarschijnlijk nakomelingen produceren met welk percentage aan vachtkleuren?",
+    "option_a": "25% zwart, 75% grijs",
+    "option_b": "25% grijs, 75% wit",
+    "option_c": "25% wit, 25% zwart, 50% grijs",
+    "option_d": "25% grijs, 25% zwart, 50% wit"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7068863",
+    "answer": "C",
+    "instruction": "Een student onderzocht het effect van ijzer op de groei van planten. Vier identieke planten ontvingen een verschillende hoeveelheid ijzersupplement tijdens het water geven. Dit onderzoek had verbeterd kunnen worden als er",
+    "option_a": "regenwormen in de grond zaten.",
+    "option_b": "minder planten in het experiment waren.",
+    "option_c": "planten waren die water ontvingen zonder ijzersupplementen.",
+    "option_d": "planten waren die verschillende hoeveelheden zonlicht ontvingen."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7166880",
+    "answer": "D",
+    "instruction": "Clay bekijkt het weer om zich voor te bereiden op een reis naar het strand morgen. De voorspelling voorspelt dat een lagedruksysteem 's nachts zal binnenkomen. Welk soort weer kan Clay het meest waarschijnlijk verwachten in de ochtend?",
+    "option_a": "mistig",
+    "option_b": "zonnig",
+    "option_c": "helder en kouder",
+    "option_d": "bewolkt en regenachtig"
+  },
+  {
+    "id": "ARC-Challenge/validation/ACTAAP_2007_7_25",
+    "answer": "A",
+    "instruction": "Wat is geen veiligheidsregel voor het scheikunde lab?",
+    "option_a": "Meet vloeistoffen nauwkeurig af in een maatglas.",
+    "option_b": "Snijd nooit objecten terwijl je ze in je handen houdt.",
+    "option_c": "Draag veiligheidsbril bij het hanteren van gevaarlijke stoffen.",
+    "option_d": "Bij geuren, beweeg dampen naar je neus in plaats van je gezicht over de bron te houden."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7018445",
+    "answer": "D",
+    "instruction": "Door welk materiaal zou geluid het snelst reizen?",
+    "option_a": "kurk",
+    "option_b": "water",
+    "option_c": "lucht",
+    "option_d": "staal"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7033653",
+    "answer": "C",
+    "instruction": "Wat is de beste eenheid om afstanden tussen de Aarde en andere zonnestelsels in het universum te meten?",
+    "option_a": "mijlen",
+    "option_b": "kilometers",
+    "option_c": "lichtjaar",
+    "option_d": "astronomische eenheden"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2006_5_29",
+    "answer": "D",
+    "instruction": "Vier staven van gelijke dikte maar gemaakt van verschillende metalen werden getest met gelijke gewichten om te zien welke het meest flexibel was. Wat is de beste manier om de resultaten van dit experiment te rapporteren?",
+    "option_a": "een lijst van elk type gebruikte staaf",
+    "option_b": "een schets van elke staaf vóór het testen",
+    "option_c": "een tabel met daarin het gewicht van elke staaf",
+    "option_d": "een staafgrafiek die laat zien hoeveel elke staaf boog"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7159268",
+    "answer": "A",
+    "instruction": "Na de laatste ijstijd veroorzaakte het smelten van de pool- en bergijskappen het stijgen van de waterniveaus van de oceanen. Wat is het meest waarschijnlijke gevolg van het stijgen van de oceaanniveaus?",
+    "option_a": "toename van het zoutgehalte van bestaande kustmoerassen",
+    "option_b": "toename van het aantal organismen in bestaande riffen",
+    "option_c": "afname van het aantal getijden per dag",
+    "option_d": "afname van de diepte van de oceaanbodem"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_400885",
+    "answer": "D",
+    "instruction": "Welke vergelijking is een gebalanceerde chemische vergelijking?",
+    "option_a": "2NaOH + CaBr_{2} -> Ca(OH)_{2} + NaBr",
+    "option_b": "NO + Cl_{2} -> NOCl",
+    "option_c": "CaCO_{3} -> CaO + 2CO_{2}",
+    "option_d": "2AlCl_{3} + 3Mg -> 3MgCl_{2} + 2Al"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7038273",
+    "answer": "A",
+    "instruction": "Tijdens het uitvoeren van een experiment verzamelt een student verschillende watertemperaturen, twee massa metingen en drie volume metingen. Wat is de beste manier om deze gegevens te organiseren?",
+    "option_a": "in een tabel",
+    "option_b": "in een grafiek",
+    "option_c": "in een geschreven verhaal",
+    "option_d": "geïllustreerd met afbeeldingen"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_407574",
+    "answer": "A",
+    "instruction": "Welk gas wordt afgegeven door producenten dat consumenten binnenkrijgen om te overleven?",
+    "option_a": "zuurstof",
+    "option_b": "stikstof",
+    "option_c": "waterdamp",
+    "option_d": "kooldioxide"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_1998_4_8",
+    "answer": "B",
+    "instruction": "Waar zou het MEEST gevaarlijk zijn om met elektrisch gereedschap te werken?",
+    "option_a": "in een garage",
+    "option_b": "naast een zwembad",
+    "option_c": "in de buurt van een televisie of computer",
+    "option_d": "in een koele kelder"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7128695",
+    "answer": "C",
+    "instruction": "Een wetenschapper doet een ontdekking tijdens een onderzoek, maar slaagt er niet in om duidelijke aantekeningen te maken van de uitgevoerde tests. Op welke manier heeft het niet bijhouden van verslagen invloed op het werk van een wetenschapper?",
+    "option_a": "Het maakt de procedures en conclusies ongeldig.",
+    "option_b": "Het maakt de verkregen gegevens in de studie onjuist.",
+    "option_c": "Het voorkomt dat andere wetenschappers de resultaten valideren.",
+    "option_d": "Het verbiedt andere wetenschappers om nieuwe hypotheses te ontwikkelen."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400178",
+    "answer": "C",
+    "instruction": "Welk mengsel kan worden gescheiden in zijn ingrediënten?",
+    "option_a": "aardappelchips",
+    "option_b": "chocoladetaart",
+    "option_c": "vruchtsalade",
+    "option_d": "roerei"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7189823",
+    "answer": "A",
+    "instruction": "Een vulkaan barst uit en bedekt het omliggende gebied met lava en vulkanische as. Naarmate het ecosysteem begint te herstellen, welk type plant zal hoogstwaarschijnlijk als eerste het land koloniseren in het gebied rond de uitbarsting?",
+    "option_a": "mos",
+    "option_b": "wilde bloemen",
+    "option_c": "hardhouten bomen",
+    "option_d": "groenblijvende struiken"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_412683",
+    "answer": "D",
+    "instruction": "Wat is de snelheid van een 2-Hz golf met een golflengte van 10 m?",
+    "option_a": "5 m/s",
+    "option_b": "8 m/s",
+    "option_c": "12 m/s",
+    "option_d": "20 m/s"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_184258",
+    "answer": "A",
+    "instruction": "Welke van de volgende stroomkenmerken heeft de meeste directe invloed op sedimentatie in stromen?",
+    "option_a": "steilheid",
+    "option_b": "hoogte",
+    "option_c": "basisniveau",
+    "option_d": "waterkwaliteit"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_192168",
+    "answer": "D",
+    "instruction": "Wetenschappelijke modellen zijn zeer gebruikelijk. Voor welk doel hieronder zou een fysiek model het minst nuttig zijn?",
+    "option_a": "het simuleren van wetenschappelijke verschijnselen",
+    "option_b": "het vereenvoudigen van een complex idee",
+    "option_c": "het mogelijk maken van visualisatie",
+    "option_d": "het weergeven van gegevens"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_LBS10399",
+    "answer": "D",
+    "instruction": "Een microscoop vergroot een object met een vergroting van 50x. Hoe lang is het object als het beeld 0,5 cm lang lijkt?",
+    "option_a": "100 cm",
+    "option_b": "25 cm",
+    "option_c": "2,5 cm",
+    "option_d": "0,01 cm"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7228603",
+    "answer": "C",
+    "instruction": "Wat is het resultaat van de uitwisseling van homologe delen van chromosomen tijdens het proces van meiose?",
+    "option_a": "willekeurige mutaties",
+    "option_b": "verminderd aantal gameten",
+    "option_c": "nakomelingen met unieke combinaties van eigenschappen",
+    "option_d": "verminderd aantal allelen op elk chromosoom"
+  },
+  {
+    "id": "ARC-Challenge/validation/MEA_2013_5_3",
+    "answer": "D",
+    "instruction": "De Zon wordt ingedeeld als een ster. Welk kenmerk identificeert de Zon als een ster?",
+    "option_a": "De Zon draait om zijn as.",
+    "option_b": "De Zon bevindt zich buiten de Melkweg.",
+    "option_c": "De Zon is onderdeel van de Grote Beer.",
+    "option_d": "De Zon produceert licht en energie in een nucleaire reactie."
+  },
+  {
+    "id": "ARC-Challenge/validation/NCEOGA_2013_8_38",
+    "answer": "C",
+    "instruction": "In de winter is de vacht van de poolvos wit. In de zomer wordt de vacht donkerder en krijgt het een roodbruine kleur. Wat is hoogstwaarschijnlijk de oorzaak van de kleurverandering van de vacht van de vos?",
+    "option_a": "de hoeveelheid aanwezig zonlicht",
+    "option_b": "de leefomgeving van de vos",
+    "option_c": "de genen van de vos",
+    "option_d": "de leeftijd van de vos"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7221095",
+    "answer": "A",
+    "instruction": "Welk van deze is een abiotisch element in een ecosysteem?",
+    "option_a": "de gemiddelde jaarlijkse neerslag in het ecosysteem",
+    "option_b": "de soorten producenten die in het ecosysteem worden gevonden",
+    "option_c": "de omvang van een predatorpopulatie in het ecosysteem",
+    "option_d": "de micro-organismen die in de bodem van het ecosysteem leven"
+  },
+  {
+    "id": "ARC-Challenge/validation/MEAP_2005_5_1",
+    "answer": "C",
+    "instruction": "Waterdamp bestaat in de atmosfeer als ___.",
+    "option_a": "een zichtbaar gas",
+    "option_b": "een zichtbare vloeistof",
+    "option_c": "een onzichtbaar gas",
+    "option_d": "een onzichtbare vloeistof"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_406939",
+    "answer": "C",
+    "instruction": "Op welke manier kan een stuk papier een chemische verandering ondergaan?",
+    "option_a": "vouw het papier doormidden",
+    "option_b": "week het papier in water",
+    "option_c": "verbrand het papier met vuur",
+    "option_d": "snijd het papier met een schaar"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7219415",
+    "answer": "C",
+    "instruction": "Welk voorbeeld is een functie van het selectief doorlaatbare membraan van een cel?",
+    "option_a": "het ondersteunen van de vorm van de cel",
+    "option_b": "het produceren van eiwitten voor de cel",
+    "option_c": "het beperken van chemicaliën die uit de cel diffunderen",
+    "option_d": "het opslaan van afvalproducten voor de cel"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_1999_8_22",
+    "answer": "B",
+    "instruction": "Welke soort brug maakt gebruik van kabels voor ondersteuning?",
+    "option_a": "een liggerbrug",
+    "option_b": "een hangbrug",
+    "option_c": "een balkbrug",
+    "option_d": "een uitkragende brug"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2006_9_33",
+    "answer": "D",
+    "instruction": "Cheetahs zijn dichtbij uitsterving gekomen vanwege jacht, droogte en ziekte. Er is nu heel weinig genetische variatie in cheetahpopulaties. Wat is het resultaat van de beperkte genetische variatie in de huidige cheetahpopulaties vergeleken met eerdere cheetahpopulaties met meer variatie?",
+    "option_a": "Cheetahs in de huidige populaties zijn meer bestand tegen nieuwe ziektes.",
+    "option_b": "De overlevingskans van jonge cheetahs is toegenomen in de huidige populaties.",
+    "option_c": "Cheetahs in de huidige populaties zijn minder in staat om met andere soorten te paren.",
+    "option_d": "De huidige cheetahpopulaties zijn minder in staat om zich aan te passen aan milieuveranderingen."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7135310",
+    "answer": "C",
+    "instruction": "Waarom is de uitvoerenergie van een machine altijd minder dan de invoerenergie?",
+    "option_a": "Sommige energie gaat verloren terwijl de machine werkt.",
+    "option_b": "De machine moet de constante kracht van magnetisme overwinnen.",
+    "option_c": "De nuttige energie neemt af naarmate energie wordt overgedragen aan de omgeving.",
+    "option_d": "Sommige energie wordt vrijgegeven als warmte bij conversie."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_414131",
+    "answer": "C",
+    "instruction": "Welke beschrijving geldt voor alle elementen?",
+    "option_a": "Alle elementen zijn metalen.",
+    "option_b": "Alle elementen hebben zes elektronen.",
+    "option_c": "Alle elementen zijn zuivere stoffen.",
+    "option_d": "Alle elementen bestaan in de vaste fase."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7112753",
+    "answer": "B",
+    "instruction": "Om een keverpopulatie te lokaliseren, moeten wetenschappers een zeer gespecialiseerd stuk apparatuur gebruiken. Welke factor zou waarschijnlijk het vermogen om kevers te lokaliseren het meest beperken?",
+    "option_a": "klimaat",
+    "option_b": "kosten",
+    "option_c": "steekproefgrootte",
+    "option_d": "politiek"
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2009_5_16",
+    "answer": "D",
+    "instruction": "Studenten hebben de Morris W. Offit-telescoop bezocht die zich bevindt in het Maryland Space Grant Observatory in Baltimore. Ze leerden over de sterren, planeten en maan. De studenten hebben de onderstaande informatie vastgelegd. • Sterpatronen blijven hetzelfde, maar hun locaties aan de hemel lijken te veranderen. • De zon, planeten en maan lijken te bewegen aan de hemel. • Proxima Centauri is de dichtstbijzijnde ster bij ons zonnestelsel. • Polaris is een ster die deel uitmaakt van een patroon van sterren genaamd de Kleine Beer. Welke verklaring geeft het beste antwoord op de vraag waarom de zon elke dag lijkt te bewegen over de hemel?",
+    "option_a": "De zon draait om de aarde.",
+    "option_b": "De aarde draait om de zon.",
+    "option_c": "De zon draait om zijn as.",
+    "option_d": "De aarde draait om zijn as."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7236023",
+    "answer": "B",
+    "instruction": "Een luchtmassa bevindt zich op een hoogte van 1000 meter in het lagedrukgebied van een storm op het noordelijk halfrond. Wat beschrijft het beste de beweging van luchtpartikels in deze luchtmassa als gevolg van stormomstandigheden en de rotatie van de aarde terwijl de luchtmassa naar buiten beweegt?",
+    "option_a": "Luchtpartikels bewegen omhoog en naar links.",
+    "option_b": "Luchtpartikels bewegen omhoog en naar rechts.",
+    "option_c": "Luchtpartikels bewegen omlaag en naar links.",
+    "option_d": "Luchtpartikels bewegen omlaag en naar rechts."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7270008",
+    "answer": "C",
+    "instruction": "Bij oppervlaktemijnbouw voor kolen worden alle vegetatie en rots boven de te delven kolen verwijderd. Welke twee van de Aardse subsystemen worden het meest direct beïnvloed door oppervlaktemijnbouw?",
+    "option_a": "lithosfeer en atmosfeer",
+    "option_b": "biosfeer en hydrosfeer",
+    "option_c": "lithosfeer en biosfeer",
+    "option_d": "atmosfeer en hydrosfeer"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7099768",
+    "answer": "D",
+    "instruction": "Wanneer een bowlingbal uit de hand van een bowler wordt vrijgegeven, wordt de energie in de bal gedeeltelijk",
+    "option_a": "opgeslagen in de bal totdat deze de pinnen raakt.",
+    "option_b": "verhoogd wanneer er wrijving wordt toegepast op de bal.",
+    "option_c": "omgezet van kinetische energie in gravitationele potentiële energie.",
+    "option_d": "omgezet in warmte en geluid wanneer deze in contact komt met de vloer."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7269238",
+    "answer": "D",
+    "instruction": "Dieselmotoren kunnen veel soorten brandstof verbranden. Welke brandstof zou de meest hernieuwbare brandstof zijn voor een dieselmotor?",
+    "option_a": "conventionele dieselbrandstof",
+    "option_b": "gedistilleerde kerosine",
+    "option_c": "op conventionele wijze geproduceerde plantaardige olie",
+    "option_d": "op organische wijze geproduceerde plantaardige olie"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7187915",
+    "answer": "A",
+    "instruction": "Amanda en Jake hebben geleerd over kinetische en potentiële vormen van energie binnen een eenvoudig elektrisch circuit. Het circuit dat ze bestuderen heeft een batterij, draden en een gloeilamp. Wat is een vorm van potentiële energie in het circuit?",
+    "option_a": "chemische energie in de batterij",
+    "option_b": "lichtenergie van de gloeilamp",
+    "option_c": "warmte-energie verloren van elektrische draden",
+    "option_d": "elektrische energie die door de gloeilamp beweegt"
+  },
+  {
+    "id": "ARC-Challenge/validation/OHAT_2011_8_3",
+    "answer": "D",
+    "instruction": "Welke actie toont een chemische verandering?",
+    "option_a": "Lang haar wordt geknipt en gedroogd.",
+    "option_b": "Een houten potlood wordt geslepen en breekt.",
+    "option_c": "Een ijsklontje smelt en wordt een heldere vloeistof.",
+    "option_d": "Een ijzeren spijker wordt oranje en schilferig aan de oppervlakte."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7159775",
+    "answer": "A",
+    "instruction": "Janette voert een onderzoek uit om te zien welke voedingsmiddelen haar vermoeider maken. Ze eet gedurende vier dagen elke dag op hetzelfde tijdstip één van de vier verschillende voedingsmiddelen en legt vervolgens vast hoe ze zich voelt. Ze vraagt ​​haar vriendin Carmen hetzelfde onderzoek te doen om te zien of ze vergelijkbare resultaten krijgt. Wat maakt het onderzoek het moeilijkst te repliceren?",
+    "option_a": "het meten van de hoeveelheid vermoeidheid",
+    "option_b": "ervoor zorgen dat dezelfde voedingsmiddelen worden gegeten",
+    "option_c": "observaties in hetzelfde schema opnemen",
+    "option_d": "ervoor zorgen dat de voedingsmiddelen dezelfde temperatuur hebben"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_402239",
+    "answer": "C",
+    "instruction": "Wat is de beste manier om natuurlijke hulpbronnen in huis te conserveren?",
+    "option_a": "Gooi alle glas in de vuilnisbak.",
+    "option_b": "Gebruik papieren handdoeken om morsen op te ruimen.",
+    "option_c": "Verkort de tijd die je besteedt aan het nemen van een douche.",
+    "option_d": "Geef elke dag water aan het gras."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_184013",
+    "answer": "C",
+    "instruction": "Welke van de volgende zou het minst destructief zijn voor het land?",
+    "option_a": "een aardbeving van magnitude 7.2",
+    "option_b": "een tropische stormvloed",
+    "option_c": "een elektrische storm",
+    "option_d": "een vulkaanuitbarsting"
+  },
+  {
+    "id": "ARC-Challenge/validation/NCEOGA_2013_8_4",
+    "answer": "D",
+    "instruction": "Wat verklaart het best waarom de totale massa van het product of de producten na een chemische reactie minder zou zijn dan het totale gewicht van de reactant of reactanten?",
+    "option_a": "Er heeft een fysieke verandering plaatsgevonden.",
+    "option_b": "De atomen die bij de reactie betrokken zijn, verloren massa.",
+    "option_c": "Neerslag werd gevormd in de nieuwe oplossing.",
+    "option_d": "Er werden gassen vrijgegeven in de atmosfeer."
+  },
+  {
+    "id": "ARC-Challenge/validation/ACTAAP_2013_7_17",
+    "answer": "D",
+    "instruction": "Een groep wil erachter komen of het aantal watervogels dat door Arkansas vliegt elk jaar verandert. Welke methode moeten ze gebruiken om deze informatie te verzamelen?",
+    "option_a": "Vang zoveel mogelijk vogels in één jaar. Verzamel gegevens over de locatie van elke vogel.",
+    "option_b": "Tel op de eerste dag van de lente volgend jaar het aantal vogels bij het grootste meer in de staat. Vergelijk de gegevens met vorig jaar.",
+    "option_c": "Plaats een waarnemer op een locatie op de staatsgrens. Laat die persoon de vogels tellen terwijl ze de staat binnen vliegen. Doe dit gedurende twee jaar.",
+    "option_d": "Kies één dag per jaar tijdens de migratie. Tel het aantal vogels op tien verschillende meren in de staat. Doe dit op dezelfde dag elk jaar gedurende tien jaar."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7183015",
+    "answer": "A",
+    "instruction": "Een recent artikel in een wetenschappelijk tijdschrift legt de relatie uit tussen convectiestromen en platentektoniek. Als vloeistof in de mantel circuleert, veroorzaakt het verplaatsing van de aardkorstplaten. Wat veroorzaakt waarschijnlijk het circuleren van de vloeistoffen binnenin de aarde?",
+    "option_a": "energieoverdrachten",
+    "option_b": "opwarming van de aarde",
+    "option_c": "getijvariaties",
+    "option_d": "oceaanstromingen"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2014_8_17",
+    "answer": "D",
+    "instruction": "Welke van de volgende is een voorbeeld van aseksuele voortplanting?",
+    "option_a": "Schildpadden leggen bevruchte eieren in een kuil in het zand.",
+    "option_b": "Zaden vormen zich in dennenappels nadat stuifmeel de kegels bereikt.",
+    "option_c": "Vis laat eicellen en zaadcellen vrij aan het oppervlak van het water.",
+    "option_d": "Bomen sturen wortelachtige uitlopers uit die nieuwe stengels produceren."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_401286",
+    "answer": "B",
+    "instruction": "Veel bedreigde dieren worden gevangen genomen, getagd en weer vrijgelaten in hun omgeving. De tag kan een stuk gecodeerd plastic of metaal zijn dat op een veilige plek op het lichaam wordt geplaatst. Wat is de meest waarschijnlijke reden om een dier te taggen?",
+    "option_a": "om hun eetgewoonten te monitoren",
+    "option_b": "om hun zwerfgewoonten te monitoren",
+    "option_c": "om hun slaapgewoonten te monitoren",
+    "option_d": "om hun voortplantingsgewoonten te monitoren"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7207358",
+    "answer": "C",
+    "instruction": "Hoe kan de moderne theorie van het atoom het beste beschreven worden?",
+    "option_a": "de experimenten van John Dalton in het begin van de 19e eeuw",
+    "option_b": "de discussies tussen twee belangrijke wetenschappers",
+    "option_c": "het onderzoek van vele wetenschappers gedurende vele jaren",
+    "option_d": "de ideeën over atomen van Democritus meer dan 2000 jaar geleden"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7015435",
+    "answer": "A",
+    "instruction": "Wat zijn de producten van een reactie tussen een sterke zuur en een sterke base?",
+    "option_a": "een zout en water",
+    "option_b": "twee verschillende elementen",
+    "option_c": "een zwak zuur en een zwakke base",
+    "option_d": "waterstofionen en hydroxide-ionen"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7044678",
+    "answer": "A",
+    "instruction": "Wat is de beste verklaring van wat er met een blad gebeurt als het nodige water verliest?",
+    "option_a": "De turgordruk neemt af.",
+    "option_b": "De atmosferische druk neemt af.",
+    "option_c": "De transpiratiesnelheid neemt toe.",
+    "option_d": "De fotosynthesesnelheid neemt toe."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_400905",
+    "answer": "D",
+    "instruction": "De Zon staat ongeveer 1,5 x 10^8 km van de Aarde. De snelheid van het licht is 3,0 x 10^8 m/sec. Wat is de afstand van de Zon naar de Aarde in licht-seconden?",
+    "option_a": "2,0 licht-seconden",
+    "option_b": "0,5 licht-seconden",
+    "option_c": "2,0 x 10^-3 licht-seconden",
+    "option_d": "5,0 x 10^2 licht-seconden"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_LBS10040",
+    "answer": "D",
+    "instruction": "Wat produceert fotosynthese dat de groei van planten helpt?",
+    "option_a": "water",
+    "option_b": "zuurstof",
+    "option_c": "proteïne",
+    "option_d": "suiker"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_8_41",
+    "answer": "D",
+    "instruction": "Bij een auto-ongeluk helpt een veiligheidsgordel blessures voorkomen door een kracht uit te oefenen.",
+    "option_a": "minder dan de kracht van de bewegende passagier",
+    "option_b": "meer dan de kracht van de bewegende auto",
+    "option_c": "in dezelfde richting als de beweging van de auto",
+    "option_d": "in tegengestelde richting van de beweging van de passagier"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7141908",
+    "answer": "C",
+    "instruction": "Wetenschappers hebben een nieuwe soort van een complex organisme gevonden op de bodem van de oceaan. Het organisme is hoogstwaarschijnlijk",
+    "option_a": "een eencellige.",
+    "option_b": "een vorm van bacteriën.",
+    "option_c": "gemaakt van meerdere cellen.",
+    "option_d": "ontbreekt een georganiseerde kern."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_406029",
+    "answer": "D",
+    "instruction": "Voor een wetenschappelijke activiteit moest Mia elke avond een afbeelding van de maan tekenen. Als Mia een nieuwe maan tekende, wat voor soort maan tekende Mia ongeveer een week later?",
+    "option_a": "bolle maan",
+    "option_b": "volle maan",
+    "option_c": "nieuwe maan",
+    "option_d": "eerste kwartier"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7105123",
+    "answer": "C",
+    "instruction": "Fossiele records geven aan dat soortveranderingen over het algemeen",
+    "option_a": "stoppen wanneer een soort gevormd wordt.",
+    "option_b": "versnellen bij stabiele omstandigheden.",
+    "option_c": "plaatsvinden gedurende vele generaties.",
+    "option_d": "onafhankelijk zijn van het milieu."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400339",
+    "answer": "C",
+    "instruction": "Welke uitspraak is geen reden waarom bomen op verschillende hoogtes groeien in een bos?",
+    "option_a": "Sommige hebben minder zonlicht nodig dan anderen.",
+    "option_b": "De bomen werden in verschillende jaren geplant.",
+    "option_c": "Vogels bouwen nesten in de kortere bomen.",
+    "option_d": "De hogere bomen hebben alleen bladeren op de bovenste takken."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415366",
+    "answer": "B",
+    "instruction": "Bomen hebben zuurstof nodig. Wortels dicht bij het oppervlak van de grond nemen de zuurstof op die de boom nodig heeft. Welke organismen helpen bomen aan zuurstof?",
+    "option_a": "spechten die gaten in de boom maken",
+    "option_b": "regenwormen die gaten in de grond maken nabij de boom",
+    "option_c": "paddenstoelen die groeien aan de basis van de boom",
+    "option_d": "eekhoorns die walnoten eten op de grond nabij de boom"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7168123",
+    "answer": "B",
+    "instruction": "Anita rende rondjes op de atletiekbaan van haar school. Aan het einde van haar run nam ze meer lucht in haar longen en was haar hartslag verhoogd. Welke systemen reguleren de ademhalingssnelheid en hartslag van Anita?",
+    "option_a": "spier- en skeletstelsel",
+    "option_b": "zenuw- en hormoonstelsel",
+    "option_c": "spijsverterings- en uitscheidingsstelsel",
+    "option_d": "ademhalings- en bloedsomloopstelsel"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7141400",
+    "answer": "A",
+    "instruction": "Een boer plant ieder jaar mais op een veld gedurende meerdere jaren. Elk jaar merkt hij op dat zijn opbrengst aan mais per acre is afgenomen, hoewel de weersomstandigheden zeer vergelijkbaar zijn gebleven. Welke verandering in welke abiotische factor veroorzaakt waarschijnlijk de afname van de opbrengst van mais?",
+    "option_a": "afname van bodemvoedingsstoffen",
+    "option_b": "toename van neerslag",
+    "option_c": "toename van windsnelheid",
+    "option_d": "afname van zonlicht"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2012_8_23636",
+    "answer": "D",
+    "instruction": "Welk van de volgende processen kost meestal de meeste tijd?",
+    "option_a": "Hete lava koelt af en vormt nieuwe rots.",
+    "option_b": "Waterdamp condenseert om een wolk te vormen.",
+    "option_c": "Een seismische golf beweegt door de mantel.",
+    "option_d": "Een oceaanbekken vormt zich tussen twee continenten."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_406705",
+    "answer": "B",
+    "instruction": "De klas van Anna telde het aantal vlinders in de schooltuin voor een opdracht. Anna's resultaten waren anders dan de rest van de klas. Wat moet ze doen?",
+    "option_a": "Verander de opdracht.",
+    "option_b": "Laat de resultaten ongewijzigd.",
+    "option_c": "Pas haar resultaten aan op die van de klas.",
+    "option_d": "Vraag de leraar om voor haar te tellen."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7186148",
+    "answer": "B",
+    "instruction": "Een student mengt een kopje warme chocolademelk met een lepel. Hoe wordt de warmte overgedragen tussen de warme chocolademelk en het deel van de lepel dat in de warme chocolademelk zit?",
+    "option_a": "Geleiding transporteert energie van de lepel naar de warme chocolademelk.",
+    "option_b": "Geleiding transporteert energie van de warme chocolademelk naar de lepel.",
+    "option_c": "Convectie transporteert energie van de lepel naar de warme chocolademelk.",
+    "option_d": "Convectie transporteert energie van de warme chocolademelk naar de lepel."
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_28",
+    "answer": "B",
+    "instruction": "Grote vogels hebben kleine dieren in een gebied gegeten. Als alle grote vogels aan een ziekte zouden sterven, zou het aantal kleine dieren in het gebied waarschijnlijk",
+    "option_a": "afnemen",
+    "option_b": "toenemen",
+    "option_c": "hetzelfde blijven"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7005478",
+    "answer": "B",
+    "instruction": "De lichaamstemperatuur van de mens is relatief constant. Welk terugkoppelmechanisme helpt het menselijk lichaam om zijn normale temperatuur te handhaven in een koude omgeving?",
+    "option_a": "Water wordt vrijgegeven door de huid.",
+    "option_b": "Spieren schudden in kleine bewegingen.",
+    "option_c": "De hartslag vertraagt.",
+    "option_d": "De longen nemen extra lucht op."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2009_8_5",
+    "answer": "D",
+    "instruction": "Wat zou het meest effectief zijn om de luchtverkeerscongestie op een drukke luchthaven te verminderen?",
+    "option_a": "prestatiefeedback geven aan piloten",
+    "option_b": "vluchtinformatie verschaffen aan passagiers",
+    "option_c": "het aantal vliegtuigen op de luchthaven verhogen",
+    "option_d": "het aantal landingsbanen op de luchthaven verhogen"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7037573",
+    "answer": "D",
+    "instruction": "Wat is de beste praktijk om te volgen bij het uitvoeren van een experiment?",
+    "option_a": "voorzichtig zijn bij het hanteren van hete glaswerk",
+    "option_b": "branders uitschakelen wanneer u ze niet gebruikt",
+    "option_c": "laboratoriumprocedures bestuderen voordat u het experiment uitvoert",
+    "option_d": "overleggen met uw leraar over de procedure voor het afvoeren van chemicaliën"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2012_5_8",
+    "answer": "B",
+    "instruction": "Cameron gaat op zoek naar een nieuw bureau. Hij wil er zeker van zijn dat het bureau in de hoek van zijn kamer past. Welke van de volgende opties helpt Cameron het beste om ervoor te zorgen dat het bureau past?",
+    "option_a": "een afbeelding waarop het tapijt in zijn kamer te zien is",
+    "option_b": "een diagram van de afmetingen van zijn kamer",
+    "option_c": "een tekening die laat zien hoe hij het bureau in elkaar moet zetten",
+    "option_d": "een lijst met gereedschap dat hij nodig heeft om het bureau in elkaar te zetten"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7092295",
+    "answer": "C",
+    "instruction": "Welke actie creëert concurrentie tussen milieubelangen en economische winsten?",
+    "option_a": "bescherming van bedreigde diersoorten",
+    "option_b": "herintroductie van dieren in hun natuurlijke leefomgeving",
+    "option_c": "gebruik van bosgrond om woningen te bouwen",
+    "option_d": "gebruik van stadsbussen voor vervoer"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7131828",
+    "answer": "C",
+    "instruction": "In veel tropische gebieden kunnen muggen een parasiet dragen die een besmettelijke ziekte bij mensen kan veroorzaken. Wat beschrijft het best dit type relatie tussen muggen en mensen?",
+    "option_a": "roofdier-prooi",
+    "option_b": "competitie om middelen",
+    "option_c": "biotische factoren die op elkaar inwerken",
+    "option_d": "energieoverdracht tussen producent en consument"
+  },
+  {
+    "id": "ARC-Challenge/validation/TIMSS_2003_8_pg31",
+    "answer": "B",
+    "instruction": "Fannen kan een houtvuur heter doen branden omdat het fannen",
+    "option_a": "het voedsel heet genoeg maakt om te branden",
+    "option_b": "meer zuurstof toevoegt die nodig is om te branden",
+    "option_c": "de hoeveelheid hout vergroot die er te branden is",
+    "option_d": "de energie levert die nodig is om het vuur gaande te houden"
+  },
+  {
+    "id": "ARC-Challenge/validation/ACTAAP_2007_7_5",
+    "answer": "B",
+    "instruction": "Er wordt een experiment uitgevoerd met een afgesloten container. De container begint met een temperatuur van 70 graden Fahrenheit en een luchtdruk van 20 psi. De container wordt verwarmd en de druk in de container stijgt gelijkmatig met de temperatuur. Als de container weer wordt afgekoeld tot 70 graden Fahrenheit, wat zal dan de luchtdruk zijn?",
+    "option_a": "10 psi",
+    "option_b": "20 psi",
+    "option_c": "30 psi",
+    "option_d": "40 psi"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7120908",
+    "answer": "D",
+    "instruction": "Een zweefvliegtuig is een vliegtuig zonder motor. Naast grootte, wat zijn de belangrijkste overwegingen bij het ontwerpen van een zweefvliegtuig om grote afstanden te overbruggen?",
+    "option_a": "Milieu-impact en massa",
+    "option_b": "Kosten en milieu-impact",
+    "option_c": "Sterkte en kosten",
+    "option_d": "Massa en sterkte"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_180443",
+    "answer": "C",
+    "instruction": "Welke fase van de maan volgt op een wasemende gibbous?",
+    "option_a": "afnemende gibbous",
+    "option_b": "wasemende sikkel",
+    "option_c": "volle maan",
+    "option_d": "nieuwe maan"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7238963",
+    "answer": "A",
+    "instruction": "Een gespleten kin bij mensen wordt gecodeerd door het dominante allel C. Een kin zonder een spleet wordt gecodeerd door het recessieve allel c. Een man met een cc allelcombinatie voor het kenmerk produceert een zygote met een vrouw met een Cc allelcombinatie voor het kenmerk. Welke allelcombinaties kunnen voorkomen in de zygote?",
+    "option_a": "Cc of cc",
+    "option_b": "CC of Cc",
+    "option_c": "Alleen CC",
+    "option_d": "Alleen Cc"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_184765",
+    "answer": "B",
+    "instruction": "Wat zal hoogstwaarschijnlijk het resultaat zijn van het kappen van grote aaneengesloten bosgebieden?",
+    "option_a": "Het percentage zuurstof boven het gebied zal toenemen.",
+    "option_b": "De hoeveelheid erosie binnen het gebied zal toenemen.",
+    "option_c": "De diversiteit van soorten in het gebied zal toenemen.",
+    "option_d": "De bodemvoedingsstoffen in het gebied zullen toenemen."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7235813",
+    "answer": "D",
+    "instruction": "Koolstof circuleert door verschillende reservoirs op aarde. De tijd die het kost om deze reservoirs te vormen verschilt enorm. Welk proces in de koolstofcyclus neemt miljoenen jaren in beslag om het aangegeven reservoir te vormen?",
+    "option_a": "opname van koolstof door spijsvertering in dierlijke weefsels",
+    "option_b": "afgifte van koolstof in de atmosfeer tijdens het ademen",
+    "option_c": "atmosferische koolstof opgenomen in suikers in planten",
+    "option_d": "afbraak van koolstof in plantenweefsels om olie te vormen"
+  },
+  {
+    "id": "ARC-Challenge/validation/OHAT_2007_5_24",
+    "answer": "B",
+    "instruction": "Hoe helpen afbrekers andere organismen te overleven in een bos?",
+    "option_a": "Ze geven zuurstof vrij in de lucht die dieren inademen.",
+    "option_b": "Ze zetten voedingsstoffen in de bodem die planten gebruiken om te groeien.",
+    "option_c": "Ze bieden schuilplaatsen in bossen waar dieren kunnen verbergen.",
+    "option_d": "Ze gebruiken zonlicht om voedsel te maken voor planten en dieren."
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2007_8_15",
+    "answer": "C",
+    "instruction": "Menselijke acties beïnvloeden het milieu. Welke menselijke actie heeft de kleinste invloed op het milieu?",
+    "option_a": "het verbranden van een bos",
+    "option_b": "het verbranden van fossiele brandstoffen",
+    "option_c": "het graven van een nieuwe stortplaats",
+    "option_d": "het besproeien van gewassen met chemicaliën"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7162838",
+    "answer": "D",
+    "instruction": "Laboratoriumratten kregen supplementen van bosbessen, aardbeien of spinazie samen met hun reguliere voedsel. Na acht weken werden de ratten gegeven geheugen- en motorische vaardigheidstests. De ratten die het bosbessensupplement kregen, vertoonden de meeste verbetering. Wat is het onafhankelijke (gemanipuleerde) variabele van het onderzoek?",
+    "option_a": "de motorische vaardigheidstest",
+    "option_b": "het verouderingsproces",
+    "option_c": "de geheugentest",
+    "option_d": "de supplementen"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_405973",
+    "answer": "B",
+    "instruction": "Op een klein eiland leven verschillende soorten vogels. Een storm vernietigt het merendeel van de planten waar de vogels van leven en hun nesten bouwen. Welke soort vogel heeft waarschijnlijk de grootste overlevingskans op het eiland?",
+    "option_a": "de vogels die in de grootste aantallen voorkomen",
+    "option_b": "de vogels die het meest in staat zijn om zich aan te passen",
+    "option_c": "de vogels die het verst kunnen vliegen",
+    "option_d": "de vogels met de sterkste snavels"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2000_8_10",
+    "answer": "B",
+    "instruction": "Welke uitspraak is een mening?",
+    "option_a": "Veel planten zijn groen.",
+    "option_b": "Veel planten zijn mooi.",
+    "option_c": "Planten hebben zonlicht nodig.",
+    "option_d": "Planten kunnen op verschillende plaatsen groeien."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7103180",
+    "answer": "B",
+    "instruction": "Welk biome heeft de meeste vegetatie?",
+    "option_a": "woestijn",
+    "option_b": "bos",
+    "option_c": "grasland",
+    "option_d": "toendra"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7221865",
+    "answer": "C",
+    "instruction": "Een groep studenten heeft waargenomen dat er belletjes ontstonden toen water kookte. Wat is er met de materie gebeurd als gevolg van de fysieke verandering van het water?",
+    "option_a": "Er is nieuwe materie gecreëerd in de belletjes.",
+    "option_b": "Oude materie werd vernietigd toen het water in gas veranderde.",
+    "option_c": "Materie werd geconserveerd toen het van vorm veranderde.",
+    "option_d": "De samenstelling van de materie veranderde."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7242743",
+    "answer": "D",
+    "instruction": "Eiwitten die worden gesynthetiseerd in ribosomale subeenheden ondergaan uitgebreide post-translationele modificatie en worden verpakt en gericht naar de juiste bestemming. Welk structureel onderdeel van een cel is betrokken bij een dergelijke modificatie?",
+    "option_a": "endoplasmatisch reticulum",
+    "option_b": "lysosomen",
+    "option_c": "mitochondriën",
+    "option_d": "Golgi-apparaat"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7103565",
+    "answer": "C",
+    "instruction": "Hogedruksystemen voorkomen dat lucht in de koudere regionen van de atmosfeer stijgt waar water kan condenseren. Wat is het meest waarschijnlijke resultaat als een hogedruksysteem gedurende langere tijd op een gebied blijft?",
+    "option_a": "mist",
+    "option_b": "regen",
+    "option_c": "droogte",
+    "option_d": "tornado"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415541",
+    "answer": "D",
+    "instruction": "Welk van deze objecten zal waarschijnlijk het meest drijven in water?",
+    "option_a": "glazen knikker",
+    "option_b": "stalen bal",
+    "option_c": "harde rubberen bal",
+    "option_d": "tafeltennisbal"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_9",
+    "answer": "A",
+    "instruction": "Een student haalt een ijsblokjesbakje uit de vriezer en plaatst het op een tafel. De ijsblokjes zijn vast en koud. De student vergeet het ijsblokjesbakje terug in de vriezer te plaatsen. De volgende dag moeten de ijsblokjes",
+    "option_a": "vloeibaar en warmer zijn",
+    "option_b": "vast en warmer zijn",
+    "option_c": "vloeibaar en kouder zijn",
+    "option_d": "vast en kouder zijn"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7097318",
+    "answer": "D",
+    "instruction": "Een eekhoorn liet een eikel vallen van een tak van een eikenboom. Wat zal er veranderen wanneer de eikel van de boom naar de grond valt?",
+    "option_a": "de massa van de eikel",
+    "option_b": "de kracht op de eikel",
+    "option_c": "de dichtheid van de eikel",
+    "option_d": "de snelheid van de eikel"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_8_20",
+    "answer": "B",
+    "instruction": "De vergelijking hieronder toont de producten die worden gevormd wanneer een oplossing van zilvernitraat (AgNO3) reageert met een oplossing van natriumchloride (NaCl). AgNO3 \u0002+ NaCl (Reactanten) -> NaNO3 \u0002+ AgCl (Producten) In deze vergelijking is de totale massa van de reactanten",
+    "option_a": "groter dan de totale massa van de producten",
+    "option_b": "gelijk aan de totale massa van de producten",
+    "option_c": "gelijk aan de massa van AgCl",
+    "option_d": "kleiner dan de massa van AgCl"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415397",
+    "answer": "C",
+    "instruction": "Welke verandering zorgt voor een structuur op het oppervlak van de Aarde?",
+    "option_a": "Een overstroming laat mensen een stad verlaten.",
+    "option_b": "Een aardbeving veroorzaakt golven in een veld.",
+    "option_c": "Een vulkaan maakt nieuwe land met lava.",
+    "option_d": "Een aardverschuiving in een baai veroorzaakt een vloedgolf."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7246348",
+    "answer": "A",
+    "instruction": "Welk kenmerk ontstaat niet als gevolg van het uiteendrijven van tektonische platen?",
+    "option_a": "trog",
+    "option_b": "riftvallei",
+    "option_c": "oceaanbodem",
+    "option_d": "mid-oceanische rug"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7270200",
+    "answer": "A",
+    "instruction": "Wetenschappers hebben uitgelegd hoe aminozuren, koolhydraten, nucleïnezuren en vetzuren allemaal op aarde gesynthetiseerd konden worden voordat levende organismen verschenen. Wat van de volgende ontdekkingen zou het meest de bewering ondersteunen dat leven spontaan ontstond uit deze biochemische stoffen?",
+    "option_a": "Deze chemicaliën kunnen zichzelf samenvoegen tot een structuur die zichzelf kan repliceren.",
+    "option_b": "Deze chemicaliën worden vandaag de dag door levende organismen gebruikt.",
+    "option_c": "Deze chemicaliën worden op een andere planeet gevonden.",
+    "option_d": "Deze chemicaliën kunnen zichzelf samenvoegen tot een virus."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415026",
+    "answer": "C",
+    "instruction": "Welke dieren worden waarschijnlijk het meest geholpen door overstromingen in een kustgebied?",
+    "option_a": "herten",
+    "option_b": "wasberen",
+    "option_c": "krokodillen",
+    "option_d": "coyotes"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7143518",
+    "answer": "D",
+    "instruction": "Bevers staan bekend om het bouwen van dammen over rivieren en beekjes door bomen om te hakken en takjes en struiken te verzamelen. De populatie van bevers in de Verenigde Staten is afgenomen als gevolg van vangen door mensen. Wat is een ecologisch gevolg dat waarschijnlijk optreedt bij een afname van de beverpopulatie?",
+    "option_a": "een significante afname van vispopulaties",
+    "option_b": "een significante toename van bos-ecosystemen",
+    "option_c": "een significante toename van waterverdamping",
+    "option_d": "een significante afname van het aantal vijverhabitats"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7032340",
+    "answer": "D",
+    "instruction": "Van de vermelde keuzes, wat vertegenwoordigt de natuurlijke wereld met behulp van een model?",
+    "option_a": "het lezen van een boek over een prairiehondengemeenschap",
+    "option_b": "het bekijken van een afbeelding van een prairiehondengemeenschap",
+    "option_c": "onderzoek doen naar een prairiehondengemeenschap met behulp van internet",
+    "option_d": "het observeren van een prairiehondengemeenschap in een tentoonstelling in de dierentuin"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_415263",
+    "answer": "C",
+    "instruction": "Wat wordt er aangetroffen in een eukaryotische cel, maar niet in een prokaryotische cel?",
+    "option_a": "DNA",
+    "option_b": "cytoplasma",
+    "option_c": "een kern",
+    "option_d": "een celmembraan"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7090720",
+    "answer": "B",
+    "instruction": "Ethanol is een alternatieve brandstof gemaakt van maïs. Wat is een van de ongunstige effecten van het gebruik van ethanol als brandstof?",
+    "option_a": "verlaagde kosten van brandstofproductie",
+    "option_b": "afname van de beschikbare landbouwgrond voor voedselproductie",
+    "option_c": "toename van het verbruik van fossiele brandstoffen",
+    "option_d": "verhoogde CO2-uitstoot door het rijden van auto's"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_410964",
+    "answer": "D",
+    "instruction": "Studenten onderzoeken hoe een deurbel werkt. Wat is waarschijnlijk een observatie die tijdens het onderzoek is gedaan?",
+    "option_a": "Alle deurbellen maken mooie geluiden.",
+    "option_b": "Een batterij is de beste energiebron voor een deurbel.",
+    "option_c": "De meeste mensen geven de voorkeur aan het gebruik van een deurbel in plaats van kloppen.",
+    "option_d": "De deurbel gebruikt een stukje draad dat om een magneet is gewikkeld."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7057313",
+    "answer": "A",
+    "instruction": "Hartspierweefsel kan het best worden beschreven als",
+    "option_a": "dezelfde soort cellen die samenwerken.",
+    "option_b": "verschillende systemen die samenwerken.",
+    "option_c": "dezelfde soort organen die een systeem vormen.",
+    "option_d": "verschillende organen die een functie uitvoeren."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_402101",
+    "answer": "D",
+    "instruction": "Welke kenmerken kunnen zowel op Aarde als op de Maan worden gevonden?",
+    "option_a": "planten",
+    "option_b": "oceaan",
+    "option_c": "dieren",
+    "option_d": "bergen"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2010_8_12010",
+    "answer": "C",
+    "instruction": "Sommige soorten bacteriën produceren een stof die giftig is voor insecten, maar onschadelijk voor mensen. Wetenschappers hebben het gen geïsoleerd dat de productie van deze stof controleert. Wat is de beste reden om dit gen in maïsplanten te plaatsen?",
+    "option_a": "De maïs zal sneller groeien.",
+    "option_b": "Er zal minder mest nodig zijn.",
+    "option_c": "Er zullen minder pesticiden nodig zijn.",
+    "option_d": "De maïs zal voedzamer zijn."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7038133",
+    "answer": "B",
+    "instruction": "Een student plant een onderzoek om de snelheden van verschillende ballen te berekenen terwijl ze over een helling naar beneden rollen. Welk stuk informatie is het minst nodig voor de student om op te nemen?",
+    "option_a": "de grootte van elke bal",
+    "option_b": "de dikte van de helling",
+    "option_c": "de lengte van de helling",
+    "option_d": "de tijd die de bal nodig heeft om te reizen"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_407169",
+    "answer": "D",
+    "instruction": "Als een habitat met een kleine vijver gedurende een lange droogteperiode gaat, wat is dan het meest waarschijnlijk dat er gebeurt met veel van de vissen in de vijver?",
+    "option_a": "Ze zouden zich aanpassen aan de droge omgeving.",
+    "option_b": "Ze zouden leven van andere bronnen van water.",
+    "option_c": "Ze zouden naar een andere habitat verhuizen.",
+    "option_d": "Ze zouden niet kunnen overleven."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7103215",
+    "answer": "C",
+    "instruction": "Een student wil het effect van knoflook op de groei van een schimmelsoort bepalen. Verschillende monsters van schimmelculturen worden gekweekt in dezelfde hoeveelheid agar en licht. Elk monster krijgt een andere hoeveelheid knoflook. Wat is de onafhankelijke variabele in dit onderzoek?",
+    "option_a": "hoeveelheid agar",
+    "option_b": "hoeveelheid licht",
+    "option_c": "hoeveelheid knoflook",
+    "option_d": "hoeveelheid groei"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2013_8_29432",
+    "answer": "B",
+    "instruction": "Welk van de volgende onderdelen van een plantencel heeft een functie die het meest lijkt op de functie van een dierlijk skelet?",
+    "option_a": "celmembraan",
+    "option_b": "celwand",
+    "option_c": "chloroplast",
+    "option_d": "kern"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7018008",
+    "answer": "A",
+    "instruction": "Hoe kan de elektrische eigenschap van een atoom het beste worden beschreven?",
+    "option_a": "neutraal",
+    "option_b": "geïsoleerd",
+    "option_c": "positief geladen",
+    "option_d": "negatief geladen"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7166530",
+    "answer": "B",
+    "instruction": "Ira moest na school een laboratoriumonderzoek verzinnen. Hij kreeg de benodigde materialen, chemicaliën, apparatuur en beschermende kleding van zijn leraar. Hij voerde voorzichtig en snel de stappen uit volgens de geschreven experimentele procedure. Om tijd te besparen besloot hij zijn waarnemingen en resultaten later op te nemen. Wat zal waarschijnlijk het meest negatief worden beïnvloed door zijn beslissing?",
+    "option_a": "het vermogen om de instructies te volgen",
+    "option_b": "het vermogen om een geldig rapport te schrijven",
+    "option_c": "het vermogen om veiligheidsvoorschriften op te volgen",
+    "option_d": "het vermogen om een conclusie te trekken"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400047",
+    "answer": "B",
+    "instruction": "Een student liet op een hete dag een reep chocolade in de zon liggen. Welke eigenschap veranderde toen de chocolade smolt?",
+    "option_a": "zijn massa",
+    "option_b": "zijn vorm",
+    "option_c": "zijn gewicht",
+    "option_d": "zijn samenstelling"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7044100",
+    "answer": "C",
+    "instruction": "Op welke manier kunnen bodemvoedingsstoffen in landbouwgrond worden uitgeput?",
+    "option_a": "overbegrazing",
+    "option_b": "winderosie",
+    "option_c": "verhoogde irrigatie",
+    "option_d": "verhoogde bemesting"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7075145",
+    "answer": "A",
+    "instruction": "Welk van deze processen maakt het mogelijk voor cellen om water op te nemen?",
+    "option_a": "osmose",
+    "option_b": "mitose",
+    "option_c": "fotosynthese",
+    "option_d": "ademhaling"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_192290",
+    "answer": "D",
+    "instruction": "Hoewel ze tot dezelfde familie behoren, zijn een adelaar en een pelikaan verschillend. Wat is één verschil tussen hen?",
+    "option_a": "hun voorkeur voor het eten van vis",
+    "option_b": "hun vermogen om te vliegen",
+    "option_c": "hun voortplantingsmethode",
+    "option_d": "hun methode om voedsel te vangen"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7093975",
+    "answer": "D",
+    "instruction": "Wat is een natuurlijke oorzaak van het uitdrogen van rivieren?",
+    "option_a": "vervuiling",
+    "option_b": "erosie",
+    "option_c": "stijging van het grondwaterpeil",
+    "option_d": "gebrek aan neerslag"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7085820",
+    "answer": "D",
+    "instruction": "Wanneer water begint te bevriezen, worden de moleculen van water",
+    "option_a": "verkrijgen thermische energie.",
+    "option_b": "meer vrij bewegen.",
+    "option_c": "vergroten in omvang.",
+    "option_d": "vertragen in snelheid."
+  },
+  {
+    "id": "ARC-Challenge/validation/MEA_2016_5_6",
+    "answer": "C",
+    "instruction": "Een ballon gevuld met water wordt in de vriezer geplaatst. Welke eigenschap van het water zal veranderen wanneer het water zijn vriespunt bereikt?",
+    "option_a": "kleur",
+    "option_b": "massa",
+    "option_c": "toestand",
+    "option_d": "gewicht"
+  },
+  {
+    "id": "ARC-Challenge/validation/NCEOGA_2013_5_43",
+    "answer": "B",
+    "instruction": "Wat moet er gebeuren voordat wolken kunnen ontstaan?",
+    "option_a": "Waterdamp moet warmer worden.",
+    "option_b": "Waterdamp moet warmte-energie verliezen.",
+    "option_c": "Neerslag moet beginnen te vallen en weglopen.",
+    "option_d": "Transpiratie moet waterdamp aan de atmosfeer toevoegen."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7250023",
+    "answer": "A",
+    "instruction": "Alle cellen, prokaryotisch en eukaryotisch, hebben enkele gemeenschappelijke kenmerken. Welk celkenmerk wordt gevonden in zowel prokaryotische als eukaryotische cellen?",
+    "option_a": "ribosoom",
+    "option_b": "chloroplastmembraan",
+    "option_c": "nucleus",
+    "option_d": "endoplasmatisch reticulum"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7003955",
+    "answer": "D",
+    "instruction": "Welke soort lading hebben individuele haartjes wanneer ze rechtop staan door statische elektriciteit?",
+    "option_a": "neutrale ladingen",
+    "option_b": "neutrale ontlading",
+    "option_c": "blijvende positieve lading",
+    "option_d": "tijdelijke positieve ladingen"
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2010_5_18",
+    "answer": "D",
+    "instruction": "Wind is een natuurlijke hulpbron die de zuidoostelijke oever van de Chesapeake Bay ten goede komt. Hoe zouden deze winden het best ten goede kunnen komen aan mensen?",
+    "option_a": "De winden zouden olielekkages in de baai kunnen blazen.",
+    "option_b": "De winden zouden omgezet kunnen worden naar fossiele brandstof.",
+    "option_c": "De winden zouden luchtverontreiniging naar het land kunnen blazen.",
+    "option_d": "De winden zouden omgezet kunnen worden naar elektrische energie."
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_2",
+    "answer": "D",
+    "instruction": "Hoe lang duurt het ongeveer voordat de Aarde één revolutie om de zon maakt?",
+    "option_a": "een dag",
+    "option_b": "een week",
+    "option_c": "een maand",
+    "option_d": "een jaar"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_411306",
+    "answer": "D",
+    "instruction": "Sommige verschillende soorten planten hebben eigenschappen gemeen. Welke eigenschap delen de meeste planten?",
+    "option_a": "de grootte van hun wortels",
+    "option_b": "de vorm van hun bladeren",
+    "option_c": "de kleur van hun bloemen",
+    "option_d": "de structuur van hun cellen"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7241115",
+    "answer": "C",
+    "instruction": "Welk evenement heeft waarschijnlijk geleid tot de explosie van zoogdierdiversiteit die zich voordeed tijdens het Krijt-periode?",
+    "option_a": "vorming van het supercontinent Pangea",
+    "option_b": "intense vulkanische activiteit",
+    "option_c": "koelere temperaturen",
+    "option_d": "stijgende zeeniveaus"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7042735",
+    "answer": "C",
+    "instruction": "Er wordt in de wetenschapsles een oplossing van water en een niet-giftige stof geproduceerd. Wat moet er gebeuren met de oplossing als de demonstratie is voltooid?",
+    "option_a": "Het moet in een afvoer worden gegoten.",
+    "option_b": "Het moet in een recyclebak worden gegoten.",
+    "option_c": "Het moet in een afvalcontainer worden gegoten.",
+    "option_d": "Het moet in een container voor gevaarlijk afval worden geplaatst."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2004_9_13",
+    "answer": "D",
+    "instruction": "Wat is het primaire type stress dat een vaste bankschroef uitoefent op een stuk hout?",
+    "option_a": "trekspanning",
+    "option_b": "schuifspanning",
+    "option_c": "torsie",
+    "option_d": "drukspanning"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_176015",
+    "answer": "D",
+    "instruction": "Een groep studenten onderzoekt twee stoffen om te bepalen welke tafelzout en welke tafelsuiker is. Hoe kunnen de studenten elke stof het best identificeren?",
+    "option_a": "door op te merken of ze oplossen in water",
+    "option_b": "door de kleur van de stof te bestuderen",
+    "option_c": "door te observeren of ze aan een oppervlak blijven plakken",
+    "option_d": "door de vorm van de kristal te onderzoeken"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7215180",
+    "answer": "C",
+    "instruction": "Wetenschappers verzamelen granietmonsters in de bergen van westelijk Nevada. Welke van deze formaten is het beste om het percentage mineralen in een granietmonster weer te geven en te vergelijken?",
+    "option_a": "staafgrafiek",
+    "option_b": "lijngrafiek",
+    "option_c": "cirkeldiagram",
+    "option_d": "verstrooiingsplot"
+  },
+  {
+    "id": "ARC-Challenge/validation/TIMSS_2007_4_pg26",
+    "answer": "B",
+    "instruction": "Een dier heeft zes poten. Wat is het meest waarschijnlijk?",
+    "option_a": "een spin",
+    "option_b": "een vlieg",
+    "option_c": "een hagedis",
+    "option_d": "een duizendpoot"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_177818",
+    "answer": "C",
+    "instruction": "De lengte van de tijd tussen nacht en dag op Aarde varieert gedurende het jaar. Deze tijdsvariatie wordt voornamelijk verklaard door",
+    "option_a": "de positie van de Zon.",
+    "option_b": "de positie van de Maan.",
+    "option_c": "de hoek waaronder de Aarde staat",
+    "option_d": "de afstand tussen de Aarde en de Zon"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_405487",
+    "answer": "B",
+    "instruction": "Op een jaar begonnen de eikenbomen in een park meer eikels dan normaal te produceren. Het volgende jaar nam ook de populatie van chipmunks in het park toe. Wat verklaart het best waarom er het volgende jaar meer chipmunks waren?",
+    "option_a": "Schaduwrijke gebieden namen toe.",
+    "option_b": "Voedselbronnen namen toe.",
+    "option_c": "Zuurstofniveaus namen toe.",
+    "option_d": "Beschikbaar water nam toe."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400612",
+    "answer": "C",
+    "instruction": "Het oppervlak van de aarde verandert voortdurend door verwering en erosie. In vergelijking met de aarde is er weinig verwering en erosie op de maan vanwege",
+    "option_a": "het gebrek aan zwaartekracht op de maan.",
+    "option_b": "de dunne atmosfeer op de maan.",
+    "option_c": "het gebrek aan lucht en water op de maan.",
+    "option_d": "het gebrek aan levende wezens op de maan."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400655",
+    "answer": "A",
+    "instruction": "Wat is de grootste verandering die kan worden waargenomen tussen de zomer en de winter?",
+    "option_a": "de hoeveelheid daglicht",
+    "option_b": "de hoogte van de oceaangolven",
+    "option_c": "het aantal stormen",
+    "option_d": "de grootte van wolken"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415735",
+    "answer": "C",
+    "instruction": "Anya plaatste een ijsblokje op de stoep op een warme dag. Het ijsblokje smolt al snel om een plas te vormen. Welk proces zorgde ervoor dat het ijsblokje smolt?",
+    "option_a": "Er vond warmtetransport plaats door het ijsblokje via convectie.",
+    "option_b": "Er vond warmtetransport plaats van de lucht naar het ijsblokje via straling.",
+    "option_c": "Er vond warmtetransport plaats van de lucht en de stoep via geleiding.",
+    "option_d": "Er vond warmtetransport plaats door het ijsblokje naar de stoep via geleiding."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2005_8_5",
+    "answer": "D",
+    "instruction": "Mercurius, de planeet die het dichtst bij de zon staat, heeft extreme oppervlaktetemperaturen, variërend van 465°C in het zonlicht tot -180°C in het donker. Waarom is er zo'n groot temperatuurbereik op Mercurius?",
+    "option_a": "De planeet is te klein om warmte vast te houden.",
+    "option_b": "De planeet wordt slechts aan één kant verwarmd.",
+    "option_c": "De planeet reflecteert warmte vanaf zijn donkere kant.",
+    "option_d": "De planeet heeft geen atmosfeer om warmte vast te houden."
+  },
+  {
+    "id": "ARC-Challenge/validation/TIMSS_2003_8_pg14",
+    "answer": "B",
+    "instruction": "Waarom zouden mannelijke insecten behandeld worden om de productie van sperma te voorkomen?",
+    "option_a": "Om het aantal vrouwelijke insecten te vergroten",
+    "option_b": "Om de totale populatie van insecten te verminderen",
+    "option_c": "Om nieuwe soorten insecten te produceren",
+    "option_d": "Om te voorkomen dat insecten paren"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_20",
+    "answer": "D",
+    "instruction": "De belangrijkste functie van de stam van een boom is",
+    "option_a": "lucht",
+    "option_b": "fruit",
+    "option_c": "zonlicht",
+    "option_d": "ondersteuning"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7017990",
+    "answer": "A",
+    "instruction": "Welke actie vertegenwoordigt geen veiligheidsprocedure in het laboratorium?",
+    "option_a": "Chemische monsters proeven",
+    "option_b": "Gebruik hete-bestendige handschoenen als glaswerk heet is",
+    "option_c": "Lang haar vastbinden",
+    "option_d": "Een chemische spat met veel water wassen"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7264023",
+    "answer": "D",
+    "instruction": "Welk van deze elementen wordt niet waarschijnlijk aangetroffen in een organische verbinding?",
+    "option_a": "koolstof",
+    "option_b": "waterstof",
+    "option_c": "stikstof",
+    "option_d": "kalium"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7138513",
+    "answer": "A",
+    "instruction": "Een eiland heeft veel soorten vogels, geen inheemse slangen en weinig grote roofdieren. Bruine slangen eten vogeleieren. Wat is het meest waarschijnlijke gevolg van het per ongeluk loslaten van bruine slangen op het eiland?",
+    "option_a": "meer slangen en minder vogels",
+    "option_b": "meer slangen en meer vogels",
+    "option_c": "minder slangen en minder vogels",
+    "option_d": "minder slangen en meer vogels"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_401663",
+    "answer": "B",
+    "instruction": "Door welke voorwerpen hieronder in een composthoop te plaatsen, kan een student hulpbronnen besparen?",
+    "option_a": "meststoffen",
+    "option_b": "bonenplanten",
+    "option_c": "glazen bekers",
+    "option_d": "plastic pipetten"
+  },
+  {
+    "id": "ARC-Challenge/validation/ACTAAP_2011_5_3",
+    "answer": "C",
+    "instruction": "Een grote hoeveelheid sediment wordt opgepakt door water als het water stroomafwaarts stroomt in rivieren en beken. Wat gebeurt er waarschijnlijk met de sedimentdeeltjes die het water draagt wanneer het water in een rivier of beek snel stroomde en vervolgens langzamer begint te stromen?",
+    "option_a": "Het aantal grotere sedimentdeeltjes dat door het water wordt gedragen, zal toenemen.",
+    "option_b": "Het aantal kleinere sedimentdeeltjes dat door het water wordt gedragen, zal toenemen.",
+    "option_c": "Het aantal grotere sedimentdeeltjes dat door het water wordt gedragen, zal afnemen.",
+    "option_d": "Het aantal kleinere sedimentdeeltjes dat door het water wordt gedragen, zal afnemen."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7195440",
+    "answer": "B",
+    "instruction": "Ongeveer 50 miljoen hectare tropisch regenwoud wordt elk jaar gekapt. Welk effect zou hier waarschijnlijk het gevolg van zijn?",
+    "option_a": "een afname van bodemerosie",
+    "option_b": "een afname van biodiversiteit",
+    "option_c": "een verbetering van de luchtkwaliteit",
+    "option_d": "een verbetering van de waterkwaliteit"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7220378",
+    "answer": "C",
+    "instruction": "Klimaatverandering kan de hoeveelheid drijvend ijs op de oceanen van de wereld verminderen. Hoe kan deze verandering hoogstwaarschijnlijk de voedselvoorziening beïnvloeden die beschikbaar is voor mariene consumentenorganismen?",
+    "option_a": "door de hoeveelheid zout in oceaanwater te verminderen",
+    "option_b": "door het vermogen van het water om in afzonderlijke lagen te scheiden te vergroten",
+    "option_c": "door de temperatuuromstandigheden te veranderen die eencellige producenten nodig hebben",
+    "option_d": "door te voorkomen dat organismen snel op milieuveranderingen reageren"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7234483",
+    "answer": "B",
+    "instruction": "Van welke eigenschap hangt de huidige, dominante theorie over het ontstaan van leven op aarde af van prebiotische stoffen die zich ontwikkelden?",
+    "option_a": "Stabiele scheiding van hun omgeving",
+    "option_b": "Assembly in zelf-replicerende structuren",
+    "option_c": "Opslag van eigenschappen in chemisch gecodeerde vorm",
+    "option_d": "Opeenhoping van energieopslaande moleculen"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7179358",
+    "answer": "B",
+    "instruction": "Een climax brand ecosysteem vereist periodieke bosbranden om stabiliteit te behouden. Wat zou het meest waarschijnlijke resultaat zijn als het voorkomen van natuurlijke branden in dit ecosysteem?",
+    "option_a": "Dennensoorten zouden zich sneller voortplanten.",
+    "option_b": "Loofboomsoorten zouden naaldbomen vervangen.",
+    "option_c": "Brandende gebieden zouden makkelijker te controleren zijn.",
+    "option_d": "Bomen zouden zich verspreiden naar voorheen bosloze gebieden."
+  },
+  {
+    "id": "ARC-Challenge/validation/NCEOGA_2013_8_40",
+    "answer": "C",
+    "instruction": "Hoe zou het roken van tabak waarschijnlijk het vermogen van een individu om succesvol te zijn bij lichamelijke activiteiten negatief beïnvloeden?",
+    "option_a": "Het verstoort balans en coördinatie.",
+    "option_b": "Het vermindert het vermogen om snel beslissingen te nemen.",
+    "option_c": "Het vermindert uithoudingsvermogen en cardiovasculaire efficiëntie.",
+    "option_d": "Het vermindert de snelheid en kracht van spiercontracties."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7100695",
+    "answer": "D",
+    "instruction": "Welke geologische structuur zal waarschijnlijk de langste tijd nodig hebben om te vormen?",
+    "option_a": "een breuk",
+    "option_b": "een sinkhole",
+    "option_c": "een rivierbocht",
+    "option_d": "een gebergte"
+  },
+  {
+    "id": "ARC-Challenge/validation/MEA_2016_5_7",
+    "answer": "B",
+    "instruction": "Een student observeert dat een een-cellig organisme en een plantenblad vergelijkbare groene delen hebben. De student denkt dat beide organismen de groene delen gebruiken om te overleven. Welk bewijs ondersteunt de conclusie dat beide organismen de groene delen nodig hebben om te kunnen leven?",
+    "option_a": "Beide organismen gebruiken de groene delen om te bewegen.",
+    "option_b": "Beide organismen sterven als de groene delen worden verwijderd.",
+    "option_c": "Er wordt waargenomen dat de groene delen in beide organismen licht produceren.",
+    "option_d": "De groene delen in beide organismen kunnen meer groene delen maken."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7027230",
+    "answer": "A",
+    "instruction": "Welk onderwerpgebied zou het beste zijn om te onderzoeken om manieren te vinden om milieu-problemen veroorzaakt door mensen te verminderen?",
+    "option_a": "zonlicht omzetten in elektriciteit",
+    "option_b": "zoeken naar nieuwe kolenreserves",
+    "option_c": "reservoirs vinden die olie bevatten",
+    "option_d": "bossen omzetten in landbouwgrond"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7245053",
+    "answer": "B",
+    "instruction": "Welk van de volgende verbindingen is een organische verbinding?",
+    "option_a": "water (H2O)",
+    "option_b": "hexaan (C6H14)",
+    "option_c": "ammoniak (NH3)",
+    "option_d": "zwaveldioxide (SO2)"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_8_12",
+    "answer": "A",
+    "instruction": "Een belangrijke functie van een plantenzaad is om",
+    "option_a": "voedsel op te slaan dat wordt gebruikt gedurende de vroege ontwikkeling",
+    "option_b": "stuifmeel aan te trekken dat wordt gebruikt tijdens de ontwikkeling",
+    "option_c": "lichtenergie op te nemen die wordt gebruikt tijdens fotosynthese",
+    "option_d": "chlorofyl te produceren dat wordt gebruikt tijdens fotosynthese"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7189035",
+    "answer": "D",
+    "instruction": "Scott keek naar de resultaten van een kruising tussen rode en witte bloemen. Wat is het meest waarschijnlijke resultaat van een kruising dat onvolledige dominantie demonstreert?",
+    "option_a": "0% roze bloemen",
+    "option_b": "25% witte bloemen",
+    "option_c": "50% rode bloemen",
+    "option_d": "100% roze bloemen"
+  },
+  {
+    "id": "ARC-Challenge/validation/LEAP_2006_8_10412",
+    "answer": "B",
+    "instruction": "Jolie wilde een hardgekookt ei eten als ontbijt. Ze deed het ei in kokend water gedurende vijftien minuten. Toen ze de schaal brak, waren de vloeibare delen van het ei vast geworden. Dit kwam doordat",
+    "option_a": "verhitting het water uit het ei verwijderde.",
+    "option_b": "verhitting de chemische bindingen in het ei veranderde.",
+    "option_c": "het koken de vaste delen van het ei naar de oppervlakte bracht.",
+    "option_d": "de bacteriën die in het vloeibare ei leefden, werden gedood."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400172",
+    "answer": "A",
+    "instruction": "Welke wetenschapper beweerde dat de Aarde het centrum van het universum was?",
+    "option_a": "Aristoteles",
+    "option_b": "Copernicus",
+    "option_c": "Einstein",
+    "option_d": "Newton"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2005_5_21",
+    "answer": "D",
+    "instruction": "Vrouwelijke zeehonden keren meestal elk jaar terug naar dezelfde stranden om te bevallen. Als ze herhaaldelijk worden gestoord door mensen op die stranden, hoe zullen de zeehonden dan waarschijnlijk reageren?",
+    "option_a": "Ze zullen van kleur veranderen.",
+    "option_b": "Ze zullen meer jongen krijgen.",
+    "option_c": "Ze zullen vaker jagen voor voedsel.",
+    "option_d": "Ze zullen op verschillende stranden bevallen."
+  },
+  {
+    "id": "ARC-Challenge/validation/MEA_2010_8_11",
+    "answer": "A",
+    "instruction": "Als de beweging van vloeibare watermoleculen vertraagt, wat gebeurt er waarschijnlijk?",
+    "option_a": "De vloeibare water vormt een vaste stof.",
+    "option_b": "De vloeibare water condenseert.",
+    "option_c": "De vloeibare water ondergaat een chemische verandering.",
+    "option_d": "De vloeibare water verandert in waterdamp."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7187058",
+    "answer": "A",
+    "instruction": "Elke nacht leest Johnny naast een lamp die verlicht wordt door een gloeilamp. Wat is de beste indicatie dat de overdracht van elektrische energie naar de lamp inefficiënt is?",
+    "option_a": "De lamp wordt heet.",
+    "option_b": "De lamp geeft licht.",
+    "option_c": "De lamp gebruikt koperen draden.",
+    "option_d": "De lamp kan worden uitgeschakeld met een schakelaar."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7185133",
+    "answer": "A",
+    "instruction": "Tracey leerde over structurele organisatie in dieren. Welk niveau van structurele organisatie beschrijft het best een ei?",
+    "option_a": "een cel",
+    "option_b": "een weefsel",
+    "option_c": "een systeem",
+    "option_d": "een orgaan"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7183733",
+    "answer": "B",
+    "instruction": "In de Everglades is de lichaamsconditie van de Amerikaanse alligator nauw verbonden met de waterdiepte. Wanneer het waterpeil te hoog wordt, verspreiden diersoorten zich over een groter gebied, wat leidt tot een afname van de lichaamsconditie vanwege het onvermogen om voldoende voedselbronnen te vinden. Wanneer het waterpeil daalt, verzamelen de diersoorten zich in kleinere gebieden, waardoor alligators effectiever kunnen jagen. Dit scenario is een voorbeeld van hoe het overleven van alligators afhankelijk is van de beperking van welke factor?",
+    "option_a": "snelheid van ontbinding",
+    "option_b": "leefgebied van prooidieren",
+    "option_c": "productie-uitvoer",
+    "option_d": "watersomloop"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7205345",
+    "answer": "D",
+    "instruction": "Bij de productie van keukenzout (NaCl), welke van de volgende beschrijvingen past het beste bij de acties van de natrium (Na) en chloor (Cl)atomen?",
+    "option_a": "Natriumatomen vervangen de chlooratomen.",
+    "option_b": "Natrium- en chlooratomen mengen samen.",
+    "option_c": "Natriumatomen lossen op in chlooratomen.",
+    "option_d": "Natrium- en chlooratomen binden chemisch samen."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_176838",
+    "answer": "A",
+    "instruction": "Welke van deze is geen functie van het circulatiesysteem?",
+    "option_a": "voedsel afbreken tot voedingsstoffen",
+    "option_b": "voedingsstoffen en zuurstof transporteren",
+    "option_c": "afvalstoffen uit het lichaam verwijderen",
+    "option_d": "het lichaam verdedigen tegen buitenlandse indringers"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2002_5_6",
+    "answer": "D",
+    "instruction": "Kolibries kunnen in de lucht blijven zweven en zeer snel vliegen. Dit is gunstig voor de kolibrie in al het volgende, behalve",
+    "option_a": "snel ontsnappen aan roofdieren.",
+    "option_b": "makkelijk bloemen bereiken.",
+    "option_c": "op één plek blijven om nectar te drinken.",
+    "option_d": "het warm houden van de eieren."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7166180",
+    "answer": "B",
+    "instruction": "De groei van planten wordt beïnvloed door omgevingsfactoren zoals zwaartekracht. Als een zaadje de kans krijgt om te ontkiemen en te groeien terwijl het op zijn zij ligt, wat zal er dan hoogstwaarschijnlijk gebeuren?",
+    "option_a": "wortels groeien naar beneden, stengels groeien naar beneden",
+    "option_b": "wortels groeien naar beneden, stengels groeien naar boven",
+    "option_c": "wortels groeien naar boven, stengels groeien naar beneden",
+    "option_d": "wortels groeien naar boven, stengels groeien naar boven"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2012_5_23632",
+    "answer": "C",
+    "instruction": "Een student heeft een rots waargenomen die is samengesteld uit veel kleine deeltjes zand gerangschikt in lichtgekleurde en donkergekleurde lagen. Welke van de volgende uitspraken beschrijft hoe dit type rots waarschijnlijk is gevormd?",
+    "option_a": "Klei werd verpletterd en bevroren onder een gletsjer.",
+    "option_b": "Lava van een vulkaan koelde snel af in water.",
+    "option_c": "Riviersedimenten werden langzaam samengedrukt en aan elkaar gecementeerd.",
+    "option_d": "Mineraalafzettingen verhardden tot solide rots in ondergrondse grotten."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7267593",
+    "answer": "A",
+    "instruction": "Welke van deze natuurrampen zijn het meest onvoorspelbaar?",
+    "option_a": "aardbevingen",
+    "option_b": "orkanen",
+    "option_c": "tornado's",
+    "option_d": "sneeuwstormen"
+  },
+  {
+    "id": "ARC-Challenge/validation/NAEP_2005_8_S11+14",
+    "answer": "B",
+    "instruction": "Waarvan kan een mens NIET overleven zonder?",
+    "option_a": "De appendix",
+    "option_b": "De lever",
+    "option_c": "Een long",
+    "option_d": "Een nier"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7218750",
+    "answer": "C",
+    "instruction": "Welk type waterreservoir kan altijd zoetwater leveren?",
+    "option_a": "binnenmeren",
+    "option_b": "rivierdelta's",
+    "option_c": "berggletsjers",
+    "option_d": "tropische zeeën"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7026198",
+    "answer": "A",
+    "instruction": "Het element krypton is een gas dat bijna geen chemische activiteit vertoont. Om een ander element te vinden met vergelijkbare eigenschappen, waar moet een student naar zoeken op het Periodiek Systeem der Elementen?",
+    "option_a": "een element in dezelfde groep",
+    "option_b": "een element in dezelfde periode",
+    "option_c": "een element met dezelfde netto lading",
+    "option_d": "een element met dezelfde atoommassa"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7081760",
+    "answer": "B",
+    "instruction": "Om een ​​nieuw ontdekt organisme te classificeren, onderzoekt een wetenschapper de structuur, DNA en levenscyclus van het organisme. De wetenschapper zal waarschijnlijk de resultaten van het onderzoek gebruiken om",
+    "option_a": "nieuwe wetenschappelijke methoden te ontwikkelen.",
+    "option_b": "wetenschappelijke kennis te herzien.",
+    "option_c": "nieuwe hypothesen te formuleren.",
+    "option_d": "wetenschappelijke theorieën te weerleggen."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7130603",
+    "answer": "C",
+    "instruction": "Welke van de genoemde hoeveelheden wordt gemeten in een eenheid anders dan de joule?",
+    "option_a": "warmte",
+    "option_b": "licht",
+    "option_c": "vermogen",
+    "option_d": "arbeid"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7074865",
+    "answer": "C",
+    "instruction": "Wat zijn de kenmerken van algen, bacteriën en bloeiende planten?",
+    "option_a": "Ze zijn anorganisch.",
+    "option_b": "Ze hebben allemaal chlorofyl.",
+    "option_c": "Ze bestaan uit cellen.",
+    "option_d": "Ze voeden zich allemaal met andere organismen."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7042700",
+    "answer": "D",
+    "instruction": "Welk apparaat is niet nodig tijdens een dierlijke dissectie?",
+    "option_a": "handschoenen",
+    "option_b": "veiligheidsbril",
+    "option_c": "labjas",
+    "option_d": "veiligheidsdouche"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7071365",
+    "answer": "D",
+    "instruction": "Welke vergelijking tussen vlinders en motten is een feitelijke uitspraak?",
+    "option_a": "Vlinders zijn mooier en leuker om naar te kijken dan motten.",
+    "option_b": "Vlinders zijn beter in vliegen dan motten.",
+    "option_c": "Vlinders en motten zijn veel gelukkiger tijdens de dag.",
+    "option_d": "Vlinders en motten hebben een gelijk aantal poten."
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2007_4_52",
+    "answer": "C",
+    "instruction": "Planten en dieren hebben voedsel nodig voor groei. Wat gebeurt er met het grootste deel van het voedsel dat planten produceren?",
+    "option_a": "Voedsel wordt als gas vrijgegeven.",
+    "option_b": "Voedsel wordt omgezet in water.",
+    "option_c": "Voedsel wordt opgeslagen voor toekomstig gebruik.",
+    "option_d": "Voedsel wordt gebruikt om zonlicht op te nemen."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7026443",
+    "answer": "D",
+    "instruction": "Welke eigenschap van een huisdierhond wordt geërfd?",
+    "option_a": "De hond vermijdt een huisdierkat.",
+    "option_b": "De hond springt op een sofa.",
+    "option_c": "De hond rolt op commando om.",
+    "option_d": "De hond kwijlt wanneer het voedsel ruikt."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7008138",
+    "answer": "B",
+    "instruction": "Welke uitspraak beschrijft asteroïden en kometen?",
+    "option_a": "Asteroïden zijn vast en kometen zijn gasachtig.",
+    "option_b": "Asteroïden zijn vast en kometen zijn gasachtig.",
+    "option_c": "Zowel asteroïden als kometen zijn vast.",
+    "option_d": "Zowel asteroïden als kometen zijn gasachtig."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_402104",
+    "answer": "D",
+    "instruction": "Het dumpen van giftige chemicaliën in een vijver zou hoogstwaarschijnlijk resulteren in",
+    "option_a": "een toename van de zuurstofniveaus in de vijver.",
+    "option_b": "planten in de buurt van de vijver die sneller groeien.",
+    "option_c": "geen effect van de giftige chemicaliën op de vijver.",
+    "option_d": "vissen in de vijver die worden geschaad of sterven."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7086013",
+    "answer": "D",
+    "instruction": "Het Humboldt-rivierbekken is een van de belangrijkste bronnen van verschillende niet-hernieuwbare hulpbronnen. Welke van deze niet-hernieuwbare hulpbronnen wordt geproduceerd uit het Humboldt-rivierbekken?",
+    "option_a": "kolen uit bergafzettingen",
+    "option_b": "olie en gas uit ondergrondse reservoirs",
+    "option_c": "elektrische energie uit waterkrachtgeneratoren",
+    "option_d": "mineralen uit de mijnbouw van goud, zilver en koper"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7248238",
+    "answer": "D",
+    "instruction": "Mosquito-fish, die op de Bahama-eilanden worden gevonden, leven in verschillende geïsoleerde zoetwaterpoelen die vroeger één watermassa waren. Wanneer verschillende mannelijke en vrouwelijke mosquito-fish uit twee geïsoleerde waterpoelen in één poel worden geplaatst, geven de visjes de voorkeur aan het voortplanten met vissen uit hun eigen oorspronkelijke poel. Wat heeft waarschijnlijk geleid tot deze voorkeur?",
+    "option_a": "Beschikbaarheid van voedsel beïnvloedde de voorkeur van het fokken van de visjes niet.",
+    "option_b": "Concurrentie om een geschikte partner beïnvloedde de voorkeur van het fokken van de visjes.",
+    "option_c": "Predatoren in de poel hebben de voorkeur van het fokken van de visjes beïnvloed.",
+    "option_d": "Soortvorming door reproductieve isolatie had invloed op de voorkeur van het fokken van de visjes."
+  }
+]

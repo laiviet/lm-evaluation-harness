@@ -1,0 +1,2574 @@
+[
+  {
+    "id": "ARC-Challenge/validation/Mercury_7099103",
+    "answer": "D",
+    "instruction": "Murtxin-mokadak berdegizu indibilak egin dezakete lehentasunik gabe bidez-etasunez, zangoak lur aintzat hartzen dituztenean garratzak eratzen dituzte. Sexualki, beren loreengatik, berriz, reproduzitu egiten dira. Zein da murtxin biztanlariak sexualki eta bidez-etasunez reproduzitu ahal izateak ematen dien abantaila?",
+    "option_a": "Landareak altuago haztea ahalbidetzen du.",
+    "option_b": "Insektuak atentzioa erakarri ditzakete loreengatik.",
+    "option_c": "Murtxinak dute gusia handiagoa duten garratzak.",
+    "option_d": "Murtxinak moldatzea ahalbidetzen du berrogeietan dauden baldintzetara."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2006_9_31-v1",
+    "answer": "C",
+    "instruction": "Zeintzuk deskribatzen du edozein hauek altxatutako mendiz gainean atseden dagoen karritaren energia mekanikoa?",
+    "option_a": "Karritak ez dauka energia mekaniko.",
+    "option_b": "Karritaren energia mekanikoa erantsia da motako guztia dagoenean.",
+    "option_c": "Karritaren energia mekanikoa guneiko erantsia da.",
+    "option_d": "Karritaren energia mekanikoa erantsi da erdia guneiko eta erdia motako dela."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7090738",
+    "answer": "A",
+    "instruction": "Zein galdera erantzun daiteke azterketaren bidez?",
+    "option_a": "Nola eragiten du energia solarra hodei formazioei?",
+    "option_b": "Zergatik dira tigreak iguanetan baino hobeagoak?",
+    "option_c": "Zein da ikasgai onena ikasteko unibertsitatean?",
+    "option_d": "Gizonak espazioan inbertitu beharko duzuena?"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7130883",
+    "answer": "B",
+    "instruction": "Ingeniaritza klase bat arroba bat garatzeko eskatu zaio. Robotak energia elektromagnetikoa erabiltzen du bere bizi iturri bakarra bezala izan behar du. Zein da inkesta jarraitzen ari diren ingeniarien ikasketen gaia?",
+    "option_a": "baterien eta energia kimikoaren erabilpena",
+    "option_b": "energia beroa eta eguzki-sorkuntza-kollektoreen erabilpena",
+    "option_c": "energi kinetikoa energi potentzial bihurtzeko bideak",
+    "option_d": "energia termikoaren energia elektrikoan bihurtzeko bideak"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7190155",
+    "answer": "B",
+    "instruction": "Amazoniar urrezko lehorrerrian landa- eta animali-espezie asko bizi dira. Zenbat deforestazio-eremu handi izan balira, zer da Amazoniar urrezko lehorrerriari egingo zaion arriskuan dagoeneko?",
+    "option_a": "animalsari buruzko populazioaren handitzea",
+    "option_b": "oxigenoaren ekoizpenaren merma bat",
+    "option_c": "barrualdetasunaren handitzea",
+    "option_d": "kutsaduraren jaitsiera"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_177398",
+    "answer": "B",
+    "instruction": "50 km/h-ko abiadura mantsoa nor-esteko norabidean jabetzen den autoaren kasuan, zertarako errepresentatzen du?",
+    "option_a": "abiadura",
+    "option_b": "abiadura- bektorea",
+    "option_c": "azelerazioa",
+    "option_d": "azelerazio negatiboa"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7246995",
+    "answer": "C",
+    "instruction": "Lanak etengabeko zelulak behar dute energia nutrienteak zelularen membranaren gainean mugitzeko. Zein energia transformazio mota erabilten dute zelulak nutrienteak zelularen membranaren barruan sartzeko?",
+    "option_a": "energia termikoa energia kinetikora",
+    "option_b": "energia potentziala argienera",
+    "option_c": "energia kimikoa energia kinetikora",
+    "option_d": "energia kinetikoa energia potentzialera"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_189490",
+    "answer": "A",
+    "instruction": "Gregor Mendelen bizitan erawtezko landareekiko aurkikuntzak adibide bat dira",
+    "option_a": "zientifikoko teoriari egiaztatzea oinarritutako ikerketaren frogak.",
+    "option_b": "hipotesi baten frogatze prozesuan dagoen konklusio bat.",
+    "option_c": "egitasmo baten aurretik egindako azterketetan random testak.",
+    "option_d": "zientifikoki eredua sustatzen edo kontratzen duten frogak."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7139790",
+    "answer": "C",
+    "instruction": "Polipo batek bere lurrin sartzeko kromatoforo izeneko zelula bereziak ditu, zeintzuk polipoari bere kolorea lehenetsi uzten diote. Kromatoforo hauek, gehienetan,\t\tpolipori laguntzen diote",
+    "option_a": "bizkarrean nabigatzeko.",
+    "option_b": "arrikurtsua hartzeko.",
+    "option_c": "harrapatzat hartu ahal izateko.",
+    "option_d": "gorputzeko tenperatura kontrolatzeko."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7282608",
+    "answer": "C",
+    "instruction": "Etxetarren uretara hondakin guztiak berdinak ez dira. Aurrezur-ureta etxeko bihiztegitik eta bainugelakoa da. Ez du pertsonen hondakin biologikoak barneratzen, beraz, hondakinak tratatzeko behar den bezala ezabatu behar ez da. Zein erabilera kateak egiten ditu aurrezur-ureta erabilera aberatsa adierazten?",
+    "option_a": "Platerak garbitzea eta edatea",
+    "option_b": "Edatea eta lorategiak ureztatzea",
+    "option_c": "Lorategiak ureztatzea eta zuhaitzak beroztatzea",
+    "option_d": "Zuhaitzak beroztatzea eta platerak garbitzea"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7145513",
+    "answer": "B",
+    "instruction": "Bizitzaren prozesuek energia behar dute. Prozesu biokimikoak erreakzio zehatzak dakartzate. Zein da animalia guztien artean partekatutako prozesu biokimikoaren ezaugarria?",
+    "option_a": "funtzionatzea pH maila batean ere",
+    "option_b": "beroa produktau gisa ateratzea",
+    "option_c": "anaerobiko bidezko errespirazioa erabiltzea",
+    "option_d": "energia absorbitutako kantitatea"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7018148",
+    "answer": "B",
+    "instruction": "Elementuen Taula Periodikoan dauden ELEMANETUEN MAIORITATEA ",
+    "option_a": "gasak dira.",
+    "option_b": "metalak dira.",
+    "option_c": "likidoak dira.",
+    "option_d": "non-metalak dira."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_401294",
+    "answer": "B",
+    "instruction": "Euria klima bizi batean ondo iraun ditzaten barazenen lurrezko formaren aldakuntza handiagoak dira",
+    "option_a": "gorri eta distira.",
+    "option_b": "zabal eta lodia.",
+    "option_c": "marruskatu eta ziehutsua.",
+    "option_d": "zorrotza eta baxua."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7207410",
+    "answer": "C",
+    "instruction": "Haria segitzaileak haize-urak nabaritzen eta neurtzen dituzten pertsonak dira. Eragiketak egiten dituzte iragarpen, gutxieneko tenperatura eta airearen presioa, hainbat beste datu ere. Haize-uren teoriak moldatu dituzten hartutako konplexutasunarekin, zer jakin dute haria segitzaileak haize-uren azterketan?",
+    "option_a": "haize-uren kalteetatiko irudikapenak",
+    "option_b": "haize-uren esperientzia pentsatzeko",
+    "option_c": "haize-uraren hasierako egoeratik jasotako datuak",
+    "option_d": "haize-uren azterketa bereziki hungaitu dute"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_8_2015_11",
+    "answer": "A",
+    "instruction": "Zein da hurrengo gauzak hondako bloke batena den azaltzeko erabil daitekeen hoberena?",
+    "option_a": "materia kantitatea blokean",
+    "option_b": "blokeak hartzen duen espazio kantitatea",
+    "option_c": "blokean jokatzen duten grabitate indarra",
+    "option_d": "blokean dauden molekulen arteko distantzia"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7201705",
+    "answer": "A",
+    "instruction": "Munduan zehar lurra bihotzeko baina ukitu ezin diren aldi batean, abereak basatzeko erabil daitezke. Lurrak handik hara ezabatzea fauna autohtonoa eta haitz pertsona kimikoa desegiten du. Nola eragiten du basakeria basatzeko abiaduraren areagotzea?",
+    "option_a": "Gainzuriaren gatazkari afektatutako lurzoruaren azeleratzen den abiaduragatik.",
+    "option_b": "Lurra inbaditzaile ez artikulatuen kolonizazioa bultzatuz.",
+    "option_c": "Abereentzako janariak murriztuz.",
+    "option_d": "Lurzoruak oso lasai absorbatzen dituelako euriak."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7133858",
+    "answer": "B",
+    "instruction": "Materia hainbat aldaketa jasan ditzake. Zein da aldaketa kimikoen adibide onena?",
+    "option_a": "gatz saltzeko",
+    "option_b": "egurra erre",
+    "option_c": "ura datozen",
+    "option_d": "izotz jaistean"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2003_5_31",
+    "answer": "D",
+    "instruction": "Zein horiek ez da instintu-jokabidea?",
+    "option_a": "txoriak  hegazkin-ondarea eraikitzen duena",
+    "option_b": "norsuak hazi-eztiak zakar-tzen dituela",
+    "option_c": "makil batekin lehortzen den hegazti bat",
+    "option_d": "zaldiak erre liburua burutzen duena"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7198380",
+    "answer": "D",
+    "instruction": "Hainbat herbiboro rodozozko espekies bizi ziren ekosisteman. Zein faktore da inoiz baino gehiago handitu, eta gero, bizi nahien arteko errekurtso gatazkak areagotu?",
+    "option_a": "lurren aberatskortasuna",
+    "option_b": "eboluzionatzaileak hirian bizitzen diren populazioa",
+    "option_c": "harrobiak uzten dituzten janari hondarrak",
+    "option_d": "lehenengo kontsumitzaileen sartzeko abiadura"
+  },
+  {
+    "id": "ARC-Challenge/validation/LEAP_2012_8_10441",
+    "answer": "C",
+    "instruction": "Eskuzabal batzuek, zuhaitz mota bateko fruituak gehienbat jan, hainbat egokia den. Virus batek zuhaixka horiek hiltzen baditu, zein zuhaixka ilkitu ereiten dira gehienbat?",
+    "option_a": "zuhaitzek altuago igo daitezkeen zuhaixka",
+    "option_b": "kolore ilunagoak dituzten zuhaixka",
+    "option_c": "beste janari mota batzuk aurkitu ahal duten zuhaixka",
+    "option_d": "hainbat hazi produkzio gehiago duten zuhaixka"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7217053",
+    "answer": "B",
+    "instruction": "Biologikoa bilakaera gerta daiteke hurrengo bideetatik guztietan baina horietatik ez da inkluditzen",
+    "option_a": "lehiaketa.",
+    "option_b": "fosilizazioa.",
+    "option_c": "aldakortasuna.",
+    "option_d": "egokitzapena."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7233660",
+    "answer": "C",
+    "instruction": "Zenbat zientzialarik gaur egun, lurreko plataformen mugimenduak uraren maila aldaketarik sortu dezakeela uste dute. Nola mugitzen diren plataformen izaerak, uraren maila aldaketak murriztu dezakeena?",
+    "option_a": "txiki gehiegiak eginez",
+    "option_b": "ozeano basoen gutxi batzuk soilik aldatuz",
+    "option_c": "erritmo oso motelak sortuz",
+    "option_d": "efektu berdinak izan ditzaten, batez bestearekin lotuta"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7115395",
+    "answer": "A",
+    "instruction": "Ze aldaketeek eragin negatiboa izan dezakete ekosisteman?",
+    "option_a": "errepide baten eraikina",
+    "option_b": "eguzkia landatzea",
+    "option_c": "ura-itzala gehitzea",
+    "option_d": "natura santutegia sortzea"
+  },
+  {
+    "id": "ARC-Challenge/validation/MSA_2013_8_3",
+    "answer": "D",
+    "instruction": "Geologoek Zerua-jaren azaleran zazpi tectonic plate nagusi identifikatu dituzte. Zein datu da hirugarren lekuetan artean kolisioak gertatzen diren adierazteko indarra duena?",
+    "option_a": "Haizeak azal-konfigurazioak sapatzen ditu.",
+    "option_b": "Fosilak mila urte baino gehiagokoak dira.",
+    "option_c": "Harri txikiak atsedena gabe geratu egiten dira, urizuntzen joan arren.",
+    "option_d": "Zaharkituriko harri-geruza berrien gainetik dagoen lehengo gehiegizko geruza-lehiaketak ematen ditu."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7205135",
+    "answer": "C",
+    "instruction": "Nola eragiten da altzairuzko bloke bateko partikulei blokea isildutakoan?",
+    "option_a": "Partikulek masa gehiago hartzen dute.",
+    "option_b": "Partikulek energia gutxitzen dute.",
+    "option_c": "Partikulek mugitzen dira arinago.",
+    "option_d": "Partikulek bolumen handitzen dute."
+  },
+  {
+    "id": "ARC-Challenge/validation/ACTAAP_2010_5_10",
+    "answer": "A",
+    "instruction": "Sara lanpara bat piztu eta objektua argiaren gainean gorabehera du. Nola jakin dezake objektua opakoa den?",
+    "option_a": "Argirik ez da pasatuko.",
+    "option_b": "Argi batzuk erreflexatu egingo dira.",
+    "option_c": "Argia angeluan aldatuko da.",
+    "option_d": "Argi argi pasako da objektuaren bidez."
+  },
+  {
+    "id": "ARC-Challenge/validation/TIMSS_2003_8_pg29",
+    "answer": "E",
+    "instruction": "Zein hauek ez daude apendizia barruan kokatuta?",
+    "option_a": "igarle",
+    "option_b": "nefroa",
+    "option_c": "sabela",
+    "option_d": "pizua",
+    "option_e": "bihotza"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7181685",
+    "answer": "A",
+    "instruction": "Lore kolorearen transmisio taldea, zuri-lore zehatz batzuetan oso aldatzeko gai den eroso gertatzen da. Nola gertatu zen zapal-landareetako loreen kolore aldaketa?",
+    "option_a": "mutazioen bidez",
+    "option_b": "polinizazioaren bidez",
+    "option_c": "hauteskunde naturalaren bidez",
+    "option_d": "aplastikozko erproduzioaren bidez"
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2011_5_20",
+    "answer": "D",
+    "instruction": "Tximino-gaztelua urtean bi aldiz desagertzen da. Udan, tximino-gazteluaren larrua gorria da. Neguan, larrua zuria da. Honek, poza kantiratzearen abantaila zergatia da?",
+    "option_a": "Larruaren desagertzeak tximino-gaztelua garbi mantendu egiten du.",
+    "option_b": "Larruaren desagertzeak tximino-gaztelua azkarrago mugitu egiten du.",
+    "option_c": "Larruaren desagertzeak tximino-gazteluaren etxea bero mantentzen du.",
+    "option_d": "Larruaren desagertzeak tximino-gaztelua bere habitatuan nahasi egiten du."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7008120",
+    "answer": "A",
+    "instruction": "Zientzialariek lehertzeko erro bizidunekin",
+    "option_a": "masa.",
+    "option_b": "distira.",
+    "option_c": "Terra zegoen distantzia.",
+    "option_d": "Eguzkitik zegoen distantzia."
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_13",
+    "answer": "B",
+    "instruction": "Nerabeak bere aurpegia ikus daiteke olatu itzalpean begiratzean. Zein oinarrizko propietate fisikoa du olatuak hau gertatzen delako?",
+    "option_a": "flexibilitatea",
+    "option_b": "adabegitasuna",
+    "option_c": "tenperatura",
+    "option_d": "bolumena"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_1",
+    "answer": "B",
+    "instruction": "Ikasle batek zukua baino soilik jatorrizko lurra duen bi makila hartan bi babarrun erlatxo landatu zituen. Bat makil landare-gunean, eta bestea leiho batekin buztanaia. Egunean zehar, bietan 15 mililitro ur bota zituen. Zein faktore izan da desberdina makil lau arrepikatuetan?",
+    "option_a": "Ur kopurua",
+    "option_b": "Argiaren kopurua",
+    "option_c": "Lur mota",
+    "option_d": "Babarrun mota"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7141698",
+    "answer": "B",
+    "instruction": "Tximinez gertatzen denean, inguru airea bero egiten da. Aire beroak hedatzen da eta tronua sortzen du. Tximineziaren energia mota nola bihurtzen da tronua sortzeko?",
+    "option_a": "gravitazionala",
+    "option_b": "mekanikoa",
+    "option_c": "nuklearra",
+    "option_d": "erradiazioa"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_407314",
+    "answer": "A",
+    "instruction": "Bi klasek ikerketarik berdina egin zuten. Klase bakoitzak emaitza desberdinak lortu zituen. Zein da ikasleentzako modurik onena emaitza desberdinak zergatik ziren jakiteko?",
+    "option_a": "Berrikusi ikerketan hartutako pausoak.",
+    "option_b": "Aldatu ikerketaren hipotesia.",
+    "option_c": "Bilatu datuak antzeko ikerketetan.",
+    "option_d": "Ikerketa desberdina egin."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_406781",
+    "answer": "C",
+    "instruction": "Zein animalien arteko interakzio da onena espezie baten pobulazioa kontrolatzeko?",
+    "option_a": "Itsasoko animaliak bere lurraldea markatuz",
+    "option_b": "Remora arrainak haien haitzuloekin mugituz",
+    "option_c": "Lehoiak zebrak hiltzen",
+    "option_d": "Otsoak taldean mugituz"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400845",
+    "answer": "B",
+    "instruction": "Ikarak tronadurak energiaren hau guztiak sortu ditzake, salbu eta",
+    "option_a": "berezko energia.",
+    "option_b": "solar energia.",
+    "option_c": "argi energia.",
+    "option_d": "elektrizitate energia."
+  },
+  {
+    "id": "ARC-Challenge/validation/ACTAAP_2009_5_5",
+    "answer": "B",
+    "instruction": "Janet-i mineral batzuk identifikatzeko eman dizkiete. Bere azterketa guztietatik bat horia da. Zein mineral da azkarrago hori izan dadin?",
+    "option_a": "Talka",
+    "option_b": "Zufrea",
+    "option_c": "Gipsa",
+    "option_d": "Hematita"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7171938",
+    "answer": "D",
+    "instruction": "Munduko ozeano-urrak, Lurako Ilargiaren eragin handia dute. Zein fase lunarretan dira txikienak ozeano-urrak Lurraren gainean?",
+    "option_a": "osorik eta lehen hiruhilekoa",
+    "option_b": "osorik eta hilabeteko berria",
+    "option_c": "azken hiruhilekoa eta hilabeteko berria",
+    "option_d": "lehen hiruhilekoa eta azken hiruhilekoa"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415354",
+    "answer": "C",
+    "instruction": "Zein jokaera ikasten du delfina?",
+    "option_a": "arrain txikiak jatea",
+    "option_b": "gatzaren uran igeria egitea",
+    "option_c": "bola gurpildunaren gainean orekatzen",
+    "option_d": "sudurrak bidezkoa jotzea"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_17",
+    "answer": "C",
+    "instruction": "Zer izango litzateke katuak berauen gurasoetatik probabilitate handiena duten ezaugarria?",
+    "option_a": "zirikatua izatea",
+    "option_b": "jostailua atsegin dutzea",
+    "option_c": "horia izatea",
+    "option_d": "izena ezagutzea"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7251685",
+    "answer": "B",
+    "instruction": "Zein jarduera bermatzen du osteocytuen funtzionamendu egokia?",
+    "option_a": "suzko-airea handituz",
+    "option_b": "elikagai mineralaz bizi",
+    "option_c": "arazo-emarritsuzko ariketak murriztu",
+    "option_d": "ionsizko ura edatzea"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7267995",
+    "answer": "C",
+    "instruction": "Lurreko zenbait landare-espezie eta animalia-espezie gure artean elkarri men egin behar diote. Zein da haien artean milaka landare-espezie bultzatzen dituen animali hau?",
+    "option_a": "harrobiak",
+    "option_b": "lurrezko beroak",
+    "option_c": "ixa-abelha",
+    "option_d": "sabeltxoak"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7193043",
+    "answer": "B",
+    "instruction": "Landare autohtoniek bizi izan ziren lekuak hiri-luzeetan makrofitoen sorrera izugarria dela eta. Zein da, bada, abiotiko prozesu hau bizilaguneratzat geroztik gutxitzen dituena?",
+    "option_a": "inundazioa",
+    "option_b": "haize-urrasketa",
+    "option_c": "lurzoru-haizeak",
+    "option_d": "izotz katiloen fuskadak"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7154263",
+    "answer": "B",
+    "instruction": "Fitoplanctonak ur-kokapenetan leihatilan bizi olio txikiak dira, ozeano bezalako uraren gaineran zabiltza. Fitosintesi-prozesuan karbono dioxidoa hartzen dute. Fitoplancton-populazioa suntsitzen bada, zerbait gertatuko litzateke?",
+    "option_a": "Itsas-tenperaturak jaitsiko lirateke.",
+    "option_b": "Gatz-gasak handituko lirateke.",
+    "option_c": "Atmosferako oxigenoa handituko litzateke.",
+    "option_d": "Itsas mailak nabarmen jaitsiko lirateke."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7032743",
+    "answer": "C",
+    "instruction": "Zein da geoparduaren ezaugarri bat ikasteko garrantzitsua, transmitituta baina herentzi ez dena?",
+    "option_a": "abiadura",
+    "option_b": "zuri-buztinak",
+    "option_c": "sustraiak",
+    "option_d": "ukabilketarik gabeko artzainak"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_19",
+    "answer": "B",
+    "instruction": "Katu gaztetxoen gorabehera, gorputz-antzekotasuna gutxitzen da gehienez",
+    "option_a": "murrizten da",
+    "option_b": "handitzen da",
+    "option_c": "berdina behera geratzen da"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7115273",
+    "answer": "C",
+    "instruction": "Lakuaren azalera algen salkor anitz dituenean, zein abiotoik galduta geratzen da fonsatuan?",
+    "option_a": "ura",
+    "option_b": "gatz",
+    "option_c": "argia",
+    "option_d": "oxigenoa"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7192990",
+    "answer": "A",
+    "instruction": "Arotza baso sutegiak denez, zonalde askotan egingo dira leizarren baldintzak direla medio. Baldintza horiek jarraitzen badute denbora laburrerako, nola gertatuko da zuhaitzabarrenen bizi-hazkunde hutsa izan dadin?",
+    "option_a": "Lurzoruaren lodiera jaisten bada",
+    "option_b": "Haizeuren kopuruaren murrizketarekin",
+    "option_c": "Bakterioen populazioaren hazkundearekin",
+    "option_d": "Oxigenoaren produkzioaren hazkundearekin"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_408859",
+    "answer": "A",
+    "instruction": "Florida wetlands-ean ohikoak dira Amerikako alligatorrak. Izan ere, bekak, tortoiak, arrainak, saguzarrok eta txoriak jan ohi dituzte. Zein da Amerikako alligatorren rola bere ekosisteman?",
+    "option_a": "kontsumitzailea",
+    "option_b": "deskomposatzailea",
+    "option_c": "zilatzailea",
+    "option_d": "produktorea"
+  },
+  {
+    "id": "ARC-Challenge/validation/TIMSS_2007_4_pg90",
+    "answer": "C",
+    "instruction": "Sue-k zukua bustitzen den azukrea neurriz, bigarren zukua beroa eta hirugarren zukua bero handian zertan halaber zukua bezainbeste azukrea hautemango zuen. Zer ikusi izan ote du?",
+    "option_a": "Koldo urak azukrea gehien bustitzen du.",
+    "option_b": "Bero urak azukrea gehien bustitzen du.",
+    "option_c": "Bero handiko urak azukrea gehien bustitzen du.",
+    "option_d": "Koldo urak, bero urak eta bero handiko urak azukrea berdin bustitzen dute."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_180058",
+    "answer": "A",
+    "instruction": "Koloradon aurkitutako fosila Mesozoiko Aurrerako denbora-taldetik datorkigu. Urtebat geroago, Wyomingen aurkitzen da denboraldi berdineko Mesozoiko Aurreko fosil baten antzekoa. Bi organismo hauek, seguruenik, bizi izan ziren",
+    "option_a": "etxebizitza berdinean eta ia bera zabiltzan denboran.",
+    "option_b": "etxebizitza berdinean, baina desberdin denboran.",
+    "option_c": "etxebizitza desberdinetan, baina ia bera zabiltzan denboran.",
+    "option_d": "etxebizitza eta denboraldietan desberdinak ziren."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400050",
+    "answer": "C",
+    "instruction": "Zer gertatzen da etxean tenperatura hautsiagoa dagoenean termostatoan aukeratutako tenperaturatik?",
+    "option_a": "Berogailua yurreztatuko da.",
+    "option_b": "Termostatoa bero egingo da.",
+    "option_c": "Berogailua automatikoki piztuko da.",
+    "option_d": "Termostatoak bizi-aldia emanen du."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_1998_8_13",
+    "answer": "D",
+    "instruction": "Zein ez da akzu pozgarria sortzen duen gaitza itsaskortasun indarrean energia atomikoaren erabilera duen kontuari lotuta?",
+    "option_a": "itsasadako hondakinak zertan txertatzeko beharra",
+    "option_b": "lurraren inguruko eremuetan osasun arriskuak",
+    "option_c": "ura hozteko erabilitako hodiak eragingarri duten bero kutsadura",
+    "option_d": "ezgaitasuna energia atomikoan bihurtzeko langabezia"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_4",
+    "answer": "A",
+    "instruction": "Zein gaitasunen estatuek ez dute bolumen definirik eta ez dute forma definirik?",
+    "option_a": "gasa",
+    "option_b": "likidoa",
+    "option_c": "solidea"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7233678",
+    "answer": "A",
+    "instruction": "Zientzialariek uste dute lurrazalak Lurreko historia geologikoan izan duen mugaketa kontinentalak klima beroago eta hozkorragoak eragin handia izan duela. Kontinenteak mugitu ezean globalaren klima aldaketak ez dira gertatzen. Zein adierazpen da markakotasun bat duten lurrazalen klima aldaketak eragiteko?",
+    "option_a": "Kontinentuaren kokapena bere azalaren islatutasuna eragiten du.",
+    "option_b": "Kontinentalaren platako sakonera bere bero-espezifikoak zehazten duena da.",
+    "option_c": "Mugimendu kontinentala energia kintetiko handiak absorbitzen ditu.",
+    "option_d": "Kontinentu baten tenperatura haren hurbileko ozeanoaren eragina du."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_LBS10666",
+    "answer": "B",
+    "instruction": "Landareek, ohikoetan, organismo beste batzuek janaria ez dute behar, hainbat arrazoiengatik:",
+    "option_a": "landareek biziraupenerako janaria ez dute behar.",
+    "option_b": "eguzki-argia janari energiara bihurtzen dute.",
+    "option_c": "landareek janari energia guztia lur kantuatik hartzen dute.",
+    "option_d": "landareek janari-energia gordetzen dute haien erroetatik."
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_8_38",
+    "answer": "A",
+    "instruction": "Materia solidoak (egoeran) biztanle azal bat eta bolumen finkoa du",
+    "option_a": "forma finkoa eta bolumen finkoa dauka",
+    "option_b": "forma finkoa baina bolumen finkorik gabeko",
+    "option_c": "forma finkorik gabeko bolumen finkoa dauka",
+    "option_d": "forma finkorik gabeko eta bolumen finkorik gabeko"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2004_8_28",
+    "answer": "A",
+    "instruction": "Zein aldagaia aldagai-motasuak gorputz pilota bat urrutitik hil artez aldakorra izango litzateke?",
+    "option_a": "Masa berdina izango litzateke, baina pisua aldatuko litzateke.",
+    "option_b": "Pisua berdina izango litzateke, baina masa aldatuko litzateke.",
+    "option_c": "Dentsitatea berdina izango litzateke, baina masa aldatuko litzateke.",
+    "option_d": "Masa berdina izango litzateke, baina dentsitatea aldatuko litzateke."
+  },
+  {
+    "id": "ARC-Challenge/validation/LEAP__7_10354",
+    "answer": "D",
+    "instruction": "Joanne-ren zientziako irakasleak klaseari ohartarazi zuen ziurgabetasunez jokatu behar dela, zientzia interpretatzeko denbora berrian lantzen denetan. Zergatik da garrantzitsua ziurgabetasun handia izatea zientzia berriak ikasten?",
+    "option_a": "Zientzia oso ez doktrinatuak izan ohi dira.",
+    "option_b": "Zientzia aurrez ezarritako arauak hainbat aldaketa lortu ditu.",
+    "option_c": "Zientzialari askok arazoak izaten dituzte zientziako ikerketak egin ditzaten.",
+    "option_d": "Zientzia garrantzitsuenak solidaritate bizian aztertuko dira, ondoren berreskuratu."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2003_8_25",
+    "answer": "B",
+    "instruction": "Automobil batean, hurrengo komponentetariko zein da gidariari atalaketa emateko diseinatuta dagoenak?",
+    "option_a": "mankulu",
+    "option_b": "abiadur adierazlea",
+    "option_c": "ixilikotxoa",
+    "option_d": "auto gakoa"
+  },
+  {
+    "id": "ARC-Challenge/validation/TIMSS_2011_8_pg63",
+    "answer": "C",
+    "instruction": "Zein da hurrengo definizio egokia zatikorra zehazteko?",
+    "option_a": "substantzia ezberdinak nahastu",
+    "option_b": "atomo eta molekulak nahastuta",
+    "option_c": "elementu ezberdinen atomoak batera eratuak",
+    "option_d": "elementu berdinen atomoak batera eratuak"
+  },
+  {
+    "id": "ARC-Challenge/validation/AIMS_2009_4_29",
+    "answer": "D",
+    "instruction": "Hozkailuak elikagaiak gordetzeko leku hotza sortzeko elektrizitatea erabilten du. Zein da hain negatiboa hozkailuak eragiten du ingurumenari?",
+    "option_a": "Elikagaiak hotzegiteko behar den elektrizitateak gastigarria izan daiteke.",
+    "option_b": "Elektrizitatea desagertzen bada, elikagaiak hozkailuarekin hondatuko dira eta gaixotasuna eragin dezake.",
+    "option_c": "Elikagaiak gehiago egon daitezke hoztean, horrek gizona merkeago egiten du.",
+    "option_d": "Zaharkitutako hozkailuak produktuen birziklapenean gai kimikoak ditu eta hondatzaileetan leku hartzen du."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_LBS10472",
+    "answer": "B",
+    "instruction": "Landareek haien erroetako amaieran heziketa espezializatuak dituzte. Zer egin ahal izango dute erroek horiekin?",
+    "option_a": "janariaz har zea",
+    "option_b": "altuago hazten",
+    "option_c": "janariak egiten",
+    "option_d": "ura hartzen"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415491",
+    "answer": "C",
+    "instruction": "Lurra urtean zehar Eguzkiaren inguruan orbitatzen da. Zenbat aldiz biratu egiten da ilargia urtean zehar Lurrean?",
+    "option_a": "1",
+    "option_b": "7",
+    "option_c": "13",
+    "option_d": "28"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2011_5_17673",
+    "answer": "A",
+    "instruction": "José magnetizatzaile bi ditu. Magnetizatzaileen muturreko aldeak elkarrekin leuntzen ditu eta askatzen ditu. Zergatik gertatzen da hau gehienetan?",
+    "option_a": "Magnetizatzaileen ipar-ahiruak elkarrekin dira.",
+    "option_b": "Magnetizatzaile bat ipar hila da eta beste magnetizatzaile bat hegoaldekoa da.",
+    "option_c": "Magnetizatzaileen muturretak elkarri artea bultzatzen dute, baina zentroak atzitzen dute.",
+    "option_d": "Magnetizatzaile bat energiaren gordetzen ari da eta beste magnetizatzaile bat energiaren askatzen ari da."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_416648",
+    "answer": "A",
+    "instruction": "Paramecium eta volvoxek elkartasun-bidez bizirola egin daiteke. Zein da volvoxen bizirola sexualez ezberdina parameciumen bizirola sexualez baino?",
+    "option_a": "Volvox koloniak gametoak sortzen ditu.",
+    "option_b": "Volvox zelulak konjugazioren bidez bizirola egin.",
+    "option_c": "Volvox koloniak zelula bakarrak sortzen ditu bizirolarako.",
+    "option_d": "Volvox zelulak bidai hedatu bidez bizirola egiten du."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7207620",
+    "answer": "A",
+    "instruction": "Tarteka dauden tresneek Lurzoruaren atmosferako ozono mailako hodiaren oxigeno mailak erregistratzen dutela. Datu hauei buruzko erregistroa urte askotarako gorde daiteke, adibidez,",
+    "option_a": "jarduera jarraituz frogak eraikitzea da.",
+    "option_b": "datuak onartzen dituen hipotesi bat aztertzea da.",
+    "option_c": "ondo jokatu egin duen frogetarako konklusioak hartzea da.",
+    "option_d": "uler daitekeen datu bat proposatzea da."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7164850",
+    "answer": "A",
+    "instruction": "Floridakoa ingurualdiko barner uharteak nola sortu ziren erakusten duen kartela diseinatu zuen zientzia klase batek. Ikasleek haize, olatu eta fluxuaren eraginak erakutsi zituzten uharte hauek osatzen zituzten harena gainean. Zein paretan oinarritu beharko ziren ikasleek kartelan barner uharteak sortu zutela esan behar dute?",
+    "option_a": "hidrosfera eta atmosfera",
+    "option_b": "atmosfera eta litosfera",
+    "option_c": "biosfera eta hidrosfera",
+    "option_d": "litosfera eta biosfera"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7011270",
+    "answer": "B",
+    "instruction": "Zenbat denbora hartzen du hilak zirkulazio bat osatzen duenean lur eta inguruaren inguruan?",
+    "option_a": "7 egun",
+    "option_b": "30 egun",
+    "option_c": "90 egun",
+    "option_d": "365 egun"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7090598",
+    "answer": "C",
+    "instruction": "Zein prozesu da energia termiko handi kantitatea transferitzen duen prozesu horietako bat?",
+    "option_a": "erozioa",
+    "option_b": "sedimentazioa",
+    "option_c": "subduktzioa",
+    "option_d": "zementazioa"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_412337",
+    "answer": "D",
+    "instruction": "Ikerlan batean, beroa ingurumenari baino trantsferitu zen likidotik. Zein azalpen paregabe da hau egokitzen?",
+    "option_a": "Likidoaren tenperatura igo egin da edo likido bat gas bihurtu da.",
+    "option_b": "Likidoaren tenperatura igo egin da edo likido bat solido bihurtu da.",
+    "option_c": "Likidoaren tenperatura jaitsi da edo likido bat gas bihurtu da.",
+    "option_d": "Likidoaren tenperatura jaitsi da edo likido bat solido bihurtu da."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_405454",
+    "answer": "D",
+    "instruction": "Zein sukaldeko tresna aldatzen du ingurumena gutxiago?",
+    "option_a": "gas zabila",
+    "option_b": "sabela elektrikoa",
+    "option_c": "mikrouhin",
+    "option_d": "eguzki sukaldira"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7007875",
+    "answer": "B",
+    "instruction": "Norek sortzen du haizea?",
+    "option_a": "itsasoaren eraginak",
+    "option_b": "energia solarra",
+    "option_c": "iturriak",
+    "option_d": "gizakiak sendatzen dituen indarra"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_417146",
+    "answer": "A",
+    "instruction": "Atmosferan dagoen oksigeno handia algaiek sortzen dute. Algae gehienak non bizi dira?",
+    "option_a": "itsasoko kostaldea",
+    "option_b": "itsas fondea",
+    "option_c": "itsaslagunak",
+    "option_d": "lakak"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_407695",
+    "answer": "D",
+    "instruction": "Juan eta LaKeishak objektu batzuk txirulatzen jarri dituzte errampatik behera. Objektu bat da hainbatengo iraupen handiena duenaren aurrean. Zer egin behar dute beraien ikerketa errepikatzeko?",
+    "option_a": "Objektuak taldekatu.",
+    "option_b": "Erramparen altuera aldatu.",
+    "option_c": "Txirulatzeko objektu ezberdinak aukeratu.",
+    "option_d": "Ikerketaren xehetasunak zuzenean jaso."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7158673",
+    "answer": "D",
+    "instruction": "Ana Landa-iganleku-korrikalari da. Kanpoko lasterketaren ondoren, beroa sentitu zuen eta energia termikoa askatzeari esker gertatu zitzaien. Zein da energia termikoaren jatorria ohikoena?",
+    "option_a": "Airetik sortutako sasietsa.",
+    "option_b": "Eguzkitik hartutako beroa",
+    "option_c": "Eskularruak sorturiko energia mekanikoa",
+    "option_d": "Energia trantsformazioak gertatzen direla, Ana Landarekin"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7018515",
+    "answer": "C",
+    "instruction": "Arrazoia, edozein beste faktore baino gehiago, gazi-saldean ur freskoan baino azkarrago zabiltzala ohi izan dela adierazteko da.",
+    "option_a": "Elastikotasun handiagoa duenez.",
+    "option_b": "Beroa lehenago absorbitzen duelako.",
+    "option_c": "Dentsitate handiagoa duenez.",
+    "option_d": "Ikus-entzunez hobeagoa delako."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_412551",
+    "answer": "D",
+    "instruction": "Hontza ilun koloreko ezpain berdea eta gris koloreetako bi alderdi daude. Zelan diru gris koloreko hontz berdeak gainditzen du kolore gorriko hontz berdeen aurrean, eguzkil-lore iluna duen basoan?",
+    "option_a": "Harrapaketa",
+    "option_b": "Elikatzea",
+    "option_c": "Eraikuntza",
+    "option_d": "Kakhidea"
+  },
+  {
+    "id": "ARC-Challenge/validation/VASoL_2008_5_19",
+    "answer": "D",
+    "instruction": "Hiru beisbol jokalariek inbertsioa egiten dute zertan lehorren bototerik botatzeko. Area bat markatzen dute jolasgunean beraien inbertsioarentzat. Zein faktore mantendu beharko lukete konstante?",
+    "option_a": "Jokalarien altuera",
+    "option_b": "Bototzat jotako beisbolaren kolorea",
+    "option_c": "Jokalarien botaketaren ordena",
+    "option_d": "Jokalariak bototzatuko duten tokitik"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7120890",
+    "answer": "A",
+    "instruction": "Zeintzuk erakusten du ondasunek energia transmititzen dutela?",
+    "option_a": "Kanpotxoa dorrea jotzen duenean",
+    "option_b": "Zuhaitzetatik hostoa jaisten denean",
+    "option_c": "Erraldoia menditik behera murriztuz doala",
+    "option_d": "Banderak airean mugitzen direnean"
+  },
+  {
+    "id": "ARC-Challenge/validation/AKDE&ED_2008_8_44",
+    "answer": "A",
+    "instruction": "Zein ezaugarria da animaliak bakarrik dituzten taksonomia taldeetako batean: arrainak, lurrikar, mamiferuak, hontzak edo amfibioak?",
+    "option_a": "Izuria izatea",
+    "option_b": "Arrautza jaurti",
+    "option_c": "Hankazkoak izatea",
+    "option_d": "Igeriketailez arnastu"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415348",
+    "answer": "D",
+    "instruction": "Zein da zuhaitzaren barne-jatorriko ezaugarria?",
+    "option_a": "mairu bateko zenbaki mamitsuak",
+    "option_b": "haritz bateko zapia",
+    "option_c": "eztula bateko hezurrak",
+    "option_d": "arana estalita daukaten hegazti batenaren tronka lodia"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7014368",
+    "answer": "C",
+    "instruction": "Kostalde luzea ozeano-haizeak dira, hain zuzen ere ertzean angelu txiki batez jotzen dutenak. Kostalde luzeak dauden eremu batean, zer eragin dute lurzoruan?",
+    "option_a": "Mendiak eraikitzen dituzte.",
+    "option_b": "Terramotoak sor ditzakete.",
+    "option_c": "Hondartzakoa mugitzen dute, hondartzaldiak sortuz.",
+    "option_d": "Lurrean ibai itsasozkoak sortzen dituzte."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7245193",
+    "answer": "C",
+    "instruction": "Era eremu lantoki baten zuloa garbitu egin zen errokan eraikitzen, baina errepideak inoiz ez ziren eraikitzen. Erdia hasi zen birsortzen. Zein organismo agertu litezke lehenengoak?",
+    "option_a": "arboles",
+    "option_b": "arbuioak",
+    "option_c": "lichenak eta belar",
+    "option_d": "yuyuak eta krabgrasak"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7251668",
+    "answer": "D",
+    "instruction": "Dafnia populazio batek migrazio bertikala erakusten du metru ireki baten funtziotik, egunero, eta pondako azaleraera igandero. Zein faktorei erantzuten die dafnia populazioak, gutxienez?",
+    "option_a": "ura PH-a",
+    "option_b": "ura argitasuna",
+    "option_c": "ura presioa",
+    "option_d": "ura tenperatura"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2013_8_29421",
+    "answer": "A",
+    "instruction": "Ume batek arindutik desagertzen den arimaren bidez, kozea sentitu egiten du. Zein da hurrengo adierazpenetako hau?",
+    "option_a": "Beroa arima desagertzen denean arimak beroa bereganatzen du.",
+    "option_b": "Beroa arima desagertzen denean gorputzeko beroa bereganatzen du.",
+    "option_c": "Arimaren uraren tenperatura jaisten da desagertutakoan",
+    "option_d": "Gorputzaren uraren tenperatura igo egiten da arima desagertzean."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7082145",
+    "answer": "D",
+    "instruction": "Nola erabili daitezke distantzia eta denbora datuak dituen objektu baten grafiko lerroa erakusteko?",
+    "option_a": "Y-arderako etiketak denbora izan behar dute, zeinak aldagai menpekoak dira.",
+    "option_b": "Y-arderako etiketak distantzia izan behar dute, zeinak aldagai independenteak dira.",
+    "option_c": "X-arderako etiketak distantzia izan behar dute, zeinak aldagai menpekoak dira.",
+    "option_d": "X-arderako etiketak denbora izan behar dute, zeinak aldagai independenteak dira."
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2007_5_39",
+    "answer": "D",
+    "instruction": "Marylanden bizi den ikasleek baliabide naturalak ikasten ari dira. Ikasle talde bat erroldatze berriztagarriak azaltzen dituen informazioa eskaintzeko ikertzen da estatuan. Beste talde bat estatuan berriztagarri ez diren baliabide naturalen informazioa erabaki ditu ikertu beharreko baliabideak barne hartuta, planta, animaliak, lurrak, mineralak, ura, koak eta petrolioa. Zein jarduerak eragiten du baliabidea naturala negatiboki?",
+    "option_a": "Laketan arrantza egiten",
+    "option_b": "Urarekin elektrozitatea sortzen",
+    "option_c": "Lakutiako usoak landatzea",
+    "option_d": "Uhinak estali lurrean haziaren bidez"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_22",
+    "answer": "A",
+    "instruction": "Zenbaki batzuen harriak kolektiboki loturik daude eta horiek ondorioak sortzen dituzte. Adibidez, zenbaki batek beti",
+    "option_a": "zenbaki beste batzuen bidez mendekotasunak itxarotzen ditu",
+    "option_b": "zenbaki beste batzuen gainetik joaten da bizitza irauteko",
+    "option_c": "zenbaki beste batzuek oilya gordetzen dute",
+    "option_d": "zenbaki beste batzuek elikagaien artean lehentasuna hartzen dute"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7006790",
+    "answer": "B",
+    "instruction": "Zein da hurrengo aukeretako hau leihoak zapalduz gertatzen diren tronada batean? ",
+    "option_a": "energia elektrikoa",
+    "option_b": "soinu energia",
+    "option_c": "argi energia",
+    "option_d": "berezitasun energia"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7284043",
+    "answer": "C",
+    "instruction": "Afrikako savanetan elefanteak belar eta zuhaitz txikiak jaten dituzte. Jarduera horrek lurra garbitzen du eta belarrak hazten ditu. Belatzjaleek, hala nola gatzelek belarrez, belarra jaten dute. Leoiak gatzoei jasaten die. Eragin konportamendu honetan bi organismo gehiengo erlazionatuta daude?",
+    "option_a": "elefanteak eta belarrak",
+    "option_b": "belarrak eta leoiak",
+    "option_c": "elefanteak eta belatzjaleak",
+    "option_d": "belatzjaleak eta leoiak"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7175455",
+    "answer": "D",
+    "instruction": "Australiako lurretan, eguerdiko tenperaturak 110 ºF (43 ºC) baino gorak izan daitezke. Haien gorputzak hotz mantentzeko, kanguroek haien besoak hilobetetzat hartzen dituzte eta pasarazten dute. Honek besoak hutsunez estaltzen ditu eta lurrera iristean, hotsei atezain jokoa eginez gorputzekoa ia eteten dio. Zein da hauen jarduera deskribatzen duen termino hoberena?",
+    "option_a": "Hautaprobak",
+    "option_b": "Babes mekanismoa",
+    "option_c": "Eraikuntza egokitzapenak",
+    "option_d": "Jokabide egokitzapenak"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_401714",
+    "answer": "B",
+    "instruction": "Labin esperimentuan, ikasleek hainekoila ezezaguna nola identifikatzen duten egiten ari dira. Zer metodo da egokitzen hainekoila trantsferentzia paperrera mugitzeko?",
+    "option_a": "Eskuinaren bidez iraungi, sarrera paperrera",
+    "option_b": "Laborategi espátula bidez hartu, sarrera paperrera",
+    "option_c": "Eskuinaren bidez pitxika egingo, eta sarrera paperrera altxatu",
+    "option_d": "Botiletik sarrera paperrera bustita, transferentzia"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_409529",
+    "answer": "B",
+    "instruction": "Robert arrantzale bat da, eta arrain asko puskatzeko modu bat aurkitzeko saiatu da. Ezberdineko seiak erabaki ditu; zeinak erabiliko dituen probatzeko. Robert ekarri ditu 4 katxalotu, 3 trota, eta 7 perxa bero, belarri erabiliz. Zein da kontrolatu gabeko aldagai (manipulatu) Robert-en azterketan?",
+    "option_a": "Kokotxoen tamaina",
+    "option_b": "Kokotxoen mota",
+    "option_c": "Puskatutako arrainen mota",
+    "option_d": "Puskatutako arrain kopurua"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7223038",
+    "answer": "C",
+    "instruction": "Izarren tamainaz eta koloreaz hainbat mota daude. Sun eguzkiari dagokion kategoria azaltzen duen aukera hurrengoa da:",
+    "option_a": "urdin supergeiñu izarrak",
+    "option_b": "gorri jaurti izarrak",
+    "option_c": "laranjazko sekuentzia nagusiako izarra",
+    "option_d": "horia nanoizarrak"
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2008_5_24",
+    "answer": "C",
+    "instruction": "Maryland eta inguruko herrialdean oso hainbat baliabide natural daude. Baliabide natural horietako batzuk berriztagarriak dira eta beste batzuk ez berriztagarriak. Jendeak bi motatako baliabideak erabiltzen ditu eguneroko jardueretan. Baliabide naturalak erabiltzen badira, hondakinak sortzen dira. Birziklapen-zentroak dira non jendeak berriz erabil daitezkeen materialak eramateko, produktu berriak egiteko. Nola eragiten du papera birziklatzea ingurumenaren alde?",
+    "option_a": "aeropolimena gutxitzen du",
+    "option_b": "lurreko hauskortzea handitzen du",
+    "option_c": "ebaki beharreko zuhaitzak gutxitzen ditu",
+    "option_d": "biztanle arrazakeria handitzen du"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2010_5_11998",
+    "answer": "A",
+    "instruction": "Udaberri izkutuak eguzkitxo mota baten eguzkilorea dira, zuhaitzak eta hegaztiak igo ditzaten. Hurrengo portaera hauek eta zuzenbideak, zerbait ikusten duzunean gorabehera, aukeratzen duzu:",
+    "option_a": "steka estalitzea erantzunean kurlatzen dutelako",
+    "option_b": "stekak ur erantzunean bolumatzen direlako",
+    "option_c": "loreak argi erantzunean zabaltzen dira",
+    "option_d": "erroak grabitatearen erantzunekin hazten direlako"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7139493",
+    "answer": "B",
+    "instruction": "Zein da segurtasun neurria errepikatutako insektizidetara aurre egin dezaketen txintxirin-izeinaren sorzabalera nabarmen eragilea?",
+    "option_a": "espezie dibertsitatea",
+    "option_b": "adn dibertsitatea",
+    "option_c": "ekoizpen komunitatearen dibertsitatea",
+    "option_d": "poblazioaren dibertsitatea"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_14",
+    "answer": "A",
+    "instruction": "Eguzki-panelek eguzkia absorbatzeko erabiltzen dira. Zein koloreko panel da eguzki gehien absorbatuko duena?",
+    "option_a": "beltza",
+    "option_b": "berdea",
+    "option_c": "zuria",
+    "option_d": "horixa"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2006_9_35",
+    "answer": "A",
+    "instruction": "Zein gatazkak hartzen dituzten genetikako baldintza hauek segresioagatik sortzen dira?",
+    "option_a": "16. kromosoma hiru kopia jasotzen dituen trisomia 16: baldintza bat dela medio",
+    "option_b": "Huntington gaixotasuna: alelo dominante mutatua jasotzen duen zigoto batek eragindako baldintza bat dela medio",
+    "option_c": "Hemofilia: alelo hutsetik baldintza berezi bat daukaten X kromosomak jasotzen dituen zigoto batek eragindako baldintza bat dela medio",
+    "option_d": "Otin anemia: bi jatorrizko alelo hutseta jaso dituen zigoto batek eragindako baldintza bat dela medio, eta hemoglobina barne hartzen duen alelo hutsea dela medio"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2015_8_7",
+    "answer": "B",
+    "instruction": "Ikasle batek bi ur-tenpiratzia berotzen ditu urrezko plaka batean gehieneko gaitasunean erabiliz. Batzuk 1 L-ko ura dauka eta besteak 3 L-ko ura dauzka. Ikasleak bakoitza berotzen du ur beroa dauden artean. Zein da hurrengo adierazpenetako onena plaketan dauden urarekin gerta daitezkeenaren inguruan?",
+    "option_a": "Bietako urak bera bero egiten dute bera bera denbora batean.",
+    "option_b": "Bietako urak bera tenperaturan bero egiten dute.",
+    "option_c": "3 L-ko ura 1 L-ko baino beroago bihurtzen da bero egiten baino lehen.",
+    "option_d": "3 L-ko urak beroa azkarago hartzen du 1 L-ko urain baino."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7115063",
+    "answer": "A",
+    "instruction": "Zein hau da ekosistema baso-maltsean isa gehien desegiteko arrazoia?",
+    "option_a": "etxebizitza garaiak eraikitzea",
+    "option_b": "landare basati autohtonak landatzea",
+    "option_c": "eanodun periodo bat",
+    "option_d": "iseilak tronpatzea"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7144795",
+    "answer": "D",
+    "instruction": "Ingurumen-baldintzak hainbat aldaketa jasan dituen habitat berezi batek azken 75 urteotan. Eneko espeziearen ezaugarri da, aldi berean, baldintza hauek baino hobeko aukera izan dezakeena?",
+    "option_a": "individuo ugari dituen populazio bat",
+    "option_b": "oraindik komunitatean oso anitz espizies dituela",
+    "option_c": "gai egiten duten egokitzapenak pertsona talde askotan bizi ahal izateko",
+    "option_d": "Inguru berrietan egokitzapenak sortzeko bideratzen duten jokabideak"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_400934",
+    "answer": "C",
+    "instruction": "Elementuen Taula Periodikoaren arabera, zein multzoetako elementu multzoek ezaugarri antzekoak dituzte?",
+    "option_a": "H, C, I",
+    "option_b": "He, H, Al",
+    "option_c": "He, Ne, Ar",
+    "option_d": "Na, Ca, Al"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7004410",
+    "answer": "B",
+    "instruction": "Sistemaren osagaien arteaniko harremanak irudikatzen ez dituzteena da ekosistemaren errepresentazioetako batekaren mugarrik. ",
+    "option_a": "Ekosisteman landareak barne ez ditu.",
+    "option_b": "Ekosistemako guztiak barne ez ditu.",
+    "option_c": "Ekosistemako kontsumitzaileenak erakusten ez ditu.",
+    "option_d": "Ekosistemako harrapari-iheskatzaile arteko harremanak erakutsi ez ditu."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7029505",
+    "answer": "C",
+    "instruction": "Zein da ABO odol mailaketan zehar izaera bereizi ditzakeen odol moten ezberdintasunak?",
+    "option_a": "Gorputz berdezko tamainu ezberdinak",
+    "option_b": "Gorputz zuriko tamainu ezberdinak",
+    "option_c": "Gorputz berdezko markagailu ezberdinak",
+    "option_d": "Gorputz zuriko markagailu ezberdinak"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_LBS10598",
+    "answer": "A",
+    "instruction": "Izotz-kuboa leunta eta gero haizea bihurtzen da. Izotz-kuboak eta ur-baporeak berdina dute",
+    "option_a": "masa.",
+    "option_b": "dentsitatea.",
+    "option_c": "bolumena.",
+    "option_d": "tenperatura."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7245893",
+    "answer": "B",
+    "instruction": "Zein da sabela-sistemaren zati da, lehenetsitako aldaketa kimikoak egiten dituena janariari?",
+    "option_a": "aulkiak ahoan",
+    "option_b": "sabela ahoan",
+    "option_c": "enzima beroan",
+    "option_d": "enzima intestine ttipian"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7246925",
+    "answer": "D",
+    "instruction": "Leuzina gorputzeko behar dituen amino asidoetatik bat da, baina ezin ditu sortu. Nola gertatzen da giza gorputzek leuzina lortzeko?",
+    "option_a": "Gorputzek beste amino asidoak leuzinara bihurtzen ditu.",
+    "option_b": "Gorputzek leuzina edukita dauden karbohidratoak biltegitzen ditu.",
+    "option_c": "Gorputzek grasak desegin eta leuzina lortzen du.",
+    "option_d": "Gorputzek janarietan ditugun proteina zatitxoak digestatzen ditu leuzina lortzeko."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7138688",
+    "answer": "D",
+    "instruction": "Zein prozedura egiten du frogak zientifikoki baliozkoa den zehazteko?",
+    "option_a": "aparatuen baldintzak zaindu eta oihartzunak egin",
+    "option_b": "talde batekin adierazpena egin",
+    "option_c": "prozedura zehatz eta hobekien egitea",
+    "option_d": "frogak zenbat aldiz errepikatzea"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_408700",
+    "answer": "C",
+    "instruction": "Emily te kafetxo bat egin zuen eta biztanle batekin jakin sartu zuen. Eskua berotu egin zen. Nola transmititu zen berotza kafetxotik eskura?",
+    "option_a": "konbektioa",
+    "option_b": "irradiazioa",
+    "option_c": "konduktzioa",
+    "option_d": "baporizazioa"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7100608",
+    "answer": "B",
+    "instruction": "Michael-en familia etxea eraikitzeko ari dira. Baliabide erabilgarriek sortutako elektrizitatea erabili nahi dute. Zein hurrengo harrizko aukerak lagunduko lituzke familia helburua lortzeko?",
+    "option_a": "gasolina motorra",
+    "option_b": "eguzki leiho panelak",
+    "option_c": "karbonizazio elektrocentrala",
+    "option_d": "nuklear elektrocentrala"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7133648",
+    "answer": "C",
+    "instruction": "Zein da sukaldaritza-lanetan aldaketari fisikoa adibide bat dena?",
+    "option_a": " Arraultzingailuan olio frikatzea",
+    "option_b": "Bizkortza bat egitea",
+    "option_c": "Gazta margotzea",
+    "option_d": "Tostatzea ogia"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_401244",
+    "answer": "D",
+    "instruction": "Zein harri mota da erabilgarriena bizidun organismoen historia ikertzean?",
+    "option_a": "basaltoa",
+    "option_b": "marmola",
+    "option_c": "granitoa",
+    "option_d": "kalko-ostoa"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_400397",
+    "answer": "C",
+    "instruction": "Zein jokabide hauenetariko batek bere ingurunean bizi izanik gehienik ikasi al duen ontzi batek?",
+    "option_a": "ura edatea",
+    "option_b": "arrain jatea",
+    "option_c": "zakurrei bide-ontziak irekitzea",
+    "option_d": "bere haurrak defendatzea"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7245088",
+    "answer": "D",
+    "instruction": "Nola deskribatzen dira karbohidraten konposizioak?",
+    "option_a": "lipidoak fosfolipidoak sortuz",
+    "option_b": "monomeroek polimeroak sortuz",
+    "option_c": "aminozidoek polipeptidoak sortuz",
+    "option_d": "sakaridoek polisakaridoak sortuz"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_408809",
+    "answer": "C",
+    "instruction": "A zenbakiko haur batzuek, arrain beltzaren balioa osatzen dute koloratzearen falta erakutasuna erakutsiz. Beltza (BB) arrain baten seme-alabak eta zuri (bb) arrain baten semebakoiak griseak (Bb) dira. Bi grisen arteko gurutzean, zenbat portzentaia balio duten kapoiak?",
+    "option_a": "25% beltza, 75% gris",
+    "option_b": "25% gris, 75% zuria",
+    "option_c": "25% zuria, 25% beltza, 50% gris",
+    "option_d": "25% gris, 25% beltza, 50% zuria"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7068863",
+    "answer": "C",
+    "instruction": "Ikasle bat landareen hazkundezko eraginaren azterketa egin zuen. Lur gainetik pasatutako lau landare berdinak zehaztutako ilara zuzenean jaso zuten. Egitasmo hau hobetu ahalko litzateke...",
+    "option_a": "sustraietan loreleizeak egotearekin.",
+    "option_b": "gutxiago landareek parte hartzearekin.",
+    "option_c": "elikagai-egoki gabe ur jasotzen zuten landareak egotearekin.",
+    "option_d": "argi solarren gehiengo-desberdintasuna jaso zuten landareek egotearekin."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7166880",
+    "answer": "D",
+    "instruction": "Bihar hondartzara bidaia egiteko prest dagoen Clayek eguraldiari buruz aritu egiten ari da. Iragarpenak hurrengo egunean presio baxuko sistemak gauan mugituko dela iragarri du. Zer motatako eguraldi espero dezake Clay goizean gehienbat?",
+    "option_a": "hezurtsuz",
+    "option_b": "eguzkitsua",
+    "option_c": "argia eta hotzago",
+    "option_d": "beroa izugarria eta euri beroa"
+  },
+  {
+    "id": "ARC-Challenge/validation/ACTAAP_2007_7_25",
+    "answer": "A",
+    "instruction": "Zein ez da zientzia-laborategiarentzako segurtasun-arau bat?",
+    "option_a": "Neurtu likidoak zuzen beaker batean sartuta.",
+    "option_b": "Eskuetan duten objektuak moztu gabe, ezinbestekoa da.",
+    "option_c": "Segurtasun-aurpegiak jantzita, substantzia arriskutsuak kudeatzerakoan.",
+    "option_d": "Irudia egiterakoan, sudurrak zure sudurraren gainean jartzeko ordezko, gatz atera."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7018445",
+    "answer": "D",
+    "instruction": "Zein material bidez abestia azkarrago mugituko litzateke?",
+    "option_a": "korta",
+    "option_b": "ura",
+    "option_c": "airea",
+    "option_d": "altzairua"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7033653",
+    "answer": "C",
+    "instruction": "Zein da distantziak Lurretik beste sistema solar batzuetara espazio-unibertsoko mailakatzaile onena?",
+    "option_a": "mileak",
+    "option_b": "kilometroak",
+    "option_c": "argi-urteak",
+    "option_d": "egun-eremu astronomikoak"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2006_5_29",
+    "answer": "D",
+    "instruction": "Metalezko lau barra tamaina berekoak, baina aluminiozkoa ezberdina den gainontzekin gogorarazi dira, eta zenbakia biribilkatu da betierezko pisuarekin. Experimentu honen emaitzak zein haien garrantzitsuena iragartzea da?",
+    "option_a": "erabiltzen den bakoitzeko barra zer den zehaztuko duen zerrenda",
+    "option_b": "probetxu bakoitza marrazkian adierazten dena",
+    "option_c": "taularik bakoitzaren pisua adierazten duena",
+    "option_d": "grafiko errektangel batean bakoitzaren zehaztasuna adierazten duena"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7159268",
+    "answer": "A",
+    "instruction": "Azken aizoa atzetik, hezurraren eta mendiaren hotz-ontziak hondartzeko uretaratzea eragin zuen. Hauengatik, zenbat beste bazekiten, ozeano-uretaratzearen altuerak gertatu zuen?",
+    "option_a": "Lurreko kostaldeko lainotan sari-azalaren handitzea",
+    "option_b": "Geruza dauden organismo kopuruaren handitzea",
+    "option_c": "Egunezko mareen kopuruaren jaitsiera",
+    "option_d": "Ozeano sakonera gutxitzea"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_400885",
+    "answer": "D",
+    "instruction": "Zein ekuazio kimikoa da ekuazio kimiko orekatua?",
+    "option_a": "2NaOH + CaBr_{2} -> Ca(OH)_{2} + NaBr",
+    "option_b": "NO + Cl_{2} -> NOCl",
+    "option_c": "CaCO_{3} -> CaO + 2CO_{2}",
+    "option_d": "2AlCl_{3} + 3Mg -> 3MgCl_{2} + 2Al"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7038273",
+    "answer": "A",
+    "instruction": "Esperimentua egiten ari den bitartean, ikasle batek uraren hainbat tenperatura, bi masa-mezurapena eta hiru bolumen-mezurapena jasotzen ditu. Zein da datuak ordenatzeko modu onena?",
+    "option_a": "taulenean",
+    "option_b": "grafikoan",
+    "option_c": "idazki-narrazioan",
+    "option_d": "irudiekin adierazita"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_407574",
+    "answer": "A",
+    "instruction": "Zein gasa jaurtiesten dute ekoizleek, kontsumitzaileek bizi ahal izateko?",
+    "option_a": "oxigenoa",
+    "option_b": "nitrogenoa",
+    "option_c": "ura-haizea",
+    "option_d": "karbono dioxidoa"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_1998_4_8",
+    "answer": "B",
+    "instruction": "Zein da erraztasun mailarik handiena eskulanetan tresna elektrikoekin lan egitea?",
+    "option_a": "gaztetxoen batzordean",
+    "option_b": "igerilekuan behiago",
+    "option_c": "televi(sio)yons xehatuetatik hurbilago",
+    "option_d": "lokal lehorrean"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7128695",
+    "answer": "C",
+    "instruction": "Zientzialariak ikerketa bat burutzat hartzen duen bitartean aurkikuntza bat egiten du, baina egindako frogak argi jaso ez ditu. Zergatik eragiten du agirik gabeko erregistroak zientzialariaren lana?",
+    "option_a": "Prozedurak eta ondorioak baliogabetzen ditu.",
+    "option_b": "Ikerketa batean lortutako datuak ez dira egokiak.",
+    "option_c": "Beste zientzialariei emaitzak egiaztatzeko aukera kendu zaie.",
+    "option_d": "Beste zientzialariek hipotesi berriak garatzea debekatzen dute."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400178",
+    "answer": "C",
+    "instruction": "Zein nahastea banatzen da bere osagaietara?",
+    "option_a": "patata xipsak",
+    "option_b": "txokolate biskotxa",
+    "option_c": "fruta saladak",
+    "option_d": "bikote jantzitako arrautza"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7189823",
+    "answer": "A",
+    "instruction": "Bulakada bat izan da eta lava eta biztanle-berogailuen gaina malgutzen du. Ekosistema leheneratzen hasten denean, zein motako landare izango da lehenbiziko lurrera hurbilduko dena?",
+    "option_a": "musgoak",
+    "option_b": "lore hartzak",
+    "option_c": "egur-gorabeherak",
+    "option_d": "belardi hosto beltzak"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_412683",
+    "answer": "D",
+    "instruction": "Zenbat da 10 metroko gelaxka duen 2 Hz-eko gelaxka baten abiadura?",
+    "option_a": "5 m/s",
+    "option_b": "8 m/s",
+    "option_c": "12 m/s",
+    "option_d": "20 m/s"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_184258",
+    "answer": "A",
+    "instruction": "Zein hurrengo kronaren ezaugarri hauek eragiten dute gehienbat zeharkako sedimentazioan?",
+    "option_a": "gradientea",
+    "option_b": "altuera",
+    "option_c": "oinarrizko maila",
+    "option_d": "uraren kalitatea"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_192168",
+    "answer": "D",
+    "instruction": "Zientzia modeloak oso ohikoa dira. Behean azaltzen den helburu bati, zein kasutan ez dauden fisikoki errealizatutako modelak gutxiko erabilgarri izango lirateke?",
+    "option_a": "fenomeno zientifikoak simulatzea",
+    "option_b": "ideia konplexua sinplifikatzea",
+    "option_c": "bistaratzea ahalbidetzea",
+    "option_d": "datuak erakusten ditu"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_LBS10399",
+    "answer": "D",
+    "instruction": "Mikroskopioak 50x handitzeagatik objektua handitzen du. Zenbat luzera du objektuak, betebeharrik gabeko irudia 0,5 cm luzea agertzen bada?",
+    "option_a": "100 cm",
+    "option_b": "25 cm",
+    "option_c": "2,5 cm",
+    "option_d": "0,01 cm"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7228603",
+    "answer": "C",
+    "instruction": "Zeintzuk dira meiosi prozesuaren bitartez kromosoma homologoen alderatzearen ondorioak?",
+    "option_a": "mutazio aleatorioak",
+    "option_b": "gametaren kopuruaren murrizketa",
+    "option_c": "abiakidura bereziak dituzten haurtzaroak",
+    "option_d": "alelo kopuruaren murrizketa kromosoma bakoitzean"
+  },
+  {
+    "id": "ARC-Challenge/validation/MEA_2013_5_3",
+    "answer": "D",
+    "instruction": "Eguzkia izar gisa sailkatzen da. Zein ezaugarri bereziak adierazten du eguzkia izar gisa?",
+    "option_a": "Eguzkia bere ardatza biratzen du.",
+    "option_b": "Eguzkia Lurrean kanpo kokatuta dago.",
+    "option_c": "Eguzkia Big Dipperren artean dago.",
+    "option_d": "Eguzkiak argia eta energia sortzen ditu bizi-prozesu nuklear baten bidez."
+  },
+  {
+    "id": "ARC-Challenge/validation/NCEOGA_2013_8_38",
+    "answer": "C",
+    "instruction": "Neguan, sua hartan, tallosua lurrean bizi den artikoillaren ilea zuria da. Udanean, ale bihurtzen da loditasun borobil batean. Zer da ia ziurtasunez idazten ilararen kolorea aldatzen duena?",
+    "option_a": "Argi-izpi kopurua",
+    "option_b": "Ilekua",
+    "option_c": "Artikoillaren geneak",
+    "option_d": "Artikoillaren adina"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7221095",
+    "answer": "A",
+    "instruction": "Zein da ekosisteman abiotikoa den elementu hauetako bat?",
+    "option_a": "ekosistemaren urteko batez besteko euri-kopurua",
+    "option_b": "ekosistemaren sortzaile motak",
+    "option_c": "ekosistemako harrapari populuaren tamaina",
+    "option_d": "ekosistemako lurzoruan bizirik dauden mikroorganismoak"
+  },
+  {
+    "id": "ARC-Challenge/validation/MEAP_2005_5_1",
+    "answer": "C",
+    "instruction": "Atmosferan, ur itsua ___ bezala existitzen da.",
+    "option_a": "gas ikusgaitza",
+    "option_b": "likido ikusgaitza",
+    "option_c": "gas ikusgarria",
+    "option_d": "likido ikusgarria"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_406939",
+    "answer": "C",
+    "instruction": "Zein da metodo bat zein paperezko atal batek aldaketa kimikoa jasaten duena?",
+    "option_a": "Papera erdi zutituta",
+    "option_b": "Papera ur batean holatu",
+    "option_c": "Papera su ilez",
+    "option_d": "Papera makilarekin moztuta"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7219415",
+    "answer": "C",
+    "instruction": "Zelularen permabilitate hautatua duen erreminta baten funtzio adibide bat zein da?",
+    "option_a": "Zelularen formaren alde egiteko laguntza",
+    "option_b": "Proteina zuzendaritzaren fabrikatzeko laguntza",
+    "option_c": "Kimika murriztuta kokatzen diren zelula kanalak",
+    "option_d": "Hondakinen biltegiratze zelularentzat"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_1999_8_22",
+    "answer": "B",
+    "instruction": "Zein araudia erabiltzen du kableak oinordean mantentzeko?",
+    "option_a": "truss zubi bat",
+    "option_b": "suspension zubi bat",
+    "option_c": "beam zubi bat",
+    "option_d": "cantilever zubi bat"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2006_9_33",
+    "answer": "D",
+    "instruction": "Txitxak hilketa, egonkortasunaren falta, eta gaixotasunak direla eta hainbat alditan hildako hurbildu dira kateetan. Gaur egungo kate-populazioetan oso gutxi da aldaketa genetiko. Nola eragiten du gaur egungo kate-populazioekiko aldaketa genetiko mugatuan dauden kate populazioekiko alderatuta, aldatze gehiago zituzten kate populazioekiko eskuinoboza?",
+    "option_a": "Gaur egungo kate-populazioetako txitxak gaixotasun berriei kontra erresistentzi gehiago dute.",
+    "option_b": "Gaur egungo kate-populazioetako txikitan dauden txitxak gehiago bizirri dira.",
+    "option_c": "Gaur egungo kate-populazioetako txitxak ezinbestekoa dute esparru beste espezieekin elkar batzeko.",
+    "option_d": "Gaur egungo kate-populazioek ingurumena biratzeko gutxiago gaitasuna dute."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7135310",
+    "answer": "C",
+    "instruction": "Zergatik da makinaren energia irteera sarrera energia baino beti gutxiago?",
+    "option_a": "Zeru-hauskorra makinak eragiten dituen enerzia zatitxo bat desagertzen da.",
+    "option_b": "Makinak magnetismo indar konstantearen aurrean gainditu behar ditu.",
+    "option_c": "Energia erabilgarria ingurumenari transferitzen bada, energia erabilgarria jaitsi egiten da.",
+    "option_d": "Energiaren zati bat hozka bihurtzen da, beroetan bihurtzen denean."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_414131",
+    "answer": "C",
+    "instruction": "Zein da elementuen propietatea deskribatzen duena?",
+    "option_a": "Elementu guztiak metalak dira.",
+    "option_b": "Elementu guztiek sei elektron dituzte.",
+    "option_c": "Elementu guztiak osagai puroak dira.",
+    "option_d": "Elementu guztiak solido fasean daude."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7112753",
+    "answer": "B",
+    "instruction": "Beheko hegalaria aurkitu nahi badu zientzialariek gailu espezializatu bat erabili behar dute. Zein faktore ardatza sartuko lirateke hegaztiak aurkitzeko gaitasuna murriztu?",
+    "option_a": "klima",
+    "option_b": "gastu",
+    "option_c": "maiztasun tamaia",
+    "option_d": "politika"
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2009_5_16",
+    "answer": "D",
+    "instruction": "Ikasleek Morris W. Offit teleskopia bisitatu zuten, eta bertan ohiko gaiak aztertu zituzten: izarren sailkapenak, planetak eta ilargia. Ikasleek beheko informazioa gunezka jaso zuten. • Izarren itxura beti berdina da, baina haien kokapena zuzenean bada aldatzen dira. • Eguzkia, planetak eta ilargia zeruan mugitzen dira. • Proxima Centauri gure sistema solarra hurbilen dagoen izarra da. • Polaris Dipper Txikia izeneko izarren multzo baten parte da. Zein aukera da aurkitu dezakegun galdera hau: egunero eguraldi honek hirira norabide berean mugituko dela zein adierazpen da hobe?",
+    "option_a": "Eguzkia Lurrean biratu daitekeela.",
+    "option_b": "Lurra eguzkiaren inguruan biratzen da.",
+    "option_c": "Eguzkiak bere ardatza inguruan biratzen du.",
+    "option_d": "Lurra bere ardatza inguruan biratzen da."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7236023",
+    "answer": "B",
+    "instruction": "Aire-masa bat, hiri Ipar Hemisferan stormiaren presio txikieneko erdian dagoen 1000 metroko altueran dago. Hurrengoekoen artean, airerren partikuluen mugimendua zuzenena nola deskribatzen du aire-masak, stormiaren baldintzak eta lur hiria gurutzatuz aurrera egin ahal izan delako?",
+    "option_a": "Aire-partikulak gora eta ezkerrera mugitzen dira.",
+    "option_b": "Aire-partikulak gora eta eskuinera mugitzen dira.",
+    "option_c": "Aire-partikulak behera eta ezkerrera mugitzen dira.",
+    "option_d": "Aire-partikulak behera eta eskuinera mugitzen dira."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7270008",
+    "answer": "C",
+    "instruction": "Karbo lanagatik azaleratzen dauden landare guztiak eta dardarka kanpo hartzen dira. Zeintzuk dira Lur sistemak lehen eta zuzenean eragiten duten bi sistema?",
+    "option_a": "litosfera eta atmosfera",
+    "option_b": "biodibertsitatea eta hidrosfera",
+    "option_c": "litosfera eta biodibertsitatea",
+    "option_d": "atmosfera eta hidrosfera"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7269238",
+    "answer": "D",
+    "instruction": "Diesel motorrek  zenbatzen daitezke hainbat mota garraio-eremuetarako. Zein da bioegituratutako gasoilaren kalitate onena diesel motor batentzat?",
+    "option_a": "gasioil konbentzionala",
+    "option_b": "kerosina distilatu",
+    "option_c": "barazki olioak konbentzionalki lortzen duenaren gisa",
+    "option_d": "barazki olioak organikoki lortzen duenaren gisa"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7187915",
+    "answer": "A",
+    "instruction": "Amanda eta Jake-ek eneergiaren mota kinetiko eta potentzialak ikasi dituzte elektrizitate sarrera sinple bateko barruan. Aztergai duten zirkuituak batez besteko bateria, kableak eta argi biribil bat dauzka. Zein da potentzial-energiaren forma zirkuituan?",
+    "option_a": "bateriaren energia kimikoa",
+    "option_b": "argi biribiltzaren argi energia",
+    "option_c": "kable elektrikoetatik galdu den bero-energia",
+    "option_d": "argi biribilaren bidez igarotzen den energia elektrikoa"
+  },
+  {
+    "id": "ARC-Challenge/validation/OHAT_2011_8_3",
+    "answer": "D",
+    "instruction": "Zein ekintza erakusten du erreakzio kimikoa?",
+    "option_a": "Lore luzeak ebakitzea eta lehendikoa.",
+    "option_b": "Marruskadura bat eginez, oihal-gutxiekionak hiltzen dira.",
+    "option_c": "Izotz-kubo bat hoztuz, likido argitan bihurtzen da.",
+    "option_d": "Zilarrezko zuka bat hori bero egingo da eta goitik bezein lepoztua bihurtuko da."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7159775",
+    "answer": "A",
+    "instruction": "Janettek ikerketa bat burutzen du, eta aztertu nahi du zein janariek sentipen zaparrak eragingo dioten. Lau janari ezberdina jaten ditu egunero, berdineko ordutan, hiru egun. Gero, nola sentitzen den zaindu egiten ditu. Bere lagun Carmen-i esaten dio azterketa bera egin dezala, eta emaitza hauteman berdinekoak izan dezaten. Zeinek arazoak sor ditzake azterketa erreproduzitzean?",
+    "option_a": "zaporegina kantitatea neurtzea",
+    "option_b": "bereizi behar da janari berdinak jatea",
+    "option_c": "oharrak chartera erantsi behar dira",
+    "option_d": "janariak berdin tenperaturan egotea egiaztatzea"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_402239",
+    "answer": "C",
+    "instruction": "Zelan apaintzen dira bizi-inguruneak etxean?",
+    "option_a": "Botatzen den kristalez guztia zakarrontzira jarri.",
+    "option_b": "Paper zoruak erabili ariko zarako garbitzeko.",
+    "option_c": "Dusatzeko denbora murriztu.",
+    "option_d": "Loreak egunero arrosa."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_184013",
+    "answer": "C",
+    "instruction": "Zein da hurrengo zerrendako herriaren lurraldeari gutxietsigarria izan litekeen hua?",
+    "option_a": "7.2 magnitudereko lurrean zapaldua",
+    "option_b": "trobaliko haize-hondamaria",
+    "option_c": "strombola elektrikoa",
+    "option_d": "izebakiko erupzioa"
+  },
+  {
+    "id": "ARC-Challenge/validation/NCEOGA_2013_8_4",
+    "answer": "D",
+    "instruction": "Zein da erreakzio kimikoa ondoren produktuen masatotalea erreakzio moduan parte hartzen ez duen galera beren erreakzioarengatik?",
+    "option_a": "Aldaketa fisikoa gertatu da.",
+    "option_b": "Parte hartzen diren atomoek masa galdu dute erreakzioan.",
+    "option_c": "Presipitatuak sortu ziren soluzio berrian.",
+    "option_d": "Gasak askatuta izan dira atmosferan."
+  },
+  {
+    "id": "ARC-Challenge/validation/ACTAAP_2013_7_17",
+    "answer": "D",
+    "instruction": "Talde batek jakin nahi du Arkanasera uhin-ilar guztien zenbatekoa aldaketzen da azken urteetan. Zein metodo erabili behar dute informazioa jasotzeko?",
+    "option_a": "Aurten, bio-azalpenak jaso nahian, txori asko harrapatu. Bildu datuak txori bakoitzaren kokapenari buruz.",
+    "option_b": "Datorren urteko udaberriko lehen egunean, zenbat txori dauden jakin, estatuko lakarririk handienen batean. Konparatu datuak aurreko urtearekin.",
+    "option_c": "Jarri hartzaile bat estatu-mugara. Izanik harrapatzen diren txoriak kontatu behar ditu. Bi urte egiten du berdin.",
+    "option_d": "Igoera denboraldiko egun bat aukeratu. Zenbat txori dauden kontatu behar ditu hamaika lakarri ezberdinetan estatuan. Hurrengo urteen artean berarekin egiten du hau."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7183015",
+    "answer": "A",
+    "instruction": "Zientzia aldizkarian argitaratutako artikulu berrian, konbeksio-ibilbideen eta tektonika-plaka arteko erlazioa azaltzen da. Mantelaren barruan zirkulatzen den likidoak mugimendu eragiten die plaka krostoetan. Zein da seguruenik lur barruko likidoak zirkulatzen duena?",
+    "option_a": "energiaren transferentziak",
+    "option_b": "kaleratze globala",
+    "option_c": "mareen aldaerak",
+    "option_d": "itsasoko ibilbideak"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2014_8_17",
+    "answer": "D",
+    "instruction": "Zein da ondorengoko hainbatuentzako asexualtasun adibide bat?",
+    "option_a": "Ezpeletan, elurra zutiku baten sabaian, elurrak feteizatu ohi dituzte hegaztiak",
+    "option_b": "Artaldeetan, polinizioaren ondorioz, zuhaitzek frutuak sortzen dituzte' erabiliz",
+    "option_c": "Arrantzen embolada eta jatorrizko zelula produkzioak uraren superfizialan gauzatzen dira",
+    "option_d": "Zuhaitzek, stamarik gabeko hedapen berriak sortzen dituzten erro bideak bidaltzen dituzte"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_401286",
+    "answer": "B",
+    "instruction": "Zenbatzuk larri hondakin dauden animaliak harrapatu, koadifikatuta eta beraiek ymankatzen dituzte beren inguruetan. Etiketa plasticoka edo metailikoa izan daiteke animaliaren gorputzean leku seguruetan jartzeko. Kualitate hau da, agian, animalia etiketatzearen arrazoia?",
+    "option_a": "oiartzun arazoak monitorizatzeko",
+    "option_b": "ibiltzen arazoak monitorizatzeko",
+    "option_c": "lo egite arazoak monitorizatzeko",
+    "option_d": "haurrentzako arazoak monitorizatzeko"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7207358",
+    "answer": "C",
+    "instruction": "Atomoaren teoria modernoa, zein jarduera emaitza hobe da?",
+    "option_a": "John Dalton-ek egin zituen esperimentuek, 1800ko hamarkadaren hastapenean",
+    "option_b": "bi zientzialari garrantzitsuen arteko eztabaidak",
+    "option_c": "anitz zientzialarien ikerketek, urte askotan zehar",
+    "option_d": "Demokritoren atomo ideiak, 2000 urte baino gehiago pasa direla"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7015435",
+    "answer": "A",
+    "instruction": "Zein dira edari indartsu batez eta oso batez jasangarri baten arteko erreakzioaren produktuak?",
+    "option_a": "gatz eta ura",
+    "option_b": "bi elementu ezberdinak",
+    "option_c": "oso azido eta oso base leinoa",
+    "option_d": "hidrogeno ioiak eta hidroxido ioiak"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7044678",
+    "answer": "A",
+    "instruction": "Zein esaldi da hainbeste beharrezko ur erosi duenean hosto batek gertatzen zaion?",
+    "option_a": "Bere turgor-abeztrazioa jaisten da.",
+    "option_b": "Bere atmosferako presioa jaisten da.",
+    "option_c": "Bere transpirazio-abiadura handitzen da.",
+    "option_d": "Bere argazkigintza-abiadura handitzen da."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_400905",
+    "answer": "D",
+    "instruction": "Eguzkiak Lurraldetik hainbat urtera dagoela kalkulatu behar da. Argiaren abiadura 3.0 x 10^8 m/seg da. Zein da Eguzkiaren eta Lurraldearen arteko distantzia argi-segundutan?",
+    "option_a": "2.0 argi-segundu",
+    "option_b": "0.5 argi-segundu",
+    "option_c": "2.0 x 10^-3 argi-segundu",
+    "option_d": "5.0 x 10^2 argi-segundu"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_LBS10040",
+    "answer": "D",
+    "instruction": "Zein da argazki sintesiak landareei hazkuntza laguntzen diona?",
+    "option_a": "ura",
+    "option_b": "okisigenoa",
+    "option_c": "proteina",
+    "option_d": "azukrea"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_8_41",
+    "answer": "D",
+    "instruction": "Automobil-igoeran, zain batek minbizia prebenitzen du, indarra aplikatuz",
+    "option_a": "joan den bidaiariaren indarraren gutxitik",
+    "option_b": "auzoko autoaren indar goratik",
+    "option_c": "automobilaren mugimenduaren bidea hartzen du",
+    "option_d": "bidaiariaren mugimenduaren kontrako norabidean du"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7141908",
+    "answer": "C",
+    "instruction": "Zientzialariak ozeanoko hondarran organismo konplexu berri bat aurkitu dute. Organismoak, gehiegizko probabilitatez,",
+    "option_a": "zelaia-soluzio bakarra du.",
+    "option_b": "bakteria mota bat da.",
+    "option_c": "anitzeko zelulez osatua dago.",
+    "option_d": "nukleo antolatzailea falta du."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_406029",
+    "answer": "D",
+    "instruction": "Zientzia jarduera batengatik, Mia ilargia marraztu behar izan zen gau bakoitzean. Mia ilargi berria marrazten badu, zein motatako ilargi marraztu zuen Mia asteburu bat beranduago hainbatuta?",
+    "option_a": "giboso",
+    "option_b": "ilargi osoa",
+    "option_c": "ilargi berria",
+    "option_d": "lehen hiruhilekoa"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7105123",
+    "answer": "C",
+    "instruction": "Fosil-leihoek erakusten dute espezie-aldaketak oro har,",
+    "option_a": "espezie bat sortzen den bitartean gelditzen direla.",
+    "option_b": "azalera egonkorrekin azkartzen direla.",
+    "option_c": "generazio ugaritan gertatzen direla.",
+    "option_d": "ingurumenarekin ezinbestekoak ez direla."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400339",
+    "answer": "C",
+    "instruction": "Zein adierazpen ez da eragozpen bat zuhaitzek auzo batean altueren ezberdinak izateari uzten?",
+    "option_a": "Batzuk argi gutxiago behar dute beste batzuetan baino.",
+    "option_b": "Zuhaitzak aldi desberdinak txiplatu dira.",
+    "option_c": "Txikiago dituzten zuhaitzean hegaztariek eraikitako txololoak daude.",
+    "option_d": "Handiagoak diren zuhaitzek bakarrik goiko hostoen gainean dituzte hostoak."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415366",
+    "answer": "B",
+    "instruction": "Zuhaitzek oxigenoa behar dute. Lurreko azal eremu hurbilenak zuhaitzek behar duten oxigenoa hartzeko erabiltzen dira. Zein organismoek laguntzen diote zuhaitzei oxigenoa lortzeko?",
+    "option_a": "marroiak zuhaitzean zokoak eginez",
+    "option_b": "lurrean zuhaitzi hurbilenak eginez",
+    "option_c": "haritzak zuhaitzaren oinarrizko eremuan haziz",
+    "option_d": "andreak lurrean zuhaitzaren inguruko arrautzak jaten dituztenean"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7168123",
+    "answer": "B",
+    "instruction": "Anita ikastetxeko yurrebidean korrika egin zuen. Lasterketa bukatu ondoren, sabelera gehiago aire sartzeko eta bere bihotz tasa handitu zitzaion. Zeintzuk dira Anita sunduta hartzeko eta beroiazko tasa kontrolatzen dituzten sistema?",
+    "option_a": "muskuilarrak eta eskeletikoak",
+    "option_b": "nerbioak eta endokrinoak",
+    "option_c": "digerigarriak eta hutsakabuztuzkoak",
+    "option_d": "sabelarrak eta zirkulatorioak"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7141400",
+    "answer": "A",
+    "instruction": "Neurketaile batek artoa landatzen du hiri batean zenbat urtez. Urte bakoitzean, hezetasun handiz artoa txikitu egiten da eguraldi baldintzak antzekoak izan direla ere. Zein faktore abiotiko izan daiteke gutxitze hau eragiteko modua?",
+    "option_a": "Lurreko nutrienten gutxitzea",
+    "option_b": "Lainitasun handitzea",
+    "option_c": "Haizearen abiadura handitzea",
+    "option_d": "Argiaren gutxitzea"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2012_8_23636",
+    "answer": "D",
+    "instruction": "Zein da une gehien denboraz hartzen duen prozesu hurrengoetako bat?",
+    "option_a": "Bero-ahalera hozten da eta harri berriak sortzen dira.",
+    "option_b": "Ur-baporeak hodeiratuko ditu hodeian bihurtuz.",
+    "option_c": "Sismo-oinarrizkoak erreketan zehar eramaten dira.",
+    "option_d": "Ozeano uharte bi kontinenteen artean sortzen da."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_406705",
+    "answer": "B",
+    "instruction": "Anna-ren klaseak ikastaroarako hainbat tximeleta eskualdetan zenbatuta ditu. Anna-ren emaitzak klasearen beste gelakoak baino ezberdinak izan dira. Zer egin behar du?",
+    "option_a": "Aldatu azterketa.",
+    "option_b": "Utzi emaitzak bera.",
+    "option_c": "Bateratu emaitzak klasearenakin.",
+    "option_d": "Irakasleari eskatu bere zerrenda kalkulatzeko."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7186148",
+    "answer": "B",
+    "instruction": "Ikasle bat kakao bero bat mugitzen ari da kutxarekin. Nola transferitzen da beroa kutxaren eta kutxarean dauden eskuinaren partearen artean?",
+    "option_a": "Akatsa kondukzioak energia kutxara zuzenean mugitzen du.",
+    "option_b": "Kondukzioak energia trantsferitzen du kutxari eskuinaren partetik.",
+    "option_c": "Konbektzioa kutxari eskuinaren partetik energia trantsferitzen du.",
+    "option_d": "Konbektzioa energia handitzen du kutxarekin eta kutxari eskuinaren partetik mugitzen da."
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_28",
+    "answer": "B",
+    "instruction": "Txori handiak etxeko animali txikiak jan arren, txori handi guztiak gaixotasun batek hil behar badu, area horretako animali txiki-kopurua zenbatu",
+    "option_a": "gutxitu",
+    "option_b": "igo",
+    "option_c": "berdina izango da"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7005478",
+    "answer": "B",
+    "instruction": "Gizakiaren gorputz-tenperatura erlatiboki konstantea da. Zein da mekanismo deitua, inguruan hotza izan dezakeenean gizakiaren gorputz-tenperatura normala mantentzeko laguntzen duena?",
+    "option_a": "Ura askatzen da harietatik.",
+    "option_b": "Muskuiluak albokatza-txikiak egiten dituzte.",
+    "option_c": "Bihotzaren bultzada mota mota hil daitezke.",
+    "option_d": "Arnasa gehiago hartzen du hankakotasunarekin."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2009_8_5",
+    "answer": "D",
+    "instruction": "Zein hurrengo eraginkorrena izango litzateke aire-trafiko konjesta murriztea aeroportu bizi batean?",
+    "option_a": "jokalariei emisio-feed back-a ematea",
+    "option_b": "hegazkien informazioa ematea bidaiari eta bidaia-agenteentzat",
+    "option_c": "aeronaben kopurua handitzea aeroportuan",
+    "option_d": "atherraundien kopurua handitzea aeroportuan"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7037573",
+    "answer": "D",
+    "instruction": "Zein da inkestatu bat osatzen araztean jarraitu behar den praktika onena?",
+    "option_a": "borobil beroa kudeatzerakoan kontu handia izatea",
+    "option_b": "sukaldariak itzaltzea erabiltzen ez badituzu",
+    "option_c": "laborategi prozedurak ikasi aurretik aztertu",
+    "option_d": "irakaslearekin esteka hartzea produktu kimikoak hondatzeko prozeduraz galdetzeko"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2012_5_8",
+    "answer": "B",
+    "instruction": "Cameron eskulan berria erosi nahi du. Ziurtatu nahi du eskulana hiruko geltokitik pasako dela. Eskulana erosten duenean, zer dagoeneko izango du eskulana berari egokitzen lagunduko diona?",
+    "option_a": "bere geltokian dagoen alkatearen irudia",
+    "option_b": "barruko neurketen diagrama",
+    "option_c": "eskulan bat nola konpontzen den erakusten duen marrazki bat",
+    "option_d": "eskulan konpontzeko beharrezko tresna zerrenda"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7092295",
+    "answer": "C",
+    "instruction": "Zein ekintza sortzen du ingurumen-arloko ardurak eta ekonomiarrak arteko lehiakortasuna?",
+    "option_a": "wildlife miresgarria babestea",
+    "option_b": "fauna habitatietara berreskuratzea",
+    "option_c": "etxebizitzak eraikitzeko baso-lurra erabiliz",
+    "option_d": "hiriko autobusak garraiatzeko erabiliz"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7131828",
+    "answer": "C",
+    "instruction": "Tropikoen hainbat eremutan, moskitoei hotzak transmititu diezaiekeen parasetea eraman dezakete, eta horrek gaixotasun infekzioso bat eragiten die gizakiengana. Zenbatzaile hau zehaztzen du moskitoen eta gizakienganako harreman mota?",
+    "option_a": "ero-jatekoa",
+    "option_b": "baliabideetarako lehiaketa",
+    "option_c": "biotiko faktoreak elkarlan egiten direlarik",
+    "option_d": "sorkuntzaile eta kontsumitzaile arteko energia-transferentzia"
+  },
+  {
+    "id": "ARC-Challenge/validation/ACTAAP_2007_7_5",
+    "answer": "B",
+    "instruction": "Eskuzabal batekin esperimentua egin da. Behatokiak 70 graduko tenperatura eta 20 psi-ko airepresioarekin hasten da. Behatokia beroztatzen da, eta behatokiaren barruko presioa tenperaturaren gorakada berarekin batean igo egingo da. Behatokia 70 graduko tenperaturara hozten bada, zer izango da airepresioa?",
+    "option_a": "10 psi",
+    "option_b": "20 psi",
+    "option_c": "30 psi",
+    "option_d": "40 psi"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7120908",
+    "answer": "D",
+    "instruction": "Gliadera batek hegazkinzat gabeko hegazkin bat da. Distantzia handia igotzeko gliadera diseinatzen hasteko, neurri nagusiak nolakoa izan behar lirateke?",
+    "option_a": "Ingurumen eragina eta masa",
+    "option_b": "Kostua eta ingurumen eragina",
+    "option_c": "Indarra eta kostua",
+    "option_d": "Masa eta indarra"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_180443",
+    "answer": "C",
+    "instruction": "Zein Fase Lunar gertatzen da waxing gibbous ondoren?",
+    "option_a": "waning gibbous",
+    "option_b": "waxing crescent",
+    "option_c": "luna osoa",
+    "option_d": "ilargi berria"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7238963",
+    "answer": "A",
+    "instruction": "Txintatxo bizidunetan alelo dominantea (C) kodeatzen du txintatxo gapurririk gabe dagoenentzat. Txintatxo gapurria gabe dagoen alelo recessivea (c) kodeatzen du. Giza Cc alelo konbinazioarekin gizon batek trait-arekin Cc alelo konbinazioa duen emakume batekin zigoitoa sortzen du. Zein alelo konbinazio gertatuko da zigoituan?",
+    "option_a": "Cc edo cc",
+    "option_b": "CC edo Cc",
+    "option_c": "Soilik CC",
+    "option_d": "Soilik Cc"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_184765",
+    "answer": "B",
+    "instruction": "Zein da hurrengo emaitza gutxienez aparteko baso-eremuetatik haize purentzia altuago izango da?",
+    "option_a": "Haizegaztea eremu osoan handituko da.",
+    "option_b": "Eremuari barru hainbat erodazio sortuko dira.",
+    "option_c": "Eremuaren espazio aniztasuna handituko da.",
+    "option_d": "Lurreko harrialdiak eremu osoan handituko dira."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7235813",
+    "answer": "D",
+    "instruction": "Karbonoak ibilbide berezi batez zirkula- tzen da Lurrean. Irekitzeko denbora handi- tasuna askotan aldatzen da. Zein prozesu dauka karbonoaren zirkulu honetan milioi urte behar diren zatitxoetan sortzen diren erreserba?",
+    "option_a": "karbonoa animalien haragi- netan sentsazio bidezko inkorporazioa",
+    "option_b": "karbonoaren askatasuna arnasa- rekin airean utzi beharrean",
+    "option_c": "karbono atmosferikoa landareen azukreetan inkorporazioa",
+    "option_d": "landareen karbonoa olioak sortzeko desgaitzea"
+  },
+  {
+    "id": "ARC-Challenge/validation/OHAT_2007_5_24",
+    "answer": "B",
+    "instruction": "Basokoan, zein modu bidez laguntzen dute deskomposatzaileek beste organismo batzuk bizirik irauteko?",
+    "option_a": "Airean oxigenoa askatzen dute, animaliak arnasteko erabiliz.",
+    "option_b": "Loreak hazteko erabiliko dituzten nahiz eta berogailuei edari emateko balio dituzten nahasteak hornitzen dituzte.",
+    "option_c": "Basoan behera egingo daitekeen xaboi sustraiengea eskaintzen dute, animaliak ezkutatzen ahalko diren lekuetan.",
+    "option_d": "Argi-txikipenarekin landare eta animalientzat janaria egiteko argiak erabiltzen dituzte."
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2007_8_15",
+    "answer": "C",
+    "instruction": "Gizaki ekintzak ingurunean eragina izan dezakete. Zein gizaki ekintzek hainbat ingurune txikietan eragina du?",
+    "option_a": "baso bat erre egiten",
+    "option_b": "fossilak erre egiten",
+    "option_c": "gaztelgune berri bat zatitzen",
+    "option_d": "aberei kemika batekin hausten"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7162838",
+    "answer": "D",
+    "instruction": "Laborategiarrak marrubiinak, marrubioak edo espinaka gehitutako elikadurara jarri zituzten arrak. Zortzi aste beranduago, arrak gogoragaztagiri eta mugimenduzko gaitasun azterketak egin zituzten. Marrubioak gehitu zizkion arrak hobekuntzarik handiena erakutsi zuten. Zein da ikerketaren alde egin zen aldagai independente (manipulatua)?",
+    "option_a": "Mugimenduzko gaitasun azterketa",
+    "option_b": "Aging prozesua",
+    "option_c": "Gogorako azterketa",
+    "option_d": "Gehigarriak"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_405973",
+    "answer": "B",
+    "instruction": "Txiki bateko uhartean hainbat txori bizitzen dira. Ekaitza txoriak elikatzen eta basamortuak osatzen duten landare gehienak suntsitzen ditu. Zeintzuk dira txori mota gutxien biziriko dutenak uhartean?",
+    "option_a": "txorioekiko zenbatgo handiena dutenak",
+    "option_b": "alderatzen ahal diren txoriak",
+    "option_c": "gehiengo distantziara hegaldi ahal duten txoriak",
+    "option_d": "txorien bekak isiltasun handienea dutenak"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2000_8_10",
+    "answer": "B",
+    "instruction": "Zein adierazpen da iritzia?",
+    "option_a": "Landare asko berde dira.",
+    "option_b": "Landare asko politak dira.",
+    "option_c": "Landareek eguzki argia behar dute.",
+    "option_d": "Landareak leku ezberdinetan haz daitezke."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7103180",
+    "answer": "B",
+    "instruction": "Zein biome da landare gutxi gehien duena?",
+    "option_a": "ekoizpidea",
+    "option_b": "basoa",
+    "option_c": "landareontzi",
+    "option_d": "tundra"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7221865",
+    "answer": "C",
+    "instruction": "Ikasle talde bat ura ebulitzean belak sortzen ikusi zuten. Zerbait gertatu zen materiari, urei aldaket fizikoari esker?",
+    "option_a": "Materia berria sortu zen belaunean.",
+    "option_b": "Materia zaharra hondatu zen gasetara bihurtu delako urari.",
+    "option_c": "Materia gordetua izan zen forma aldatzean.",
+    "option_d": "Materiaren osaera aldatu zen."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7242743",
+    "answer": "D",
+    "instruction": "Ribosometako azpi-unitateetan sintetizatzen diren proteinak post-translazional handitzen dira eta paketaturik eta kokapen egokira bideratzen dira. Zein egitura-konponente da zelularen modifikazioan aritzen dena?",
+    "option_a": "endoplasmikoa sareta",
+    "option_b": "lisosomak",
+    "option_c": "mitokondrioak",
+    "option_d": "Golgi aparatua"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7103565",
+    "answer": "C",
+    "instruction": "Sistema bortitzak airea altxatzean itsasontziratzen ez du. Zenbaki handiko sistema bortitz bat eremuetan egon balitz, zer gertatuko litzatekeena?",
+    "option_a": "Lainotsa",
+    "option_b": "Euria",
+    "option_c": "Sukarra",
+    "option_d": "Tornadoa"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415541",
+    "answer": "D",
+    "instruction": "Zein objektu honetatik askoz gehiagokoa da uraren gainean nabarituko?",
+    "option_a": "zurrunbilo kristala",
+    "option_b": "azterketa borobil",
+    "option_c": "gomazko borobil zaila",
+    "option_d": "taulatxoko borobil"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_9",
+    "answer": "A",
+    "instruction": "Ikasle batek izozki traiatik ateratzen du eta mahaian jarri du. Izokiak solido eta hotz dira. Ikasleak izozki traiatik hainbat egun pasatzen ditu. Hurrengo egunean, izokiak",
+    "option_a": "likido eta beroagoak izango dira",
+    "option_b": "solido eta beroagoak izango dira",
+    "option_c": "likido eta hozkorrak izango dira",
+    "option_d": "solido eta hozkorragoak izango dira"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7097318",
+    "answer": "D",
+    "instruction": "Zurribeltza dan hesian ardantxa utzi du sabelaren gainetik. Basoko lurretik behera jaisten delako, zein aldatuko da hauek artean?",
+    "option_a": "ardantxaren masa",
+    "option_b": "ardantxari aplikatutako indarra",
+    "option_c": "ardantxaren densitatea",
+    "option_d": "ardantxaren abiadura"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_8_20",
+    "answer": "B",
+    "instruction": "Beheko ekuazioak adierazten du produktuak zein diren at itzalio nitratoaren (AgNO3) eta klorauren sosa berari (NaCl) soluzioaren arteko erreakzioan sortutakoak. AgNO3 + NaCl (batezleak) -> NaNO3 + AgCl (produktuak) Ekuazio honetan, batezleen masa guztia",
+    "option_a": "produkten masaren baino handiagoa da",
+    "option_b": "produkten masaren berbera da",
+    "option_c": "AgCl masaren berbera da",
+    "option_d": "AgCl massaren txikagoa da"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415397",
+    "answer": "C",
+    "instruction": "Zein aldaketa egiten du lurzoruaren egituren bat sortzeko?",
+    "option_a": "Inundazio batek herritarrak hiria utzi egiten du.",
+    "option_b": "Deabrua lurzoruan hauts egiten du.",
+    "option_c": "Boladoreak lurra berria sortzen du lawarekin.",
+    "option_d": "Ur-mugimendia badu biztanleak bikoiztu egiten ditu."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7246348",
+    "answer": "A",
+    "instruction": "Zein ezaugarri ez da garatzeko tektoniko-plakek desagertzean sortzen?",
+    "option_a": "trintxa",
+    "option_b": "rift-baliabideak",
+    "option_c": "itsas-bazina",
+    "option_d": "erdialdeko itsasadarra"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7270200",
+    "answer": "A",
+    "instruction": "Zientzialariek azaldu dute aminoazidoak, karbohidratoak, nukleotidoak eta gantzazidoak guztiak, bizidun organismoak agertu aurretik, Lurrean sintetizatu ahal izan zirela. Hemendik aurrera zein aurkitzeko egin behar genukeen eskaera argiago erakusten du bio-kimiko hauen bidez bizitza espontaneoki sortu zela?",
+    "option_a": "Kimika hauek bereizi daitezke errepikatzen duen egitura batean.",
+    "option_b": "Bizidun organismoek egun hari erabiltzen dituzte.",
+    "option_c": "Kimika hauek beste planetan aurki daitezke.",
+    "option_d": "Kimika hauek bereizi daitezke birus batean."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415026",
+    "answer": "C",
+    "instruction": "Zein animali bizi gehienak laguntza jasoko lirateke kostaldean erreka batek sortutako innundazio batean?",
+    "option_a": "umeztantak",
+    "option_b": "aratxak",
+    "option_c": "kaimanak",
+    "option_d": "koiotoak"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7143518",
+    "answer": "D",
+    "instruction": "Txiakok ibai eta patak zeharkatzen dituzten igogailuak eraiki ohi dituzte zuhaitzak labaindu eta lau belaunaldi bilduz. Txiakoen populazioa Ameriketako Estatu Batuetan giza kideen trakatzuengatik gutxitu da. Zein da ekologia-onespen bat, txiakoen populazioaren murrizketarekin gertatzen dena?",
+    "option_a": "arrain-populazioaren murrizketa nabarmena",
+    "option_b": "lurreko ekosistemak nabarmen hazkundea",
+    "option_c": "ura isuritze nabarmenaren hazkundea",
+    "option_d": "laino habitatuen kopuruaren nabarmen murrizketa"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_415263",
+    "answer": "C",
+    "instruction": "Zein hurrengo aldagai eukariotiko batean aurkitzen da baina prokariotiko batean ez?",
+    "option_a": "ADN-a",
+    "option_b": "zitoplasma",
+    "option_c": "nukleo bat",
+    "option_d": "zelaia"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7090720",
+    "answer": "B",
+    "instruction": "Etanolak artoa erabiliz ekoiztutako baliabide alternatiboa da. Etanolaren erabilera dela-eta, zein da bihotz gutxitze ver, desegokia da?",
+    "option_a": "Txikitu egin da ekoizpenaren kostua.",
+    "option_b": "Barne-ohiturarako lurraren erabilgarritasuna eregi egin da.",
+    "option_c": "Guztion artean, fosilko baliabideen kontsumoa gehitu da.",
+    "option_d": "Automobilzat joandako hondaraba-komunitatea handitu egin da gainera."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_410964",
+    "answer": "D",
+    "instruction": "Ikasleek eserleku-gelak nola funtzionatzen duten aztertzen ari dira. Kontuan hartuta, zein da azterketan emandako zuzeneko zehaztapen gehien probagarria?",
+    "option_a": "Eserleku-guztiak soinu ederra egiten dute.",
+    "option_b": "Bateria da eserlekuentzat hobetzeko onena.",
+    "option_c": "Gehienek eserlekuak erabiltzea esanahi du, odolean sakatzearen ordez.",
+    "option_d": "Eserlekuak magnet baten inguruan oinarritutako zilarrezko zatia erabiltzen du."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7057313",
+    "answer": "A",
+    "instruction": "Bihotz zelaia hobe gisa deskribatzen da",
+    "option_a": "era bereko zelula mota batzuk lokarri dira.",
+    "option_b": "sistemak desberdinak elkarrekin lan egiten dutela.",
+    "option_c": "organismo bera osatzen duten organo mota bera ",
+    "option_d": "organo desberdinak funtzio bat betetzen dutela."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_402101",
+    "answer": "D",
+    "instruction": "Zein ezaugarri aurkitu daitezke lur sail eta ilargian?",
+    "option_a": "landareak",
+    "option_b": "itsasoz",
+    "option_c": "animaliak",
+    "option_d": "mendiak"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7038133",
+    "answer": "B",
+    "instruction": "Ikasle batek seinale bat planifikatu du errampatik behera bola desberdin biraketei abiadura kalkulatzeko. Zein datu ez da bidezkoa ikasleak jaso?",
+    "option_a": "bola bakoitzaren tamaina",
+    "option_b": "erramparen lodiera",
+    "option_c": "erramparen luzera",
+    "option_d": "bola ibiltzeko behar den denbora"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_407169",
+    "answer": "D",
+    "instruction": "Habitat batek estan txiki bat dituelako eta sekasaldi luze baten bidez pasatzen badu, zenbat ixtor enbata sasoian gertatuko litzateke hainbat?",
+    "option_a": "Lehenetsita egongo lirateke harrapaketa egiteko.",
+    "option_b": "Uraren beste iturrietan bizirik iraungo lirateke.",
+    "option_c": "Beste habitat batera mugituko lirateke.",
+    "option_d": "Hil egingo lirateke eta bizi izan ezin zuten izango lirateke."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7103215",
+    "answer": "C",
+    "instruction": "Ikasle batek erosi nahi du arrozkia hondakin gutxiago jasotzea helburutzat duena duela jakinarazi du. Nola egin dezake hau ikertzaile batek?",
+    "option_a": "Hondakin kopuruaren arabera",
+    "option_b": "Erosketa-tenorea aukeratuz",
+    "option_c": "Arrozkia erabili gabe",
+    "option_d": "Prezioaren arabera"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2013_8_29432",
+    "answer": "B",
+    "instruction": "Zein landare-zelularen hurrengo zati du animalien eskeletorako funtzioa baino gehiena duen funtzioa?",
+    "option_a": "zelaia",
+    "option_b": "zelai horma",
+    "option_c": "kloroplastoa",
+    "option_d": "nukleo"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7018008",
+    "answer": "A",
+    "instruction": "Zein da atomoaren propietate elektriko onena deskribatzen duena?",
+    "option_a": "neutra",
+    "option_b": "isilik",
+    "option_c": "positiboki kargatuta",
+    "option_d": "negatiboki kargatuta"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7166530",
+    "answer": "B",
+    "instruction": "Ira-ek, atsekabe praktika bat egiteko, atseginezko gailuak, kimika gaiak, tresnak eta babesteko materialak lortu zituen. Azkar baina kontutan hartuta, idatzitako esperimentu-aldaketaren pausoak burutu zituen. Denbora aurrezteko, erregistro eginez gero bere ohartutakoak eta emaitzak. Zergatik izango da bere erabakiak negatiboki eragin handiena?",
+    "option_a": "jarraibideak jarraitzearen gaitasuna",
+    "option_b": "erabatidoki txostena idaztearen gaitasuna",
+    "option_c": "segurtasun gidalerroak jarraitzearen gaitasuna",
+    "option_d": "ondorioa lortzearen gaitasuna"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400047",
+    "answer": "B",
+    "instruction": "Ikasle batek txokolate barra bat eguzkian utzi zuen egun batean beroa zela. Txokolateak konponbide egin ziren bitartean, zein aldaketa izan zuen?",
+    "option_a": "bere masua",
+    "option_b": "bere forma",
+    "option_c": "bere pisua",
+    "option_d": "bere konposizioa"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7044100",
+    "answer": "C",
+    "instruction": "Nola daiteke nekazaritzako lurzoruaren nutrientziak huts egin?",
+    "option_a": "trepalazio handia",
+    "option_b": "Haize hostoa",
+    "option_c": "Irigarpen handitzea",
+    "option_d": "Abonatzea handitzea"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7075145",
+    "answer": "A",
+    "instruction": "Zein prozesu arauen bidez posible da zelula ura hartzeko?",
+    "option_a": "ozmosia",
+    "option_b": "mitosisa",
+    "option_c": "argazkigintza",
+    "option_d": "irespena"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_192290",
+    "answer": "D",
+    "instruction": "Familia bera bizi diren arin eta pelikanoak ezberdinak dira. Haietako bereizi bat nola da?",
+    "option_a": "arrain jaten hobetzeko duten gustorako",
+    "option_b": "hegan egin dezaketelako",
+    "option_c": "errekreazio modurako duten metodoagatik",
+    "option_d": "janari sartzeko duten metodoagatik"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7093975",
+    "answer": "D",
+    "instruction": "Zein da erregeen hutsunea eragiten duen ibaien heltzea?",
+    "option_a": "kutsadura",
+    "option_b": "erosioa",
+    "option_c": "ura mahaikideak altxatzea",
+    "option_d": "euri falta"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7085820",
+    "answer": "D",
+    "instruction": "Udazkenean urak izotz bihurtzen hasten denerako, uraren molekulak",
+    "option_a": "energia termikoa lortzen dute.",
+    "option_b": "askatasunez mugitzen dira.",
+    "option_c": "tamaina handitzen dute.",
+    "option_d": "abiadura murrizten dute."
+  },
+  {
+    "id": "ARC-Challenge/validation/MEA_2016_5_6",
+    "answer": "C",
+    "instruction": "Ura betetako baloi bat izozkanean jartzen da. Ura berotzen den puntuan, zer aldaketa izango da uraren propietateetan?",
+    "option_a": "kolorea",
+    "option_b": "masa",
+    "option_c": "egoera",
+    "option_d": "pisua"
+  },
+  {
+    "id": "ARC-Challenge/validation/NCEOGA_2013_5_43",
+    "answer": "B",
+    "instruction": "Zein gerta da beharrezkoa hodeietarako gertatzeko?",
+    "option_a": "Ureztatzea beroago izan behar da.",
+    "option_b": "Ureztatzea beroa galdu behar da.",
+    "option_c": "Iruzkina hasi eta zeharkatu behar da.",
+    "option_d": "Transpirazioak atmosferara ureztatzea gehitu behar du."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7250023",
+    "answer": "A",
+    "instruction": "Zelula guztiak, prokarionteak eta eukarionteak, ezaugarri komun batzuk dituzte. Zein da zelula ezaugarriak prokariontetan eta eukariontetan aurkitu daitezke?",
+    "option_a": "ribosoma",
+    "option_b": "kloroplasto geruzak",
+    "option_c": "nukleoa",
+    "option_d": "endoplasmikoko retikulua"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7003955",
+    "answer": "D",
+    "instruction": "Zein motatako karga dute ilelu zatitzeak estatikotasunaren ondorioz jantzita egotean?",
+    "option_a": "kargak neutralak",
+    "option_b": "karga neutroa bostitzea",
+    "option_c": "karga positibo iraunkorra",
+    "option_d": "kargak positibo tenporalak"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_2",
+    "answer": "D",
+    "instruction": "Zenbat denbora behar du Earth-ek ikutuan biratzean egiteko Sun-aren inguruan?",
+    "option_a": "egun",
+    "option_b": "aste",
+    "option_c": "hilabete",
+    "option_d": "urte"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_411306",
+    "answer": "D",
+    "instruction": "Lanabes bakoitzak ezaugarri komunak ditu landare anitzekin. Zein da gehieneko lanabesen ezaugarri komuna?",
+    "option_a": "Erroen tamaina",
+    "option_b": "Lorien forma",
+    "option_c": "Laranjaren kolorea",
+    "option_d": "Zelula egitura"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7241115",
+    "answer": "C",
+    "instruction": "Zein gertaera izan litekeen arrain-mugimendu handia gertatzen den arren, kretazoko garai aurretik?",
+    "option_a": "Pangea superkontinentuaren formazioa",
+    "option_b": "bultzada bizkorreko erupzioak",
+    "option_c": "tenperatura lehiakorrak",
+    "option_d": "itsas-areen igoera"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7042735",
+    "answer": "C",
+    "instruction": "Ura eta konpoundi ez-toksikoa konbina daitekeen ebidentzia bat ematen da zientzia klasean. Zer egin behar da ebidentziarekin amaitu ondoren?",
+    "option_a": "Irekira bota behar da.",
+    "option_b": "Birziklatze ontzira bota behar da.",
+    "option_c": "Hondakin ontzira bota behar da.",
+    "option_d": "Harridurazko materialen tratamendu ontzi batean jartzeko behar da."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2004_9_13",
+    "answer": "D",
+    "instruction": "Zein da aurrean dagoen bidarlari finkoak egur batean aitortzen duen tentsioa?",
+    "option_a": "tentzioa",
+    "option_b": "zinakorra",
+    "option_c": "torsioa",
+    "option_d": "kometxea"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_176015",
+    "answer": "D",
+    "instruction": "Ikasle talde bat bi osagai aztertzen ari da, eta zein da ardoa eta zeina gatza, frogatzeko. Zein da modu egokiena ikasleei bakoitzari osagai bakoitza identifikatzeko?",
+    "option_a": "Ura baino hobeto oldatzen badira ohartuaz",
+    "option_b": "Osagaiaren koloreari buruz ikertuz",
+    "option_c": "Suprafetean hanka daitezken ikusten badira",
+    "option_d": "Kristalaren forma aztertuaz"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7215180",
+    "answer": "C",
+    "instruction": "Zientzialariek graniteko laginak bildu ari dira Nevada mendilerroaren mendebaldean. Agertu eta konparatzeko, mineralen portzentaia erakusteko eta alderatzeko txartel fomasu hau aukeratu behar da?",
+    "option_a": "barraren grafikoa",
+    "option_b": "línearen grafikoa",
+    "option_c": "pita taula",
+    "option_d": "dispertsio-plot"
+  },
+  {
+    "id": "ARC-Challenge/validation/TIMSS_2007_4_pg26",
+    "answer": "B",
+    "instruction": "Animali batek sei izurrite ditu. Zer da gehien probabiltate handiena?",
+    "option_a": "aranpola",
+    "option_b": "sugea",
+    "option_c": "hagin",
+    "option_d": "sentipede"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_177818",
+    "answer": "C",
+    "instruction": "Gau eta egunaren arteko denbora-lerroa urte osoan aldatzen da. Denboraldian egun horiek azaltzen da nagusiki",
+    "option_a": "Eguzkiaren kokapena.",
+    "option_b": "Ilargiaren kokapena.",
+    "option_c": "Lurren angelu-opoa",
+    "option_d": "Lurra Eguzkitik duen distantzia"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_405487",
+    "answer": "B",
+    "instruction": "Urte batean, parke bateko haritzak arrainontzi baino gehiago sortzen hasi ziren. Hurrengo urtean, parketako txipiroi populazioa handitu zen ere. Zergatik izan ziren hurrengo urtean txipiroi gehiago?",
+    "option_a": "Itzal-eremuak handitu dira.",
+    "option_b": "Elikagai-iturriak handitu dira.",
+    "option_c": "Oxigeno-mailak handitu dira.",
+    "option_d": "Uretako baliabideak handitu dira."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400612",
+    "answer": "C",
+    "instruction": "Lurrek haitzalpen eta erosioaren bidez aldi berean aldatzen da. Lurreari alde batetik, haitzalpen eta erosio gutxi dago Lur Moon-ekiko alderatuta, hau dela eta:",
+    "option_a": "Moon-ek hainbatuaren falta izan du.",
+    "option_b": "Moon-ek atmosfera nahasia du.",
+    "option_c": "Moon-ek aire eta uraren falta izan du.",
+    "option_d": "Moon-ek ez dauka bizileku-izakiengatik erosioa hainbeste garrantzi handirik."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400655",
+    "answer": "A",
+    "instruction": "Zein da udaren eta neguko artean ohikoena den aldaketa handiena?",
+    "option_a": "eguzki argi-motako ordu-kopurua",
+    "option_b": "itsas-hondarraren altuera",
+    "option_c": "hauts kopurua",
+    "option_d": "lainoaren tamaina"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415735",
+    "answer": "C",
+    "instruction": "Anya hondartzako zementozko zubi batean hielo barruan ezarri zuen egun bateko eguraldi batean. Hielo ttipia lasterketa bihurtu zen. Zein prozesuk eragingo zuen hieloa lasterketa bihurtzea?",
+    "option_a": "Beroa hielo barruan konbektioz transmititu zen.",
+    "option_b": "Beroa haizearen bidez transmititu da hielo barrutik kanpoan.",
+    "option_c": "Beroa haizearekin eta horma sarearekin kondukioko transmititu da.",
+    "option_d": "Beroa hielo barruan kondukioko transmititu ondoren hormara transmititu zen."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2005_8_5",
+    "answer": "D",
+    "instruction": "Hiriurruna, eguzkiaren oraingoz hurbilen dagoen planeta da. Superfizial tenperatura ekstremoak ditu, eguzkiaren argitik 465 ºCera, eta iluntasunetik -180 ºCera iritsita. Zergatik dauzka hiriurrunak tenperatura horien arteko aldi handia?",
+    "option_a": "Planeta oso txikia da beroa gordetzeko.",
+    "option_b": "Planeta bakarrean bero egiten da.",
+    "option_c": "Planeta iluntzaren bidez beroa kaltetik erreflexio egiten du.",
+    "option_d": "Atmosferarik gabeko planeta da, beroa gordetzeko ez duena."
+  },
+  {
+    "id": "ARC-Challenge/validation/TIMSS_2003_8_pg14",
+    "answer": "B",
+    "instruction": "Zergatik tratatzen dira hembras ez-produktore izan dadin aztarnak?",
+    "option_a": "Hembras txiki kopurua handitzeko.",
+    "option_b": "Aztar kopurua gutxitu nahi da.",
+    "option_c": "Aztar especie berriak sortzeko.",
+    "option_d": "Aztarrek ez ezartzeko."
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_20",
+    "answer": "D",
+    "instruction": "Zuhaitzaren sudurraren funtzio nagusia hau da",
+    "option_a": "Airea",
+    "option_b": "Fruta",
+    "option_c": "Eguzkia",
+    "option_d": "Eskaintza"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7017990",
+    "answer": "A",
+    "instruction": "Zein ekintza ez da laborategiko segurtasun-prozedura adierazten?",
+    "option_a": "kemikalien amaierak probatzea",
+    "option_b": "kristalezko tresnak bero badira, bero-erresistentzia duten eskularruak erabiliz",
+    "option_c": "ile luzeak atxikitzea",
+    "option_d": "kemikalaren bultzada garbitzea urez asko erabiliz"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7264023",
+    "answer": "D",
+    "instruction": "Zein elementu hauek ez daude organiko-eburuetan aurkitzeko arriskuan?",
+    "option_a": "karbonoa",
+    "option_b": "hidrogenoa",
+    "option_c": "azotoa",
+    "option_d": "potasioa"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7138513",
+    "answer": "A",
+    "instruction": "Uhartean hainbat harridunei, ez daude hontaz-goizeko basurde-espezie, eta harrapari handi gutxi. Marruz horiek txori huekien janari dira. Marruz arrotzek txori hauek jaten dituzte. Marruz arrotzek harridunei jadanik uhartean askatasunez zabiltza... Zergatik gerta daitekeen arrazoien artean entzun nahi zenuke marruz arrotzak accidentalki harridunei askatasun-emanaldian sartuta?",
+    "option_a": "gehiago harridunak eta gutxiago txoriak",
+    "option_b": "gehiago harridunak eta gehiago txoriak",
+    "option_c": "harridun gutxiago eta txoriak gutxiago",
+    "option_d": "harridun gutxiago eta gehiago txoriak"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_401663",
+    "answer": "B",
+    "instruction": "Nola egin dezake ikasle batek baliabideak kontserbatu komposta-pilatuan kokatuz?",
+    "option_a": "abonamenduak",
+    "option_b": "bia-landareak",
+    "option_c": "ukimen gelaikinak",
+    "option_d": "plastiko piepetak"
+  },
+  {
+    "id": "ARC-Challenge/validation/ACTAAP_2011_5_3",
+    "answer": "C",
+    "instruction": "Lurrungo ibai eta uretan ibilitzerakoan, urak sedimentu-kopuru handi bat eramaten du bai ibaietan bai erreketan. Bada, ibai batean edo errekan ura azkar ibilitzen bada eta gero huts egiten hasten bada, zer gertatuko da urak eramaten dituen sedimentu-partikulen kopuruari?",
+    "option_a": "Ura eramaten dituen sedimentu partikula handiagoen kopurua handituko da.",
+    "option_b": "Ura eramaten dituen sedimentu partikula txikiagoen kopurua handituko da.",
+    "option_c": "Ura eramaten dituen sedimentu partikula handiagoen kopurua gutxituko da.",
+    "option_d": "Ura eramaten dituen sedimentu partikula txikiagoen kopurua gutxituko da."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7195440",
+    "answer": "B",
+    "instruction": "Tropiko belaunaldiaren 50 milioi akrak aproximadoki moztu egiten dira urtero. Honen ondorio nabarmena izango litzatekeena zelan da?",
+    "option_a": "lur-erosio minorkatzea",
+    "option_b": "biodibertsitatea minorkatzea",
+    "option_c": "airearen kalitate hobekuntza",
+    "option_d": "ura kalitate hobekuntza"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7220378",
+    "answer": "C",
+    "instruction": "Klima-aldaketa ozeanoetan flotatzen den izotzaren kopurua murriztzen ari da, eta honek zein da gerta daitekeen edozein osasun animali marinen eskuragarri dagoen elikagai-kantitatea alderraldatzea?",
+    "option_a": "ozeano-uretan deseginiko gatz minerala murriztuz",
+    "option_b": "ura sekorezkatzea ahalbidetzeko gaitasuna handituz",
+    "option_c": "birziklapen-unekoak behar dituzten tenperatura-kondizioak aldatuz",
+    "option_d": "pertsonaiak ingurumen-aldaketetara azkar erantzuteko gintzak ekidin dezaketeela"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7234483",
+    "answer": "B",
+    "instruction": "Zein partikulak sortu ziren biziaren jatorriari buruzko gaur egungo teoria nagusiak lurrikarako gizakiaren aurrean oinarritzen da, eta horretarako prebiotikotzat jotzen diren substantzien araberako lehenengoa zen?",
+    "option_a": "Ingurunearen aldetik banaketa-egonkorra",
+    "option_b": "Haitzurreprodukziorako harmailatzea",
+    "option_c": "Traitsak kimikoki zehaztutako formularioan biltegiratu",
+    "option_d": "Energia gordetzeko molekulak biriktzeko"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7179358",
+    "answer": "B",
+    "instruction": "Klimax basozain ekosistema pizgarritasun mantentzeko baso sutegi-periodo behar du. Zein da hauek beti zapaldu egiten ez bada emaitzarik probableena ekosistema honetan?",
+    "option_a": "Pinoa-espezieek azkarreago erreproduzituko lituzke.",
+    "option_b": "Lorategi-espezieek pinoa ordeztu zuten.",
+    "option_c": "Suteatutako eremuak errazago murriztu ahal izango lirateke.",
+    "option_d": "Zuhaitzek aurretik baso gabeko eremuak hartuko lituzkete."
+  },
+  {
+    "id": "ARC-Challenge/validation/NCEOGA_2013_8_40",
+    "answer": "C",
+    "instruction": "Nola joango al da tabakoaz aritu bada pertsonaren gaitasuna finkatutako aktibitate fisikoetan lortzean?",
+    "option_a": "Koordinazio eta oreka-sistema eragiten du.",
+    "option_b": "Erabakiak azkarrago hartzea ezin bihurtzen du.",
+    "option_c": "Erbesteratze- eta kardiogailu-efizientzia jaitsi egiten da.",
+    "option_d": "Muskulu kontraktuen abiadura eta indarra jaisten dira."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7100695",
+    "answer": "D",
+    "instruction": "Zein egiture geologikoa da iraungitzen gehiengo denbora hartuko duena?",
+    "option_a": "erroldatxo bat",
+    "option_b": "sorgin-lekua",
+    "option_c": "ibaia zeharkako zirkadura",
+    "option_d": "mendi-lerroa"
+  },
+  {
+    "id": "ARC-Challenge/validation/MEA_2016_5_7",
+    "answer": "B",
+    "instruction": "Ikasle bat hauzka bat-kel menperatuta izanik eta landare hosto batekin antzekotasunak zuzenean esan daitezke. Ikasleak uste du bi organizmoek berdina erabilten dutela berde-koadernoak bizi ahal izateko. Zein froga esanahi da bi organismoei berde-koadernoak behar dituzten?",
+    "option_a": "Bi organismok berde-koadernoak mugitzeko erabiltzen dituzte.",
+    "option_b": "Bi organismok hil egiten dira berde-koadernoak kendu ezkero.",
+    "option_c": "Bi organismoen berde-koadernoetan argia ekoizten da.",
+    "option_d": "Bi organismoen berde-koadernoek gehiago egin ditzakete."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7027230",
+    "answer": "A",
+    "instruction": "Zein gai-eremua aberastu egiten dituen gizakien eraginpean sortutako ingurumen-arazoen jatorrizkoak murrizteko jendetzari buruzko ikerketarako hobea izango litzateke?",
+    "option_a": "eguzkia elektrizitate bihurtzea",
+    "option_b": "lezorrak berriak bilatzea",
+    "option_c": "petroletako sabaikoen bila",
+    "option_d": "basoak lurralde-lantoki bihurtzea"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7245053",
+    "answer": "B",
+    "instruction": "Zein hurrengo zatitan dagoen zatia kutsatzaile organikoa da?",
+    "option_a": "ura (H2O)",
+    "option_b": "hekanoa (C6H14)",
+    "option_c": "amoniako (NH3)",
+    "option_d": "azufre dioksidoa (SO2)"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_8_12",
+    "answer": "A",
+    "instruction": "Landare baten hatzaren funtzio nagusia honi dagokio",
+    "option_a": "Elikagaiak biltegiratzea garapen hasieran erabiltzeko",
+    "option_b": "Polinizailetza jasotzea garapen bitartean erabiltzeko",
+    "option_c": "Energia argiak sorraraztea argazkigintzan erabiltzeko",
+    "option_d": "Klorofil produkzioa sorraraztea argazkigintzan erabiltzeko"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7189035",
+    "answer": "D",
+    "instruction": "Scott-ek gorri eta zuri loreen arteko gurutzadaren emaitzak begiratzen ari zen. Zein da garrantzitsuenaren emaitza da faltaegonkortasunaren adierazle duen gurutze bateko emaitzaren kasuan?",
+    "option_a": "0% lore gorriak",
+    "option_b": "25% lore zuriak",
+    "option_c": "50% lore gorriak",
+    "option_d": "100% lore arrosak"
+  },
+  {
+    "id": "ARC-Challenge/validation/LEAP_2006_8_10412",
+    "answer": "B",
+    "instruction": "Jolieek arrainberritutako ogia gozatzeko nahi zuen gosarian. Hamabost minutuz ur beroan jartzen du ogia.  Sukilaren azpian tarte iluntsuetan, ogiaren likidoa solido bihurtu zen. Hori gertatu zen, beraz,",
+    "option_a": "bero hagin dieten bidez ogitik ura kendu zen.",
+    "option_b": "hardutasun kimikoak aldatu zituzten beroak ogian.",
+    "option_c": "sukilak tarte solidoak gainean ekarri zituen beroak hartzeari esker.",
+    "option_d": "ogiko likidoan bizi diren bakterioak hildu ziren."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400172",
+    "answer": "A",
+    "instruction": "Zein zientzialari esan zion lurra zeruaren erdigunea zela?",
+    "option_a": "Aristoteles",
+    "option_b": "Koperniko",
+    "option_c": "Einstein",
+    "option_d": "Newton"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2005_5_21",
+    "answer": "D",
+    "instruction": "Emakume foka gutxituz joaten dira urteetan bezala izandako hilerrietara jaiotzera ematera. Haien kokalekuetan gertoki pertsonalak errepikatuki bizi badira, nola erantzungo dira fokak gehienen probabilitatez?",
+    "option_a": "Kolorea aldatuko dute.",
+    "option_b": "Txakurrak gehiago jaiotzera emango dizkiete.",
+    "option_c": "Ehizatzera joango dira elikagai gehiago bilatzeko.",
+    "option_d": "Beste hilerrietan jaiotzea erabaki dute."
+  },
+  {
+    "id": "ARC-Challenge/validation/MEA_2010_8_11",
+    "answer": "A",
+    "instruction": "Kanpoan urak etengabe mugitzen bada, zer gertatzen da izaera handitzeko?",
+    "option_a": "Ura solido bihurtzen da.",
+    "option_b": "Ura kolapsatzen da.",
+    "option_c": "Ura aldaketa kimiko batean murgildu daiteke.",
+    "option_d": "Ura iheskorra bihurtzen da."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7187058",
+    "answer": "A",
+    "instruction": "Gau batzuetan, Johnny argizari baten alboan irakurri egiten du, argizari hori argindaritzat hartzen duen argizpide batek pizten du. Zein da hobeena frogatzeko elektrizitate-energiaren transferentzia argizpidera nahiko efezientez gertatzen ez dela?",
+    "option_a": "Lapurtzen da bombilla.",
+    "option_b": "Bombilla argitzen du.",
+    "option_c": "Lapian kobre kableak erabiltzen dira.",
+    "option_d": "Lampara gaitz daitezke pantaila baten bidez."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7185133",
+    "answer": "A",
+    "instruction": "Tracey-ek animalien egitura antolakuntzari buruz ikastea ari zen. Zein da beste xenpelketa maila egitura antolakuntzarako?",
+    "option_a": "zellularra",
+    "option_b": "sotoa",
+    "option_c": "sistema",
+    "option_d": "organoa"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7205345",
+    "answer": "D",
+    "instruction": "Taula gatz saltsea (NaCl) sortzean, zein da hurrengo aukeretatik hobeena sodioa (Na) eta kloroaren (Cl) atomoen jarduera deskribatzeko?",
+    "option_a": "Sodio-atomoek kloro-atomoak ordezkatzen dituzte.",
+    "option_b": "Sodio eta kloro-atomoak nahasten dira.",
+    "option_c": "Sodio-atomoek kloro-atomoetan dissolbatzen dira.",
+    "option_d": "Sodio eta kloro-atomoek kimikoki lotuta daude."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_176838",
+    "answer": "A",
+    "instruction": "Zein de hauek ez da pizkuentzio-sistemaren funtzioa?",
+    "option_a": "janariak aztertzeko",
+    "option_b": "nutrizinak eta oxigenoa garraiatzeko",
+    "option_c": "heziketaren produktuak bueltatzeko",
+    "option_d": "kanpo-inbadetzaileak defendatzeko"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2002_5_6",
+    "answer": "D",
+    "instruction": "Hiri-belarriak airean gelditu eta azkartzeko gaitasuna dute, eta azkarki hegaldi aurrera egin dezakete. Hiri-belarrirak onura dakartzan guztietatik, hurrengo guztietatik salbu",
+    "option_a": "suztatzailetatik azkar ihes egitea.",
+    "option_b": "lorei erraz heltzea.",
+    "option_c": "dinamita jateko lekuan mantendua egotea.",
+    "option_d": "arrainontzietan hiruzten jardutea."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7166180",
+    "answer": "B",
+    "instruction": "Landareen hazkundea grabitatea bezalako faktore ymgyniontzen du. Seme bat hots, embieta batean hazitzea utziz altxatuz hurrungatik, zer gertatuko da ohikoenez?",
+    "option_a": "Gurutzeak jaitsiko dira, azalezkoak jaitsiko dira",
+    "option_b": "Gurutzeak jaitsiko dira, azalezkoak igoera egingo dute",
+    "option_c": "Gurutzeak igoera egingo dute, azalezkoak jaitsiko dira",
+    "option_d": "Gurutzeak igoera egingo dute, azalezkoak igoera egingo dute"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2012_5_23632",
+    "answer": "C",
+    "instruction": "Ikasle batek hainbat harena eta ilunaren geruza sorturiko harri bat aztertu zuen. Zein hurrengo adierazpenek deskribatzen du harri mota hau islatzeko modurik probabeleenak? ",
+    "option_a": "Kleiha jaurti eta izotzaz hoztu zitzaion.",
+    "option_b": "Bulkanoko lava uran azkar su egin ondoren lasitu egin zen.",
+    "option_c": "Ibai sedimentuak laster eginez konpaktatu eta harriak lotuta.",
+    "option_d": "Mineralentzako bilaketa konkretatu egin ziren kareten konplexu batean gizona bihurtu zenean."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7267593",
+    "answer": "A",
+    "instruction": "Zein dira krisi naturalei buruzko hauetako haiena zuzenikoenen beste?",
+    "option_a": "lurrikarabizitza",
+    "option_b": "urrikak",
+    "option_c": "tornadoak",
+    "option_d": "elurtegiak"
+  },
+  {
+    "id": "ARC-Challenge/validation/NAEP_2005_8_S11+14",
+    "answer": "B",
+    "instruction": "Ezinezkoa da pertsona batek hurrengo organoren bat galdu:",
+    "option_a": "Apendizeza",
+    "option_b": "Hezurrak",
+    "option_c": "Belarri",
+    "option_d": "Errota"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7218750",
+    "answer": "C",
+    "instruction": "Zein uraren erreserba-itzulpen beti ur berria eskuratzeko gaitu?",
+    "option_a": "lurreko lakurak",
+    "option_b": "ibaiko estuarioak",
+    "option_c": "mendi-izotzak",
+    "option_d": "tropikal itsasokoak"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7026198",
+    "answer": "A",
+    "instruction": "Kriptono elementua ekintza kimiko gutxi erakusten duen gasa da. Eragin bereko beste elementu bat aurkitzeko, zein eremu hartu behar du ikaslea Elementuen Taula periodikoan?",
+    "option_a": "Eremu batean dauden elementua",
+    "option_b": "Eremu berdineko elementua",
+    "option_c": "Sare zehatza berdinduko duen elementua",
+    "option_d": "Atomo masaberberako elementua"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7081760",
+    "answer": "B",
+    "instruction": "Eskualde baten konposizioa, DNA eta biziraupena aztertuz, antzeko organismoa sailkatu behar duen zientzialari batek azterketa emaitzak erabiliko ditu, gehienetan azterketaren emaitzak erabiliko ditu zientzia-ikaskuntza",
+    "option_a": "eraikitzeko.",
+    "option_b": "begiratzea.",
+    "option_c": "hipotesiak sortzeko.",
+    "option_d": "ezkonbentzeko zientzia-teorioak."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7130603",
+    "answer": "C",
+    "instruction": "Zein da goiko kantitateetako unitatean Jouleen kanpoko zenbakiak erabiliz kalkulatzen ez dena?",
+    "option_a": "berotzea",
+    "option_b": "argia",
+    "option_c": "indarra",
+    "option_d": "lanbidea"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7074865",
+    "answer": "C",
+    "instruction": "Alga, bakterio eta landareen artean zer egia da?",
+    "option_a": "Inorganikoak dira.",
+    "option_b": "Guztiok klorofila dute.",
+    "option_c": "Zelulak osatuta daude.",
+    "option_d": "Guztiok beste organismo batzuetatik jan egiten dute."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7042700",
+    "answer": "D",
+    "instruction": "Zein tresna ez da beharrezkoa animalien dissekzioan?",
+    "option_a": "gantalak",
+    "option_b": "gafak",
+    "option_c": "labeko kamiseta",
+    "option_d": "segurtasun dutxa"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7071365",
+    "answer": "D",
+    "instruction": "Zein lehioztapen da haizelekuak eta saskibelarrekiko alderaketa egiaztatzen duen alderdi bat?",
+    "option_a": "Haizelekuak saskibelar baino polikiagoak eta harrigarriagoak dira ikustera.",
+    "option_b": "Haizelekuak saskibelar baino hobeak dira hegaztatu ahal izateko.",
+    "option_c": "Haizelekuak eta saskibelarrak askoz ere pozgarriagoak dira egunero.",
+    "option_d": "Haizelekuak eta saskibelarrak oin-kopuru berak dituzte."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7026443",
+    "answer": "D",
+    "instruction": "Zein da etxeko txakurraren jatorrizko ezaugarria?",
+    "option_a": "Txakurra katu batetik ihes egiten du.",
+    "option_b": "Txakurra sofa batean jauzi egiten du.",
+    "option_c": "Txakurra agindu batean biratu egiten da.",
+    "option_d": "Txakurra janariaren usaindun denean babarruntza egiten du."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7008138",
+    "answer": "B",
+    "instruction": "Zein aipatzen du asteroide eta kometak banaketa egiten dituela?",
+    "option_a": "Asteroidak gasak dira eta kometek solidoak.",
+    "option_b": "Asteroidak solidoak dira eta kometek gasak.",
+    "option_c": "Asteroideak eta kometek biak solidoak dira.",
+    "option_d": "Asteroideak eta kometek biak gasak dira."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_402104",
+    "answer": "D",
+    "instruction": "Tokiko kimikak elikatzeko, ponpean bota ohi lirateke, eta horrek hala ere, %s",
+    "option_a": "ponpatiko oxigeno maila igo egingo da",
+    "option_b": "ponpako landareak azkarrago kresatuko dira",
+    "option_c": "tokiko kimikak ponpatik jarriko du eraginik gabe",
+    "option_d": "ponpatiko arrainak kalteztatuko dira edo hil egingo dira"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7086013",
+    "answer": "D",
+    "instruction": "Humboldt Ibaia Basinak zenbat baliabide ezberdin eskaintzen ditu, hau da, zein baliabide ezberdin lortzen da Humboldt Ibaia Basingatik?",
+    "option_a": "mendi gordetegitik karbona",
+    "option_b": "azala galduzko petrolio eta gasa",
+    "option_c": "hidroelektrikoaren eraginpean dagoen energia elektrikoa",
+    "option_d": "uraren, araren eta kobrearen mineralak kentzen dituzten minetan"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7248238",
+    "answer": "D",
+    "instruction": "Bahametako uharteetan aurkitutako oilaskoak hainbat urtegan isolaturiko ureztatoki desberdinetan bizi dira, horiek dugu baina gaur egun hainbat ur-nahasketan banatuta dauden ur bakoitzean. Bi urtegotxitik emandako zenbait masku eta emakume oilaskoak batura batzen direnean, haien seme alaba hauen nahasketen araberako txukuten arazoa ohiko da. Zein da baliabide honi edukitako nahasketa-hobeskuntza gutxituenaren arrazoia?",
+    "option_a": "Elikagaien eskuragarritasunak finkatzen du belaunaldiak hauen nahaste-hobekuntzak eman ditzan.",
+    "option_b": "Zuen bidezko kideen arteko lehiakortasuna eragin du nahasketen araberako hobeskuntethi.",
+    "option_c": "Itsasoko haragiak arazoak eragindako belaunaldi hobesketen eragina du.",
+    "option_d": "Berehalako nahaste-banaketa spezializazioa egonkortasunaren arrazoia da nahasketa hobeskuntzak zuzenean gertatzea."
+  }
+]

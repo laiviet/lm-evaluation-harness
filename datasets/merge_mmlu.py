@@ -50,6 +50,6 @@ if __name__ == '__main__':
 
     for code2 in code2_map:
         merge(
-            input_dir=f"../../mInstructLLM/dataset/mmlu-chatgpt/{code2}",
+            input_dir=f"../translation/mmlu-chatgpt/{code2}",
             output_dir=f"m_mmlu/"
         )

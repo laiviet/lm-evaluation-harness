@@ -18,30 +18,20 @@ _DESCRIPTION = """
 HellaSwag: Can a Machine Really Finish Your Sentence? is a new dataset for commonsense NLI. A paper was published at ACL2019.
 """
 
-LANGS = 'ar,bn,ca,da,de,es,eu,fr,gu,hi,hr,hu,hy,id,it,kn,ml,mr,ne,nl,pt,ro,ru,sk,sr,sv,ta,te,uk,vi,zh'.split(',')
 
-
-class LangTaskConfig(datasets.BuilderConfig):
+class HellaswagConfig(datasets.BuilderConfig):
 
     def __init__(self, lang, **kwargs):
-        super().__init__(**kwargs)
-        self.name = lang
-        self.url = f'datasets/m_hellaswag/{self.name}_validation.json'
-        self.features = datasets.Features(
-            {
-                # These are the features of your dataset like images, labels ...
-                "ind": datasets.Value("int32"),
-                "activity_label": datasets.Value("string"),
-                "ctx_a": datasets.Value("string"),
-                "ctx_b": datasets.Value("string"),
-                "ctx": datasets.Value("string"),
-                "endings": datasets.features.Sequence(datasets.Value("string")),
-                "source_id": datasets.Value("string"),
-                "split": datasets.Value("string"),
-                "split_type": datasets.Value("string"),
-                "label": datasets.Value("string"),
-            }
-        )
+        """BuilderConfig for Hellaswag.
+        Args:
+          **kwargs: keyword arguments forwarded to super.
+        """
+        super(HellaswagConfig, self).__init__(**kwargs)
+        self.name = f'hellaswag_{lang}'
+        self.url = f"datasets/m_hellaswag/{lang}_validation.json"
+
+LANGS = 'ar,bn,ca,da,de,es,eu,fr,gu,hi,hr,hu,hy,id,it,kn,ml,mr,ne,nl,pt,ro,ru,sk,sr,sv,ta,te,uk,vi,zh'.split(',')
+
 
 
 class Hellaswag(datasets.GeneratorBasedBuilder):
@@ -51,7 +41,7 @@ class Hellaswag(datasets.GeneratorBasedBuilder):
     VERSION = datasets.Version("0.1.0")
 
     BUILDER_CONFIGS = [
-        LangTaskConfig(lang)
+        HellaswagConfig(lang)
         for lang in LANGS
     ]
 
@@ -61,7 +51,21 @@ class Hellaswag(datasets.GeneratorBasedBuilder):
             # This is the description that will appear on the datasets page.
             description=_DESCRIPTION,
             # datasets.features.FeatureConnectors
-            features=self.config.features,
+            features=datasets.Features(
+                {
+                    # These are the features of your dataset like images, labels ...
+                    "ind": datasets.Value("int32"),
+                    "activity_label": datasets.Value("string"),
+                    "ctx_a": datasets.Value("string"),
+                    "ctx_b": datasets.Value("string"),
+                    "ctx": datasets.Value("string"),
+                    "endings": datasets.features.Sequence(datasets.Value("string")),
+                    "source_id": datasets.Value("string"),
+                    "split": datasets.Value("string"),
+                    "split_type": datasets.Value("string"),
+                    "label": datasets.Value("string"),
+                }
+            ),
             # If there's a common (input, target) tuple from the features,
             # specify them here. They'll be used if as_supervised=True in
             # builder.as_dataset.
@@ -88,17 +92,18 @@ class Hellaswag(datasets.GeneratorBasedBuilder):
         """Yields examples."""
         # TODO(hellaswag): Yields (key, example) tuples from the dataset
         with open(filepath, encoding="utf-8") as f:
-            all_samples = json.load(f)
-        for i, data in enumerate(all_samples):
+            contents = json.load(f)
+        print('Loaded', len(contents), 'examples')
+        for i, data in enumerate(contents):
             yield i, {
                 "ind": int(data["ind"]),
                 "activity_label": data["activity_label"],
-                "ctx_a": data.get("ctx_a", ""),
-                "ctx_b": data.get("ctx_b", ""),
+                "ctx_a": data['ctx_a'],
+                "ctx_b": data['ctx_b'],
                 "ctx": data["ctx"],
-                "endings": data.get("endings", []),
+                "endings": data["endings"],
                 "source_id": data["source_id"],
                 "split": data["split"],
                 "split_type": data["split_type"],
-                "label": str(data['label']),
+                "label": data['label'],
             }

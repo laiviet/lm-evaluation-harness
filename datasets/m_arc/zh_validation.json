@@ -1,0 +1,2673 @@
+[
+  {
+    "id": "ARC-Challenge/validation/Mercury_7099103",
+    "answer": "D",
+    "instruction": "野生黑莓可以通过接触地面时产生新根来无性繁殖。同时它们也可以通过花卉进行有性繁殖。黑莓植物能够无性和有性繁殖的优点是什么？",
+    "option_a": "它可以让植物长得更高。",
+    "option_b": "它会开花吸引昆虫。",
+    "option_c": "它会产生味道更好的黑莓。",
+    "option_d": "它可以让黑莓植物适应新的环境。"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2006_9_31-v1",
+    "answer": "C",
+    "instruction": "以下哪项描述了停在陡峭山顶上的手推车的机械能？",
+    "option_a": "手推车没有机械能。",
+    "option_b": "手推车的机械能全部是动能。",
+    "option_c": "手推车的机械能全部是势能。",
+    "option_d": "手推车的机械能一半是势能，一半是动能。"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7090738",
+    "answer": "A",
+    "instruction": "哪些问题可以通过科学调查来回答？",
+    "option_a": "太阳能如何影响云的形成？",
+    "option_b": "为什么老虎比鬣蜥更美丽？",
+    "option_c": "大学最好学习什么学科？",
+    "option_d": "人类是否应该投资太空旅行？"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7130883",
+    "answer": "B",
+    "instruction": "一门工程学课程已受命开发一个机器人。该机器人必须使用电磁能作为其唯一的能源来源。该工程班级最有可能在学习什么主题？",
+    "option_a": "电池和化学能的使用",
+    "option_b": "辐射能和太阳能收集器的使用",
+    "option_c": "将动能转化为势能的方法",
+    "option_d": "将热能转化为电能的方法"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7190155",
+    "answer": "B",
+    "instruction": "亚马逊雨林生活着许多不同的植物和动物物种。亚马逊雨林大面积的毁林最可能导致的后果是什么？",
+    "option_a": "动物数量的增加",
+    "option_b": "氧气产量的减少",
+    "option_c": "降雨量的增加",
+    "option_d": "污染物的减少"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_177398",
+    "answer": "B",
+    "instruction": "一辆以每小时50公里的速度向东北方向行驶的汽车代表以下哪个物理量？",
+    "option_a": "速度",
+    "option_b": "速度向量",
+    "option_c": "加速度",
+    "option_d": "减速度"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7246995",
+    "answer": "C",
+    "instruction": "一些植物细胞需要能量来将营养物质穿过细胞膜。这些植物细胞使用哪种能量转化将营养分子带进细胞膜内？",
+    "option_a": "热能转动能",
+    "option_b": "势能转光能",
+    "option_c": "化学能转动能",
+    "option_d": "动能转势能"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_189490",
+    "answer": "A",
+    "instruction": "格雷戈尔·孟德尔对豌豆植物的观察是一个例子，它说明了",
+    "option_a": "支持科学理论的基于研究的证据。",
+    "option_b": "假设正在经受一个结论的检验。",
+    "option_c": "实验过程中的随机测试。",
+    "option_d": "支持和反对一个科学模型的证据。"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7139790",
+    "answer": "C",
+    "instruction": "章鱼皮肤上有特殊的细胞称为色素体，使其能够几乎瞬间改变颜色。这些色素体很可能帮助了章鱼",
+    "option_a": "更快地游泳。",
+    "option_b": "呼吸更慢。",
+    "option_c": "躲避掠食者。",
+    "option_d": "调节体温。"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7282608",
+    "answer": "C",
+    "instruction": "家庭污水并非都一样。灰水指的是来自池塘和浴缸的家庭污水。它不包含人类生物废物，因此可以重复使用，而不是被视为污水接受处理。哪些使用灰水展示了良好的管理?",
+    "option_a": "洗碗和饮用",
+    "option_b": "饮用和灌溉花坛",
+    "option_c": "灌溉花坛和浇水树木",
+    "option_d": "浇水树木和洗碗"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7145513",
+    "answer": "B",
+    "instruction": "生命过程需要能量。生化过程涉及特定反应。哪种生化过程特征对所有动物都是普遍的?",
+    "option_a": "在任何pH水平下都能发挥作用",
+    "option_b": "热量作为产物释放",
+    "option_c": "仅使用无氧呼吸",
+    "option_d": "吸收的能量量"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7018148",
+    "answer": "B",
+    "instruction": "化学元素周期表上的大多数元素是",
+    "option_a": "气体。",
+    "option_b": "金属。",
+    "option_c": "液体。",
+    "option_d": "非金属。"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_401294",
+    "answer": "B",
+    "instruction": "在多雨的气候条件下，植物叶子的形状往往是",
+    "option_a": "红色而有光泽。",
+    "option_b": "宽而扁平。",
+    "option_c": "厚实而有蜡质。",
+    "option_d": "尖锐而狭长。"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7207410",
+    "answer": "C",
+    "instruction": "风暴追逐者是接近风暴观察和测量的人。风暴追逐者增加了怎样的知识以帮忙修改风暴形成理论？",
+    "option_a": "他们对风暴损害的看法",
+    "option_b": "他们在风暴中的个人经验",
+    "option_c": "他们在风暴刚开始时所收集的数据",
+    "option_d": "他们对研究不同风暴的热情"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_8_2015_11",
+    "answer": "A",
+    "instruction": "以下哪个说法最能描述一个固态冰块的质量？",
+    "option_a": "固体块中物质的数量",
+    "option_b": "固体块所占的空间大小",
+    "option_c": "作用在固体块上的重力",
+    "option_d": "固体块中分子之间的距离"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7201705",
+    "answer": "A",
+    "instruction": "在世界许多地方，过于干旱不能用于农耕的土地被用于放牧牲畜。 过度放牧这些土地会破坏本土植物，并破坏天然的土壤覆盖层。 过度放牧如何导致荒漠化？",
+    "option_a": "通过增加表土侵蚀的速率",
+    "option_b": "通过允许非本地物种殖民化土地",
+    "option_c": "通过减少可供牲畜食用的食物",
+    "option_d": "通过使土地更快地吸收降雨"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7133858",
+    "answer": "B",
+    "instruction": "物质可以发生不同的变化。哪个最能说明化学变化？",
+    "option_a": "盐的溶解",
+    "option_b": "木材燃烧",
+    "option_c": "水的沸腾",
+    "option_d": "冰的融化"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2003_5_31",
+    "answer": "D",
+    "instruction": "以下哪一个行为不是本能行为？",
+    "option_a": "鸟筑巢",
+    "option_b": "海龟埋蛋",
+    "option_c": "熊冬眠",
+    "option_d": "马拉犁"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7198380",
+    "answer": "D",
+    "instruction": "同一生态系统中生活着不同物种的食草啮齿动物。最有可能增加的哪个因素会导致啮齿动物之间更多的资源竞争?",
+    "option_a": "土壤肥沃程度",
+    "option_b": "该地区的生产者数量",
+    "option_c": "捕食者留下的食物残渣量",
+    "option_d": "初级消费者涌入该地区的速率"
+  },
+  {
+    "id": "ARC-Challenge/validation/LEAP_2012_8_10441",
+    "answer": "C",
+    "instruction": "一种蜥蜴品种主要吃一种特定类型的树果。如果一种病毒杀死了大部分这些树，哪些蜥蜴个体最有可能存活？",
+    "option_a": "能够爬到更高的果树的蜥蜴",
+    "option_b": "颜色较深的蜥蜴",
+    "option_c": "能够找到其他类型的食物的蜥蜴",
+    "option_d": "能够产下更多后代的蜥蜴"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7217053",
+    "answer": "B",
+    "instruction": "除了以下哪个，生物进化可以通过所有的方式来发生",
+    "option_a": "竞争。",
+    "option_b": "化石形成。",
+    "option_c": "变异。",
+    "option_d": "适应。"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7233660",
+    "answer": "C",
+    "instruction": "一些科学家理论认为，板块运动可以改变地球海洋中的水平面。板块运动的性质如何限制海平面的可能变化？",
+    "option_a": "只造成小幅变化",
+    "option_b": "只改变一些特定的海洋盆地",
+    "option_c": "以非常缓慢的速度发生变化",
+    "option_d": "造成成对的相等和相反的变化"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7115395",
+    "answer": "A",
+    "instruction": "哪些变化最可能对生态系统产生负面影响？",
+    "option_a": "修建公路",
+    "option_b": "种植树木",
+    "option_c": "增加淡水来源",
+    "option_d": "创建自然保护区"
+  },
+  {
+    "id": "ARC-Challenge/validation/MSA_2013_8_3",
+    "answer": "D",
+    "instruction": "地质学家们在地球表面确定了七个主要构造板块。哪个证据最能表明构造板块相互碰撞？",
+    "option_a": "风蚀地表岩石形成。",
+    "option_b": "化石追溯到几千年前。",
+    "option_c": "冰川消退后留下小石头。",
+    "option_d": "较早的岩层位于较新的岩层之上。"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7205135",
+    "answer": "C",
+    "instruction": "当铁块被熔化时，其中的粒子会发生什么变化？",
+    "option_a": "粒子会增加质量。",
+    "option_b": "粒子的能量会减少。",
+    "option_c": "粒子会运动得更快。",
+    "option_d": "粒子的体积会增加。"
+  },
+  {
+    "id": "ARC-Challenge/validation/ACTAAP_2010_5_10",
+    "answer": "A",
+    "instruction": "Sara 打开手电筒并将一个物体举起来照亮。她如何才能知道物体是否为不透明？",
+    "option_a": "没有光会透过。",
+    "option_b": "有些光会反射。",
+    "option_c": "光线会弯曲。",
+    "option_d": "光会清晰地透过。"
+  },
+  {
+    "id": "ARC-Challenge/validation/TIMSS_2003_8_pg29",
+    "answer": "E",
+    "instruction": "以下哪个器官不在腹部?",
+    "option_a": "肝脏",
+    "option_b": "肾脏",
+    "option_c": "胃部",
+    "option_d": "膀胱",
+    "option_e": "心脏"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7181685",
+    "answer": "A",
+    "instruction": "玫瑰植物的花色特征在某些物种中高度变异，导致形成不同颜色的花朵。玫瑰植物的花色变异是如何产生的？",
+    "option_a": "通过突变",
+    "option_b": "通过授粉",
+    "option_c": "通过自然选择",
+    "option_d": "通过无性繁殖"
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2011_5_20",
+    "answer": "D",
+    "instruction": "雪兔一年脱两次毛。夏季时，兔毛是棕色的。冬季时，兔毛是白色的。以下哪一个陈述最好地解释了脱毛的好处？",
+    "option_a": "脱毛可以让兔子保持干净。",
+    "option_b": "脱毛可以帮助兔子快速移动。",
+    "option_c": "脱毛可以让兔子的家保持温暖。",
+    "option_d": "脱毛可以帮助兔子融入自己的栖息地。"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7008120",
+    "answer": "A",
+    "instruction": "科学家使用双星来确定星星的",
+    "option_a": "质量。",
+    "option_b": "亮度。",
+    "option_c": "距离地球的距离。",
+    "option_d": "距离太阳的距离。"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_13",
+    "answer": "B",
+    "instruction": "一个男孩在凝静的池塘中可以看到自己的脸。池塘的哪个物理属性造成了这种现象？",
+    "option_a": "柔韧性",
+    "option_b": "反光性",
+    "option_c": "温度",
+    "option_d": "体积"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_1",
+    "answer": "B",
+    "instruction": "一名学生在两个相同的花盆中种植了两颗豆子种子，土壤类型相同。他把一个盆放在衣柜里，另一个放在阳光充足的窗户旁。每天，他在每个盆子里倒入15毫升的水。这两个盆的哪个因素不同？",
+    "option_a": "水的数量",
+    "option_b": "光照的数量",
+    "option_c": "土壤类型",
+    "option_d": "种子类型"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7141698",
+    "answer": "B",
+    "instruction": "闪电发生时，会加热周围的空气。热空气膨胀并产生雷声。闪电的能量转化为哪种能量，从而产生雷声？",
+    "option_a": "重力",
+    "option_b": "机械",
+    "option_c": "核能",
+    "option_d": "辐射"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_407314",
+    "answer": "A",
+    "instruction": "两个班的学生进行了同样的调查。每个班得出了不同的结果。学生们最好确定为什么结果不同的方法是什么？",
+    "option_a": "审查调查过程中所采取的步骤。",
+    "option_b": "改变调查假设。",
+    "option_c": "研究类似调查的数据。",
+    "option_d": "进行不同的调查。"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_406781",
+    "answer": "C",
+    "instruction": "哪种动物之间的相互作用最好地控制了物种的数量？",
+    "option_a": "野生动物标记它们的领土",
+    "option_b": "长尾鱼随同鲨鱼旅行",
+    "option_c": "狮子捕食斑马",
+    "option_d": "狼群出行"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400845",
+    "answer": "B",
+    "instruction": "闪电可以产生以下所有形式的能量，除了",
+    "option_a": "热能。",
+    "option_b": "太阳能。",
+    "option_c": "光能。",
+    "option_d": "电能。"
+  },
+  {
+    "id": "ARC-Challenge/validation/ACTAAP_2009_5_5",
+    "answer": "B",
+    "instruction": "珍妮特收到了一些矿物质需要鉴别。她的其中一份样品是黄色的。以下哪种矿物质最有可能是黄色的？",
+    "option_a": "滑石",
+    "option_b": "硫",
+    "option_c": "石膏",
+    "option_d": "赤铁矿"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7171938",
+    "answer": "D",
+    "instruction": "地球的海洋潮汐受月球强烈影响。在哪些月相下，地球的海洋潮汐最低？",
+    "option_a": "满月和第一节(最小)月",
+    "option_b": "满月和新月",
+    "option_c": "最后一节(最小)月和新月",
+    "option_d": "第一节(最小)月和最后一节(最小)月"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415354",
+    "answer": "C",
+    "instruction": "海豚学会了以下哪些行为？",
+    "option_a": "吃小鱼",
+    "option_b": "在咸水中游泳",
+    "option_c": "用鼻子平衡球",
+    "option_d": "通过喷气孔呼吸"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_17",
+    "answer": "C",
+    "instruction": "猫最有可能从父母那里遗传哪种特征？",
+    "option_a": "有疤痕",
+    "option_b": "追逐玩具",
+    "option_c": "有白色的皮毛",
+    "option_d": "知道自己的名字"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7251685",
+    "answer": "B",
+    "instruction": "哪种活动最有效地保证骨细胞的正常功能？",
+    "option_a": "增加呼吸频率",
+    "option_b": "摄入富含矿物质的食物",
+    "option_c": "减少有压力的运动",
+    "option_d": "喝无离子水"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7267995",
+    "answer": "C",
+    "instruction": "一些植物和动物物种相互依赖。以下哪种动物有助于数千种植物物种的繁殖？",
+    "option_a": "松鼠",
+    "option_b": "蚯蚓",
+    "option_c": "蜜蜂",
+    "option_d": "甲虫"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7193043",
+    "answer": "B",
+    "instruction": "非本地植物可以占领原来有本地植物的区域。哪种非生物过程最不可能导致非本地植物的入侵？",
+    "option_a": "洪水",
+    "option_b": "风化",
+    "option_c": "沙尘暴",
+    "option_d": "融化的冰川"
+  },
+  {
+    "id": "ARC-Challenge/validation/VASoL_2008_5_28",
+    "answer": "C",
+    "instruction": "潜水艇已探索了大洋的许多地方。当潜水艇下潜时，科学家观察到水压——",
+    "option_a": "光线量增加",
+    "option_b": "水温升高",
+    "option_c": "水压增加",
+    "option_d": "海洋生物种类增多"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7154263",
+    "answer": "B",
+    "instruction": "浮游植物是一种像植物一样的微小生物，它们漂浮在水体中，如海洋。它们在光合作用过程中吸入二氧化碳。如果浮游植物群体被摧毁，最有可能发生什么情况？",
+    "option_a": "海水温度会下降。",
+    "option_b": "温室气体会增加。",
+    "option_c": "大气氧气会增加。",
+    "option_d": "海平面会急剧下降。"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7032743",
+    "answer": "C",
+    "instruction": "猎豹的哪个特征更可能是学会而不是遗传的？",
+    "option_a": "速度",
+    "option_b": "有斑点的外皮",
+    "option_c": "狩猎策略",
+    "option_d": "不会伸缩的爪子"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_19",
+    "answer": "B",
+    "instruction": "小猫长大成猫之后，它们的体重通常会",
+    "option_a": "减少",
+    "option_b": "增加",
+    "option_c": "保持不变"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7115273",
+    "answer": "C",
+    "instruction": "湖面大量的藻类使哪个非生物因素无法到达湖底？",
+    "option_a": "水",
+    "option_b": "盐",
+    "option_c": "光线",
+    "option_d": "氧气"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7205555",
+    "answer": "A",
+    "instruction": "水具有许多独特的化学性质。哪一种水的性质使其成为结晶盐的良好溶剂？",
+    "option_a": "极性强",
+    "option_b": "导电性弱",
+    "option_c": "黏度高",
+    "option_d": "pH低"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7192990",
+    "answer": "A",
+    "instruction": "由于干旱条件造成许多地区发生森林火灾。如果干旱条件持续很长时间，可能会导致树木的重新定植受到威胁的是哪一个？",
+    "option_a": "土壤厚度的减少",
+    "option_b": "侵蚀量的减少",
+    "option_c": "细菌种群的增加",
+    "option_d": "氧气产量的增加"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_408859",
+    "answer": "A",
+    "instruction": "美国短吻鳄在佛罗里达湿地很常见。据了解，它们以青蛙、龟、鱼、老鼠和鸟类为食。 美国短吻鳄在其生态系统中扮演什么角色？",
+    "option_a": "消费者",
+    "option_b": "分解者",
+    "option_c": "食腐动物",
+    "option_d": "生产者"
+  },
+  {
+    "id": "ARC-Challenge/validation/TIMSS_2007_4_pg90",
+    "answer": "C",
+    "instruction": "Sue 测量了一杯冷水、一杯温水和一杯热水中会溶解多少糖。她最可能观察到了什么?",
+    "option_a": "冷水溶解了最多的糖。",
+    "option_b": "温水溶解了最多的糖。",
+    "option_c": "热水溶解了最多的糖。",
+    "option_d": "冷水、温水和热水溶解了相同数量的糖。"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_180058",
+    "answer": "A",
+    "instruction": "在科罗拉多州发现的一件化石来自早中生代。一年后，在怀俄明州发现了一件类似的化石，也来自早中生代。这两个生物最有可能生活在",
+    "option_a": "大约同一时间的相同环境中。",
+    "option_b": "不同时间的相同环境中。",
+    "option_c": "大约相同时间的不同环境中。",
+    "option_d": "不同时间的不同环境中。"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400050",
+    "answer": "C",
+    "instruction": "当房内温度低于恒温器所选温度时会发生什么?",
+    "option_a": "炉子会过热。",
+    "option_b": "恒温器会变热。",
+    "option_c": "炉子会自动开启。",
+    "option_d": "恒温器会发出蜂鸣声。"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_1998_8_13",
+    "answer": "D",
+    "instruction": "使用核能有哪些主要的争议性问题中不是一个？",
+    "option_a": "核废料的处理",
+    "option_b": "核电站周围地区的健康危害",
+    "option_c": "用于冷却的水体的热污染",
+    "option_d": "因转向核能导致失业"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_4",
+    "answer": "A",
+    "instruction": "固体、液体、气体中哪一种状态没有固定的体积和形状？",
+    "option_a": "气体",
+    "option_b": "液体",
+    "option_c": "固体"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7233678",
+    "answer": "A",
+    "instruction": "科学家认为地球在漫长的地质历史上发生了大陆漂移，对地球的冷暖周期产生了重大影响。以下哪项描述了大陆特征，最有可能在大陆漂移时引起全球气候变化？",
+    "option_a": "大陆的位置影响其表面反射率。",
+    "option_b": "大陆板块深度决定其比热。",
+    "option_c": "大陆漂移吸收大量动能。",
+    "option_d": "大陆的温度受其最近的海洋影响。"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_LBS10666",
+    "answer": "B",
+    "instruction": "植物通常不需要吃其他生物，因为植物",
+    "option_a": "不需要食物能量来生存。",
+    "option_b": "将阳光转化为食物能量。",
+    "option_c": "从土壤中获得所有的食物能量。",
+    "option_d": "将食物能量储存在它们的根部。"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_8_38",
+    "answer": "A",
+    "instruction": "物质固态（state）有",
+    "option_a": "明确的形状和明确的体积",
+    "option_b": "明确的形状，但没有明确的体积",
+    "option_c": "没有明确的形状，但有明确的体积",
+    "option_d": "没有明确的形状和明确的体积"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2004_8_28",
+    "answer": "A",
+    "instruction": "如果将高尔夫球从地球移到月球上，其可测量的属性会发生什么变化？",
+    "option_a": "它的重量会不同，但质量相同。",
+    "option_b": "重量相同，但质量不同。",
+    "option_c": "密度相同，但质量不同。",
+    "option_d": "质量相同，但密度不同。"
+  },
+  {
+    "id": "ARC-Challenge/validation/LEAP__7_10354",
+    "answer": "D",
+    "instruction": "乔安妮的科学老师告诫学生们在学习新科学发现时要持怀疑态度。为什么在科学领域对新发现持怀疑态度很重要？",
+    "option_a": "因为许多科学发现不是基于事实的。",
+    "option_b": "因为大多数科学发现没有科学价值。",
+    "option_c": "因为大多数科学家在制定科学发现时会犯错误。",
+    "option_d": "因为所有科学发现在被接受之前必须经过批判性的审查。"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2003_8_25",
+    "answer": "B",
+    "instruction": "在汽车上，以下哪个部件是专门设计用来向驾驶员提供反馈的？",
+    "option_a": "方向盘",
+    "option_b": "速度表",
+    "option_c": "刹车踏板",
+    "option_d": "汽车钥匙"
+  },
+  {
+    "id": "ARC-Challenge/validation/TIMSS_2011_8_pg63",
+    "answer": "C",
+    "instruction": "以下哪项是化合物的定义？",
+    "option_a": "不同的物质混合在一起",
+    "option_b": "原子和分子混合在一起",
+    "option_c": "不同元素的原子结合在一起",
+    "option_d": "相同元素的原子结合在一起"
+  },
+  {
+    "id": "ARC-Challenge/validation/AIMS_2009_4_29",
+    "answer": "D",
+    "instruction": "冰箱使用电力创造一个冷藏食物的地方。冰箱使用对环境有什么负面影响？",
+    "option_a": "保持食物冷藏所需的电力成本很高。",
+    "option_b": "如果停电，食物会变质使你生病。",
+    "option_c": "长时间储存食物能够减少去杂货店的次数和汽油的使用量。",
+    "option_d": "旧的冰箱含有化学物质且占用垃圾填埋场所需空间。"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_LBS10472",
+    "answer": "B",
+    "instruction": "植物的茎末端有专门的组织。这些组织有助于植物做什么？",
+    "option_a": "消化食物",
+    "option_b": "长高",
+    "option_c": "制造食物",
+    "option_d": "吸收水分"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415491",
+    "answer": "C",
+    "instruction": "地球每年围绕太阳旋转一次。月球大约每年绕地球旋转多少次？",
+    "option_a": "1",
+    "option_b": "7",
+    "option_c": "13",
+    "option_d": "28"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2011_5_17673",
+    "answer": "A",
+    "instruction": "Jose有两个条形磁铁。他将两个磁铁的末端靠在一起，然后松开。磁铁迅速分离。以下哪项陈述最好地解释这是为什么？",
+    "option_a": "两个磁铁的北极面面对面。",
+    "option_b": "一个磁铁是一个北极，另一个磁铁是一个南极。",
+    "option_c": "磁铁的末端相互排斥，但中心相互吸引。",
+    "option_d": "一只磁铁正在储存能量，而另一只磁铁正在释放能量。"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_416648",
+    "answer": "A",
+    "instruction": "草履虫和毛球藻都能进行有性繁殖。毛球藻的有性繁殖和草履虫的有性繁殖有什么不同？",
+    "option_a": "毛球藻集团产生配子。",
+    "option_b": "毛球藻细胞进行接合。",
+    "option_c": "毛球藻集团产生单细胞后代。",
+    "option_d": "毛球藻细胞通过营养繁殖繁殖。"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7207620",
+    "answer": "A",
+    "instruction": "一些仪器记录地球大气层中臭氧层的氧气水平。持续记录这些数据多年是以下哪个方面的例子？",
+    "option_a": "通过持续调查建立证据。",
+    "option_b": "识别支持数据的假设。",
+    "option_c": "通过结果得出结论。",
+    "option_d": "提出易于理解的数据。"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7164850",
+    "answer": "A",
+    "instruction": "一所科学班设计了一份海报，展示了佛罗里达海岸线上的障碍岛是如何形成的。学生们展示了风、浪和潮水对形成这些岛屿的沙子的影响。在这张海报上，学生们应该说哪一对系统对障碍岛的形成影响最大？",
+    "option_a": "水圈和大气圈",
+    "option_b": "大气圈和岩石圈",
+    "option_c": "生物圈和水圈",
+    "option_d": "岩石圈和生物圈"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7011270",
+    "answer": "B",
+    "instruction": "月球绕地球完成一次公转大约需要多长时间？",
+    "option_a": "7天",
+    "option_b": "30天",
+    "option_c": "90天",
+    "option_d": "365天"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7090598",
+    "answer": "C",
+    "instruction": "以下哪个过程涉及大量热能的转移？",
+    "option_a": "侵蚀",
+    "option_b": "沉积作用",
+    "option_c": "俯冲作用",
+    "option_d": "胶结作用"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_412337",
+    "answer": "D",
+    "instruction": "在一次调查中，热量从液体传递到了环境中。以下哪一对解释最能解释这个结果？",
+    "option_a": "液体的温度升高，或液体变成了气体。",
+    "option_b": "液体的温度升高，或液体变成了固体。",
+    "option_c": "液体的温度降低，或液体变成了气体。",
+    "option_d": "液体的温度降低，或液体变成了固体。"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_1998_8_2",
+    "answer": "C",
+    "instruction": "使得植物细胞比动物细胞更加坚硬的细胞结构是",
+    "option_a": "细胞膜。",
+    "option_b": "细胞质。",
+    "option_c": "细胞壁。",
+    "option_d": "核糖体。"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7124338",
+    "answer": "D",
+    "instruction": "科学家需要有好奇心，因为它能引导科学家...",
+    "option_a": "...变得更有创造性。",
+    "option_b": "...不相信其他科学家的工作。",
+    "option_c": "...努力接受已发表的假说。",
+    "option_d": "...进行研究以证实或证伪理论。"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_405454",
+    "answer": "D",
+    "instruction": "哪种烹饪工具对环境的影响最小？",
+    "option_a": "燃气烤架",
+    "option_b": "电煎锅",
+    "option_c": "微波炉",
+    "option_d": "太阳能炊具"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7007875",
+    "answer": "B",
+    "instruction": "谁负责创造风?",
+    "option_a": "波浪作用",
+    "option_b": "太阳能",
+    "option_c": "树木舞动",
+    "option_d": "引力"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_417146",
+    "answer": "A",
+    "instruction": "大气层中大部分氧气是由藻类产生的。藻类大多生活在哪里？",
+    "option_a": "沿海海洋",
+    "option_b": "深海",
+    "option_c": "池塘",
+    "option_d": "湖泊"
+  },
+  {
+    "id": "ARC-Challenge/validation/LEAP_2004_8_10397",
+    "answer": "B",
+    "instruction": "当人们在月球行走时，他们发现他们可以跳得比在地球上更高。为什么会这样？",
+    "option_a": "月球上没有大气层。",
+    "option_b": "月球的引力比地球小。",
+    "option_c": "航天服帮助他们跳得更高。",
+    "option_d": "月球比地球自转得更快。"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_407695",
+    "answer": "D",
+    "instruction": "Juan和LaKeisha沿着斜坡推动了一些物体。他们想知道哪个物体能滚的最远。他们应该怎么做，才能重复他们的研究?",
+    "option_a": "将物体分成组。",
+    "option_b": "改变斜坡的高度。",
+    "option_c": "选择不同的物体来滚动。",
+    "option_d": "记录研究的细节。"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7158673",
+    "answer": "D",
+    "instruction": "安娜是一名越野跑步运动员。完成比赛后她注意到自己感到热，这是由于释放了热能。最可能的热能来源是什么？",
+    "option_a": "空气摩擦",
+    "option_b": "吸收太阳的热量",
+    "option_c": "吸收机械能",
+    "option_d": "身体内能量转换"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7018515",
+    "answer": "C",
+    "instruction": "盐水的声音传播速度比淡水快的最可能原因是，盐水",
+    "option_a": "更具弹性。",
+    "option_b": "更快吸收热量。",
+    "option_c": "密度更大。",
+    "option_d": "更好地反射声音。"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_412551",
+    "answer": "D",
+    "instruction": "夜鸮有两种颜色：红色和灰色。在由深色树皮组成的栖息地中，灰色夜鸮相比红色夜鸮有什么优势？",
+    "option_a": "筑巢",
+    "option_b": "觅食",
+    "option_c": "繁殖",
+    "option_d": "隐藏"
+  },
+  {
+    "id": "ARC-Challenge/validation/VASoL_2008_5_19",
+    "answer": "D",
+    "instruction": "三名棒球运动员进行研究，以确定谁能投掷最远。他们在操场上标出了一个研究区域。他们应该保持什么不变？",
+    "option_a": "球员的身高",
+    "option_b": "投掷的棒球颜色",
+    "option_c": "球员投掷的顺序",
+    "option_d": "球员投掷的距离起点"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7120890",
+    "answer": "A",
+    "instruction": "下列哪个最能展示波能量的传递？",
+    "option_a": "塔钟敲响",
+    "option_b": "树叶落下",
+    "option_c": "球滚下山坡",
+    "option_d": "旗帜在风中飘扬"
+  },
+  {
+    "id": "ARC-Challenge/validation/AKDE&ED_2008_8_44",
+    "answer": "A",
+    "instruction": "哪一个特征只适用于这些分类群中的一种动物：爬行动物、哺乳动物、鸟类、两栖动物或鱼类？",
+    "option_a": "有毛发",
+    "option_b": "下蛋",
+    "option_c": "有蹼足",
+    "option_d": "用鳃呼吸"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415348",
+    "answer": "D",
+    "instruction": "树的哪个特征是遗传的？",
+    "option_a": "松树上的一个断枝",
+    "option_b": "橡树上的一个空洞",
+    "option_c": "枫树上的一个伤疤",
+    "option_d": "山核桃树上的粗壮树干"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7014368",
+    "answer": "C",
+    "instruction": "长岸流是以极小角度袭击海滩的海洋波浪。 在存在长岸流的区域，它们对陆地区域有什么影响？",
+    "option_a": "它们会建造山脉。",
+    "option_b": "它们会引起地震。",
+    "option_c": "它们会移动沙子，创建沙洲。",
+    "option_d": "它们会创造内陆的咸水河流。"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7245193",
+    "answer": "C",
+    "instruction": "一片农村地区被清空以建造道路，但后来这条道路从未被建成。该区域开始重新生长。下列哪种生物最可能最先重新出现？",
+    "option_a": "树木",
+    "option_b": "灌木",
+    "option_c": "地衣和苔藓",
+    "option_d": "杂草和狗尾草"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7251668",
+    "answer": "D",
+    "instruction": "在白天，某深度为 1 米的池塘里，樱蛤种群向上进行垂直迁移，在晚上则从池塘底部返回水面。这种行为最可能是响应以下哪种因素？",
+    "option_a": "水的 pH 值",
+    "option_b": "水的清晰度",
+    "option_c": "水的压力",
+    "option_d": "水的温度"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2013_8_29421",
+    "answer": "A",
+    "instruction": "当一个人的汗水蒸发时，人会感到更凉爽。以下哪个陈述最能解释出为什么出汗会让人感到凉爽?",
+    "option_a": "当汗水蒸发时，它会吸收热量。",
+    "option_b": "当汗水蒸发时，身体会吸收热量。",
+    "option_c": "当汗水蒸发时，汗水中的水的温度会下降。",
+    "option_d": "当汗水蒸发时，身体内的水的温度会上升。"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7082145",
+    "answer": "D",
+    "instruction": "如何使用折线图来显示移动物体的距离和时间数据？",
+    "option_a": "y轴应标记为时间（自变量）。",
+    "option_b": "y轴应标记为距离（因变量）。",
+    "option_c": "x轴应标记为距离（自变量）。",
+    "option_d": "x轴应标记为时间（因变量）。"
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2007_5_39",
+    "answer": "D",
+    "instruction": "学生正在学习马里兰州的自然资源。一组学生研究该州可再生自然资源的信息。另一组学生研究该州非可再生自然资源的信息。学生们研究的资源包括植物、动物、土壤、矿物、水、煤和油。以下哪项人类活动对自然资源产生负面影响？",
+    "option_a": "在湖中捕鱼",
+    "option_b": "利用水来发电",
+    "option_c": "在湖畔种植本地植物",
+    "option_d": "将农田径流引入湖泊"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_22",
+    "answer": "A",
+    "instruction": "一些动物的毛在冬季变得更加浓密，春季脱落。这些观察表明动物是如何",
+    "option_a": "响应环境变化的",
+    "option_b": "迁徙以维持生存",
+    "option_c": "储存冬季的脂肪",
+    "option_d": "与其他动物竞争食物的"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7006790",
+    "answer": "B",
+    "instruction": "以下哪项最好地解释了雷雨期间窗户发出嘎嘎声的原因？",
+    "option_a": "电能",
+    "option_b": "声能",
+    "option_c": "光能",
+    "option_d": "热能"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7284043",
+    "answer": "C",
+    "instruction": "非洲草原上的象以灌木和小树为食。这种行为可以清除土地并促进草长。像瞪羚这样的食草动物会吃草。狮子捕猎瞪羚。在这种情况下，哪两个生物处于最合作的关系？",
+    "option_a": "象和灌木",
+    "option_b": "灌木和狮子",
+    "option_c": "象和瞪羚",
+    "option_d": "瞪羚和狮子"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7175455",
+    "answer": "D",
+    "instruction": "在澳大利亚，中午的气温可能会升至超过110°F（43°C）。袋鼠为了让自己的身体保持凉爽，会舔自己的胳膊，涂上一层厚厚的唾液。当唾液蒸发时，它会起到一个冷却机制，降低袋鼠的体温。哪个术语最能描述这个活动？",
+    "option_a": "自然选择",
+    "option_b": "防御机制",
+    "option_c": "结构适应",
+    "option_d": "行为适应"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_401714",
+    "answer": "B",
+    "instruction": "在实验室实验中，学生正在测试未知粉末的身份。哪种方法最适合将粉末移动到天平上？",
+    "option_a": "用刷子扫到转移纸上",
+    "option_b": "用实验室勺子舀到转移纸上",
+    "option_c": "用手指捏取并放到转移纸上",
+    "option_d": "从瓶子倒到转移纸上"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_409529",
+    "answer": "B",
+    "instruction": "Robert是一名渔夫，希望找到一种更多地捕获鱼的方法。他决定尝试不同大小的钩子。在使用蠕虫作饵的过程中，Robert捕获了4只鲶鱼，3条鳟鱼和7只鲈鱼。在Robert的调查中哪一个是独立（操作）变量？",
+    "option_a": "鱼饵类型",
+    "option_b": "鱼钩大小",
+    "option_c": "鱼种类",
+    "option_d": "捕获鱼的数量"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7223038",
+    "answer": "C",
+    "instruction": "有许多大小和颜色的星星。以下哪项最恰当地描述了太阳所处的类别？",
+    "option_a": "蓝色超级巨星",
+    "option_b": "红色巨星",
+    "option_c": "黄色主序星",
+    "option_d": "白矮星"
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2008_5_24",
+    "answer": "C",
+    "instruction": "马里兰州及其周边地区发现了许多自然资源。其中一些是可再生的，而一些则是不可再生的。人们在日常活动中使用各种资源。使用自然资源经常会产生废弃物。回收中心是人们带去可能被重复使用以制造新产品的材料的地方。回收纸张如何对环境有益呢?",
+    "option_a": "减少空气污染",
+    "option_b": "增加土壤侵蚀",
+    "option_c": "减少砍伐的树木",
+    "option_d": "增加栖息地破坏"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2010_5_11998",
+    "answer": "A",
+    "instruction": "牵牛花是一种攀爬树木和围墙的开花藤本植物。以下哪种行为最有助于牵牛花攀爬围墙？",
+    "option_a": "茎轻触时卷曲",
+    "option_b": "茎对水的反应肿胀",
+    "option_c": "开花受光的影响",
+    "option_d": "根顺重力生长"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7139493",
+    "answer": "B",
+    "instruction": "致千足虫能够在反复接触杀虫剂的情况下存活最可能的原因是什么？",
+    "option_a": "物种多样性",
+    "option_b": "基因多样性",
+    "option_c": "生态系统多样性",
+    "option_d": "群体多样性"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_14",
+    "answer": "A",
+    "instruction": "太阳能电池板用于吸收阳光。哪种颜色的面板能吸收最多的阳光？",
+    "option_a": "黑色",
+    "option_b": "绿色",
+    "option_c": "白色",
+    "option_d": "黄色"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2006_9_35",
+    "answer": "A",
+    "instruction": "以下哪种遗传疾病是由于染色体不分离问题导致的？",
+    "option_a": "16号三体综合征：当一个受精卵获得3个16号染色体时导致的一种疾病",
+    "option_b": "亨廷顿病：当一个受精卵获得一种突变的显性等位基因时导致的一种疾病",
+    "option_c": "血友病：当一个受精卵获得带有特定隐性等位基因的X染色体时导致的一种疾病",
+    "option_d": "镰状细胞贫血：当一个受精卵从每个亲本那里获得一个血红蛋白的隐性等位基因时导致的一种疾病"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2015_8_7",
+    "answer": "B",
+    "instruction": "一个学生在炉子上使用最高档位加热两个平底锅中的水。一个锅里装有 1 升的水，另一个锅里装有 3 升的水。学生加热每个锅，直到水沸腾。以下哪个描述最能说明锅中的水会发生什么？",
+    "option_a": "两个锅中的水同时沸腾。",
+    "option_b": "两个锅中的水在同一温度下沸腾。",
+    "option_c": "3 升的水在沸腾之前比 1 升的水更加热。",
+    "option_d": "3 升的水吸收热能比 1 升的水更快。"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7115063",
+    "answer": "A",
+    "instruction": "以下哪个最可能破坏湿地生态系统？",
+    "option_a": "建造住宅开发",
+    "option_b": "种植本地野花",
+    "option_c": "一段大雨时期",
+    "option_d": "一次闪电打击"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7144795",
+    "answer": "D",
+    "instruction": "在过去的75年中，特定的栖息地经历了许多环境条件的变化。哪项是最有可能具有最好的生存机会的物种的特征？",
+    "option_a": "人口众多的种群",
+    "option_b": "现有社区中丰富的物种多样性",
+    "option_c": "允许个体在各种条件下生存的适应性",
+    "option_d": "促进在新环境中适应性发展的行为"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_400934",
+    "answer": "C",
+    "instruction": "根据元素周期表，哪一组元素具有相似的特性？",
+    "option_a": "氢、碳、碘",
+    "option_b": "氦、氢、铝",
+    "option_c": "氦、Ne、Ar",
+    "option_d": "钠、钙、铝"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7004410",
+    "answer": "B",
+    "instruction": "食物网在代表生态系统方面的一个限制是它们不",
+    "option_a": "包括生态系统中的生产者。",
+    "option_b": "包括生态系统中的所有物种。",
+    "option_c": "展示生态系统中的消费者。",
+    "option_d": "展示生态系统中的捕食-被食关系。"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7029505",
+    "answer": "C",
+    "instruction": "ABO血型分类中，血型之间是如何不同的？",
+    "option_a": "红细胞大小不同",
+    "option_b": "白细胞大小不同",
+    "option_c": "红细胞上的标记蛋白不同",
+    "option_d": "白细胞上的标记蛋白不同"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_LBS10598",
+    "answer": "A",
+    "instruction": "一个冰块融化后蒸发。冰块和水蒸气具有相同的",
+    "option_a": "质量。",
+    "option_b": "密度。",
+    "option_c": "体积。",
+    "option_d": "温度。"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7245893",
+    "answer": "B",
+    "instruction": "消化系统的哪个部位首先对食物产生化学变化？",
+    "option_a": "嘴里的牙齿",
+    "option_b": "嘴里的唾液",
+    "option_c": "胃里的酶",
+    "option_d": "小肠里的酶"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7246925",
+    "answer": "D",
+    "instruction": "亮氨酸是身体所需但无法合成的氨基酸之一。下列哪项是人体获得亮氨酸的途径？",
+    "option_a": "身体将其他氨基酸转化为亮氨酸。",
+    "option_b": "身体储存含有亮氨酸的碳水化合物。",
+    "option_c": "身体分解脂肪酸以获得亮氨酸。",
+    "option_d": "身体消化食物中的蛋白质以获得亮氨酸。"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7138688",
+    "answer": "D",
+    "instruction": "哪种程序最能帮助确定一项调查是否有科学依据？",
+    "option_a": "记录使用的设备状况",
+    "option_b": "与一组人进行调查",
+    "option_c": "彻底地进行一次调查",
+    "option_d": "多次重复调查"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_408700",
+    "answer": "C",
+    "instruction": "Emily泡了一杯茶，并用勺子搅拌。勺子变得很暖和。茶水的热量是通过什么方式传输给勺子的？",
+    "option_a": "对流",
+    "option_b": "辐射",
+    "option_c": "传导",
+    "option_d": "蒸发"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7100608",
+    "answer": "B",
+    "instruction": "麦克尔的家庭正在建造一座新房子。他们想使用可再生资源产生的电力。哪一个能源供给方式能帮助这个家庭实现他们的目标？",
+    "option_a": "汽油发动机",
+    "option_b": "太阳能屋顶板",
+    "option_c": "燃煤发电厂",
+    "option_d": "核电站"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7133648",
+    "answer": "C",
+    "instruction": "在厨房里哪项任务是物理变化的例子？",
+    "option_a": "煎鸡蛋",
+    "option_b": "烤蛋糕",
+    "option_c": "融化黄油",
+    "option_d": "烤面包"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_401244",
+    "answer": "D",
+    "instruction": "研究生物体历史上最有用的岩石类型是哪种？",
+    "option_a": "玄武岩",
+    "option_b": "大理石",
+    "option_c": "花岗岩",
+    "option_d": "石灰石"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_400397",
+    "answer": "C",
+    "instruction": "一只熊最有可能从生活的环境中学到了以下哪种行为？",
+    "option_a": "饮水",
+    "option_b": "吃鱼",
+    "option_c": "打开垃圾桶盖子",
+    "option_d": "保护幼崽"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7245088",
+    "answer": "D",
+    "instruction": "以下哪个描述了碳水化合物的构成？",
+    "option_a": "脂质结合形成磷脂",
+    "option_b": "单体结合形成聚合物",
+    "option_c": "氨基酸结合形成多肽",
+    "option_d": "糖类结合形成多糖"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_408809",
+    "answer": "C",
+    "instruction": "在老鼠中，某个特定物种的皮毛颜色呈不完全显性。黑色（BB）老鼠和白色（bb）老鼠的后代是灰色（Bb）老鼠。两只灰色老鼠之间的交配最可能会产生哪个颜色比例的后代？",
+    "option_a": "25% 黑色，75% 灰色",
+    "option_b": "25% 灰色，75% 白色",
+    "option_c": "25% 白色，25% 黑色，50% 灰色",
+    "option_d": "25% 灰色，25% 黑色，50% 白色"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7068863",
+    "answer": "C",
+    "instruction": "一个学生调查了铁对植物生长的影响。四个相同的植物在浇水时接受了不同量的铁补充。如果有以下哪项，这项调查可能已经得到改进？",
+    "option_a": "土壤中有蚯蚓。",
+    "option_b": "实验中的植物更少。",
+    "option_c": "接受不含铁补充的植物。",
+    "option_d": "接受不同量阳光的植物。"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7166880",
+    "answer": "D",
+    "instruction": "克莱正在观察天气，为明天去海滩做准备。天气预报预测，一个低气压系统将在夜间移动。克莱最可能期望哪种天气？",
+    "option_a": "雾（foggy）",
+    "option_b": "晴朗（sunny）",
+    "option_c": "晴朗但更冷（clear and colder）",
+    "option_d": "多云有雨（cloudy and rainy）"
+  },
+  {
+    "id": "ARC-Challenge/validation/ACTAAP_2007_7_25",
+    "answer": "A",
+    "instruction": "在科学实验室中哪一项不是安全规则？",
+    "option_a": "将液体准确地倒入烧杯。",
+    "option_b": "不要在手中拿着物品时切割它们。",
+    "option_c": "处理危险物质时佩戴安全护目镜。",
+    "option_d": "记录气味时，将烟雾朝着鼻子挥动而不是将脸贴在源头上。"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7018445",
+    "answer": "D",
+    "instruction": "声音会通过哪种材料传播得最快?",
+    "option_a": "软木",
+    "option_b": "水",
+    "option_c": "空气",
+    "option_d": "钢铁"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7033653",
+    "answer": "C",
+    "instruction": "宇宙中用来衡量地球与其他太阳系之间距离的最佳单位是什么？",
+    "option_a": "英里",
+    "option_b": "公里",
+    "option_c": "光年",
+    "option_d": "天文单位"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2006_5_29",
+    "answer": "D",
+    "instruction": "测试了四根相同厚度但由不同金属制成的杠杆，并以相同重量进行测试，以确定哪种材料的柔韧性最好。以下哪种方法最好地报告了这个实验的结果？",
+    "option_a": "列出使用的每种类型的杠杆",
+    "option_b": "在测试之前对每根杠杆进行草图",
+    "option_c": "显示每个杠杆重量的表格",
+    "option_d": "显示每个杠杆弯曲程度的条形图"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7159268",
+    "answer": "A",
+    "instruction": "上一个冰河时代之后，极地和山区冰盖的融化导致海洋水位上升。以下哪个最可能是海水上升的结果？",
+    "option_a": "现有沿海湿地的盐分含量增加",
+    "option_b": "现有珊瑚礁中生物数量增加",
+    "option_c": "每天潮汐数量减少",
+    "option_d": "海底深度降低"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_400885",
+    "answer": "D",
+    "instruction": "哪个方程式是平衡的化学方程式?",
+    "option_a": "2NaOH + CaBr_{2} -> Ca(OH)_{2} + NaBr",
+    "option_b": "NO + Cl_{2} -> NOCl",
+    "option_c": "CaCO_{3} -> CaO + 2CO_{2}",
+    "option_d": "2AlCl_{3} + 3Mg -> 3MgCl_{2} + 2Al"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7038273",
+    "answer": "A",
+    "instruction": "在进行实验时，学生收集了若干不同的水温、两次质量测量和三次体积测量。以下哪种方式最适合组织这些数据？",
+    "option_a": "用表格",
+    "option_b": "用图表",
+    "option_c": "用书面叙述",
+    "option_d": "用图片说明"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_407574",
+    "answer": "A",
+    "instruction": "生产者释放了一种气体，消费者摄取它才能存活。它是什么气体？",
+    "option_a": "氧气",
+    "option_b": "氮气",
+    "option_c": "水蒸汽",
+    "option_d": "二氧化碳"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_1998_4_8",
+    "answer": "B",
+    "instruction": "在哪里使用电动工具最危险？",
+    "option_a": "车库中",
+    "option_b": "游泳池旁边",
+    "option_c": "靠近电视或电脑",
+    "option_d": "在凉爽的地下室中"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7128695",
+    "answer": "C",
+    "instruction": "一位科学家在进行研究时发现了一些东西，但未能保持清晰的测试记录。缺乏记录保存对科学家的工作产生了何种影响？",
+    "option_a": "它使过程和结论无效。",
+    "option_b": "它使研究中获得的数据不正确。",
+    "option_c": "它防止其他科学家验证结果。",
+    "option_d": "它阻止其他科学家提出新的假设。"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400178",
+    "answer": "C",
+    "instruction": "哪种混合物可以分离成其成分？",
+    "option_a": "薯片",
+    "option_b": "巧克力蛋糕",
+    "option_c": "水果沙拉",
+    "option_d": "炒鸡蛋"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7189823",
+    "answer": "A",
+    "instruction": "一座火山爆发并覆盖周围地区的熔岩和火山灰。随着生态系统的开始恢复，以下哪种类型的植物最有可能首先在火山喷发周围地区殖民?",
+    "option_a": "苔藓",
+    "option_b": "野花",
+    "option_c": "硬木树",
+    "option_d": "常绿灌木"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_412683",
+    "answer": "D",
+    "instruction": "一个频率为2赫兹、波长为10米的波的速度是多少？",
+    "option_a": "5米/秒",
+    "option_b": "8米/秒",
+    "option_c": "12米/秒",
+    "option_d": "20米/秒"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_184258",
+    "answer": "A",
+    "instruction": "以下哪项流特征最直接影响河流沉积？",
+    "option_a": "梯度",
+    "option_b": "高程",
+    "option_c": "基准面",
+    "option_d": "水质"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_192168",
+    "answer": "D",
+    "instruction": "科学模型很常见。以下哪种情况下物理模型最不有用？",
+    "option_a": "模拟科学现象",
+    "option_b": "简化复杂思想",
+    "option_c": "允许可视化",
+    "option_d": "展示数据"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_LBS10399",
+    "answer": "D",
+    "instruction": "一个显微镜通过50倍放大。如果图像看起来是0.5厘米长，则物体有多长？",
+    "option_a": "100厘米",
+    "option_b": "25厘米",
+    "option_c": "2.5厘米",
+    "option_d": "0.01厘米"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7228603",
+    "answer": "C",
+    "instruction": "以下哪个是减数分裂过程中同源染色体断裂重组的结果？",
+    "option_a": "随机突变",
+    "option_b": "减少配子数量",
+    "option_c": "具有独特性状组合的后代",
+    "option_d": "每条染色体上等位基因数量减少"
+  },
+  {
+    "id": "ARC-Challenge/validation/MEA_2013_5_3",
+    "answer": "D",
+    "instruction": "太阳被归类为一颗恒星。哪个特征可以将太阳识别为一颗恒星？",
+    "option_a": "太阳绕自己的轴旋转。",
+    "option_b": "太阳位于银河系外。",
+    "option_c": "太阳是北斗七星的一部分。",
+    "option_d": "太阳通过核反应产生光和能量。"
+  },
+  {
+    "id": "ARC-Challenge/validation/NCEOGA_2013_8_38",
+    "answer": "C",
+    "instruction": "在冬季，北极狐的皮毛是白色的。在夏季，皮毛会变暗成红棕色。以下哪个原因最有可能导致狐狸的皮毛变色？",
+    "option_a": "存在的日照量",
+    "option_b": "狐狸的栖息地",
+    "option_c": "狐狸的基因",
+    "option_d": "狐狸的年龄"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7221095",
+    "answer": "A",
+    "instruction": "以下哪一个是生态系统中的非生物因素?",
+    "option_a": "生态系统中每年的平均降雨量",
+    "option_b": "生态系统中发现的生产者类型",
+    "option_c": "生态系统中捕食者种群的大小",
+    "option_d": "生态系统土壤中的微生物"
+  },
+  {
+    "id": "ARC-Challenge/validation/MEAP_2005_5_1",
+    "answer": "C",
+    "instruction": "水蒸气存在于大气中，是一种___.",
+    "option_a": "可见的气体",
+    "option_b": "可见的液体",
+    "option_c": "不可见的气体",
+    "option_d": "不可见的液体"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_406939",
+    "answer": "C",
+    "instruction": "一张纸可以通过哪种方式进行化学变化？",
+    "option_a": "将纸对折",
+    "option_b": "将纸浸泡在水中",
+    "option_c": "用火焚烧纸张",
+    "option_d": "用剪刀剪开纸张"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7219415",
+    "answer": "C",
+    "instruction": "以下哪个例子是细胞有选择性渗透膜的一种功能？",
+    "option_a": "维持细胞形状",
+    "option_b": "为细胞制造蛋白质",
+    "option_c": "限制从细胞中扩散出去的化学物质",
+    "option_d": "为细胞储存废物"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_1999_8_22",
+    "answer": "B",
+    "instruction": "哪种桥梁使用电缆作为支撑？",
+    "option_a": "桁架桥",
+    "option_b": "悬索桥",
+    "option_c": "梁桥",
+    "option_d": "伸臂桥"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2006_9_33",
+    "answer": "D",
+    "instruction": "猎杀、干旱和疾病导致猎豹濒临灭绝。现在，猎豹种群基因变异非常少。以下哪种情况是当前猎豹种群与基因变异更多的早期种群相比，出现的基因变异受限的结果？",
+    "option_a": "当前种群的猎豹更能抵抗新疾病。",
+    "option_b": "当前种群的幼年猎豹的存活率增加了。",
+    "option_c": "当前种群的猎豹与其他物种的杂交能力较差。",
+    "option_d": "当前猎豹种群不太可能适应环境变化。"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7135310",
+    "answer": "C",
+    "instruction": "为什么机器的输出能量始终小于输入能量？",
+    "option_a": "机器运行时一些能量被破坏。",
+    "option_b": "机器必须克服恒定的磁力。",
+    "option_c": "随着能量向周围环境转移，有用能量减少。",
+    "option_d": "转换时一部分能量会释放为热能。"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_414131",
+    "answer": "C",
+    "instruction": "所有元素的属性是什么？",
+    "option_a": "所有元素都是金属。",
+    "option_b": "所有元素都有六个电子。",
+    "option_c": "所有元素都是纯物质。",
+    "option_d": "所有元素都存在于固态相。"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7112753",
+    "answer": "B",
+    "instruction": "为了定位甲虫种群，科学家必须使用一种高度专门化的设备。哪个因素最有可能限制定位甲虫的能力？",
+    "option_a": "气候",
+    "option_b": "费用",
+    "option_c": "样本大小",
+    "option_d": "政治"
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2009_5_16",
+    "answer": "D",
+    "instruction": "学生们参观了位于巴尔的摩的马里兰州太空探索计划天文台的莫里斯·W·奥菲特望远镜。他们了解了星球、行星和月球。学生们记录了以下信息。• 星型图案保持不变，但它们在天空中的位置似乎会改变。• 太阳、行星和月亮似乎在天空中移动。• 比邻星是离我们太阳系最近的恒星。• 北极星是一颗属于小熊星座的星星。以下哪个陈述最好地解释了太阳为什么每天穿过天空移动？",
+    "option_a": "太阳绕地球公转。",
+    "option_b": "地球绕太阳公转。",
+    "option_c": "太阳绕其轴自转。",
+    "option_d": "地球绕其轴自转。"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7236023",
+    "answer": "B",
+    "instruction": "一团空气位于北半球风暴的低压中心，海拔高度为1000米。由于风暴条件和地球的旋转，以下哪个最能描述空气粒子在空气团内向外移动时的运动情况？",
+    "option_a": "空气粒子向上和向左移动。",
+    "option_b": "空气粒子向上和向右移动。",
+    "option_c": "空气粒子向下和向左移动。",
+    "option_d": "空气粒子向下和向右移动。"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7270008",
+    "answer": "C",
+    "instruction": "开采煤炭的露天采矿方式涉及移除矿区上方的所有植被和岩石。哪两个地球子系统最直接受到露天采矿的影响？",
+    "option_a": "岩石圈和大气圈",
+    "option_b": "生物圈和水圈",
+    "option_c": "岩石圈和生物圈",
+    "option_d": "大气圈和水圈"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7099768",
+    "answer": "D",
+    "instruction": "当保龄球从投球手的手中释放时，球中的能量部分",
+    "option_a": "储存在球中，直至撞击木瓶。",
+    "option_b": "通过摩擦作用而增加。",
+    "option_c": "从动能转化为重力势能。",
+    "option_d": "在与地板接触时转化为热能和声能。"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7269238",
+    "answer": "D",
+    "instruction": "柴油发动机可以燃烧许多种燃料。哪种燃料是柴油发动机最可再生的燃料？",
+    "option_a": "传统柴油燃料",
+    "option_b": "蒸馏煤油",
+    "option_c": "传统生产的植物油",
+    "option_d": "有机生产的植物油"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7187915",
+    "answer": "A",
+    "instruction": "阿曼达和杰克在研究一个简单的电路中学习了动能和势能的概念。他们研究的电路包括电池、电线和一个灯泡。在这个电路中表示势能的是哪一种形式？",
+    "option_a": "电池中的化学能",
+    "option_b": "灯泡中的光能",
+    "option_c": "电线流失的热能",
+    "option_d": "穿过灯泡的电能"
+  },
+  {
+    "id": "ARC-Challenge/validation/OHAT_2011_8_3",
+    "answer": "D",
+    "instruction": "哪一项行为展示了化学变化？",
+    "option_a": "长发被剪掉并变干。",
+    "option_b": "一支木铅笔被削尖并折断。",
+    "option_c": "一块冰块融化并成为透明液体。",
+    "option_d": "一枚铁钉在表面变成橙色且剥落。"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7159775",
+    "answer": "A",
+    "instruction": "珍妮特进行一项调查，以查看哪些食物会使她感到更疲劳。她在四天内每天在同一个时间食用四种不同的食物，然后记录自己的感受。她请求她的朋友卡门进行相同的调查以查看她是否得到类似的结果。哪一个是最难复制的调查？",
+    "option_a": "测量疲劳程度",
+    "option_b": "确保食用相同的食物",
+    "option_c": "在同一张表中记录观察结果",
+    "option_d": "确保食物处于相同的温度"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_402239",
+    "answer": "C",
+    "instruction": "在家里节省自然资源的最佳方法是什么？",
+    "option_a": "将所有玻璃扔进垃圾桶。",
+    "option_b": "使用纸巾清洁溢出的液体。",
+    "option_c": "缩短淋浴时间。",
+    "option_d": "每天浇灌草坪。"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_184013",
+    "answer": "C",
+    "instruction": "以下哪一件事对土地的破坏最小？",
+    "option_a": "一次7.2级地震",
+    "option_b": "热带风暴潮",
+    "option_c": "电暴",
+    "option_d": "火山爆发"
+  },
+  {
+    "id": "ARC-Challenge/validation/NCEOGA_2013_8_4",
+    "answer": "D",
+    "instruction": "为什么在化学反应后，产物的总质量会小于反应物的总重量？",
+    "option_a": "发生了物理变化。",
+    "option_b": "参与反应的原子失去了质量。",
+    "option_c": "在新溶液中形成沉淀。",
+    "option_d": "气体释放到大气中。"
+  },
+  {
+    "id": "ARC-Challenge/validation/ACTAAP_2013_7_17",
+    "answer": "D",
+    "instruction": "一个团体想知道在阿肯色飞过的水鸟数量每年是否有变化。他们应该使用哪种方法收集这些信息？",
+    "option_a": "在一年中捕捉尽可能多的鸟。 收集每只鸟的位置数据。",
+    "option_b": "明年春天的第一天，数一数州内最大的湖泊中有多少只鸟。与去年的数据进行比较。",
+    "option_c": "在州界线上的某个位置放置一名观察者。 让这个人数数鸟飞进州里。 连续两年这样做。",
+    "option_d": "在迁徙期的某一天选择一天。 在州内十个不同的湖泊计算鸟的数量。 按照相同的日子连续十年这样做。"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7183015",
+    "answer": "A",
+    "instruction": "最近一篇科学期刊中的文章解释了对流电流与板块构造之间的关系。岩石圈内流体的循环会导致地壳板块移动。在地球内部，最可能导致流体循环的是什么？",
+    "option_a": "能量转移",
+    "option_b": "全球变暖",
+    "option_c": "潮汐变化",
+    "option_d": "洋流"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2014_8_17",
+    "answer": "D",
+    "instruction": "下列哪个是无性繁殖的例子？",
+    "option_a": "乌龟在沙坑里产下受精卵。",
+    "option_b": "松球在花粉到达松球后形成种子。",
+    "option_c": "鱼在水面释放卵细胞和精细胞。",
+    "option_d": "树发出类似根的延伸，产生新的茎。"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_401286",
+    "answer": "B",
+    "instruction": "许多濒危动物会被捕捉、标记，然后再放回它们的栖息地。标记可能是一块编码塑料或金属，安全地放置在动物的某个部位。标记动物的最可能原因是什么？",
+    "option_a": "监测它们的饮食习惯",
+    "option_b": "监测它们的活动范围",
+    "option_c": "监测它们的睡眠习惯",
+    "option_d": "监测它们的繁殖习惯"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7207358",
+    "answer": "C",
+    "instruction": "现代原子理论最好描述为以下哪项活动的结果？",
+    "option_a": "19世纪初约翰·道尔顿的实验",
+    "option_b": "两位重要科学家之间的讨论",
+    "option_c": "众多科学家多年的研究",
+    "option_d": "2000多年前德谟克利特的原子理论"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7015435",
+    "answer": "A",
+    "instruction": "强酸和强碱反应的产物是什么？",
+    "option_a": "盐和水",
+    "option_b": "两种不同元素",
+    "option_c": "弱酸和弱碱",
+    "option_d": "氢离子和氢氧根离子"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7044678",
+    "answer": "A",
+    "instruction": "当树叶失去必要的水分时，哪个陈述最能解释它会发生什么？",
+    "option_a": "它的渗透压下降。",
+    "option_b": "它的大气压力下降。",
+    "option_c": "它的蒸腾速率增加。",
+    "option_d": "它的光合作用速率增加。"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_400905",
+    "answer": "D",
+    "instruction": "太阳与地球的距离约为 1.5 x 10^8 千米。光速为 3.0 x 10^8 米/秒。太阳到地球的距离是几个光秒？",
+    "option_a": "2.0 光秒",
+    "option_b": "0.5 光秒",
+    "option_c": "2.0 x 10^-3 光秒",
+    "option_d": "5.0 x 10^2 光秒"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_LBS10040",
+    "answer": "D",
+    "instruction": "光合作用产生了对植物生长有帮助的什么物质？",
+    "option_a": "水",
+    "option_b": "氧气",
+    "option_c": "蛋白质",
+    "option_d": "糖"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_8_41",
+    "answer": "D",
+    "instruction": "在车祸中，安全带通过施加一个力帮助预防受伤。",
+    "option_a": "小于乘客的移动力",
+    "option_b": "大于汽车的移动力",
+    "option_c": "与汽车运动方向相同",
+    "option_d": "与乘客移动方向相反"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7141908",
+    "answer": "C",
+    "instruction": "科学家在海底发现了一种复杂生物的新物种。该生物很可能",
+    "option_a": "是单细胞的。",
+    "option_b": "是一种细菌。",
+    "option_c": "由多个细胞组成。",
+    "option_d": "缺乏有组织的细胞核。"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_406029",
+    "answer": "D",
+    "instruction": "为了进行一项科学活动，Mia 每晚都要画出月亮的图片。如果 Mia 画了一张新月的图片，那么大约一周后她会画出哪种类型的月亮？",
+    "option_a": "凸出的月亮",
+    "option_b": "满月",
+    "option_c": "新月",
+    "option_d": "第一季度月"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7105123",
+    "answer": "C",
+    "instruction": "化石记录表明物种变化通常",
+    "option_a": "当一个物种形成时停止。",
+    "option_b": "在稳定的条件下加速。",
+    "option_c": "需要经过许多代才会发生。",
+    "option_d": "与环境无关。"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400339",
+    "answer": "C",
+    "instruction": "以下哪个陈述不是森林中树木高度不同的原因？",
+    "option_a": "有些树木需要的阳光比其他树木少。",
+    "option_b": "树木是在不同的年份种植的。",
+    "option_c": "鸟类正在矮树上筑巢。",
+    "option_d": "较高的树只在顶部枝条上有叶子。"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415366",
+    "answer": "B",
+    "instruction": "树需要氧气。接近地面的根吸入树所需的氧气。哪些生物帮助树获取氧气？",
+    "option_a": "啄木鸟在树上打洞",
+    "option_b": "蚯蚓在树附近的地面上打洞",
+    "option_c": "在树基座生长的蘑菇",
+    "option_d": "松鼠在靠近树的地面上啃核桃"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7168123",
+    "answer": "B",
+    "instruction": "安妮塔在她学校的跑道上猛冲着。她跑完后，呼吸更加急促，心率也增加了。哪些系统调节了安妮塔的呼吸率和心率？",
+    "option_a": "肌肉和骨骼",
+    "option_b": "神经和内分泌",
+    "option_c": "消化和排泄",
+    "option_d": "呼吸和循环"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7141400",
+    "answer": "A",
+    "instruction": "一个农民在一块田里每年种植玉米，持续了几年。尽管天气条件非常相似，他每年都会注意到每英亩的玉米产量都在下降。哪种非生物因素的变化最有可能导致玉米产量下降？",
+    "option_a": "土壤中营养物质的减少",
+    "option_b": "降雨量的增加",
+    "option_c": "风速的增加",
+    "option_d": "日照时间的缩短"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2012_8_23636",
+    "answer": "D",
+    "instruction": "以下哪个过程通常需要最长时间？",
+    "option_a": "熔岩冷却并形成新岩石。",
+    "option_b": "水蒸气凝结成云。",
+    "option_c": "地震波穿过地幔。",
+    "option_d": "海洋盆地在两个大陆之间形成。"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_406705",
+    "answer": "B",
+    "instruction": "安娜的班级为了完成作业在学校花园里统计了蝴蝶数量。安娜的结果与班级的其他成员不同。她应该怎么办？",
+    "option_a": "更改作业。",
+    "option_b": "保留结果。",
+    "option_c": "将结果和班级的其他成员相匹配。",
+    "option_d": "请老师帮她计数。"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7186148",
+    "answer": "B",
+    "instruction": "一个学生正在用勺子搅拌一杯热巧克力。热量是如何在热巧克力和浸入热巧克力的勺子的那个部分之间传递的？",
+    "option_a": "传导将能量从勺子传递到热巧克力。",
+    "option_b": "传导将能量从热巧克力传递到勺子。",
+    "option_c": "对流将能量从勺子传递到热巧克力。",
+    "option_d": "对流将能量从热巧克力传递到勺子。"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_28",
+    "answer": "B",
+    "instruction": "在某个区域，大鸟正在捕食小动物。如果所有的大鸟都因疾病而死亡，该区域内的小动物数量可能会",
+    "option_a": "减少",
+    "option_b": "增加",
+    "option_c": "保持不变"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7005478",
+    "answer": "B",
+    "instruction": "人体温度相对稳定。以下哪种反馈机制有助于人体在寒冷的环境中保持正常体温?",
+    "option_a": "水从皮肤中散发出来。",
+    "option_b": "肌肉微微抖动。",
+    "option_c": "心跳速率减缓。",
+    "option_d": "肺部吸入额外的空气。"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2009_8_5",
+    "answer": "D",
+    "instruction": "在繁忙的机场减少空中交通拥堵，以下哪项措施最有效？",
+    "option_a": "向飞行员提供绩效反馈",
+    "option_b": "向乘客提供航班信息",
+    "option_c": "增加机场飞机数量",
+    "option_d": "增加机场跑道数量"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7037573",
+    "answer": "D",
+    "instruction": "完成实验时应当遵循什么最佳实践？",
+    "option_a": "在处理热玻璃器皿时要小心",
+    "option_b": "不使用炉灶时要将它关闭",
+    "option_c": "在进行实验之前了解实验操作规程",
+    "option_d": "在处理化学药品时应向老师咨询处理程序"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2012_5_8",
+    "answer": "B",
+    "instruction": "卡梅伦正在购买新桌子。他想确保这张桌子可以放在房间的角落里。如果卡梅伦购买这张新桌子，以下哪个策略最有助于确保桌子放得下？",
+    "option_a": "一张展示他房间里地毯的图片",
+    "option_b": "一份展示他房间尺寸的图表",
+    "option_c": "一份展示如何组装桌子的图纸",
+    "option_d": "一份列出组装该桌子所需工具的清单"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7092295",
+    "answer": "C",
+    "instruction": "哪个行动会在环境保护和经济利益之间产生竞争？",
+    "option_a": "保护濒危野生动物",
+    "option_b": "将野生动物重新引入其自然栖息地",
+    "option_c": "利用森林土地建造住宅",
+    "option_d": "使用城市公交作为交通工具"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7131828",
+    "answer": "C",
+    "instruction": "在许多热带地区，蚊子可能携带一种寄生虫，可以在人类中引起传染病。描述蚊子和人类之间的关系，最好的选择是什么？",
+    "option_a": "捕食-被捕食者",
+    "option_b": "资源竞争",
+    "option_c": "生物因素彼此交互作用",
+    "option_d": "在生产者和消费者之间的能量转移"
+  },
+  {
+    "id": "ARC-Challenge/validation/TIMSS_2003_8_pg31",
+    "answer": "B",
+    "instruction": "扇风可以使木材火烧得更旺，因为扇动",
+    "option_a": "使得食物足够热而燃烧",
+    "option_b": "增加了燃烧所需的氧气",
+    "option_c": "增加了可以燃烧的木材数量",
+    "option_d": "提供了保持火焰所需的能量"
+  },
+  {
+    "id": "ARC-Challenge/validation/ACTAAP_2007_7_5",
+    "answer": "B",
+    "instruction": "进行封闭容器实验。容器的初始温度为70华氏度，空气压力为20磅。对容器进行加热，随着温度的升高，容器内的压力均匀上升。如果将容器冷却回70华氏度，气压将会是?",
+    "option_a": "10磅",
+    "option_b": "20磅",
+    "option_c": "30磅",
+    "option_d": "40磅"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7120908",
+    "answer": "D",
+    "instruction": "滑翔机是一种无动力飞机。设计一架能飞行较长距离的滑翔机时，除了尺寸外，主要需要考虑哪些因素？",
+    "option_a": "环境影响和质量",
+    "option_b": "成本和环境影响",
+    "option_c": "强度和成本",
+    "option_d": "质量和强度"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_180443",
+    "answer": "C",
+    "instruction": "在一个上弦月之后是哪个月相？",
+    "option_a": "残月",
+    "option_b": "下弦月",
+    "option_c": "满月",
+    "option_d": "新月"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7238963",
+    "answer": "A",
+    "instruction": "人类下颌裂隙由显性等位基因C编码。无裂隙的下颌由隐性等位基因c编码。一个具有特征的cc等位基因组合的男性与一个具有Cc等位基因组合特征的女性结合产生的合子中可以出现哪些等位基因组合？",
+    "option_a": "Cc或cc",
+    "option_b": "CC或Cc",
+    "option_c": "仅CC",
+    "option_d": "仅Cc"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_184765",
+    "answer": "B",
+    "instruction": "由于大面积的森林砍伐，以下哪项最可能发生?",
+    "option_a": "该地区的氧气百分比将增加。",
+    "option_b": "该地区内的侵蚀量将增加。",
+    "option_c": "该地区的物种多样性将增加。",
+    "option_d": "该地区的土壤养分将增加。"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7235813",
+    "answer": "D",
+    "instruction": "碳循环通过地球上的各种储层。形成这些储层的时间差异巨大。在碳循环中，哪个过程需要数百万年来形成所示的储层？",
+    "option_a": "将碳通过消化作用并入动物组织",
+    "option_b": "呼吸时将碳释放到大气中",
+    "option_c": "将大气中的碳并入植物糖中",
+    "option_d": "植物组织中的碳分解形成油"
+  },
+  {
+    "id": "ARC-Challenge/validation/OHAT_2007_5_24",
+    "answer": "B",
+    "instruction": "在森林中，分解者如何帮助其他生物生存？",
+    "option_a": "它们释放氧气到空气中，供动物呼吸。",
+    "option_b": "它们将养分置于土壤中，供植物生长所用。",
+    "option_c": "它们在森林中提供动物隐匿的庇护所。",
+    "option_d": "它们利用阳光为植物和动物制造食物。"
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2007_8_15",
+    "answer": "C",
+    "instruction": "人类的行为会影响环境。哪项人类活动对环境影响最小？",
+    "option_a": "烧毁森林",
+    "option_b": "烧化石燃料",
+    "option_c": "挖掘新垃圾填埋场",
+    "option_d": "喷洒农作物化学药剂"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7162838",
+    "answer": "D",
+    "instruction": "实验室老鼠在正常食物中添加蓝莓、草莓或菠菜补品。八周后，老鼠进行了记忆和运动能力测试。给予蓝莓补充剂的老鼠表现出最大的改善。那么该研究中的独立（操作）变量是什么？",
+    "option_a": "运动能力测试",
+    "option_b": "衰老过程",
+    "option_c": "记忆测试",
+    "option_d": "补品"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_405973",
+    "answer": "B",
+    "instruction": "一座小岛上生活着几种不同的鸟类。一场暴风雨摧毁了大部分供鸟类觅食和筑巢的植物。哪种鸟类最有可能在岛上生存下来呢？",
+    "option_a": "数量最多的鸟类",
+    "option_b": "最有适应能力的鸟类",
+    "option_c": "能够飞得最远的鸟类",
+    "option_d": "喙最强壮的鸟类"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2000_8_10",
+    "answer": "B",
+    "instruction": "哪个陈述是意见？",
+    "option_a": "许多植物是绿色的。",
+    "option_b": "许多植物是美丽的。",
+    "option_c": "植物需要阳光。",
+    "option_d": "植物可以在不同的地方生长。"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7103180",
+    "answer": "B",
+    "instruction": "哪种生物群落有最多的植被？",
+    "option_a": "沙漠",
+    "option_b": "森林",
+    "option_c": "草原",
+    "option_d": "冻原"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7221865",
+    "answer": "C",
+    "instruction": "一群学生观察到水沸腾时会形成气泡。由于水的物理变化，物质发生了什么变化?",
+    "option_a": "气泡中产生了新物质。",
+    "option_b": "随着水变成气态，旧物质被摧毁。",
+    "option_c": "物质在改变形态时得到了保留。",
+    "option_d": "物质的组成发生了变化。"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7242743",
+    "answer": "D",
+    "instruction": "合成在核糖体亚基中的蛋白质会经历广泛的翻译后修饰，并被包装和定向运输到适当的位置。细胞的哪个结构组分参与了这种修饰？",
+    "option_a": "内质网",
+    "option_b": "溶酶体",
+    "option_c": "线粒体",
+    "option_d": "高尔基体"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7103565",
+    "answer": "C",
+    "instruction": "高压系统会阻止空气升到大气层中较冷的区域，在那里水可以凝结。如果高压系统在区域内停留了很长时间，最可能会发生什么？",
+    "option_a": "雾",
+    "option_b": "雨",
+    "option_c": "干旱",
+    "option_d": "龙卷风"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415541",
+    "answer": "D",
+    "instruction": "下列对象中，哪一个最有可能漂浮在水中？",
+    "option_a": "玻璃弹珠",
+    "option_b": "钢球",
+    "option_c": "硬橡胶球",
+    "option_d": "乒乓球"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_9",
+    "answer": "A",
+    "instruction": "一个学生从冰箱里取出一个冰块盘并放在桌子上。冰块很坚实也很冷。学生忘记把冰盘放回冰箱。第二天，这些冰块会是",
+    "option_a": "液体而且更温暖",
+    "option_b": "坚实而且更温暖",
+    "option_c": "液体而且更冷",
+    "option_d": "坚实而且更冷"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7097318",
+    "answer": "D",
+    "instruction": "一只松鼠从橡树的枝条上掉下一枚橡子。以下哪个选项将在橡子从树上掉落到地面时发生改变？",
+    "option_a": "橡子的质量",
+    "option_b": "橡子所受的力",
+    "option_c": "橡子的密度",
+    "option_d": "橡子的速度"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_8_20",
+    "answer": "B",
+    "instruction": "下面的方程式显示了硝酸银（AgNO3）溶液与氯化钠（NaCl）溶液反应时产生的产物。AgNO3+ NaCl（反应物） - > NaNO3+ AgCl（产物）在这个方程式中，反应物的总质量为",
+    "option_a": "大于产物的总质量",
+    "option_b": "等于产物的总质量",
+    "option_c": "等于AgCl的质量",
+    "option_d": "小于AgCl的质量"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415397",
+    "answer": "C",
+    "instruction": "哪种变化会造成地表结构的变化？",
+    "option_a": "洪水导致人们离开小镇。",
+    "option_b": "地震使得田野波动。",
+    "option_c": "火山通过熔岩形成新土地。",
+    "option_d": "海滩上的山体滑坡激起了海啸。"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7246348",
+    "answer": "A",
+    "instruction": "在构造板块分离的过程中，哪个地形特征不会形成？",
+    "option_a": "海沟",
+    "option_b": "裂谷",
+    "option_c": "海盆",
+    "option_d": "中央海脊"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7270200",
+    "answer": "A",
+    "instruction": "科学家已经解释了氨基酸、碳水化合物、核酸和脂肪酸如何在地球上形成，然后这些化学物质形成了生命体。哪一项发现最有助于支持生命自发生成这一论点？",
+    "option_a": "这些化学物质可以自组装成复制体。",
+    "option_b": "这些化学物质今天被生物体使用。",
+    "option_c": "这些化学物质在另一个行星上被发现。",
+    "option_d": "这些化学物质可以自组装成病毒。"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415026",
+    "answer": "C",
+    "instruction": "哪些动物可能会从沿海的洪水中获得帮助？",
+    "option_a": "鹿",
+    "option_b": "浣熊",
+    "option_c": "鳄鱼",
+    "option_d": "coyotes"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7143518",
+    "answer": "D",
+    "instruction": "海狸以伐树和收集灌木为特点，在河流和小溪中建造水坝。美国的海狸数量由于人类捕猎减少。减少海狸数量最可能导致的生态后果是什么？",
+    "option_a": "鱼类数量显著减少",
+    "option_b": "森林生态系统显著增加",
+    "option_c": "水蒸气的显著增加",
+    "option_d": "池塘栖息地数量显著减少"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7032340",
+    "answer": "D",
+    "instruction": "在所列选项中，哪个选项使用模型来代表自然世界？",
+    "option_a": "阅读关于草原狗社区的书籍",
+    "option_b": "观看草原狗社区的图片",
+    "option_c": "使用互联网研究草原狗社区",
+    "option_d": "在动物园的展览中观察草原狗社区"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_415263",
+    "answer": "C",
+    "instruction": "以下哪个物质只在真核细胞中存在，并不在原核细胞中存在？",
+    "option_a": "DNA",
+    "option_b": "细胞质",
+    "option_c": "细胞核",
+    "option_d": "细胞膜"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7090720",
+    "answer": "B",
+    "instruction": "乙醇是一种由玉米制成的替代燃料。使用乙醇作为燃料的一个不利影响是什么？",
+    "option_a": "燃料生产成本降低",
+    "option_b": "农田用于食品生产减少",
+    "option_c": "化石燃料消耗增加",
+    "option_d": "驾驶汽车的碳足迹增加"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_410964",
+    "answer": "D",
+    "instruction": "学生们正在调查门铃的工作原理。以下哪项最有可能是调查中得出的观察结果？",
+    "option_a": "所有的门铃都会发出漂亮的声音。",
+    "option_b": "电池是门铃最好的电源。",
+    "option_c": "大多数人更喜欢使用门铃而不是敲门。",
+    "option_d": "门铃使用一根缠绕在磁铁上的铁丝。"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7057313",
+    "answer": "A",
+    "instruction": "心肌最好描述为",
+    "option_a": "相同类型的细胞共同工作。",
+    "option_b": "不同系统共同工作。",
+    "option_c": "相同类型的器官组成的系统。",
+    "option_d": "不同器官执行功能。"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_402101",
+    "answer": "D",
+    "instruction": "哪些特征可以在地球和月球表面找到？",
+    "option_a": "植物",
+    "option_b": "海洋",
+    "option_c": "动物",
+    "option_d": "山脉"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2010_8_12010",
+    "answer": "C",
+    "instruction": "一些细菌物种产生对昆虫有毒而对人类无害的物质。科学家们已经分离出控制此物质生产的基因。以下哪一个是将这个基因插入玉米植物的最佳原因？",
+    "option_a": "玉米将会更快生长。",
+    "option_b": "需要的化肥更少。",
+    "option_c": "需要的杀虫剂更少。",
+    "option_d": "玉米将更有营养。"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7038133",
+    "answer": "B",
+    "instruction": "一名学生计划进行一项调查，以计算不同球在斜坡上滚动时的速度。哪一项信息对于学生记录来说是最不必要的？",
+    "option_a": "每个球的尺寸",
+    "option_b": "斜坡的厚度",
+    "option_c": "斜坡的长度",
+    "option_d": "球运动所需的时间"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_407169",
+    "answer": "D",
+    "instruction": "当一个有一个小池塘的栖息地经历一场漫长的干旱时，下面哪个最有可能发生在池塘里的很多鱼身上？",
+    "option_a": "它们会适应干燥的环境。",
+    "option_b": "它们会依靠其他水源生活。",
+    "option_c": "它们会搬到另一个栖息地。",
+    "option_d": "它们将无法生存。"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7103215",
+    "answer": "C",
+    "instruction": "一个学生想要确定大蒜对真菌物种生长的影响。几个真菌培养样品在同样的琼脂和光照条件下生长。每个样本都给予不同量的大蒜。这个调查中的自变量是什么?",
+    "option_a": "琼脂的量",
+    "option_b": "光照的量",
+    "option_c": "大蒜的量",
+    "option_d": "生长的量"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2013_8_29432",
+    "answer": "B",
+    "instruction": "植物细胞的以下哪个部分的功能与动物骨骼的功能最相似?",
+    "option_a": "细胞膜",
+    "option_b": "细胞壁",
+    "option_c": "叶绿体",
+    "option_d": "细胞核"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7018008",
+    "answer": "A",
+    "instruction": "一个原子的电性质描述最佳的是哪一个？",
+    "option_a": "中性的",
+    "option_b": "绝缘的",
+    "option_c": "带正电的",
+    "option_d": "带负电的"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7166530",
+    "answer": "B",
+    "instruction": "艾拉放学后需要进行一项实验室调查。他从老师那里获得了材料、化学试剂、设备和保护装备。他小心谨慎地进行了书面实验程序中的步骤。为了节省时间，他决定待会儿再记录他的观察和结果。以下哪项最可能受到他的决定的负面影响？",
+    "option_a": "遵循指导的能力",
+    "option_b": "撰写有效报告的能力",
+    "option_c": "遵守安全准则的能力",
+    "option_d": "得出结论的能力"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400047",
+    "answer": "B",
+    "instruction": "一个学生在热天把巧克力棒留在阳光下。随着巧克力的融化，哪一个属性发生了变化？",
+    "option_a": "它的质量",
+    "option_b": "它的形状",
+    "option_c": "它的重量",
+    "option_d": "它的组成"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7044100",
+    "answer": "C",
+    "instruction": "农田土壤养分可以通过哪些方式被耗尽？",
+    "option_a": "过度放牧",
+    "option_b": "风蚀",
+    "option_c": "增加灌溉",
+    "option_d": "增加施肥"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7075145",
+    "answer": "A",
+    "instruction": "细胞通过哪个过程才能吸收水?",
+    "option_a": "渗透作用",
+    "option_b": "有丝分裂",
+    "option_c": "光合作用",
+    "option_d": "呼吸作用"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_192290",
+    "answer": "D",
+    "instruction": "尽管他们属于同一家族，老鹰和鹈鹕还是有所不同。他们之间有一个区别是什么？",
+    "option_a": "它们捕食鱼的偏好",
+    "option_b": "它们飞行的能力",
+    "option_c": "它们的繁殖方式",
+    "option_d": "它们捕食食物的方式"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7093975",
+    "answer": "D",
+    "instruction": "河流干枯的自然原因是什么？",
+    "option_a": "污染",
+    "option_b": "侵蚀",
+    "option_c": "地下水位上升",
+    "option_d": "降水不足"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7085820",
+    "answer": "D",
+    "instruction": "随着水开始冻结，水分子",
+    "option_a": "获得热能。",
+    "option_b": "更自由地移动。",
+    "option_c": "增大尺寸。",
+    "option_d": "速度减慢。"
+  },
+  {
+    "id": "ARC-Challenge/validation/MEA_2016_5_6",
+    "answer": "C",
+    "instruction": "一个装满水的气球被放入冰箱中。当水达到冰点时，水的哪一个属性会改变？",
+    "option_a": "颜色",
+    "option_b": "质量",
+    "option_c": "状态",
+    "option_d": "重量"
+  },
+  {
+    "id": "ARC-Challenge/validation/NCEOGA_2013_5_43",
+    "answer": "B",
+    "instruction": "云朵形成前必须发生什么？",
+    "option_a": "水蒸气必须变得更暖。",
+    "option_b": "水蒸气必须失去热能。",
+    "option_c": "降水必须开始落下并流失。",
+    "option_d": "植物蒸腾必须向大气中添加水蒸气。"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7250023",
+    "answer": "A",
+    "instruction": "所有细胞，原核和真核，都具有一些共同特征。哪个细胞特征在原核和真核细胞中都存在？",
+    "option_a": "核糖体",
+    "option_b": "叶绿体膜",
+    "option_c": "细胞核",
+    "option_d": "内质网"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7003955",
+    "answer": "D",
+    "instruction": "当因静电现象而竖立时，个别头发的电荷类型是什么？",
+    "option_a": "中性电荷",
+    "option_b": "中性放电",
+    "option_c": "永久正电荷",
+    "option_d": "临时正电荷"
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2010_5_18",
+    "answer": "D",
+    "instruction": "风是一个自然资源，有利于切萨皮克湾东南岸。这些风怎样才能最好地造福于人类？",
+    "option_a": "风可能会把油泄漏吹进海湾。",
+    "option_b": "风可能会被转化为化石燃料。",
+    "option_c": "风可能会把空气污染物吹向陆地。",
+    "option_d": "风能被转化为电能。"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_2",
+    "answer": "D",
+    "instruction": "地球绕太阳公转一周需要多长时间？",
+    "option_a": "一天",
+    "option_b": "一周",
+    "option_c": "一个月",
+    "option_d": "一年"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_411306",
+    "answer": "D",
+    "instruction": "有些不同种类的植物有共同的特征。大多数植物具有哪种特征？",
+    "option_a": "它们根的大小",
+    "option_b": "它们叶子的形状",
+    "option_c": "它们花的颜色",
+    "option_d": "它们细胞的结构"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7241115",
+    "answer": "C",
+    "instruction": "在白垩纪期间，最有可能导致哺乳动物多样性爆发的事件是什么？",
+    "option_a": "超级大陆盘古洲的形成",
+    "option_b": "剧烈火山活动",
+    "option_c": "更冷的温度",
+    "option_d": "海平面的上升"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7042735",
+    "answer": "C",
+    "instruction": "科学课上制备了一种水和无毒化合物的溶液。实验结束后应该怎么处理这个溶液？",
+    "option_a": "它应该倒进下水道。",
+    "option_b": "它应该倒进回收垃圾箱。",
+    "option_c": "它应该倒进废物容器。",
+    "option_d": "它应该放在危险物质处理容器中。"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2004_9_13",
+    "answer": "D",
+    "instruction": "下列哪种是锁紧钳对木材施加的主要应力类型？",
+    "option_a": "拉伸",
+    "option_b": "剪切",
+    "option_c": "扭曲",
+    "option_d": "压缩"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_176015",
+    "answer": "D",
+    "instruction": "一群学生正在调查两种物质以确定哪种是食盐，哪种是糖。学生最好如何鉴别每种物质？",
+    "option_a": "通过注意物质是否在水中溶解",
+    "option_b": "通过研究物质的颜色",
+    "option_c": "通过观察物质是否粘附于表面",
+    "option_d": "通过检查晶体的形态"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7215180",
+    "answer": "C",
+    "instruction": "科学家们正在内华达州西部山脉收集花岗岩样品。哪种格式最适合显示和比较发现在一种花岗岩样品中的矿物质百分比？",
+    "option_a": "条形图",
+    "option_b": "折线图",
+    "option_c": "饼图",
+    "option_d": "散点图"
+  },
+  {
+    "id": "ARC-Challenge/validation/TIMSS_2007_4_pg26",
+    "answer": "B",
+    "instruction": "一种动物有六条腿。它很可能是什么？",
+    "option_a": "蜘蛛",
+    "option_b": "苍蝇",
+    "option_c": "蜥蜴",
+    "option_d": "蜈蚣"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_177818",
+    "answer": "C",
+    "instruction": "地球上的白天和黑夜之间的时间长度会在一年中不同。这种时间变化主要是由以下哪个因素引起的",
+    "option_a": "太阳的位置。",
+    "option_b": "月亮的位置。",
+    "option_c": "地球的倾角",
+    "option_d": "地球离太阳的距离"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_405487",
+    "answer": "B",
+    "instruction": "在一个年份里，公园里的橡树开始产生比平常更多的橡子。接下来的一年，公园里的花栗鼠数量也增加了。以下哪个最能解释为什么下一年有更多的花栗鼠？",
+    "option_a": "阴凉区域增加了。",
+    "option_b": "食物来源增加了。",
+    "option_c": "氧气水平升高了。",
+    "option_d": "可用水量增加了。"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400612",
+    "answer": "C",
+    "instruction": "地球的表面不断地因为风化和侵蚀而改变。与地球相比，月球的风化和侵蚀很少，这是因为",
+    "option_a": "月球重力不足。",
+    "option_b": "月球大气层薄。",
+    "option_c": "月球没有空气和水。",
+    "option_d": "月球没有生物存在。"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400655",
+    "answer": "A",
+    "instruction": "在夏季和冬季之间，哪一个变化最大？",
+    "option_a": "白昼时间的长短",
+    "option_b": "海浪的高度",
+    "option_c": "暴风雨的数量",
+    "option_d": "云朵的大小"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415735",
+    "answer": "C",
+    "instruction": "安雅在一个温暖的日子里在人行道上放了一块冰块。很快，冰块融化变成了一滩水。是什么过程导致了冰块的融化？",
+    "option_a": "传热通过对流穿过了冰块。",
+    "option_b": "通过辐射，空气将热传递给了冰块。",
+    "option_c": "热量由空气和路面通过传导传递。",
+    "option_d": "热量通过传导穿过冰块进入路面。"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2005_8_5",
+    "answer": "D",
+    "instruction": "水星是离太阳最近的行星，其表面温度极端，太阳光下高达465℃，在黑暗中低至-180℃。为什么水星的温度范围这么大？",
+    "option_a": "该行星太小，无法保持热量。",
+    "option_b": "该行星只有一面受热。",
+    "option_c": "该行星反射其暗面的热量。",
+    "option_d": "该行星没有大气层来保持热量。"
+  },
+  {
+    "id": "ARC-Challenge/validation/TIMSS_2003_8_pg14",
+    "answer": "B",
+    "instruction": "为什么要对雄性昆虫进行治疗以防止精子产生？",
+    "option_a": "增加雌性昆虫的数量",
+    "option_b": "减少昆虫总数",
+    "option_c": "培育新的昆虫物种",
+    "option_d": "防止昆虫交配"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_20",
+    "answer": "D",
+    "instruction": "树干的主要功能是提供",
+    "option_a": "空气",
+    "option_b": "果实",
+    "option_c": "阳光",
+    "option_d": "支撑"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7017990",
+    "answer": "A",
+    "instruction": "在实验室中，以下哪项行为不是安全程序？",
+    "option_a": "品尝化学样品",
+    "option_b": "如果玻璃器皿很热，使用耐热手套",
+    "option_c": "将长发扎起来",
+    "option_d": "用大量水清洗化学飞溅"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7264023",
+    "answer": "D",
+    "instruction": "有机化合物中不可能包含下列哪个元素？",
+    "option_a": "碳",
+    "option_b": "氢",
+    "option_c": "氮",
+    "option_d": "钾"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7138513",
+    "answer": "A",
+    "instruction": "一个岛屿上有许多种类的鸟类，没有本土物种的蛇类，很少有大型掠食者。棕色蛇吃鸟蛋。棕色蛇被意外释放在岛上，最有可能的结果是什么？",
+    "option_a": "蛇类增加，鸟类减少",
+    "option_b": "蛇类增加，鸟类增加",
+    "option_c": "蛇类减少，鸟类减少",
+    "option_d": "蛇类减少，鸟类增加"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_401663",
+    "answer": "B",
+    "instruction": "学生可以通过将哪些物品放入堆肥堆中来保护资源？",
+    "option_a": "肥料",
+    "option_b": "豆类植物",
+    "option_c": "玻璃烧杯",
+    "option_d": "塑料移液管"
+  },
+  {
+    "id": "ARC-Challenge/validation/ACTAAP_2011_5_3",
+    "answer": "C",
+    "instruction": "水在河流和溪流中向下流动时，会带走大量的沉积物。当河流或溪流中的水流速度由快变慢时，水携带的沉积物颗粒可能会发生什么？",
+    "option_a": "水携带的较大沉积物颗粒的数量将会增加。",
+    "option_b": "水携带的较小沉积物颗粒的数量将会增加。",
+    "option_c": "水携带的较大沉积物颗粒的数量将会减少。",
+    "option_d": "水携带的较小沉积物颗粒的数量将会减少。"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7195440",
+    "answer": "B",
+    "instruction": "每年大约有5000万英亩的热带雨林被清除。清除这些森林最有可能导致哪种影响？",
+    "option_a": "土壤侵蚀减少",
+    "option_b": "生物多样性减少",
+    "option_c": "空气质量改善",
+    "option_d": "水质改善"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7220378",
+    "answer": "C",
+    "instruction": "气候变化可能会减少漂浮在世界海洋上的冰量。这种变化最可能如何改变可用于海洋消费性生物的食物供应？",
+    "option_a": "通过减少海水中溶解的盐分量",
+    "option_b": "通过增加水分离成不同层的能力",
+    "option_c": "通过改变单细胞生产者所需的温度条件",
+    "option_d": "通过防止生物快速响应环境变化"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7234483",
+    "answer": "B",
+    "instruction": "地球上生命起源的现行主流理论依赖于先前生成了哪个属性的原生物质？",
+    "option_a": "稳定与环境的分离",
+    "option_b": "组装成自复制的结构体",
+    "option_c": "以化学编码形式存储特性",
+    "option_d": "积累能量储存分子"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7179358",
+    "answer": "B",
+    "instruction": "高潮火灾生态系统需要周期性的森林火灾来维持稳定。如果阻止在该生态系统中自然火灾的发生，以下哪种情况最有可能发生？",
+    "option_a": "松树种类将更快地繁殖。",
+    "option_b": "阔叶树种会取代松树种类。",
+    "option_c": "燃烧区域将更容易被控制。",
+    "option_d": "树木将向先前未被森林覆盖的区域扩散。"
+  },
+  {
+    "id": "ARC-Challenge/validation/NCEOGA_2013_8_40",
+    "answer": "C",
+    "instruction": "吸烟烟草最可能对个人在体育活动中取得成功的能力产生负面影响的方式是什么？",
+    "option_a": "它干扰平衡和协调。",
+    "option_b": "它降低了快速做出决策的能力。",
+    "option_c": "它降低了耐力和心血管效率。",
+    "option_d": "它降低了肌肉收缩的速度和力量。"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7100695",
+    "answer": "D",
+    "instruction": "哪种地质结构最可能需要最长时间形成？",
+    "option_a": "断层",
+    "option_b": "天坑",
+    "option_c": "河流弯曲",
+    "option_d": "山脉"
+  },
+  {
+    "id": "ARC-Challenge/validation/MEA_2016_5_7",
+    "answer": "B",
+    "instruction": "一个学生观察到一个单细胞生物和一个植物叶子有相似的绿色部分。学生认为两个生物体都利用绿色部分生存。哪些证据支持两个生物体都需要绿色部分生存的结论?",
+    "option_a": "两种生物都使用绿色部分移动。",
+    "option_b": "如果去除绿色部分，两种生物都会死亡。",
+    "option_c": "观察到两种生物体的绿色部分发光。",
+    "option_d": "两种生物体的绿色部分可以制造更多的绿色部分。"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7027230",
+    "answer": "A",
+    "instruction": "寻找哪个主题领域的研究最有可能找到减少人类造成的环境问题的方法？",
+    "option_a": "将阳光转化为电能",
+    "option_b": "寻找新的煤矿储备",
+    "option_c": "寻找含油水库",
+    "option_d": "将森林开垦成农田"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7245053",
+    "answer": "B",
+    "instruction": "以下化合物中哪一个是有机化合物？",
+    "option_a": "水（H2O）",
+    "option_b": "己烷（C6H14）",
+    "option_c": "氨气（NH3）",
+    "option_d": "二氧化硫（SO2）"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_8_12",
+    "answer": "A",
+    "instruction": "植物种子的主要功能是",
+    "option_a": "储存食物以在早期发育时使用",
+    "option_b": "吸引花粉在发育时使用",
+    "option_c": "吸收光能在光合作用中使用",
+    "option_d": "产生叶绿素在光合作用中使用"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7189035",
+    "answer": "D",
+    "instruction": "Scott正在观察红色和白色花卉的交叉结果。哪种交叉的结果最可能展现不完全显性？",
+    "option_a": "0% 粉色花朵",
+    "option_b": "25% 白色花朵",
+    "option_c": "50% 红色花朵",
+    "option_d": "100% 粉色花朵"
+  },
+  {
+    "id": "ARC-Challenge/validation/LEAP_2006_8_10412",
+    "answer": "B",
+    "instruction": "Jolie早餐想吃一个煮熟的鸡蛋。她将鸡蛋放入沸水中煮15分钟。当她打碎蛋壳时，鸡蛋的液体部分变成了固体。这是因为",
+    "option_a": "受热除去了鸡蛋中的水分。",
+    "option_b": "加热改变了鸡蛋中的化学键。",
+    "option_c": "煮沸将固体的鸡蛋部分带到了表面。",
+    "option_d": "杀死了液体鸡蛋中的细菌。"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400172",
+    "answer": "A",
+    "instruction": "哪位科学家声称地球是宇宙的中心？",
+    "option_a": "亚里士多德",
+    "option_b": "哥白尼",
+    "option_c": "爱因斯坦",
+    "option_d": "牛顿"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2005_5_21",
+    "answer": "D",
+    "instruction": "母海豹通常每年都会回到相同的海滩来生产幼崽。如果它们在这些海滩上反复被人类干扰，它们最有可能如何应对？",
+    "option_a": "它们会改变颜色。",
+    "option_b": "它们会生更多的幼崽。",
+    "option_c": "它们会更频繁地寻找食物。",
+    "option_d": "它们会在不同的海滩上生产幼崽。"
+  },
+  {
+    "id": "ARC-Challenge/validation/MEA_2010_8_11",
+    "answer": "A",
+    "instruction": "当液态水分子的运动减缓时，最有可能发生什么?",
+    "option_a": "液态水形成固体。",
+    "option_b": "液态水凝结。",
+    "option_c": "液态水发生化学变化。",
+    "option_d": "液态水变成气体。"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7187058",
+    "answer": "A",
+    "instruction": "约翰尼每天晚上都在一盏由白炽灯泡发出的光线下阅读。以下哪个最能表明向灯里输送电能的效率低？",
+    "option_a": "灯泡发热。",
+    "option_b": "灯泡发出光亮。",
+    "option_c": "灯具使用铜导线。",
+    "option_d": "可以通过开关将灯关闭。"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7185133",
+    "answer": "A",
+    "instruction": "Tracey正在学习动物的结构组织。哪种结构层次最能描述卵？",
+    "option_a": "一个细胞",
+    "option_b": "一种组织",
+    "option_c": "一个系统",
+    "option_d": "一个器官"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7183733",
+    "answer": "B",
+    "instruction": "在恒沼，美国短吻鳄的身体情况与水深密切相关。当水位过高时，动物物种分散到更广泛的区域，由于无法找到足够的食物来源而导致身体状况下降。当水位下降时，动物物种聚集在更小的区域，使鳄鱼能够更有效地狩猎。这种情况是鳄鱼生存取决于哪个因素的例子？",
+    "option_a": "分解速率",
+    "option_b": "猎物栖息地面积",
+    "option_c": "生产者产出",
+    "option_d": "水换代率"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7205345",
+    "answer": "D",
+    "instruction": "当制造食盐（NaCl）时，以下哪个最能描述钠（Na）和氯（Cl）原子的作用？",
+    "option_a": "钠原子替代氯原子。",
+    "option_b": "钠和氯原子混合在一起。",
+    "option_c": "钠原子溶解在氯原子中。",
+    "option_d": "钠和氯原子化学键合。"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2002_5_6",
+    "answer": "D",
+    "instruction": "蜂鸟可以在空中盘旋并飞行得非常迅速。这使蜂鸟在以下所有方面受益，除了：",
+    "option_a": "快速逃离捕食者。",
+    "option_b": "轻松到达花朵。",
+    "option_c": "停留在一处喝花蜜。",
+    "option_d": "保持卵的温暖。"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7166180",
+    "answer": "B",
+    "instruction": "植物生长受重力等环境因素的影响。如果一颗种子在侧倒的情况下发芽并生长，最有可能的结果是什么？",
+    "option_a": "根会向下生长，茎会向下生长",
+    "option_b": "根会向下生长，茎会向上生长",
+    "option_c": "根会向上生长，茎会向下生长",
+    "option_d": "根会向上生长，茎会向上生长"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2012_5_23632",
+    "answer": "C",
+    "instruction": "一名学生观察到一块由许多小颗粒的沙子排列成浅色层和暗色层的岩石。以下哪种说法最有可能描述了此类岩石的形成方式？",
+    "option_a": "黏土被冰川覆盖并被冻结。",
+    "option_b": "火山喷发的熔岩在水中迅速冷却。",
+    "option_c": "河流沉积物被缓慢地压实并粘结在一起。",
+    "option_d": "矿物沉淀在地下洞穴中并硬化成固体岩石。"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7267593",
+    "answer": "A",
+    "instruction": "这些自然灾害中哪些最难以预测？",
+    "option_a": "地震",
+    "option_b": "飓风",
+    "option_c": "龙卷风",
+    "option_d": "暴风雪"
+  },
+  {
+    "id": "ARC-Challenge/validation/NAEP_2005_8_S11+14",
+    "answer": "B",
+    "instruction": "以下哪个人体器官的损失会导致人类无法生存？",
+    "option_a": "阑尾",
+    "option_b": "肝脏",
+    "option_c": "一只肺",
+    "option_d": "一个肾脏"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7218750",
+    "answer": "C",
+    "instruction": "哪种类型的水库可以始终提供淡水？",
+    "option_a": "内陆湖泊",
+    "option_b": "河口三角洲",
+    "option_c": "山地冰川",
+    "option_d": "热带海洋"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7026198",
+    "answer": "A",
+    "instruction": "氪元素是一种几乎没有化学活性的气体。要找到另一个具有类似特性的元素，学生应该在元素周期表上寻找什么?",
+    "option_a": "同一族中的元素",
+    "option_b": "同一周期中的元素",
+    "option_c": "具有相同净电荷的元素",
+    "option_d": "具有相同原子质量的元素"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7081760",
+    "answer": "B",
+    "instruction": "为了分类一种新发现的生物，科学家调查该生物的结构、DNA和生命周期。科学家最可能使用调查结果来: ",
+    "option_a": "构建新的科学方法。",
+    "option_b": "修订科学知识。",
+    "option_c": "形成新的假设。",
+    "option_d": "证明科学理论是错误的。"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7130603",
+    "answer": "C",
+    "instruction": "以下列出的量中，哪一个不是以焦耳为单位进行测量的？",
+    "option_a": "热量",
+    "option_b": "光线",
+    "option_c": "功率",
+    "option_d": "功"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7074865",
+    "answer": "C",
+    "instruction": "藻类、细菌和开花植物有哪些共同点？",
+    "option_a": "它们是无机物。",
+    "option_b": "它们都含叶绿素。",
+    "option_c": "它们由细胞组成。",
+    "option_d": "它们都以其他生物为食。"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7042700",
+    "answer": "D",
+    "instruction": "在动物解剖过程中，哪种设备是不需要的？",
+    "option_a": "手套",
+    "option_b": "护目镜",
+    "option_c": "实验室半袖工作服",
+    "option_d": "安全淋浴器"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7071365",
+    "answer": "D",
+    "instruction": "蝴蝶和飞蛾的哪种比较是事实陈述?",
+    "option_a": "蝴蝶比飞蛾更漂亮，更有趣可看。",
+    "option_b": "蝴蝶比飞蛾更擅长飞行。",
+    "option_c": "蝴蝶和飞蛾在白天都比较快乐。",
+    "option_d": "蝴蝶和飞蛾的腿数相等。"
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2007_4_52",
+    "answer": "C",
+    "instruction": "植物和动物需要食物才能生长。植物生产的大部分食物会发生什么？",
+    "option_a": "食物以气体形式释放。",
+    "option_b": "食物转化为水。",
+    "option_c": "食物储存以备将来使用。",
+    "option_d": "食物用于吸收阳光。"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7026443",
+    "answer": "D",
+    "instruction": "宠物狗的哪种特征是遗传的？",
+    "option_a": "狗会避开宠物猫。",
+    "option_b": "狗会跳上沙发。",
+    "option_c": "狗会在命令下翻身。",
+    "option_d": "狗闻到食物时会流口水。"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7008138",
+    "answer": "B",
+    "instruction": "以下哪个描述最准确地描绘了小行星和彗星？",
+    "option_a": "小行星是气态的，彗星是固态的。",
+    "option_b": "小行星是固态的，彗星是气态的。",
+    "option_c": "小行星和彗星都是固态的。",
+    "option_d": "小行星和彗星都是气态的。"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_402104",
+    "answer": "D",
+    "instruction": "向池塘排放有毒化学物质很可能会导致",
+    "option_a": "池塘中氧气水平升高。",
+    "option_b": "池塘附近的植物生长更快。",
+    "option_c": "有毒化学物质对池塘没有影响。",
+    "option_d": "池塘中的鱼受到损害或死亡。"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7086013",
+    "answer": "D",
+    "instruction": "Humboldt River Basin 是几种不可再生资源中最重要的来源之一。以下哪种不可再生资源来自 Humboldt River Basin？",
+    "option_a": "来自山区煤矿的煤",
+    "option_b": "来自地下储层的油气",
+    "option_c": "来自水电发电机的电能",
+    "option_d": "通过开采黄金、白银和铜等矿物质得到的矿物"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7248238",
+    "answer": "D",
+    "instruction": "巴哈马群岛上的蚊子鱼生活在各种孤立的淡水池塘中，这些淡水池塘曾经是一个单一的水体。当从两个孤立的池塘中取出几条雄性和雌性蚊子鱼放入一个池塘中时，每只蚊子鱼的繁殖偏好是来自其原始池塘的鱼类。以下哪种最可能导致这种繁殖偏好？",
+    "option_a": "食物的供应影响了鱼类的交配偏好。",
+    "option_b": "为适当的配偶竞争影响了鱼的交配偏好。",
+    "option_c": "池塘中的食肉动物影响了鱼的交配偏好。",
+    "option_d": "由于生殖隔离而导致的物种形成影响了繁殖偏好。"
+  }
+]

@@ -1,0 +1,2673 @@
+[
+  {
+    "id": "ARC-Challenge/validation/Mercury_7099103",
+    "answer": "D",
+    "instruction": "Az erdei szeder a talajhoz érő ágakkal szaporodik, amelyekből új gyökerek fejlődnek ki. Szexuális úton virágaikon keresztül is szaporodnak. Mi az előnye annak, hogy az erdei szeder mind a szexuális, mind az aszexuális szaporodásra képes?",
+    "option_a": "Lehetővé teszi a növények magasságának növekedését.",
+    "option_b": "Virágaikat rovarok vonzzák.",
+    "option_c": "Az ízletesebb szeder termés kialakulását eredményezi.",
+    "option_d": "Az erdei szeder képes alkalmazkodni az új körülményekhez."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2006_9_31-v1",
+    "answer": "C",
+    "instruction": "Melyik az alábbiak közül írja le helyesen egy kocsi mechanikai energiáját egy meredek hegy tetején nyugvó állapotban?",
+    "option_a": "A kocsinak nincs mechanikai energiája.",
+    "option_b": "A kocsi mechanikai energiája teljesen kinetikus.",
+    "option_c": "A kocsi mechanikai energiája teljesen potenciális.",
+    "option_d": "A kocsi mechanikai energiája fele potenciális és fele kinetikus."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7090738",
+    "answer": "A",
+    "instruction": "Melyik kérdésre lehet tudományos vizsgálat révén választ adni?",
+    "option_a": "Hogyan befolyásolja a napenergia a felhők kialakulását?",
+    "option_b": "Miért szebbek a tigrisek, mint az iguánák?",
+    "option_c": "Mi a legjobb tantárgy, amit az egyetemen lehet tanulni?",
+    "option_d": "Kellene az embereknek befektetni az űrutazásba?"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7130883",
+    "answer": "B",
+    "instruction": "Egy mérnöki osztályt utasítottak arra, hogy fejlesszenek egy robotot. A robotot elektromágneses energiával kell tervezni, mint egyetlen energiaforrással. Milyen témát tanulhat leginkább a mérnöki osztály?",
+    "option_a": "az akkumulátorok és a kémiai energia felhasználását",
+    "option_b": "hogyan lehet kihasználni a sugárzó energia és a napkollektorok használatát",
+    "option_c": "a kinetikus energia átalakítását potenciális energiává",
+    "option_d": "hogyan lehet a hőenergiát elektromos energiává alakítani"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7190155",
+    "answer": "B",
+    "instruction": "Az Amazonas esőerdőben sok különböző növény- és állatfaj él. Mi lenne a legvalószínűbb következménye az Amazonas esőerdő nagy területeinek erdőirtásának?",
+    "option_a": "állatpopuláció növekedése",
+    "option_b": "oxigéntermelés csökkenése",
+    "option_c": "csapadékmennyiség növekedése",
+    "option_d": "szennyezőanyagok csökkenése"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_177398",
+    "answer": "B",
+    "instruction": "Egy északkeleti irányba haladó autó, amely 50 km/h sebességgel halad, melyiket jelenti a következőkből?",
+    "option_a": "sebesség",
+    "option_b": "sebességvektor",
+    "option_c": "gyorsulás",
+    "option_d": "lassulás"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7246995",
+    "answer": "C",
+    "instruction": "Néhány növénysejtnek energia szükséges tápanyagainak a sejtmembránon való áthordozásához. Milyen energiaátalakulást használnak ezek a növényi sejtek a tápanyag-molekula a sejtmembrán belsejébe való beviteléhez?",
+    "option_a": "hőenergiát kinetikus energiává",
+    "option_b": "potenciális energiát fényenergiává",
+    "option_c": "kémiai energiát kinetikus energiává",
+    "option_d": "kinetikus energiát potenciális energiává"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_189490",
+    "answer": "A",
+    "instruction": "Gregor Mendel borsóinak megfigyelése az alábbiak egyik példája:",
+    "option_a": "tudományos elméletet támogató kutatási bizonyíték.",
+    "option_b": "egy következtetés tesztelése egy hipotézissel.",
+    "option_c": "véletlenszerű tesztelés kísérleti alatt.",
+    "option_d": "bizonyíték a tudományos modell mellett és ellene."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7139790",
+    "answer": "C",
+    "instruction": "Az polipnak különleges sejtjei vannak a bőrében, amelyeket kromatofóroknak neveznek, és lehetővé teszik a polip számára, hogy szinte azonnal megváltoztassa a színét. A kromatofóroknak valószínűleg a polip",
+    "option_a": "gyorsabban tud úszni.",
+    "option_b": "lassabban tud lélegezni.",
+    "option_c": "el tud bújni a ragadozók elől.",
+    "option_d": "testhőmérsékletét tudja szabályozni."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7282608",
+    "answer": "C",
+    "instruction": "A háztartásokból származó szennyvizek nem mindegyike azonos. A szürkevíz a mosdók és kádak használata során keletkező otthoni szennyvíz. Nem tartalmaz emberi biológiai hulladékokat, így újra felhasználható, és nem kell szennyvízkezelő rendszerbe kerülni. Mely szürkevíz-felhasználási módok mutatják az ésszerű környezetvédelmi gondoskodást?",
+    "option_a": "edények mosása és ivás",
+    "option_b": "ivás és virágágyak öntözése",
+    "option_c": "virágágyak öntözése és fák öntözése",
+    "option_d": "fák öntözése és edények mosása"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7145513",
+    "answer": "B",
+    "instruction": "Az életfolyamatok energiát igényelnek. A biokémiai folyamatok specifikus reakciókat igényelnek. Melyik jellemzője a biokémiai folyamatoknak közös minden állat számára?",
+    "option_a": "bármilyen pH-szinten működik",
+    "option_b": "hő szabadul fel termék formájában",
+    "option_c": "csak anaerob légzést használ",
+    "option_d": "felvett energia mennyisége"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7018148",
+    "answer": "B",
+    "instruction": "Az Elemek Periódusos Rendszertáblájának TÖBBSÉGE",
+    "option_a": "gázok.",
+    "option_b": "fémek.",
+    "option_c": "folyadékok.",
+    "option_d": "nemfémek."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_401294",
+    "answer": "B",
+    "instruction": "Az esős éghajlaton jól életben maradó növények leveleinek alakja általában a legtöbbször",
+    "option_a": "vörös és fényes.",
+    "option_b": "széles és lapos.",
+    "option_c": "vastag és viaszos.",
+    "option_d": "éles és keskeny."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7207410",
+    "answer": "C",
+    "instruction": "Viharvadászok olyan emberek, akik azért mennek közel viharokhoz, hogy megfigyeljék őket és méréseket végezzenek rajtuk. Milyen ismereteket adtak hozzá a viharvadászok a viharok tanulmányozásához, amelyek segítettek a viharkeletkezésre vonatkozó elméletek módosításában?",
+    "option_a": "nézeteik a viharok okozta károkkal kapcsolatban",
+    "option_b": "saját tapasztalataik viharokkal kapcsolatban",
+    "option_c": "az elején gyűjtött adatok a viharokról",
+    "option_d": "lelkesedésük különböző viharok tanulmányozásához"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_8_2015_11",
+    "answer": "A",
+    "instruction": "Melyik a következő állítások közül írja le legjobban egy szilárd jégtömb tömegét?",
+    "option_a": "a tömeg mennyisége a blokkban",
+    "option_b": "a blokk foglalja el tér térfogatának mennyiségét",
+    "option_c": "a gravitációs erő hatása a blokkon",
+    "option_d": "a molekulák közötti távolság a blokkban"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7201705",
+    "answer": "A",
+    "instruction": "Sok részen a világon, ahol az talaj túlságosan száraz a mezőgazdálkodásra, állatok legeltetése történik. Az állatok túllegeltetése tönkreteszi a bennszülött növényeket és lebontja a természetes talajborítást. Hogyan vezet a túllegeltetés a sivatagosodáshoz?",
+    "option_a": "a felső talajpusztulásának arányának növekedésével",
+    "option_b": "nem őshonos fajoknak lehet engedélyezve a terület kolonizációja",
+    "option_c": "az állattenyésztésre rendelkezésre álló élelem csökkentésével",
+    "option_d": "az esővíz felvételének gyorsulásával a talajban"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7133858",
+    "answer": "B",
+    "instruction": "Anyag különböző változáson mehet keresztül. Melyik mutatja legjobban a kémiai változást?",
+    "option_a": "só feloldása",
+    "option_b": "fa égése",
+    "option_c": "víz forrása",
+    "option_d": "jég olvadása"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2003_5_31",
+    "answer": "D",
+    "instruction": "Melyik nem ösztönös viselkedés?",
+    "option_a": "egy madár fészkének építése",
+    "option_b": "egy teknős, aki elásja a tojásait",
+    "option_c": "egy medve téli álmot alszik",
+    "option_d": "egy ló, aki ekét húz"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7198380",
+    "answer": "D",
+    "instruction": "Különböző fűevő rágcsálófajok élték ugyanazon az ökoszisztémában. Mely tényező valószínűleg növekedett, ami több versenyt okozott az erőforrásokért a rágcsálók között?",
+    "option_a": "a talaj termékenysége",
+    "option_b": "a termelők lakossága a területen",
+    "option_c": "az eleségmaradványok mennyisége, amit a ragadozók hátrahagytak",
+    "option_d": "a primér fogyasztók arányának növekedése a területen"
+  },
+  {
+    "id": "ARC-Challenge/validation/LEAP_2012_8_10441",
+    "answer": "C",
+    "instruction": "Egy gyíkfajta többségében egy bizonyos fajta fa gyümölcsét eszi. Ha egy vírus elpusztítja a fák nagy részét, melyik egyedek fognak valószínűleg túlélni?",
+    "option_a": "azok a gyíkok, amelyek magasabbra tudnak mászni a gyümölcsfákban",
+    "option_b": "azok a gyíkok, amelyek sötétebb színűek",
+    "option_c": "azok a gyíkok, amelyek más fajta élelmet tudnak találni",
+    "option_d": "azok a gyíkok, amelyek több utódot termelnek"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7217053",
+    "answer": "B",
+    "instruction": "Az életbenmaradás érdekében a biológiai evolúció során az alábbi kivévekkel mindenesetre megtörténhet:",
+    "option_a": "versengés.",
+    "option_b": "foszilizálás.",
+    "option_c": "változatosság.",
+    "option_d": "alkalmazkodás."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7233660",
+    "answer": "C",
+    "instruction": "Néhány tudós elmélete szerint a lemezmozgás megváltoztathatja a Föld tengereinek vízszintjét. Hogyan korlátozná a lemezmozgás természete a tenger szintjében lehetséges változásokat?",
+    "option_a": "csak kis változásokat okozva",
+    "option_b": "csak néhány konkrét óceáni medencét megváltoztatva",
+    "option_c": "nagyon lassú ütemben bekövetkező változásokat okozva",
+    "option_d": "párban előforduló változásokat okozva, amelyek hatása eltérő és ellentétes"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7115395",
+    "answer": "A",
+    "instruction": "Mely változások valószínűleg negatív hatással vannak az ökoszisztémára?",
+    "option_a": "út építése",
+    "option_b": "fa ültetése",
+    "option_c": "frissvíz forrás hozzáadása",
+    "option_d": "természetvédelmi terület létrehozása"
+  },
+  {
+    "id": "ARC-Challenge/validation/MSA_2013_8_3",
+    "answer": "D",
+    "instruction": "A geológusok a Föld felszínén hét nagy tektonikai lemezt azonosítottak. Mely bizonyíték utal legjobban arra, hogy az ütköző tektonikai lemezek ütköznek egymással?",
+    "option_a": "A szél erodálja a felszíni kőzetrétegeket.",
+    "option_b": "A fosszíliák évekre visszamenően datálódnak.",
+    "option_c": "Apró kőzetdarabok maradnak vissza, amikor a gleccserek visszahúzódnak.",
+    "option_d": "Az idősebb kőzetrétegek a fiatalabb kőzetrétegek fölött helyezkednek el."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7205135",
+    "answer": "C",
+    "instruction": "Hogyan érinti a vasblokkban lévő részecskéket, ha a blokk olvadásra kerül?",
+    "option_a": "A részecskék tömege növekszik.",
+    "option_b": "A részecskék kevesebb energiát tartalmaznak.",
+    "option_c": "A részecskék gyorsabban mozognak.",
+    "option_d": "A részecskék térfogata növekszik."
+  },
+  {
+    "id": "ARC-Challenge/validation/ACTAAP_2010_5_10",
+    "answer": "A",
+    "instruction": "Sara felkapcsol egy zseblámpát és fényre tart egy tárgyat. Hogyan jön rá arra, hogy az objektum átlátszó-e?",
+    "option_a": "Semmi fény nem fog átsugározni rajta.",
+    "option_b": "Valamilyen fény visszatükröződik rajta.",
+    "option_c": "A fény egy szögben fog meghajlani.",
+    "option_d": "Világosan áthatol rajta a fény."
+  },
+  {
+    "id": "ARC-Challenge/validation/TIMSS_2003_8_pg29",
+    "answer": "E",
+    "instruction": "Melyik alábbi szerv NEM található a hasüregben?",
+    "option_a": "máj",
+    "option_b": "vese",
+    "option_c": "gyomor",
+    "option_d": "hólyag",
+    "option_e": "szív"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7181685",
+    "answer": "A",
+    "instruction": "A virág színeződését befolyásoló tulajdonság nagyon változékony bizonyos rózsa fajták között, ami különböző színű virágok kialakulásához vezet. Hogyan jött létre a virág színváltozatosság a rózsanövényeknél?",
+    "option_a": "mutáció által",
+    "option_b": "porzás által",
+    "option_c": "természetes szelekció által",
+    "option_d": "ivaros szaporodással"
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2011_5_20",
+    "answer": "D",
+    "instruction": "A havasi nyúl évente kétszer vedlik. Nyáron a nyúl szőre barna, míg télen fehér lesz. Melyik állítás magyarázza legjobban a vedléssel járó előnyöket?",
+    "option_a": "A vedlés segít tisztán tartani a nyulat.",
+    "option_b": "A vedlés segíti a nyulat gyorsan mozogni.",
+    "option_c": "A vedlés megőrzi a nyúl otthonát melegen.",
+    "option_d": "A vedlés segíti a nyulat beleolvadni a környezetébe."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7008120",
+    "answer": "A",
+    "instruction": "A tudósok a bináris csillagokat használják egy csillag tömegének",
+    "option_a": "meghatározására.",
+    "option_b": "fényességének meghatározására.",
+    "option_c": "távolságának a Földtől történő meghatározására.",
+    "option_d": "távolságának a Naptól történő meghatározására."
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_13",
+    "answer": "B",
+    "instruction": "Egy fiú láthatja az arcát, amikor egy nyugodt tavacska felé néz. Melyik fizikai tulajdonsága a tónak teszi ezt lehetővé?",
+    "option_a": "rugalmasság",
+    "option_b": "visszaverődés",
+    "option_c": "hőmérséklet",
+    "option_d": "térfogat"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_1",
+    "answer": "B",
+    "instruction": "Egy diák két babmagot ültetett két azonos edénybe, amelyek ugyanolyan típusú földet tartalmaznak. Az egyik edényt egy szekrénybe tette, a másikat pedig egy napos ablak közelében helyezte el. Minden nap 15 milliliter vizet öntött mindkét edénybe. Melyik tényező volt más a két edény esetében?",
+    "option_a": "vízmennyiség",
+    "option_b": "fény mennyisége",
+    "option_c": "talaj típusa",
+    "option_d": "mag típusa"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7141698",
+    "answer": "B",
+    "instruction": "Amikor villámlás történik, az felmelegíti a környező levegőt. A meleg levegő tágul és hangot ad, ami a mennydörgést okozza. A villám energiája milyen típusú energiává alakul át a mennydörgés létrehozásához?",
+    "option_a": "gravitációs",
+    "option_b": "mechanikai",
+    "option_c": "nukleáris",
+    "option_d": "sugárzó"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_407314",
+    "answer": "A",
+    "instruction": "Két osztály diákjai ugyanazon témában végeztek vizsgálatot, azonban az eredmények eltérőek lettek. Melyik a legjobb módja annak, hogy a diákok meghatározzák, miért különböznek az eredmények?",
+    "option_a": "Vizsgálják át a vizsgálat során követett lépéseket.",
+    "option_b": "Módosítsák a vizsgálat hipotézisét.",
+    "option_c": "Kutassanak azonos témájú vizsgálatok adatai után.",
+    "option_d": "Végezzenek egy másik vizsgálatot."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_406781",
+    "answer": "C",
+    "instruction": "Mely állatok közötti interakció szabályozza legjobban egy faj populációját?",
+    "option_a": "vadon élő állatok területeinek jelölése",
+    "option_b": "remorák túrázása cápákkal",
+    "option_c": "oroszlánok zsákmányolása zebrák között",
+    "option_d": "farkasok csapatban utazása"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400845",
+    "answer": "B",
+    "instruction": "Villám az alábbi energiák mindegyikét produkálhatja, kivéve",
+    "option_a": "hőenergiát.",
+    "option_b": "napenergiát.",
+    "option_c": "fényenergiát.",
+    "option_d": "elektromos energiát."
+  },
+  {
+    "id": "ARC-Challenge/validation/ACTAAP_2009_5_5",
+    "answer": "B",
+    "instruction": "Janet kapott néhány ásványt azonosításra. Az egyik mintája sárga. Melyik ásvány színe lehet a legvalószínűbb sárga?",
+    "option_a": "Talk",
+    "option_b": "Kén",
+    "option_c": "Gipsz",
+    "option_d": "Hematit"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7171938",
+    "answer": "D",
+    "instruction": "Az Északi- és Dél-Amerika óceánjainak árapályát erősen befolyásolja a Hold. Mely holdfázisok alatt a legalacsonyabbak a Földön az óceán-marekok?",
+    "option_a": "telihold és első negyed",
+    "option_b": "telihold és újhold",
+    "option_c": "utolsó negyed és újhold",
+    "option_d": "első negyed és utolsó negyed"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415354",
+    "answer": "C",
+    "instruction": "Melyik viselkedéseket sajátítja el egy delfin?",
+    "option_a": "kis halak evése",
+    "option_b": "úszás sós vízben",
+    "option_c": "labda egyensúlyozása az orrán",
+    "option_d": "lélegzés az orrnyíláson keresztül"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_17",
+    "answer": "C",
+    "instruction": "Mely tulajdonságot örökölhet leginkább egy macska a szüleitől?",
+    "option_a": "hegesedés",
+    "option_b": "játékot üldözni",
+    "option_c": "fehér szőr",
+    "option_d": "nevetésre hallgatni"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7251685",
+    "answer": "B",
+    "instruction": "Mely tevékenység biztosítja leginkább az osteocyták megfelelő működését?",
+    "option_a": "a légzésszám növelése",
+    "option_b": "ásványi anyagban gazdag ételek fogyasztása",
+    "option_c": "stresszes testmozgás csökkentése",
+    "option_d": "ionmentes víz ivása"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7267995",
+    "answer": "C",
+    "instruction": "Néhány növény- és állatfajta egymásra támaszkodik. Melyik állatfaj segíti több ezer növényfaj szaporodását?",
+    "option_a": "mókusok",
+    "option_b": "féreg",
+    "option_c": "méhek",
+    "option_d": "bogarak"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7193043",
+    "answer": "B",
+    "instruction": "A nem őshonos növények elfoglalhatnak olyan területeket, amelyek korábban őshonos növényekkel voltak benépesítve. Melyik abiotikus folyamat a legkevésbé valószínű, hogy okozza a nem őshonos növények invázióját?",
+    "option_a": "árvizek",
+    "option_b": "keményedés",
+    "option_c": "porviharok",
+    "option_d": "olvadó gleccserek"
+  },
+  {
+    "id": "ARC-Challenge/validation/VASoL_2008_5_28",
+    "answer": "C",
+    "instruction": "A tengeralattjárók már sok óceánrészt feltérképeztek. Ahogy a tengeralattjárók süllyednek, a tudósok megfigyelik, hogy növekszik a -",
+    "option_a": "fény mennyisége",
+    "option_b": "vízhőmérséklet",
+    "option_c": "víznyomás",
+    "option_d": "óceáni szervezetek típusa"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7154263",
+    "answer": "B",
+    "instruction": "A fitoplanktonok növényi jellegű mikroszkopikus szervezetek, amelyek az óceánban, a víztestekben lebegnek. A fotoszintézis folyamatában szén-dioxidot vesznek fel. Mi történne valószínűleg, ha a fitoplankton populációja elpusztulna?",
+    "option_a": "A tenger hőmérséklete csökkenne.",
+    "option_b": "Üvegházhatású gázok mennyisége nőne.",
+    "option_c": "Az atmoszférikus oxigén mennyisége nőne.",
+    "option_d": "A tengerszint drasztikusan csökkenne."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7032743",
+    "answer": "C",
+    "instruction": "Melyik tulajdonsága a gepárdnak valószínűbb, hogy tanult, mint öröklődött?",
+    "option_a": "sebesség",
+    "option_b": "foltos bunda",
+    "option_c": "vadászati stratégiák",
+    "option_d": "nem visszahúzódó karmok"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_19",
+    "answer": "B",
+    "instruction": "Ahogy a kiscicák felnőnek macskává, a testtömegük általában",
+    "option_a": "csökken",
+    "option_b": "növekszik",
+    "option_c": "ugyanaz marad"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7115273",
+    "answer": "C",
+    "instruction": "Mi akadályozza meg, hogy a tó fenekére eljusson melyik abiotikus tényező, amikor egy tó felszínén nagy algavirágzás van?",
+    "option_a": "víz",
+    "option_b": "só",
+    "option_c": "fény",
+    "option_d": "oxigén"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7205555",
+    "answer": "A",
+    "instruction": "A víznek sok egyedi kémiai tulajdonsága van. Milyen tulajdonsága miatt jó oldószer a kristályos sóknak?",
+    "option_a": "erős polaritás",
+    "option_b": "gyenge vezetőképesség",
+    "option_c": "magas viszkozitás",
+    "option_d": "alacsony pH"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7192990",
+    "answer": "A",
+    "instruction": "Az erdőtüzek sok térségben előfordulnak szárazsági körülmények miatt. Ha a szárazsági körülmények hosszú ideig fennmaradnak, az melyik tényező miatt fenyegetheti a fák újratelepítését?",
+    "option_a": "az talaj vastagságának csökkenése",
+    "option_b": "az erózió csökkenése",
+    "option_c": "a baktériumok szaporodásának növekedése",
+    "option_d": "az oxigén termelésének növekedése"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_408859",
+    "answer": "A",
+    "instruction": "Az amerikai aligátorok gyakoriak a Floridai mocsarakban. Ismert, hogy esznek békákat, teknősöket, halakat, egereket és madarakat. Milyen szerepet tölt be az amerikai aligátor az ökoszisztémában?",
+    "option_a": "fogyasztó",
+    "option_b": "lebontó",
+    "option_c": "ragadozó",
+    "option_d": "termelő"
+  },
+  {
+    "id": "ARC-Challenge/validation/TIMSS_2007_4_pg90",
+    "answer": "C",
+    "instruction": "Sue lemérte, hogy mennyi cukor oldódik fel egy csésze hideg, egy csésze langyos és egy csésze forró vízben. Mit tapasztalt valószínűleg?",
+    "option_a": "A hideg víz oldódta fel a legtöbb cukrot.",
+    "option_b": "A langyos víz oldódta fel a legtöbb cukrot.",
+    "option_c": "A forró víz oldódta fel a legtöbb cukrot.",
+    "option_d": "A hideg víz, a langyos víz és a forró víz mind ugyanannyi cukrot oldott fel."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_180058",
+    "answer": "A",
+    "instruction": "Egy Coloradóban felfedezett fosszília a korai mezozoikus korból származik. Egy évvel később hasonló fosszíliát találnak Wyomingban is, amely szintén a korai mezozoikus korból származik. Az ezeket az organizmusokat legvalószínűbb, hogy",
+    "option_a": "ugyanabban a környezetben éltek, körülbelül ugyanabban az időben.",
+    "option_b": "ugyanabban a környezetben éltek, de különböző időkben.",
+    "option_c": "különböző környezetekben éltek, körülbelül ugyanabban az időben.",
+    "option_d": "különböző környezetekben éltek, és különböző időkben is."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400050",
+    "answer": "C",
+    "instruction": "Mi történik akkor, ha a hőmérséklet a házban hidegebb, mint a tervezett hőmérséklet a termosztáton?",
+    "option_a": "A kazán túlmelegszik.",
+    "option_b": "A termosztát meleg lesz.",
+    "option_c": "A kazán automatikusan bekapcsol.",
+    "option_d": "A termosztát sípoló hangot ad ki."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_1998_8_13",
+    "answer": "D",
+    "instruction": "Melyik nem nagy vitát kiváltó probléma a nukleáris energia használatával kapcsolatban?",
+    "option_a": "a nukleáris hulladék eltávolítása",
+    "option_b": "az egészségügyi veszélyek a nukleáris erőművek környékén",
+    "option_c": "a víztestek hőszennyezése, amelyeket hűtésre használnak",
+    "option_d": "a munkanélküliség a nukleáris energiára való átállás miatt"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_4",
+    "answer": "A",
+    "instruction": "Melyik halmazállapotnak nincs meghatározott térfogata és formája?",
+    "option_a": "gáz",
+    "option_b": "folyadék",
+    "option_c": "szilárd"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7233678",
+    "answer": "A",
+    "instruction": "A tudósok vélik, hogy a kontinensek mozgása a Föld geológiai történelme során jelentős hatással volt a Föld melegebb és hűvösebb klímáinak ciklusaira. Melyik állítás írja le a kontinensek jellemzőjét, amely a globális klíma változásához vezethet, amikor a kontinensek elmozdulnak?",
+    "option_a": "A kontinens helye befolyásolja felületi tükröződését.",
+    "option_b": "A kontinentális lemez mélysége meghatározza annak specifikus hőjét.",
+    "option_c": "A kontinensmozgás nagy mennyiségű kinetikai energiát absorbeál.",
+    "option_d": "A kontinens hőmérséklete a legközelebbi óceánjától függ."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_LBS10666",
+    "answer": "B",
+    "instruction": "A növények általában nem szükséges más élőlényeket enniük, mert a növények",
+    "option_a": "nem igényelnek táplálékenergiát az életben maradáshoz.",
+    "option_b": "napfényből állítanak elő táplálékenergiát.",
+    "option_c": "az összes táplálékenergiájukat a talajból szereznek.",
+    "option_d": "a táplálékenergiát a gyökereikben tárolják."
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_8_38",
+    "answer": "A",
+    "instruction": "Egy szilárd anyag",
+    "option_a": "meghatározott alakkal és térfogattal rendelkezik.",
+    "option_b": "meghatározott alakú, de nincs meghatározott térfogata.",
+    "option_c": "nincs meghatározott alakja, de meghatározott térfogata van.",
+    "option_d": "nincs meghatározott alakja és térfogata sem."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2004_8_28",
+    "answer": "A",
+    "instruction": "Hogyan változnának a mérhető tulajdonságai egy golf labdának, ha Földről a Holdra kerülne?",
+    "option_a": "Ugyanaz a tömege lenne, de más lenne a súlya.",
+    "option_b": "Ugyanaz a súlya lenne, de más lenne a tömege.",
+    "option_c": "Ugyanaz a sűrűsége lenne, de más lenne a tömege.",
+    "option_d": "Ugyanaz a tömege lenne, de más lenne a sűrűsége."
+  },
+  {
+    "id": "ARC-Challenge/validation/LEAP__7_10354",
+    "answer": "D",
+    "instruction": "Joanne-nak a tudományos tanára figyelmeztetett az osztályt, hogy legyen szkeptikus, amikor új tudományos felfedezésekről tanulnak. Miért fontos a szkepticizmus az új tudományos felfedezésekkel kapcsolatban?",
+    "option_a": "mert sok tudományos felfedezés nincs tényekre alapozva",
+    "option_b": "mert a legtöbb tudományos felfedezésnek nincs tudományos értéke ",
+    "option_c": "mert a legtöbb tudós hibázik, amikor tudományos felfedezéseket fogalmaz meg",
+    "option_d": "mert minden tudományos felfedezést kritikusan kell vizsgálni, mielőtt elfogadhatók lennének"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2003_8_25",
+    "answer": "B",
+    "instruction": "Egy autóban melyik alkatrész van kifejezetten arra tervezve, hogy visszajelzést adjon a vezetőnek?",
+    "option_a": "kormánykerék",
+    "option_b": "sebességmérő",
+    "option_c": "fékpedál",
+    "option_d": "autókulcs"
+  },
+  {
+    "id": "ARC-Challenge/validation/TIMSS_2011_8_pg63",
+    "answer": "C",
+    "instruction": "Melyik az alábbiak közül határozza meg az összetett anyagot?",
+    "option_a": "különböző anyagok keveréke",
+    "option_b": "atomok és molekulák keveréke",
+    "option_c": "különböző elemek atomjainak kombinációja",
+    "option_d": "ugyanazon elem atomjainak kombinációja"
+  },
+  {
+    "id": "ARC-Challenge/validation/AIMS_2009_4_29",
+    "answer": "D",
+    "instruction": "Egy hűtőszekrény villamos energiát használ fel élelmiszer hűtéséhez. Milyen negatív hatása van a hűtőszekrény használatának a környezetre?",
+    "option_a": "Az élelmiszer hűtéséhez szükséges villamos energia költséges lehet.",
+    "option_b": "Ha nincs áram, az élelmiszer elromlik és betegséget okozhat.",
+    "option_c": "Az élelmiszer hosszabb tárolása csökkenti a bevásárlóutakat és a benzinhasználatot.",
+    "option_d": "Az régi hűtőszekrények káros anyagokat tartalmaznak és helyet foglalnak a szemétlerakókban."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_LBS10472",
+    "answer": "B",
+    "instruction": "A növényeknek specializált szöveteik vannak a szár végén. Mire használják ezek a szövetek a növényeket?",
+    "option_a": "ételt emésztenek",
+    "option_b": "magasabbra nőnek",
+    "option_c": "élelmet termelnek",
+    "option_d": "vizet szívnak fel"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415491",
+    "answer": "C",
+    "instruction": "Az Föld egy éven át kering a Nap körül. Kb. hány alkalommal kering a Hold az Föld körül egy év alatt?",
+    "option_a": "1",
+    "option_b": "7",
+    "option_c": "13",
+    "option_d": "28"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2011_5_17673",
+    "answer": "A",
+    "instruction": "Jose két rudmánya van. Összehúzza az egyik végüket, majd elengedi. A rudmányok gyorsan távolodnak egymástól. Melyik az alábbi állítások közül magyarázza legjobban, miért történik ez?",
+    "option_a": "A rudmányok északi pólusai egymás felé néznek.",
+    "option_b": "Az egyik rudmány északi pólus, a másik pedig déli pólus.",
+    "option_c": "A rudmányok végének eltolódása taszít, míg középe az vonzás.",
+    "option_d": "Az egyik rudmány energiát tárol, míg a másik energiát szabadít fel."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_416648",
+    "answer": "A",
+    "instruction": "A Paramecium és a volvox is szexuálisan is szaporodik. Hogyan tér el a volvox nemi szaporodása a Paramecium nemi szaporodásától?",
+    "option_a": "A volvox kolóniái gamétákat termelnek.",
+    "option_b": "A volvox sejtjei konjugációval szaporodnak.",
+    "option_c": "A volvox kolóniái egysejtű utódokat hoznak létre.",
+    "option_d": "A volvox sejtjei vegetatív rügyezéssel szaporodnak."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7207620",
+    "answer": "A",
+    "instruction": "Néhány műszer rögzíti a földi légkör ózonrétegének oxigénszintjét. Ennek az adatoknak a sok éven át való nyilvántartása egy példa arra, hogy",
+    "option_a": "bizonyítékokat építünk a folyamatos vizsgálatok révén.",
+    "option_b": "hipotézis azonosítása, amely támogatja az adatokat.",
+    "option_c": "következtetések levonása az eredmények alapján.",
+    "option_d": "olyan adatok javaslata, amelyek könnyen érthetők."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7164850",
+    "answer": "A",
+    "instruction": "Egy tudományos osztály plakátot tervezett azon mutatva, hogyan alakultak ki a Floridai partvonal mentén található gát-szigetek. A diákok bemutatták a szelek, hullámok és árjárások hatását a homokra, amely azok alakját adta. A plakáton melyik rendszerpárt kellene kiemelniük a leginkább az alakuláshoz?",
+    "option_a": "hidroszféra és légkör",
+    "option_b": "légkör és litoszféra",
+    "option_c": "bioszféra és hidroszféra",
+    "option_d": "litoszféra és bioszféra"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7011270",
+    "answer": "B",
+    "instruction": "Milyen hosszú idő alatt tesz egy teljes fordulatot a Hold a Föld körül?",
+    "option_a": "7 nap",
+    "option_b": "30 nap",
+    "option_c": "90 nap",
+    "option_d": "365 nap"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7090598",
+    "answer": "C",
+    "instruction": "Melyik folyamat jár nagy mennyiségű hőenergia átvitelével?",
+    "option_a": "erózió",
+    "option_b": "üledékképződés",
+    "option_c": "subdukció",
+    "option_d": "cementáció"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_412337",
+    "answer": "D",
+    "instruction": "Egy vizsgálat során hő áramlott át egy folyadékból a környezetbe. Melyik várható magyarázatpáros lehet a legjobb ennek a következményeként?",
+    "option_a": "A folyadék hőmérséklete növekedett, vagy a folyadék gázzá alakult át.",
+    "option_b": "A folyadék hőmérséklete növekedett, vagy a folyadék szilárd állapotba került.",
+    "option_c": "A folyadék hőmérséklete csökkent, vagy a folyadék gázzá alakult át.",
+    "option_d": "A folyadék hőmérséklete csökkent, vagy a folyadék szilárd állapotba került."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_1998_8_2",
+    "answer": "C",
+    "instruction": "A sejtfal miatt merevebb egy növényi sejt szerkezete, mint egy állati sejté, melyik sejtrészről van szó?",
+    "option_a": "Sejthártya.",
+    "option_b": "Citoplazma.",
+    "option_c": "Sejtfal.",
+    "option_d": "Riboszóma."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7124338",
+    "answer": "D",
+    "instruction": "Egy kérdező gondolkodásmód hasznos lenne a tudósnak, mert az vezetné a tudóst ahhoz, hogy",
+    "option_a": "kreatívabb legyen.",
+    "option_b": "ne bízzon más tudósok munkájában.",
+    "option_c": "dolgozzon az elfogadott hipotéziseken.",
+    "option_d": "kutatást végezzen elméletek megerősítése vagy megcáfolása érdekében."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_405454",
+    "answer": "D",
+    "instruction": "Melyik főzőeszköz változtatja a környezetet a legkevésbé?",
+    "option_a": "gázgrill",
+    "option_b": "elektromos serpenyő",
+    "option_c": "mikrohullámú sütő",
+    "option_d": "napkollektoros tűzhely"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7007875",
+    "answer": "B",
+    "instruction": "Mi felelős a szél létrehozásáért?",
+    "option_a": "hullám hatása",
+    "option_b": "napenergia",
+    "option_c": "fák mozgása",
+    "option_d": "gravitációs erő"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_417146",
+    "answer": "A",
+    "instruction": "Az atmoszférában lévő oxigén nagy részét az algák állítják elő. Hol él a legtöbb alga?",
+    "option_a": "part menti óceán",
+    "option_b": "mélyóceán",
+    "option_c": "tavak",
+    "option_d": "tavak"
+  },
+  {
+    "id": "ARC-Challenge/validation/LEAP_2004_8_10397",
+    "answer": "B",
+    "instruction": "Amikor az emberek a Holdon sétáltak, azt tapasztalták, hogy magasabbra tudnak ugrani, mint a Földön. Miért igaz ez?",
+    "option_a": "Nincs légkör a Holdon.",
+    "option_b": "A Hold kisebb gravitációs erőt gyakorol, mint a Föld.",
+    "option_c": "Az űrruhák segítettek nekik magasabbra ugrani.",
+    "option_d": "A Hold gyorsabban forog, mint a Föld."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_407695",
+    "answer": "D",
+    "instruction": "Juan és LaKeisha pár tárgyat gördítenek le egy rámpán. Meg akarják nézni, melyik tárgy gördül a legtávolabbra. Mit kellene tenniük, hogy megismételhessék kutatásukat?",
+    "option_a": "Csoportosítsd a tárgyakat.",
+    "option_b": "Változtasd meg a rámpa magasságát.",
+    "option_c": "Válassz más tárgyakat.",
+    "option_d": "Jegyezd fel a kutatás részleteit."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7158673",
+    "answer": "D",
+    "instruction": "Ana egy terepfutó. Egy verseny után azt vette észre, hogy forró a teste, ami a hőenergia kibocsátásának köszönhető. Mi a legvalószínűbb forrása ennek a hőenergiának?",
+    "option_a": "súrlódás a levegővel",
+    "option_b": "napból származó hőelnyelés",
+    "option_c": "mechanikai energia elnyelése",
+    "option_d": "energiaátalakulások, amelyek a testében történnek"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7018515",
+    "answer": "C",
+    "instruction": "A legvalószínűbb ok, amiért a hang gyorsabban terjed a sósvízben, mint édesvízben, az az, hogy a sósvíz",
+    "option_a": "rugalmasabb.",
+    "option_b": "gyorsabban elnyeli a hőt.",
+    "option_c": "nagyobb sűrűségű.",
+    "option_d": "jobban visszaveri a hangot."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_412551",
+    "answer": "D",
+    "instruction": "A fülesbaglyoknak két színváltozata van: piros és szürke. Milyen előnye van a szürke fülesbagolynak a piros fülesbagolyval szemben egy olyan élőhelyen, amely sötét színű fakéreggel rendelkezik?",
+    "option_a": "fészekrakás",
+    "option_b": "etetés",
+    "option_c": "szaporodás",
+    "option_d": "elrejtőzés"
+  },
+  {
+    "id": "ARC-Challenge/validation/VASoL_2008_5_19",
+    "answer": "D",
+    "instruction": "Három baseball játékos vizsgálja, hogy ki tudja a legmesszebbre dobni a baseballt. Kijelölnek egy területet a játszótéren a vizsgálatukhoz. Mit kell állandóan tartaniuk?",
+    "option_a": "A játékosok magasságát",
+    "option_b": "A kidobott baseballok színét",
+    "option_c": "A játékosok dobási sorrendjét",
+    "option_d": "A dobó helyét"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7120890",
+    "answer": "A",
+    "instruction": "Melyik mutatja legjobban, hogy a hullámok energiaátvitelt végeznek?",
+    "option_a": "egy harang, ami a toronyban kong",
+    "option_b": "egy levél, ami lehull a fáról",
+    "option_c": "egy labda, ami lefut egy domboldalt",
+    "option_d": "a zászló lengetése a szélben"
+  },
+  {
+    "id": "ARC-Challenge/validation/AKDE&ED_2008_8_44",
+    "answer": "A",
+    "instruction": "Melyik jellemző igaz csak az állatokra az alábbi taxonómiai csoportok egyikében: hüllők, emlősök, madarak, kétéltűek vagy halak?",
+    "option_a": "szőrös",
+    "option_b": "tojást rak",
+    "option_c": "lábujjai összenőttek úszóhártyával",
+    "option_d": "tüdejük helyett kopoltyúval lélegeznek"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415348",
+    "answer": "D",
+    "instruction": "Mi az örökölt jellemzője egy fának?",
+    "option_a": "törött ág a fenyőfán",
+    "option_b": "üreg az tölgyfán",
+    "option_c": "hegek az édesfán",
+    "option_d": "vaskos törzs a pekándiófán"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7014368",
+    "answer": "C",
+    "instruction": "A partáramlatok a tengeri hullámok, amelyek nagyon kis szögben érik partokat. Azokon a területeken, ahol a partáramlatok léteznek, milyen hatással vannak a szárazföldi területekre?",
+    "option_a": "Hegyeket építenek fel.",
+    "option_b": "Földrengéseket okoznak.",
+    "option_c": "Homokot mozgatnak, homokpadokat létrehozva.",
+    "option_d": "Sós vízű folyókat hoznak létre a belső területeken."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7245193",
+    "answer": "C",
+    "instruction": "Egy vidéki területet kicsupaszítottak, hogy utat építsenek rajta, azonban az út soha nem épült meg. A terület kezdett ismét beláthatóvá válni. Mely szervezetek jelentek meg valószínűleg elsőként?",
+    "option_a": "fák",
+    "option_b": "cserjék",
+    "option_c": "zuzmók és mohák",
+    "option_d": "gyomok és gyepvirágok"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7251668",
+    "answer": "D",
+    "instruction": "Egy daphnia-populáció függőleges vándorlást mutat egy egy méter mély víztározó aljától éjszaka a felületén. Mely tényezőre reagál leginkább a daphnia-populáció?",
+    "option_a": "a víz pH-ja",
+    "option_b": "a víz tisztasága",
+    "option_c": "a víznyomás",
+    "option_d": "a víz hőmérséklete"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2013_8_29421",
+    "answer": "A",
+    "instruction": "Amikor valakinek az izzadsága elpárolog, az illető hűvösebbnek érzi magát. Melyik az alábbi állítások közül írja le a legjobban, hogy miért segít az izzadás hűvösnek érezni magát?",
+    "option_a": "Az izzadtság elpárologásakor az hőt vesz fel.",
+    "option_b": "Az izzadtság elpárologtatásakor a test hőt vesz fel.",
+    "option_c": "Az izzadtságban lévő víz hőmérséklete csökken, amikor elpárolog.",
+    "option_d": "A testben lévő víz hőmérséklete emelkedik, amikor az izzadság elpárolog."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7082145",
+    "answer": "D",
+    "instruction": "Hogyan kell egy vonaldiagramot használni egy mozgó tárgy távolság és idő adatainak megjelenítéséhez?",
+    "option_a": "Az y-tengelyt időként kell címkézni, ami a függő változó.",
+    "option_b": "Az y-tengelyt távolságként kell címkézni, ami az önálló változó.",
+    "option_c": "Az x-tengelyt távolságként kell címkézni, ami a függő változó.",
+    "option_d": "Az x-tengelyt időként kell címkézni, ami az önálló változó."
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2007_5_39",
+    "answer": "D",
+    "instruction": "A Maryland állam természeti erőforrásairól tanulnak a diákok. Az egyik diák csoport megújuló természeti erőforrásokkal kapcsolatos információkat kutat az államban, a másik csoport pedig nem megújuló természeti erőforrásokkal kapcsolatos információkat kutat. Az erőforrások, amelyeket a diákok vizsgálnak, közé tartoznak a növények, állatok, talaj, ásványok, víz, szén és olaj. Melyik emberi tevékenység befolyásolja negatívan a természeti erőforrást?",
+    "option_a": "horgászás egy tavon",
+    "option_b": "vizet használ az áram előállításához",
+    "option_c": "helyi növények ültetése a tóparton",
+    "option_d": "csapadékvizet irányít fel a földterületekről egy tóba"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_22",
+    "answer": "A",
+    "instruction": "Néhány állat bundája vastagabb lesz télen, majd tavasszal kihullik. Ezek az észlelések azt mutatják, hogy az állatok hogyan",
+    "option_a": "reagálnak a környezeti változásokra",
+    "option_b": "helyről helyre mozognak a túlélés érdekében",
+    "option_c": "tárolják a zsírt a télre",
+    "option_d": "versenyeznek más állatokkal az élelemért"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7006790",
+    "answer": "B",
+    "instruction": "Válassza ki a következő közül azt a magyarázatot, amely legjobban elmagyarázza, hogy miért rázkódik az ablakok egy zivatar közben.",
+    "option_a": "elektromos energia",
+    "option_b": "hanges energia",
+    "option_c": "fény energia",
+    "option_d": "hő energia"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7284043",
+    "answer": "C",
+    "instruction": "Az afrikai szavannában az elefántok cserjéket és kis fákat esznek. Ez a viselkedés tisztítja a tájat és lehetőséget teremt a füvesség növekedésére. Az olyan legelő állatok, mint a gazellák, füvet esznek. Az oroszlánok a gazellákra vadásznak. Melyik két szervezet van ebben a szituációban a leginkább együttműködő kapcsolatban?",
+    "option_a": "az elefántok és a cserjék",
+    "option_b": "a cserjék és az oroszlánok",
+    "option_c": "az elefántok és a gazellák",
+    "option_d": "a gazellák és az oroszlánok"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7175455",
+    "answer": "D",
+    "instruction": "Ausztráliában a déli órákban a hőmérséklet elérheti a 43 ℃-ot (110 ℉) is. A kenguruk teste hűtésének érdekében a karjaikat nyalják, vastag nyálréteggel vonják be őket. Ahogy a nyál elpárolog, hűtőmechanizmusként működik, és csökkenti a kenguru testhőmérsékletét. Melyik kifejezés írja le ezt a tevékenységet a legjobban?",
+    "option_a": "természetes kiválasztódás",
+    "option_b": "védelmi mechanizmus",
+    "option_c": "strukturális alkalmazkodások",
+    "option_d": "viselkedési alkalmazkodások"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_401714",
+    "answer": "B",
+    "instruction": "Egy laboratóriumi kísérlet során a diákok egy ismeretlen por azonosításán dolgoznak. Melyik módszer a legmegfelelőbb a por áthelyezéséhez mérlegen?",
+    "option_a": "Kecskével söpörje egy transzfer papírra",
+    "option_b": "Laborspatulával kanalazza egy transzfer papírra",
+    "option_c": "ujjaival fogja meg, majd emelje át egy transzfer papírra",
+    "option_d": "Öntse ki a palackból egy transzfer papírra"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_409529",
+    "answer": "B",
+    "instruction": "Robert halász, aki szeretne több halat fogni. Úgy döntött, hogy különböző méretű horog használatát fogja kipróbálni. Robert 4 pontyot, 3 pisztránghalat és 7 sügért fogott, miközben férget használt csaliként. Mi az független (manipulált) változó Robert vizsgálatában?",
+    "option_a": "csalitípus",
+    "option_b": "horog mérete",
+    "option_c": "elfogott hal típusa",
+    "option_d": "elkapható halak száma"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7223038",
+    "answer": "C",
+    "instruction": "Sokféle méretű és színű csillag van. Melyik a következő lehet a legjobb leírása annak a kategóriának, ahová a Nap tartozik?",
+    "option_a": "kékszupernóva csillagok",
+    "option_b": "vörös óriás csillagok",
+    "option_c": "sárga fő sor csillagok",
+    "option_d": "fehér törpe csillagok"
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2008_5_24",
+    "answer": "C",
+    "instruction": "Marylandban és környékén sok természeti erőforrás található. Ezek közül néhány megújuló, míg mások nem megújuló erőforrások. Az emberek mindkét fajta erőforrást felhasználják napi tevékenységeik során. Az erőforrások felhasználása pedig gyakran termel hulladékot. Az újrahasznosító központokban az emberek olyan anyagokat visznek, amik új termékek készítéséhez újra felhasználhatóak. Hogyan hat a papír újrahasznosítása hatással a környezetre?",
+    "option_a": "csökkenti a légszennyezést",
+    "option_b": "fokozza a talajeróziót",
+    "option_c": "csökkenti a kivágott fák számát",
+    "option_d": "fokozza az élőhely pusztítást"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2010_5_11998",
+    "answer": "A",
+    "instruction": "A reggeli dicsfény egy virágzó kúszónövényt jelent, amely felmászik a fákra és kerítésekre. Melyik a következő viselkedése közül a leginkább segít egy reggeli dicsfény növénynek a kerítés felmászásában?",
+    "option_a": "A szárak görbülése az érintésre adott válaszként",
+    "option_b": "A szárak duzzanata a vízre adott válaszként",
+    "option_c": "A virágok nyílása a fényre adott válaszként",
+    "option_d": "A gyökerek növekedése a gravitációra adott válaszként"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7139493",
+    "answer": "B",
+    "instruction": "Melyik a legvalószínűbb, hogy miért képesek a csíkbogarak túlélni az egymás utáni rovarirtós expozíciókat?",
+    "option_a": "fajok sokfélesége",
+    "option_b": "genetikai sokféleség",
+    "option_c": "ökoszisztéma sokféleség",
+    "option_d": "populáció sokféleség"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_14",
+    "answer": "A",
+    "instruction": "Napkollektorokat használnak a napfény elnyelésére. Melyik színű panel szívja fel a legtöbb napfényt?",
+    "option_a": "fekete",
+    "option_b": "zöld",
+    "option_c": "fehér",
+    "option_d": "sárga"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2006_9_35",
+    "answer": "A",
+    "instruction": "Melyik a következő genetikai betegség, amely a szétválasztás során felmerülő problémákból ered?",
+    "option_a": "16-os triszómia: Az állapot akkor jön létre, amikor a zigóta a 16-os kromoszóma három példányát kapja.",
+    "option_b": "Huntington-kór: Az állapot akkor jön létre, amikor a zigóta egy mutált domináns allélt kap.",
+    "option_c": "Haemophilia: Az állapot akkor jön létre, amikor a zigóta egy adott recesszív alléllal rendelkező X kromoszómát kap.",
+    "option_d": "Az orsósejtes vérképződési zavar: Az állapot akkor jön létre, amikor a zigóta mindkét szülőtől recesszív allélt kap a hemoglobinra."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2015_8_7",
+    "answer": "B",
+    "instruction": "Egy diák két fazekat melegít vizen egy tűzhelyen a legmagasabb fokozaton. Az egyik fazekban 1 L víz van, a másikban 3 L víz. A diák mindkét fazékban addig melegíti a vizet, amíg az el nem forr. Melyik állítás írja le legjobban, mi történik a vízzel a fazekakban?",
+    "option_a": "A víz mindkét fazékban egyszerre forr fel.",
+    "option_b": "A víz mindkét fazékban ugyanazzal a hőmérséklettel forr fel.",
+    "option_c": "A 3 L víz magasabb hőmérsékletre lesz felforrósodva, mint az 1 L víz.",
+    "option_d": "A 3 L víz gyorsabban abszorbeálja a hőt, mint az 1 L víz."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7115063",
+    "answer": "A",
+    "instruction": "Melyik a következő esetek közül valószínűleg a legzavaróbb egy nedves élőhely ökoszisztémájára?",
+    "option_a": "lakófejlesztés építése",
+    "option_b": "bennszülött vadon élő virágok ültetése",
+    "option_c": "hosszú esős időszak",
+    "option_d": "villámlás"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7144795",
+    "answer": "D",
+    "instruction": "Egy adott élőhelyen az elmúlt 75 évben sok változás történt a környezeti feltételekben. Melyik tulajdonsággal rendelkező faj az esélyesebb a környezeti változásokkal való túléléshez?",
+    "option_a": "egy populáció, melynek sok egyed tagja van",
+    "option_b": "nagy fajdizájn jelenléte a jelenlegi ökoszisztémában",
+    "option_c": "alkalmazkodások, amelyek lehetővé teszik az egyedek számára, hogy különböző feltételek között is éljenek",
+    "option_d": "viselkedésformák, amelyek elősegítik az alkalmazkodások kialakulását új környezetekben"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_400934",
+    "answer": "C",
+    "instruction": "Az elemek periódusos rendszerének alapján melyik elemhármassal rendelkeznek hasonló tulajdonságok?",
+    "option_a": "H, C, I",
+    "option_b": "He, H, Al",
+    "option_c": "He, Ne, Ar",
+    "option_d": "Na, Ca, Al"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7004410",
+    "answer": "B",
+    "instruction": "Az élelmiszerhálózatok egyik korlátja a helyzetet, hogy nem",
+    "option_a": "tartalmazzák a termelőket az ökoszisztémában.",
+    "option_b": "tartalmazzák az összes fajt az ökoszisztémában.",
+    "option_c": "nem mutatják be a fogyasztókat az ökoszisztémában.",
+    "option_d": "nem mutatják be a ragadozó-prey kapcsolatokat az ökoszisztémában."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7029505",
+    "answer": "C",
+    "instruction": "Hogyan különböznek egymástól a vér típusai az ABO vér osztályozásban?",
+    "option_a": "különböző méretű vörösvérsejtek",
+    "option_b": "különböző méretű fehérvérsejtek",
+    "option_c": "különböző jelölő fehérjék a vörösvérsejteken",
+    "option_d": "különböző jelölő fehérjék a fehérvérsejteken"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_LBS10598",
+    "answer": "A",
+    "instruction": "Egy jégkocka olvad és elpárolog. A jégkocka és a vízgőz ugyanolyan",
+    "option_a": "tömeggel.",
+    "option_b": "sűrűséggel.",
+    "option_c": "térfogattal.",
+    "option_d": "hőmérséklettel."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7245893",
+    "answer": "B",
+    "instruction": "Melyik az emésztőrendszer része, amely elsőként okoz kémiai változásokat az ételekben?",
+    "option_a": "fogak a szájban",
+    "option_b": "nyál a szájban",
+    "option_c": "enzimek a gyomorban",
+    "option_d": "enzimek a vékonybélben"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7246925",
+    "answer": "D",
+    "instruction": "A leucin az egyik aminosav, amelyre a testednek szüksége van, de nem tudja előállítani. Melyik az alábbiak közül történik meg, hogy az emberi test leucinhoz jusson?",
+    "option_a": "A test más aminosavakat alakít át leucinná.",
+    "option_b": "A test olyan szénhidrátokat tárol, amelyek leucint tartalmaznak.",
+    "option_c": "A test zsírsavakat bont le, hogy leucinhoz jusson.",
+    "option_d": "A test az elfogyasztott élelmiszerben lévő fehérjéket emészti meg, hogy leucinhoz jusson."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7138688",
+    "answer": "D",
+    "instruction": "Melyik eljárás segít legjobban meghatározni, hogy egy vizsgálat tudományosan érvényes-e?",
+    "option_a": "jegyzeteket vezetni az eljárás során használt felszerelések állapotáról",
+    "option_b": "egy csoporttal együtt végezni a vizsgálatot",
+    "option_c": "alaposan elvégezni egyszer az eljárást",
+    "option_d": "többször megismételni a vizsgálatot"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_408700",
+    "answer": "C",
+    "instruction": "Emily készített egy csésze teát, majd kanállal elkeverte. A kanálmeleg lett. Hogyan átadódott a hő a teából a kanálra?",
+    "option_a": "áramlás (konvekció)",
+    "option_b": "sugárzás",
+    "option_c": "vezetés",
+    "option_d": "párolgás"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7100608",
+    "answer": "B",
+    "instruction": "Michael családja egy új házat épít. Megújuló erőforrásokból előállított elektromosságot szeretnének használni. Melyik energiaforrás segíthet a családnak céljuk elérésében?",
+    "option_a": "benzinmotor",
+    "option_b": "napelemes tetőpanekek",
+    "option_c": "szénerőmű",
+    "option_d": "nukleáris erőmű"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7133648",
+    "answer": "C",
+    "instruction": "Melyik tevékenység a konyhában példa a fizikai változásra?",
+    "option_a": "tojás sütése",
+    "option_b": "torta sütése",
+    "option_c": "vaj olvasztása",
+    "option_d": "kenyér pirítása"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_401244",
+    "answer": "D",
+    "instruction": "Melyik kőzet típus a legfontosabb a szervezetek történelmének tanulmányozásában?",
+    "option_a": "bazalt",
+    "option_b": "márvány",
+    "option_c": "gránit",
+    "option_d": "mészkő"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_400397",
+    "answer": "C",
+    "instruction": "Melyik viselkedést valószínűleg az élőhelyéről tanulta meg leginkább egy medve?",
+    "option_a": "vizet ivás",
+    "option_b": "hal evés",
+    "option_c": "szemét tárolók fedelének kinyitása",
+    "option_d": "fiókáinak védelme"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7245088",
+    "answer": "D",
+    "instruction": "Mi írja le a szénhidrátok összetételét?",
+    "option_a": "lipidek kötődése foszfolipidekké",
+    "option_b": "monomerek kötődése polimerekké",
+    "option_c": "aminosavak kötődése polipeptidekké",
+    "option_d": "szacharidok kötődése poliszacharidokká"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_408809",
+    "answer": "C",
+    "instruction": "Egérpopulációban egy bizonyos fajnál az összekeveredett szőrszín poligénes megjelenési formáját mutatja. Egérkölykök feketeszínű (BB) és fehérszínű (bb) egér párosításából szürke (Bb) szőrű egerek származnak. Két szürke egér párosításából milyen arányban születnek különböző szőrszínű egerek?",
+    "option_a": "25% fekete, 75% szürke",
+    "option_b": "25% szürke, 75% fehér",
+    "option_c": "25% fehér, 25% fekete, 50% szürke",
+    "option_d": "25% szürke, 25% fekete, 50% fehér"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7068863",
+    "answer": "C",
+    "instruction": "Egy diák vizsgálta a vas hatását a növények növekedésére. Négy azonos növény különböző mennyiségű vas kiegészítőt kapott az öntözéskor. Az vizsgálat akkor lett volna hatékonyabb, ha",
+    "option_a": "vannak földigiliszták a talajban.",
+    "option_b": "kevesebb növény van az kísérletben.",
+    "option_c": "növények, amelyek víz kiegészítők nélkül lettek öntözve.",
+    "option_d": "növények, amelyek különböző mennyiségű napfényt kaptak."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7166880",
+    "answer": "D",
+    "instruction": "Clay a holnapi strandoláshoz az időjárást figyeli. Az előrejelzés szerint egy alacsony nyomású rendszer érkezik éjjel. Milyen időre számíthat valószínűleg Clay reggel?",
+    "option_a": "ködös",
+    "option_b": "napos",
+    "option_c": "derült és hidegebb",
+    "option_d": "felhős és esős"
+  },
+  {
+    "id": "ARC-Challenge/validation/ACTAAP_2007_7_25",
+    "answer": "A",
+    "instruction": "Melyik nem biztonsági szabály a természettudományos laborban?",
+    "option_a": "Pontosan mérjük a folyadékokat az üvegcsebe.",
+    "option_b": "Soha ne vágjunk tárgyakat, miközben kezünkben tartjuk őket.",
+    "option_c": "Viseljünk biztonsági szemüveget, amikor veszélyes anyagokat kezelünk.",
+    "option_d": "Amikor szagokat érzékelünk, akkor ne tegyük az arcunkat a forráshoz, hanem fújjuk azokat az orrunk felé."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7018445",
+    "answer": "D",
+    "instruction": "Melyik anyagon terjed a hang a leggyorsabban?",
+    "option_a": "parafa",
+    "option_b": "víz",
+    "option_c": "levegő",
+    "option_d": "acél"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7033653",
+    "answer": "C",
+    "instruction": "Mi az a legjobb mértékegység, amellyel a Föld és más naprendszerek közötti távolságokat mérjük az univerzumban?",
+    "option_a": "mérföld",
+    "option_b": "kilométer",
+    "option_c": "fényév",
+    "option_d": "csillagászati egység"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2006_5_29",
+    "answer": "D",
+    "instruction": "Négy azonos vastagságú rudat, de különböző fémekből készítettek. Azonos súlyokkal vizsgálták, hogy melyik a legrugalmasabb. Melyik az alábbiak közül a legjobb módja ennek az kísérletnek az eredményeinek jelentésére?",
+    "option_a": "listázni az összes használt rudat",
+    "option_b": "rajzolni mindegyik rudat a teszt előtt",
+    "option_c": "táblázat mutatja, mennyit nyomnak az egyes rudak",
+    "option_d": "oszlopdiagram mutatja, mennyit hajlít a rudak"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7159268",
+    "answer": "A",
+    "instruction": "Az utolsó jégkorszak után a sarki és hegyi jégtakarók olvadása az óceánok vízszintjének emelkedéséhez vezetett. Ez legvalószínűbb a következménye az óceánvíz-szint emelkedésének?",
+    "option_a": "növekedés az előző parti nedves vidékek sótartalmában",
+    "option_b": "növekedés az előző zátonyokon élő organizmusok számában",
+    "option_c": "csökkenés a napi árapályok számában",
+    "option_d": "csökkenés az óceánmeder mélységében"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_400885",
+    "answer": "D",
+    "instruction": "Melyik egyensúlyi kémiai egyenlet?",
+    "option_a": "2NaOH + CaBr_{2} -> Ca(OH)_{2} + NaBr",
+    "option_b": "NO + Cl_{2} -> NOCl",
+    "option_c": "CaCO_{3} -> CaO + 2CO_{2}",
+    "option_d": "2AlCl_{3} + 3Mg -> 3MgCl_{2} + 2Al"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7038273",
+    "answer": "A",
+    "instruction": "Egy kísérlet során a diák több különböző vízhőmérsékletet, két tömegmérést és három térfogatmérést végzett. Melyik lenne a legjobb módja az adatok szervezésének?",
+    "option_a": "táblázatban",
+    "option_b": "grafikonon",
+    "option_c": "írott elbeszélésben",
+    "option_d": "képekkel illusztrálva"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_407574",
+    "answer": "A",
+    "instruction": "Melyik gázat bocsátják ki a termelők, amit fogyasztók vesznek fel a túléléshez?",
+    "option_a": "oxigén",
+    "option_b": "nitrogén",
+    "option_c": "vízpár",
+    "option_d": "szén-dioxid"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_1998_4_8",
+    "answer": "B",
+    "instruction": "Hol lenne A LEGERŐSEBBEN veszélyes elektromos szerszámokkal dolgozni?",
+    "option_a": "garázsban",
+    "option_b": "uszoda mellett",
+    "option_c": "televízió vagy számítógép közelében",
+    "option_d": "hűvös pincében"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7128695",
+    "answer": "C",
+    "instruction": "Egy tudós felfedezést tesz egy kutatás során, de nem tartja fenn a tesztek pontos feljegyzéseit. Milyen módon befolyásolja a feljegyzés elmaradása a tudós munkáját?",
+    "option_a": "Érvényteleníti a folyamatokat és a következtetéseket.",
+    "option_b": "Téves adatokat eredményez, amik sérthetik a tanulmányt.",
+    "option_c": "Megakadályozza más tudósokat a következmények igazolásában.",
+    "option_d": "Akadályozza más tudósokat az új hipotézisek kidolgozásában."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400178",
+    "answer": "C",
+    "instruction": "Melyik keveréket lehet szétválasztani az összetevőire?",
+    "option_a": "krumpli chips",
+    "option_b": "csokoládétorta",
+    "option_c": "gyümölcssaláta",
+    "option_d": "rántotta"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7189823",
+    "answer": "A",
+    "instruction": "Egy vulkán kitörése lava és vulkáni hamuval borítja be a környező területet. Ahogy az ökoszisztéma kezd helyreállni, mely növényfaj lesz valószínűleg az első, amely a kitörést követő területen benépesíti?",
+    "option_a": "mohák",
+    "option_b": "vadon termő virágok",
+    "option_c": "lombos fák",
+    "option_d": "örökzöld bokrok"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_412683",
+    "answer": "D",
+    "instruction": "Mi a 2 Hz-es hullám sebessége, ha a hullámhossz 10 m?",
+    "option_a": "5 m/s",
+    "option_b": "8 m/s",
+    "option_c": "12 m/s",
+    "option_d": "20 m/s"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_184258",
+    "answer": "A",
+    "instruction": "Melyik következő áramlat jellemző befolyásolja leginkább az áramlati üledékek kialakulását?",
+    "option_a": "lejtőszög",
+    "option_b": "magasság",
+    "option_c": "alapszint",
+    "option_d": "vízminőség"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_192168",
+    "answer": "D",
+    "instruction": "Az tudományos modellek nagyon elterjedtek. Melyik célra lenne a fizikai modell a legkevésbé hasznos?",
+    "option_a": "tudományos jelenségek szimulálására",
+    "option_b": "komplex ötletek egyszerűsítésére",
+    "option_c": "lehetővé téve a vizualizációt",
+    "option_d": "adatok megjelenítése"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_LBS10399",
+    "answer": "D",
+    "instruction": "Egy mikroszkóp 50-szeres nagyítással növeli a tárgyat. Milyen hosszú az objektum, ha az 0,5 cm hosszú kép alapján ítélve?",
+    "option_a": "100 cm",
+    "option_b": "25 cm",
+    "option_c": "2,5 cm",
+    "option_d": "0,01 cm"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7228603",
+    "answer": "C",
+    "instruction": "Mi következik a homológ kromoszóma részek cseréjéből a meiózis során?",
+    "option_a": "véletlenszerű mutációk",
+    "option_b": "csökkentett gamétaszám",
+    "option_c": "utódok, akiknek egyedi tulajdonságai vannak",
+    "option_d": "kevesebb allél száma minden kromoszómán"
+  },
+  {
+    "id": "ARC-Challenge/validation/MEA_2013_5_3",
+    "answer": "D",
+    "instruction": "A Nap egy csillagként van sorolva. Melyik jellemző az, ami a Napot csillagként azonosítja?",
+    "option_a": "A Nap az tengelye körül forog.",
+    "option_b": "A Nap a Tejútrendszeren kívül helyezkedik el.",
+    "option_c": "A Nap része a Nagy Göncöl csillagképnek.",
+    "option_d": "A Nap fényt és energiát termel nukleáris reakcióval."
+  },
+  {
+    "id": "ARC-Challenge/validation/NCEOGA_2013_8_38",
+    "answer": "C",
+    "instruction": "Télen, az északi róka szőre fehér. Nyáron azonban a szőr elváltozik, és vörösesbarnává válik. Mi a legvalószínűbb oka annak, hogy az északi róka szőre elváltozik?",
+    "option_a": "a jelenlévő napfény mennyisége",
+    "option_b": "a róka élőhelye",
+    "option_c": "a róka genetikája",
+    "option_d": "a róka kora"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7221095",
+    "answer": "A",
+    "instruction": "Melyik az abiotikus elem az ökoszisztémában?",
+    "option_a": "az ökoszisztéma átlagos éves csapadék mennyisége",
+    "option_b": "az ökoszisztémában található termelők típusai",
+    "option_c": "a ragadozó populációk mérete az ökoszisztémában",
+    "option_d": "az ökoszisztéma talajában élő mikroorganizmusok"
+  },
+  {
+    "id": "ARC-Challenge/validation/MEAP_2005_5_1",
+    "answer": "C",
+    "instruction": "A vízgőz jelen van az atmoszférában ___ formájában.",
+    "option_a": "látható gázként",
+    "option_b": "látható folyadékként",
+    "option_c": "láthatatlan gázként",
+    "option_d": "láthatatlan folyadékként"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_406939",
+    "answer": "C",
+    "instruction": "Melyik az a módja, hogy egy papír vegyileg változzon?",
+    "option_a": "hajtogasd félbe a papírt",
+    "option_b": "áztasd be a papírt vízbe",
+    "option_c": "égesd meg a papírt tűzzel",
+    "option_d": "vágd el a papírt ollóval"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7219415",
+    "answer": "C",
+    "instruction": "Melyik példa mutatja a sejtek szelektíven áteresztő membránjának funkcióját?",
+    "option_a": "a sejt alakjának támogatása",
+    "option_b": "fehérjék előállítása a sejt számára",
+    "option_c": "azon anyagok korlátozása, amelyek ki diffundálnak a sejtből",
+    "option_d": "a sejt hulladékainak tárolása"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_1999_8_22",
+    "answer": "B",
+    "instruction": "Milyen híd használ kábeleket a támasztásra?",
+    "option_a": "vasúti híd",
+    "option_b": "felfüggesztéses híd",
+    "option_c": "gerendahíd",
+    "option_d": "konzolos híd"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2006_9_33",
+    "answer": "D",
+    "instruction": "A gepárdok a vadászat, a szárazság és a betegségek miatt szinte kipusztultak. Jelenleg rendkívül kevés genetikai változatosság van a gepárdpopulációkban. Melyik az alábbiak közül a korlátozott genetikai változatosság jelenlegi gepárdpopulációkban tapasztalt hatása a korábbi, változatosabb gepárdpopulációkhoz képest?",
+    "option_a": "A jelenlegi populációkban található gepárdok ellenállóbbak az új betegségekkel szemben.",
+    "option_b": "A fiatal gepárdok túlélési aránya megnövekedett a jelenlegi populációkban.",
+    "option_c": "A jelenlegi populációkban található gepárdok nehezebben képesek az egyéb fajokkal történő kereszteződésre.",
+    "option_d": "A jelenlegi gepárdpopulációk kevésbé képesek alkalmazkodni a környezeti változásokhoz."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7135310",
+    "answer": "C",
+    "instruction": "Miért van az, hogy egy gép kimenő energiája mindig kevesebb, mint a bemenő energiája?",
+    "option_a": "Az energia egy része elpusztul a gép üzemeltetése során.",
+    "option_b": "A gépnek legyőznie kell a mágnesesség állandó erejét.",
+    "option_c": "A hasznos energia csökken, amikor az energia környezetbe történő átadása történik.",
+    "option_d": "Az energia egy része hő formájában szabadul fel, amikor az átalakul. // The code inside the quotation marks should not be translated"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_414131",
+    "answer": "C",
+    "instruction": "Melyik mondat jellemzi az elemeket?",
+    "option_a": "Az összes elem fém.",
+    "option_b": "Az összes elemnek hat elektronja van.",
+    "option_c": "Az összes elem tiszta anyag.",
+    "option_d": "Az összes elem a szilárd fázisban létezik."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7112753",
+    "answer": "B",
+    "instruction": "Hogy megtalálják a bogárfajtákat, a tudósoknak speciális felszerelésre van szükségük. Mely tényező csökkentheti leginkább a bogarak lokalizálásának képességét?",
+    "option_a": "klíma",
+    "option_b": "költség",
+    "option_c": "mintaméret",
+    "option_d": "politika"
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2009_5_16",
+    "answer": "D",
+    "instruction": "A diákok ellátogattak a Morris W. Offit távcsövéhez, amely a Maryland Space Grant Obszervatóriumban Baltimore-ban található. A csillagokról, bolygókról és a holdról tanultak. A diákok az alábbi információkat rögzítették. • Csillagmintázatok mindig ugyanazok maradnak, de helyük az égen változik. • A Nap, bolygók és a Hold az égen mozognak. • A Proxima Centauri a mi Naprendszerünk legközelebbi csillaga. • A Polaris egy csillag, amely egy mintázat részét képezi, melyet Kismedvének hívnak. Melyik állítás magyarázza legjobban, hogy miért látszik, hogy a nap minden nap áthalad az égen?",
+    "option_a": "A nap forog a Föld körül.",
+    "option_b": "A Föld forog a nap körül.",
+    "option_c": "A nap saját tengelye körül forog.",
+    "option_d": "A Föld saját tengelye körül forog."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7236023",
+    "answer": "B",
+    "instruction": "Egy levegőtömeg az Északi Félteke viharának alacsony nyomású központjában van, 1000 méter magasan. Melyik állítás írja le a legjobban a levegőrészecskék mozgását az időjárás viszonyok és a Föld forgásának hatására, amikor a levegőtömeg kifelé mozog?",
+    "option_a": "A levegő részecskéi felfelé és balra mozognak.",
+    "option_b": "A levegő részecskéi felfelé és jobbra mozognak.",
+    "option_c": "A levegő részecskéi lefelé és balra mozognak.",
+    "option_d": "A levegő részecskéi lefelé és jobbra mozognak."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7270008",
+    "answer": "C",
+    "instruction": "Köztéri szénbányászat során eltávolítják az összes növényzetet és kőzetet a bányászat alatt lévő szénről. Mely két Föld-alkotórendszer azonnal érintett a felszíni bányászattól?",
+    "option_a": "litoszféra és légkör",
+    "option_b": "bioszféra és hidroszféra",
+    "option_c": "litoszféra és bioszféra",
+    "option_d": "légkör és hidroszféra"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7099768",
+    "answer": "D",
+    "instruction": "Amikor egy bowler elengedi a bowling labdát, az energia a labdában részben",
+    "option_a": "tárolódik a labdában, amíg el nem éri a tuskókat",
+    "option_b": "növekszik a súrlódás hatására",
+    "option_c": "átalakul kinetikai energiától gravitációs potenciális energiává",
+    "option_d": "hővé és hanggá alakul, amikor érintkezik a padlóval."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7269238",
+    "answer": "D",
+    "instruction": "A dízelmotorok sokféle tüzelőanyagot képesek elégetni. Melyik tüzelőanyag lenne a legmegújulóbb választás a dízelmotor számára?",
+    "option_a": "hagyományos dízelüzemanyag",
+    "option_b": "szárított kerozin",
+    "option_c": "hagyományosan előállított növényi olaj",
+    "option_d": "organikus módon előállított növényi olaj"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7187915",
+    "answer": "A",
+    "instruction": "Amanda és Jake a kinetikus és potenciális energiákról tanultak egy egyszerű elektromos áramkörön belül. Az áramkörben, amelyet tanulmányoznak, van egy akkumulátor, vezetékek és egy villanykörte. Mi az áramkörben található egyik potenciális energiája?",
+    "option_a": "kémiai energia az akkumulátorban",
+    "option_b": "fényenergia a villanykörtéből",
+    "option_c": "hőenergia, amely elveszik az elektromos vezetékekből",
+    "option_d": "elektromos energia, amely áramlik a villanykörten keresztül"
+  },
+  {
+    "id": "ARC-Challenge/validation/OHAT_2011_8_3",
+    "answer": "D",
+    "instruction": "Melyik cselekvés mutatja a kémiai változást?",
+    "option_a": "Hosszú hajat levágják és megszárítják.",
+    "option_b": "Egy fa ceruza élesítve lesz és eltörik.",
+    "option_c": "Egy jégkocka olvad és átlátszó folyadékká válik.",
+    "option_d": "Egy vas szög felülete narancssárga és hámlóvá válik."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7159775",
+    "answer": "A",
+    "instruction": "Janette nyomozást tart, hogy megtudja, mely ételek fárasztják el jobban. Négy különböző ételt eszik meg azonos időpontban négy napon keresztül, majd feljegyzi, hogy hogyan érzi magát. Megkéri barátját, Carmet, hogy végezze el ugyanezt a vizsgálatot, hogy megnézze, hasonló eredményeket kap-e. Melyik teszi a vizsgálatot a legnehezebbé ismételni?",
+    "option_a": "fáradtság mennyiségének mérése",
+    "option_b": "meggyőződni arról, hogy ugyanazt az ételeket eszik meg",
+    "option_c": "megfigyelések rögzítése ugyanabban a táblázatban",
+    "option_d": "meggyőződni arról, hogy az ételek azonos hőmérsékletűek"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_402239",
+    "answer": "C",
+    "instruction": "Mi a legjobb módja a természeti erőforrások megőrzésének otthon?",
+    "option_a": "Dobja az összes üveget a szemétbe.",
+    "option_b": "Használjon papírtörlőt a foltok eltávolításához.",
+    "option_c": "Rövidítsük le a zuhanyozásra fordított időt.",
+    "option_d": "Locsolja minden nap a füvet."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_184013",
+    "answer": "C",
+    "instruction": "Melyik a következő közül a legkevésbé pusztító a földre nézve?",
+    "option_a": "egy 7,2-es erősségű földrengés",
+    "option_b": "egy trópusi vihar hulláma",
+    "option_c": "egy elektromos vihar",
+    "option_d": "egy vulkánkitörés"
+  },
+  {
+    "id": "ARC-Challenge/validation/NCEOGA_2013_8_4",
+    "answer": "D",
+    "instruction": "Melyik magyarázza legjobban, hogy miért lehet kisebb a termék(ek) összes tömege a reaktáns(ak) összes súlyánál egy kémiai reakció után?",
+    "option_a": "Fizikai változás történt.",
+    "option_b": "Az reakcióban résztvevő atomok tömege kevesebb lett.",
+    "option_c": "Az új oldatban az oldhatatlant anyag kicsapódott.",
+    "option_d": "Gázok kerültek ki az atmoszférába."
+  },
+  {
+    "id": "ARC-Challenge/validation/ACTAAP_2013_7_17",
+    "answer": "D",
+    "instruction": "Egy csoport szeretné megtudni, hogy változik-e az Arkansas-on átrepülő vízi madarak száma évente. Melyik módszert kellene használniuk az információk begyűjtéséhez?",
+    "option_a": "Fogjanak be minél több madarat egy évben. Gyűjtsék össze az egyes madarak helyzetére vonatkozó adatokat.",
+    "option_b": "A jövő év tavaszának első napján számolják meg a madarak számát az állam legnagyobb tó-jában. Hasonlítsák össze az adatokat az előző év adataival.",
+    "option_c": "Helyezzenek el egy megfigyelőt az állam határához közel. Számoltassa meg velük a madarakat, ahogy berepülnek az államba. Csinálják ezt két évre.",
+    "option_d": "Válasszanak ki egy napot az éves madárvonulás idején. Számolják meg a madarak számát tíz különböző tónál a szövetségi államban. Csinálják ezt minden évben ugyanazon a napon tíz éven át."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7183015",
+    "answer": "A",
+    "instruction": "Egy friss cikk egy tudományos folyóiratban magyarázza a konvekciós áramlások és a lemeztectonika kapcsolatát. Ahogy a magmában lévő folyadék kering, készteti a földkéregi lemezek mozgását. Mi valószínűleg okozza a Föld belsejében lévő folyadékok cirkulációját?",
+    "option_a": "energia átvitel",
+    "option_b": "globális felmelegedés",
+    "option_c": "tengerárapály változások",
+    "option_d": "óceáni áramlatok"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2014_8_17",
+    "answer": "D",
+    "instruction": "Melyik az alábbiak közül az ivartalan szaporodás példája?",
+    "option_a": "A teknősök megtermékenyített tojásokat raknak homokos üregbe.",
+    "option_b": "Magok képződnek a fenyőtobozokban a por megtermékenyítése után.",
+    "option_c": "A halak kiküldik petesejtjeiket és spermasejtjeiket a víz felszínére.",
+    "option_d": "A fák gyökérszerű nyúlványokat küldenek ki, amelyek új szárakat termelnek."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_401286",
+    "answer": "B",
+    "instruction": "Sok veszélyeztetett állatot befognak, megjelölnek és visszaengednek környezetükbe. A jelölés lehet kódolt műanyag vagy fém, amelyet valahova biztonságosan tesznek az állaton. Mi a legvalószínűbb ok az állat jelölésére?",
+    "option_a": "az evési szokásaik megfigyelése céljából",
+    "option_b": "a vándorlási szokásaik megfigyelése céljából",
+    "option_c": "az alvási szokásaik megfigyelése céljából",
+    "option_d": "a szaporodási szokásaik megfigyelése céljából"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7207358",
+    "answer": "C",
+    "instruction": "Mely tevékenységnek az eredményeként írható le legjobban az atom modern elmélete?",
+    "option_a": "John Dalton korai 1800-as kísérletei",
+    "option_b": "két fontos tudós közötti viták",
+    "option_c": "sok tudós sok éves kutatása",
+    "option_d": "Demokritosz által 2000 évvel ezelőtt felvetett atom ötletei"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7015435",
+    "answer": "A",
+    "instruction": "Mi a reakcióterméke a erős savak és erős bázisok között lejátszódó reakcióknál?",
+    "option_a": "egy só és víz",
+    "option_b": "két különböző elem",
+    "option_c": "egy gyenge sav és egy gyenge bázis",
+    "option_d": "hidrogénionok és hidroxidionok"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7044678",
+    "answer": "A",
+    "instruction": "Melyik állítás magyarázza legjobban, mi történik egy levéllel, ha elveszíti a számára szükséges vizet?",
+    "option_a": "Csökken a turgor nyomása.",
+    "option_b": "Csökken a légköri nyomás.",
+    "option_c": "Nő a transzpiráció sebessége.",
+    "option_d": "Nő a fotoszintézis sebessége."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_400905",
+    "answer": "D",
+    "instruction": "A Nap kb. 1,5 x 10^8 km-re van a Földtől. A fénysebesség 3,0 x 10^8 m / s. Milyen távolság van a Nap és a Föld között fény másodpercben mérve?",
+    "option_a": "2,0 fény másodperc",
+    "option_b": "0,5 fény másodperc",
+    "option_c": "2,0 x 10^-3 fény másodperc",
+    "option_d": "5,0 x 10^2 fény másodperc"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_LBS10040",
+    "answer": "D",
+    "instruction": "Mi az, amit a fotoszintézis termel, ami segíti a növények növekedését?",
+    "option_a": "víz",
+    "option_b": "oxigén",
+    "option_c": "fehérje",
+    "option_d": "cukor"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_8_41",
+    "answer": "D",
+    "instruction": "Egy autóbaleset során a biztonsági öv alkalmazása segít megelőzni sérüléseket egy erő alkalmazásával.",
+    "option_a": "a mozgó utas erősségénél kisebb erőt alkalmaz",
+    "option_b": "a mozgó autó erősségénél nagyobb erőt alkalmaz",
+    "option_c": "az autó mozgásával azonos irányban hat",
+    "option_d": "az utas mozgásának irányával ellentétes irányban hat"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7141908",
+    "answer": "C",
+    "instruction": "A tudósok egy új, összetett szervezetfajt fedeztek fel az óceán alján. Valószínűleg",
+    "option_a": "egysejtű.",
+    "option_b": "baktériumfajta.",
+    "option_c": "soksejtű.",
+    "option_d": "nem rendelkezik szervezett maggal."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_406029",
+    "answer": "D",
+    "instruction": "Egy tudományos tevékenységhez Mia minden éjjel el kellett készítenie a Holdról egy rajzot. Ha Mia újholdat rajzolt, akkor kb. egy héttel később milyen típusú Holdat rajzolt?",
+    "option_a": "növő hold",
+    "option_b": "telihold",
+    "option_c": "újhold",
+    "option_d": "első negyed"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7105123",
+    "answer": "C",
+    "instruction": "A fosszilis leletek szerint a fajváltások általában",
+    "option_a": "akkor állnak le, amikor egy faj létrejön.",
+    "option_b": "felgyorsulnak a stabil körülmények között.",
+    "option_c": "sok generáción keresztül zajlanak.",
+    "option_d": "függetlenek a környezettől."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400339",
+    "answer": "C",
+    "instruction": "Melyik állítás nem indokolja azt, hogy az erdőben a fák különböző magasságokban nőnek?",
+    "option_a": "Van közöttük, amelyiknek kevesebb napfényre van szüksége, mint másoknak.",
+    "option_b": "A fákat különböző években ültették.",
+    "option_c": "A madarak fészeket építenek a kisebb fákban.",
+    "option_d": "A magasabb fák csak a felső ágakon hajtják a leveleiket."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415366",
+    "answer": "B",
+    "instruction": "A fák számára szükséges az oxigén. A földfelszínnel közel párhuzamos gyökerek veszik fel a fa számára szükséges oxigént. Mely élőlények segítenek a fák oxigénellátásában?",
+    "option_a": "a fakivájó madarak, amik lyukakat csinálnak a fán",
+    "option_b": "a földigiliszták, amik lyukakat csinálnak a földben a fa közelében",
+    "option_c": "a gombák, amik a fa tövében nőnek",
+    "option_d": "a mókusok, amik diót esznek a földön a fa közelében"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7168123",
+    "answer": "B",
+    "instruction": "Anita körbe futott az iskolai pályán. Futása végén több levegőt vett a tüdejébe és megnőtt a szívverése. Mely rendszerek szabályozzák Anita légzésszámát és szívverését?",
+    "option_a": "izom- és csontrendszer",
+    "option_b": "idegi és endokrin",
+    "option_c": "emésztő- és kiválasztó",
+    "option_d": "légzőrendszeri és keringési"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7141400",
+    "answer": "A",
+    "instruction": "Egy gazda több évig kukoricát ültet egy mezőn. Minden évben észreveszi, hogy az orsófélék termelése hektáronként csökkent, annak ellenére hogy az időjárási körülmények nagyon hasonlóak voltak. Milyen abiotikus tényező változása okozhatta a kukorica termelésének csökkenését a legvalószínűbben?",
+    "option_a": "csökkenő talaj tápanyagtartalom",
+    "option_b": "növekvő csapadék",
+    "option_c": "növekvő szélsebesség",
+    "option_d": "csökkenő napfény"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2012_8_23636",
+    "answer": "D",
+    "instruction": "Melyik folyamat szokott általában a leghosszabb időt igénybe venni?",
+    "option_a": "Forró láva lehűl és új kőzet formálódik.",
+    "option_b": "Vízgőz kondenzálódik és felhőt alkot.",
+    "option_c": "Egy földrengési hullám halad át a köpenyen.",
+    "option_d": "Egy óceáni medence jön létre két kontinens között."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_406705",
+    "answer": "B",
+    "instruction": "Anna osztálya megadták a feladatot, hogy megszámolják a pillangókat az iskolakertben. Annáé a többiekétől eltérő eredménye lett. Mit tegyen?",
+    "option_a": "Módosítsa a feladatot.",
+    "option_b": "Hagyja az eredményeket változatlanul.",
+    "option_c": "Illessze az eredményeit az osztályéval.",
+    "option_d": "Kérje meg a tanárt, hogy számoljon helyette."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7186148",
+    "answer": "B",
+    "instruction": "Egy diák kanállal kever egy csészényi forró csokoládét. Hogyan történik az energiaátadás a forró csokoládé és a kanál azon része között, amely a forró csokoládéban van?",
+    "option_a": "A vezetés átviszi az energiát a kanálról a forró csokoládéra.",
+    "option_b": "A vezetés átviszi az energiát a forró csokoládéról a kanálra.",
+    "option_c": "Az áramlás átviszi az energiát a kanálról a forró csokoládéra.",
+    "option_d": "Az áramlás átviszi az energiát a forró csokoládéról a kanálra."
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_28",
+    "answer": "B",
+    "instruction": "Egy adott területen a nagy madarak kisebb állatokat ettek. Ha az összes nagy madár meghalna egy betegségtől, valószínűleg a kis állatok száma a területen",
+    "option_a": "csökkennének",
+    "option_b": "növekednének",
+    "option_c": "ugyanannyi maradna"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7005478",
+    "answer": "B",
+    "instruction": "Az emberi testhőmérséklet viszonylag állandó. Melyik visszacsatolási mechanizmus segít az emberi testnek megőrizni normális hőmérsékletét hideg környezetben?",
+    "option_a": "Víz szabadul fel a bőrön.",
+    "option_b": "Az izmok kis mozgásokkal remegnek.",
+    "option_c": "A szívverés sebessége lassul.",
+    "option_d": "A tüdők több levegőt vesznek fel."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2009_8_5",
+    "answer": "D",
+    "instruction": "Melyik lenne a leginkább hatékony megoldás a légi forgalom torlódásának csökkentésére egy forgalmas repülőtéren?",
+    "option_a": "visszajelzést adni a pilótáknak a teljesítményükkel kapcsolatban",
+    "option_b": "repülőjárat információkat nyújtani az utasoknak",
+    "option_c": "növelni a repülőgépek számát a repülőtéren",
+    "option_d": "növelni a kifutópályák számát a repülőtéren"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7037573",
+    "answer": "D",
+    "instruction": "Milyen legjobb gyakorlatot követni egy kísérlet végrehajtásakor?",
+    "option_a": "óvatossággal kell eljárni, amikor forró üvegedényeket kezelünk",
+    "option_b": "ki kell kapcsolni a tüzhelyeket, ha nem használjuk őket",
+    "option_c": "tanulmányozzuk a laboratóriumi eljárásokat, mielőtt elkezdjük a kísérletet",
+    "option_d": "ellenőrizzük tanárunkkal a vegyi anyagok megsemmisítési eljárását"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2012_5_8",
+    "answer": "B",
+    "instruction": "Cameron egy új íróasztalt keres. Biztos akar lenni benne, hogy az íróasztal befér a szobája sarkába. Amikor Cameron az új íróasztalt keresi, melyik lehetőség segíthet neki a legjobban abban, hogy biztos legyen abban, hogy az íróasztal elfér?",
+    "option_a": "egy kép, amely a szoba szőnyegét mutatja",
+    "option_b": "egy diagram a szobája méreteiről",
+    "option_c": "egy rajz, amely mutatja, hogyan szerelheti össze az íróasztalt",
+    "option_d": "egy lista azokról a szerszámokról, amire szüksége lesz az íróasztal összeszereléséhez"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7092295",
+    "answer": "C",
+    "instruction": "Melyik cselekvés teremt versenyt a környezeti aggályok és az gazdasági nyereségek között?",
+    "option_a": "veszélyeztetett állatfajok védelme",
+    "option_b": "állatok visszatelepítése a természetes élőhelyükre",
+    "option_c": "erdős területek használata otthonok építésére",
+    "option_d": "városi buszok használata közlekedésre"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7131828",
+    "answer": "C",
+    "instruction": "Számos trópusi területen a szúnyogok parazitát hordozhatnak, amely fertőző betegséget okozhat az emberek között. Mi a legjobban leíró viszony a szúnyogok és az emberek között?",
+    "option_a": "ragadozó-prey",
+    "option_b": "konkurencia az erőforrásokért",
+    "option_c": "biotikus tényezők egymásra hatása",
+    "option_d": "energiaátvitel a termelő és fogyasztó között"
+  },
+  {
+    "id": "ARC-Challenge/validation/TIMSS_2003_8_pg31",
+    "answer": "B",
+    "instruction": "A legyezéssel egy tűzfa tüze forróbbá válik, mert a legyezés",
+    "option_a": "elég forróvá teszi az ételt, hogy elégjen",
+    "option_b": "több oxigént ad hozzá, amelyre a fűtésnek szüksége van",
+    "option_c": "növeli az elégetni való fa mennyiségét",
+    "option_d": "az energiaforrást biztosítja a tűz életben tartásához"
+  },
+  {
+    "id": "ARC-Challenge/validation/ACTAAP_2007_7_5",
+    "answer": "B",
+    "instruction": "Egy kísérletet végeznek egy lezárt tartállyal. A tartály hőmérséklete kezdetben 70 fok volt, és a légnyomás 20 psi volt. A tartályt felmelegítik, és a benne lévő nyomás a hőmérséklet növekedésével egyenletesen növekszik. Ha a tartály visszahűtődik 70 fokra, akkor mi lesz a légnyomás?",
+    "option_a": "10 psi",
+    "option_b": "20 psi",
+    "option_c": "30 psi",
+    "option_d": "40 psi"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7120908",
+    "answer": "D",
+    "instruction": "Egy sárkányrepülőgép egy motor nélküli repülőgép. A nagy távolságok leküzdése érdekében milyen főbb szempontokat kell figyelembe venni egy sárkányrepülőgép tervezésekor, a méretek mellett?",
+    "option_a": "környezeti hatások és tömeg",
+    "option_b": "költség és környezeti hatások",
+    "option_c": "szilárdság és költség",
+    "option_d": "tömeg és szilárdság"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_180443",
+    "answer": "C",
+    "instruction": "Melyik holdfázis következik a növekvő harmad hold után?",
+    "option_a": "csökkenő harmad hold",
+    "option_b": "növekvő szelenező hold",
+    "option_c": "telihold",
+    "option_d": "újhold"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7238963",
+    "answer": "A",
+    "instruction": "Emberben az állkapocs hasadása a C domináns allél által kódolódik. Az állkapocs hasadása nélkül pedig az állandó alléllel c kódolódik. Az a férfi, akinek a vonásai cc allélkombinációval rendelkeznek, olyan zigótát termel, amelynek női partnere Cc allélkombinációval rendelkezik. Milyen allélkombinációk léphetnek fel a zigótában?",
+    "option_a": "Cc vagy cc",
+    "option_b": "CC vagy Cc",
+    "option_c": "Csak CC",
+    "option_d": "Csak Cc"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_184765",
+    "answer": "B",
+    "instruction": "Mi a legvalószínűbb következménye a nagy, összefüggő erdőterületek kivágásának?",
+    "option_a": "Az oxigén százalékaránya az adott területen növekedni fog.",
+    "option_b": "Az erózió mértéke az adott területen növekedni fog.",
+    "option_c": "A fajok sokfélesége az adott területen növekedni fog.",
+    "option_d": "A talaj tápanyagtartalma az adott területen növekedni fog."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7235813",
+    "answer": "D",
+    "instruction": "A szén ciklus különböző tartályokon keresztül halad át a Földön. Azonban ezeknek a tartályoknak a kialakulásához szükséges idő nagyban eltér. Melyik folyamat a szén ciklusban milliók éve alatt hozza létre a jelölt tartályt?",
+    "option_a": "a szén beépítése az állati szövetekbe a táplálkozás során",
+    "option_b": "a légzéskor történő szén-dioxid kibocsátása az atmoszférába",
+    "option_c": "az atmoszférában lévő szén beépítése a növények cukraihoz",
+    "option_d": "a növényi szövetekben lévő szén lebontása olaj kialakulásához"
+  },
+  {
+    "id": "ARC-Challenge/validation/OHAT_2007_5_24",
+    "answer": "B",
+    "instruction": "Hogyan segítenek a bontók más szervezetek túlélésében az erdőben?",
+    "option_a": "A levegőbe oxigént bocsátanak ki, amit az állatok belélegeznek.",
+    "option_b": "Táplálékkal látják el a talajt, amit növények használnak a növekedéshez.",
+    "option_c": "Lakóhelyet biztosítanak az erdőben élő állatoknak, ahol el tudnak bújni.",
+    "option_d": "Napfényt használnak az élelem előállításához növények és állatok számára."
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2007_8_15",
+    "answer": "C",
+    "instruction": "Az emberi tevékenységek hatással vannak a környezetre. Melyik emberi tevékenység hat a legkisebb területre a környezetben?",
+    "option_a": "erdő égetése",
+    "option_b": "fosszilis tüzelőanyagok égetése",
+    "option_c": "új szemétlerakás ásása",
+    "option_d": "növényvédőszerrel való permetezés"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7162838",
+    "answer": "D",
+    "instruction": "A laboratóriumi patkányok szokásos étrendjükhöz képest áfonya-, eper- vagy spenótkiegészítőt kaptak. Nyolc hét után memóriatesztet és motoros képességvizsgálatot végeztek a patkányokkal. Az áfonyakivonatot kapó patkányok mutatták a legnagyobb javulást. Melyik az a független (manipulált) változó, amelyet az érintett vizsgálat során használtak?",
+    "option_a": "a motoros képességvizsgálat",
+    "option_b": "az öregedési folyamat",
+    "option_c": "a memóriateszt",
+    "option_d": "a kiegészítők"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_405973",
+    "answer": "B",
+    "instruction": "Egy kis szigeten többféle madár él. Egy vihar eltörli a növények nagy részét, amelyeknek a madarak táplálkoznak és fészket építenek rajtuk. Melyik madárfaj a legvalószínűbb, hogy túlél a szigeten?",
+    "option_a": "az a madárfaj, amelyiknek a legtöbb van belőle",
+    "option_b": "az a madárfaj, amelyik a legjobban képes alkalmazkodni",
+    "option_c": "az a madárfaj, amelyik a legtávolabb tud repülni",
+    "option_d": "az a madárfaj, amelyiknek a legerősebb a csőre"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2000_8_10",
+    "answer": "B",
+    "instruction": "Melyik állítás vélemény?",
+    "option_a": "Sok növény zöld.",
+    "option_b": "Sok növény gyönyörű.",
+    "option_c": "A növényeknek szükségük van napfényre.",
+    "option_d": "Növények képesek különböző helyeken nőni."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7103180",
+    "answer": "B",
+    "instruction": "Melyik élőhelyen van a legtöbb növényzet?",
+    "option_a": "sivatag",
+    "option_b": "erdő",
+    "option_c": "puszta",
+    "option_d": "tundra"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7221865",
+    "answer": "C",
+    "instruction": "Egy diák csoport megfigyelte, hogyan alakulnak ki buborékok, amikor a víz forr. Mi történt az anyaggal a víz fizikai átalakulása miatt?",
+    "option_a": "Az új anyag keletkezett a buborékokban.",
+    "option_b": "Az öreg anyag elpusztult, amikor a víz gázzá vált.",
+    "option_c": "Az anyag megmaradt, amikor megváltozott a formája.",
+    "option_d": "Az anyag összetétele megváltozott."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7242743",
+    "answer": "D",
+    "instruction": "Azok a fehérjék, amelyeket riboszómális alegységekben szintetizálnak, jelentős poszttranszlációs módosításokon mennek keresztül, majd csomagolódnak és az alkalmas helyre irányítódnak. Melyik sejti strukturális komponens vesz részt ilyen módosításokban?",
+    "option_a": "endoplazmatikus retikulum",
+    "option_b": "lizoszómák",
+    "option_c": "mitokondriumok",
+    "option_d": "Golgi-készülék"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7103565",
+    "answer": "C",
+    "instruction": "A magas nyomású rendszerek megakadályozzák, hogy a levegő emelkedjen a hidegebb régiókba, ahol a víz képes kondenzálódni. Mi valószínűleg a következménye, ha egy magas nyomású rendszer hosszú ideig egy területen marad?",
+    "option_a": "köd",
+    "option_b": "eső",
+    "option_c": "aszály",
+    "option_d": "tornádó"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415541",
+    "answer": "D",
+    "instruction": "Melyik ezen tárgyak közül valószínűbb, hogy fel fog úszni a vízen?",
+    "option_a": "üveggyöngy",
+    "option_b": "acél golyó",
+    "option_c": "kemény gumi labda",
+    "option_d": "asztalitenisz labda"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_9",
+    "answer": "A",
+    "instruction": "Egy diák kivesz egy jégkockatartót a fagyasztóból, majd leteszi az asztalra. A jégkockák szilárdak és hidegek. A diák elfelejti visszatenni a jégkockatartót a fagyasztóba. Másnap a jégkockák",
+    "option_a": "folyékonyak és melegek lesznek",
+    "option_b": "szilárdak és melegebbek",
+    "option_c": "folyékonyak és hidegebbek lesznek",
+    "option_d": "szilárdak és hidegebbek"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7097318",
+    "answer": "D",
+    "instruction": "Egy mókus tölgyfa ágáról ledobott egy makkot. Melyik változik, ahogy a makk leesik a földre?",
+    "option_a": "a makk tömege",
+    "option_b": "a makkra ható erő",
+    "option_c": "a makk sűrűsége",
+    "option_d": "a makk sebessége"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_8_20",
+    "answer": "B",
+    "instruction": "Az alábbi egyenlet a termékeket mutatja, amelyek akkor képződnek, amikor egy ezüst-nitrát (AgNO3) oldat reagál egy nátrium-klorid (NaCl) oldattal. AgNO3 \u0002+ NaCl (Reaktánsok) -> NaNO3 \u0002+ AgCl (Termékek) Ebben az egyenletben a reaktánsok teljes tömege",
+    "option_a": "nagyobb, mint a termékek teljes tömege",
+    "option_b": "egyenlő a termékek teljes tömegével",
+    "option_c": "egyenlő az AgCl tömegével",
+    "option_d": "kisebb az AgCl tömegénél"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415397",
+    "answer": "C",
+    "instruction": "Mi okoz struktúrát a Föld felszínén?",
+    "option_a": "Az árvíz miatt az emberek elhagyják a várost.",
+    "option_b": "Az földrengés hullámokat csinál a mezőn.",
+    "option_c": "A vulkán lávával új földet teremt.",
+    "option_d": "Az özönlés egy öbölbe cunamit okoz."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7246348",
+    "answer": "A",
+    "instruction": "Melyik jelenség nem jön létre, amikor a tektonikai lemezek szétnyílnak?",
+    "option_a": "árok",
+    "option_b": "hasadékvölgy",
+    "option_c": "óceánmedence",
+    "option_d": "közép-óceáni hátság"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7270200",
+    "answer": "A",
+    "instruction": "A tudósok megmagyarázták, hogyan lehet előállítani aminosavakat, szénhidrátokat, nukleinsavakat és zsírsavakat a Földön, mielőtt megjelentek az élő szervezetek. Melyik a következő felfedezés támogatná leginkább azt az állítást, hogy az élet spontán módon keletkezett ezekből a biokémiai anyagokból?",
+    "option_a": "Ezek az anyagok össze tudnak állni egy struktúrába, amely képes másolni magát.",
+    "option_b": "Ezeket az anyagokat a mai élő szervezetek használják.",
+    "option_c": "Ezeket az anyagokat egy másik bolygón találták meg.",
+    "option_d": "Ezek az anyagok össze tudnak állni egy vírusba."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415026",
+    "answer": "C",
+    "instruction": "Mely állatoknak lenne valószínűleg segítségük az árvízből a part menti területeken?",
+    "option_a": "őzek",
+    "option_b": "mosómedvék",
+    "option_c": "aligátorok",
+    "option_d": "prérifarkasok"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7143518",
+    "answer": "D",
+    "instruction": "A hódok fákat döntögetve és cserjéket, bokrokat gyűjtve gátakat építenek folyók és patakok felett. Az Egyesült Államokban a hódok létszáma az emberi csapdavadászat miatt csökkent. Melyik az az ökológiai következmény, amely a hódok megritkulásával jelentkezik?",
+    "option_a": "jelentős csökkenés a halpopulációban",
+    "option_b": "jelentős növekedés az erdő ökoszisztémájában",
+    "option_c": "jelentős növekedés a vízgőzölésben",
+    "option_d": "jelentős csökkenés a tavak számában"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7032340",
+    "answer": "D",
+    "instruction": "Az ábrázolások közül melyik ábrázolja a természetes világot egy modell segítségével?",
+    "option_a": "egy könyv olvasása egy prérikutya közösségről",
+    "option_b": "egy kép nézése egy prérikutya közösségről",
+    "option_c": "egy prérikutya közösség kutatása az interneten keresztül",
+    "option_d": "egy prérikutya közösség megfigyelése az állatkert bemutatójában"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_415263",
+    "answer": "C",
+    "instruction": "Melyik az alábbiak közül található egy eukarióta sejtben, de nem található egy prokarióta sejtben?",
+    "option_a": "DNS",
+    "option_b": "citoplazma",
+    "option_c": "egy sejtmag",
+    "option_d": "egy sejthártya"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7090720",
+    "answer": "B",
+    "instruction": "Az etanol egy kukoricából készült alternatív üzemanyag. Mi az egyik kedvezőtlen hatása az etanol használatának üzemanyagként?",
+    "option_a": "aüzemanyag termelésének költségének csökkenése",
+    "option_b": "a mezőgazdasági területek csökkenése az élelmiszer-termelés számára",
+    "option_c": "a fosszilis üzemanyagok fogyasztásának növekedése",
+    "option_d": "növekedés a szén-dioxid-kibocsátásban az autóvezetés miatt"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_410964",
+    "answer": "D",
+    "instruction": "A diákok tanulmányozzák, hogy hogyan működik egy ajtócsengő. Melyik lehet a legvalószínűbb megfigyelés az vizsgálat során?",
+    "option_a": "Minden ajtócsengő kellemes hangot ad ki.",
+    "option_b": "Az elem a legjobb áramforrás az ajtócsengőhöz.",
+    "option_c": "A legtöbb ember előnyben részesíti az ajtócsengő használatát az ajtón kopogtatással szemben.",
+    "option_d": "Az ajtócsengő egy darab drótot használ, amely egy mágnes köré van tekerve."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7057313",
+    "answer": "A",
+    "instruction": "A szívizom legjobban így jellemezhető:",
+    "option_a": "ugyanazok a sejtek, amelyek együtt dolgoznak.",
+    "option_b": "különböző rendszerek, amelyek együtt dolgoznak.",
+    "option_c": "azonos szervfajták, amelyek egy rendszert alkotnak.",
+    "option_d": "különböző szervek, amelyek egy funkciót teljesítenek."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_402101",
+    "answer": "D",
+    "instruction": "Mely funkciók találhatók mind a Föld, mind a Hold felszínén?",
+    "option_a": "növények",
+    "option_b": "óceánok",
+    "option_c": "állatok",
+    "option_d": "hegyek"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2010_8_12010",
+    "answer": "C",
+    "instruction": "Néhány baktériumfajta termel egy olyan anyagot, ami mérgező a rovarokra, de emberre ártalmatlan. A tudósok megtalálták a gént, amely felelős az anyag termeléséért. Melyik az alábbiak közül a legjobb ok arra, hogy beépítsük ezt a gént kukoricanövényekbe?",
+    "option_a": "A kukorica gyorsabban fog nőni.",
+    "option_b": "Kevesebb trágya lesz szükséges.",
+    "option_c": "Kevesebb növényvédőszer lesz szükséges.",
+    "option_d": "A kukorica táplálóbb lesz."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7038133",
+    "answer": "B",
+    "instruction": "Egy diák azon tűnődik, hogyan tudná kiszámolni a golyók sebességét, miközben egy lejtőn gurulnak le. Melyik információ a legkevésbé fontos a diák számára?",
+    "option_a": "minden golyó mérete",
+    "option_b": "a lejtő vastagsága",
+    "option_c": "a lejtő hossza",
+    "option_d": "az idő, amire a golyónak a lejtőn való áthaladása szükséges"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_407169",
+    "answer": "D",
+    "instruction": "Egy élőhely, amelyben van egy kis tó, hosszan eltartható szárazság esetén melyik állítás valószínűbb, hogy igaz a halak nagy részére?",
+    "option_a": "Hozzáigazodnak a száraz környezethez.",
+    "option_b": "Más vízforrásokon élnek tovább.",
+    "option_c": "Elköltöznek egy másik élőhelyre.",
+    "option_d": "Nem tudnak életben maradni."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7103215",
+    "answer": "C",
+    "instruction": "Egy diák szeretné kideríteni, hogy a fokhagymának van-e hatása a gomba faj növekedésére. Több gomba kultúrát növesztenek ugyanazon mennyiségű agarban és fényben. Minden mintához különböző mennyiségű fokhagymát adnak. Mi az független változó ebben a vizsgálatban?",
+    "option_a": "agar mennyisége",
+    "option_b": "fény mennyisége",
+    "option_c": "fokhagyma mennyisége",
+    "option_d": "növekedés mennyisége"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2013_8_29432",
+    "answer": "B",
+    "instruction": "Melyik a következő növénysejt részeinek funkciója a leginkább hasonlít az állati csontváz funkciójához?",
+    "option_a": "sejthártya",
+    "option_b": "sejtfal",
+    "option_c": "kloroplasztisz",
+    "option_d": "mag"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7018008",
+    "answer": "A",
+    "instruction": "Melyik jellemzi legjobban az atom elektromos tulajdonságait?",
+    "option_a": "semleges",
+    "option_b": "szigetelt",
+    "option_c": "pozitív töltéssel rendelkező",
+    "option_d": "negatív töltéssel rendelkező"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7166530",
+    "answer": "B",
+    "instruction": "Ira-nak csoportos laboratóriumi vizsgálatot kellett teljesítenie az iskola után. Az anyagokat, vegyszereket, felszerelést és védőfelszerelést tanárától kapta meg. Gyorsan, de óvatosan elvégezte a lépéseket a írásbeli kísérleti eljárás szerint. Az idő megspórolása érdekében úgy döntött, hogy megfigyeléseit és eredményeit később rögzíti. Melyik képességet érintheti negatívan a döntése a leginkább?",
+    "option_a": "a képesség, hogy kövesse az utasításokat",
+    "option_b": "a képesség, hogy érvényes jelentést írjon",
+    "option_c": "a képesség, hogy betartsa a biztonsági előírásokat",
+    "option_d": "a képesség, hogy következtetést vonjon le"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400047",
+    "answer": "B",
+    "instruction": "Egy diák egy csokoládét hagyott az asztalon, ahol kisütött a nap. Ahogy a csokoládé elolvadt, mely tulajdonsága változott meg?",
+    "option_a": "tömege",
+    "option_b": "alakja",
+    "option_c": "súlya",
+    "option_d": "összetétele"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7044100",
+    "answer": "C",
+    "instruction": "Hogyan lehet kimeríteni a talaj tápanyag tartalmát mezőgazdasági területeken?",
+    "option_a": "túllegeltetés",
+    "option_b": "szél erózió",
+    "option_c": "növekvő öntözés",
+    "option_d": "növekvő trágyázás"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7075145",
+    "answer": "A",
+    "instruction": "Melyik folyamat teszi lehetővé a sejtek számára, hogy vizet vegyenek fel?",
+    "option_a": "ozmózis",
+    "option_b": "mitózis",
+    "option_c": "fotoszintézis",
+    "option_d": "lélegzés"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_192290",
+    "answer": "D",
+    "instruction": "Bár ugyanabba a családba tartoznak, egy sas és egy pelicán különbözőek. Mi az egyik különbség közöttük?",
+    "option_a": "az étkezési preferenciájuk a halra vonatkozóan",
+    "option_b": "a repülés képességük",
+    "option_c": "a szaporodásuk módja",
+    "option_d": "az élelem elfogásának módja"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7093975",
+    "answer": "D",
+    "instruction": "Mi a természetes oka a folyók kiszáradásának?",
+    "option_a": "szennyezés",
+    "option_b": "erózió",
+    "option_c": "vízszint emelkedése",
+    "option_d": "csapadék hiánya"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7085820",
+    "answer": "D",
+    "instruction": "Amikor a víz kezd fagyni, a vízmolekulák",
+    "option_a": "hőenergiát nyernek.",
+    "option_b": "szabadabban mozognak.",
+    "option_c": "nagyobb méretűek lesznek.",
+    "option_d": "csökkentik sebességüket."
+  },
+  {
+    "id": "ARC-Challenge/validation/MEA_2016_5_6",
+    "answer": "C",
+    "instruction": "Egy vízzel teli léggömböt tesznek a fagyasztóba. Mely tulajdonsága változik meg a víznek, ahogy eléri a fagyáspontját?",
+    "option_a": "szín",
+    "option_b": "tömeg",
+    "option_c": "állapot",
+    "option_d": "súly"
+  },
+  {
+    "id": "ARC-Challenge/validation/NCEOGA_2013_5_43",
+    "answer": "B",
+    "instruction": "Mi történik meg mielőtt felhők képződnek?",
+    "option_a": "A vízgőznek melegebbnek kell lennie.",
+    "option_b": "A vízgőznek energiát kell vesztenie.",
+    "option_c": "A csapadéknak el kell kezdenie esni és elfutni.",
+    "option_d": "A transzpirációnak hozzá kell adnia a vízpárákat az atmoszférához."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7250023",
+    "answer": "A",
+    "instruction": "Minden sejt, prokarióta és eukarióta egyaránt, rendelkezik néhány közös jellemzővel. Melyik sejttulajdonság található mindkét típusú sejtben?",
+    "option_a": "riboszóma",
+    "option_b": "kloroplaszta membrán",
+    "option_c": "mag",
+    "option_d": "endoplazmatikus retikulum"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7003955",
+    "answer": "D",
+    "instruction": "Milyen töltéssel rendelkeznek az egyéni hajszálak, amikor az elektrosztatikus töltés miatt felállnak?",
+    "option_a": "semleges töltések",
+    "option_b": "semleges kisülések",
+    "option_c": "állandó pozitív töltés",
+    "option_d": "ideiglenes pozitív töltések"
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2010_5_18",
+    "answer": "D",
+    "instruction": "A szél egy természetes erőforrás, amely hasznos a Chesapeake-öböl délkeleti partján. Hogyan lehet a legjobban kihasználni az emberek számára?",
+    "option_a": "A szél olajfoltokat hozhat a tengerbe.",
+    "option_b": "A szelet átalakíthatnák fosszilis tüzelőanyaggá.",
+    "option_c": "A szél a levegőszennyezést fújhatja a partra.",
+    "option_d": "A szél átalakítható elektromos energiává."
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_2",
+    "answer": "D",
+    "instruction": "Mennyi idő alatt tesz meg az Föld egy kört a Nap körül?",
+    "option_a": "egy nap",
+    "option_b": "egy hét",
+    "option_c": "egy hónap",
+    "option_d": "egy év"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_411306",
+    "answer": "D",
+    "instruction": "Néhány növényfajta hasonló jellemzőkkel bír. Melyik jellemzőt osztják meg a legtöbb növénnyel?",
+    "option_a": "gyökereik mérete",
+    "option_b": "levelük alakja",
+    "option_c": "viráguk színe",
+    "option_d": "sejtek felépítése"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7241115",
+    "answer": "C",
+    "instruction": "Mely esemény valószínűleg lehetővé tette a csontos állatok sokféleségének robbanásszerű növekedését a kréta időszakban?",
+    "option_a": "a Pangea szuperkontinens kialakulása",
+    "option_b": "intenzív vulkánikus tevékenység",
+    "option_c": "hűvösebb hőmérséklet",
+    "option_d": "emelkedő tengerszint"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7042735",
+    "answer": "C",
+    "instruction": "Egy víz és egy nem mérgező anyag oldatát állítják elő a természettudományos osztályban. Mi a teendő az oldattal a bemutató befejezése után?",
+    "option_a": "Ezt le kell önteni egy lefolyóba.",
+    "option_b": "Ezt egy újrahasznosító tartályba kell önteni.",
+    "option_c": "Ezt egy hulladék tartályba kell önteni.",
+    "option_d": "Ezt egy veszélyes anyagok ártalmatlanítására szolgáló tartályba kell helyezni."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2004_9_13",
+    "answer": "D",
+    "instruction": "Melyik az alábbiak közül a fix szorító legfontosabb típusú igénybevétele egy darab fára?",
+    "option_a": "feszültség",
+    "option_b": "nyírófeszültség",
+    "option_c": "csavarófeszültség",
+    "option_d": "nyomás"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_176015",
+    "answer": "D",
+    "instruction": "Egy diák-csoport két anyagot vizsgál, hogy kiderítse, melyik az étkezési só és melyik az étkezési cukor. Hogyan azonosítsák legjobban az anyagokat a diákok?",
+    "option_a": "az alapján, hogy feloldódnak-e vízben",
+    "option_b": "az anyag színének tanulmányozásával",
+    "option_c": "megfigyelve, hogy tapadnak-e felületekre",
+    "option_d": "kristályok alakjának vizsgálatával"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7215180",
+    "answer": "C",
+    "instruction": "Tudósok gránit mintákat gyűjtenek Nyugat-Nevada hegyeiben. Melyik formátum lenne a legjobb arra, hogy megjelenítsék és összehasonlítsák egy gránit mintában található ásványi anyagok százalékát?",
+    "option_a": "oszlopdiagram",
+    "option_b": "vonalgrafikon",
+    "option_c": "kördiagram",
+    "option_d": "szórási diagram"
+  },
+  {
+    "id": "ARC-Challenge/validation/TIMSS_2007_4_pg26",
+    "answer": "B",
+    "instruction": "Egy állatnak hat lába van. Mi az, amit valószínűleg mondják róla?",
+    "option_a": "egy pók",
+    "option_b": "egy légy",
+    "option_c": "egy gyík",
+    "option_d": "egy százlábú"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_177818",
+    "answer": "C",
+    "instruction": "Az időtartam, amely az éjjel és a nappal között az Földön eltelt, az év folyamán változik. Ez az időtartam változás elsősorban az alábbiak által magyarázható:",
+    "option_a": "a Nap pozíciója.",
+    "option_b": "a Hold pozíciója.",
+    "option_c": "Az Föld dőlésszöge",
+    "option_d": "Az Föld távolsága a Naptól"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_405487",
+    "answer": "B",
+    "instruction": "Egy évben a parkban lévő tölgyfák több makkot állítottak elő, mint általában. A következő évben a mókusok populációja is növekedett. Mi magyarázza legjobban, miért voltak több mókusok a következő évben?",
+    "option_a": "Árnyékos területek növekedtek.",
+    "option_b": "Táplálékforrások növekedtek.",
+    "option_c": "Az oxigénszint növekedett.",
+    "option_d": "Elérhető vízmennyiség növekedett."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400612",
+    "answer": "C",
+    "instruction": "A Föld felszíne állandóan változik a kőzetek kimosódása és kopása miatt. A Holdon viszont kevés a kőzetek kimosódása és kopása, mert",
+    "option_a": "nincs vonzás a Hold felszínén.",
+    "option_b": "vékony az atmoszférája a Holdnak.",
+    "option_c": "nincs levegő és víz a Holdon.",
+    "option_d": "nincs élőlény a Holdon."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400655",
+    "answer": "A",
+    "instruction": "Melyik az általánosan legnagyobb változás, amit megfigyelhetünk a nyár és a tél között?",
+    "option_a": "a nappali fény mennyisége",
+    "option_b": "az óceán hullám magassága",
+    "option_c": "a viharok száma",
+    "option_d": "a felhők mérete"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415735",
+    "answer": "C",
+    "instruction": "Egy meleg napon Anya jégkockát tett a járda felé. Az jégkocka hamarosan olvadt, és pocsolyát képzett. Milyen folyamat idézte elő az olvadást?",
+    "option_a": "A hő áramlása a jégkockán keresztül konvekcióval történt.",
+    "option_b": "A hő sugárzással áramlott a levegőből a jégkockába.",
+    "option_c": "A hő a levegőből és a járdából a vezetéssel áramlott a jégkockába.",
+    "option_d": "A hő a jégkockán keresztül a vezetéssel áramlott a járdába."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2005_8_5",
+    "answer": "D",
+    "instruction": "Az Napközelségben lévő Merkúrnek extrém felszíni hőmérsékletei vannak, amelyek napsütésben 465°C, míg sötétségben -180°C-ra terjednek. Miért van ekkora hőmérsékletingadozás a Merkúron?",
+    "option_a": "A bolygó túl kicsi ahhoz, hogy megőrizze a hőt.",
+    "option_b": "A bolygó csak az egyik oldalról forrósodik fel.",
+    "option_c": "A bolygó visszatükrözi a hőt a sötét oldaláról.",
+    "option_d": "A bolygónak nincs légköre, hogy megőrizze a hőt."
+  },
+  {
+    "id": "ARC-Challenge/validation/TIMSS_2003_8_pg14",
+    "answer": "B",
+    "instruction": "Miért lennének hím rovarok kezelve annak érdekében, hogy a spermatermelésüket megakadályozzák?",
+    "option_a": "Hogy növeljék a nőstény rovarok számát",
+    "option_b": "Hogy csökkentsék a rovarok összes populációját",
+    "option_c": "Hogy új rovarfajokat hozzanak létre",
+    "option_d": "Hogy megakadályozzák a rovarok párzását"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_20",
+    "answer": "D",
+    "instruction": "Az fa törzsének fő funkciója az",
+    "option_a": "levegő biztosítása",
+    "option_b": "gyümölcs termesztése",
+    "option_c": "napfény sugárzásának elősegítése",
+    "option_d": "támogatás biztosítása"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7017990",
+    "answer": "A",
+    "instruction": "Melyik cselekvés nem jelenti a biztonsági eljárások betartását a laborban?",
+    "option_a": "kémiai minták ízlelése",
+    "option_b": "hőálló kesztyű használata, ha az üvegáru forró",
+    "option_c": "a hosszú haj összefogása",
+    "option_d": "kémiai fröccsenés lemosása sok vízzel"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7264023",
+    "answer": "D",
+    "instruction": "Melyik elem valószínűtlen, hogy megtalálható egy szerves vegyületben?",
+    "option_a": "szén",
+    "option_b": "hidrogén",
+    "option_c": "nitrogén",
+    "option_d": "kálium"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7138513",
+    "answer": "A",
+    "instruction": "Egy szigeten sokféle madárfaj él, nincs bennszülött kígyófaj, és kevés nagyméretű ragadozó van. A barna kígyók madártetemeket esznek. Milyen egyéb hatásokra lehet számítani, ha véletlenül barna kígyók kerülnek a szigetre?",
+    "option_a": "több kígyó és kevesebb madár",
+    "option_b": "több kígyó és több madár",
+    "option_c": "kevesebb kígyó és kevesebb madár",
+    "option_d": "kevesebb kígyó és több madár"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_401663",
+    "answer": "B",
+    "instruction": "Egy diák hogyan tarthatja meg a forrásokat azáltal, hogy mely tárgyakat helyezi egy komposzt kupacba?",
+    "option_a": "trágyák",
+    "option_b": "bab növények",
+    "option_c": "üveg béka üvegek",
+    "option_d": "műanyag pipetták"
+  },
+  {
+    "id": "ARC-Challenge/validation/ACTAAP_2011_5_3",
+    "answer": "C",
+    "instruction": "Víz sok üledéket szállít magával, ahogy az áramlik a folyókban és patakokban lefelé. Ha egy folyóban vagy egy patakban a víz gyorsan folyik, majd lassabban folytatja, mi történik valószínűleg az üledékrészecskékkel, amelyeket a víz szállít?",
+    "option_a": "A vízben lévő nagyobb üledékrészecskék mennyisége nőni fog.",
+    "option_b": "A vízben lévő kisebb üledékrészecskék száma növekedni fog.",
+    "option_c": "A vízben lévő nagyobb üledékrészecskék száma csökkenni fog.",
+    "option_d": "A vízben lévő kisebb üledékrészecskék száma csökkenni fog."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7195440",
+    "answer": "B",
+    "instruction": "Évente kb. 50 millió hektár trópusi esőerdőt vágnak ki. Milyen hatás valószínűleg következik be ezeknek az erdőknek az eltávolításából?",
+    "option_a": "csökken a talajerózió",
+    "option_b": "csökken a biológiai sokféleség",
+    "option_c": "javul az ivóvízminőség",
+    "option_d": "nincs hatása a vízminőségre"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7220378",
+    "answer": "C",
+    "instruction": "A klímaváltozás csökkentheti a világ óceánjain úszó jég mennyiségét. Hogyan változtathatja meg ez a legnagyobb valószínűséggel az étel ellátást a tengeri fogyasztó szervezetek számára?",
+    "option_a": "a tengervízben oldott só mennyiségének csökkentésével",
+    "option_b": "a víz képességének növelésével arra, hogy különálló rétegekre szakadjon",
+    "option_c": "a cefalópoda mikroorganizmusok számára szükséges hőmérsékleti feltételek változásával",
+    "option_d": "a szervezetek gyors reakcióit gátló tényezőkkel"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7234483",
+    "answer": "B",
+    "instruction": "Melyik tulajdonsággal rendelkező előbiotikus anyagok fejlődése volt az élet keletkezésének földi elméletének alapja?",
+    "option_a": "stabil elkülönülés a környezettől",
+    "option_b": "önszaporodó szerkezetekké összeszerelődés",
+    "option_c": "tulajdonságok tárolása kémiai kódolt formában",
+    "option_d": "energiatároló molekulák felhalmozódása"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7179358",
+    "answer": "B",
+    "instruction": "A klimax tűztársulás stabilitásának fenntartásához időszakos erdőtüzekre van szükség. Melyik lehetne a legvalószínűbb következménye annak, ha megakadályozzuk a természetes tűzek előfordulását ebben az ökoszisztémában?",
+    "option_a": "A fenyőfajok gyorsabban szaporodnának.",
+    "option_b": "Lombhullató fajok helyettesítenék a fenyőfajokat.",
+    "option_c": "A területek égése könnyebben ellenőrizhető lenne.",
+    "option_d": "A fák elterjednének az előzőleg nem erdős területekre is."
+  },
+  {
+    "id": "ARC-Challenge/validation/NCEOGA_2013_8_40",
+    "answer": "C",
+    "instruction": "Hogyan befolyásolja a dohányzás a testi aktivitásban való sikerességet?",
+    "option_a": "Zavarja az egyensúly és koordináció képességét.",
+    "option_b": "Csökkenti a gyors döntéshozatali képességet.",
+    "option_c": "Csökkenti az állóképességet és a kardiovaszkuláris hatékonyságot.",
+    "option_d": "Csökkenti az izomösszehúzódás sebességét és erejét."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7100695",
+    "answer": "D",
+    "instruction": "Mely földtani szerkezet valószínűleg a legtöbb időt veszi igénybe a kialakuláshoz?",
+    "option_a": "egy törés",
+    "option_b": "egy víznyelő",
+    "option_c": "egy folyó kanyarulata",
+    "option_d": "egy hegyvonulat"
+  },
+  {
+    "id": "ARC-Challenge/validation/MEA_2016_5_7",
+    "answer": "B",
+    "instruction": "Egy tanuló megfigyeli, hogy egy egysejtű szervezet és egy növényi levél hasonló zöld részekkel rendelkezik. A tanuló úgy gondolja, hogy mindkét szervezet a zöld részeket használja az élethez. Milyen bizonyíték támasztja alá azt a következtetést, hogy mindkét szervezetnek szüksége van a zöld részekre az élethez?",
+    "option_a": "Mindkét szervezet használja a zöld részeket a mozgáshoz.",
+    "option_b": "Mindkét szervezet elpusztul, ha eltávolítják a zöld részeket.",
+    "option_c": "A zöld részeket mindkét szervezetben megfigyelhetően világítást bocsátanak ki.",
+    "option_d": "A zöld részek mindkét szervezetben képesek több zöld részt létrehozni."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7027230",
+    "answer": "A",
+    "instruction": "Melyik témakör lenne a legmegfelelőbb kutatási terület az ember által okozott környezeti problémák csökkentésére?",
+    "option_a": "napfény átalakítása elektromos árammá",
+    "option_b": "új szénlerakóhelyek keresése",
+    "option_c": "olajtartályok keresése",
+    "option_d": "erdők átalakítása szántófölddé"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7245053",
+    "answer": "B",
+    "instruction": "Melyik következő vegyület szerves vegyület?",
+    "option_a": "víz (H2O)",
+    "option_b": "hexán (C6H14)",
+    "option_c": "ammónia (NH3)",
+    "option_d": "kén-dioxid (SO2)"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_8_12",
+    "answer": "A",
+    "instruction": "Egy növény magjának fő funkciója az, hogy",
+    "option_a": "tárolja az élelmet, ami a kezdeti fejlődéshez használható",
+    "option_b": "vonzza a port, ami a fejlődés során felhasználható",
+    "option_c": "felszívja a fényenergiát a fotoszintézis során",
+    "option_d": "termel klorofillt a fotoszintézis során"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7189035",
+    "answer": "D",
+    "instruction": "Scott az eredményeket nézegette egy piros és egy fehér virág keresztezésének eredményéből. Melyik az a keresztezés, amelyben a nem teljes dominancia jelenik meg?",
+    "option_a": "0% rózsaszínű virágok",
+    "option_b": "25% fehér virágok",
+    "option_c": "50% piros virágok",
+    "option_d": "100% rózsaszínű virágok"
+  },
+  {
+    "id": "ARC-Challenge/validation/LEAP_2006_8_10412",
+    "answer": "B",
+    "instruction": "Jolie reggelire kívánt egy főtt tojást enni. Beletette a tojást forró vízbe tizenöt percre. Amikor feltörte a héját, akkor láthatóvá vált, hogy a tojás folyékony részei megszilárdultak. Ennek az oka az volt, hogy",
+    "option_a": "a melegítés eltávolította a vizet a tojásból.",
+    "option_b": "a melegítés megváltoztatta a tojás kémiai kötéseit.",
+    "option_c": "a forrás megemelte a szilárd tojásrészeket a felszínre.",
+    "option_d": "az a baktérium, amely a tojás folyékony részeiben élt, elpusztult."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400172",
+    "answer": "A",
+    "instruction": "Melyik tudós állította, hogy a Föld a világegyetem középpontja?",
+    "option_a": "Arisztotelész",
+    "option_b": "Kopernikusz",
+    "option_c": "Einstein",
+    "option_d": "Newton"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2005_5_21",
+    "answer": "D",
+    "instruction": "A nőstény fókák általában évről évre visszatérnek ugyanarra a tengerpartra, hogy szülessenek kölykeik. Ha az emberek ismételten zavarják őket azokon a strandokon, akkor valószínűleg hogyan reagálnak a fókák?",
+    "option_a": "Megváltoztatják a színüket.",
+    "option_b": "Több kölyköt szülnének.",
+    "option_c": "Gyakrabban vadásznának az élelem után.",
+    "option_d": "Más strandokon szülnének kölykeket."
+  },
+  {
+    "id": "ARC-Challenge/validation/MEA_2010_8_11",
+    "answer": "A",
+    "instruction": "Amikor a folyékony vízmolekulák mozgása lelassul, mi történik legvalószínűbbül?",
+    "option_a": "A folyékony víz szilárd anyaggá változik.",
+    "option_b": "A folyékony víz lecsapódik.",
+    "option_c": "A folyékony víz kémiai változáson megy át.",
+    "option_d": "A folyékony víz gőzzé válik."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7187058",
+    "answer": "A",
+    "instruction": "Johnny minden este olvas egy lámpa mellett, amelyet egy izzó világít meg. Mi a legjobb jel arra, hogy az elektromos energia átadása a lámpába hatástalan?",
+    "option_a": "Az izzó forró lesz.",
+    "option_b": "Az izzó fényt bocsát ki.",
+    "option_c": "A lámpa rézdrótokat használ.",
+    "option_d": "A lámpát ki lehet kapcsolni egy kapcsolónál."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7185133",
+    "answer": "A",
+    "instruction": "Tracey tanulmányozta az állatok szerkezeti szervezetét. Mely szintű szerkezeti szervezet írja le leginkább a tojást?",
+    "option_a": "egy sejt",
+    "option_b": "egy szövet",
+    "option_c": "egy rendszer",
+    "option_d": "egy szerv"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7183733",
+    "answer": "B",
+    "instruction": "Az Everglades-ben az amerikai alligátor testi állapota szorosan összefügg a vízmélységgel. Amikor a vízszint túl magasra emelkedik, az állatfajok szélesebb területre szétszóródnak, ez az élelmiszerforrások elégtelen megtalálása miatt a testi állapot csökkenéséhez vezet. Amikor a vízszint csökken, az állatfajok kisebb területeken gyűlnek össze, ami lehetővé teszi az alligátorok hatékonyabb vadászatát. Ez a szituáció példa arra, hogy az alligátorok túlélése milyen mértékben függ melyik tényező korlátozásától?",
+    "option_a": "lebomlási sebesség",
+    "option_b": "préda élőhely területe",
+    "option_c": "termelői kibocsátás",
+    "option_d": "víz forgása"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7205345",
+    "answer": "D",
+    "instruction": "Ha asztali só (NaCl) kerül előállításra, akkor melyik az alábbiak közül írja le legjobban a nátrium (Na) és a klór (Cl) atómok cselekedeteit?",
+    "option_a": "Nátrium atomok kicserélik a klór-atomokat.",
+    "option_b": "A nátrium- és klór-atomok összekeverednek.",
+    "option_c": "A nátrium atomok feloldódnak a klór atomokban.",
+    "option_d": "A nátrium- és klór-atomok kémiai kötést hoznak létre."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2002_5_6",
+    "answer": "D",
+    "instruction": "A kolibrik képes a levegőben lebegni és nagyon gyorsan repülni. Ez az alábbiakban mindegyik esetben előnyös, kivéve az alábbiakban:",
+    "option_a": "gyorsan elmenekülve a ragadozóktól.",
+    "option_b": "könnyen elérve a virágokat.",
+    "option_c": "egy helyben maradva a nektár elfogyasztásához.",
+    "option_d": "melegen tartva a tojásokat."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7166180",
+    "answer": "B",
+    "instruction": "A növények növekedését környezeti tényezők, mint például a gravitáció befolyásolják. Ha egy magot oldalra fordítva engedünk kicsírázni és növekedni, akkor mi fog legvalószínűbbé válni?",
+    "option_a": "a gyökerek lefelé nőnek, a szárak is lefelé nőnek",
+    "option_b": "a gyökerek lefelé nőnek, a szárak felfelé nőnek",
+    "option_c": "a gyökerek felfelé nőnek, a szárak lefelé nőnek",
+    "option_d": "a gyökerek felfelé nőnek, a szárak felfelé nőnek"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2012_5_23632",
+    "answer": "C",
+    "instruction": "Egy diák egy olyan sziklát figyelt meg, amely sok kis homokszemcse rétegződéséből állt, világos és sötét színű rétegekben. Melyik állítás írja le legjobban, hogy ez a típusú kő hogyan alakulhatott ki?",
+    "option_a": "A homokot lelapították, majd egy gleccser alatt megfagyasztották.",
+    "option_b": "A vulkán lávája gyorsan kihűlt vízben.",
+    "option_c": "Egy folyó üledékei lassan összenyomódtak és egymáshoz képest megszilárdultak.",
+    "option_d": "Ásványi lerakódások megszilárdultak a föld alatti barlangokban."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7267593",
+    "answer": "A",
+    "instruction": "Melyik természeti katasztrófa a leginkább kiszámíthatatlan?",
+    "option_a": "földrengések",
+    "option_b": "hurrikánok",
+    "option_c": "tornádók",
+    "option_d": "havazások"
+  },
+  {
+    "id": "ARC-Challenge/validation/NAEP_2005_8_S11+14",
+    "answer": "B",
+    "instruction": "Ember NEM tud életben maradni az alábbiak közül melyik elvesztése esetén?",
+    "option_a": "A vakbél",
+    "option_b": "A máj",
+    "option_c": "Egy tüdő",
+    "option_d": "Egy vese"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7218750",
+    "answer": "C",
+    "instruction": "Melyik víztározó típus szolgáltathat mindig édesvizet?",
+    "option_a": "belső tavak",
+    "option_b": "folyó delták",
+    "option_c": "hegymászó gleccserek",
+    "option_d": "trópusi tengerek"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7026198",
+    "answer": "A",
+    "instruction": "A kripton elem egy olyan gáz, amely majdnem semmilyen kémiai aktivitást nem mutat. Hasonló tulajdonságokkal rendelkező másik elem megkereséséhez egy diáknak mi alapján kell keresnie a Periodusos Rendszerben?",
+    "option_a": "egy olyan elem azonos csoportjában",
+    "option_b": "egy olyan elem azonos periódusában",
+    "option_c": "egy olyan elemmel azonos nettó töltésű",
+    "option_d": "egy olyan elemmel azonos atomtömegű"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7081760",
+    "answer": "B",
+    "instruction": "Egy újonnan felfedezett szervezet osztályozása érdekében egy tudós vizsgálja az élőlény szerkezetét, DNS-ét és életciklusát. A tudós valószínűleg a vizsgálat eredményeit fogja használni arra, hogy",
+    "option_a": "új tudományos módszereket dolgozzon ki.",
+    "option_b": "módosítsa a tudományos ismereteket.",
+    "option_c": "új hipotéziseket fogalmazzon meg.",
+    "option_d": "megcáfolja a tudományos elméleteket."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7130603",
+    "answer": "C",
+    "instruction": "Melyik az alább felsorolt mennyiségek közül van olyan, amelyet nem joulban mérünk?",
+    "option_a": "hő",
+    "option_b": "fény",
+    "option_c": "teljesítmény",
+    "option_d": "munka"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7074865",
+    "answer": "C",
+    "instruction": "Mi igaz az algákra, baktériumokra és virágos növényekre?",
+    "option_a": "Azok szervetlenek.",
+    "option_b": "Mindeniknek van klorofillja.",
+    "option_c": "Azok sejtekből állnak.",
+    "option_d": "Mindent más élő organizmustól táplálkoznak."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7042700",
+    "answer": "D",
+    "instruction": "Melyik eszköz nem lenne szükséges állati boncolás során?",
+    "option_a": "kesztyű",
+    "option_b": "szemüveg",
+    "option_c": "laborköpeny",
+    "option_d": "biztonsági zuhany"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7071365",
+    "answer": "D",
+    "instruction": "Melyik állítás a pillangókról és lepkékről tény?",
+    "option_a": "A pillangók szebbek és szórakoztatóbbak, mint a lepkék.",
+    "option_b": "A pillangók jobban tudnak repülni, mint a lepkék.",
+    "option_c": "A pillangók és a lepkék sokkal boldogabbak nappal.",
+    "option_d": "A pillangók és a lepkék ugyanannyi lábakkal rendelkeznek."
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2007_4_52",
+    "answer": "C",
+    "instruction": "A növényeknek és az állatoknak szükségük van az ételre a növekedéshez. Mi történik a növények által termelt ételek túlnyomó részével?",
+    "option_a": "Az étel gázként szabadul fel.",
+    "option_b": "Az étel vizre változik.",
+    "option_c": "Az étel a későbbi felhasználásra tárolódik.",
+    "option_d": "Az étel felhasználódik a napfény elnyeléséhez."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7026443",
+    "answer": "D",
+    "instruction": "Melyik tulajdonság öröklődik egy háziállat kutyában?",
+    "option_a": "A kutya kerüli a házi macskát.",
+    "option_b": "A kutya átugrik egy kanapéra.",
+    "option_c": "A kutya odafordul ha megszólítod.",
+    "option_d": "A kutya nyálaz ha élelmet szagol."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7008138",
+    "answer": "B",
+    "instruction": "Melyik állítás írja le az aszteroidákat és a kisbolygókat?",
+    "option_a": "Az aszteroidák gázokból állnak, és a kisbolygók szilárdak.",
+    "option_b": "Az aszteroidák szilárdak, és a kisbolygók gázokból állnak.",
+    "option_c": "Az aszteroidák és a kisbolygók is szilárdak.",
+    "option_d": "Az aszteroidák és a kisbolygók is gázokból állnak."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_402104",
+    "answer": "D",
+    "instruction": "Mérgező vegyszerek kiengedése egy tavacska vizébe valószínűleg az alábbiak eredményezné:",
+    "option_a": "az oxigénszint emelkedését a tavacska vízében.",
+    "option_b": "a tavacska közelében lévő növények gyorsabb növekedését.",
+    "option_c": "a mérgező vegyszereknek semmilyen hatása nem lenne a tavacska vízére.",
+    "option_d": "a tóban élő halak károsodását vagy elpusztulását."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7086013",
+    "answer": "D",
+    "instruction": "A Humboldt folyó medence számos nem megújuló forrása közül az egyik legfontosabb. Melyik nem megújuló forrás származik a Humboldt folyó medencéjéből?",
+    "option_a": "szén az hegyi lelőhelyekről",
+    "option_b": "olaj és gáz az föld alatti tározókból",
+    "option_c": "elektromos energia a vízerőművekből",
+    "option_d": "ásványok az arany, ezüst és réz bányászatból"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7248238",
+    "answer": "D",
+    "instruction": "A Bahamá-szigeteken található szúnyoghalak különböző elszigetelt édesvízi tavakban élnek, amelyek egykor egyetlen víztömeg voltak. Ha két elszigetelt tavakból származó hím és nőstény szúnyoghalat helyeznek egyetlen tóba, akkor a szúnyoghalak szaporodási preferenciája saját eredeti tóuk halaira irányul. Mi vezethette ehhez a szaporodási preferenciához?",
+    "option_a": "Az étel rendelkezésre állása befolyásolta a halak szaporodási preferenciáját.",
+    "option_b": "A megfelelő párkapcsolatra való versengés befolyásolta a halak szaporodási preferenciáját.",
+    "option_c": "A tóban lévő ragadozók befolyásolták a halak szaporodási preferenciáját.",
+    "option_d": "A szaporodási elkülönülés miatt bekövetkező fajjellegű változások befolyásoltakák a halak szaporodási preferenciáját."
+  }
+]

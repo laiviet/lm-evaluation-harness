@@ -1,3 +1,4 @@
+import glob
 import json
 import os
 from collections import defaultdict
@@ -47,10 +48,43 @@ def merge(input_dir, output_dir):
             json.dump(data, f, indent=2, ensure_ascii=False)
 
 
-if __name__ == '__main__':
+def verify_hellaswag():
+    with open('../tmp/hellaswag_data.json') as f:
+        hs = json.load(f)
 
-    for code2 in code2_map:
-        merge(
-            input_dir=f"../../mInstructLLM/dataset/hellaswag-chatgpt/{code2}",
-            output_dir=f"m_hellaswag/"
-        )
+    hs = {
+        x['not_translated']['id']: x for x in hs
+    }
+
+    for file in glob.glob('../tmp/*_validation.json'):
+        with open(file) as f:
+            data = json.load(f)
+        samples = list()
+        error = 0
+        for d in data:
+            id = d['id']
+            # print(json.dumps(d, indent=2, ensure_ascii=False))
+            tl = len(d['endings'])
+            ti = int(d['label'])
+
+            ol = len(hs[id]['endings'])
+            oi = int(hs[id]['not_translated']['label'])
+            if tl != ol or ti != oi:
+                continue
+            if tl > ti and tl == ol and ti == oi:
+                samples.append(d)
+
+        print(len(data), len(samples), len(samples) / len(data))
+        # save to m_hellaswag
+        lang = os.path.basename(file).split('_')[0]
+        with open (f'm_hellaswag/{lang}_validation.json', 'w') as f:
+            json.dump(samples, f, indent=2, ensure_ascii=False)
+
+if __name__ == '__main__':
+    # for code2 in code2_map:
+    #     merge(
+    #         input_dir=f"../../mInstructLLM/dataset/hellaswag-chatgpt/{code2}",
+    #         output_dir=f"m_hellaswag/"
+    #     )
+
+    verify_hellaswag()

@@ -1,0 +1,2682 @@
+[
+  {
+    "id": "ARC-Challenge/validation/Mercury_7099103",
+    "answer": "D",
+    "instruction": "Amoras silvestres se reproduzem de forma assexuada ao produzir novas raízes quando seus ramos tocam o solo. Elas também se reproduzem de forma sexual por meio de suas flores. Qual é a vantagem da amora ser capaz de se reproduzir tanto de forma sexual quanto assexuada?",
+    "option_a": "Permite que as plantas cresçam mais altas.",
+    "option_b": "Produz flores que atraem insetos.",
+    "option_c": "Produz amoras com mais sabor.",
+    "option_d": "Permite que as plantas de amora se adaptem a novas condições."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2006_9_31-v1",
+    "answer": "C",
+    "instruction": "Qual dos seguintes descreve a energia mecânica de um carrinho parado no topo de uma colina íngreme?",
+    "option_a": "O carrinho não tem energia mecânica.",
+    "option_b": "A energia mecânica do carrinho é completamente cinética.",
+    "option_c": "A energia mecânica do carrinho é completamente potencial.",
+    "option_d": "A energia mecânica do carrinho é metade potencial e metade cinética."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7090738",
+    "answer": "A",
+    "instruction": "Qual pergunta pode ser respondida por meio de investigação científica?",
+    "option_a": "Como a energia solar afeta a formação de nuvens?",
+    "option_b": "Por que os tigres são mais bonitos do que iguanas?",
+    "option_c": "Qual é o melhor assunto para estudar na faculdade?",
+    "option_d": "Os humanos deveriam investir em viagens espaciais?"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7130883",
+    "answer": "B",
+    "instruction": "Uma turma de engenharia recebeu instruções para desenvolver um robô. O robô deve ser projetado utilizando energia eletromagnética como sua única fonte de energia. Qual tópico a turma de engenharia provavelmente está estudando?",
+    "option_a": "o uso de baterias e energia química",
+    "option_b": "como a energia radiante e coletores solares podem ser usados",
+    "option_c": "a conversão de energia cinética em energia potencial",
+    "option_d": "como a energia térmica pode ser convertida em energia elétrica"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7190155",
+    "answer": "B",
+    "instruction": "Muitas espécies diferentes de plantas e animais vivem na floresta amazônica. Qual é o resultado mais provável de grandes áreas de desmatamento na floresta amazônica?",
+    "option_a": "um aumento nas populações de animais",
+    "option_b": "uma diminuição na produção de oxigênio",
+    "option_c": "um aumento na precipitação",
+    "option_d": "uma diminuição nos poluentes"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_177398",
+    "answer": "B",
+    "instruction": "Um carro viajando em direção nordeste a uma velocidade de 50 km/h representa que dos seguintes?",
+    "option_a": "velocidade",
+    "option_b": "velocidade",
+    "option_c": "aceleração",
+    "option_d": "desaceleração"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7246995",
+    "answer": "C",
+    "instruction": "Algumas células vegetais precisam de energia para transportar nutrientes através da membrana celular. Qual tipo de transformação de energia essas células vegetais utilizam para transportar a molécula de nutriente dentro da membrana celular?",
+    "option_a": "energia térmica para energia cinética",
+    "option_b": "energia potencial para energia luminosa",
+    "option_c": "energia química para energia cinética",
+    "option_d": "energia cinética para energia potencial"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_189490",
+    "answer": "A",
+    "instruction": "A observação de Gregor Mendel das plantas de ervilha é um exemplo de",
+    "option_a": "evidência baseada em pesquisa que suporta uma teoria científica.",
+    "option_b": "uma conclusão sendo testada por uma hipótese.",
+    "option_c": "teste aleatório durante um experimento.",
+    "option_d": "evidência a favor e contra um modelo científico."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7139790",
+    "answer": "C",
+    "instruction": "Um polvo tem células especiais em sua pele chamadas cromatóforos que permitem que o polvo mude sua cor quase instantaneamente. Os cromatóforos provavelmente ajudam o polvo",
+    "option_a": "a nadar mais rápido.",
+    "option_b": "a respirar mais devagar.",
+    "option_c": "a se esconder de predadores.",
+    "option_d": "a regular a temperatura corporal."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7282608",
+    "answer": "C",
+    "instruction": "A água residual das casas não é toda igual. Águas cinzentas referem-se a águas residuais domésticas de pias e banheiras. Não contém resíduos biológicos humanos, portanto pode ser reutilizada em vez de tratada como esgoto. Quais usos de águas cinzentas demonstram uma boa administração?",
+    "option_a": "Lavar pratos e beber",
+    "option_b": "Beber e irrigar canteiros de flores",
+    "option_c": "Irrigar canteiros de flores e regar árvores",
+    "option_d": "Regar árvores e lavar pratos"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7145513",
+    "answer": "B",
+    "instruction": "Os processos vitais necessitam de energia. Os processos bioquímicos envolvem reações específicas. Qual é a característica dos processos bioquímicos comum a todos os animais?",
+    "option_a": "funcionar em qualquer nível de pH",
+    "option_b": "liberação de calor como produto",
+    "option_c": "utilização apenas de respiração anaeróbica",
+    "option_d": "quantidade de energia absorvida"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7018148",
+    "answer": "B",
+    "instruction": "A MAIORIA dos elementos encontrados na Tabela Periódica de Elementos são",
+    "option_a": "gases.",
+    "option_b": "metais.",
+    "option_c": "líquidos.",
+    "option_d": "não-metais."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_401294",
+    "answer": "B",
+    "instruction": "As formas das folhas das plantas que sobrevivem bem em um clima chuvoso são mais frequentemente",
+    "option_a": "vermelhas e brilhantes.",
+    "option_b": "largas e planas.",
+    "option_c": "grossas e cerosas.",
+    "option_d": "afiadas e estreitas."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7207410",
+    "answer": "C",
+    "instruction": "Os caçadores de tempestades são pessoas que se aproximam de tempestades para observá-las e fazer medições. Que conhecimento os caçadores de tempestades adicionaram ao estudo de tempestades que ajudou a modificar a maioria das teorias de formação de tempestades?",
+    "option_a": "suas visões sobre danos causados por tempestades",
+    "option_b": "suas experiências pessoais em tempestades",
+    "option_c": "os dados coletados no início de tempestades",
+    "option_d": "seu entusiasmo por estudar diferentes tempestades"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_8_2015_11",
+    "answer": "A",
+    "instruction": "Qual das seguintes opções melhor descreve a massa de um bloco sólido de gelo?",
+    "option_a": "a quantidade de matéria no bloco",
+    "option_b": "a quantidade de espaço que o bloco ocupa",
+    "option_c": "a força da gravidade atuando no bloco",
+    "option_d": "a distância entre as moléculas no bloco"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7201705",
+    "answer": "A",
+    "instruction": "Em muitas partes do mundo, a terra que é muito seca para a agricultura é usada para pastagem de gado. A superpastagem dessas terras destrói as plantas nativas e desgasta a cobertura natural do solo. Como a superpastagem resulta na desertificação?",
+    "option_a": "aumentando a taxa de erosão do solo superficial",
+    "option_b": "permitindo que espécies não nativas colonizem a terra",
+    "option_c": "reduzindo a comida disponível para o gado",
+    "option_d": "fazendo com que a terra absorva a chuva mais rapidamente"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7133858",
+    "answer": "B",
+    "instruction": "A matéria pode passar por diferentes mudanças. O que melhor demonstra uma mudança química?",
+    "option_a": "sal dissolvendo-se",
+    "option_b": "madeira queimando",
+    "option_c": "água fervendo",
+    "option_d": "gelo derretendo"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2003_5_31",
+    "answer": "D",
+    "instruction": "Qual destes comportamentos não é instintivo?",
+    "option_a": "um pássaro construindo um ninho",
+    "option_b": "uma tartaruga enterrando seus ovos",
+    "option_c": "um urso hibernando no inverno",
+    "option_d": "um cavalo puxando um arado"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7198380",
+    "answer": "D",
+    "instruction": "Diferentes espécies de roedores herbívoros viviam no mesmo ecossistema. Qual fator mais provavelmente aumentou, causando mais competição por recursos entre os roedores?",
+    "option_a": "a fertilidade do solo",
+    "option_b": "a população de produtores na área",
+    "option_c": "a quantidade de restos de comida deixados pelos predadores",
+    "option_d": "a taxa em que os consumidores primários se movimentaram na área"
+  },
+  {
+    "id": "ARC-Challenge/validation/LEAP_2012_8_10441",
+    "answer": "C",
+    "instruction": "Uma espécie de lagarto come principalmente frutas de um tipo particular de árvore. Se um vírus mata a maioria dessas árvores, quais lagartos provavelmente sobreviverão?",
+    "option_a": "lagartos que podem subir mais alto nas árvores de frutas",
+    "option_b": "lagartos com coloração mais escura",
+    "option_c": "lagartos que podem encontrar outros tipos de alimentos",
+    "option_d": "lagartos que produzem mais descendentes"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7217053",
+    "answer": "B",
+    "instruction": "A evolução biológica pode ocorrer através de todas as alternativas abaixo, exceto",
+    "option_a": "competição.",
+    "option_b": "fossilização.",
+    "option_c": "variação.",
+    "option_d": "adaptação."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7233660",
+    "answer": "C",
+    "instruction": "Alguns cientistas teorizam que o movimento das placas poderia alterar o nível de água nos oceanos da Terra. Como a natureza do movimento das placas limitaria as possíveis mudanças no nível do mar?",
+    "option_a": "fazendo apenas pequenas mudanças",
+    "option_b": "mudando apenas algumas bacias oceânicas específicas",
+    "option_c": "fazendo com que as mudanças ocorram em taxas muito lentas",
+    "option_d": "causando mudanças em pares com efeitos iguais e opostos"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7115395",
+    "answer": "A",
+    "instruction": "Quais mudanças provavelmente terão um efeito negativo em um ecossistema?",
+    "option_a": "construção de uma estrada",
+    "option_b": "plantio de uma árvore",
+    "option_c": "adição de uma fonte de água doce",
+    "option_d": "criação de um santuário natural"
+  },
+  {
+    "id": "ARC-Challenge/validation/MSA_2013_8_3",
+    "answer": "D",
+    "instruction": "Os geólogos identificaram sete principais placas tectônicas na superfície da Terra. Qual a melhor evidência que indica que as placas tectônicas colidem?",
+    "option_a": "O vento erode formações de rochas superficiais.",
+    "option_b": "Fósseis datam de milhares de anos.",
+    "option_c": "Pequenas rochas são deixadas para trás quando as geleiras recuam.",
+    "option_d": "Camadas de rochas mais antigas estão localizadas acima de camadas de rochas mais novas."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7205135",
+    "answer": "C",
+    "instruction": "Como são afetadas as partículas em um bloco de ferro quando o bloco é derretido?",
+    "option_a": "As partículas ganham massa.",
+    "option_b": "As partículas contêm menos energia.",
+    "option_c": "As partículas se movem mais rapidamente.",
+    "option_d": "As partículas aumentam em volume."
+  },
+  {
+    "id": "ARC-Challenge/validation/ACTAAP_2010_5_10",
+    "answer": "A",
+    "instruction": "Sara acende uma lanterna e segura um objeto contra a luz. Como ela saberá se o objeto é opaco?",
+    "option_a": "Nenhuma luz passará através.",
+    "option_b": "Alguma luz será refletida.",
+    "option_c": "A luz se dobrará em um ângulo.",
+    "option_d": "A luz passará claramente através."
+  },
+  {
+    "id": "ARC-Challenge/validation/TIMSS_2003_8_pg29",
+    "answer": "E",
+    "instruction": "Qual dos seguintes órgãos NÃO está localizado no abdômen?",
+    "option_a": "fígado",
+    "option_b": "rins",
+    "option_c": "estômago",
+    "option_d": "bexiga",
+    "option_e": "coração"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7181685",
+    "answer": "A",
+    "instruction": "A característica da cor da flor é altamente variável em certas espécies de plantas de rosas, o que leva à formação de flores de cores diferentes. Como surgiu a variação da cor das flores em plantas de rosa?",
+    "option_a": "por meio de mutação",
+    "option_b": "por meio de polinização",
+    "option_c": "por meio de seleção natural",
+    "option_d": "por meio de reprodução assexuada"
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2011_5_20",
+    "answer": "D",
+    "instruction": "O Lepus americanus muda de pelos duas vezes por ano. No verão, o pelo do Lepus é marrom. No inverno, o pelo é branco. Qual dessas afirmações melhor explica a vantagem de mudar de pelo?",
+    "option_a": "Mudar de pelo mantém o Lepus limpo.",
+    "option_b": "Mudar de pelo ajuda o Lepus a se mover rapidamente.",
+    "option_c": "Mudar de pelo mantém a casa do Lepus quente.",
+    "option_d": "Mudar de pelo ajuda o Lepus a se camuflar em seu habitat."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7008120",
+    "answer": "A",
+    "instruction": "As estrelas binárias são usadas pelos cientistas para determinar a",
+    "option_a": "massa.",
+    "option_b": "brilho.",
+    "option_c": "distância da Terra.",
+    "option_d": "distância do Sol."
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_13",
+    "answer": "B",
+    "instruction": "Um menino pode ver seu rosto quando olha para um lago calmo. Qual propriedade física do lago faz isso acontecer?",
+    "option_a": "flexibilidade",
+    "option_b": "reflexividade",
+    "option_c": "temperatura",
+    "option_d": "volume"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_1",
+    "answer": "B",
+    "instruction": "Um estudante plantou duas sementes de feijão em dois vasos idênticos contendo o mesmo tipo de solo. Ele colocou um vaso em um armário e o outro perto de uma janela ensolarada. Todos os dias, ele derramou 15 mililitros de água em cada vaso. Qual foi o fator diferente para os dois vasos?",
+    "option_a": "quantidade de água",
+    "option_b": "quantidade de luz",
+    "option_c": "tipo de solo",
+    "option_d": "tipo de semente"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7141698",
+    "answer": "B",
+    "instruction": "Quando ocorre um relâmpago, ele aquece o ar circundante. O ar quente se expande e produz um trovão. A energia do relâmpago é convertida em qual tipo de energia para produzir o trovão?",
+    "option_a": "gravitacional",
+    "option_b": "mecânica",
+    "option_c": "nuclear",
+    "option_d": "radiante"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_407314",
+    "answer": "A",
+    "instruction": "Estudantes de duas turmas realizaram a mesma investigação. Cada turma obteve resultados diferentes. Qual é a melhor maneira para os alunos determinarem por que os resultados foram diferentes?",
+    "option_a": "Revisar os passos tomados durante as investigações.",
+    "option_b": "Mudar a hipótese da investigação.",
+    "option_c": "Pesquisar dados de investigações similares.",
+    "option_d": "Realizar uma investigação diferente."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_406781",
+    "answer": "C",
+    "instruction": "Qual interação entre animais controla melhor a população de uma espécie?",
+    "option_a": "animais selvagens marcando seus territórios",
+    "option_b": "peixes rémora viajando com tubarões",
+    "option_c": "leões caçando zebras",
+    "option_d": "lobos viajando em matilhas"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400845",
+    "answer": "B",
+    "instruction": "Os raios podem produzir todas essas formas de energia, exceto",
+    "option_a": "energia térmica.",
+    "option_b": "energia solar.",
+    "option_c": "energia luminosa.",
+    "option_d": "energia elétrica."
+  },
+  {
+    "id": "ARC-Challenge/validation/ACTAAP_2009_5_5",
+    "answer": "B",
+    "instruction": "Janet recebeu alguns minerais para identificar. Uma de suas amostras é amarela. Qual desses minerais é mais provável de ser amarelo?",
+    "option_a": "Talco",
+    "option_b": "Enxofre",
+    "option_c": "Gipsita",
+    "option_d": "Hematita"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7171938",
+    "answer": "D",
+    "instruction": "As marés oceânicas da Terra são fortemente influenciadas pela Lua. Durante quais fases lunares as marés oceânicas são mais baixas na Terra?",
+    "option_a": "lua cheia e primeiro quarto",
+    "option_b": "lua cheia e lua nova",
+    "option_c": "último quarto e lua nova",
+    "option_d": "primeiro quarto e último quarto"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415354",
+    "answer": "C",
+    "instruction": "Quais desses comportamentos um golfinho aprende?",
+    "option_a": "comer peixes pequenos",
+    "option_b": "nadar em água salgada",
+    "option_c": "equilibrar uma bola no nariz",
+    "option_d": "respirar através do espiráculo"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_17",
+    "answer": "C",
+    "instruction": "Qual característica um gato provavelmente herdaria de seus pais?",
+    "option_a": "ter uma cicatriz",
+    "option_b": "perseguir um brinquedo",
+    "option_c": "ter pelo branco",
+    "option_d": "saber seu nome"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7251685",
+    "answer": "B",
+    "instruction": "Qual atividade garante mais efetivamente o funcionamento adequado dos osteócitos?",
+    "option_a": "aumentar a frequência respiratória",
+    "option_b": "consumir alimentos ricos em minerais",
+    "option_c": "reduzir o exercício estressante",
+    "option_d": "beber água livre de íons"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7267995",
+    "answer": "C",
+    "instruction": "Algumas espécies de plantas e animais dependem uns dos outros. Qual desses animais ajuda milhares de espécies de plantas a se reproduzir?",
+    "option_a": "esquilos",
+    "option_b": "minhocas",
+    "option_c": "abelhas",
+    "option_d": "besouros"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7193043",
+    "answer": "B",
+    "instruction": "Plantas não nativas podem tomar conta de áreas que já foram habitadas por espécies de plantas nativas. Qual processo abiótico é menos provável de causar a invasão de plantas não nativas?",
+    "option_a": "inundações",
+    "option_b": "intemperismo",
+    "option_c": "tempestades de poeira",
+    "option_d": "degelo de geleiras"
+  },
+  {
+    "id": "ARC-Challenge/validation/VASoL_2008_5_28",
+    "answer": "C",
+    "instruction": "Os submarinos exploraram muitas partes do oceano. À medida que descem, os cientistas observam um aumento na -",
+    "option_a": "quantidade de luz",
+    "option_b": "temperatura da água",
+    "option_c": "pressão da água",
+    "option_d": "tipos de organismos do oceano"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7154263",
+    "answer": "B",
+    "instruction": "Fitoplâncton são organismos microscópicos semelhantes às plantas que flutuam em corpos de água, como o oceano. Eles absorvem dióxido de carbono durante o processo de fotossíntese. O que é mais provável que aconteça se a população de fitoplâncton for destruída?",
+    "option_a": "As temperaturas do mar diminuiriam.",
+    "option_b": "Os gases do efeito estufa aumentariam.",
+    "option_c": "O oxigênio atmosférico aumentaria.",
+    "option_d": "Os níveis do mar diminuiriam drasticamente."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7032743",
+    "answer": "C",
+    "instruction": "Qual característica de um guepardo é mais provável de ser aprendida do que herdada?",
+    "option_a": "velocidade",
+    "option_b": "pelagem manchada",
+    "option_c": "estratégias de caça",
+    "option_d": "garras que não se retraem"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_19",
+    "answer": "B",
+    "instruction": "À medida que os filhotes se tornam gatos, seu peso corporal geralmente",
+    "option_a": "diminui",
+    "option_b": "aumenta",
+    "option_c": "permanece o mesmo"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7115273",
+    "answer": "C",
+    "instruction": "Grandes florescimentos de algas na superfície de um lago impedem qual fator abiótico de chegar ao fundo?",
+    "option_a": "água",
+    "option_b": "sal",
+    "option_c": "luz",
+    "option_d": "oxigênio"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7205555",
+    "answer": "A",
+    "instruction": "A água tem muitas propriedades químicas únicas. Qual propriedade da água faz com que ela seja um bom solvente de sais cristalinos?",
+    "option_a": "polaridade forte",
+    "option_b": "baixa condutividade",
+    "option_c": "alta viscosidade",
+    "option_d": "baixo pH"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7192990",
+    "answer": "A",
+    "instruction": "Os incêndios florestais ocorrem em muitas áreas devido a condições de seca. Se as condições de seca continuarem por um longo período de tempo, o que pode ameaçar a repopulação de árvores?",
+    "option_a": "uma diminuição na espessura do solo",
+    "option_b": "uma diminuição na quantidade de erosão",
+    "option_c": "um aumento na população bacteriana",
+    "option_d": "um aumento na produção de oxigênio"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_408859",
+    "answer": "A",
+    "instruction": "Os jacarés americanos são comuns nas zonas húmidas da Flórida. Eles são conhecidos por comer sapos, tartarugas, peixes, ratos e aves. Qual é o papel de um jacaré americano no seu ecossistema?",
+    "option_a": "consumidor",
+    "option_b": "decompositor",
+    "option_c": "carroñero",
+    "option_d": "produtor"
+  },
+  {
+    "id": "ARC-Challenge/validation/TIMSS_2007_4_pg90",
+    "answer": "C",
+    "instruction": "Sue mediu quanto açúcar se dissolveria em um copo de água fria, um copo de água morna e um copo de água quente. O que ela mais provavelmente observou?",
+    "option_a": "A água fria dissolveu a maior quantidade de açúcar.",
+    "option_b": "A água morna dissolveu a maior quantidade de açúcar.",
+    "option_c": "A água quente dissolveu a maior quantidade de açúcar.",
+    "option_d": "A água fria, água morna e água quente dissolveram a mesma quantidade de açúcar."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_180058",
+    "answer": "A",
+    "instruction": "Um fóssil descoberto no Colorado data do início da Era Mesozoica. Um ano depois, um fóssil semelhante é encontrado em Wyoming, também datado do início da Era Mesozoica. Esses dois organismos provavelmente viveram no",
+    "option_a": "mesmo ambiente ao mesmo tempo.",
+    "option_b": "mesmo ambiente em tempos diferentes.",
+    "option_c": "ambientes diferentes ao mesmo tempo.",
+    "option_d": "ambientes diferentes em tempos diferentes."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400050",
+    "answer": "C",
+    "instruction": "O que acontece quando a temperatura na casa é mais fria do que a temperatura selecionada no termostato?",
+    "option_a": "O forno vai superaquecer.",
+    "option_b": "O termostato ficará quente.",
+    "option_c": "O forno irá ligar automaticamente.",
+    "option_d": "O termostato emitirá um som de apito."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_1998_8_13",
+    "answer": "D",
+    "instruction": "Qual é a questão controversa não associada ao uso de usinas nucleares?",
+    "option_a": "o descarte de resíduos nucleares",
+    "option_b": "os riscos à saúde nas áreas circundantes das usinas nucleares",
+    "option_c": "a poluição térmica de corpos d'água usados ​​para refrigeração",
+    "option_d": "o desemprego devido à conversão para energia nuclear"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_4",
+    "answer": "A",
+    "instruction": "Qual estado da matéria não possui volume ou formato definido?",
+    "option_a": "gás",
+    "option_b": "líquido",
+    "option_c": "sólido"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7233678",
+    "answer": "A",
+    "instruction": "Os cientistas acreditam que o deslocamento continental ao longo da história geológica da Terra teve um impacto significativo sobre os ciclos de climas mais quentes e mais frios. Qual afirmação descreve uma característica dos continentes da Terra que é mais provável de causar mudanças no clima global quando os continentes se movem?",
+    "option_a": "A localização do continente afeta sua reflexividade na superfície.",
+    "option_b": "A profundidade da placa continental determina seu calor específico.",
+    "option_c": "A deriva continental absorve grandes quantidades de energia cinética.",
+    "option_d": "A temperatura de um continente é afetada por seu oceano mais próximo."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_LBS10666",
+    "answer": "B",
+    "instruction": "As plantas geralmente não precisam comer outros organismos porque as plantas",
+    "option_a": "não precisam de energia alimentar para sobreviver.",
+    "option_b": "transformam a luz do sol em energia alimentar.",
+    "option_c": "obtêm toda sua energia alimentar do solo.",
+    "option_d": "mantêm a energia alimentar armazenada em suas raízes."
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_8_38",
+    "answer": "A",
+    "instruction": "Uma substância na fase sólida da matéria tem",
+    "option_a": "uma forma e um volume definidos",
+    "option_b": "uma forma definida, mas sem volume definido",
+    "option_c": "sem forma definida, mas com um volume definido",
+    "option_d": "sem forma nem volume definidos"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2004_8_28",
+    "answer": "A",
+    "instruction": "Como as propriedades mensuráveis de uma bola de golfe mudariam se ela fosse movida da Terra para a Lua?",
+    "option_a": "Ela teria a mesma massa, mas um peso diferente.",
+    "option_b": "Ela teria o mesmo peso, mas uma massa diferente.",
+    "option_c": "Ela teria a mesma densidade, mas uma massa diferente.",
+    "option_d": "Ela teria a mesma massa, mas uma densidade diferente."
+  },
+  {
+    "id": "ARC-Challenge/validation/LEAP__7_10354",
+    "answer": "D",
+    "instruction": "A professora de ciências de Joanne alertou a turma para ser cética ao aprender sobre novas descobertas científicas. Por que é importante ser cético em relação a novas descobertas na ciência?",
+    "option_a": "porque muitas descobertas científicas não são baseadas em fatos",
+    "option_b": "porque a maioria das descobertas científicas não tem valor científico",
+    "option_c": "porque a maioria dos cientistas comete erros ao formular descobertas científicas",
+    "option_d": "porque todas as descobertas científicas devem ser examinadas criticamente antes de serem aceitas"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2003_8_25",
+    "answer": "B",
+    "instruction": "Num automóvel, qual dos seguintes componentes é projetado especificamente para fornecer feedback ao motorista?",
+    "option_a": "volante",
+    "option_b": "velocímetro",
+    "option_c": "pedal do freio",
+    "option_d": "chave do carro"
+  },
+  {
+    "id": "ARC-Challenge/validation/TIMSS_2011_8_pg63",
+    "answer": "C",
+    "instruction": "Qual das seguintes define um composto?",
+    "option_a": "diferentes substâncias misturadas juntas",
+    "option_b": "átomos e moléculas misturados juntos",
+    "option_c": "átomos de diferentes elementos combinados juntos",
+    "option_d": "átomos do mesmo elemento combinados juntos"
+  },
+  {
+    "id": "ARC-Challenge/validation/AIMS_2009_4_29",
+    "answer": "D",
+    "instruction": "Um refrigerador consome eletricidade para criar um local frio para armazenar alimentos. Qual impacto negativo o uso de um refrigerador tem sobre o meio ambiente?",
+    "option_a": "A eletricidade necessária para manter os alimentos refrigerados pode ser cara.",
+    "option_b": "Se a eletricidade acabar, os alimentos vão estragar e te deixar doente.",
+    "option_c": "Armazenar alimentos por mais tempo reduz as viagens ao supermercado e o uso de gasolina.",
+    "option_d": "Os refrigeradores antigos contêm produtos químicos e ocupam espaço nos aterros sanitários."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_LBS10472",
+    "answer": "B",
+    "instruction": "As plantas possuem tecidos especializados nas extremidades de seus caules. O que esses tecidos ajudam as plantas a fazer?",
+    "option_a": "digerir alimentos",
+    "option_b": "crescer mais alto",
+    "option_c": "produzir alimentos",
+    "option_d": "absorver água"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415491",
+    "answer": "C",
+    "instruction": "A Terra orbita o Sol uma vez por ano. Em cerca de quantas vezes a lua orbita a Terra em um ano?",
+    "option_a": "1",
+    "option_b": "7",
+    "option_c": "13",
+    "option_d": "28"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2011_5_17673",
+    "answer": "A",
+    "instruction": "Jose tem dois ímãs de barra. Ele empurra as extremidades dos dois ímãs juntos e depois solta. Os ímãs se movem rapidamente para longe. Qual das seguintes afirmações explica melhor por que isso acontece?",
+    "option_a": "Os polos norte dos dois ímãs estão voltados um para o outro.",
+    "option_b": "Um ímã é um polo norte e um ímã é um polo sul.",
+    "option_c": "As extremidades dos ímãs se repelem, mas os centros se atraem.",
+    "option_d": "Um ímã está armazenando energia e um ímã está liberando energia."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_416648",
+    "answer": "A",
+    "instruction": "O Paramecium e o volvox podem reproduzir-se ambos sexualmente. Como é que a reprodução sexuada no volvox é diferente da reprodução sexuada no paramecium?",
+    "option_a": "Colónias de volvox produzem gâmetas.",
+    "option_b": "Células de volvox passam por conjugação.",
+    "option_c": "Colónias de volvox produzem prole unicelular.",
+    "option_d": "Células de volvox se reproduzem por brotamento vegetativo."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7207620",
+    "answer": "A",
+    "instruction": "Alguns instrumentos registram os níveis de oxigênio na camada de ozônio da atmosfera da Terra. Manter um registro desses dados por muitos anos é um exemplo de",
+    "option_a": "construir evidências por meio de investigação contínua.",
+    "option_b": "identificar uma hipótese que suporte os dados.",
+    "option_c": "concluir sobre evidências a partir dos resultados.",
+    "option_d": "propor dados fáceis de entender."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7164850",
+    "answer": "A",
+    "instruction": "Uma turma de ciências projetou um pôster para mostrar como as ilhas barreira ao longo da costa da Flórida se formaram. Os alunos mostraram os efeitos do vento, ondas e marés na areia que formaram essas ilhas. No pôster, qual par de sistemas os alunos devem dizer que mais afetou a formação de ilhas barreira?",
+    "option_a": "a hidrosfera e a atmosfera",
+    "option_b": "a atmosfera e a litosfera",
+    "option_c": "a biosfera e a hidrosfera",
+    "option_d": "a litosfera e a biosfera"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7011270",
+    "answer": "B",
+    "instruction": "Aproximadamente quanto tempo leva para a Lua completar uma revolução ao redor da Terra?",
+    "option_a": "7 dias",
+    "option_b": "30 dias",
+    "option_c": "90 dias",
+    "option_d": "365 dias"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7090598",
+    "answer": "C",
+    "instruction": "Qual desses processos envolve a transferência de uma grande quantidade de energia térmica?",
+    "option_a": "erosão",
+    "option_b": "sedimentação",
+    "option_c": "subducção",
+    "option_d": "cimentação"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_412337",
+    "answer": "D",
+    "instruction": "Durante uma investigação, calor foi transferido de um líquido para o ambiente. Qual par de explicações melhor explica esse resultado?",
+    "option_a": "A temperatura do líquido aumentou, ou o líquido se transformou em gás.",
+    "option_b": "A temperatura do líquido aumentou, ou o líquido se transformou em sólido.",
+    "option_c": "A temperatura do líquido diminuiu, ou o líquido se transformou em gás.",
+    "option_d": "A temperatura do líquido diminuiu, ou o líquido se transformou em sólido."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_1998_8_2",
+    "answer": "C",
+    "instruction": "A estrutura celular que torna uma célula vegetal mais rígida do que uma célula animal é a",
+    "option_a": "membrana celular.",
+    "option_b": "citoplasma.",
+    "option_c": "parede celular.",
+    "option_d": "ribossomo."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7124338",
+    "answer": "D",
+    "instruction": "Uma mente questionadora seria útil para um cientista porque ela o levaria a",
+    "option_a": "tornar-se mais criativo.",
+    "option_b": "desconfiar do trabalho de outros cientistas.",
+    "option_c": "trabalhar para aceitar hipóteses publicadas.",
+    "option_d": "realizar pesquisas para confirmar ou refutar teorias."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_405454",
+    "answer": "D",
+    "instruction": "Qual ferramenta de cozimento altera menos o ambiente?",
+    "option_a": "churrasqueira a gás",
+    "option_b": "frigideira elétrica",
+    "option_c": "forno de microondas",
+    "option_d": "cozinha solar"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7007875",
+    "answer": "B",
+    "instruction": "Qual é responsável por criar o vento?",
+    "option_a": "ação das ondas",
+    "option_b": "energia solar",
+    "option_c": "movimento das árvores",
+    "option_d": "força gravitacional"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_417146",
+    "answer": "A",
+    "instruction": "A maioria do oxigênio na atmosfera é produzida por algas. Onde a maioria das algas vivem?",
+    "option_a": "oceano costeiro",
+    "option_b": "oceano profundo",
+    "option_c": "lagoas",
+    "option_d": "lagos"
+  },
+  {
+    "id": "ARC-Challenge/validation/LEAP_2004_8_10397",
+    "answer": "B",
+    "instruction": "Quando as pessoas caminharam na Lua, eles descobriram que podiam pular mais alto do que podiam na Terra. Por que isso é verdade?",
+    "option_a": "Não há atmosfera na Lua.",
+    "option_b": "A Lua exerce menos força gravitacional do que a Terra.",
+    "option_c": "Roupas espaciais ajudaram eles a saltar mais alto.",
+    "option_d": "A Lua gira mais rápido do que a Terra."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_407695",
+    "answer": "D",
+    "instruction": "Juan e LaKeisha rolam alguns objetos por uma rampa. Eles querem ver qual objeto rola o mais longe. O que eles devem fazer para que possam repetir sua investigação?",
+    "option_a": "Colocar os objetos em grupos.",
+    "option_b": "Alterar a altura da rampa.",
+    "option_c": "Escolher objetos diferentes para rolar.",
+    "option_d": "Registrar os detalhes da investigação."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7158673",
+    "answer": "D",
+    "instruction": "Ana é uma corredora de cross-country. Depois de terminar uma corrida, ela percebeu que estava sentindo calor devido à liberação de energia térmica. Qual é a fonte mais provável de energia térmica?",
+    "option_a": "fricção do ar",
+    "option_b": "absorção de calor do sol",
+    "option_c": "absorção de energia mecânica",
+    "option_d": "conversões de energia ocorrendo em seu corpo"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7018515",
+    "answer": "C",
+    "instruction": "A razão mais provável pela qual o som se propaga mais rápido na água salgada do que na água doce é que a água salgada",
+    "option_a": "é mais elástica.",
+    "option_b": "absorve o calor mais rápido.",
+    "option_c": "possui uma maior densidade.",
+    "option_d": "reflete melhor o som."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_412551",
+    "answer": "D",
+    "instruction": "As corujas caburés têm duas variações de cor: vermelho e cinza. Qual a vantagem da coruja caburé cinza sobre a coruja caburé vermelha em um habitat composto por árvores com casca de cor escura?",
+    "option_a": "ninhagem",
+    "option_b": "alimentação",
+    "option_c": "reprodução",
+    "option_d": "esconderijo"
+  },
+  {
+    "id": "ARC-Challenge/validation/VASoL_2008_5_19",
+    "answer": "D",
+    "instruction": "Três jogadores de beisebol investigam quem consegue lançar uma bola de beisebol mais longe. Eles marcam uma área no campo de jogo para sua investigação. O que eles devem manter constante?",
+    "option_a": "Altura dos jogadores",
+    "option_b": "Cor das bolas de beisebol lançadas",
+    "option_c": "Ordem em que os jogadores lançam",
+    "option_d": "Local de onde os jogadores lançam"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7120890",
+    "answer": "A",
+    "instruction": "Qual é a melhor demonstração de que as ondas transferem energia?",
+    "option_a": "um sino tocando numa torre",
+    "option_b": "uma folha caindo de uma árvore",
+    "option_c": "uma bola rolando por uma colina",
+    "option_d": "uma bandeira se movendo no vento"
+  },
+  {
+    "id": "ARC-Challenge/validation/AKDE&ED_2008_8_44",
+    "answer": "A",
+    "instruction": "Qual característica se aplica somente aos animais de um desses grupos taxonômicos: répteis, mamíferos, aves, anfíbios ou peixes?",
+    "option_a": "possuem pelos",
+    "option_b": "botam ovos",
+    "option_c": "possuem pés palmados",
+    "option_d": "respiram por brânquias"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415348",
+    "answer": "D",
+    "instruction": "Qual é uma característica herdada de uma árvore?",
+    "option_a": "um galho quebrado em uma árvore de pinheiro",
+    "option_b": "um oco em uma árvore de carvalho",
+    "option_c": "uma cicatriz em uma árvore de bordo",
+    "option_d": "um tronco grosso em uma árvore de pecan"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7014368",
+    "answer": "C",
+    "instruction": "As correntes de longo curso são ondas do oceano que atingem as praias com ângulos extremamente pequenos. Em áreas onde existem correntes de longo curso, que efeito elas têm nas áreas de terra?",
+    "option_a": "Elas constroem montanhas.",
+    "option_b": "Elas causam terremotos.",
+    "option_c": "Elas movem areia, criando bancos de areia.",
+    "option_d": "Elas criam rios de água salgada no interior."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7245193",
+    "answer": "C",
+    "instruction": "Uma área rural foi limpa até a rocha nua para construir uma estrada, mas a estrada nunca foi construída. A área começou a se regenerar. Quais organismos provavelmente reapareceram primeiro?",
+    "option_a": "árvores",
+    "option_b": "arbustos",
+    "option_c": "liquens e musgos",
+    "option_d": "ervas daninhas e grama-de-crab"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7251668",
+    "answer": "D",
+    "instruction": "Uma população de dafnídeos mostra uma migração vertical do fundo de um lago de um metro de profundidade durante o dia para a superfície do lago à noite. A qual fator a população de dafnídeos provavelmente está respondendo?",
+    "option_a": "o pH da água",
+    "option_b": "a clareza da água",
+    "option_c": "a pressão da água",
+    "option_d": "a temperatura da água"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2013_8_29421",
+    "answer": "A",
+    "instruction": "Quando o suor de uma pessoa evapora, a pessoa sente-se mais fresca. Qual das seguintes afirmações descreve melhor por que suar ajuda a pessoa a sentir-se fresca?",
+    "option_a": "O calor é absorvido pelo suor quando ele evapora.",
+    "option_b": "O calor é absorvido pelo corpo quando o suor evapora.",
+    "option_c": "A temperatura da água no suor diminui quando ele evapora.",
+    "option_d": "A temperatura da água no corpo aumenta quando o suor evapora."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7082145",
+    "answer": "D",
+    "instruction": "Como deve ser usada um gráfico de linhas para exibir dados de distância e tempo para um objeto em movimento?",
+    "option_a": "O eixo y deve ser rotulado como tempo, que é a variável dependente.",
+    "option_b": "O eixo y deve ser rotulado como distância, que é a variável independente.",
+    "option_c": "O eixo x deve ser rotulado como distância, que é a variável dependente.",
+    "option_d": "O eixo x deve ser rotulado como tempo, que é a variável independente."
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2007_5_39",
+    "answer": "D",
+    "instruction": "Os alunos estão aprendendo sobre os recursos naturais em Maryland. Um grupo de alunos pesquisa informações sobre recursos naturais renováveis no estado. O outro grupo pesquisa informações sobre recursos naturais não renováveis no estado. Os recursos que os estudantes investigam incluem plantas, animais, solo, minerais, água, carvão e petróleo. Qual das seguintes atividades humanas afeta negativamente um recurso natural?",
+    "option_a": "pescar em um lago",
+    "option_b": "usar água para produzir eletricidade",
+    "option_c": "plantar plantas nativas ao longo de uma costa de lagoa",
+    "option_d": "direcionar escoamento de água da área cultivada para um lago"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_22",
+    "answer": "A",
+    "instruction": "O pelo de alguns animais torna-se mais espesso no inverno e é derramado na primavera. Essas observações mostram como os animais",
+    "option_a": "respondem às mudanças no ambiente",
+    "option_b": "se movem de um lugar para outro para sobreviver",
+    "option_c": "armazenam gordura para o inverno",
+    "option_d": "competem com outros animais por comida"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7006790",
+    "answer": "B",
+    "instruction": "Qual dos seguintes melhor explica a causa das janelas tremerem durante uma tempestade?",
+    "option_a": "energia elétrica",
+    "option_b": "energia sonora",
+    "option_c": "energia luminosa",
+    "option_d": "energia térmica"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7284043",
+    "answer": "C",
+    "instruction": "Os elefantes na savana africana comem arbustos e pequenas árvores. Esse comportamento limpa a terra e permite que a grama cresça. Herbívoros como gazelas comem a grama. Leões caçam as gazelas. Quais dois organismos nesse cenário têm a relação mais cooperativa?",
+    "option_a": "os elefantes e os arbustos",
+    "option_b": "os arbustos e os leões",
+    "option_c": "os elefantes e as gazelas",
+    "option_d": "as gazelas e os leões"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7175455",
+    "answer": "D",
+    "instruction": "Na Austrália, as temperaturas ao meio-dia podem chegar a mais de 110°F (43°C). Para manter seus corpos frescos, os cangurus lambem seus braços, revestindo-os com uma camada espessa de saliva. À medida que a saliva evapora, ela age como um mecanismo de resfriamento e diminui a temperatura do corpo do canguru. Qual termo descreve melhor essa atividade?",
+    "option_a": "seleção natural",
+    "option_b": "mecanismo de defesa",
+    "option_c": "adaptações estruturais",
+    "option_d": "adaptações comportamentais"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_401714",
+    "answer": "B",
+    "instruction": "Num experimento de laboratório, os alunos estão testando a identidade de um pó desconhecido. Qual método é o mais apropriado para transferir o pó para uma balança?",
+    "option_a": "varrer com uma escova sobre papel de transferência",
+    "option_b": "colher com espátula de laboratório sobre papel de transferência",
+    "option_c": "beliscar com os dedos e levantar sobre papel de transferência",
+    "option_d": "despejar da garrafa sobre papel de transferência"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_409529",
+    "answer": "B",
+    "instruction": "Robert é um pescador que quer encontrar uma maneira de pegar mais peixes. Ele decidiu experimentar diferentes tamanhos de anzóis. Robert pegou 4 bagres, 3 trutas e 7 percas enquanto usava minhocas como isca. Qual é a variável independente (manipulada) na investigação de Robert?",
+    "option_a": "tipo de isca",
+    "option_b": "tamanho do anzol",
+    "option_c": "tipo de peixe capturado",
+    "option_d": "número de peixes capturados"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7223038",
+    "answer": "C",
+    "instruction": "Existem muitos tamanhos e cores de estrelas. Qual das seguintes opções melhor descreve a categoria em que o Sol seria colocado?",
+    "option_a": "estrelas supergigantes azuis",
+    "option_b": "estrelas gigantes vermelhas",
+    "option_c": "estrelas de sequência principal amarelas",
+    "option_d": "estrelas anãs brancas"
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2008_5_24",
+    "answer": "C",
+    "instruction": "Maryland e a região circundante têm muitos recursos naturais. Alguns desses recursos naturais são renováveis ​​e outros são não renováveis. As pessoas usam ambos os tipos de recursos em atividades diárias. O uso de recursos naturais muitas vezes produz resíduos. Centros de reciclagem são onde as pessoas levam materiais que podem ser reutilizados para fazer novos produtos. Como a reciclagem de papel afeta positivamente o meio ambiente?",
+    "option_a": "reduz a poluição do ar",
+    "option_b": "aumenta a erosão do solo",
+    "option_c": "reduz as árvores que são cortadas",
+    "option_d": "aumenta a destruição do habitat"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2010_5_11998",
+    "answer": "A",
+    "instruction": "A Ipoméia é um tipo de videira florífera que sobe em árvores e cercas. Qual dos comportamentos a seguir mais ajuda uma planta de Ipoméia a subir uma cerca?",
+    "option_a": "hastes enrolando em resposta ao toque",
+    "option_b": "hastes inchando em resposta à água",
+    "option_c": "flores abrindo em resposta à luz",
+    "option_d": "raízes crescendo em resposta à gravidade"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7139493",
+    "answer": "B",
+    "instruction": "Qual é o mais provável responsável pela capacidade dos percevejos-de-chagas de sobreviverem a exposições repetidas a inseticidas?",
+    "option_a": "diversidade de espécies",
+    "option_b": "diversidade genética",
+    "option_c": "diversidade de ecossistemas",
+    "option_d": "diversidade populacional"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_14",
+    "answer": "A",
+    "instruction": "Os painéis solares são usados para absorver a luz do sol. Qual cor de painel absorveria mais luz solar?",
+    "option_a": "preto",
+    "option_b": "verde",
+    "option_c": "branco",
+    "option_d": "amarelo"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2006_9_35",
+    "answer": "A",
+    "instruction": "Qual das seguintes condições genéticas resulta de um problema com a segregação?",
+    "option_a": "Trissomia 16: uma condição causada quando um zigoto recebe três cópias do cromossomo 16",
+    "option_b": "Doença de Huntington: uma condição causada quando um zigoto recebe um alelo dominante mutado",
+    "option_c": "Hemofilia: uma condição causada quando um zigoto recebe um cromossomo X com um alelo recessivo particular",
+    "option_d": "Anemia falciforme: uma condição causada quando um zigoto recebe um alelo recessivo para a hemoglobina de cada pai"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2015_8_7",
+    "answer": "B",
+    "instruction": "Um estudante aquece duas panelas de água em um fogão usando a configuração mais alta. Uma panela contém 1 L de água e a outra panela contém 3 L de água. O estudante aquece cada panela até que a água ferva. Qual das seguintes afirmações descreve melhor o que acontece com a água nas panelas?",
+    "option_a": "A água em ambas as panelas ferve ao mesmo tempo.",
+    "option_b": "A água em ambas as panelas ferve na mesma temperatura.",
+    "option_c": "Os 3 L de água ficam mais quentes que 1 L de água antes de ferver.",
+    "option_d": "Os 3 L de água absorvem calor mais rapidamente do que os 1 L de água."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7115063",
+    "answer": "A",
+    "instruction": "Qual das seguintes é mais provável de perturbar um ecossistema de um pântano?",
+    "option_a": "construção de um empreendimento habitacional",
+    "option_b": "plantio de flores silvestres nativas",
+    "option_c": "um período de intensas chuvas",
+    "option_d": "um raio"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7144795",
+    "answer": "D",
+    "instruction": "Um habitat específico experimentou muitas mudanças nas condições ambientais nos últimos 75 anos. Qual é mais provável ser uma característica de uma espécie que tem a melhor chance de sobreviver a essas mudanças ambientais?",
+    "option_a": "uma população com muitos indivíduos",
+    "option_b": "grande diversidade de espécies na comunidade atual",
+    "option_c": "adaptações que permitem aos indivíduos viver em uma variedade de condições",
+    "option_d": "comportamentos que promovem o desenvolvimento de adaptações em novos ambientes"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_400934",
+    "answer": "C",
+    "instruction": "De acordo com a Tabela Periódica dos Elementos, qual conjunto de elementos tem propriedades similares?",
+    "option_a": "H, C, I",
+    "option_b": "He, H, Al",
+    "option_c": "He, Ne, Ar",
+    "option_d": "Na, Ca, Al"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7004410",
+    "answer": "B",
+    "instruction": "Uma limitação das teias alimentares na representação de um ecossistema é que elas não",
+    "option_a": "incluem os produtores no ecossistema.",
+    "option_b": "incluem todas as espécies no ecossistema.",
+    "option_c": "mostram os consumidores no ecossistema.",
+    "option_d": "mostram as relações predador-presa no ecossistema."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7029505",
+    "answer": "C",
+    "instruction": "Como os tipos sanguíneos diferem uns dos outros na classificação sanguínea ABO?",
+    "option_a": "tamanhos diferentes de células vermelhas do sangue",
+    "option_b": "tamanhos diferentes de células brancas do sangue",
+    "option_c": "diferentes proteínas marcadoras em células vermelhas do sangue",
+    "option_d": "diferentes proteínas marcadoras em células brancas do sangue"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_LBS10598",
+    "answer": "A",
+    "instruction": "Um cubo de gelo derrete e depois evapora. O cubo de gelo e o vapor de água têm o mesmo",
+    "option_a": "massa.",
+    "option_b": "densidade.",
+    "option_c": "volume.",
+    "option_d": "temperatura."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7245893",
+    "answer": "B",
+    "instruction": "Qual parte do sistema digestivo causa primeiramente mudanças químicas no alimento?",
+    "option_a": "dentes na boca",
+    "option_b": "saliva na boca",
+    "option_c": "enzimas no estômago",
+    "option_d": "enzimas no intestino delgado"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7246925",
+    "answer": "D",
+    "instruction": "A leucina é um dos aminoácidos necessários ao seu corpo, mas que não pode ser produzido. O que acontece para que o corpo humano possa obter leucina?",
+    "option_a": "O corpo converte outros aminoácidos em leucina.",
+    "option_b": "O corpo armazena carboidratos contendo leucina.",
+    "option_c": "O corpo decompõe ácidos graxos para obter leucina.",
+    "option_d": "O corpo digere proteínas dos alimentos para obter leucina."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7138688",
+    "answer": "D",
+    "instruction": "Qual procedimento ajuda melhor a determinar se uma investigação é cientificamente válida?",
+    "option_a": "fazendo anotações sobre a condição do equipamento utilizado no procedimento",
+    "option_b": "realizando uma investigação com um grupo de pessoas",
+    "option_c": "realizando o procedimento minuciosamente uma vez",
+    "option_d": "repetindo uma investigação várias vezes"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_408700",
+    "answer": "C",
+    "instruction": "Emily fez uma xícara de chá e mexeu com uma colher. A colher ficou quente. Como o calor do chá foi transferido para a colher?",
+    "option_a": "convecção",
+    "option_b": "radiação",
+    "option_c": "condução",
+    "option_d": "evaporação"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7100608",
+    "answer": "B",
+    "instruction": "A família de Michael está construindo uma nova casa. Eles gostariam de usar eletricidade gerada por fontes renováveis. Qual dessas fontes de energia ajudaria a família a alcançar seu objetivo?",
+    "option_a": "motor a gasolina",
+    "option_b": "painéis solares no telhado",
+    "option_c": "usina de energia a carvão",
+    "option_d": "usina nuclear de energia"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7133648",
+    "answer": "C",
+    "instruction": "Qual tarefa na cozinha é um exemplo de mudança física?",
+    "option_a": "fritar um ovo",
+    "option_b": "assar um bolo",
+    "option_c": "derreter manteiga",
+    "option_d": "torrar pão"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_401244",
+    "answer": "D",
+    "instruction": "Qual tipo de rocha é mais útil para estudar a história dos organismos vivos?",
+    "option_a": "basalto",
+    "option_b": "mármore",
+    "option_c": "granito",
+    "option_d": "calcário"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_400397",
+    "answer": "C",
+    "instruction": "Qual desses comportamentos um urso provavelmente aprendeu ao viver em seu ambiente?",
+    "option_a": "beber água",
+    "option_b": "comer peixe",
+    "option_c": "abrir tampas de latas de lixo",
+    "option_d": "proteger seus filhotes"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7245088",
+    "answer": "D",
+    "instruction": "O que descreve a composição dos carboidratos?",
+    "option_a": "lipídios se unindo para formar fosfolipídios",
+    "option_b": "monômeros se unindo para formar polímeros",
+    "option_c": "aminoácidos se unindo para formar polipeptídeos",
+    "option_d": "sacarídeos se unindo para formar polissacarídeos"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_408809",
+    "answer": "C",
+    "instruction": "Em camundongos, uma determinada espécie exibe dominância incompleta na coloração da pelagem. Os descendentes de um camundongo preto (BB) e um camundongo branco (bb) são camundongos cinzentos (Bb). Um cruzamento entre dois camundongos cinzentos provavelmente produzirá descendentes com qual porcentagem de coloração da pelagem?",
+    "option_a": "25% preto, 75% cinzento",
+    "option_b": "25% cinzento, 75% branco",
+    "option_c": "25% branco, 25% preto, 50% cinzento",
+    "option_d": "25% cinzento, 25% preto, 50% branco"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7068863",
+    "answer": "C",
+    "instruction": "Um estudante investigou o efeito do ferro no crescimento das plantas. Quatro plantas idênticas receberam uma quantidade diferente de suplemento de ferro ao serem regadas. Esta investigação poderia ter sido aprimorada se houvesse",
+    "option_a": "minhocas no solo.",
+    "option_b": "menos plantas no experimento.",
+    "option_c": "plantas que receberam água sem suplementos de ferro.",
+    "option_d": "plantas que receberam diferentes quantidades de luz solar."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7166880",
+    "answer": "D",
+    "instruction": "Clay está acompanhando o clima para se preparar para uma viagem à praia amanhã. A previsão prevê que um sistema de baixa pressão se mova durante a noite. Que tipo de clima Clay pode esperar com mais probabilidade de ter pela manhã?",
+    "option_a": "nebuloso",
+    "option_b": "ensolarado",
+    "option_c": "céu limpo e mais frio",
+    "option_d": "nublado e chuvoso"
+  },
+  {
+    "id": "ARC-Challenge/validation/ACTAAP_2007_7_25",
+    "answer": "A",
+    "instruction": "Qual não é uma regra de segurança para o laboratório de ciências?",
+    "option_a": "Medir líquidos com precisão em um béquer.",
+    "option_b": "Nunca cortar objetos enquanto os segura nas mãos.",
+    "option_c": "Usar óculos de segurança ao manusear substâncias perigosas.",
+    "option_d": "Ao perceber odores, movimentar os vapores em direção ao nariz em vez de colocar o rosto sobre a fonte."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7018445",
+    "answer": "D",
+    "instruction": "Através de qual material o som viajaria mais rápido?",
+    "option_a": "rolha de cortiça",
+    "option_b": "água",
+    "option_c": "ar",
+    "option_d": "aço"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7033653",
+    "answer": "C",
+    "instruction": "Qual é a melhor unidade para medir distâncias entre a Terra e outros sistemas solares no universo?",
+    "option_a": "milhas",
+    "option_b": "quilômetros",
+    "option_c": "anos-luz",
+    "option_d": "unidades astronômicas"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2006_5_29",
+    "answer": "D",
+    "instruction": "Quatro hastes de igual espessura, mas feitas de metais diferentes foram testadas com quantidades iguais de peso para ver qual era mais flexível. Qual das seguintes é a melhor maneira de relatar os resultados deste experimento?",
+    "option_a": "uma lista de cada tipo de haste usada",
+    "option_b": "um esboço de cada haste antes do teste",
+    "option_c": "uma tabela mostrando quanto cada haste pesava",
+    "option_d": "um gráfico de barras mostrando o quanto cada haste se dobrou"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7159268",
+    "answer": "A",
+    "instruction": "Após a última era do gelo, o derretimento das calotas de gelo polares e de montanha causou o aumento dos níveis de água dos oceanos. O que provavelmente resultou no aumento dos níveis de água do oceano?",
+    "option_a": "aumento no teor de sal das zonas úmidas costeiras existentes",
+    "option_b": "aumento no número de organismos nos recifes existentes",
+    "option_c": "diminuição do número de marés a cada dia",
+    "option_d": "diminuição da profundidade do fundo do oceano"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_400885",
+    "answer": "D",
+    "instruction": "Qual equação é uma equação química balanceada?",
+    "option_a": "2NaOH + CaBr_{2} -> Ca(OH)_{2} + NaBr",
+    "option_b": "NO + Cl_{2} -> NOCl",
+    "option_c": "CaCO_{3} -> CaO + 2CO_{2}",
+    "option_d": "2AlCl_{3} + 3Mg -> 3MgCl_{2} + 2Al"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7038273",
+    "answer": "A",
+    "instruction": "Enquanto realiza um experimento, um estudante coleta diversas temperaturas diferentes da água, duas medidas de massa e três medidas de volume. Qual seria a melhor maneira de organizar os dados?",
+    "option_a": "em uma tabela",
+    "option_b": "em um gráfico",
+    "option_c": "em uma narrativa escrita",
+    "option_d": "ilustrado com imagens"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_407574",
+    "answer": "A",
+    "instruction": "Qual gás é liberado pelos produtores que os consumidores absorvem para sobreviver?",
+    "option_a": "oxigênio",
+    "option_b": "nitrogênio",
+    "option_c": "vapor de água",
+    "option_d": "dióxido de carbono"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_1998_4_8",
+    "answer": "B",
+    "instruction": "Onde seria MAIS perigoso trabalhar com ferramentas elétricas?",
+    "option_a": "em uma garagem",
+    "option_b": "ao lado de uma piscina",
+    "option_c": "perto de uma televisão ou computador",
+    "option_d": "em um porão fresco"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7128695",
+    "answer": "C",
+    "instruction": "Um cientista faz uma descoberta enquanto realiza uma investigação, mas não mantém registros claros dos testes realizados. De que forma a falta de registro afeta o trabalho do cientista?",
+    "option_a": "Invalida os procedimentos e conclusões.",
+    "option_b": "Torna os dados obtidos no estudo incorretos.",
+    "option_c": "Impede outros cientistas de validar os resultados.",
+    "option_d": "Proíbe outros cientistas de desenvolver novas hipóteses."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400178",
+    "answer": "C",
+    "instruction": "Qual mistura pode ser separada em seus ingredientes?",
+    "option_a": "batatas fritas",
+    "option_b": "bolo de chocolate",
+    "option_c": "salada de frutas",
+    "option_d": "ovos mexidos"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7189823",
+    "answer": "A",
+    "instruction": "Um vulcão entra em erupção e cobre a área circundante com lava e cinzas vulcânicas. À medida que o ecossistema começa a se recuperar, qual tipo de planta provavelmente será a primeira a colonizar a terra na área circundante à erupção?",
+    "option_a": "musgos",
+    "option_b": "flores silvestres",
+    "option_c": "árvores de madeira dura",
+    "option_d": "arbustos sempreverdes"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_412683",
+    "answer": "D",
+    "instruction": "Qual é a velocidade de uma onda de 2 Hz que possui um comprimento de onda de 10 m?",
+    "option_a": "5 m/s",
+    "option_b": "8 m/s",
+    "option_c": "12 m/s",
+    "option_d": "20 m/s"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_184258",
+    "answer": "A",
+    "instruction": "Qual das seguintes características dos riachos afeta mais diretamente as deposições nos riachos?",
+    "option_a": "gradiente",
+    "option_b": "elevação",
+    "option_c": "nível base",
+    "option_d": "qualidade da água"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_192168",
+    "answer": "D",
+    "instruction": "Os modelos científicos são muito comuns. Qual das opções abaixo um modelo físico seria menos útil?",
+    "option_a": "simular fenômenos científicos",
+    "option_b": "simplificar uma ideia complexa",
+    "option_c": "permitir a visualização",
+    "option_d": "exibir dados"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_LBS10399",
+    "answer": "D",
+    "instruction": "Um microscópio amplia um objeto com 50x de ampliação. Qual é o comprimento do objeto se a imagem parecer ter 0,5 cm?",
+    "option_a": "100 cm",
+    "option_b": "25 cm",
+    "option_c": "2,5 cm",
+    "option_d": "0,01 cm"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7228603",
+    "answer": "C",
+    "instruction": "Qual das seguintes opções é um resultado da troca de partes cromossômicas homólogas durante o processo de meiose?",
+    "option_a": "mutações aleatórias",
+    "option_b": "diminuição do número de gametas",
+    "option_c": "descendência com combinações únicas de características",
+    "option_d": "diminuição do número de alelos em cada cromossomo"
+  },
+  {
+    "id": "ARC-Challenge/validation/MEA_2013_5_3",
+    "answer": "D",
+    "instruction": "O Sol é classificado como uma estrela. Qual característica identifica o Sol como uma estrela?",
+    "option_a": "O Sol gira em torno de seu eixo.",
+    "option_b": "O Sol está localizado fora da galáxia Via Láctea.",
+    "option_c": "O Sol faz parte do Ursa Maior.",
+    "option_d": "O Sol produz luz e energia em uma reação nuclear."
+  },
+  {
+    "id": "ARC-Challenge/validation/NCEOGA_2013_8_38",
+    "answer": "C",
+    "instruction": "No inverno, a pelagem da raposa ártica é branca. No verão, a pelagem escurece para um marrom avermelhado. O que mais provavelmente causa a mudança de cor na pelagem da raposa?",
+    "option_a": "a quantidade de luz solar presente",
+    "option_b": "o habitat da raposa",
+    "option_c": "os genes da raposa",
+    "option_d": "a idade da raposa"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7221095",
+    "answer": "A",
+    "instruction": "Qual destes é um elemento abiótico num ecossistema?",
+    "option_a": "a média anual de precipitação no ecossistema",
+    "option_b": "os tipos de produtores encontrados no ecossistema",
+    "option_c": "o tamanho da população de predadores no ecossistema",
+    "option_d": "os micro-organismos que vivem no solo do ecossistema"
+  },
+  {
+    "id": "ARC-Challenge/validation/MEAP_2005_5_1",
+    "answer": "C",
+    "instruction": "O vapor de água existe na atmosfera como ___.",
+    "option_a": "um gás visível",
+    "option_b": "um líquido visível",
+    "option_c": "um gás invisível",
+    "option_d": "um líquido invisível"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_406939",
+    "answer": "C",
+    "instruction": "Qual é uma maneira pela qual um pedaço de papel pode passar por uma mudança química?",
+    "option_a": "dobrar o papel ao meio",
+    "option_b": "embeber o papel em água",
+    "option_c": "queimar o papel com fogo",
+    "option_d": "cortar o papel com tesoura"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7219415",
+    "answer": "C",
+    "instruction": "Qual exemplo é uma função da membrana seletivamente permeável de uma célula?",
+    "option_a": "apoiar a forma da célula",
+    "option_b": "produzir proteínas para a célula",
+    "option_c": "limitar produtos químicos que difundem para fora da célula",
+    "option_d": "armazenar resíduos para a célula"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_1999_8_22",
+    "answer": "B",
+    "instruction": "Qual o tipo de ponte que utiliza cabos para sustentação?",
+    "option_a": "uma ponte treliça",
+    "option_b": "uma ponte suspensa",
+    "option_c": "uma ponte em viga",
+    "option_d": "uma ponte em balanço"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2006_9_33",
+    "answer": "D",
+    "instruction": "Devido à caça, à seca e à doença, os guepardos chegaram perto da extinção. Agora há muito pouca variação genética nas populações de guepardos. Qual das seguintes opções é um resultado da limitada variação genética nas populações atuais de guepardos em comparação com as populações anteriores de guepardos com mais variação?",
+    "option_a": "Os guepardos das populações atuais são mais resistentes a novas doenças.",
+    "option_b": "A taxa de sobrevivência dos filhotes de guepardo é maior nas populações atuais.",
+    "option_c": "Os guepardos das populações atuais têm menos capacidade de cruzar com outras espécies.",
+    "option_d": "As populações atuais de guepardos são menos propensas a poder se adaptar às mudanças ambientais."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7135310",
+    "answer": "C",
+    "instruction": "Por que a energia de saída de uma máquina é sempre menor do que a energia de entrada?",
+    "option_a": "Alguma energia é destruída durante a operação da máquina.",
+    "option_b": "A máquina deve superar a força constante do magnetismo.",
+    "option_c": "A energia útil diminui à medida que a energia é transferida para o ambiente.",
+    "option_d": "Alguma energia é liberada como calor durante a conversão."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_414131",
+    "answer": "C",
+    "instruction": "Qual descreve uma propriedade comum de todos os elementos?",
+    "option_a": "Todos os elementos são metais.",
+    "option_b": "Todos os elementos têm seis elétrons.",
+    "option_c": "Todos os elementos são substâncias puras.",
+    "option_d": "Todos os elementos existem na fase sólida."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7112753",
+    "answer": "B",
+    "instruction": "Para localizar uma população de besouros, os cientistas devem usar um equipamento altamente especializado. Qual fator limitaria mais provavelmente a capacidade de localizar besouros?",
+    "option_a": "clima",
+    "option_b": "custo",
+    "option_c": "tamanho da amostra",
+    "option_d": "política"
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2009_5_16",
+    "answer": "D",
+    "instruction": "Os alunos visitaram o telescópio Morris W. Offit localizado no Observatório do Maryland Space Grant em Baltimore. Eles aprenderam sobre as estrelas, planetas e a lua. Os alunos registraram as informações abaixo. • Padrões de estrelas permanecem os mesmos, mas suas localizações no céu parecem mudar. • O sol, planetas e a lua parecem se mover no céu. • Proxima Centauri é a estrela mais próxima de nosso sistema solar. • Polaris é uma estrela que faz parte de um padrão de estrelas chamado de Pequena Ursa. Qual afirmação melhor explica por que o sol parece se mover através do céu a cada dia?",
+    "option_a": "O sol gira em torno da Terra.",
+    "option_b": "A Terra gira em torno do sol.",
+    "option_c": "O sol gira em seu eixo.",
+    "option_d": "A Terra gira em seu eixo."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7236023",
+    "answer": "B",
+    "instruction": "Uma massa de ar está a uma altitude de 1000 metros no centro de baixa pressão de uma tempestade no Hemisfério Norte. Qual das seguintes melhores descreve o movimento das partículas de ar nesta massa de ar devido às condições da tempestade e à rotação da Terra à medida que a massa de ar se move para fora?",
+    "option_a": "As partículas de ar se movem para cima e para a esquerda.",
+    "option_b": "As partículas de ar se movem para cima e para a direita.",
+    "option_c": "As partículas de ar se movem para baixo e para a esquerda.",
+    "option_d": "As partículas de ar se movem para baixo e para a direita."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7270008",
+    "answer": "C",
+    "instruction": "A mineração de superfície para carvão envolve remover toda a vegetação e rochas acima do carvão sendo minerado. Quais dois dos subsistemas da Terra são imediatamente afetados pela mineração de superfície?",
+    "option_a": "litosfera e atmosfera",
+    "option_b": "biosfera e hidrosfera",
+    "option_c": "litosfera e biosfera",
+    "option_d": "atmosfera e hidrosfera"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7099768",
+    "answer": "D",
+    "instruction": "Quando uma bola de boliche é liberada da mão do jogador, a energia na bola é parcialmente ",
+    "option_a": "armazenada na bola até ela acertar os pinos.",
+    "option_b": "aumentada à medida que o atrito é aplicado na bola.",
+    "option_c": "convertida de energia cinética em energia potencial gravitacional.",
+    "option_d": "convertida em calor e som ao fazer contato com o chão."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7269238",
+    "answer": "D",
+    "instruction": "Motores a diesel podem queimar muitos tipos de combustível. Qual combustível seria o mais renovável para um motor a diesel?",
+    "option_a": "combustível diesel convencional",
+    "option_b": "querosene destilado",
+    "option_c": "óleo vegetal produzido convencionalmente",
+    "option_d": "óleo vegetal produzido organicamente"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7187915",
+    "answer": "A",
+    "instruction": "Amanda e Jake aprenderam sobre as formas cinética e potencial de energia dentro de um circuito elétrico simples. O circuito que eles estão estudando possui uma bateria, fios e uma lâmpada. Qual é uma forma de energia potencial no circuito?",
+    "option_a": "energia química na bateria",
+    "option_b": "energia luminosa da lâmpada",
+    "option_c": "energia térmica perdida pelos fios elétricos",
+    "option_d": "energia elétrica movendo-se através da lâmpada"
+  },
+  {
+    "id": "ARC-Challenge/validation/OHAT_2011_8_3",
+    "answer": "D",
+    "instruction": "Qual ação demonstra uma mudança química?",
+    "option_a": "Corte e secagem de cabelo comprido.",
+    "option_b": "Um lápis de madeira é afiado e quebra.",
+    "option_c": "Um cubo de gelo derrete e se torna um líquido transparente.",
+    "option_d": "Um prego de ferro fica laranja e descasca na superfície."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7159775",
+    "answer": "A",
+    "instruction": "Janette realiza uma investigação para ver quais alimentos a fazem sentir mais cansada. Ela come um dos quatro alimentos diferentes todos os dias ao mesmo tempo por quatro dias e depois registra como ela se sente. Ela pede a sua amiga Carmen para fazer a mesma investigação para ver se ela obtém resultados semelhantes. O que tornaria a investigação mais difícil de replicar?",
+    "option_a": "medir a quantidade de fadiga",
+    "option_b": "garantir que os mesmos alimentos sejam consumidos",
+    "option_c": "registar as observações no mesmo gráfico",
+    "option_d": "garantir que os alimentos estejam na mesma temperatura"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_402239",
+    "answer": "C",
+    "instruction": "Qual é a melhor maneira de conservar os recursos naturais em casa?",
+    "option_a": "Jogar todo vidro no lixo.",
+    "option_b": "Usar toalhas de papel para limpar derramamentos.",
+    "option_c": "Reduzir o tempo de banho.",
+    "option_d": "Regar o gramado todos os dias."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_184013",
+    "answer": "C",
+    "instruction": "Qual dos seguintes seria o menos destrutivo para a terra?",
+    "option_a": "um terremoto de magnitude 7,2",
+    "option_b": "um aumento repentino de água provocado por tempestade tropical",
+    "option_c": "uma tempestade elétrica",
+    "option_d": "uma erupção vulcânica"
+  },
+  {
+    "id": "ARC-Challenge/validation/NCEOGA_2013_8_4",
+    "answer": "D",
+    "instruction": "Qual a melhor explicação para a razão pela qual a massa total do(s) produto(s) seria menor do que o peso total do(s) reagente(s) após uma reação química?",
+    "option_a": "Ocorreu uma mudança física.",
+    "option_b": "Os átomos envolvidos na reação perderam massa.",
+    "option_c": "Precipitados foram criados na nova solução.",
+    "option_d": "Gases foram liberados na atmosfera."
+  },
+  {
+    "id": "ARC-Challenge/validation/ACTAAP_2013_7_17",
+    "answer": "D",
+    "instruction": "Um grupo quer descobrir se o número de aves aquáticas voando pela Arkansas muda a cada ano. Qual método eles devem usar para coletar essa informação?",
+    "option_a": "Capturar o maior número possível de aves em um ano. Coletar dados sobre a localização de cada ave.",
+    "option_b": "No primeiro dia da primavera no próximo ano, contar o número de aves no maior lago do estado. Comparar os dados com o do ano anterior.",
+    "option_c": "Colocar um observador em um local na linha do estado. Fazer essa pessoa contar as aves enquanto elas voam para dentro do estado. Repetir isto por dois anos.",
+    "option_d": "Escolher um dia por ano durante a migração. Contar o número de aves em dez diferentes lagos do estado. Fazer isto no mesmo dia todos os anos por dez anos."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7183015",
+    "answer": "A",
+    "instruction": "Um artigo recente em um jornal científico explica a relação entre correntes de convecção e tectônica de placas. À medida que o fluido dentro do manto circula, ele faz com que as placas crustais se movam. O que é mais provável que esteja causando a circulação dos líquidos dentro da Terra?",
+    "option_a": "transferências de energia",
+    "option_b": "aquecimento global",
+    "option_c": "variações das marés",
+    "option_d": "correntes oceânicas"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2014_8_17",
+    "answer": "D",
+    "instruction": "Qual dos seguintes é um exemplo de reprodução assexuada?",
+    "option_a": "As tartarugas põem ovos fertilizados em um buraco na areia.",
+    "option_b": "Sementes se formam em cones de pinheiro depois que o pólen alcança os cones.",
+    "option_c": "Peixes liberam células de óvulo e células de esperma na superfície da água.",
+    "option_d": "Árvores enviam extensões parecidas com raízes que produzem novos caules."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_401286",
+    "answer": "B",
+    "instruction": "Muitos animais em perigo são capturados, marcados e depois libertados em seu ambiente natural. A marca pode ser de plástico ou metal codificado que é colocado em algum lugar seguro no corpo. Qual é a razão mais provável para marcar um animal?",
+    "option_a": "para monitorar seus hábitos alimentares",
+    "option_b": "para monitorar seus hábitos de movimentação",
+    "option_c": "para monitorar seus hábitos de sono",
+    "option_d": "para monitorar seus hábitos reprodutivos"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7207358",
+    "answer": "C",
+    "instruction": "A teoria moderna do átomo pode ser melhor descrita como resultado de qual dessas atividades?",
+    "option_a": "os experimentos de John Dalton no início de 1800",
+    "option_b": "as discussões entre dois cientistas importantes",
+    "option_c": "a pesquisa de muitos cientistas ao longo de muitos anos",
+    "option_d": "as ideias de Demócrito sobre átomos há mais de 2000 anos atrás"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7015435",
+    "answer": "A",
+    "instruction": "Quais são os produtos de uma reação entre um ácido forte e uma base forte?",
+    "option_a": "um sal e água",
+    "option_b": "dois elementos diferentes",
+    "option_c": "um ácido fraco e uma base fraca",
+    "option_d": "íons hidrogênio e íons hidróxido"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7044678",
+    "answer": "A",
+    "instruction": "Qual é a melhor explicação sobre o que acontece com uma folha quando ela perde água necessária?",
+    "option_a": "Sua pressão de turgescência diminui.",
+    "option_b": "Sua pressão atmosférica diminui.",
+    "option_c": "Sua taxa de transpiração aumenta.",
+    "option_d": "Sua taxa de fotossíntese aumenta."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_400905",
+    "answer": "D",
+    "instruction": "O Sol está aproximadamente a 1,5 x 10 ^8 km da Terra. A velocidade da luz é de 3,0 x 10 ^8 m / s. Qual é a distância do Sol à Terra em segundos-luz?",
+    "option_a": "2,0 segundos-luz",
+    "option_b": "0,5 segundos-luz",
+    "option_c": "2,0 x 10^-3 segundos-luz",
+    "option_d": "5,0 x 10^2 segundos-luz"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_LBS10040",
+    "answer": "D",
+    "instruction": "O que a fotossíntese produz que ajuda as plantas a crescerem?",
+    "option_a": "água",
+    "option_b": "oxigênio",
+    "option_c": "proteína",
+    "option_d": "açúcar"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_8_41",
+    "answer": "D",
+    "instruction": "Em um acidente de carro, o cinto de segurança ajuda a evitar lesões aplicando uma força",
+    "option_a": "menor que a força do passageiro em movimento",
+    "option_b": "maior que a força do carro em movimento",
+    "option_c": "na mesma direção do movimento do carro",
+    "option_d": "na direção oposta ao movimento do passageiro"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7141908",
+    "answer": "C",
+    "instruction": "Cientistas descobriram uma nova espécie de um organismo complexo no fundo do oceano. O organismo provavelmente",
+    "option_a": "é unicelular.",
+    "option_b": "é uma forma de bactéria.",
+    "option_c": "é composto de várias células.",
+    "option_d": "não possui um núcleo organizado."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_406029",
+    "answer": "D",
+    "instruction": "Para uma atividade de ciências, Mia teve que desenhar uma imagem da Lua todas as noites. Se Mia desenhou uma lua nova, que tipo de lua Mia desenhou cerca de uma semana depois?",
+    "option_a": "giboso",
+    "option_b": "lua cheia",
+    "option_c": "lua nova",
+    "option_d": "primeiro quarto"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7105123",
+    "answer": "C",
+    "instruction": "Registros fósseis indicam que as mudanças de espécies geralmente",
+    "option_a": "param quando uma espécie se forma.",
+    "option_b": "aceleram com condições estáveis.",
+    "option_c": "ocorrem ao longo de muitas gerações.",
+    "option_d": "são independentes do ambiente."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400339",
+    "answer": "C",
+    "instruction": "Qual declaração não é uma razão pela qual árvores cresceriam em alturas diferentes em uma floresta?",
+    "option_a": "Algumas requerem menos luz solar do que outras.",
+    "option_b": "As árvores foram plantadas em anos diferentes.",
+    "option_c": "Pássaros estão construindo ninhos nas árvores mais baixas.",
+    "option_d": "As árvores mais altas só têm folhas nos ramos superiores."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415366",
+    "answer": "B",
+    "instruction": "As árvores precisam de oxigênio. As raízes próximas à superfície do solo absorvem o oxigênio necessário para a árvore. Quais organismos ajudam as árvores a obter oxigênio?",
+    "option_a": "pica-paus fazendo buracos na árvore",
+    "option_b": "minhocas fazendo buracos no solo perto da árvore",
+    "option_c": "cogumelos crescendo na base da árvore",
+    "option_d": "esquilos comendo nozes no chão perto da árvore"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7168123",
+    "answer": "B",
+    "instruction": "Anita correu ao redor da pista em sua escola. No final de sua corrida, ela estava inspirando mais ar em seus pulmões e sua frequência cardíaca havia aumentado. Quais sistemas regulam a frequência respiratória e a frequência cardíaca de Anita?",
+    "option_a": "muscular e esquelético",
+    "option_b": "nervoso e endócrino",
+    "option_c": "digestivo e excretor",
+    "option_d": "respiratório e circulatório"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7141400",
+    "answer": "A",
+    "instruction": "Um fazendeiro planta milho em um campo todos os anos por vários anos. A cada ano, ele percebe que sua produção de milho por acre diminuiu mesmo que as condições climáticas tenham sido muito similares. Qual mudança no fator abiótico provavelmente está causando a diminuição na produção de milho?",
+    "option_a": "diminuição de nutrientes do solo",
+    "option_b": "aumento da precipitação",
+    "option_c": "aumento da velocidade do vento",
+    "option_d": "diminuição da luz solar"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2012_8_23636",
+    "answer": "D",
+    "instruction": "Qual dos seguintes processos normalmente leva mais tempo?",
+    "option_a": "A lava quente esfria e forma uma nova rocha.",
+    "option_b": "O vapor de água se condensa para formar uma nuvem.",
+    "option_c": "Uma onda sísmica viaja através do manto.",
+    "option_d": "Uma bacia oceânica se forma entre dois continentes."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_406705",
+    "answer": "B",
+    "instruction": "A turma da Anna contou o número de borboletas no jardim da escola para uma tarefa. Os resultados da Anna foram diferentes do resto da turma. O que ela deve fazer?",
+    "option_a": "Mudar a tarefa.",
+    "option_b": "Deixar os resultados como estão.",
+    "option_c": "Igualar os resultados dela com os da turma.",
+    "option_d": "Pedir para a professora contar para ela."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7186148",
+    "answer": "B",
+    "instruction": "Um estudante está misturando uma xícara de chocolate quente com uma colher. Como é transferido o calor entre o chocolate quente e a parte da colher que está dentro do chocolate quente?",
+    "option_a": "A condução transfere energia da colher para o chocolate quente.",
+    "option_b": "A condução transfere energia do chocolate quente para a colher.",
+    "option_c": "A convecção transfere energia da colher para o chocolate quente.",
+    "option_d": "A convecção transfere energia do chocolate quente para a colher."
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_28",
+    "answer": "B",
+    "instruction": "Grandes aves vêm comido pequenos animais em uma área. Se todas as grandes aves morressem de uma doença, a quantidade de pequenos animais provavelmente",
+    "option_a": "diminuiria",
+    "option_b": "aumentaria",
+    "option_c": "permaneceria a mesma"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7005478",
+    "answer": "B",
+    "instruction": "A temperatura do corpo humano é relativamente constante. Qual é o mecanismo de feedback que ajuda o corpo humano a manter sua temperatura normal em um ambiente frio?",
+    "option_a": "A água é liberada pela pele.",
+    "option_b": "Os músculos tremem em pequenos movimentos.",
+    "option_c": "A taxa de batimentos cardíacos diminui.",
+    "option_d": "Os pulmões absorvem ar adicional."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2009_8_5",
+    "answer": "D",
+    "instruction": "Qual das seguintes opções seria mais eficaz na redução do congestionamento de tráfego aéreo em um aeroporto movimentado?",
+    "option_a": "fornecer feedback de desempenho aos pilotos",
+    "option_b": "fornecer informações de voo aos passageiros",
+    "option_c": "aumentar o número de aeronaves no aeroporto",
+    "option_d": "aumentar o número de pistas no aeroporto"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7037573",
+    "answer": "D",
+    "instruction": "Qual é a melhor prática a seguir ao realizar um experimento?",
+    "option_a": "usando cuidado ao manusear vidraria quente",
+    "option_b": "desligando os queimadores quando você não estiver usando",
+    "option_c": "estudando os procedimentos do laboratório antes de conduzir o experimento",
+    "option_d": "verificando com seu professor o procedimento para descarte de produtos químicos"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2012_5_8",
+    "answer": "B",
+    "instruction": "Cameron está comprando uma nova mesa. Ele quer ter certeza de que a mesa caberá no canto do seu quarto. Quando Cameron faz compras para a nova mesa, qual das seguintes opções o ajudará melhor a garantir que a mesa caiba?",
+    "option_a": "uma imagem mostrando o tapete em seu quarto",
+    "option_b": "um diagrama das medidas do seu quarto",
+    "option_c": "um desenho mostrando como montar uma mesa",
+    "option_d": "uma lista de ferramentas que ele precisa para montar a mesa"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7092295",
+    "answer": "C",
+    "instruction": "Qual ação cria competição entre preocupações ambientais e ganhos econômicos?",
+    "option_a": "proteger espécies de animais ameaçadas de extinção",
+    "option_b": "reintroduzir animais em seus habitats naturais",
+    "option_c": "usar terras florestais para construir casas",
+    "option_d": "usar ônibus urbanos para transporte"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7131828",
+    "answer": "C",
+    "instruction": "Em muitas áreas tropicais, os mosquitos podem carregar um parasita que pode causar uma doença infecciosa entre os humanos. O que descreve melhor este tipo de relação entre mosquitos e humanos?",
+    "option_a": "predador-presa",
+    "option_b": "competição por recursos",
+    "option_c": "fatores bióticos interagindo entre si",
+    "option_d": "transferência de energia entre produtor e consumidor"
+  },
+  {
+    "id": "ARC-Challenge/validation/TIMSS_2003_8_pg31",
+    "answer": "B",
+    "instruction": "O ato de abanar pode fazer uma fogueira de madeira queimar mais intensamente porque o abanar",
+    "option_a": "torna a comida quente o suficiente para queimar",
+    "option_b": "adiciona mais oxigênio necessário para a queima",
+    "option_c": "aumenta a quantidade de madeira para queimar",
+    "option_d": "fornece a energia necessária para manter a fogueira acesa"
+  },
+  {
+    "id": "ARC-Challenge/validation/ACTAAP_2007_7_5",
+    "answer": "B",
+    "instruction": "É realizado um experimento com um recipiente lacrado. O recipiente começa com uma temperatura de 70 graus F e uma pressão de ar de 20 psi. O recipiente é aquecido, e a pressão dentro do recipiente aumenta uniformemente com o aumento da temperatura. Se o recipiente for resfriado de volta para 70 graus F, qual será a pressão do ar?",
+    "option_a": "10 psi",
+    "option_b": "20 psi",
+    "option_c": "30 psi",
+    "option_d": "40 psi"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7120908",
+    "answer": "D",
+    "instruction": "Um planador é um avião sem motor. Além do tamanho, quais são as principais coisas a serem consideradas ao projetar um planador para cobrir uma grande distância?",
+    "option_a": "impacto ambiental e massa",
+    "option_b": "custo e impacto ambiental",
+    "option_c": "força e custo",
+    "option_d": "massa e força"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_180443",
+    "answer": "C",
+    "instruction": "Qual fase da Lua ocorre após uma gibosa crescente?",
+    "option_a": "minguante giboso",
+    "option_b": "lua nova gibosa",
+    "option_c": "lua cheia",
+    "option_d": "lua nova"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7238963",
+    "answer": "A",
+    "instruction": "Um queixo fendido em humanos é codificado pelo alelo dominante C. Um queixo sem fenda é codificado pelo alelo recessivo c. Um homem com uma combinação de alelos cc para o traço produz um zigoto com uma mulher com uma combinação de alelos Cc para o traço. Quais combinações de alelos podem ocorrer no zigoto?",
+    "option_a": "Cc ou cc",
+    "option_b": "CC ou Cc",
+    "option_c": "Apenas CC",
+    "option_d": "Apenas Cc"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_184765",
+    "answer": "B",
+    "instruction": "Qual das seguintes é a consequência mais provável do desmatamento de grandes áreas contínuas de floresta?",
+    "option_a": "A porcentagem de oxigênio sobre a área irá aumentar.",
+    "option_b": "A quantidade de erosão dentro da área irá aumentar.",
+    "option_c": "A diversidade de espécies na área irá diminuir.",
+    "option_d": "Os nutrientes do solo na área irão diminuir."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7235813",
+    "answer": "D",
+    "instruction": "O carbono circula por vários reservatórios na Terra. O tempo que leva para formar esses reservatórios varia muito. Qual processo no ciclo do carbono leva milhões de anos para formar o reservatório mencionado?",
+    "option_a": "incorporação de carbono através da digestão nos tecidos animais",
+    "option_b": "liberação de carbono na atmosfera durante a respiração",
+    "option_c": "carbono atmosférico incorporado em açúcares nas plantas",
+    "option_d": "decomposição do carbono nos tecidos vegetais para formar petróleo"
+  },
+  {
+    "id": "ARC-Challenge/validation/OHAT_2007_5_24",
+    "answer": "B",
+    "instruction": "Em uma floresta, como os decompositores ajudam outros organismos a sobreviver?",
+    "option_a": "Eles liberam oxigênio no ar que os animais respiram.",
+    "option_b": "Eles adicionam nutrientes ao solo que as plantas usam para crescer.",
+    "option_c": "Eles fornecem abrigo em florestas onde os animais podem se esconder.",
+    "option_d": "Eles usam a luz do sol para produzir alimentos para plantas e animais."
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2007_8_15",
+    "answer": "C",
+    "instruction": "Ações humanas afetam o meio ambiente. Qual ação humana afeta a menor área do meio ambiente?",
+    "option_a": "queimar uma floresta",
+    "option_b": "queimar combustíveis fósseis",
+    "option_c": "escavar um novo aterro sanitário",
+    "option_d": "pulverizar culturas com produtos químicos"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7162838",
+    "answer": "D",
+    "instruction": "Ratos de laboratório foram alimentados com suplementos de mirtilos, morangos ou espinafre juntamente com sua comida regular. Após oito semanas, os ratos foram submetidos a testes de memória e habilidades motoras. Os ratos que receberam o suplemento de mirtilo apresentaram mais melhorias. Qual é a variável independente (manipulada) da investigação?",
+    "option_a": "o teste de habilidades motoras",
+    "option_b": "o processo de envelhecimento",
+    "option_c": "o teste de memória",
+    "option_d": "os suplementos"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_405973",
+    "answer": "B",
+    "instruction": "Vários tipos de pássaros vivem em uma pequena ilha. Uma tempestade destrói a maioria das plantas em que os pássaros se alimentam e constroem seus ninhos. Qual tipo de pássaro tem mais chances de sobreviver na ilha?",
+    "option_a": "os pássaros que têm o maior número",
+    "option_b": "os pássaros que são mais capazes de se adaptar",
+    "option_c": "os pássaros que podem voar mais longe",
+    "option_d": "os pássaros com os bicos mais fortes"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2000_8_10",
+    "answer": "B",
+    "instruction": "Qual afirmação é uma opinião?",
+    "option_a": "Muitas plantas são verdes.",
+    "option_b": "Muitas plantas são bonitas.",
+    "option_c": "As plantas precisam de luz solar.",
+    "option_d": "As plantas podem crescer em lugares diferentes."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7103180",
+    "answer": "B",
+    "instruction": "Qual bioma tem mais vegetação?",
+    "option_a": "deserto",
+    "option_b": "floresta",
+    "option_c": "savana",
+    "option_d": "tundra"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7221865",
+    "answer": "C",
+    "instruction": "Um grupo de estudantes observou a formação de bolhas quando a água ferveu. O que aconteceu com a matéria devido à mudança física na água?",
+    "option_a": "Nova matéria foi criada nas bolhas.",
+    "option_b": "Matéria antiga foi destruída à medida que a água se transformou em gás.",
+    "option_c": "A matéria foi conservada quando mudou de forma.",
+    "option_d": "A composição da matéria mudou."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7242743",
+    "answer": "D",
+    "instruction": "As proteínas que são sintetizadas em subunidades ribossômicas sofrem extensa modificação pós-traducional e são embaladas e direcionadas para o destino apropriado. Qual componente estrutural de uma célula está envolvido em tal modificação?",
+    "option_a": "retículo endoplasmático",
+    "option_b": "lisossomos",
+    "option_c": "mitocôndrias",
+    "option_d": "aparelho de Golgi"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7103565",
+    "answer": "C",
+    "instruction": "Sistemas de alta pressão impedem que o ar suba em direção às regiões mais frias da atmosfera, onde a água pode se condensar. O que é mais provável de acontecer se um sistema de alta pressão permanecer em uma área por um longo período de tempo?",
+    "option_a": "nevoeiro",
+    "option_b": "chuva",
+    "option_c": "seca",
+    "option_d": "tornado"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415541",
+    "answer": "D",
+    "instruction": "Qual desses objetos é mais provável que flutue na água?",
+    "option_a": "bolinha de vidro",
+    "option_b": "bola de aço",
+    "option_c": "bola de borracha rígida",
+    "option_d": "bola de tênis de mesa"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_9",
+    "answer": "A",
+    "instruction": "Um estudante retira uma bandeja de cubos de gelo do congelador e a coloca sobre uma mesa. Os cubos de gelo estão sólidos e frios. O estudante esquece de devolver a bandeja de cubos de gelo para o congelador. No dia seguinte, os cubos de gelo devem estar",
+    "option_a": "líquidos e mais quentes",
+    "option_b": "sólidos e mais quentes",
+    "option_c": "líquidos e mais frios",
+    "option_d": "sólidos e mais frios"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7097318",
+    "answer": "D",
+    "instruction": "Um esquilo deixou cair uma bolota de um ramo de uma árvore de carvalho. Qual destes mudará à medida que a bolota cai da árvore para o chão?",
+    "option_a": "a massa da bolota",
+    "option_b": "a força na bolota",
+    "option_c": "a densidade da bolota",
+    "option_d": "a velocidade da bolota"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_8_20",
+    "answer": "B",
+    "instruction": "A equação abaixo mostra os produtos formados quando uma solução de nitrato de prata (AgNO3) reage com uma solução de cloreto de sódio (NaCl). AgNO3 \u0002+ NaCl (Reagentes) -> NaNO3 \u0002+ AgCl (Produtos) Nesta equação, a massa total dos reagentes é",
+    "option_a": "maior que a massa total dos produtos",
+    "option_b": "igual à massa total dos produtos",
+    "option_c": "igual à massa de AgCl",
+    "option_d": "menor que a massa de AgCl"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415397",
+    "answer": "C",
+    "instruction": "Qual mudança faz uma estrutura na superfície da Terra?",
+    "option_a": "Uma enchente faz as pessoas deixarem uma cidade.",
+    "option_b": "Um terremoto cria ondas em um campo.",
+    "option_c": "Um vulcão cria nova terra com lava.",
+    "option_d": "Um deslizamento de terra em uma baía cria uma onda de maré."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7246348",
+    "answer": "A",
+    "instruction": "Qual recurso não se forma como resultado da divergência das placas tectônicas?",
+    "option_a": "trincheira",
+    "option_b": "vale do rift",
+    "option_c": "bacia oceânica",
+    "option_d": "crista média oceânica"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7270200",
+    "answer": "A",
+    "instruction": "Cientistas explicaram como aminoácidos, carboidratos, ácidos nucleicos e ácidos graxos poderiam ter sido sintetizados na Terra antes do surgimento de organismos vivos. Qual das seguintes descobertas mais apoiaria a afirmação de que a vida foi gerada espontaneamente a partir desses compostos bioquímicos?",
+    "option_a": "Esses produtos químicos podem se auto-organizar em uma estrutura que se replica.",
+    "option_b": "Esses produtos químicos estão sendo usados por organismos vivos hoje.",
+    "option_c": "Esses produtos químicos são encontrados em outro planeta.",
+    "option_d": "Esses produtos químicos podem se auto-organizar em um vírus."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415026",
+    "answer": "C",
+    "instruction": "Que animais seriam mais provavelmente ajudados por uma inundação em uma área costeira?",
+    "option_a": "veados",
+    "option_b": "guaxinins",
+    "option_c": "jacarés",
+    "option_d": "coiotes"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7143518",
+    "answer": "D",
+    "instruction": "Os castores são conhecidos por construir represas em rios e riachos derrubando árvores e coletando arbustos. A população de castores nos Estados Unidos diminuiu devido à captura por humanos. Qual é uma consequência ecológica que provavelmente ocorre com uma diminuição na população de castores?",
+    "option_a": "uma diminuição significativa nas populações de peixes",
+    "option_b": "um aumento significativo nos ecossistemas florestais",
+    "option_c": "um aumento significativo na evaporação da água",
+    "option_d": "uma diminuição significativa no número de habitats de lagoas"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7032340",
+    "answer": "D",
+    "instruction": "Das opções listadas, qual representa o mundo natural usando um modelo?",
+    "option_a": "ler um livro sobre uma comunidade de cães da pradaria",
+    "option_b": "olhar uma imagem de uma comunidade de cães da pradaria",
+    "option_c": "pesquisar uma comunidade de cães da pradaria usando a Internet",
+    "option_d": "observar uma comunidade de cães da pradaria em uma exposição no zoológico"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_415263",
+    "answer": "C",
+    "instruction": "O que se encontra em uma célula eucariótica mas não em uma célula procariótica?",
+    "option_a": "DNA",
+    "option_b": "citoplasma",
+    "option_c": "um núcleo",
+    "option_d": "uma membrana celular"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7090720",
+    "answer": "B",
+    "instruction": "O etanol é um combustível alternativo feito do milho. Qual é um dos efeitos desfavoráveis de usar etanol como combustível?",
+    "option_a": "diminuição do custo de produção do combustível",
+    "option_b": "diminuição da área disponível de terra cultivável para a produção de alimentos",
+    "option_c": "aumento no consumo de combustíveis fósseis",
+    "option_d": "aumento da pegada de carbono ao dirigir automóveis"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_410964",
+    "answer": "D",
+    "instruction": "Os estudantes estão investigando como funciona uma campainha. Qual observação é mais provável que seja feita durante a investigação?",
+    "option_a": "Todas as campainhas fazem sons bonitos.",
+    "option_b": "Uma bateria é a melhor fonte de energia para uma campainha.",
+    "option_c": "A maioria das pessoas prefere usar uma campainha em vez de bater.",
+    "option_d": "A campainha utiliza um pedaço de fio enrolado em torno de um ímã."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7057313",
+    "answer": "A",
+    "instruction": "O músculo cardíaco é melhor descrito como",
+    "option_a": "o mesmo tipo de células trabalhando em conjunto.",
+    "option_b": "diferentes sistemas trabalhando juntos.",
+    "option_c": "o mesmo tipo de órgãos formando um sistema.",
+    "option_d": "diferentes órgãos executando uma função."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_402101",
+    "answer": "D",
+    "instruction": "Quais características podem ser encontradas na superfície da Terra e da Lua?",
+    "option_a": "plantas",
+    "option_b": "oceanos",
+    "option_c": "animais",
+    "option_d": "montanhas"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2010_8_12010",
+    "answer": "C",
+    "instruction": "Algumas espécies de bactérias produzem uma substância tóxica para insetos, mas inofensiva para humanos. Cientistas isolaram o gene que controla a produção dessa substância. Qual das seguintes opções é a melhor razão para inserir esse gene em plantas de milho?",
+    "option_a": "O milho crescerá mais rápido.",
+    "option_b": "Menos fertilizante será necessário.",
+    "option_c": "Menos pesticidas serão necessários.",
+    "option_d": "O milho será mais nutritivo."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7038133",
+    "answer": "B",
+    "instruction": "Um estudante planeja uma investigação para calcular as velocidades de diferentes bolas enquanto elas rolam em uma rampa. Qual informação é menos importante para o aluno registrar?",
+    "option_a": "o tamanho de cada bola",
+    "option_b": "a espessura da rampa",
+    "option_c": "O comprimento da rampa",
+    "option_d": "o tempo que a bola leva para percorrer"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_407169",
+    "answer": "D",
+    "instruction": "Se um habitat com um pequeno lago passar por uma longa seca, o que é mais provável de acontecer com muitos dos peixes no lago?",
+    "option_a": "Eles se adaptariam ao ambiente seco.",
+    "option_b": "Eles viveriam de outras fontes de água.",
+    "option_c": "Eles se mudariam para outro habitat.",
+    "option_d": "Eles não seriam capazes de sobreviver."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7103215",
+    "answer": "C",
+    "instruction": "Um estudante deseja determinar o efeito do alho no crescimento de uma espécie de fungo. Várias amostras de culturas de fungos são cultivadas na mesma quantidade de ágar e luz. Cada amostra recebe uma quantidade diferente de alho. Qual é a variável independente nesta investigação?",
+    "option_a": "quantidade de ágar",
+    "option_b": "quantidade de luz",
+    "option_c": "quantidade de alho",
+    "option_d": "quantidade de crescimento"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2013_8_29432",
+    "answer": "B",
+    "instruction": "Qual das seguintes partes de uma célula vegetal tem uma função mais semelhante à função do esqueleto de um animal?",
+    "option_a": "membrana celular",
+    "option_b": "parede celular",
+    "option_c": "cloroplasto",
+    "option_d": "núcleo"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7018008",
+    "answer": "A",
+    "instruction": "Qual das opções abaixo melhor descreve a propriedade elétrica de um átomo?",
+    "option_a": "neutro",
+    "option_b": "isolado",
+    "option_c": "carregado positivamente",
+    "option_d": "carregado negativamente"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7166530",
+    "answer": "B",
+    "instruction": "Ira teve que fazer uma investigação de laboratório após a escola. Ele obteve os materiais, produtos químicos, equipamentos e equipamentos de proteção de seu professor. Rapidamente, mas com cautela, ele realizou os passos no procedimento escrito do experimento. Para economizar tempo, ele decidiu registrar suas observações e resultados mais tarde. Qual será mais provavelmente afetado negativamente por sua decisão?",
+    "option_a": "a capacidade de seguir as instruções",
+    "option_b": "a capacidade de escrever um relatório válido",
+    "option_c": "a capacidade de seguir diretrizes de segurança",
+    "option_d": "a capacidade de chegar a uma conclusão"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400047",
+    "answer": "B",
+    "instruction": "Um estudante deixou uma barra de chocolate no sol em um dia quente. Conforme o chocolate derretia, qual propriedade foi alterada?",
+    "option_a": "sua massa",
+    "option_b": "sua forma",
+    "option_c": "seu peso",
+    "option_d": "sua composição"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7044100",
+    "answer": "C",
+    "instruction": "De que forma os nutrientes do solo em campos agrícolas podem ser exauridos?",
+    "option_a": "sobrepastagem",
+    "option_b": "erosão do vento",
+    "option_c": "irrigação aumentada",
+    "option_d": "fertilização aumentada"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7075145",
+    "answer": "A",
+    "instruction": "Qual destes processos torna possível para as células absorverem água?",
+    "option_a": "osmose",
+    "option_b": "mitose",
+    "option_c": "fotossíntese",
+    "option_d": "respiração"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_192290",
+    "answer": "D",
+    "instruction": "Embora pertençam à mesma família, uma águia e um pelicano são diferentes. Qual é uma diferença entre eles?",
+    "option_a": "suas preferência por comer peixe",
+    "option_b": "sua habilidade de voar",
+    "option_c": "seu método de reprodução",
+    "option_d": "seu método de capturar alimentos"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7093975",
+    "answer": "D",
+    "instruction": "Qual é uma causa natural de rios secarem?",
+    "option_a": "poluição",
+    "option_b": "erosão",
+    "option_c": "elevação das águas subterrâneas",
+    "option_d": "falta de precipitação"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7085820",
+    "answer": "D",
+    "instruction": "À medida que a água começa a congelar, as moléculas de água",
+    "option_a": "ganham energia térmica.",
+    "option_b": "se movem mais livremente.",
+    "option_c": "aumentam de tamanho.",
+    "option_d": "diminuem de velocidade."
+  },
+  {
+    "id": "ARC-Challenge/validation/MEA_2016_5_6",
+    "answer": "C",
+    "instruction": "Um balão cheio de água é colocado no congelador. Qual propriedade da água mudará conforme ela atinge o ponto de congelamento?",
+    "option_a": "cor",
+    "option_b": "massa",
+    "option_c": "estado",
+    "option_d": "peso"
+  },
+  {
+    "id": "ARC-Challenge/validation/NCEOGA_2013_5_43",
+    "answer": "B",
+    "instruction": "O que deve ocorrer antes que nuvens possam se formar?",
+    "option_a": "O vapor de água deve aquecer.",
+    "option_b": "O vapor de água deve perder energia térmica.",
+    "option_c": "A precipitação deve começar a cair e escoar.",
+    "option_d": "A transpiração deve adicionar vapor de água à atmosfera."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7250023",
+    "answer": "A",
+    "instruction": "Todas as células, procarióticas e eucarióticas, têm algumas características comuns. Qual recurso celular é encontrado em ambas as células procarióticas e eucarióticas?",
+    "option_a": "ribossomo",
+    "option_b": "membrana do cloroplasto",
+    "option_c": "núcleo",
+    "option_d": "retículo endoplasmático"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7003955",
+    "answer": "D",
+    "instruction": "Que tipo de carga têm fios de cabelo quando ficam em pé devido à eletricidade estática?",
+    "option_a": "cargas neutras",
+    "option_b": "descarga neutra",
+    "option_c": "carga positiva permanente",
+    "option_d": "cargas positivas temporárias"
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2010_5_18",
+    "answer": "D",
+    "instruction": "O vento é um recurso natural que beneficia a costa sudeste da Baía de Chesapeake. Como esses ventos poderiam beneficiar melhor os seres humanos?",
+    "option_a": "Os ventos poderiam soprar derramamentos de petróleo na baía.",
+    "option_b": "Os ventos poderiam ser convertidos em combustível fóssil.",
+    "option_c": "Os ventos poderiam soprar poluição do ar em direção à terra.",
+    "option_d": "Os ventos poderiam ser convertidos em energia elétrica."
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_2",
+    "answer": "D",
+    "instruction": "Aproximadamente quanto tempo leva a Terra para dar uma volta completa em torno do Sol?",
+    "option_a": "um dia",
+    "option_b": "uma semana",
+    "option_c": "um mês",
+    "option_d": "um ano"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_411306",
+    "answer": "D",
+    "instruction": "Algumas espécies diferentes de plantas possuem características em comum. Qual característica a maioria das plantas compartilha?",
+    "option_a": "o tamanho de suas raízes",
+    "option_b": "a forma de suas folhas",
+    "option_c": "a cor de suas flores",
+    "option_d": "a estrutura de suas células"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7241115",
+    "answer": "C",
+    "instruction": "Qual evento provavelmente permitiu a explosão da diversidade de mamíferos que ocorreu durante o período Cretáceo?",
+    "option_a": "formação do supercontinente Pangeia",
+    "option_b": "atividade vulcânica intensa",
+    "option_c": "temperaturas mais frias",
+    "option_d": "aumento do nível do mar"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7042735",
+    "answer": "C",
+    "instruction": "Uma solução de água e um composto não tóxico é produzida na aula de ciências. O que deve ser feito com a solução quando a demonstração estiver completa?",
+    "option_a": "Deve ser despejado em um ralo.",
+    "option_b": "Deve ser despejado em uma lixeira de reciclagem.",
+    "option_c": "Deve ser despejado em um recipiente para resíduos.",
+    "option_d": "Deve ser colocado em um recipiente para descarte de materiais perigosos."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2004_9_13",
+    "answer": "D",
+    "instruction": "Qual dos seguintes é o tipo primário de estresse que um torno fixo exerce sobre uma peça de madeira?",
+    "option_a": "tensão",
+    "option_b": "cisalhamento",
+    "option_c": "torção",
+    "option_d": "compressão"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_176015",
+    "answer": "D",
+    "instruction": "Um grupo de estudantes está investigando duas substâncias para determinar qual é sal e qual é açúcar. Como os estudantes poderiam identificar melhor cada substância?",
+    "option_a": "notando se elas se dissolvem na água",
+    "option_b": "estudando a cor da substância",
+    "option_c": "observando se elas grudam em uma superfície",
+    "option_d": "examinando a forma do cristal"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7215180",
+    "answer": "C",
+    "instruction": "Cientistas estão coletando amostras de granito nas montanhas do oeste de Nevada. Qual desses formatos é o melhor para exibir e comparar o percentual de minerais encontrados em uma amostra de granito?",
+    "option_a": "gráfico de barras",
+    "option_b": "gráfico de linhas",
+    "option_c": "gráfico de pizza",
+    "option_d": "gráfico de dispersão"
+  },
+  {
+    "id": "ARC-Challenge/validation/TIMSS_2007_4_pg26",
+    "answer": "B",
+    "instruction": "Um animal tem seis pernas. Qual é o mais provável?",
+    "option_a": "uma aranha",
+    "option_b": "uma mosca",
+    "option_c": "um lagarto",
+    "option_d": "um centopeia"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_177818",
+    "answer": "C",
+    "instruction": "O comprimento do tempo entre noite e dia na Terra varia ao longo do ano. Essa variação é explicada principalmente por",
+    "option_a": "a posição do Sol.",
+    "option_b": "a posição da Lua.",
+    "option_c": "o ângulo de inclinação da Terra",
+    "option_d": "a distância da Terra ao Sol"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_405487",
+    "answer": "B",
+    "instruction": "Um ano, as árvores de carvalho em um parque começaram a produzir mais bolotas do que o usual. No ano seguinte, a população de esquilos no parque também aumentou. O que melhor explica por que havia mais esquilos no ano seguinte?",
+    "option_a": "As áreas sombreadas aumentaram.",
+    "option_b": "As fontes de alimento aumentaram.",
+    "option_c": "Os níveis de oxigênio aumentaram.",
+    "option_d": "A água disponível aumentou."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400612",
+    "answer": "C",
+    "instruction": "A superfície da Terra muda constantemente devido à intempéries e erosão. Comparado à Terra, há pouca intempérie e erosão na Lua devido à",
+    "option_a": "falta de gravidade na Lua.",
+    "option_b": "atmosfera fina na Lua.",
+    "option_c": "falta de ar e água na Lua.",
+    "option_d": "falta de criaturas vivas na Lua."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400655",
+    "answer": "A",
+    "instruction": "Qual dessas é a maior mudança que pode ser observada entre o verão e o inverno?",
+    "option_a": "as quantidades de luz do dia",
+    "option_b": "as alturas das ondas do oceano",
+    "option_c": "os números de tempestades",
+    "option_d": "os tamanhos das nuvens"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415735",
+    "answer": "C",
+    "instruction": "Anya colocou um cubo de gelo na calçada em um dia quente. O cubo de gelo logo derreteu para formar uma poça. Que processo causou o derretimento do cubo de gelo?",
+    "option_a": "Calor transferido através do cubo de gelo por convecção.",
+    "option_b": "Calor transferido do ar para o cubo de gelo por radiação.",
+    "option_c": "Calor transferido do ar e da calçada por condução.",
+    "option_d": "Calor transferido através do cubo de gelo para a calçada por condução."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2005_8_5",
+    "answer": "D",
+    "instruction": "Mercúrio, o planeta mais próximo do Sol, possui temperaturas extremas em sua superfície, variando de 465°C sob a luz do sol a -180°C no escuro. Por que há uma grande variação de temperaturas em Mercúrio?",
+    "option_a": "O planeta é muito pequeno para reter calor.",
+    "option_b": "O planeta é aquecido em apenas um lado.",
+    "option_c": "O planeta reflete o calor do seu lado escuro.",
+    "option_d": "O planeta não possui atmosfera para reter calor."
+  },
+  {
+    "id": "ARC-Challenge/validation/TIMSS_2003_8_pg14",
+    "answer": "B",
+    "instruction": "Por que machos de insetos seriam tratados para prevenir a produção de espermatozoides?",
+    "option_a": "Para aumentar o número de insetos fêmeas",
+    "option_b": "Para reduzir a população total de insetos",
+    "option_c": "Para produzir novas espécies de insetos",
+    "option_d": "Para prevenir o acasalamento de insetos"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_20",
+    "answer": "D",
+    "instruction": "A principal função do tronco de uma árvore é fornecer",
+    "option_a": "ar",
+    "option_b": "fruto",
+    "option_c": "luz solar",
+    "option_d": "suporte"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7017990",
+    "answer": "A",
+    "instruction": "Qual ação não representa um procedimento de segurança no laboratório?",
+    "option_a": "provar amostras químicas",
+    "option_b": "usar luvas resistentes ao calor se o vidro estiver quente",
+    "option_c": "prender o cabelo comprido",
+    "option_d": "lavar um respingo químico com bastante água"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7264023",
+    "answer": "D",
+    "instruction": "Qual destes elementos não é provável de ser encontrado em um composto orgânico?",
+    "option_a": "carbono",
+    "option_b": "hidrogênio",
+    "option_c": "nitrogênio",
+    "option_d": "potássio"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7138513",
+    "answer": "A",
+    "instruction": "Uma ilha tem muitos tipos de pássaros, nenhuma espécie nativa de cobras e poucos predadores grandes. Cobras Marrons comem ovos de pássaros. Qual é o resultado mais provável da liberação acidental de cobras marrons na ilha?",
+    "option_a": "mais cobras e menos pássaros",
+    "option_b": "mais cobras e mais pássaros",
+    "option_c": "menos cobras e menos pássaros",
+    "option_d": "menos cobras e mais pássaros"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_401663",
+    "answer": "B",
+    "instruction": "Um aluno pode conservar recursos colocando quais objetos em uma pilha de compostagem?",
+    "option_a": "fertilizantes",
+    "option_b": "plantas de feijão",
+    "option_c": "béquer de vidro",
+    "option_d": "pipetas de plástico"
+  },
+  {
+    "id": "ARC-Challenge/validation/ACTAAP_2011_5_3",
+    "answer": "C",
+    "instruction": "Uma grande quantidade de sedimentos é recolhida pela água à medida que flui montanha abaixo nos rios e córregos. Quando a água em um rio ou córrego começa a diminuir sua velocidade, o que provavelmente acontecerá com as partículas de sedimentos que a água está carregando?",
+    "option_a": "A quantidade de partículas maiores de sedimentos carregadas pela água aumentará.",
+    "option_b": "A quantidade de partículas menores de sedimentos carregadas pela água aumentará.",
+    "option_c": "A quantidade de partículas maiores de sedimentos carregadas pela água diminuirá.",
+    "option_d": "A quantidade de partículas menores de sedimentos carregadas pela água diminuirá."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7195440",
+    "answer": "B",
+    "instruction": "Aproximadamente 50 milhões de acres de floresta tropical são desmatados a cada ano. Qual efeito provavelmente resultaria do desmatamento dessas florestas?",
+    "option_a": "uma diminuição da erosão do solo",
+    "option_b": "uma diminuição da biodiversidade",
+    "option_c": "uma melhora na qualidade do ar",
+    "option_d": "uma melhora na qualidade da água"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7220378",
+    "answer": "C",
+    "instruction": "As mudanças climáticas podem estar reduzindo a quantidade de gelo flutuante nos oceanos do mundo. Como essa mudança provavelmente afetará a oferta de alimentos disponíveis para os organismos consumidores marinhos?",
+    "option_a": "diminuindo a quantidade de sal dissolvido na água do oceano",
+    "option_b": "aumentando a capacidade da água de se separar em camadas distintas",
+    "option_c": "por alterar as condições de temperatura que os produtores unicelulares necessitam",
+    "option_d": "ao impedir que os organismos respondam rapidamente à mudança ambiental"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7234483",
+    "answer": "B",
+    "instruction": "A teoria dominante atual sobre a origem da vida na Terra depende de substâncias pré-bióticas que desenvolveram qual propriedade primeiro?",
+    "option_a": "separação estável do ambiente",
+    "option_b": "montagem em estruturas auto-replicantes",
+    "option_c": "armazenamento de características em forma codificada quimicamente",
+    "option_d": "acumulação de moléculas que armazenam energia"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7179358",
+    "answer": "B",
+    "instruction": "Um ecossistema de fogo clímax requer incêndios florestais periódicos para manter a estabilidade. Qual desses é o resultado mais provável de impedir a ocorrência de incêndios naturais neste ecossistema?",
+    "option_a": "Espécies de pinheiro reproduziriam mais rapidamente.",
+    "option_b": "Espécies de folha larga substituiriam espécies de pinheiro.",
+    "option_c": "As áreas de queimada seriam mais facilmente contidas.",
+    "option_d": "As árvores se espalhariam para áreas anteriormente sem floresta."
+  },
+  {
+    "id": "ARC-Challenge/validation/NCEOGA_2013_8_40",
+    "answer": "C",
+    "instruction": "Como fumar tabaco provavelmente terá um impacto negativo na capacidade de uma pessoa de ter sucesso em atividades físicas?",
+    "option_a": "Isso interfere no equilíbrio e na coordenação.",
+    "option_b": "Isso diminui a capacidade de tomar decisões rapidamente.",
+    "option_c": "Isso diminui a resistência e a eficiência cardiovascular.",
+    "option_d": "Isso diminui a velocidade e o poder das contrações musculares."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7100695",
+    "answer": "D",
+    "instruction": "Qual estrutura geológica levará mais tempo para se formar?",
+    "option_a": "uma falha",
+    "option_b": "uma dolina",
+    "option_c": "um meandro de rio",
+    "option_d": "uma cadeia de montanhas"
+  },
+  {
+    "id": "ARC-Challenge/validation/MEA_2016_5_7",
+    "answer": "B",
+    "instruction": "Um estudante observa que um organismo unicelular e uma folha de planta têm partes verdes semelhantes. O aluno pensa que ambos os organismos usam as partes verdes para viver. Qual evidência apoia a conclusão de que ambos os organismos precisam das partes verdes para viver?",
+    "option_a": "Ambos os organismos usam as partes verdes para se mover.",
+    "option_b": "Ambos os organismos morrem se as partes verdes forem removidas.",
+    "option_c": "As partes verdes em ambos os organismos são observadas produzindo luz.",
+    "option_d": "As partes verdes em ambos os organismos podem produzir mais partes verdes."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7027230",
+    "answer": "A",
+    "instruction": "Qual área de assunto seria a melhor para pesquisar maneiras de reduzir os problemas ambientais causados pelos seres humanos?",
+    "option_a": "convertendo a luz do sol em eletricidade",
+    "option_b": "procurando novas reservas de carvão",
+    "option_c": "encontrando reservatórios que contenham petróleo",
+    "option_d": "convertendo florestas em terras cultiváveis"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7245053",
+    "answer": "B",
+    "instruction": "Qual dos seguintes compostos é um composto orgânico?",
+    "option_a": "água (H2O)",
+    "option_b": "hexano (C6H14)",
+    "option_c": "amônia (NH3)",
+    "option_d": "dióxido de enxofre (SO2)"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_8_12",
+    "answer": "A",
+    "instruction": "Uma função principal da semente da planta é",
+    "option_a": "armazenar alimentos para serem usados durante o desenvolvimento inicial",
+    "option_b": "atrair pólen a ser usado durante o desenvolvimento",
+    "option_c": "absorver energia luminosa para ser usada durante a fotossíntese",
+    "option_d": "produzir clorofila para ser usada durante a fotossíntese"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7189035",
+    "answer": "D",
+    "instruction": "Scott estava observando os resultados do cruzamento entre flores vermelhas e brancas. Qual é o resultado mais provável de um cruzamento que demonstra dominância incompleta?",
+    "option_a": "0% flores rosa",
+    "option_b": "25% flores brancas",
+    "option_c": "50% flores vermelhas",
+    "option_d": "100% flores rosa"
+  },
+  {
+    "id": "ARC-Challenge/validation/LEAP_2006_8_10412",
+    "answer": "B",
+    "instruction": "Jolie queria comer um ovo cozido no café da manhã. Ela colocou o ovo em água fervente por quinze minutos. Quando ela quebrou a casca, as partes líquidas do ovo tinham se tornado sólidas. Isso aconteceu porque",
+    "option_a": "o aquecimento removeu a água do ovo.",
+    "option_b": "o aquecimento mudou as ligações químicas do ovo.",
+    "option_c": "a fervura levou as partes sólidas do ovo para a superfície.",
+    "option_d": "as bactérias vivas no ovo líquido foram mortas."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400172",
+    "answer": "A",
+    "instruction": "Qual cientista afirmou que a Terra era o centro do universo?",
+    "option_a": "Aristóteles",
+    "option_b": "Copérnico",
+    "option_c": "Einstein",
+    "option_d": "Newton"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2005_5_21",
+    "answer": "D",
+    "instruction": "As fêmeas de focas geralmente retornam às mesmas praias ano após ano para dar à luz. Se elas forem repetidamente perturbadas por humanos nessas praias, como as focas provavelmente responderão?",
+    "option_a": "Elas mudarão de cor.",
+    "option_b": "Elas darão à luz a mais filhotes.",
+    "option_c": "Elas caçarão comida com mais frequência.",
+    "option_d": "Elas darão à luz em praias diferentes."
+  },
+  {
+    "id": "ARC-Challenge/validation/MEA_2010_8_11",
+    "answer": "A",
+    "instruction": "Quando o movimento das moléculas de água líquida diminui, o que provavelmente acontece?",
+    "option_a": "A água líquida forma um sólido.",
+    "option_b": "A água líquida condensa.",
+    "option_c": "A água líquida sofre uma mudança química.",
+    "option_d": "A água líquida se transforma em vapor."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7187058",
+    "answer": "A",
+    "instruction": "Todas as noites, Johnny lê ao lado de uma lâmpada iluminada por uma lâmpada incandescente. Qual é a melhor indicação de que a transferência de energia elétrica para a lâmpada é ineficiente?",
+    "option_a": "A lâmpada esquenta.",
+    "option_b": "A lâmpada produz luz.",
+    "option_c": "A lâmpada usa fios de cobre.",
+    "option_d": "A lâmpada pode ser desligada através de um interruptor."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7185133",
+    "answer": "A",
+    "instruction": "Tracey estava aprendendo sobre organização estrutural em animais. Qual nível de organização estrutural melhor descreve um ovo?",
+    "option_a": "uma célula",
+    "option_b": "um tecido",
+    "option_c": "um sistema",
+    "option_d": "um órgão"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7183733",
+    "answer": "B",
+    "instruction": "Nos Everglades, a condição corporal do crocodilo americano está intimamente relacionada à profundidade da água. Quando os níveis de água sobem demais, as espécies animais se dispersam por uma área maior, causando uma diminuição na condição corporal devido à incapacidade de localizar fontes de alimento suficientes. Quando os níveis de água caem, as espécies animais se reúnem em áreas menores, permitindo que os crocodilos caçem com mais eficácia. Este cenário é um exemplo de como a sobrevivência dos crocodilos depende da restrição de qual fator?",
+    "option_a": "taxa de decomposição",
+    "option_b": "área de habitat da presa",
+    "option_c": "produção de matéria orgânica",
+    "option_d": "circulação de água"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7205345",
+    "answer": "D",
+    "instruction": "Quando o sal de mesa (NaCl) é produzido, qual das seguintes alternativas melhor descreve as ações dos átomos de sódio (Na) e cloro (Cl)?",
+    "option_a": "Os átomos de sódio substituem os átomos de cloro.",
+    "option_b": "Os átomos de sódio e de cloro se misturam.",
+    "option_c": "Os átomos de sódio se dissolvem nos átomos de cloro.",
+    "option_d": "Os átomos de sódio e de cloro se ligam quimicamente."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_176838",
+    "answer": "A",
+    "instruction": "Qual destes não é uma função do sistema circulatório?",
+    "option_a": "quebrar os alimentos em nutrientes",
+    "option_b": "transportar nutrientes e oxigênio",
+    "option_c": "remover os resíduos do corpo",
+    "option_d": "defender o corpo contra invasores estrangeiros"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2002_5_6",
+    "answer": "D",
+    "instruction": "Beija-flores conseguem pairar no ar e voar muito rápido. Isso beneficia o beija-flor em todas as opções a seguir, exceto",
+    "option_a": "escapar rapidamente de predadores.",
+    "option_b": "alcançar facilmente flores.",
+    "option_c": "permanecer parado no ar para beber néctar.",
+    "option_d": "manter os ovos aquecidos."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7166180",
+    "answer": "B",
+    "instruction": "O crescimento das plantas é afetado por fatores ambientais como gravidade. Se uma semente for permitida a brotar e crescer enquanto está virada de lado, o que mais provavelmente ocorrerá?",
+    "option_a": "as raízes crescerão para baixo, os caules crescerão para baixo",
+    "option_b": "as raízes crescerão para baixo, os caules crescerão para cima",
+    "option_c": "as raízes crescerão para cima, os caules crescerão para baixo",
+    "option_d": "as raízes crescerão para cima, os caules crescerão para cima"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2012_5_23632",
+    "answer": "C",
+    "instruction": "Um estudante observou uma rocha composta de muitas pequenas partículas de areia organizadas em camadas de cores claras e escuras. Qual das seguintes declarações descreve como esse tipo de rocha provavelmente se formou?",
+    "option_a": "O barro foi esmagado e congelado sob uma geleira.",
+    "option_b": "A lava de um vulcão esfriou rapidamente na água.",
+    "option_c": "Sedimentos do rio foram lentamente compactados e cimentados juntos.",
+    "option_d": "Depósitos minerais se solidificaram em rocha sólida em cavernas subterrâneas."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7267593",
+    "answer": "A",
+    "instruction": "Quais destes desastres naturais são os mais imprevisíveis?",
+    "option_a": "terremotos",
+    "option_b": "furacões",
+    "option_c": "tornados",
+    "option_d": "tempestades de neve"
+  },
+  {
+    "id": "ARC-Challenge/validation/NAEP_2005_8_S11+14",
+    "answer": "B",
+    "instruction": "UM SER HUMANO NÃO PODE sobreviver à perda de qual das seguintes opções?",
+    "option_a": "O apêndice",
+    "option_b": "O fígado",
+    "option_c": "Um pulmão",
+    "option_d": "Um rim"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7218750",
+    "answer": "C",
+    "instruction": "Quais tipos de reservatórios de água podem sempre fornecer água doce?",
+    "option_a": "lagos interiores",
+    "option_b": "deltas de rios",
+    "option_c": "glaciares de montanha",
+    "option_d": "mares tropicais"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7026198",
+    "answer": "A",
+    "instruction": "O elemento criptônio é um gás que apresenta quase nenhuma atividade química. Para encontrar outro elemento com propriedades semelhantes, o que um estudante deve procurar na Tabela Periódica dos Elementos?",
+    "option_a": "um elemento no mesmo grupo",
+    "option_b": "um elemento no mesmo período",
+    "option_c": "um elemento com a mesma carga líquida",
+    "option_d": "um elemento com a mesma massa atômica"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7081760",
+    "answer": "B",
+    "instruction": "Para classificar um organismo recentemente descoberto, um cientista investiga a estrutura, o DNA e o ciclo de vida do organismo. O cientista provavelmente usará os resultados da investigação para",
+    "option_a": "construir novos métodos científicos.",
+    "option_b": "rever o conhecimento científico.",
+    "option_c": "formular novas hipóteses.",
+    "option_d": "refutar teorias científicas."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7130603",
+    "answer": "C",
+    "instruction": "Qual das seguintes grandezas é medida em uma unidade que não seja o joule?",
+    "option_a": "calor",
+    "option_b": "luz",
+    "option_c": "potência",
+    "option_d": "trabalho"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7074865",
+    "answer": "C",
+    "instruction": "Qual desses é verdadeiro sobre as algas, bactérias e plantas com flores?",
+    "option_a": "Eles são inorgânicos.",
+    "option_b": "Todos possuem clorofila.",
+    "option_c": "Eles são compostos de células.",
+    "option_d": "Todos se alimentam de outros organismos."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7042700",
+    "answer": "D",
+    "instruction": "Qual aparelho não seria necessário durante a dissecação de um animal?",
+    "option_a": "luvas",
+    "option_b": "óculos de proteção",
+    "option_c": "jaleco de laboratório",
+    "option_d": "ducha de segurança"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7071365",
+    "answer": "D",
+    "instruction": "Qual comparação de borboletas e mariposas é uma afirmação de fato?",
+    "option_a": "Borboletas são mais bonitas e mais divertidas de se observar do que mariposas.",
+    "option_b": "Borboletas são melhores em voar do que mariposas.",
+    "option_c": "Borboletas e mariposas são muito mais felizes durante o dia.",
+    "option_d": "Borboletas e mariposas têm o mesmo número de pernas."
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2007_4_52",
+    "answer": "C",
+    "instruction": "As plantas e os animais necessitam de alimento para crescer. O que acontece com a maior parte do alimento que as plantas produzem?",
+    "option_a": "O alimento é libertado como gás.",
+    "option_b": "O alimento é convertido em água.",
+    "option_c": "O alimento é armazenado para uso futuro.",
+    "option_d": "O alimento é utilizado para absorver a luz solar."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7026443",
+    "answer": "D",
+    "instruction": "Qual traço de um cão de estimação é herdado?",
+    "option_a": "O cão evita um gato de estimação.",
+    "option_b": "O cão salta em um sofá.",
+    "option_c": "O cão se vira quando comandado.",
+    "option_d": "O cão saliva quando sente cheiro de comida."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7008138",
+    "answer": "B",
+    "instruction": "Qual afirmação descreve asteroides e cometas?",
+    "option_a": "Os asteroides são sólidos e os cometas são gasosos.",
+    "option_b": "Os asteroides são gasosos e os cometas são sólidos.",
+    "option_c": "Tanto asteroides como cometas são sólidos.",
+    "option_d": "Tanto asteroides como cometas são gasosos."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_402104",
+    "answer": "D",
+    "instruction": "Despejar produtos químicos tóxicos em um lago provavelmente resultaria em",
+    "option_a": "um aumento nos níveis de oxigênio no lago.",
+    "option_b": "o crescimento das plantas próximas ao lago mais rápido.",
+    "option_c": "os produtos químicos tóxicos não tendo efeito sobre o lago.",
+    "option_d": "os peixes no lago sendo prejudicados ou morrendo."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7086013",
+    "answer": "D",
+    "instruction": "A Bacia do Rio Humboldt é uma das fontes mais importantes de vários recursos não renováveis. Qual desses recursos não renováveis é produzido a partir da Bacia do Rio Humboldt?",
+    "option_a": "carvão de depósitos na montanha",
+    "option_b": "petróleo e gás de reservatórios subterrâneos",
+    "option_c": "energia elétrica de geradores hidrelétricos",
+    "option_d": "minerais da mineração de ouro, prata e cobre"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7248238",
+    "answer": "D",
+    "instruction": "Peixes mosquito encontrados nas ilhas das Bahamas vivem em vários lagos de água doce isolados que eram antes um único corpo de água. Quando vários peixes mosquito machos e fêmeas são retirados de dois lagos isolados e colocados em um único lago, a preferência de acasalamento de cada peixe mosquito é para peixes do seu próprio lago original. O que mais provavelmente resultou nessa preferência de acasalamento?",
+    "option_a": "A disponibilidade de alimentos influenciou as preferências de acasalamento dos peixes.",
+    "option_b": "A competição por um parceiro adequado influenciou as preferências de acasalamento.",
+    "option_c": "Os predadores no lago influenciaram as preferências de acasalamento dos peixes.",
+    "option_d": "A especiação devido ao isolamento reprodutivo influenciou as preferências de acasalamento."
+  }
+]

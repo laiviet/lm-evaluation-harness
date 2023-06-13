@@ -1,0 +1,2673 @@
+[
+  {
+    "id": "ARC-Challenge/validation/Mercury_7099103",
+    "answer": "D",
+    "instruction": "Els gerdons negres es reprodueixen asexualment arrelant nous brots quan els tiges toquen el terra. També es reprodueixen sexualment a través de les seves flors. Quina és l'avantatge que té la planta del gerdó de poder reproduir-se sexualment i asexualment?",
+    "option_a": "Permet que les plantes creixin més altes.",
+    "option_b": "Produeix flors que atrauen insectes.",
+    "option_c": "Produeix gerdons amb més sabor.",
+    "option_d": "Permet que les plantes de gerdó s'adaptin a condicions noves."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2006_9_31-v1",
+    "answer": "C",
+    "instruction": "Quina de les següents descriu la energia mecànica d'un carro en repòs a dalt d'una colina empinada?",
+    "option_a": "El carro no té energia mecànica.",
+    "option_b": "L'energia mecànica del carro és totalment cinètica.",
+    "option_c": "L'energia mecànica del carro és totalment potencial.",
+    "option_d": "L'energia mecànica del carro és la meitat potencial i la meitat cinètica."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7090738",
+    "answer": "A",
+    "instruction": "Quina pregunta es pot respondre mitjançant una investigació científica?",
+    "option_a": "Com afecta l'energia solar a la formació de núvols?",
+    "option_b": "Per què els tigres són més bonics que les iguanes?",
+    "option_c": "Quina és la millor assignatura per estudiar a la universitat?",
+    "option_d": "Haurien d'invertir els humans en viatges espacials?"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7130883",
+    "answer": "B",
+    "instruction": "S'ha encarregat a una classe d'enginyeria que desenvolupi un robot. El robot ha de ser dissenyat utilitzant l'energia electromagnètica com a única font d'energia. Quin tema és el que més probable que estigui estudiant la classe d'enginyeria?",
+    "option_a": "l'ús de bateries i energia química",
+    "option_b": "com l'energia radiant i els col·lectors solars es poden utilitzar",
+    "option_c": "la conversió de l'energia cinètica en energia potencial",
+    "option_d": "com l'energia tèrmica es pot convertir en energia elèctrica"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7190155",
+    "answer": "B",
+    "instruction": "Hi ha moltes espècies diferents de plantes i animals que viuen a la selva Amazònica. Quina és la conseqüència més probable de grans zones de deforestació a la selva Amazònica?",
+    "option_a": "un augment de les poblacions animals",
+    "option_b": "una disminució en la producció d'oxigen",
+    "option_c": "un augment de la precipitació",
+    "option_d": "una disminució de pollutants"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_177398",
+    "answer": "B",
+    "instruction": "Què representa un cotxe que viatja en direcció nord-est a una velocitat de 50 km/h?",
+    "option_a": "velocitat",
+    "option_b": "velocitat i direcció",
+    "option_c": "acceleració",
+    "option_d": "desacceleració"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7246995",
+    "answer": "C",
+    "instruction": "Algunes cèl·lules vegetals necessiten energia per transportar nutrients a través de la membrana cel·lular. Quin tipus de transformació energètica fan aquestes cèl·lules per portar la molècula de nutrient a l'interior de la membrana cel·lular?",
+    "option_a": "energia tèrmica a energia cinètica",
+    "option_b": "energia potencial a energia lumínica",
+    "option_c": "energia química a energia cinètica",
+    "option_d": "energia cinètica a energia potencial"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_189490",
+    "answer": "A",
+    "instruction": "L'observació de les plantes de pèsol de Gregor Mendel és un exemple de",
+    "option_a": "una evidència basada en la recerca que suporta una teoria científica.",
+    "option_b": "una conclusió que està sent posada a prova per una hipòtesi.",
+    "option_c": "proves aleatòries durant un experiment.",
+    "option_d": "evidència a favor i en contra d'un model científic."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7139790",
+    "answer": "C",
+    "instruction": "Un pop té cèl·lules especials a la pell anomenades cromatòfors que li permeten canviar de color gairebé instantàniament. Els cromatòfors probablement ajuden el pop a",
+    "option_a": "nedar més ràpid.",
+    "option_b": "respirar més lentament.",
+    "option_c": "amagar-se dels depredadors.",
+    "option_d": "regular la temperatura corporal."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7282608",
+    "answer": "C",
+    "instruction": "Les aigües residuals domèstiques no són totes iguals. Els aigües grises es refereixen a les aigües residuals dels pica i les banyeres. No contenen deixalles biològiques humanes, de manera que es poden reutilitzar en lloc de tractar-les com a aigües residuals. Quins usos de les aigües grises demostren una bona gestió?",
+    "option_a": "rentar plats i beure",
+    "option_b": "beure i regar parterres",
+    "option_c": "regar parterres i arbres",
+    "option_d": "regar arbres i rentar plats"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7145513",
+    "answer": "B",
+    "instruction": "Els processos vitals requereixen energia. Els processos bioquímics involucren reaccions específiques. Quina característica dels processos bioquímics és comuna a tots els animals?",
+    "option_a": "Funcionen a qualsevol nivell de pH",
+    "option_b": "Alliberen calor com a producte",
+    "option_c": "Utilitzen només la respiració anaeròbia",
+    "option_d": "Quantitat d'energia absorbida"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7018148",
+    "answer": "B",
+    "instruction": "LA MAJORIA dels elements trobats a la Taula Periòdica dels Elements són",
+    "option_a": "gassos.",
+    "option_b": "metalls.",
+    "option_c": "líquids.",
+    "option_d": "no metalls."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_401294",
+    "answer": "B",
+    "instruction": "Les formes de les fulles de les plantes que sobreviuen bé en un clima plujós són sovint",
+    "option_a": "vermelles i brillants.",
+    "option_b": "ample i planes.",
+    "option_c": "gruixudes i encerades.",
+    "option_d": "agudes i estretes."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7207410",
+    "answer": "C",
+    "instruction": "Els caçadors d'oratges són persones que es posen prop dels temporals per observar-los i prendre mesures. Quins coneixements han afegit els caçadors d'oratges a l'estudi dels temporals que han ajudat a modificar la majoria de les teories de formació de temporals?",
+    "option_a": "les seves opinions sobre els danys dels temporals",
+    "option_b": "les seves experiències personals en els temporals",
+    "option_c": "les seves dades recollides a l'inici dels temporals",
+    "option_d": "el seu entusiasme per estudiar diferents temporals"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_8_2015_11",
+    "answer": "A",
+    "instruction": "Quina de les següents opcions descriu millor la massa d'un bloc sòlid de gel?",
+    "option_a": "la quantitat de matèria en el bloc",
+    "option_b": "la quantitat d'espai que ocupa el bloc",
+    "option_c": "la força de la gravetat que actua sobre el bloc",
+    "option_d": "la distància entre les molècules en el bloc"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7201705",
+    "answer": "A",
+    "instruction": "A moltes parts del món, la terra massa seca per a l'agricultura s'utilitza per pasturar bestiar. La sobrepastura d'aquestes terres destrueix les plantes natives i desgasta la cobertura natural del sòl. Com és que la sobrepastura provoca desertificació?",
+    "option_a": "augmentant la velocitat amb què s'erosiona el sòl superficialment",
+    "option_b": "permetent que espècies no natives colonitzin la terra",
+    "option_c": "reduint els aliments disponibles per al bestiar",
+    "option_d": "fent que la terra absorbeixi la pluja més ràpidament"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7133858",
+    "answer": "B",
+    "instruction": "La matèria pot experimentar diferents canvis. Quin demostra millor un canvi químic?",
+    "option_a": "sal dissolent-se",
+    "option_b": "la fusta crema",
+    "option_c": "l'aigua bullint",
+    "option_d": "el gel que es fon"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2003_5_31",
+    "answer": "D",
+    "instruction": "Quin d'aquests comportaments no és instintiu?",
+    "option_a": "un ocell construint un niu",
+    "option_b": "una tortuga enterrant els seus ous",
+    "option_c": "un ós hivernant",
+    "option_d": "un cavall arantant el camp"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7198380",
+    "answer": "D",
+    "instruction": "Diferents espècies de rosegadors herbívors viven en el mateix ecosistema. Quin factor probablement va augmentar, provocant una major competència pels recursos entre els rosegadors?",
+    "option_a": "la fertilitat del sòl",
+    "option_b": "la població de productors en la zona",
+    "option_c": "la quantitat de restes d'aliments deixades pels depredadors",
+    "option_d": "la velocitat a la qual els consumidors primaris es van establir en la zona"
+  },
+  {
+    "id": "ARC-Challenge/validation/LEAP_2012_8_10441",
+    "answer": "C",
+    "instruction": "Una espècie de llagart més aviat menja fruita d'un tipus particular d'arbre. Si un virus mata la majoria d'aquests arbres, quines llagartes individuals sobreviuran probablement?",
+    "option_a": "llagartes que puguin pujar més amunt als arbres fruiters",
+    "option_b": "llagartes que tinguin una coloració més fosca",
+    "option_c": "llagartes que puguin trobar altres tipus de menjar",
+    "option_d": "llagartes que produeixin més descendència"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7217053",
+    "answer": "B",
+    "instruction": "L'evolució biològica pot donar-se a través de tots aquests aspectes excepte",
+    "option_a": "competència.",
+    "option_b": "fosilització.",
+    "option_c": "variabilitat.",
+    "option_d": "adaptació."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7233660",
+    "answer": "C",
+    "instruction": "Alguns científics teoritzen que el moviment de plaques podria alterar el nivell d'aigua en els mars de la Terra. Com limitaria la naturalesa del moviment de plaques els possibles canvis en el nivell del mar?",
+    "option_a": "fent només petits canvis",
+    "option_b": "modificant només algunes conques oceàniques específiques",
+    "option_c": "causant canvis que ocorren a ritmes molt lents",
+    "option_d": "causant canvis aparellats amb efectes iguals i oposats"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7115395",
+    "answer": "A",
+    "instruction": "Quins canvis tindran probablement un efecte negatiu sobre un ecosistema?",
+    "option_a": "construir una carretera",
+    "option_b": "plantar un arbre",
+    "option_c": "afegir una font d'aigua dolça",
+    "option_d": "crear un santuari de la natura"
+  },
+  {
+    "id": "ARC-Challenge/validation/MSA_2013_8_3",
+    "answer": "D",
+    "instruction": "Els geòlegs han identificat set grans plaques tectòniques a la superfície de la terra. Quina és la millor evidència que indica que les plaques tectòniques col·lisionen?",
+    "option_a": "El vent erosionar les formacions de roca superficials.",
+    "option_b": "Els fòssils daten de fa milers d'anys.",
+    "option_c": "Les petites roques queden enrere quan els glacials retrocedeixen.",
+    "option_d": "Les capes més antigues de roca es troben sobre les capes més noves de roca."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7205135",
+    "answer": "C",
+    "instruction": "Com es veuen afectades les partícules en un bloc de fer quan es fon?",
+    "option_a": "Les partícules guanyen massa.",
+    "option_b": "Les partícules contenen menys energia.",
+    "option_c": "Les partícules es mouen més ràpidament.",
+    "option_d": "Les partícules augmenten de volum."
+  },
+  {
+    "id": "ARC-Challenge/validation/ACTAAP_2010_5_10",
+    "answer": "A",
+    "instruction": "Sara encén una llanterna i aguanta un objecte davant la llum. Com podrà saber si l'objecte és opac?",
+    "option_a": "Cap llum brillarà a través.",
+    "option_b": "Una certa llum serà reflectida.",
+    "option_c": "La llum es desviarà en un angle.",
+    "option_d": "La llum brillarà clarament a través."
+  },
+  {
+    "id": "ARC-Challenge/validation/TIMSS_2003_8_pg29",
+    "answer": "E",
+    "instruction": "Quin dels següents òrgans NO està situat a l'abdomen?",
+    "option_a": "hígado",
+    "option_b": "ronyó",
+    "option_c": "estómac",
+    "option_d": "veina urinària",
+    "option_e": "cor"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7181685",
+    "answer": "A",
+    "instruction": "La característica del color de les flors és altament variable en certes espècies de plantes de rosa, el que porta a la formació de flors de diferents colors. Com va sorgir la variació del color de les flors en les plantes de rosa?",
+    "option_a": "a través de mutació",
+    "option_b": "a través de pol·linització",
+    "option_c": "a través de selecció natural",
+    "option_d": "a través de reproducció asexual"
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2011_5_20",
+    "answer": "D",
+    "instruction": "El llebre d'estepa moureca canvia la pell dues vegades a l'any. A l'estiu, la pell de la llebre és marró. A l'hivern, la pell és blanca. Quina d'aquestes afirmacions explica millor l'avantatge de mudar la pell?",
+    "option_a": "Mudar la pell manté la llebre neta.",
+    "option_b": "La mudança de la pell ajuda la llebre a moure's ràpidament.",
+    "option_c": "Mudar la pell manté la llar de la llebre càlida.",
+    "option_d": "La mudança de la pell ajuda la llebre a confondre's en el seu hàbitat."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7008120",
+    "answer": "A",
+    "instruction": "Les estrelles binàries són utilitzades pels científics per determinar la",
+    "option_a": "massa.",
+    "option_b": "brillantor.",
+    "option_c": "distància de la Terra.",
+    "option_d": "distància del Sol."
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_13",
+    "answer": "B",
+    "instruction": "Un noi pot veure la seva cara quan mira en un estany tranquil. Quina propietat física de l'estany fa això possible?",
+    "option_a": "flexibilitat",
+    "option_b": "reflectivitat",
+    "option_c": "temperatura",
+    "option_d": "volum"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_1",
+    "answer": "B",
+    "instruction": "Un estudiant va plantar dues llavors de fesol en dos testos idèntics que contenien el mateix tipus de terra. Va col·locar un test al fons d'un armari i l'altre prop d'una finestra assolellada. Cada dia, va abocar 15 mil·lilitres d'aigua en cada test. Quin factor va ser diferent per als dos tests?",
+    "option_a": "quantitat d'aigua",
+    "option_b": "quantitat de llum",
+    "option_c": "tipus de terra",
+    "option_d": "tipus de llavor"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7141698",
+    "answer": "B",
+    "instruction": "Quan es produeix un llamp, escalfa l'aire del voltant. L'aire calent s'expandeix i produeix trons. L'energia del llamp es converteix en quin tipus d'energia per produir trons?",
+    "option_a": "gravitacional",
+    "option_b": "mecànica",
+    "option_c": "nuclear",
+    "option_d": "radiant"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_407314",
+    "answer": "A",
+    "instruction": "Els estudiants de dues classes van realitzar la mateixa investigació. Cada classe va obtenir resultats diferents. Quina és la millor manera que els estudiants determinin per què els resultats van ser diferents?",
+    "option_a": "Revisar els passos seguits durant les investigacions.",
+    "option_b": "Modificar la hipòtesi de la investigació.",
+    "option_c": "Investigar dades sobre investigacions similars.",
+    "option_d": "Realitzar una investigació diferent."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_406781",
+    "answer": "C",
+    "instruction": "Quina interacció entre animals controla millor la població d'una espècie?",
+    "option_a": "animals salvatges marcant els seus territoris",
+    "option_b": "peixos remora viatjant amb taurons",
+    "option_c": "lleons depredant zebres",
+    "option_d": "lusos viatjant en manades"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400845",
+    "answer": "B",
+    "instruction": "Els llamps poden produir totes aquestes formes d'energia excepte",
+    "option_a": "energia tèrmica.",
+    "option_b": "energia solar.",
+    "option_c": "energia lumínica.",
+    "option_d": "energia elèctrica."
+  },
+  {
+    "id": "ARC-Challenge/validation/ACTAAP_2009_5_5",
+    "answer": "B",
+    "instruction": "Janet ha rebut alguns minerals per identificar. Una de les mostres és groga. Quin d'aquests minerals és més probable que sigui groc?",
+    "option_a": "Talc",
+    "option_b": "Sulfur",
+    "option_c": "Gypsum",
+    "option_d": "Hematite"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7171938",
+    "answer": "D",
+    "instruction": "Les marees oceàniques de la Terra estan fortament influenciades per la Lluna. Durant quines fases lunar són les més baixes a la Terra?",
+    "option_a": "lluna plena i primer quart",
+    "option_b": "lluna plena i lluna nova",
+    "option_c": "darrer quart i lluna nova",
+    "option_d": "primer quart i darrer quart"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415354",
+    "answer": "C",
+    "instruction": "Quin d'aquests comportaments aprèn un dofí?",
+    "option_a": "menjar peixos petits",
+    "option_b": "nadar en aigua salada",
+    "option_c": "mantenir una pilota en equilibri al nas",
+    "option_d": "respirar per la seva espira"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_17",
+    "answer": "C",
+    "instruction": "Quin tret és més probable que hereti un gat pels seus pares?",
+    "option_a": "tenir una cicatriu",
+    "option_b": "perseguir un jocet",
+    "option_c": "tenir el pèl blanc",
+    "option_d": "coneixer el seu nom"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7251685",
+    "answer": "B",
+    "instruction": "Quina activitat assegura el funcionament adequat dels osteòcits de manera més efectiva?",
+    "option_a": "augmentar la freqüència respiratòria",
+    "option_b": "consumir aliments rics en minerals",
+    "option_c": "reduir l'exercici estressant",
+    "option_d": "beure aigua sense ions"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7267995",
+    "answer": "C",
+    "instruction": "Algunes espècies de plantes i animals depenen les unes de les altres. Quin d'aquests animals ajuda a milers d'espècies de plantes a reproduir-se?",
+    "option_a": "esquirols",
+    "option_b": "lloms de terra",
+    "option_c": "abelles",
+    "option_d": "escarabats"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7193043",
+    "answer": "B",
+    "instruction": "Les plantes no nadiues poden conquerir zones que abans estaven poblades per espècies de plantes natives. Quin procés abiótic és el menys probable que causi la invasió de plantes no nadiues?",
+    "option_a": "inundacions",
+    "option_b": "erosió",
+    "option_c": "tempestes de pols",
+    "option_d": "tant que els glaciars es fonen"
+  },
+  {
+    "id": "ARC-Challenge/validation/VASoL_2008_5_28",
+    "answer": "C",
+    "instruction": "Els submarins han explorat moltes parts de l'oceà. A mesura que els submarins descendeixen, els científics observen que hi ha un augment en la -",
+    "option_a": "quantitat de llum",
+    "option_b": "temperatura de l'aigua",
+    "option_c": "pressió de l'aigua",
+    "option_d": "tipus d'organismes oceànics"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7154263",
+    "answer": "B",
+    "instruction": "El fitoplàncton són organismes microscòpics semblants a les plantes que floten en cossos d'aigua com l'oceà. Durant el procés de la fotosíntesi, absorbeixen diòxid de carboni. Què succeiria probablement si la població de fitoplàncton fos destruïda?",
+    "option_a": "Les temperatures del mar disminuirien.",
+    "option_b": "Els gasos d'efecte hivernacle augmentarien.",
+    "option_c": "L'oxigen atmosfèric augmentaria.",
+    "option_d": "El nivell del mar disminuiria dràsticament."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7032743",
+    "answer": "C",
+    "instruction": "Quina característica del guepard és més probable que s'aprengui en lloc de ser heretada?",
+    "option_a": "velocitat",
+    "option_b": "un pelatge tacades",
+    "option_c": "estratègies de caça",
+    "option_d": "ungles que no es retrauen"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_19",
+    "answer": "B",
+    "instruction": "A mesura que els gatets creixen i es converteixen en gats, el seu pes corporal generalment",
+    "option_a": "disminueix",
+    "option_b": "augmenta",
+    "option_c": "es manté igual"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7115273",
+    "answer": "C",
+    "instruction": "Les grans floracions d’algues a la superfície d’un llac impedeixen que quin factor abiòtic arribi al fons?",
+    "option_a": "aigua",
+    "option_b": "sal",
+    "option_c": "llum",
+    "option_d": "oxigen"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7205555",
+    "answer": "A",
+    "instruction": "L'aigua té moltes propietats químiques úniques. Quina propietat de l'aigua la fa un bon dissolvent de salts cristal·lins?",
+    "option_a": "polaritat forta",
+    "option_b": "conductivitat feble",
+    "option_c": "alta viscositat",
+    "option_d": "baix pH"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7192990",
+    "answer": "A",
+    "instruction": "Els incendis forestals es produeixen en moltes zones a causa de les condicions de sequera. Si les condicions de sequera continuen per un període llarg de temps, ço que podria posar en perill la repoblació d'arbres?",
+    "option_a": "una disminució de l'espessor del sòl",
+    "option_b": "una disminució de la quantitat d'erosió",
+    "option_c": "un augment de la població de bacteris",
+    "option_d": "un augment de la producció d'oxigen"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_408859",
+    "answer": "A",
+    "instruction": "Els caimans americans són comuns als aiguamolls de Florida. Se sap que mengen granotes, tortugues, peixos, ratolins i ocells. Quin paper exerceix un caimà americà en el seu ecosistema?",
+    "option_a": "consumidor",
+    "option_b": "descomponedor",
+    "option_c": "escombrador",
+    "option_d": "productor"
+  },
+  {
+    "id": "ARC-Challenge/validation/TIMSS_2007_4_pg90",
+    "answer": "C",
+    "instruction": "Sue ha mesurat quant sucre es dissol en una tassa d'aigua freda, una tassa d'aigua calenta i una tassa d'aigua calenta. Què és el que més probablement ha observat?",
+    "option_a": "L'aigua freda va dissoldre el sucre en més quantitat.",
+    "option_b": "L'aigua calenta va dissoldre el sucre en més quantitat.",
+    "option_c": "L'aigua calenta va dissoldre el sucre en més quantitat.",
+    "option_d": "L'aigua freda, l'aigua calenta i l'aigua calenta van dissoldre la mateixa quantitat de sucre."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_180058",
+    "answer": "A",
+    "instruction": "Un fòssil descobert a Colorado data de l'inici de l'era mesozoica. Un any després es descobreix un fòssil similar a Wyoming que també data de l'inici de l'era mesozoica. Probablement aquests dos organismes van viure en ",
+    "option_a": "el mateix entorn gairebé a la mateixa època.",
+    "option_b": "el mateix entorn en moments diferents.",
+    "option_c": "entorns diferents a gairebé la mateixa època.",
+    "option_d": "entorns diferents en moments diferents."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400050",
+    "answer": "C",
+    "instruction": "Què passa quan la temperatura a la casa és més fresca que la temperatura seleccionada en el termostat?",
+    "option_a": "La fornalha es sobrecalentarà.",
+    "option_b": "El termostat es tornarà calent.",
+    "option_c": "La fornalha s'encendrà automàticament.",
+    "option_d": "El termostat donarà un senyal sonor."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_1998_8_13",
+    "answer": "D",
+    "instruction": "Quina no és una qüestió polèmica important associada a l'ús de l'energia nuclear?",
+    "option_a": "la gestió dels residus nuclears",
+    "option_b": "els riscos per a la salut en les zones properes a les centrals nuclears",
+    "option_c": "la contaminació tèrmica dels cossos d'aigua utilitzats per al refrigerament",
+    "option_d": "l'atur a causa de la conversió a l'energia nuclear"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_4",
+    "answer": "A",
+    "instruction": "Quin estat de la matèria no té volum ni forma definides?",
+    "option_a": "gas",
+    "option_b": "líquid",
+    "option_c": "sòlid"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7233678",
+    "answer": "A",
+    "instruction": "Els científics creuen que la deriva continental en la història geològica de la Terra ha tingut un impacte significatiu en els cicles de climes càlids i freds de la Terra. Quina afirmació descriu una característica dels continents de la Terra que és més probable que provoqui canvis en el clima global quan els continents es desplacen?",
+    "option_a": "La ubicació del continent afecta la reflectivitat de la seva superfície.",
+    "option_b": "La profunditat de les plaques continentals determina la seva calor específica.",
+    "option_c": "La deriva continental absorbeix grans quantitats d'energia cinètica.",
+    "option_d": "La temperatura d'un continent es veu afectada pel seu oceà més proper."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_LBS10666",
+    "answer": "B",
+    "instruction": "Les plantes no tenen normalment la necessitat de menjar altres éssers vius perquè les plantes",
+    "option_a": "no necessiten energia alimentària per sobreviure.",
+    "option_b": "converteixen la llum solar en energia alimentària.",
+    "option_c": "obtenen tota la seva energia alimentària del sòl.",
+    "option_d": "mantenen l'energia alimentària emmagatzemada a les arrels."
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_8_38",
+    "answer": "A",
+    "instruction": "Una substància en fase sòlida té",
+    "option_a": "una forma i un volum definit",
+    "option_b": "una forma definita, però sense un volum definit",
+    "option_c": "sense forma definita, però amb un volum definit",
+    "option_d": "sense forma ni volum definit"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2004_8_28",
+    "answer": "A",
+    "instruction": "Com canviarien les propietats mesurables d'una pilota de golf si es moués de la Terra a la Lluna?",
+    "option_a": "Tindria la mateixa massa, però un pes diferent.",
+    "option_b": "Tindria el mateix pes, però una massa diferent.",
+    "option_c": "Tindria la mateixa densitat, però una massa diferent.",
+    "option_d": "Tindria la mateixa massa, però una densitat diferent."
+  },
+  {
+    "id": "ARC-Challenge/validation/LEAP__7_10354",
+    "answer": "D",
+    "instruction": "El professor de ciències de la Joanne va advertir la classe que cal ser escèptics quan s'aprèn sobre noves descobertes científiques. Per què és important ser escèptic sobre noves descobertes en ciència?",
+    "option_a": "perquè moltes descobertes científiques no estan basades en fets",
+    "option_b": "perquè la majoria de les descobertes científiques no tenen cap valor científic",
+    "option_c": "perquè la majoria dels científics comet errors quan formulen descobertes científiques",
+    "option_d": "perquè totes les descobertes científiques s'han de examinar críticament abans que puguin ser acceptades"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2003_8_25",
+    "answer": "B",
+    "instruction": "En un automòbil, quin dels següents components està dissenyat específicament per donar retroalimentació al conductor?",
+    "option_a": "volant",
+    "option_b": "velocímetre",
+    "option_c": "pedal de fre",
+    "option_d": "clave del cotxe"
+  },
+  {
+    "id": "ARC-Challenge/validation/TIMSS_2011_8_pg63",
+    "answer": "C",
+    "instruction": "Quina de les següents opcions defineix un compost?",
+    "option_a": "diferents substàncies barrejades juntes",
+    "option_b": "àtoms i molècules barrejats junts",
+    "option_c": "àtoms de diferents elements combinats junts",
+    "option_d": "àtoms del mateix element combinats junts"
+  },
+  {
+    "id": "ARC-Challenge/validation/AIMS_2009_4_29",
+    "answer": "D",
+    "instruction": "Un refrigerador fa servir electricitat per crear un lloc fred on guardar aliments. Quin impacte negatiu té l'ús del refrigerador en el medi ambient?",
+    "option_a": "L'electricitat necessària per mantenir els aliments frescos pot resultar costosa.",
+    "option_b": "Si hi ha una averia de corrent, els aliments es poden espatllar i causar-te una indigestió.",
+    "option_c": "Emmagatzemar els aliments durant més temps redueix les visites al supermercat i l'ús de benzina.",
+    "option_d": "Els refrigeradors antics contenen productes químics i ocupen espai als abocadors."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_LBS10472",
+    "answer": "B",
+    "instruction": "Les plantes tenen teixits especialitzats als extrems dels seus tiges. Quina és la funció d'aquests teixits per a les plantes?",
+    "option_a": "digereixen el menjar",
+    "option_b": "creixen més altes",
+    "option_c": "elaboren menjar",
+    "option_d": "absorbeixen aigua"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415491",
+    "answer": "C",
+    "instruction": "La Terra orbita el Sol una vegada a l'any. Quantes vegades orbita la Lluna al voltant de la Terra en un any?",
+    "option_a": "1",
+    "option_b": "7",
+    "option_c": "13",
+    "option_d": "28"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2011_5_17673",
+    "answer": "A",
+    "instruction": "Jose té dos magnets de barra. Empenta les puntes dels dos magnets junts i llavors els deixa anar. Els magnets s'allunyen ràpidament. Quina de les següents afirmacions explica millor per què passa això?",
+    "option_a": "Els pols nord dels dos magnets estan mirant-se.",
+    "option_b": "Un imant és un pol nord i l'altre és un pol sud.",
+    "option_c": "Les puntes dels magnets es repel·leixen però els centres s'atreuen.",
+    "option_d": "Un imant està acumulant energia i l'altre està alliberant energia."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_416648",
+    "answer": "A",
+    "instruction": "El parameci i el volvox poden reproduir-se sexualment. Com és la reproducció sexual del volvox diferent de la reproducció sexual del parameci?",
+    "option_a": "Les colònies de volvox produeixen gàmetes.",
+    "option_b": "Les cèl·lules del volvox es sotmeten a la conjugació.",
+    "option_c": "Les colònies de volvox produeixen descendència unicel·lular.",
+    "option_d": "Les cèl·lules del volvox es reproduixen per brotament vegetatiu."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7207620",
+    "answer": "A",
+    "instruction": "Algunes eines enregistren els nivells d'oxigen en la capa d'ozó de l'atmosfera de la Terra. Mantenir un registre d'aquestes dades durant molts anys és un exemple de",
+    "option_a": "construir evidència a través d'investigacions en curs.",
+    "option_b": "identificar una hipòtesi que recolzi les dades.",
+    "option_c": "arribar a conclusions sobre l'evidència a partir dels resultats.",
+    "option_d": "proposar dades que siguin fàcils de comprendre."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7164850",
+    "answer": "A",
+    "instruction": "Una classe de ciència va dissenyar un pòster per mostrar com es van formar les illes barrera al llarg de la costa de Florida. Els estudiants van mostrar els efectes del vent, les onades i les marees sobre la sorra que va formar aquestes illes. En el pòster, quina parella de sistemes haurien de dir els estudiants que van afectar més la formació d'illes barrera?",
+    "option_a": "la hidrosfera i l'atmosfera",
+    "option_b": "l'atmosfera i la litosfera",
+    "option_c": "la biosfera i la hidrosfera",
+    "option_d": "la litosfera i la biosfera"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7011270",
+    "answer": "B",
+    "instruction": "Quant de temps triga la Lluna a completar una revolució al voltant de la Terra?",
+    "option_a": "7 dies",
+    "option_b": "30 dies",
+    "option_c": "90 dies",
+    "option_d": "365 dies"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7090598",
+    "answer": "C",
+    "instruction": "Quin d'aquests processos implica la transferència d'una gran quantitat d'energia tèrmica?",
+    "option_a": "erosió",
+    "option_b": "sedimentació",
+    "option_c": "subducció",
+    "option_d": "cimentació"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_412337",
+    "answer": "D",
+    "instruction": "Durant una investigació, el calor es va transferir d'un líquid a l'ambient. Quina parella d'explicacions pot explicar millor aquest resultat?",
+    "option_a": "La temperatura del líquid va augmentar, o el líquid es va convertir en gas.",
+    "option_b": "La temperatura del líquid va augmentar, o el líquid es va convertir en sòlid.",
+    "option_c": "La temperatura del líquid va disminuir, o el líquid es va convertir en gas.",
+    "option_d": "La temperatura del líquid va disminuir, o el líquid es va convertir en sòlid."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_1998_8_2",
+    "answer": "C",
+    "instruction": "La estructura cel·lular que fa que una cèl·lula vegetal sigui més rígida que una animal és la",
+    "option_a": "membrana cel·lular.",
+    "option_b": "citoplasma.",
+    "option_c": "pared celular.",
+    "option_d": "ribosoma."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7124338",
+    "answer": "D",
+    "instruction": "Una ment inquisitiva seria d'utilitat per a un científic ja que el portaria a",
+    "option_a": "ser més creatiu.",
+    "option_b": "desconfiar del treball d'altres científics.",
+    "option_c": "treballar per acceptar hipòtesis publicades.",
+    "option_d": "realitzar investigacions per confirmar o refutar teories."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_405454",
+    "answer": "D",
+    "instruction": "Quin eina de cuina canvia menys l'entorn?",
+    "option_a": "barbacoa de gas",
+    "option_b": "paella elèctrica",
+    "option_c": "forn microones",
+    "option_d": "forn solar"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7007875",
+    "answer": "B",
+    "instruction": "Què és el responsable de crear el vent?",
+    "option_a": "l'acció de les onades",
+    "option_b": "l'energia solar",
+    "option_c": "el moviment dels arbres pel vent",
+    "option_d": "la força de la gravetat"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_417146",
+    "answer": "A",
+    "instruction": "La majoria de l'oxigen de l'atmosfera és creat per algues. On viu la majoria d'algues?",
+    "option_a": "oceà costaner",
+    "option_b": "oceà profund",
+    "option_c": "estanys",
+    "option_d": "llacs"
+  },
+  {
+    "id": "ARC-Challenge/validation/LEAP_2004_8_10397",
+    "answer": "B",
+    "instruction": "Quan les persones caminaven per la Lluna, van descobrir que podien saltar més alt del que podien aquí a la Terra. Per què és cert això?",
+    "option_a": "No hi ha atmosfera a la Lluna.",
+    "option_b": "La Lluna exerceix menys força gravitatòria que la Terra.",
+    "option_c": "Els vestits espacials els van ajudar a saltar més alt.",
+    "option_d": "La Lluna rota més ràpid que la Terra."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_407695",
+    "answer": "D",
+    "instruction": "Juan i LaKeisha llencen alguns objectes per una rampa. Volen veure quin objecte arriba més lluny. Què haurien de fer per poder repetir la investigació?",
+    "option_a": "Posar els objectes en grups.",
+    "option_b": "Canviar l'alçada de la rampa.",
+    "option_c": "Escollir diferents objectes per llançar.",
+    "option_d": "Registrar els detalls de la investigació."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7158673",
+    "answer": "D",
+    "instruction": "Ana és una corredora de camp a través. Després de acabar una cursa va notar que tenia calor a causa de l'alliberament d'energia tèrmica. Quina és la font més probable d'energia tèrmica?",
+    "option_a": "la fricció amb l'aire",
+    "option_b": "la calor absorbida pel sol",
+    "option_c": "l'energia mecànica absorbida",
+    "option_d": "les conversions d'energia que ocorren al seu cos"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7018515",
+    "answer": "C",
+    "instruction": "La raó més probable per la qual el so es desplaça més ràpid en aigua salada que en aigua dolça és que l'aigua salada",
+    "option_a": "és més elàstica.",
+    "option_b": "absorbeix el calor més ràpidament.",
+    "option_c": "té una densitat més alta.",
+    "option_d": "reflexa millor el so."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_412551",
+    "answer": "D",
+    "instruction": "Les òlibes comunes (Megascops asio) tenen dues variants de color: vermella i gris. Quin avantatge té l'òliba gris sobre l'òliba vermella en un hàbitat format per arbres amb escorça de color fosc?",
+    "option_a": "nidificació",
+    "option_b": "alimentació",
+    "option_c": "reproducció",
+    "option_d": "amagatall"
+  },
+  {
+    "id": "ARC-Challenge/validation/VASoL_2008_5_19",
+    "answer": "D",
+    "instruction": "Tres jugadors de beisbol investiguen per veure qui pot llançar una pilota de beisbol més lluny. Marquen una àrea al pati per a la seva investigació. Què haurien de mantenir constant?",
+    "option_a": "Alçada dels jugadors",
+    "option_b": "Color de les pilotes llançades",
+    "option_c": "Ordre en què els jugadors llancen",
+    "option_d": "Lloc des del qual els jugadors llancen"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7120890",
+    "answer": "A",
+    "instruction": "Quin exemple demostra millor que les ones transfereixen energia?",
+    "option_a": "una campana tocant en una torre",
+    "option_b": "una fulla caient d'un arbre",
+    "option_c": "una pilota rodant per una pujada",
+    "option_d": "una bandera movent-se pel vent"
+  },
+  {
+    "id": "ARC-Challenge/validation/AKDE&ED_2008_8_44",
+    "answer": "A",
+    "instruction": "Quina característica s'aplica als animals només d'un d'aquests grups taxonòmics: rèptils, mamífers, ocells, amfibis o peixos?",
+    "option_a": "tenen pèl",
+    "option_b": "ponen ous",
+    "option_c": "tenen els peus palmats",
+    "option_d": "respiren a través de brànquies"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415348",
+    "answer": "D",
+    "instruction": "Quina és una característica heretada d'un arbre?",
+    "option_a": "una branca trencada en un pi",
+    "option_b": "un buit en un roure",
+    "option_c": "una cicatriu en un arce",
+    "option_d": "un tronc gruixut en un cigró"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7014368",
+    "answer": "C",
+    "instruction": "Les corrents litorals són ones oceàniques que impacten a les platges amb angles extremadament petits. En àrees on hi ha corrents litorals, quin efecte tenen en les àrees terrestres?",
+    "option_a": "Construeixen muntanyes.",
+    "option_b": "Provocan terratrèmols.",
+    "option_c": "Mouen sorra, creant bancs de sorra.",
+    "option_d": "Creuen rius d'aigua salada cap a l'interior del país."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7245193",
+    "answer": "C",
+    "instruction": "Es va desbrossar una zona rural fins a deixar-la en pedra nua per construir-hi un camí, però el camí mai es va construir. La zona va començar a regenerar-se. Quins organismes és més probable que apareguessin primer?",
+    "option_a": "arbres",
+    "option_b": "arbusts",
+    "option_c": "liquens i molses",
+    "option_d": "malesa i grama"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7251668",
+    "answer": "D",
+    "instruction": "Una població de daphnies mostra una migració vertical des del fons d'un estany d'un metre de profunditat durant el dia fins a la superfície de l'estany a la nit. A quin factor és més probable que respongui la població de daphnies?",
+    "option_a": "el pH de l'aigua",
+    "option_b": "la claredat de l'aigua",
+    "option_c": "la pressió de l'aigua",
+    "option_d": "la temperatura de l'aigua"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2013_8_29421",
+    "answer": "A",
+    "instruction": "Quan el suor d'una persona s'evapora, la persona es sent més fresca. Quina de les següents afirmacions descriu millor per què suar ajuda la persona a sentir-se fresca?",
+    "option_a": "El calor s'absorbeix pel suor quan s'evapora.",
+    "option_b": "El calor s'absorbeix pel cos quan el suor s'evapora.",
+    "option_c": "La temperatura de l'aigua en el suor disminueix quan s'evapora.",
+    "option_d": "La temperatura de l'aigua en el cos augmenta quan el suor s'evapora."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7082145",
+    "answer": "D",
+    "instruction": "Com s'ha d'utilitzar un gràfic de línia per mostrar dades de distància i temps per a un objecte en moviment?",
+    "option_a": "L'eix y s'ha d'etiquetar com a temps, que és la variable dependent.",
+    "option_b": "L'eix y s'ha d'etiquetar com a distància, que és la variable independent.",
+    "option_c": "L'eix x s'ha d'etiquetar com a distància, que és la variable dependent.",
+    "option_d": "L'eix x s'ha d'etiquetar com a temps, que és la variable independent."
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2007_5_39",
+    "answer": "D",
+    "instruction": "Els estudiants estan aprenent sobre els recursos naturals a Maryland. Un grup d'estudiants investiga informació sobre recursos naturals renovables a l'estat. L'altre grup investiga informació sobre recursos naturals no renovables a l'estat. Els recursos que investiguen els estudiants inclouen plantes, animals, sòl, minerals, aigua, carbó i petroli. Quina de les següents activitats humanes afecta negativament un recurs natural?",
+    "option_a": "pescar en un llac",
+    "option_b": "fer servir l'aigua per produir electricitat",
+    "option_c": "plantar plantes natives al llac",
+    "option_d": "dirigir l'aigua de la pluja de les terres cultivades cap a un llac"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_22",
+    "answer": "A",
+    "instruction": "La pell de alguns animals es torna més gruixuda a l'hivern i es mouen a la primavera. Aquestes observacions mostren com els animals",
+    "option_a": "responen als canvis en el seu entorn",
+    "option_b": "es mouen d'un lloc a un altre per sobreviure",
+    "option_c": "emmagatzemen greix per a l'hivern",
+    "option_d": "lluiten amb altres animals per menjar"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7006790",
+    "answer": "B",
+    "instruction": "Quina de les següents opcions explica millor la causa que les finestres facin soroll durant una tempesta?",
+    "option_a": "energia elèctrica",
+    "option_b": "energia sonora",
+    "option_c": "energia lumínica",
+    "option_d": "energia tèrmica"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7284043",
+    "answer": "C",
+    "instruction": "Els elefants a la savana africana mengen arbustos i arbres petits. Aquest comportament neteja el terreny i permet que creixi herba. Animals que pasturen com les gaseles mengen herba. Els lleons cacen les gaseles. Quins dos organismes d'aquest escenari estan en la relació més cooperativa?",
+    "option_a": "els elefants i els arbustos",
+    "option_b": "els arbustos i els lleons",
+    "option_c": "els elefants i les gaseles",
+    "option_d": "les gaseles i els lleons"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7175455",
+    "answer": "D",
+    "instruction": "Austràlia, les temperatures del migdia poden superar els 110 graus F (43 graus C). Per mantenir fresc el seu cos, els cangurs llepen els seus braços, cobrint-los amb una capa gruixuda de saliva. Quan la saliva s'evapora, actua com un mecanisme de refredament i baixa la temperatura corporal del cangur. Quin terme descriu millor aquesta activitat?",
+    "option_a": "selecció natural",
+    "option_b": "mecanisme de defensa",
+    "option_c": "adaptacions estructurals",
+    "option_d": "adaptacions conductuals"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_401714",
+    "answer": "B",
+    "instruction": "En un experiment de laboratori, els estudiants estan provant de determinar la identitat d'un pols desconegut. Quin mètode és el més apropiat per moure el pols a una balança?",
+    "option_a": "retallar amb una escombra sobre paper de transferència",
+    "option_b": "escurçar amb una espàtula de laboratori sobre paper de transferència",
+    "option_c": "pessigar amb els dits i elevar sobre paper de transferència",
+    "option_d": "abocar des de la ampolla sobre paper de transferència"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_409529",
+    "answer": "B",
+    "instruction": "Robert és un pescador que vol trobar una manera de capturar més peixos. Va decidir provar diferents mides d'ham. Robert va capturar 4 peixos gat, 3 truites i 7 perxes mentre feia servir cucs com a esquer. Quina és la variable independent (manipulada) en la investigació de Robert?",
+    "option_a": "tipus d'esquer",
+    "option_b": "mida de l'ham",
+    "option_c": "tipus de peix capturat",
+    "option_d": "nombre de peixos capturats"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7223038",
+    "answer": "C",
+    "instruction": "Hi ha moltes mides i colors d'estrelles. Quina de les següents opcions descriu millor la categoria on es trobaria el Sol?",
+    "option_a": "estrelles supergegants blaves",
+    "option_b": "estrelles gegants vermelles",
+    "option_c": "estrelles de la seqüència principal grogues",
+    "option_d": "estrelles nanes blanques"
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2008_5_24",
+    "answer": "C",
+    "instruction": "A Maryland i la zona dels seu voltant es troben diversos recursos naturals. Alguns d'aquests recursos naturals són renovables i alguns no. La gent fa servir tot dos tipus de recursos en les seves activitats diàries. L'ús de recursos naturals sovint produeix residus. Els centres de reciclatge són llocs on la gent porta materials que poden ser reutilitzats per fer nous productes. Com afecta positivament el medi ambient el reciclatge de paper?",
+    "option_a": "redueix la contaminació de l'aire",
+    "option_b": "augmenta l'erosió del sòl",
+    "option_c": "redueix la tala d'arbres",
+    "option_d": "augmenta la destrucció de l'hàbitat"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2010_5_11998",
+    "answer": "A",
+    "instruction": "Una campaneta és un tipus de planta que trepa arbres i tanques. Quina de les següents conductes ajuda més la planta de campaneta a escalar una tanca?",
+    "option_a": "tiges enrotllant en resposta al tacte",
+    "option_b": "tiges inflant en resposta a l'aigua",
+    "option_c": "flors obrint en resposta a la llum",
+    "option_d": "arrels creixent en resposta a la gravetat"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7139493",
+    "answer": "B",
+    "instruction": "Quina és la causa més probable que permet als insectes conocidos como chinches, sobreviure a l'exposició repetida a insecticides?",
+    "option_a": "diversitat d'espècies",
+    "option_b": "diversitat genètica",
+    "option_c": "diversitat d'ecosistemes",
+    "option_d": "diversitat de població"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_14",
+    "answer": "A",
+    "instruction": "Els panells solars s'utilitzen per absorbir els rajos del sol. Quin color de panell absorbeix més llum solar?",
+    "option_a": "negre",
+    "option_b": "verd",
+    "option_c": "blanc",
+    "option_d": "groc"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2006_9_35",
+    "answer": "A",
+    "instruction": "Quina de les següents condicions genètiques resulta d'un problema de segregació?",
+    "option_a": "Trisomia 16: una condició causada quan un zigot rep tres còpies del cromosoma 16",
+    "option_b": "Malaltia de Huntington: una condició causada quan un zigot rep un alel dominant mutat",
+    "option_c": "Hemofília: una condició causada quan un zigot rep un cromosoma X amb un alel recessiu particular",
+    "option_d": "Anèmia de cèl·lules falciformes: una condició causada quan un zigot rep un alel recessiu per la hemoglobina de cada progenitor"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2015_8_7",
+    "answer": "B",
+    "instruction": "Un estudiant escalfa dues cassoles d'aigua a l'estufa utilitzant la configuració més alta. Una olla conté 1 L d'aigua i l'altra conté 3 L d'aigua. L'estudiant escalfa cada cassola fins que l'aigua bull. Quina de les següents afirmacions descriu millor el que succeeix a l'aigua de les cassoles?",
+    "option_a": "L'aigua de les dues cassoles bull al mateix temps.",
+    "option_b": "L'aigua de les dues cassoles bull a la mateixa temperatura.",
+    "option_c": "Els 3 L d'aigua s'escalfen més que l'1 L d'aigua abans d'arribar al punt de bullir.",
+    "option_d": "Els 3 L d'aigua absorbeixen el calor més ràpidament que l'1 L d'aigua."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7115063",
+    "answer": "A",
+    "instruction": "Què és el que més probablement disrupteix un ecosistema de zones humides?",
+    "option_a": "construcció d'un barri residencial",
+    "option_b": "plantació de flors silvestres natives",
+    "option_c": "un període de fortes pluges",
+    "option_d": "un cop de llamp"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7144795",
+    "answer": "D",
+    "instruction": "Un hàbitat en particular ha experimentat molts canvis en les condicions ambientals durant els darrers 75 anys. Quin és el tret que probablement té una espècie que té més possibilitats de sobreviure a aquests canvis ambientals?",
+    "option_a": "una població amb molts individus",
+    "option_b": "gran diversitat d'espècies a la comunitat actual",
+    "option_c": "adaptacions que permeten als individus viure en una varietat de condicions",
+    "option_d": "comportaments que promouen el desenvolupament d'adaptacions en nous entorns"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_400934",
+    "answer": "C",
+    "instruction": "Segons la taula periòdica dels elements, quin conjunt d'elements té propietats similars?",
+    "option_a": "H, C, I",
+    "option_b": "He, H, Al",
+    "option_c": "He, Ne, Ar",
+    "option_d": "Na, Ca, Al"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7004410",
+    "answer": "B",
+    "instruction": "Una limitació dels teixidors alimentaris en la representació d'un ecosistema és que no",
+    "option_a": "inclouen els productors de l'ecosistema.",
+    "option_b": "inclouen totes les espècies de l'ecosistema.",
+    "option_c": "mostren els consumidors de l'ecosistema.",
+    "option_d": "mostren les relacions depredador-presa de l'ecosistema."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7029505",
+    "answer": "C",
+    "instruction": "Com difereixen els tipus de sang un dels altres en la classificació sanguínia ABO?",
+    "option_a": "mides diferents de glòbuls vermells",
+    "option_b": "mides diferents de glòbuls blancs",
+    "option_c": "proteïnes marcadores diferents en glòbuls vermells",
+    "option_d": "proteïnes marcadores diferents en glòbuls blancs"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_LBS10598",
+    "answer": "A",
+    "instruction": "Un cub de gel es fon i després es evapora. El cub de gel i el vapor d'aigua tenen el mateix",
+    "option_a": "massa.",
+    "option_b": "densitat.",
+    "option_c": "volum.",
+    "option_d": "temperatura."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7245893",
+    "answer": "B",
+    "instruction": "Quina part del sistema digestiu causa primer canvis químics als aliments?",
+    "option_a": "dents a la boca",
+    "option_b": "saliva a la boca",
+    "option_c": "enzims a l'estómac",
+    "option_d": "enzims a l'intestí prim"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7246925",
+    "answer": "D",
+    "instruction": "La leucina és un dels aminoàcids que necessita el teu cos, però no pot produir. Què passa perquè el cos humà pugui obtenir leucina?",
+    "option_a": "El cos converteix altres aminoàcids en leucina.",
+    "option_b": "El cos emmagatzema carbohidrats que contenen leucina.",
+    "option_c": "El cos descompon àcids grassos per obtenir leucina.",
+    "option_d": "El cos digereix proteïnes dels aliments per obtenir leucina."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7138688",
+    "answer": "D",
+    "instruction": "Quin procediment ajuda més a determinar si una investigació és científicament vàlida?",
+    "option_a": "prendre notes sobre la condició de l'equip utilitzat en el procediment",
+    "option_b": "realitzar una investigació amb un grup de persones",
+    "option_c": "realitzar el procediment de manera exhaustiva una vegada",
+    "option_d": "repetir una investigació diverses vegades"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_408700",
+    "answer": "C",
+    "instruction": "Emily va fer una tassa de te i ho va remenar amb una cullera. La cullera es va escalfar. Com es va transferir el calor del te a la cullera?",
+    "option_a": "convexió",
+    "option_b": "radiació",
+    "option_c": "conductivitat",
+    "option_d": "evaporació"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7100608",
+    "answer": "B",
+    "instruction": "La família de Michael està construint una nova casa. Voldrien utilitzar electricitat generada per fonts renovables. Quina d'aquestes fonts d'energia els ajudaria a aconseguir el seu objectiu?",
+    "option_a": "motor de benzina",
+    "option_b": "panells solars de sostre",
+    "option_c": "central tèrmica de carbó",
+    "option_d": "central nuclear"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7133648",
+    "answer": "C",
+    "instruction": "Quina tasca a la cuina és un exemple d'un canvi físic?",
+    "option_a": "fregir un ou",
+    "option_b": "fornar un pastís",
+    "option_c": "fondre mantega",
+    "option_d": "tostar pa"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_401244",
+    "answer": "D",
+    "instruction": "Quin tipus de roca és el més útil per estudiar la història dels organismes vius?",
+    "option_a": "basalt",
+    "option_b": "marbre",
+    "option_c": "granit",
+    "option_d": "calcària"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_400397",
+    "answer": "C",
+    "instruction": "Quin d'aquests comportaments és més probable que un ós hagi après vivint en el seu entorn?",
+    "option_a": "beure aigua",
+    "option_b": "menjar peixos",
+    "option_c": "obrir tapas de les escombraries",
+    "option_d": "protegir les seves cries"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7245088",
+    "answer": "D",
+    "instruction": "Què descriu la composició dels hidrats de carboni?",
+    "option_a": "Lípids que es vinculen per formar fosfolípids",
+    "option_b": "Monòmers que es vinculen per formar polímers",
+    "option_c": "Aminoàcids que es vinculen per formar polipèptids",
+    "option_d": "Sacàrids que es vinculen per formar polisacàrids"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_408809",
+    "answer": "C",
+    "instruction": "En ratolins, una certa espècie mostra una dominància incompleta en la coloració del pèl. La descendència d'un ratolí negre (BB) i un ratolí blanc (bb) són ratolins grisos (Bb). Una creuada entre dos ratolins grisos probablement donarà lloc a una descendència amb quin percentatge de colors de pèl?",
+    "option_a": "25% negre, 75% gris",
+    "option_b": "25% gris, 75% blanc",
+    "option_c": "25% blanc, 25% negre, 50% gris",
+    "option_d": "25% gris, 25% negre, 50% blanc"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7068863",
+    "answer": "C",
+    "instruction": "Un estudiant va investigar l'efecte del ferro en el creixement de les plantes. Quatre plantes idèntiques van rebre una quantitat diferent de suplement de ferro en ser regades. Aquesta investigació hauria millorat si hi hagués",
+    "option_a": "llombrics en el sòl.",
+    "option_b": "menys plantes en l'experiment.",
+    "option_c": "plantes que van rebre aigua sense suplements de ferro.",
+    "option_d": "plantes que van rebre quantitats diferents de llum solar."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7166880",
+    "answer": "D",
+    "instruction": "Clay està vigilant el temps per preparar-se per a una excursió a la platja demà. La previsió prediu que un sistema de baixa pressió s'aproparà durant la nit. Quin tipus de temps és el que Clay pot esperar més probablement al matí?",
+    "option_a": "brumós",
+    "option_b": "solejat",
+    "option_c": "clar i més fred",
+    "option_d": "ennuvolat i plujós"
+  },
+  {
+    "id": "ARC-Challenge/validation/ACTAAP_2007_7_25",
+    "answer": "A",
+    "instruction": "Quina de les següents no és una norma de seguretat per al laboratori de ciències?",
+    "option_a": "Mesureu els líquids amb precisió dins d'un gerra.",
+    "option_b": "Mai tallis objectes mentre els sostens a les mans.",
+    "option_c": "Porteu ulleres de seguretat quan manipuleu substàncies perilloses.",
+    "option_d": "Quan noteu olors, agiteu els fums cap al nas en lloc de posar-vos el cap sobre la font."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7018445",
+    "answer": "D",
+    "instruction": "A través de quin material es desplaçaria el so més ràpidament?",
+    "option_a": "suro",
+    "option_b": "aigua",
+    "option_c": "aire",
+    "option_d": "acer"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7033653",
+    "answer": "C",
+    "instruction": "Quina és la millor unitat per mesurar les distàncies entre la Terra i altres sistemes solars a l'univers?",
+    "option_a": "milles",
+    "option_b": "quilòmetres",
+    "option_c": "anys llum",
+    "option_d": "unitats astronòmiques"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2006_5_29",
+    "answer": "D",
+    "instruction": "Es van provar quatre barres de mateix gruix però fetes de metalls diferents amb igual quantitat de pes per veure quina era la més flexible. Quina de les següents és la millor manera de reportar els resultats d'aquest experiment?",
+    "option_a": "una llista de cada tipus de barra utilitzada",
+    "option_b": "un esbós de cada barra abans de la prova",
+    "option_c": "una taula que mostri el pes de cada barra",
+    "option_d": "un gràfic de barres que mostri quanta de flexió va tenir cada barra"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7159268",
+    "answer": "A",
+    "instruction": "Després de la darrera glaciació, la fusió dels casquets de gel polars i de muntanya va causar l'augment dels nivells d'aigua dels oceans. Què va provocar probablement l'augment dels nivells d'aigua dels oceans?",
+    "option_a": "augment de la salinitat dels aiguamolls costaners existents",
+    "option_b": "augment del nombre d'organismes en els esculls existents",
+    "option_c": "disminució del nombre de marees cada dia",
+    "option_d": "disminució de la profunditat del fons oceànic"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_400885",
+    "answer": "D",
+    "instruction": "Quina equació és una equació química equilibrada?",
+    "option_a": "2NaOH + CaBr_{2} -> Ca(OH)_{2} + NaBr",
+    "option_b": "NO + Cl_{2} -> NOCl",
+    "option_c": "CaCO_{3} -> CaO + 2CO_{2}",
+    "option_d": "2AlCl_{3} + 3Mg -> 3MgCl_{2} + 2Al"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7038273",
+    "answer": "A",
+    "instruction": "Mentre realitza un experiment, un estudiant recull diverses temperatures de l'aigua, dos mesures de massa i tres mesures de volum. Quina seria la millor manera d'organitzar les dades?",
+    "option_a": "en una taula",
+    "option_b": "en un gràfic",
+    "option_c": "en una narrativa escrita",
+    "option_d": "il·lustrat amb imatges"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_407574",
+    "answer": "A",
+    "instruction": "Quin gas s'allibera pels productors que els consumidors prenen per sobreviure?",
+    "option_a": "oxigen",
+    "option_b": "nitrògen",
+    "option_c": "vapor d'aigua",
+    "option_d": "diòxid de carboni"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_1998_4_8",
+    "answer": "B",
+    "instruction": "On seria el lloc MÉS perillós per treballar amb eines elèctriques?",
+    "option_a": "en un garatge",
+    "option_b": "al costat d'una piscina",
+    "option_c": "prop d'un televisió o ordinador",
+    "option_d": "en un soterrani fresc"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7128695",
+    "answer": "C",
+    "instruction": "Un científic fa un descobriment mentre realitza una investigació, però no manté registres clars de les proves realitzades. De quina manera afecta l'absència de registre la feina d'un científic?",
+    "option_a": "Invalida els procediments i les conclusions.",
+    "option_b": "Fa que les dades obtingudes en l'estudi siguin incorrectes.",
+    "option_c": "Impedeix que altres científics validin els resultats.",
+    "option_d": "Prohibeix que altres científics desenvolupin noves hipòtesis."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400178",
+    "answer": "C",
+    "instruction": "Quina barreja es pot separar en els seus ingredients?",
+    "option_a": "xips de patata",
+    "option_b": "pastís de xocolata",
+    "option_c": "amanida de fruites",
+    "option_d": "ous remenats"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7189823",
+    "answer": "A",
+    "instruction": "Un volcà entra en erupció i cobreix l'àrea circumdant amb lava i cendra volcànica. A mesura que l'ecosistema comença a recuperar-se, quin tipus de planta serà probablement la primera en colonitzar el terreny de l'àrea que envolta l'erupció?",
+    "option_a": "molses",
+    "option_b": "flors silvestres",
+    "option_c": "arbres de fulla caduca",
+    "option_d": "arbustos semperverns"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_412683",
+    "answer": "D",
+    "instruction": "Quina és la velocitat d'una ona de 2 Hz que té una longitud d'ona de 10 m?",
+    "option_a": "5 m/s",
+    "option_b": "8 m/s",
+    "option_c": "12 m/s",
+    "option_d": "20 m/s"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_184258",
+    "answer": "A",
+    "instruction": "Quina de les següents característiques del corrent afecta més directament els dipòsits del riu?",
+    "option_a": "pendent",
+    "option_b": "elevació",
+    "option_c": "nivell base",
+    "option_d": "qualitat de l'aigua"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_192168",
+    "answer": "D",
+    "instruction": "Els models científics són molt comuns. Per a quin propòsit següent seria menys útil un model físic?",
+    "option_a": "simular fenòmens científics",
+    "option_b": "simplificar una idea complexa",
+    "option_c": "permetre la visualització",
+    "option_d": "mostrar dades"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_LBS10399",
+    "answer": "D",
+    "instruction": "Un microscopi amplia un objecte amb una magnificació de 50x. Quina és la longitud de l'objecte si la imatge sembla que mesura 0,5 cm?",
+    "option_a": "100 cm",
+    "option_b": "25 cm",
+    "option_c": "2,5 cm",
+    "option_d": "0,01 cm"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7228603",
+    "answer": "C",
+    "instruction": "Quina de les següents és una consecuencia de l'intercanvi de parts de cromosomes homòlegs durant el procés de la meiosi?",
+    "option_a": "mutacions aleatòries",
+    "option_b": "disminució del nombre de gàmetes",
+    "option_c": "descendència amb combinacions úniques de trets",
+    "option_d": "disminució del nombre d'al·lels en cada cromosoma"
+  },
+  {
+    "id": "ARC-Challenge/validation/MEA_2013_5_3",
+    "answer": "D",
+    "instruction": "El Sol està classificat com a estrella. Quina característica identifica el Sol com a estrella?",
+    "option_a": "El Sol gira sobre el seu eix.",
+    "option_b": "El Sol està situat fora de la galàxia de la Via Làctia.",
+    "option_c": "El Sol és part de la Gran Ossa.",
+    "option_d": "El Sol produeix llum i energia en una reacció nuclear."
+  },
+  {
+    "id": "ARC-Challenge/validation/NCEOGA_2013_8_38",
+    "answer": "C",
+    "instruction": "A l'hivern, la pell del guilla àrtic és blanca. A l'estiu, la pell s'escureix fins a un color marró vermellós. Què causa probablement la canvi de color de la pell del guilla?",
+    "option_a": "la quantitat de llum solar present",
+    "option_b": "l'hàbitat del guilla",
+    "option_c": "els gens del guilla",
+    "option_d": "l'edat del guilla"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7221095",
+    "answer": "A",
+    "instruction": "Quin d'aquests és un element abiótic en un ecosistema?",
+    "option_a": "la pluja mitjana anual a l'ecosistema",
+    "option_b": "els tipus de productors que es troben a l'ecosistema",
+    "option_c": "la mida d'una població de depredadors a l'ecosistema",
+    "option_d": "els microorganismes que viuen al sòl de l'ecosistema"
+  },
+  {
+    "id": "ARC-Challenge/validation/MEAP_2005_5_1",
+    "answer": "C",
+    "instruction": "El vapor d'aigua existeix a l'atmosfera en forma de ___.",
+    "option_a": "un gas visible",
+    "option_b": "un líquid visible",
+    "option_c": "un gas invisible",
+    "option_d": "un líquid invisible"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_406939",
+    "answer": "C",
+    "instruction": "Quina és una manera que un tros de paper pugui passar per un canvi químic?",
+    "option_a": "plegar el paper per la meitat",
+    "option_b": "fer que el paper es remulli en aigua",
+    "option_c": "cremar el paper amb foc",
+    "option_d": "tallar el paper amb tisores"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7219415",
+    "answer": "C",
+    "instruction": "Quin exemple és una funció de la membrana selectivament permeable d'una cèl·lula?",
+    "option_a": "suportar la forma de la cèl·lula",
+    "option_b": "fabricar proteïnes per a la cèl·lula",
+    "option_c": "limitar productes químics que difusen fora de la cèl·lula",
+    "option_d": "emmagatzemar productes de rebuig per a la cèl·lula"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_1999_8_22",
+    "answer": "B",
+    "instruction": "Quin tipus de pont utilitza cables per a la seva suportació?",
+    "option_a": "un pont d'estructura trellisada",
+    "option_b": "un pont penjant",
+    "option_c": "un pont de viga",
+    "option_d": "un pont cantilever"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2006_9_33",
+    "answer": "D",
+    "instruction": "Guepards s'han acostat a l'extinció a causa de la caça, la sequera i les malalties. Ara hi ha molt poca variació genètica en les poblacions de guepards. Quina de les següents és una consequència de la limitada variació genètica en les actuals poblacions de guepards comparada amb antigues poblacions amb major variació?",
+    "option_a": "Els guepards de les poblacions actuals són més resistents a noves malalties.",
+    "option_b": "La taxa de supervivència de guepards joves s'ha augmentat en les poblacions actuals.",
+    "option_c": "Els guepards de les poblacions actuals són menys capaços de creuar-se amb altres espècies.",
+    "option_d": "Les actuals poblacions de guepards són menys propenses a adaptar-se als canvis ambientals."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7135310",
+    "answer": "C",
+    "instruction": "Per què l'energia de sortida d'una màquina sempre és menor que l'energia d'entrada?",
+    "option_a": "Una part de l'energia es destrueix durant el funcionament de la màquina.",
+    "option_b": "La màquina ha de superar la força constant del magnetisme.",
+    "option_c": "L'energia útil disminueix a mesura que s'hi transfereix a l'entorn.",
+    "option_d": "Una part de l'energia s'empra com a calor quan es converteix."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_414131",
+    "answer": "C",
+    "instruction": "Quina descriu una propietat de tots els elements?",
+    "option_a": "Tots els elements són metalls.",
+    "option_b": "Tots els elements tenen sis electrons.",
+    "option_c": "Tots els elements són substàncies pures.",
+    "option_d": "Tots els elements existeixen en fase sòlida."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7112753",
+    "answer": "B",
+    "instruction": "Per tal de localitzar una població de escarabats, els científics han d'utilitzar un equip altament especialitzat. Quin factor limitaria majorment la capacitat de localitzar els escarabats?",
+    "option_a": "clima",
+    "option_b": "despesa",
+    "option_c": "mida de la mostra",
+    "option_d": "política"
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2009_5_16",
+    "answer": "D",
+    "instruction": "Els estudiants van visitar el telescopi Morris W. Offit situat a l'Observatori Maryland Space Grant a Baltimore. Van aprendre sobre les estrelles, els planetes i la lluna. Els estudiants van registrar la informació següent. • Els patrons d'estels es mantenen iguals, però les seves ubicacions al cel semblen canviar. • El sol, els planetes i la lluna semblen moure's pel cel. • Proxima Centauri és l'estrella més propera al nostre sistema solar. • Polaris és una estrella que forma part d'un patró d'estels anomenat la Petita Ossa.Millor quina afirmació explica perquè el sol sembla moure's a través del cel cada dia?",
+    "option_a": "El sol gira al voltant de la Terra.",
+    "option_b": "La Terra gira al voltant del sol.",
+    "option_c": "El sol gira sobre el seu eix.",
+    "option_d": "La Terra gira al seu eix."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7236023",
+    "answer": "B",
+    "instruction": "Una massa d'aire es troba a una elevació de 1000 metres en el centre de baixa pressió d'una tempesta d'hemisferi nord. Quina de les següents descriu millor el moviment de les partícules d'aire en aquesta massa d'aire a causa de les condicions de la tempesta i la rotació de la Terra mentre la massa d'aire es mou cap a l'exterior?",
+    "option_a": "Les partícules d'aire es mouen cap amunt i cap a l'esquerra.",
+    "option_b": "Les partícules d'aire es mouen cap amunt i cap a la dreta.",
+    "option_c": "Les partícules d'aire es mouen cap avall i cap a l'esquerra.",
+    "option_d": "Les partícules d'aire es mouen cap avall i cap a la dreta."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7270008",
+    "answer": "C",
+    "instruction": "L'extracció de carbó a ciel obert implica la retirada de tota la vegetació i les roques que hi ha sobre el carbó que s'extreu. Quins dos dels subsistemes de la Terra són afectats de manera immediata per l'extracció de carbó a ciel obert?",
+    "option_a": "litosfera i atmosfera",
+    "option_b": "biosfera i hidrosfera",
+    "option_c": "litosfera i biosfera",
+    "option_d": "atmosfera i hidrosfera"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7099768",
+    "answer": "D",
+    "instruction": "Quan una bola de boles és llançada de la mà del jugador, l'energia de la bola es divideix parcialment en",
+    "option_a": "emmagatzemada dins la bola fins que impacta amb els pins.",
+    "option_b": "incrementada a mesura que s'aplica fricció a la bola.",
+    "option_c": "convertida de l'energia cinètica en energia potencial gravitatòria.",
+    "option_d": "convertida en calor i so quan fa contacte amb el terra."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7269238",
+    "answer": "D",
+    "instruction": "Els motors dièsel poden cremar molts tipus de combustible. Quin combustible seria el més renovable per a un motor dièsel?",
+    "option_a": "combustible dièsel convencional",
+    "option_b": "querosè destil·lat",
+    "option_c": "oli vegetal produït convencionalment",
+    "option_d": "oli vegetal produït de forma orgànica"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7187915",
+    "answer": "A",
+    "instruction": "En Amanda i Jake han après sobre les formes cinètica i potencial d'energia dins d'un circuit elèctric senzill. El circuit que estan estudiant té una bateria, fils i una bombeta. Quina és una forma d'energia potencial en el circuit?",
+    "option_a": "energia química de la bateria",
+    "option_b": "energia lluminosa de la bombeta",
+    "option_c": "energia tèrmica perduda dels fils elèctrics",
+    "option_d": "energia elèctrica que es mou per la bombeta"
+  },
+  {
+    "id": "ARC-Challenge/validation/OHAT_2011_8_3",
+    "answer": "D",
+    "instruction": "Quina acció demostra un canvi químic?",
+    "option_a": "Es talla i s'assequen els cabells llargs.",
+    "option_b": "Es enfaixa i es trenca un llapis de fusta.",
+    "option_c": "Un cub de glaç es fon i es converteix en un líquid transparent.",
+    "option_d": "Un clau de ferro es torna taronja i esquerdós a la superfície."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7159775",
+    "answer": "A",
+    "instruction": "Janette porta a terme una investigació per veure quins aliments li fan sentir més fatigada. Menja un dels quatre aliments diferents cada dia a la mateixa hora durant quatre dies i després enregistra com es sent. Demana a la seva amiga Carmen que faci la mateixa investigació per veure si obté resultats similars. Què faria que la investigació fos més difícil de replicar?",
+    "option_a": "mesurar la quantitat de fatiga",
+    "option_b": "assegurar-se que es mengen els mateixos aliments",
+    "option_c": "enregistrament d'observacions en el mateix gràfic",
+    "option_d": "assegurar-se que els aliments estan a la mateixa temperatura"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_402239",
+    "answer": "C",
+    "instruction": "Quina és la millor manera de conservar els recursos naturals a casa?",
+    "option_a": "Llançar tot el vidre a la paperera.",
+    "option_b": "Utilitzar tovalloles de paper per netejar esquitxades.",
+    "option_c": "Reduir el temps que es passa dutxant-se.",
+    "option_d": "Regar el jardí cada dia."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_184013",
+    "answer": "C",
+    "instruction": "Quina de les següents opcions seria menys destructiva per a la terra?",
+    "option_a": "un terratrèmol de magnitud 7,2",
+    "option_b": "una onada de tempesta tropical",
+    "option_c": "una tempesta elèctrica",
+    "option_d": "una erupció volcànica"
+  },
+  {
+    "id": "ARC-Challenge/validation/NCEOGA_2013_8_4",
+    "answer": "D",
+    "instruction": "Quina opció explica millor per què la massa total del producte(s) seria menor que el pes total del reactiu(s) després d'una reacció química?",
+    "option_a": "Va ocórrer un canvi físic.",
+    "option_b": "Els àtoms implicats en la reacció van perdre massa.",
+    "option_c": "Es van crear precipitats en la nova solució.",
+    "option_d": "Es van alliberar gasos a l'atmosfera."
+  },
+  {
+    "id": "ARC-Challenge/validation/ACTAAP_2013_7_17",
+    "answer": "D",
+    "instruction": "Un grup vol saber si el nombre d'aus aquàtiques que volen a través d'Arkansas canvia cada any. Quin mètode haurien de fer servir per recopilar aquesta informació?",
+    "option_a": "Capturar tantes aus com sigui possible durant un any. Recollir dades sobre la ubicació de cada ocell.",
+    "option_b": "El primer dia de primavera de l'any que ve, comptar el nombre d'aus al llac més gran de l'estat. Comparar les dades amb l'any anterior.",
+    "option_c": "Posar un observador en una ubicació a la línia estatal. Que aquesta persona compti les aus a mesura que entren a l'estat. Fer-ho durant dos anys.",
+    "option_d": "Escollir un dia a l'any durant la migració. Comptar el nombre d'aus a deu llacs diferents de tot l'estat. Fer-ho el mateix dia cada any durant deu anys."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7183015",
+    "answer": "A",
+    "instruction": "Un recent article en una revista científica explica la relació entre les corrents de convecció i les plaques tectòniques. A mesura que el fluid circula dins del mantell terrestre, provoca el moviment de les plaques crustals. Què és el que més probablement fa circular els líquids a l'interior de la Terra?",
+    "option_a": "transferències d'energia",
+    "option_b": "escalfament global",
+    "option_c": "variacions mareals",
+    "option_d": "corrents oceàniques"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2014_8_17",
+    "answer": "D",
+    "instruction": "Quina de les següents és un exemple de reproducció asexual?",
+    "option_a": "Les tortugues ponen ous fertilitzats en un niu a la sorra.",
+    "option_b": "Les pinyes formen llavors després que el pol·len arriba a les pinyes.",
+    "option_c": "Els peixos alliberen òvuls i espermatozoides en la superfície de l'aigua.",
+    "option_d": "Els arbres envien extensions similars a arrels que produeixen nous troncs."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_401286",
+    "answer": "B",
+    "instruction": "Molts animals en perill d'extinció són capturats, etiquetats i després alliberats al seu entorn. L'etiqueta pot ser un tros de plàstic o metall codificat que es col·loca en un lloc segur del seu cos. Quina és la raó més probable per etiquetar un animal?",
+    "option_a": "per monitorejar els seus hàbits alimentaris",
+    "option_b": "per monitorejar els seus hàbits d'errada",
+    "option_c": "per monitorejar els seus hàbits de son",
+    "option_d": "per monitorejar els seus hàbits reproductius"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7207358",
+    "answer": "C",
+    "instruction": "La teoria moderna de l'àtom es descriu millor com a resultat de quina d'aquestes activitats?",
+    "option_a": "els experiments de John Dalton a principis del segle XIX",
+    "option_b": "les discussions entre dos científics importants",
+    "option_c": "la recerca de molts científics durant molts anys",
+    "option_d": "les idees sobre els àtoms de Demòcrit fa més de 2000 anys"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7015435",
+    "answer": "A",
+    "instruction": "Quins són els productes d'una reacció entre un àcid fort i una base forta?",
+    "option_a": "una sal i aigua",
+    "option_b": "dos elements diferents",
+    "option_c": "un àcid feble i una base feble",
+    "option_d": "ions hidrogen i ions hidròxid"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7044678",
+    "answer": "A",
+    "instruction": "Quina afirmació explica millor el que passa a una fulla quan perd l'aigua que necessita?",
+    "option_a": "La seva pressió de turgor disminueix.",
+    "option_b": "La seva pressió atmosfèrica disminueix.",
+    "option_c": "La seva taxa de transpiració augmenta.",
+    "option_d": "La seva taxa de fotosíntesi augmenta."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_400905",
+    "answer": "D",
+    "instruction": "El Sol està aproximadament a 1,5 x 10^8 km de la Terra. La velocitat de la llum és de 3,0 x 10^8 m/s. Quina és la distància del Sol a la Terra en segons-de-llum?",
+    "option_a": "2,0 segons-de-llum",
+    "option_b": "0,5 segons-de-llum",
+    "option_c": "2,0 x 10^-3 segons-de-llum",
+    "option_d": "5,0 x 10^2 segons-de-llum"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_LBS10040",
+    "answer": "D",
+    "instruction": "Què produeix la fotosíntesi per ajudar les plantes a créixer?",
+    "option_a": "aigua",
+    "option_b": "oxigen",
+    "option_c": "proteïna",
+    "option_d": "sucre"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_8_41",
+    "answer": "D",
+    "instruction": "En un accident de cotxe, el cinturó de seguretat ajuda a prevenir les lesions aplicant una força",
+    "option_a": "menys que la força del passatger en moviment",
+    "option_b": "més gran que la força del cotxe en moviment",
+    "option_c": "en la mateixa direcció del moviment del cotxe",
+    "option_d": "en la direcció contrària al moviment del passatger"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7141908",
+    "answer": "C",
+    "instruction": "Científics van descobrir una nova espècie d'un organisme complex en el fons de l'oceà. L'organisme probablement",
+    "option_a": "és unicel·lular.",
+    "option_b": "és una forma de bacteris.",
+    "option_c": "està compost per múltiples cèl·lules.",
+    "option_d": "no té un nucli ben organitzat."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_406029",
+    "answer": "D",
+    "instruction": "Per a una activitat científica, Mia havia de dibuixar una imatge de la Lluna cada nit. Si Mia dibuixava una lluna nova, quin tipus de lluna va dibuixar aproximadament una setmana després?",
+    "option_a": "gibosa",
+    "option_b": "lluna plena",
+    "option_c": "lluna nova",
+    "option_d": "primer quart"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7105123",
+    "answer": "C",
+    "instruction": "Els registres fòssils indiquen que els canvis de les espècies generalment",
+    "option_a": "s'aturen quan es forma una espècie.",
+    "option_b": "acceleren amb condicions estables.",
+    "option_c": "tenen lloc durant moltes generacions.",
+    "option_d": "són independents de l'ambient."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400339",
+    "answer": "C",
+    "instruction": "Quina declaració no és una raó per la qual els arbres puguin créixer a diferents alçades en un bosc?",
+    "option_a": "Algunes requereixen menys llum solar que altres.",
+    "option_b": "Els arbres van ser plantats en anys diferents.",
+    "option_c": "Els ocells estan construint nius en els arbres més curts.",
+    "option_d": "Els arbres més alts només tenen fulles a les branques superiors."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415366",
+    "answer": "B",
+    "instruction": "Els arbres necessiten oxigen. Les arrels properes a la superfície de la terra absorbeixen l'oxigen que l'arbre necessita. Quins organismes ajuden els arbres a obtenir oxigen?",
+    "option_a": "Picots fent forats a l'arbre",
+    "option_b": "Cucs de terra que fan forats prop de l'arbre",
+    "option_c": "Bolets que creixen a la base de l'arbre",
+    "option_d": "Esquirols que mengen nous al voltant de l'arbre"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7168123",
+    "answer": "B",
+    "instruction": "Anita va córrer al voltant de la pista de la seva escola. Al final de la carrera, prenia més aire als seus pulmons i el ritme cardíac havia augmentat. Quins sistemes regulen el ritme respiratori i cardíac d'Anita?",
+    "option_a": "muscular i esquelètic",
+    "option_b": "nerviós i endocrí",
+    "option_c": "digestiu i excretor",
+    "option_d": "respiratori i circulatori"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7141400",
+    "answer": "A",
+    "instruction": "Un agricultor planta blat en un camp cada any durant diversos anys. Cada any es fixa que la seva producció de blat per acre ha disminuït malgrat que les condicions meteorològiques han estat molt semblants. Quin factor abiótic probablement està causant la disminució en la producció de blat?",
+    "option_a": "disminució de nutrients del sòl",
+    "option_b": "augment de precipitació",
+    "option_c": "augment de velocitat del vent",
+    "option_d": "disminució de llum solar"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2012_8_23636",
+    "answer": "D",
+    "instruction": "Quin d'aquests processos sol habitualment trigar més temps?",
+    "option_a": "La lava calenta es refreda i forma nous rocs.",
+    "option_b": "El vapor d'aigua es condensa per formar un núvol.",
+    "option_c": "Una onada sísmica viatja a través del mantell.",
+    "option_d": "Una conca oceànica es forma entre dos continents."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_406705",
+    "answer": "B",
+    "instruction": "La classe de l'Anna va comptar la quantitat de papallones del jardí de l'escola com a tasca. Els resultats de l'Anna van ser diferents de la resta de la classe. Què hauria de fer?",
+    "option_a": "Canviar la tasca.",
+    "option_b": "Deixar els resultats tal com estan.",
+    "option_c": "Equiparar els seus resultats amb els de la classe.",
+    "option_d": "Demana a la mestra d'ajudar-la en el recompte."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7186148",
+    "answer": "B",
+    "instruction": "Un alumne està barrejant una tassa de xocolata calenta amb una cullera. Com es transmet la calor entre la xocolata calenta i la part de la cullera que està dins de la xocolata calenta?",
+    "option_a": "La conducció transmet energia de la cullera a la xocolata calenta.",
+    "option_b": "La conducció transmet energia de la xocolata calenta a la cullera.",
+    "option_c": "La convecció transmet energia de la cullera a la xocolata calenta.",
+    "option_d": "La convecció transmet energia de la xocolata calenta a la cullera."
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_28",
+    "answer": "B",
+    "instruction": "Ocells grans han estat menjant animals petits en una àrea. Si tots els ocells grans morissin per una malaltia, és probable que el nombre d'animals petits en l'àrea",
+    "option_a": "disminuiria",
+    "option_b": "augmentaria",
+    "option_c": "es mantindria igual"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7005478",
+    "answer": "B",
+    "instruction": "La temperatura del cos humà és relativament constant. Quin mecanisme de retroalimentació ajuda el cos humà a mantenir la seva temperatura normal en un entorn fred?",
+    "option_a": "S'allibera aigua de la pell.",
+    "option_b": "Els músculs tremolen en petits moviments.",
+    "option_c": "La freqüència dels batecs del cor disminueix.",
+    "option_d": "Els pulmons prenen aire addicional."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2009_8_5",
+    "answer": "D",
+    "instruction": "Quina opció seria més eficaç per reduir la congestió de trànsit aeri en un aeroport concorregut?",
+    "option_a": "proporcionar retroalimentació sobre el rendiment als pilots",
+    "option_b": "proporcionar informació de vol als passatgers",
+    "option_c": "augmentar el nombre d'aeronaus a l'aeroport",
+    "option_d": "augmentar el nombre de pistes d'aterratge a l'aeroport"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7037573",
+    "answer": "D",
+    "instruction": "Quina és la millor pràctica a seguir quan es completa un experiment?",
+    "option_a": "utilitzant precaució en manejar vidre calent",
+    "option_b": "apagant els fogons quan no s'utilitzen",
+    "option_c": "estudiant els procediments de laboratori abans de dur a terme l'experiment",
+    "option_d": "consultant amb el professor el procediment per a la disposició de productes químics"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2012_5_8",
+    "answer": "B",
+    "instruction": "En Cameron està comprant un escriptori nou. Vol assegurar-se que l'escriptori s'ajustarà a la cantonada de la seva habitació. Quin dels següents l'ajudarà més a assegurar-se que l'escriptori escaigui quan el compra en Cameron?",
+    "option_a": "una foto que mostri la catifa de la seva habitació",
+    "option_b": "un diagrama de les mesures de la seva habitació",
+    "option_c": "un dibuix que mostri com muntar un escriptori",
+    "option_d": "una llista d'eines necessàries per muntar l'escriptori"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7092295",
+    "answer": "C",
+    "instruction": "Quina acció crea una competència entre les preocupacions mediambientals i els guanys econòmics?",
+    "option_a": "protegir la vida silvestre en perill",
+    "option_b": "reintroduir la vida silvestre en els seus hàbitats naturals",
+    "option_c": "utilitzar les terres forestals per construir cases",
+    "option_d": "utilitzar autobusos per al transport urbà"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7131828",
+    "answer": "C",
+    "instruction": "En moltes zones tropicals, els mosquits poden portar un paràsit que pot causar una malaltia infecciosa entre humans. Quina descriu millor aquest tipus de relació entre mosquits i humans?",
+    "option_a": "depredador-presa",
+    "option_b": "competència per recursos",
+    "option_c": "factors biòtics interactuant entre si",
+    "option_d": "transferència d'energia entre productor i consumidor"
+  },
+  {
+    "id": "ARC-Challenge/validation/TIMSS_2003_8_pg31",
+    "answer": "B",
+    "instruction": "Ventilar pot fer que un foc de llenya cremi més fort perquè la ventilació",
+    "option_a": "escalfa l'aliment prou per cremar-se",
+    "option_b": "afegeix l'oxigen que fa falta per cremar",
+    "option_c": "augmenta la quantitat de llenya que hi ha per cremar",
+    "option_d": "proporciona l'energia necessària per mantenir el foc ences"
+  },
+  {
+    "id": "ARC-Challenge/validation/ACTAAP_2007_7_5",
+    "answer": "B",
+    "instruction": "Es realitza un experiment amb un contenidor tancat. El contenidor comença amb una temperatura de 70 graus F i una pressió d'aire de 20 psi. El contenidor es escalfa, i la pressió dins del contenidor augmenta uniformement amb l'augment de la temperatura. Si el contenidor es refreda fins als 70 graus F, quina serà la pressió de l'aire?",
+    "option_a": "10 psi",
+    "option_b": "20 psi",
+    "option_c": "30 psi",
+    "option_d": "40 psi"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7120908",
+    "answer": "D",
+    "instruction": "Un planejador és un avió sense motor. A més de la grandària, quines serien les coses principals a considerar en dissenyar un planejador per cobrir una gran distància?",
+    "option_a": "impacte ambiental i massa",
+    "option_b": "cost i impacte ambiental",
+    "option_c": "resistència i cost",
+    "option_d": "massa i resistència"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_180443",
+    "answer": "C",
+    "instruction": "Quina fase de la Lluna ocorre després d'una gegant creixent?",
+    "option_a": "Menguant gibosa",
+    "option_b": "Creixent creixent",
+    "option_c": "Lluna plena",
+    "option_d": "Lluna nova"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7238963",
+    "answer": "A",
+    "instruction": "Un mentó dividit en humans es codifica pel gen dominant C. Un mentó sense divisió es codifica pel gen recesiu c. Un home amb una combinació al·lèlica cc per al tret produeix un zigot amb una dona amb una combinació al·lèlica Cc per al tret. Quines combinacions al·lèliques podrien succeir en el zigot?",
+    "option_a": "Cc o cc",
+    "option_b": "CC o Cc",
+    "option_c": "Només CC",
+    "option_d": "Només Cc"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_184765",
+    "answer": "B",
+    "instruction": "Què és el que més probablement resultarà de la tala de grans àrees contínues de bosc?",
+    "option_a": "El percentatge d'oxigen en la zona augmentarà.",
+    "option_b": "La quantitat d'erosió dins la zona augmentarà.",
+    "option_c": "La diversitat d'espècies en la zona augmentarà.",
+    "option_d": "Els nutrients del sòl en la zona augmentaran."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7235813",
+    "answer": "D",
+    "instruction": "El carboni circula a través de diversos reservoris a la Terra. El temps que es triga a formar aquests reservoris varia enormement. Quin procés del cicle del carboni triga milions d'anys a formar el reservori indicat?",
+    "option_a": "incorporació de carboni a través de la digestió en teixits animals",
+    "option_b": "alliberament de carboni a l'atmosfera mentre respirem",
+    "option_c": "carboni atmosfèric incorporat en sucres en plants",
+    "option_d": "descomposició de carboni en teixits de plantes per formar oli"
+  },
+  {
+    "id": "ARC-Challenge/validation/OHAT_2007_5_24",
+    "answer": "B",
+    "instruction": "En un bosc, com ajuden els descomponedors els altres organismes a sobreviure?",
+    "option_a": "Alliberen oxigen a l'aire que els animals respiren.",
+    "option_b": "Aporten nutrients al sòl que les plantes utilitzen per créixer.",
+    "option_c": "Proporcionen refugi als animals al bosc on poden amagar-se.",
+    "option_d": "Utilitzen la llum solar per fer menjar per a plantes i animals."
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2007_8_15",
+    "answer": "C",
+    "instruction": "Les accions humanes afecten el medi ambient. Quina acció humana afecta la zona més petita del medi ambient?",
+    "option_a": "cremar un bosc",
+    "option_b": "cremar combustibles fòssils",
+    "option_c": "excavar un abocador nou",
+    "option_d": "aspersió de cultius amb productes químics"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7162838",
+    "answer": "D",
+    "instruction": "Rates de laboratori van ser alimentades amb suplements de nabius, maduixes o espinacs juntament amb el seu menjar habitual. Després de vuit setmanes, es van realitzar proves de memòria i habilitats motrius als rates. Els rates que van rebre el suplement de nabius van mostrar la millorada més gran. Quina és la variable independent (manipulada) de la investigació?",
+    "option_a": "la prova d'habilitats motrius",
+    "option_b": "el procés de l'envelliment",
+    "option_c": "la prova de memòria",
+    "option_d": "els suplements"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_405973",
+    "answer": "B",
+    "instruction": "Diverses espècies d'ocells viuen en una petita illa. Una tempesta destrueix la majoria de les plantes en les quals els ocells es nodreixen i fan els seus niuets. Quina espècie d'ocell té més possibilitats de sobreviure en l'illa?",
+    "option_a": "els ocells que tenen el número més gran",
+    "option_b": "els ocells que són més capaços d'adaptar-se",
+    "option_c": "els ocells que poden volar més lluny",
+    "option_d": "els ocells amb els becs més forts"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2000_8_10",
+    "answer": "B",
+    "instruction": "Quina afirmació és una opinió?",
+    "option_a": "Moltes plantes són verdes.",
+    "option_b": "Moltes plantes són boniques.",
+    "option_c": "Les plantes necessiten llum solar.",
+    "option_d": "Les plantes poden créixer en diferents llocs."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7103180",
+    "answer": "B",
+    "instruction": "Quin bioma té més vegetació?",
+    "option_a": "desert",
+    "option_b": "bosc",
+    "option_c": "praderia",
+    "option_d": "tundra"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7221865",
+    "answer": "C",
+    "instruction": "Un grup d'estudiants va observar la formació de bombolles quan l'aigua bullia. Què va passar amb la matèria a causa del canvi físic de l'aigua?",
+    "option_a": "Es va crear nova matèria a les bombolles.",
+    "option_b": "Matèria antiga va ser destruïda mentre l'aigua es convertia en gas.",
+    "option_c": "La matèria es va conservar quan va canviar de forma.",
+    "option_d": "La composició de la matèria va canviar."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7242743",
+    "answer": "D",
+    "instruction": "Les proteïnes que es sintetitzen en les subunitats ribosomals pateixen una extensa modificació post-traduccional i són empaquetades i dirigides a la destinació adequada. Quin component estructural d'una cèl·lula està involucrat en aquesta modificació?",
+    "option_a": "reticle endoplasmàtic",
+    "option_b": "lisosomes",
+    "option_c": "mitocòndries",
+    "option_d": "aparell de Golgi"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7103565",
+    "answer": "C",
+    "instruction": "Els sistemes d'alta pressió impedeixen que l'aire s'elevi cap a les regions més fredes de l'atmosfera on es pot condensar l'aigua. Què és el que més probable que succeeixi si un sistema d'alta pressió roman en una zona durant un llarg període de temps?",
+    "option_a": "boira",
+    "option_b": "pluja",
+    "option_c": "sequera",
+    "option_d": "tornada"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415541",
+    "answer": "D",
+    "instruction": "Quin d'aquests objectes és més probable que floti a l'aigua?",
+    "option_a": "bola de vidre",
+    "option_b": "bola d'acer",
+    "option_c": "bola de goma dura",
+    "option_d": "pilota de ping-pong"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_9",
+    "answer": "A",
+    "instruction": "Un estudiant treu una safata de glaçons del congelador i la posa damunt una taula. Els glaçons són sòlids i freds. L'estudiant oblidat de tornar la safata de glaçons al congelador. L'endemà, els glaçons haurien de ser",
+    "option_a": "líquids i més càlids",
+    "option_b": "sòlids i més càlids",
+    "option_c": "líquids i més freds",
+    "option_d": "sòlids i més freds"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7097318",
+    "answer": "D",
+    "instruction": "Una esquirola va deixar caure una gerra des d'una branca d'un alzinar. Quina d'aquestes opcions canviarà a mesura que la gerra cau des dels brancs al sòl?",
+    "option_a": "la massa de la gerra",
+    "option_b": "la força sobre la gerra",
+    "option_c": "la densitat de la gerra",
+    "option_d": "la velocitat de la gerra"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_8_20",
+    "answer": "B",
+    "instruction": "L'equació següent mostra els productes formats quan una solució de nitrato de plata (AgNO3) reacciona amb una solució de clorur de sodi (NaCl). AgNO3 + NaCl (Reactius) -> NaNO3 + AgCl (Productes) En aquesta equació, la massa total dels reactius és",
+    "option_a": "major que la massa total dels productes",
+    "option_b": "igual a la massa total dels productes",
+    "option_c": "igual a la massa d'AgCl",
+    "option_d": "menys que la massa d'AgCl"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415397",
+    "answer": "C",
+    "instruction": "Quin canvi fa una estructura a la superfície de la Terra?",
+    "option_a": "Una inundació fa que la gent marxi d'un poble.",
+    "option_b": "Un terratrèmol fa onades en un camp.",
+    "option_c": "Un volcà fa terra nova amb lava.",
+    "option_d": "Un esllavissament en una badia fa un onatge."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7246348",
+    "answer": "A",
+    "instruction": "Quina característica no es forma com a resultat de les plaques tectòniques que es divergeixen?",
+    "option_a": "fossa",
+    "option_b": "vall de rift",
+    "option_c": "conca oceànica",
+    "option_d": "dorsal oceànica"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7270200",
+    "answer": "A",
+    "instruction": "Científics han explicat com els aminoàcids, hidrats de carboni, àcids nucleics i àcids grassos podrien haver estat sintetitzats a la Terra abans que apareguessin els organismes vius. Quina de les següents descobertes seria la més favorable per sustentar la teoria que la vida es va generar espontàniament a partir d'aquests compostos bioquímics?",
+    "option_a": "Aquests compostos poden autoensamblar-se en una estructura que es replica.",
+    "option_b": "Avui dia, aquests compostos són utilitzats per organismes vius.",
+    "option_c": "Aquests compostos es poden trobar en un altre planeta.",
+    "option_d": "Aquests compostos poden autoensamblar-se en un virus."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415026",
+    "answer": "C",
+    "instruction": "Quins animals podrien ser ajudats per una inundació en una zona costanera?",
+    "option_a": "cérvols",
+    "option_b": "micos lladres",
+    "option_c": "aligàtors",
+    "option_d": "coiots"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7143518",
+    "answer": "D",
+    "instruction": "Els castors són coneguts per construir preses als rius i rierols talant arbres i recollint branques i arbustos. La població de castors als Estats Units ha disminuït a causa de la caça per part dels humans. Quina és la conseqüència ecològica que més probablement es produeix amb una disminució de la població de castors?",
+    "option_a": "una disminució significativa en les poblacions de peixos",
+    "option_b": "un augment significatiu en els ecosistemes forestals",
+    "option_c": "un augment significatiu en l'evaporació de l'aigua",
+    "option_d": "una disminució significativa en el nombre d'hàbitats de basses"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7032340",
+    "answer": "D",
+    "instruction": "De les opcions llistades, quina representa el món natural usant un model?",
+    "option_a": "llegir un llibre sobre una comunitat de canyes de les praderies",
+    "option_b": "mirar una foto d'una comunitat de canyes de les praderies",
+    "option_c": "investigar una comunitat de canyes de les praderies usant Internet",
+    "option_d": "observar una comunitat de canyes de les praderies en una exhibició al zoo"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_415263",
+    "answer": "C",
+    "instruction": "Què es troba en una cèl·lula eucariota però no en una procariota?",
+    "option_a": "ADN",
+    "option_b": "citoplasma",
+    "option_c": "un nucli",
+    "option_d": "una membrana cel·lular"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7090720",
+    "answer": "B",
+    "instruction": "L'etanol és un combustible alternatiu fet de blat de moro. Quin és un dels efectes desfavorables d'utilitzar etanol com a combustible?",
+    "option_a": "disminució del cost de producció de combustible",
+    "option_b": "disminució de la terra agrícola disponible per a la producció d'aliments",
+    "option_c": "augment del consum de combustibles fòssils",
+    "option_d": "increment de la petjada de carboni en conduir automòbils"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_410964",
+    "answer": "D",
+    "instruction": "Els estudiants estan investigant com funciona un timbre de porta. Quina observació és més probable que es faci durant la investigació?",
+    "option_a": "Tots els timbres fan sons agradables.",
+    "option_b": "Una pila és la millor font d'alimentació per a un timbre de porta.",
+    "option_c": "La majoria de la gent prefereix utilitzar un timbre de porta en lloc de picar.",
+    "option_d": "El timbre de porta fa servir un tros de fil embolicat al voltant d'un imant."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7057313",
+    "answer": "A",
+    "instruction": "El múscul cardíac es caracteritza millor com a",
+    "option_a": "el mateix tipus de cèl·lules treballant juntes.",
+    "option_b": "diferents sistemes que treballen junts.",
+    "option_c": "el mateix tipus d'òrgans que formen un sistema.",
+    "option_d": "diferents òrgans que realitzen una funció."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_402101",
+    "answer": "D",
+    "instruction": "Quines característiques es poden trobar a la superfície tant a la Terra com a la Lluna?",
+    "option_a": "plantes",
+    "option_b": "oceans",
+    "option_c": "animals",
+    "option_d": "muntanyes"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2010_8_12010",
+    "answer": "C",
+    "instruction": "Algunes espècies de bacteris produeixen una substància tòxica per als insectes, però inofensiva per als humans. Els científics han aïllat el gen que controla la producció d'aquesta substància. Quina de les següents raons és la millor per inserir aquest gen en plantes de blat de moro?",
+    "option_a": "El blat de moro créixerà més ràpid.",
+    "option_b": "Es necessitarà menys fertilitzant.",
+    "option_c": "Es necessitaran menys pesticides.",
+    "option_d": "El blat de moro serà més nutritiu."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7038133",
+    "answer": "B",
+    "instruction": "Un alumne planifica una investigació per calcular les velocitats de diferents boles mentre baixen per una rampa. Quina informació és menys necessària per a l'estudiant enregistrar?",
+    "option_a": "La mida de cada bola",
+    "option_b": "El gruix de la rampa",
+    "option_c": "La longitud de la rampa",
+    "option_d": "El temps que triga la bola a viatjar"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_407169",
+    "answer": "D",
+    "instruction": "Quan un hàbitat amb una petita bassa passa per una llarga sequera, què és el que més probable que passi a molts dels peixos a la bassa?",
+    "option_a": "S'adaptarien a l'entorn sec.",
+    "option_b": "Viurien en altres fonts d'aigua.",
+    "option_c": "Es traslladarien a un altre hàbitat.",
+    "option_d": "No aconseguirien sobreviure."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7103215",
+    "answer": "C",
+    "instruction": "Un estudiant vol determinar l'efecte de l'all en el creixement d'una espècie de fong. Diverses mostres de cultius de fongs es cultivin en la mateixa quantitat d'agar i llum. A cada mostra se li dona una quantitat d'all diferent. Quina és la variable independent en aquesta investigació?",
+    "option_a": "quantitat d'agar",
+    "option_b": "quantitat de llum",
+    "option_c": "quantitat d'all",
+    "option_d": "quantitat de creixement"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2013_8_29432",
+    "answer": "B",
+    "instruction": "Quina de les següents parts d'una cèl·lula vegetal té una funció més semblant a la funció d'un esquelet animal?",
+    "option_a": "membrana cel·lular",
+    "option_b": "pared cel·lular",
+    "option_c": "cloroplast",
+    "option_d": "nucli"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7018008",
+    "answer": "A",
+    "instruction": "Quina opció descriu millor la propietat elèctrica d'un àtom?",
+    "option_a": "neutre",
+    "option_b": "aïllant",
+    "option_c": "càrrega positiva",
+    "option_d": "càrrega negativa"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7166530",
+    "answer": "B",
+    "instruction": "Després de l'escola, l'Ira va haver d'inventar una investigació de laboratori. Va obtenir els materials, productes químics, equipament i protecció necessaris del seu professor. Amb rapidesa, però precaució, va realitzar els passos del procediment experimental escrit. Per estalviar temps, va decidir enregistrar les seves observacions i resultats més tard. Què serà probablement afectat negativament per la seva decisió?",
+    "option_a": "la capacitat de seguir les instruccions",
+    "option_b": "la capacitat d'escriure un informe vàlid",
+    "option_c": "la capacitat de seguir les normes de seguretat",
+    "option_d": "la capacitat de formular una conclusió"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400047",
+    "answer": "B",
+    "instruction": "Un estudiant va deixar una barra de xocolata al sol durant un dia calorós. A mesura que es va fonent la xocolata, quina propietat va canviar?",
+    "option_a": "la seva massa",
+    "option_b": "la seva forma",
+    "option_c": "el seu pes",
+    "option_d": "la seva composició"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7044100",
+    "answer": "C",
+    "instruction": "Com es poden esgotar els nutrients del sòl en terrenys agrícoles?",
+    "option_a": "sobrepasturatge",
+    "option_b": "erosió pel vent",
+    "option_c": "increment d'irrigació",
+    "option_d": "increment de fertilització"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7075145",
+    "answer": "A",
+    "instruction": "Quin d'aquests processos permet que les cèl·lules absorbeixin aigua?",
+    "option_a": "osmosi",
+    "option_b": "mitosi",
+    "option_c": "fotosíntesi",
+    "option_d": "respiració"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_192290",
+    "answer": "D",
+    "instruction": "Encara que pertanyen a la mateixa família, un àguila i un pelicà són diferents. Quina és una diferència entre ells?",
+    "option_a": "la seva preferència per menjar peixos",
+    "option_b": "la seva capacitat de volar",
+    "option_c": "el seu mètode de reproducció",
+    "option_d": "el seu mètode per atrapar menjar"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7093975",
+    "answer": "D",
+    "instruction": "Quina és una causa natural de la sequera dels rius?",
+    "option_a": "la contaminació",
+    "option_b": "l'erosió",
+    "option_c": "l'augment dels nivells d'aigua subterranis",
+    "option_d": "la falta de precipitació"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7085820",
+    "answer": "D",
+    "instruction": "Quan l'aigua comença a gelar, les molècules d'aigua",
+    "option_a": "adquireixen energia tèrmica.",
+    "option_b": "es mouen amb més llibertat.",
+    "option_c": "augmenten de grandària.",
+    "option_d": "disminueixen la seva velocitat."
+  },
+  {
+    "id": "ARC-Challenge/validation/MEA_2016_5_6",
+    "answer": "C",
+    "instruction": "Un globus ple d'aigua és posat en un congelador. Quina propietat de l'aigua canviarà a mesura que aquesta arribi al seu punt de congelació?",
+    "option_a": "color",
+    "option_b": "massa",
+    "option_c": "estat",
+    "option_d": "pes"
+  },
+  {
+    "id": "ARC-Challenge/validation/NCEOGA_2013_5_43",
+    "answer": "B",
+    "instruction": "Què ha de passar abans que puguin formar-se núvols?",
+    "option_a": "El vapor d'aigua ha de calentar-se.",
+    "option_b": "El vapor d'aigua ha de perdre energia tèrmica.",
+    "option_c": "Ha d'iniciar-se la precipitació i la desruna.",
+    "option_d": "La transpiració ha d'afegir vapor d'aigua a l'atmosfera."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7250023",
+    "answer": "A",
+    "instruction": "Totes les cèl·lules, procariontes i eucariontes, tenen algunes característiques en comú. Quina característica cel·lular es troba tant en cèl·lules procariontes com eucariontes?",
+    "option_a": "ribosoma",
+    "option_b": "membrana de cloroplast",
+    "option_c": "núcleo",
+    "option_d": "reticle endoplàsmic"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7003955",
+    "answer": "D",
+    "instruction": "Quin tipus de càrrega tenen els cabells individuals quan s'erigeixen a causa de l'electricitat estàtica?",
+    "option_a": "càrregues neutrals",
+    "option_b": "descàrrega neutral",
+    "option_c": "càrrega positiva permanent",
+    "option_d": "càrregues positives temporals"
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2010_5_18",
+    "answer": "D",
+    "instruction": "El vent és un recurs natural que beneficia la costa sud-est de la badia de Chesapeake. Com podrien aquests vents beneficiar millor els humans?",
+    "option_a": "Els vents podrien bufar vessaments de petroli a la badia.",
+    "option_b": "Els vents podrien ser convertits en combustible fòssil.",
+    "option_c": "Els vents podrien bufar contaminació atmosfèrica cap a la terra.",
+    "option_d": "Els vents podrien ser convertits en energia elèctrica."
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_2",
+    "answer": "D",
+    "instruction": "Quant temps triga la Terra a fer una volta completa al voltant del Sol?",
+    "option_a": "un dia",
+    "option_b": "una setmana",
+    "option_c": "un mes",
+    "option_d": "un any"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_411306",
+    "answer": "D",
+    "instruction": "Algunes plantes diferents tenen característiques en comú. Quina característica comparteixen la majoria de les plantes?",
+    "option_a": "la grandària de les seves arrels",
+    "option_b": "la forma de les seves fulles",
+    "option_c": "el color de les seves flors",
+    "option_d": "la estructura de les seves cèl·lules"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7241115",
+    "answer": "C",
+    "instruction": "Quin esdeveniment probablement va permetre l'explosió de la diversitat de mamífers que va tenir lloc durant el període Cretaci?",
+    "option_a": "formació del supercontinent Pangea",
+    "option_b": "activitat volcànica intensa",
+    "option_c": "temperatures més fresques",
+    "option_d": "augment del nivell del mar"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7042735",
+    "answer": "C",
+    "instruction": "Es produeix una solució d'aigua i un compost no tòxic a la classe de ciències. Què s'ha de fer amb la solució quan la demostració ha acabat?",
+    "option_a": "S'ha de vessar per una claveguera.",
+    "option_b": "S'ha de vessar en un cubell de reciclatge.",
+    "option_c": "S'ha de vessar en un contenidor de residus.",
+    "option_d": "S'ha de col·locar en un contenidor per a la disposició de materials perillosos."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2004_9_13",
+    "answer": "D",
+    "instruction": "Quin és el tipus principal d'esforç que exerceix una premsa fixa sobre una peça de fusta?",
+    "option_a": "tensió",
+    "option_b": "cisalla",
+    "option_c": "torsió",
+    "option_d": "compressió"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_176015",
+    "answer": "D",
+    "instruction": "Un grup d'estudiants està investigant dues substàncies per determinar quina és sal de taula i quina és sucre de taula. Com identificarien millor cada substància?",
+    "option_a": "observant si es dissolen en aigua",
+    "option_b": "estudiant el color de la substància",
+    "option_c": "observant si s'enganxen a una superfície",
+    "option_d": "examinant la forma del cristall"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7215180",
+    "answer": "C",
+    "instruction": "Els científics estan recol·lectant mostres de granit a les muntanyes de Nevada occidental. Quin d'aquests formats és el millor per mostrar i comparar el percentatge de minerals trobat en una mostra de granit?",
+    "option_a": "gràfic de barres",
+    "option_b": "gràfic de línia",
+    "option_c": "gràfic de sectors",
+    "option_d": "diagrama de dispersió"
+  },
+  {
+    "id": "ARC-Challenge/validation/TIMSS_2007_4_pg26",
+    "answer": "B",
+    "instruction": "Un animal té sis potes. Què és el més probable que sigui?",
+    "option_a": "una aranya",
+    "option_b": "una mosca",
+    "option_c": "un llagarto",
+    "option_d": "un centpeus"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_177818",
+    "answer": "C",
+    "instruction": "La durada del temps entre nit i dia a la Terra varia durant tot l'any. Aquesta variació de temps es pot explicar principalment per",
+    "option_a": "la posició del Sol.",
+    "option_b": "la posició de la Lluna.",
+    "option_c": "l'angle d'inclinació de la Terra",
+    "option_d": "la distància de la Terra al Sol"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_405487",
+    "answer": "B",
+    "instruction": "Un any, els arbres de roure d'un parc van començar a produir més glans del que és habitual. L'any següent, la població de txispers del parc també va augmentar. Què explica millor per què hi havia més txispers l'any següent?",
+    "option_a": "Les zones ombrejades van augmentar.",
+    "option_b": "Les fonts d'alimentació van augmentar.",
+    "option_c": "Els nivells d'oxigen van augmentar.",
+    "option_d": "L'aigua disponible va augmentar."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400612",
+    "answer": "C",
+    "instruction": "La superfície de la Terra canvia constantment a causa de l'erosió i la meteorització. En comparació amb la Terra, hi ha poca meteorització i erosió a la Lluna a causa de",
+    "option_a": "la falta de gravetat a la Lluna.",
+    "option_b": "la fina atmòsfera de la Lluna.",
+    "option_c": "la falta d'aire i aigua a la Lluna.",
+    "option_d": "la falta de criatures vius a la Lluna."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400655",
+    "answer": "A",
+    "instruction": "Quina d'aquestes és la diferència més gran que es pot observar entre l'estiu i l'hivern?",
+    "option_a": "les quantitats de llum del dia",
+    "option_b": "les alçades de les onades oceàniques",
+    "option_c": "els números d'empreses",
+    "option_d": "els tamanys dels núvols"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415735",
+    "answer": "C",
+    "instruction": "Anya va col·locar un cub de gel al carrer en un dia càlid. Aviat, el cub de gel es va fondre per formar un toll. Quin procés va fer que el cub de gel es fongués?",
+    "option_a": "El calor es va transmetre a través del cub de gel per convecció.",
+    "option_b": "El calor es va transmetre de l'aire al cub de gel per radiació.",
+    "option_c": "El calor es va transmetre de l'aire i del paviment per conducció.",
+    "option_d": "El calor es va transmetre a través del cub de gel en el paviment per conducció."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2005_8_5",
+    "answer": "D",
+    "instruction": "Mercuri, el planeta més proper al Sol, té temperatures de superfície extremes, oscil·lant entre els 465ºC sota la llum solar i els -180ºC a l'ombra. Per què hi ha una diferència tan gran de temperatures a Mercuri?",
+    "option_a": "El planeta és massa petit per retenir el calor.",
+    "option_b": "El planeta només es calenta per una banda.",
+    "option_c": "El planeta reflecteix el calor des del seu costat fosc.",
+    "option_d": "El planeta no té atmosfera per retenir el calor."
+  },
+  {
+    "id": "ARC-Challenge/validation/TIMSS_2003_8_pg14",
+    "answer": "B",
+    "instruction": "Per què es tractarien els insectes mascles per evitar la producció d'esperma?",
+    "option_a": "Per augmentar el nombre d'insectes femelles",
+    "option_b": "Per reduir la població total d'insectes",
+    "option_c": "Per produir noves espècies d'insectes",
+    "option_d": "Per evitar que els insectes s'aparellin"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_20",
+    "answer": "D",
+    "instruction": "La funció principal del tronc d'un arbre és proporcionar",
+    "option_a": "aire",
+    "option_b": "fruita",
+    "option_c": "llum solar",
+    "option_d": "suport"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7017990",
+    "answer": "A",
+    "instruction": "Quina acció no representa una mesura de seguretat en el laboratori?",
+    "option_a": "degustar mostres de productes químics",
+    "option_b": "utilitzar guants resistents al calor si els recipients de vidre estan calents",
+    "option_c": "recollir el cabell llarg amb una goma",
+    "option_d": "netejar una esquitxada de producte químic amb molta aigua"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7264023",
+    "answer": "D",
+    "instruction": "Quin d'aquests elements és menys probable de trobar en un compost orgànic?",
+    "option_a": "carboni",
+    "option_b": "hidrogen",
+    "option_c": "nitrogen",
+    "option_d": "potassi"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7138513",
+    "answer": "A",
+    "instruction": "Una illa té molts tipus d'ocells, cap espècie de serps nadiues i pocs grans depredadors. Les serps marrons mengen ous d'ocells. Quin és el resultat més probable de la presència accidental de serps marrons a l'illa?",
+    "option_a": "més serps i menys ocells.",
+    "option_b": "més serps i més ocells.",
+    "option_c": "menys serps i menys ocells.",
+    "option_d": "menys serps i més ocells."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_401663",
+    "answer": "B",
+    "instruction": "Un estudiant pot conservar recursos col·locant quins objectes en una pila de compost?",
+    "option_a": "fertilitzants",
+    "option_b": "plantes de llegum",
+    "option_c": "vasos de vidre",
+    "option_d": "pipetes de plàstic"
+  },
+  {
+    "id": "ARC-Challenge/validation/ACTAAP_2011_5_3",
+    "answer": "C",
+    "instruction": "Una gran quantitat de sediments són recollits per l'aigua a mesura que aquesta fluix corrent avall pels rius i rierols. Què passarà probablement amb les partícules de sediment que l'aigua porta si el flux d'aigua en un riu o rierol ha estat ràpid i lentament comença a disminuir?",
+    "option_a": "La quantitat de partícules de sediments més grosses que són portades per l'aigua augmentarà.",
+    "option_b": "La quantitat de partícules de sediments més petites que són portades per l'aigua augmentarà.",
+    "option_c": "La quantitat de partícules de sediments més grosses que són portades per l'aigua disminuirà.",
+    "option_d": "La quantitat de partícules de sediments més petites que són portades per l'aigua disminuirà."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7195440",
+    "answer": "B",
+    "instruction": "Cada any es desbrossen prop de 50 milions d'acres de boscos tropicals. Quin efecte és més probable que es produeixi a consequència de la desbrossada d'aquests boscos?",
+    "option_a": "una disminució de l'erosió del sòl",
+    "option_b": "una disminució de la biodiversitat",
+    "option_c": "una millora de la qualitat de l'aire",
+    "option_d": "una millora de la qualitat de l'aigua"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7220378",
+    "answer": "C",
+    "instruction": "El canvi climàtic pot estar reduint la quantitat de gel que flota als oceans del món. Com podrà aquest canvi afectar més probablement el subministrament d'aliments disponibles per als organismes consumidors marins?",
+    "option_a": "reduint la quantitat de sal dissolta en l'aigua oceànica",
+    "option_b": "augmentant la capacitat de l'aigua per separar-se en capes distintes",
+    "option_c": "modificant les condicions de temperatura que requereixen els productors unicel·lulars",
+    "option_d": "impedint als organismes respondre ràpidament a canvis ambientals"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7234483",
+    "answer": "B",
+    "instruction": "La teoria actual i dominant de l'origen de la vida a la Terra depèn de les substàncies prebiòtiques que van desenvolupar quina propietat primer?",
+    "option_a": "separació estable del seu entorn",
+    "option_b": "muntatge en estructures auto-replicantes",
+    "option_c": "emmagatzematge de trets en forma codificada químicament",
+    "option_d": "acumulació de molècules emmagatzemadores d'energia"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7179358",
+    "answer": "B",
+    "instruction": "Un ecosistema de foc clímax requereix incendis forestals periòdics per mantenir la seva estabilitat. Quina d'aquestes opcions seria la conseqüència més probable de prevenir que els incendis naturals ocorrin en aquest ecosistema?",
+    "option_a": "Les espècies de pi es reproduirien més ràpidament.",
+    "option_b": "Les espècies de fulla ampla reemplaçarien les espècies de pi.",
+    "option_c": "Les àrees cremades serien més fàcils de contenir.",
+    "option_d": "Els arbres es propagarien a àrees anteriorment sense boscos."
+  },
+  {
+    "id": "ARC-Challenge/validation/NCEOGA_2013_8_40",
+    "answer": "C",
+    "instruction": "Com afectaria fumar tabac probablement negativament la capacitat d'una persona per tenir èxit en activitats físiques?",
+    "option_a": "Interferint amb l'equilibri i la coordinació.",
+    "option_b": "Redueix la capacitat per prendre decisions ràpidament.",
+    "option_c": "Disminueix l'estamina i l'eficiència cardiovascular.",
+    "option_d": "Disminueix la velocitat i la potència de les contraccions musculars."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7100695",
+    "answer": "D",
+    "instruction": "Quina estructura geològica trigarà més temps a formar-se?",
+    "option_a": "una falla",
+    "option_b": "un pou de drenatge",
+    "option_c": "un meandre de riu",
+    "option_d": "una serralada"
+  },
+  {
+    "id": "ARC-Challenge/validation/MEA_2016_5_7",
+    "answer": "B",
+    "instruction": "Un estudiant observa que un organisme unicel·lular i una fulla de planta tenen parts verdes similars. L'estudiant pensa que ambdós organismes utilitzen les parts verdes per viure. Quines evidències suporten la conclusió que tots dos organismes necessiten les parts verdes per viure?",
+    "option_a": "Ambdós organismes utilitzen les parts verdes per moure's.",
+    "option_b": "Tots dos organismes moren si les parts verdes són eliminades.",
+    "option_c": "S'observa que les parts verdes en ambdós organismes emeten llum.",
+    "option_d": "Les parts verdes en ambdós organismes poden crear més parts verdes."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7027230",
+    "answer": "A",
+    "instruction": "Quina àrea temàtica seria la millor per investigar formes de reduir els problemes ambientals causats pels humans?",
+    "option_a": "convertir la llum del sol en electricitat",
+    "option_b": "buscar noves reserves de carbó",
+    "option_c": "trobar dipòsits que continguin petroli",
+    "option_d": "convertir boscos en terres de cultiu"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7245053",
+    "answer": "B",
+    "instruction": "Quin dels següents compostos és un compost orgànic?",
+    "option_a": "aigua (H2O)",
+    "option_b": "hexà (C6H14)",
+    "option_c": "amoni (NH3)",
+    "option_d": "diòxid de sofre (SO2)"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_8_12",
+    "answer": "A",
+    "instruction": "Una funció principal de la llavor d'una planta és",
+    "option_a": "emmagatzemar menjar per ser utilitzat durant el desenvolupament inicial",
+    "option_b": "atraure pol·len per ser utilitzat durant el desenvolupament",
+    "option_c": "absorbir energia de la llum per ser utilitzada durant la fotosíntesi",
+    "option_d": "produir clorofil·la per ser utilitzada durant la fotosíntesi"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7189035",
+    "answer": "D",
+    "instruction": "Scott estava mirant els resultats del creuament entre flors vermelles i blanques. Quin és el resultat més probable d'un creuament que demostra domini incomplet?",
+    "option_a": "0% flors roses",
+    "option_b": "25% flors blanques",
+    "option_c": "50% flors vermelles",
+    "option_d": "100% flors roses"
+  },
+  {
+    "id": "ARC-Challenge/validation/LEAP_2006_8_10412",
+    "answer": "B",
+    "instruction": "La Jolie volia menjar un ou dur per esmorzar. Va posar l'ou en aigua bullint durant quinze minuts. Quan va trencar la closca, les parts líquides de l'ou s'havien solidificat. Això va passar perquè",
+    "option_a": "l'escalfor va eliminar l'aigua de l'ou.",
+    "option_b": "l'escalfor va canviar els enllaços químics de l'ou.",
+    "option_c": "l'ebullició va fer que les parts sòlides de l'ou pugessin a la superfície.",
+    "option_d": "les bactèries que vivien a l'ou líquid van ser mortes."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400172",
+    "answer": "A",
+    "instruction": "Quin científic va afirmar que la Terra era el centre de l'univers?",
+    "option_a": "Aristòtil",
+    "option_b": "Copèrnic",
+    "option_c": "Einstein",
+    "option_d": "Newton"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2005_5_21",
+    "answer": "D",
+    "instruction": "Les femelles de foques acostumen a tornar a les mateixes platges any rera any per parir. Si són perturbades repetidament per humans en aquestes platges, com respondran més probablement les foques?",
+    "option_a": "Canviaran de color.",
+    "option_b": "Pariran més ausells.",
+    "option_c": "Caçaran menjar amb més freqüència.",
+    "option_d": "Pariran en platges diferents."
+  },
+  {
+    "id": "ARC-Challenge/validation/MEA_2010_8_11",
+    "answer": "A",
+    "instruction": "Quan la velocitat de les molècules de l'aigua líquida disminueix, què és el que probablement passa?",
+    "option_a": "L'aigua líquida es transforma en sòlid.",
+    "option_b": "L'aigua líquida es condensa.",
+    "option_c": "L'aigua líquida pateix un canvi químic.",
+    "option_d": "L'aigua líquida es converteix en vapor."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7187058",
+    "answer": "A",
+    "instruction": "Cada nit, Johnny llegeix al costat d'una llàmpada que és il·luminada per una bombeta incandescent. Quina és la millor indicació que la transferència d'energia elèctrica a la llàmpada és ineficient?",
+    "option_a": "La bombeta es calenta.",
+    "option_b": "La bombeta produeix llum.",
+    "option_c": "La llàmpada utilitza fils de coure.",
+    "option_d": "La llàmpada es pot apagar amb un interruptor."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7185133",
+    "answer": "A",
+    "instruction": "Tracey estava aprenent sobre l'organització estructural en els animals. Quin nivell d'organització estructural descriu millor un ou?",
+    "option_a": "una cèl·lula",
+    "option_b": "un teixit",
+    "option_c": "un sistema",
+    "option_d": "un òrgan"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7183733",
+    "answer": "B",
+    "instruction": "Al Everglades, la condició corporal de l'alligador americà està estretament relacionada amb la profunditat de l'aigua. Quan els nivells d'aigua pugen massa, les espècies animals es dispersen per una àrea més gran, causant una disminució de la condició corporal degut a la incapacitat de localitzar fonts d'alimentació suficients. Quan els nivells d'aigua baixen, les espècies animals es concentren en àrees més petites, permetent als alligadors caçar de manera més efectiva. Aquest escenari és un exemple de com la supervivència dels alligadors depèn de la restricció de quin factor?",
+    "option_a": "rati de descomposició",
+    "option_b": "àrea d'hàbitat de les preses",
+    "option_c": "producció de productors",
+    "option_d": "renovació de l'aigua"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7205345",
+    "answer": "D",
+    "instruction": "Quan es produeix sal taula (NaCl), quina és la millor descripció de les accions dels àtoms de sodi (Na) i clor (Cl)?",
+    "option_a": "Els àtoms de sodi reemplacen els àtoms de clor.",
+    "option_b": "Els àtoms de sodi i de clor es barregen junts.",
+    "option_c": "Els àtoms de sodi es dissolen en els àtoms de clor.",
+    "option_d": "Els àtoms de sodi i de clor es vinculen químicament."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2002_5_6",
+    "answer": "D",
+    "instruction": "Els colibrís poden mantenir-se en suspensió i volar molt ràpidament. Això beneficia el colibrí en tots els següents casos excepte en",
+    "option_a": "escapar ràpidament dels depredadors.",
+    "option_b": "arribar fàcilment a les flors.",
+    "option_c": "mantenir-se en un lloc per beure nèctar.",
+    "option_d": "mantenir els ous calents."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7166180",
+    "answer": "B",
+    "instruction": "El creixement de les plantes es veu afectat per factors ambientals com la gravetat. Si una llavor es deixa germinar i créixer mentre està de costat, què serà més probable que passi?",
+    "option_a": "les arrels creixeran cap avall, els brots creixeran cap avall",
+    "option_b": "les arrels creixeran cap avall, els brots creixeran cap amunt",
+    "option_c": "les arrels creixeran cap amunt, els brots creixeran cap avall",
+    "option_d": "les arrels creixeran cap amunt, els brots creixeran cap amunt"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2012_5_23632",
+    "answer": "C",
+    "instruction": "Un estudiant va observar una roca formada per moltes petites partícules de sorra disposades en capes de color clar i capes de color fosc. Quina de les afirmacions següents descriu com aquest tipus de roca es va formar més probablement?",
+    "option_a": "L'argila va ser trencada i congelada sota un glaciar.",
+    "option_b": "La lava d'un volcà es va refredar ràpidament en aigua.",
+    "option_c": "Els sediments del riu es van compactar i cimentar lentament.",
+    "option_d": "Els dipòsits minerals es van endurir en roca sòlida en coves subterrànies."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7267593",
+    "answer": "A",
+    "instruction": "Quin d'aquests desastres naturals són els més imprevisibles?",
+    "option_a": "terratrèmols",
+    "option_b": "huracans",
+    "option_c": "torns",
+    "option_d": "nevades"
+  },
+  {
+    "id": "ARC-Challenge/validation/NAEP_2005_8_S11+14",
+    "answer": "B",
+    "instruction": "Què és el que NO pot sobreviure una persona si el perden?",
+    "option_a": "L'apèndix",
+    "option_b": "El fetge",
+    "option_c": "Un pulmó",
+    "option_d": "Un ronyó"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7218750",
+    "answer": "C",
+    "instruction": "Quin tipus de dipòsit d'aigua sempre pot proporcionar aigua dolça?",
+    "option_a": "llacs interiors",
+    "option_b": "dèltes fluvials",
+    "option_c": "glaceres de muntanya",
+    "option_d": "mars tropicals"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7026198",
+    "answer": "A",
+    "instruction": "L’element criptó és un gas que mostra gairebé cap activitat química. Per trobar un altre element amb propietats similars, què hauria de cercar un estudiant a la Taula Periòdica dels Elements?",
+    "option_a": "un element al mateix grup",
+    "option_b": "un element al mateix període",
+    "option_c": "un element amb la mateixa càrrega neta",
+    "option_d": "un element amb la mateixa massa atòmica"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7081760",
+    "answer": "B",
+    "instruction": "Per classificar un organisme descobert recentment, un científic investiga l'estructura, l'ADN i el cicle de vida de l'organisme. El científic probablement utilitzarà els resultats de la investigació per a",
+    "option_a": "construir nous mètodes científics.",
+    "option_b": "revisar coneixements científics.",
+    "option_c": "formular noves hipòtesis.",
+    "option_d": "refutar teories científiques."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7130603",
+    "answer": "C",
+    "instruction": "Quina de les quantitats següents s'expressa en una unitat diferent del joule?",
+    "option_a": "calor",
+    "option_b": "llum",
+    "option_c": "potència",
+    "option_d": "treball"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7074865",
+    "answer": "C",
+    "instruction": "Quin d'aquests és veritat sobre les algues, les bactèries i les plantes amb flors?",
+    "option_a": "Són inorgànics.",
+    "option_b": "Tots tenen clorofil·la.",
+    "option_c": "Estan compostos per cèl·lules.",
+    "option_d": "Tots es nodreixen d'altres organismes."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7042700",
+    "answer": "D",
+    "instruction": "Quin aparell no seria necessari durant una dissecció d'animals?",
+    "option_a": "guants",
+    "option_b": "ulls de protecció",
+    "option_c": "bata de laboratori",
+    "option_d": "duxa de seguretat"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7071365",
+    "answer": "D",
+    "instruction": "Quina comparació entre papallones i falenòpters és una afirmació de fet?",
+    "option_a": "Les papallones són més boniques i divertides de mirar que els falenòpters.",
+    "option_b": "Les papallones volen millor que els falenòpters.",
+    "option_c": "Les papallones i els falenòpters són molt més feliços durant el dia.",
+    "option_d": "Les papallones i els falenòpters tenen el mateix nombre de cames."
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2007_4_52",
+    "answer": "C",
+    "instruction": "Les plantes i els animals necessiten menjar per a créixer. Què passa amb la majoria del menjar que les plantes produeixen?",
+    "option_a": "El menjar és alliberat com a gas.",
+    "option_b": "El menjar es converteix en aigua.",
+    "option_c": "El menjar s'emmagatzema per a ús futur.",
+    "option_d": "El menjar s'utilitza per absorbir la llum solar."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7026443",
+    "answer": "D",
+    "instruction": "Quin tret d'un gos mascota és heretat?",
+    "option_a": "El gos evita un gat mascota.",
+    "option_b": "El gos salta en un sofà.",
+    "option_c": "El gos es gira quan li donen l'ordre.",
+    "option_d": "El gos babeja quan detecta olor de menjar."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7008138",
+    "answer": "B",
+    "instruction": "Quina afirmació descriu els asteroides i els cometes?",
+    "option_a": "Els asteroides són sòlids i els cometes són gasosos.",
+    "option_b": "Els asteroides són sòlids i els cometes són gasosos.",
+    "option_c": "Tant els asteroides com els cometes són sòlids.",
+    "option_d": "Tant els asteroides com els cometes són gasosos."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_402104",
+    "answer": "D",
+    "instruction": "Abocar productes químics tòxics en una bassa probablement provocaria",
+    "option_a": "un augment dels nivells d'oxigen a la bassa.",
+    "option_b": "un creixement més ràpid de les plantes al voltant de la bassa.",
+    "option_c": "que els productes químics tòxics no tinguessin cap efecte a la bassa.",
+    "option_d": "que els peixos de la bassa resultessin afectats o morissin."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7086013",
+    "answer": "D",
+    "instruction": "La conca del riu Humboldt és una de les fonts més importants de diversos recursos no renovables. Quin d'aquests recursos no renovables es produeix a partir de la conca del riu Humboldt?",
+    "option_a": "el carbó provinent de dipòsits de muntanya",
+    "option_b": "petroli i gas provinents de dipòsits subterranis",
+    "option_c": "energia elèctrica provinent de generadors hidroelèctrics",
+    "option_d": "minerals provinents de l'explotació de l'or, la plata i el coure"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7248238",
+    "answer": "D",
+    "instruction": "Els peixos mosquits que es troben a les illes de les Bahames viuen en diversos bassals d'aigua dolça aïllats que abans eren un sol cos d'aigua. Quan diversos peixos mosquits mascles i femelles són trets de dos bassals aïllats i col·locats en un sol bassal, la preferència d'aparellament de cada peix mosquit és per peixos del seu propi bassal d'origen. Quina d'aquestes opcions va influir més probablement en aquesta preferència d'aparellament?",
+    "option_a": "La disponibilitat d'aliments va influir en les preferències d'aparellament dels peixos.",
+    "option_b": "La competència per una parella adequada va influir en les preferències d'aparellament.",
+    "option_c": "Els depredadors del bassal van influir en les preferències d'aparellament dels peixos.",
+    "option_d": "La especiació deguda a l'aïllament reproductiu va influir en les preferències d'aparellament."
+  }
+]

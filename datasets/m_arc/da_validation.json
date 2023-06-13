@@ -1,0 +1,2673 @@
+[
+  {
+    "id": "ARC-Challenge/validation/Mercury_7099103",
+    "answer": "D",
+    "instruction": "Vilde brombær formerer sig ved aseksuel sprøjtning af nye rødder, når stængler berører jorden. De formerer sig også kønnet gennem deres blomster. Hvad er fordelene ved, at brombærplanten kan reproducere sig både kønnet og aseksuelt?",
+    "option_a": "Det tillader planterne at vokse højere.",
+    "option_b": "Det producerer blomster, der tiltrækker insekter.",
+    "option_c": "Det producerer brombær, der har mere smag.",
+    "option_d": "Det tillader brombærplanter at tilpasse sig nye betingelser."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2006_9_31-v1",
+    "answer": "C",
+    "instruction": "Hvilket af følgende beskriver den mekaniske energi af en vogn i ro på toppen af en stejl bakke?",
+    "option_a": "Vognen har ingen mekanisk energi.",
+    "option_b": "Vognens mekaniske energi er helt kinetisk.",
+    "option_c": "Vognens mekaniske energi er helt potentiel.",
+    "option_d": "Vognens mekaniske energi er halv potentiel og halv kinetisk."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7130883",
+    "answer": "B",
+    "instruction": "En ingeniørklasse er blevet instrueret i at udvikle en robot. Robotten skal designes ved hjælp af elektromagnetisk energi som dens eneste kilde til strøm. Hvilket emne er ingeniørklassen mest sandsynligt at studere?",
+    "option_a": "brugen af ​​batterier og kemisk energi",
+    "option_b": "hvordan strålende energi og solfangere kan bruges",
+    "option_c": "omvandling af kinetisk energi til potentiel energi",
+    "option_d": "hvordan termisk energi kan omdannes til elektrisk energi"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7190155",
+    "answer": "B",
+    "instruction": "Mange forskellige plantearter og dyrearter lever i Amazonas regnskov. Hvad er den mest sandsynlige konsekvens af store områder med afskovning i Amazonas regnskov?",
+    "option_a": "en stigning i dyrebestande",
+    "option_b": "en reduktion i iltproduktionen",
+    "option_c": "en stigning i nedbørsmængden",
+    "option_d": "en reduktion i forurening"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_177398",
+    "answer": "B",
+    "instruction": "Hvilket af følgende repræsenterer en bil, der kører i nordøstlig retning med en hastighed på 50 km/t?",
+    "option_a": "hastighed",
+    "option_b": "hastighed og retning (vektor)",
+    "option_c": "acceleration",
+    "option_d": "bremsning"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7246995",
+    "answer": "C",
+    "instruction": "Nogle planteceller har brug for energi til at transportere næringsstoffer over cellemembranen. Hvilken type energiomdannelse bruger disse planteceller til at bringe næringsstofmolekylet ind i cellemembranen?",
+    "option_a": "termisk energi til kinetisk energi",
+    "option_b": "potentiel energi til lysenergi",
+    "option_c": "kemisk energi til kinetisk energi",
+    "option_d": "kinetisk energi til potentiel energi"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_189490",
+    "answer": "A",
+    "instruction": "Gregor Mendels observation af ærteplanter er et eksempel på",
+    "option_a": "forskningsbaseret beviser, der støtter en videnskabelig teori.",
+    "option_b": "en konklusion, der bliver testet af en hypotese.",
+    "option_c": "tilfældige test under et eksperiment.",
+    "option_d": "beviser for og imod en videnskabelig model."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7139790",
+    "answer": "C",
+    "instruction": "En blæksprutte har særlige celler i sin hud kaldet chromatophorer, som gør det muligt for blæksprutten at ændre farve næsten øjeblikkeligt. Chromatophorerne hjælper sandsynligvis blæksprutten med at",
+    "option_a": "svømme hurtigere.",
+    "option_b": "trække vejret langsommere.",
+    "option_c": "gemme sig for rovdyr.",
+    "option_d": "regulere kropstemperaturen."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7282608",
+    "answer": "C",
+    "instruction": "Spildevand fra hjem er ikke alle ens. Gråvand henviser til spildevand fra hjemmet fra vask og badekar. Det indeholder ikke menneskelige biologiske affald, så det kan genbruges i stedet for at blive behandlet som spildevand. Hvilke brug af gråvand demonstrerer god forvaltning?",
+    "option_a": "vask af retter og drikke",
+    "option_b": "drikke og vanding af blomsterbede",
+    "option_c": "vanding af blomsterbede og træer",
+    "option_d": "vanding af træer og vask af retter"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7145513",
+    "answer": "B",
+    "instruction": "Livsprocesser kræver energi. Biokemiske processer involverer specifikke reaktioner. Hvilket er en karakteristik af biokemiske processer, som er fælles for alle dyr?",
+    "option_a": "Funktion ved enhver pH-værdi",
+    "option_b": "Varme frigivet som et produkt",
+    "option_c": "Brug kun anaerob respiration",
+    "option_d": "Mængden af energi absorberet"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7018148",
+    "answer": "B",
+    "instruction": "FLERTALLET af elementerne, der findes på Det Periodiske System, er",
+    "option_a": "gasser.",
+    "option_b": "metaller.",
+    "option_c": "væsker.",
+    "option_d": "ikke-metaller."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_401294",
+    "answer": "B",
+    "instruction": "Den form for bladene på planter, der trives godt i et regnfuldt klima, er mest almindeligt",
+    "option_a": "røde og skinnende.",
+    "option_b": "brede og flade.",
+    "option_c": "tykke og voksagtige.",
+    "option_d": "spidse og smalle."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7207410",
+    "answer": "C",
+    "instruction": "Storm chasers er personer, der kommer tæt på storme for at observere dem og tage målinger. Hvilken viden har storm chasers tilføjet studiet af storme, som har hjulpet med at modificere teorier om stormdannelse mest?",
+    "option_a": "deres syn på stormskader",
+    "option_b": "deres personlige oplevelser i storme",
+    "option_c": "deres indsamlede data i begyndelsen af storme",
+    "option_d": "deres entusiasme for at studere forskellige storme"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_8_2015_11",
+    "answer": "A",
+    "instruction": "Hvilket af følgende beskriver bedst massen af en fast isblok?",
+    "option_a": "mængden af stof i blokken",
+    "option_b": "mængden af plads blokken fylder",
+    "option_c": "tyngdekraftens virkning på blokken",
+    "option_d": "afstanden mellem molekylerne i blokken"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7201705",
+    "answer": "A",
+    "instruction": "I mange dele af verden bliver land, som er for tørt til dyrkning, brugt til græsning af kvæg. Overgræsning af disse områder ødelægger de oprindelige planter og nedbryder den naturlige jorddække. Hvordan fører overgræsning til ørkenlignende tilstande?",
+    "option_a": "ved at øge hastigheden, hvormed topjord eroderes",
+    "option_b": "ved at tillade, at ikke-indfødte arter koloniserer landet",
+    "option_c": "ved at reducere føden til rådighed for kvæg",
+    "option_d": "ved at få landet til at optage regn mere hurtigt"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7133858",
+    "answer": "B",
+    "instruction": "Materiale kan gennemgå forskellige ændringer. Hvilket viser bedst en kemisk ændring?",
+    "option_a": "salt der opløses",
+    "option_b": "træ der brænder",
+    "option_c": "vand der koger",
+    "option_d": "is der smelter"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2003_5_31",
+    "answer": "D",
+    "instruction": "Hvilket af disse er ikke en instinktiv adfærd?",
+    "option_a": "en fugl, der bygger rede",
+    "option_b": "en skildpadde, der begravere sine æg",
+    "option_c": "en bjørn, der går i hi om vinteren",
+    "option_d": "en hest, der trækker en plov"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7198380",
+    "answer": "D",
+    "instruction": "Forskellige arter af planteædende gnavere levede i det samme økosystem. Hvilken faktor steg formentlig og forårsagede mere konkurrence om ressourcer blandt gnaverne?",
+    "option_a": "fertiliteten af jorden",
+    "option_b": "populationen af producenter i området",
+    "option_c": "mængden af madrester efterladt af rovdyr",
+    "option_d": "hastigheden hvormed primære forbrugere flyttede ind i området"
+  },
+  {
+    "id": "ARC-Challenge/validation/LEAP_2012_8_10441",
+    "answer": "C",
+    "instruction": "En skægagame art spiser mest frugt fra en bestemt type træ. Hvis en virus dræber de fleste af disse træer, hvilke enkelte skægagamer vil højst sandsynligt overleve?",
+    "option_a": "skægagamer, der kan klatre højere oppe i frugttræerne",
+    "option_b": "skægagamer, der har en mørkere farve",
+    "option_c": "skægagamer, der kan finde andre typer af føde",
+    "option_d": "skægagamer, der producerer flere afkom"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7217053",
+    "answer": "B",
+    "instruction": "Biologisk evolution kan forekomme gennem alle disse undtagen",
+    "option_a": "konkurrence.",
+    "option_b": "fossilisering.",
+    "option_c": "variation.",
+    "option_d": "tilpasning."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7233660",
+    "answer": "C",
+    "instruction": "Nogle forskere teoretiserer, at pladernes bevægelse kunne ændre vandstanden i Jordens have. Hvordan ville pladernes bevægelses natur begrænse de mulige ændringer i havniveauet?",
+    "option_a": "ved kun at foretage små ændringer",
+    "option_b": "ved kun at ændre få bestemte oceanbassiner",
+    "option_c": "ved at forårsage ændringer i meget langsomt tempo",
+    "option_d": "ved at forårsage parvise ændringer med lige store og modsatte effekter"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7115395",
+    "answer": "A",
+    "instruction": "Hvilke ændringer vil mest sandsynligt have en negativ effekt på et økosystem?",
+    "option_a": "bygning af en vej",
+    "option_b": "plantning af et træ",
+    "option_c": "tilføjelse af en ferskvandskilde",
+    "option_d": "oprettelse af et natursanctuary"
+  },
+  {
+    "id": "ARC-Challenge/validation/MSA_2013_8_3",
+    "answer": "D",
+    "instruction": "Geologer har identificeret syv større tektoniske plader på jordens overflade. Hvilket bevis indikerer bedst, at tektoniske plader kolliderer?",
+    "option_a": "Vinden eroderer overfladerockformationer.",
+    "option_b": "Fossiler dateres tilbage tusinder af år.",
+    "option_c": "Små sten efterlades, når gletsjere trækker sig tilbage.",
+    "option_d": "Ældre lag af klippe ligger oven på nyere lag af klippe."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7205135",
+    "answer": "C",
+    "instruction": "Hvordan påvirkes partiklerne i en jernblok, når blokken smelter?",
+    "option_a": "Partiklerne får mere masse.",
+    "option_b": "Partiklerne indeholder mindre energi.",
+    "option_c": "Partiklerne bevæger sig mere hurtigt.",
+    "option_d": "Partiklerne øger deres volumen."
+  },
+  {
+    "id": "ARC-Challenge/validation/ACTAAP_2010_5_10",
+    "answer": "A",
+    "instruction": "Sara tænder en lommelygte og holder et objekt op mod lyset. Hvordan kan hun se, om objektet er ugennemsigtigt?",
+    "option_a": "Ingen lys vil skinne igennem.",
+    "option_b": "Noget lys vil blive reflekteret.",
+    "option_c": "Lyset vil bøje sig i en vinkel.",
+    "option_d": "Lys vil skinne klart igennem."
+  },
+  {
+    "id": "ARC-Challenge/validation/TIMSS_2003_8_pg29",
+    "answer": "E",
+    "instruction": "Hvilket af følgende organer er IKKE placeret i bughulen?",
+    "option_a": "leveren",
+    "option_b": "nyren",
+    "option_c": "maven",
+    "option_d": "blæren",
+    "option_e": "hjertet"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7181685",
+    "answer": "A",
+    "instruction": "Egenskaben for blomsterfarve varierer meget blandt visse arter af rosenplanter, hvilket fører til dannelse af blomster i forskellige farver. Hvordan opstod variationen i blomsterfarve hos rosenplanter?",
+    "option_a": "gennem mutation",
+    "option_b": "gennem bestøvning",
+    "option_c": "gennem naturlig udvælgelse",
+    "option_d": "gennem ukønnet formering"
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2011_5_20",
+    "answer": "D",
+    "instruction": "Sneshoen har skifter pels to gange om året. Om sommeren er harpels brun. Om vinteren er pelsen hvid. Hvilken af disse udsagn forklarer bedst fordelene ved at skifte pels?",
+    "option_a": "Pelsudskiftning holder harpelsen ren.",
+    "option_b": "Pelsudskiftning hjælper harpelsen med at bevæge sig hurtigt.",
+    "option_c": "Pelsudskiftning holder harens hjem varmt.",
+    "option_d": "Pelsudskiftning hjælper haren med at blende ind i sit habitat."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7008120",
+    "answer": "A",
+    "instruction": "Binære stjerner bruges af forskere til at bestemme en stjernes",
+    "option_a": "masse.",
+    "option_b": "lysstyrke.",
+    "option_c": "afstand fra Jorden.",
+    "option_d": "afstand fra Solen."
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_13",
+    "answer": "B",
+    "instruction": "En dreng kan se sit ansigt, når han ser ned i en rolig sø. Hvilken fysisk egenskab ved søen får dette til at ske?",
+    "option_a": "fleksibilitet",
+    "option_b": "refleksivitet",
+    "option_c": "temperatur",
+    "option_d": "volumen"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_1",
+    "answer": "B",
+    "instruction": "En elev plantede to bønnefrø i to identiske potter, der indeholdt samme type jord. Han placerede en potte i et skab og den anden nær et solrigt vindue. Hver dag hældte han 15 milliliter vand i hver potte. Hvilken faktor var forskellig for de to potter?",
+    "option_a": "mængde vand",
+    "option_b": "mængde lys",
+    "option_c": "type jord",
+    "option_d": "type frø"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7141698",
+    "answer": "B",
+    "instruction": "Når lyn opstår, opvarmer det omkringliggende luft. Den varme luft udvider sig og producerer torden. Energien fra lynet bliver konverteret til hvilken type energi for at producere torden?",
+    "option_a": "tyngdekraft",
+    "option_b": "mekanisk",
+    "option_c": "kerne-",
+    "option_d": "strålende"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_407314",
+    "answer": "A",
+    "instruction": "Elever fra to klasser udførte den samme undersøgelse. Hver klasse fik forskellige resultater. Hvilken metode er den bedste for eleverne til at fastslå, hvorfor resultaterne var forskellige?",
+    "option_a": "Gennemgå de trin, der blev taget under undersøgelserne.",
+    "option_b": "Ændr hypotesen for undersøgelsen.",
+    "option_c": "Søg efter data om lignende undersøgelser.",
+    "option_d": "Udfør en anden undersøgelse."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_406781",
+    "answer": "C",
+    "instruction": "Hvilket samspil mellem dyr kontrollerer bedst populationen af en art?",
+    "option_a": "Vilde dyr, der markerer deres territorier",
+    "option_b": "Remora fisk, der rejser med hajer",
+    "option_c": "Løver, der jager zebraer",
+    "option_d": "Ulve, der rejser i flokke"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400845",
+    "answer": "B",
+    "instruction": "Lyn kan producere alle disse former for energi undtagen",
+    "option_a": "varmeenergi.",
+    "option_b": "solenergi.",
+    "option_c": "lysenergi.",
+    "option_d": "elektrisk energi."
+  },
+  {
+    "id": "ARC-Challenge/validation/ACTAAP_2009_5_5",
+    "answer": "B",
+    "instruction": "Janet har fået nogle mineraler til at identificere. Én af hendes prøver er gul. Hvilket af disse mineraler er mest sandsynligt at være gult?",
+    "option_a": "Talcum",
+    "option_b": "Svovl",
+    "option_c": "Gips",
+    "option_d": "Hematit"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7171938",
+    "answer": "D",
+    "instruction": "Jordens tidevande påvirkes stærkt af Månen. Under hvilke månefaser er havets tidevande lavest på Jorden?",
+    "option_a": "fuldmåne og første kvarter",
+    "option_b": "fuldmåne og nymåne",
+    "option_c": "sidste kvarter og nymåne",
+    "option_d": "første kvarter og sidste kvarter"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415354",
+    "answer": "C",
+    "instruction": "Hvilke af disse adfærd lærer en delfin?",
+    "option_a": "at spise små fisk",
+    "option_b": "at svømme i saltvand",
+    "option_c": "at balancere en bold på sin næse",
+    "option_d": "at trække vejret gennem sin blæser"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_17",
+    "answer": "C",
+    "instruction": "Hvilken egenskab ville en kat sandsynligvis arve fra sine forældre?",
+    "option_a": "have et ar",
+    "option_b": "jage en legetøj",
+    "option_c": "have hvid pels",
+    "option_d": "kende sit navn"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7251685",
+    "answer": "B",
+    "instruction": "Hvilke aktivitet sikrer mest effektivt den korrekte funktion af osteocytter?",
+    "option_a": "øge respirationshastigheden",
+    "option_b": "indtage mineralrige fødevarer",
+    "option_c": "reducere stressende motion",
+    "option_d": "drikke ionfrit vand"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7267995",
+    "answer": "C",
+    "instruction": "Nogle plantearter og dyrearter er afhængige af hinanden. Hvilke af disse dyr hjælper tusindvis af plantearter med at reproducere sig?",
+    "option_a": "egern",
+    "option_b": "regnorme",
+    "option_c": "honningbier",
+    "option_d": "biller"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7193043",
+    "answer": "B",
+    "instruction": "Ikke-indfødte planter kan overtage områder, der tidligere var befolket af indfødte plantearter. Hvilken abiotisk proces er mindst sandsynligt at forårsage invasionen af ikke-indfødte planter?",
+    "option_a": "oversvømmelse",
+    "option_b": "forvitring",
+    "option_c": "støvstorme",
+    "option_d": "smeltende gletsjere"
+  },
+  {
+    "id": "ARC-Challenge/validation/VASoL_2008_5_28",
+    "answer": "C",
+    "instruction": "Ubåde har udforsket mange dele af havet. Når ubåde dykker ned, observerer forskere, at der er en stigning i -",
+    "option_a": "mængden af lys",
+    "option_b": "vandtemperaturen",
+    "option_c": "vandtrykket",
+    "option_d": "typer af havorganismer"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7154263",
+    "answer": "B",
+    "instruction": "Phytoplanktoner er plante-lignende mikroskopiske organismer, der flyder i kroppe af vand som havet. De optager kuldioxid under fotosynteseprocessen. Hvad vil der højst sandsynligt ske, hvis befolkningen af phytoplankton blev ødelagt?",
+    "option_a": "Søtemperatur ville falde.",
+    "option_b": "Drivhusgasser vil stige.",
+    "option_c": "Atmosfærisk ilt vil stige.",
+    "option_d": "Havets niveauer ville drastisk falde."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7032743",
+    "answer": "C",
+    "instruction": "Hvilken egenskab ved geparden er mere sandsynligt at lære end at arve?",
+    "option_a": "hastighed",
+    "option_b": "en plettet frakke",
+    "option_c": "jagtstrategier",
+    "option_d": "kløer der ikke trækker sig tilbage"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_19",
+    "answer": "B",
+    "instruction": "Mens killinger vokser til katte, så reduceres, øges eller forbliver deres kropsvægt normalt den samme",
+    "option_a": "reduceres",
+    "option_b": "øges",
+    "option_c": "forbliver den samme"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7115273",
+    "answer": "C",
+    "instruction": "Hvad forhindrer en abiotisk faktor fra at nå bunden af søen, når der er store blomster af alger på overfladen?",
+    "option_a": "vand",
+    "option_b": "salt",
+    "option_c": "lys",
+    "option_d": "ilt"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7205555",
+    "answer": "A",
+    "instruction": "Vand har mange unikke kemiske egenskaber. Hvilken egenskab ved vand gør vand til et godt opløsningsmiddel for krystallinske salte?",
+    "option_a": "stærk polaritet",
+    "option_b": "svag ledningsevne",
+    "option_c": "høj viskositet",
+    "option_d": "lav pH"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7192990",
+    "answer": "A",
+    "instruction": "Skovbrande opstår i mange områder på grund af tørkeforhold. Hvis tørkeforholdene fortsætter i lang tid, hvilket kan true genbefolkningen af træer?",
+    "option_a": "en reduktion i jordens tykkelse",
+    "option_b": "en reduktion i erosionens mængde",
+    "option_c": "en stigning i bakteriepopulationen",
+    "option_d": "en stigning i oxygenproduktionen"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_408859",
+    "answer": "A",
+    "instruction": "Amerikanske alligatorer er almindelige i floridas vådområder. De er kendt for at spise frøer, skildpadder, fisk, mus og fugle. Hvilken rolle spiller en amerikansk alligator i sit økosystem?",
+    "option_a": "forbruger",
+    "option_b": "nedbryder",
+    "option_c": "ådselsæder",
+    "option_d": "producent"
+  },
+  {
+    "id": "ARC-Challenge/validation/TIMSS_2007_4_pg90",
+    "answer": "C",
+    "instruction": "Sue målte, hvor meget sukker der ville opløse sig i en kop koldt vand, en kop varmt vand og en kop varmt vand. Hvad observerede hun mest sandsynligt?",
+    "option_a": "Koldt vand opløste mest sukker.",
+    "option_b": "Varmt vand opløste mest sukker.",
+    "option_c": "Hedt vand opløste mest sukker.",
+    "option_d": "Lige meget sukker opløste sig i både koldt vand, varmt vand og hedt vand."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_180058",
+    "answer": "A",
+    "instruction": "En fossil, der blev opdaget i Colorado, stammer fra den tidlige Mesozoic-æra. Et år senere findes en lignende fossil i Wyoming, der også stammer fra den tidlige Mesozoic-æra. Disse to organisationer levede sandsynligvis i",
+    "option_a": "den samme miljø på cirka samme tid.",
+    "option_b": "det samme miljø på forskellige tidspunkter.",
+    "option_c": "forskellige miljøer på cirka samme tid.",
+    "option_d": "forskellige miljøer på forskellige tidspunkter."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400050",
+    "answer": "C",
+    "instruction": "Hvad sker der, når temperaturen i huset er koldere end temperaturen valgt på termostaten?",
+    "option_a": "Fyret vil overophede.",
+    "option_b": "Termostaten vil blive varm.",
+    "option_c": "Fyret vil automatisk tænde.",
+    "option_d": "Termostaten vil afgive en opkaldstone."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_1998_8_13",
+    "answer": "D",
+    "instruction": "Hvilken af følgende er ikke en større kontroversiel problemstilling forbundet med brug af kernekraft?",
+    "option_a": "bortskaffelse af affaldsprodukter fra kernekraft",
+    "option_b": "sundhedsfarerne i områder omkring kernekraftværker",
+    "option_c": "termisk forurening af vandlegemer p.g.a. køling",
+    "option_d": "arbejdsløshed som følge af konvertering til kernekraft"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_4",
+    "answer": "A",
+    "instruction": "Hvilken tilstandsform har hverken en bestemt volumen eller en bestemt form?",
+    "option_a": "gas",
+    "option_b": "væske",
+    "option_c": "fast stof"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7233678",
+    "answer": "A",
+    "instruction": "Videnskabsfolk mener, at kontinentaldrift i jordens geologiske historie har haft en betydelig indvirkning på jordens cyklusser af varmere og køligere klimaer. Hvilken udsagn beskriver en karakteristik for jordens kontinenter, som sandsynligvis vil forårsage ændringer i global klima, når kontinenter driver væk fra hinanden?",
+    "option_a": "Kontinentets placering påvirker dets overflade-reflektivitet.",
+    "option_b": "Kontinentalskorpen bestemmer dens specifikke varmekapacitet.",
+    "option_c": "Kontinentaldrift absorberer store mængder kinetisk energi.",
+    "option_d": "Temperaturen på et kontinent påvirkes af havet, der er nærmest det."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_LBS10666",
+    "answer": "B",
+    "instruction": "Planter behøver normalt ikke at spise andre organismer, fordi planter",
+    "option_a": "ikke har brug for fødeenergi for at leve.",
+    "option_b": "omdanner sollys til fødeenergi.",
+    "option_c": "får al deres fødeenergi fra jorden.",
+    "option_d": "bevarer fødeenergi gemt i deres rødder."
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_8_38",
+    "answer": "A",
+    "instruction": "En substans i fast form (tilstand) har",
+    "option_a": "en bestemt form og et bestemt volumen",
+    "option_b": "en bestemt form, men intet bestemt volumen",
+    "option_c": "ingen bestemt form, men et bestemt volumen",
+    "option_d": "ingen bestemt form og intet bestemt volumen"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2004_8_28",
+    "answer": "A",
+    "instruction": "Hvordan ville de målbare egenskaber af en golfbold ændre sig, hvis den blev flyttet fra Jorden til Månen?",
+    "option_a": "Den ville have den samme masse, men en anden vægt.",
+    "option_b": "Den ville have den samme vægt, men en anden masse.",
+    "option_c": "Den ville have den samme densitet, men en anden masse.",
+    "option_d": "Den ville have den samme masse, men en anden densitet."
+  },
+  {
+    "id": "ARC-Challenge/validation/LEAP__7_10354",
+    "answer": "D",
+    "instruction": "Joannes naturfaglærer advarede klassen om at være skeptiske, når de lærer om nye videnskabelige opdagelser. Hvorfor er det vigtigt at være skeptisk overfor nye opdagelser inden for videnskab?",
+    "option_a": "fordi mange videnskabelige opdagelser ikke er baseret på fakta",
+    "option_b": "fordi de fleste videnskabelige opdagelser ikke har videnskabelig værdi",
+    "option_c": "fordi de fleste forskere begår fejl, når de formulerer videnskabelige opdagelser",
+    "option_d": "fordi alle videnskabelige opdagelser skal undersøges kritisk, før de kan accepteres"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2003_8_25",
+    "answer": "B",
+    "instruction": "I en bil er hvilken af følgende komponenter specielt designet til at give feedback til føreren?",
+    "option_a": "rat",
+    "option_b": "speedometer",
+    "option_c": "bremsepedal",
+    "option_d": "bilnøgle"
+  },
+  {
+    "id": "ARC-Challenge/validation/TIMSS_2011_8_pg63",
+    "answer": "C",
+    "instruction": "Hvad definerer en sammensat enhed?",
+    "option_a": "Forskellige stoffer der er blandet sammen",
+    "option_b": "Atomar og molekylære stoffer, der er blandet sammen",
+    "option_c": "Atomar fra forskellige elementer, der er kombineret sammen",
+    "option_d": "Atomar fra samme element, der er kombineret sammen"
+  },
+  {
+    "id": "ARC-Challenge/validation/AIMS_2009_4_29",
+    "answer": "D",
+    "instruction": "En køleskab bruger elektricitet til at skabe et koldt sted at opbevare mad. Hvilken negativ indvirkning har køleskabsbrugen på miljøet?",
+    "option_a": "Den elektricitet, der er nødvendig for at holde maden kold, kan være dyr.",
+    "option_b": "Hvis elektriciteten går ud, vil maden ødelægges og gøre dig syg.",
+    "option_c": "Opbevaring af mad i længere tid reducerer antallet af ture til dagligvarebutikkerne og benzinforbruget.",
+    "option_d": "Gamle køleskabe indeholder kemikalier og optager plads på lossepladserne."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_LBS10472",
+    "answer": "B",
+    "instruction": "Planter har specialiserede væv i enderne af deres stilke. Hvad hjælper disse væv planterne med?",
+    "option_a": "fordøje mad",
+    "option_b": "vokse højere",
+    "option_c": "lave mad",
+    "option_d": "optage vand"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415491",
+    "answer": "C",
+    "instruction": "Jorden kredser rundt om Solen en gang om året. Cirka hvor mange gange kredser månen om Jorden om året?",
+    "option_a": "1",
+    "option_b": "7",
+    "option_c": "13",
+    "option_d": "28"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2011_5_17673",
+    "answer": "A",
+    "instruction": "Jose har to stavmagneter. Han presser enderne af de to magneter sammen og lader dem derefter gå. Magneterne bevæger sig hurtigt fra hinanden. Hvilken af følgende udsagn forklarer bedst hvorfor dette sker?",
+    "option_a": "De to magneters nordpol står over for hinanden.",
+    "option_b": "Den ene magnet er en nordpol, og den anden magnet er en sydpol.",
+    "option_c": "Endene af magneter frastøder hinanden, men centrene tiltrækker hinanden.",
+    "option_d": "Den ene magnet opbevarer energi, og den anden magnet frigiver energi."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_416648",
+    "answer": "A",
+    "instruction": "Paramecium og Volvox kan begge reproducere sig seksuelt. Hvordan adskiller seksuel reproduktion i Volvox sig fra seksuel reproduktion i Paramecium?",
+    "option_a": "Volvox-kolonier producerer gameter.",
+    "option_b": "Volvox-celler undergår konjugation.",
+    "option_c": "Volvox-kolonier producerer encellede afkom.",
+    "option_d": "Volvox-celler reproducerer ved vegetativ knopskydning."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7207620",
+    "answer": "A",
+    "instruction": "Nogle instrumenter registrerer ilt-niveauer i ozonlagets atmosfære på Jorden. At gemme en registrering af disse data i mange år er et eksempel på",
+    "option_a": "at opbygge beviser gennem løbende undersøgelser.",
+    "option_b": "at identificere en hypotese, der støtter dataene.",
+    "option_c": "at drage konklusioner om beviser ud fra resultater.",
+    "option_d": "at foreslå data, der er lette at forstå."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7164850",
+    "answer": "A",
+    "instruction": "En naturvidenskabelig klasse designede en plakat for at vise hvordan barriereøerne langs Floridas kyst dannes. Eleverne viste virkningerne af vind, bølger og tidevande på sandet, der dannede disse øer. I plakaten skal eleverne sige, hvilket par systemer der påvirker barriereøformationen mest.",
+    "option_a": "hydrosfæren og atmosfæren",
+    "option_b": "atmosfæren og lithosfæren",
+    "option_c": "biosfæren og hydrosfæren",
+    "option_d": "lithosfæren og biosfæren"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7011270",
+    "answer": "B",
+    "instruction": "Hvor lang tid tager det cirka for Månen at fuldføre en omgang omkring Jorden?",
+    "option_a": "7 dage",
+    "option_b": "30 dage",
+    "option_c": "90 dage",
+    "option_d": "365 dage"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7090598",
+    "answer": "C",
+    "instruction": "Hvilken af disse processer indebærer overførslen af en stor mængde termisk energi?",
+    "option_a": "erosion",
+    "option_b": "sedimentering",
+    "option_c": "subduktion",
+    "option_d": "cementering"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_412337",
+    "answer": "D",
+    "instruction": "Under en undersøgelse blev varmen overført fra en væske til omgivelserne. Hvilket par af forklaringerne kan bedst forklare dette resultat?",
+    "option_a": "Temperaturen af væsken steg, eller væsken blev til en gas.",
+    "option_b": "Temperaturen af væsken steg, eller væsken blev til en fast form.",
+    "option_c": "Temperaturen af væsken faldt, eller væsken blev til en gas.",
+    "option_d": "Temperaturen af væsken faldt, eller væsken blev til en fast form."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_1998_8_2",
+    "answer": "C",
+    "instruction": "Den cellestruktur, der gør en plantecelle mere stiv end en dyrecelle, er celle-væggen",
+    "option_a": "cellemembranen.",
+    "option_b": "cytoplasmaet.",
+    "option_c": "celle-væggen.",
+    "option_d": "ribosomet."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7124338",
+    "answer": "D",
+    "instruction": "En undersøgende tankegang ville være hjælpsom for en videnskabsmand, fordi det ville føre videnskabsmanden til",
+    "option_a": "at blive mere kreativ.",
+    "option_b": "at mistro arbejdet fra andre forskere.",
+    "option_c": "at arbejde på at acceptere publicerede hypoteser.",
+    "option_d": "at føre forskning for at bekræfte eller afvise teorier."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_405454",
+    "answer": "D",
+    "instruction": "Hvilket madlavningsredskab ændrer miljøet mindst?",
+    "option_a": "gasgrill",
+    "option_b": "elektrisk stegepande",
+    "option_c": "mikrobølgeovn",
+    "option_d": "solskovl"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7007875",
+    "answer": "B",
+    "instruction": "Hvad er ansvarlig for at skabe vind?",
+    "option_a": "bølgeaktion",
+    "option_b": "solskin",
+    "option_c": "træer, der blæser",
+    "option_d": "tyngdekraft"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_417146",
+    "answer": "A",
+    "instruction": "Mest af iltet i atmosfæren dannes af alger. Hvor lever de fleste alger?",
+    "option_a": "kystnære ocean",
+    "option_b": "dybhavet",
+    "option_c": "damme",
+    "option_d": "søer"
+  },
+  {
+    "id": "ARC-Challenge/validation/LEAP_2004_8_10397",
+    "answer": "B",
+    "instruction": "Da mennesker gik på Månen, fandt de ud af, at de kunne hoppe højere end de kunne tilbage på Jorden. Hvorfor er det sandt?",
+    "option_a": "Der er ingen atmosfære på Månen.",
+    "option_b": "Månen udøver mindre tyngdekraft end Jorden.",
+    "option_c": "Rumdragterne hjalp dem med at hoppe højere.",
+    "option_d": "Månen roterer hurtigere end Jorden gør."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_407695",
+    "answer": "D",
+    "instruction": "Juan og LaKeisha ruller et par objekter ned ad en rampe. De vil se, hvilket objekt der ruller længst. Hvad bør de gøre, så de kan gentage deres undersøgelse?",
+    "option_a": "Gruppér objekterne.",
+    "option_b": "Ændr højden på rampen.",
+    "option_c": "Vælg forskellige objekter at rulle.",
+    "option_d": "Optag detaljerne i undersøgelsen."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7158673",
+    "answer": "D",
+    "instruction": "Ana er en langdistance-løber. Efter hun er færdig med et løb, opdager hun, at hun føler sig varm på grund af frigivelsen af termisk energi. Hvad er den mest sandsynlige kilde til den termiske energi?",
+    "option_a": "Friktion fra luften",
+    "option_b": "Varme, der absorberes fra solen",
+    "option_c": "Mekanisk energi, der absorberes",
+    "option_d": "Energiomvendelser, der forekommer i hendes krop"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7018515",
+    "answer": "C",
+    "instruction": "Den mest sandsynlige årsag til, at lyd rejser hurtigere i saltvand end i ferskvand, er at saltvandet",
+    "option_a": "er mere elastisk.",
+    "option_b": "absorberer varme hurtigere.",
+    "option_c": "har en højere densitet.",
+    "option_d": "reflekterer lyd bedre."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_412551",
+    "answer": "D",
+    "instruction": "Dværghornugler har to farvevarianter: røde og grå. Hvilken fordel har den grå dværghornugle over den røde dværghornugle i et habitat, der består af træer med mørkefarvet bark?",
+    "option_a": "redebygning",
+    "option_b": "fodring",
+    "option_c": "parring",
+    "option_d": "skjul"
+  },
+  {
+    "id": "ARC-Challenge/validation/VASoL_2008_5_19",
+    "answer": "D",
+    "instruction": "Tre baseballspillere undersøger, hvem der kan kaste en baseball længst. De afgrænser et område på legepladsen til deres undersøgelse. Hvad skal de holde konstant?",
+    "option_a": "Spilleres højde",
+    "option_b": "Farve på kastede baseballs",
+    "option_c": "Rækkefølge, hvori spillerne kaster",
+    "option_d": "Sted hvorfra spillerne kaster"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7120890",
+    "answer": "A",
+    "instruction": "Hvilket eksempel demonstrerer bedst, at bølger overfører energi?",
+    "option_a": "en klokke, der ringer i et tårn",
+    "option_b": "et blad, der falder fra et træ",
+    "option_c": "en bold der ruller ned ad bakken",
+    "option_d": "et flag, der bevæger sig i vinden"
+  },
+  {
+    "id": "ARC-Challenge/validation/AKDE&ED_2008_8_44",
+    "answer": "A",
+    "instruction": "Hvilken karakteristik gælder for dyr i kun én af disse taksonomiske grupper: reptiler, pattedyr, fugle, amfibier eller fisk?",
+    "option_a": "har hår",
+    "option_b": "lægger æg",
+    "option_c": "har svømmehud",
+    "option_d": "ånder med gæller"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415348",
+    "answer": "D",
+    "instruction": "Hvilken er en arvelig egenskab hos et træ?",
+    "option_a": "en brækket gren på en fyrretræ",
+    "option_b": "en hulhed i en eg",
+    "option_c": "en ar på et ahorntræ",
+    "option_d": "en tyk stamme på en pekannød"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7014368",
+    "answer": "C",
+    "instruction": "Langsstrømme er ocean bølger, der rammer strande ved ekstremt små vinkler. I områder, hvor langsstrømme eksisterer, hvilken effekt har de på landområder?",
+    "option_a": "De bygger bjerge.",
+    "option_b": "De forårsager jordskælv.",
+    "option_c": "De flytter sand og skaber sandbanker.",
+    "option_d": "De skaber ferskvandsfloder inde i landet."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7245193",
+    "answer": "C",
+    "instruction": "Et landligt område blev ryddet helt ned til den bare klippe for at bygge en vej, men vejen blev aldrig bygget. Området begyndte at genopstå. Hvilke organismer dukkede mest sandsynligt først op?",
+    "option_a": "træer",
+    "option_b": "buske",
+    "option_c": "lav og mosser",
+    "option_d": "ukrudt og væselhale"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7251668",
+    "answer": "D",
+    "instruction": "En dafniebestand viser en vertikal migration fra bunden af en én meter dyb dam om dagen til overfladen af dammen om natten. Til hvilken faktor reagerer dafniebestanden sandsynligvis mest?",
+    "option_a": "vandets pH-værdi",
+    "option_b": "klarheden af vandet",
+    "option_c": "vandets tryk",
+    "option_d": "vandets temperatur"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2013_8_29421",
+    "answer": "A",
+    "instruction": "Når en persons sved fordamper, føler personen sig køligere. Hvilken af følgende udsagn beskriver bedst, hvorfor sveden hjælper personen med at føle sig kølig?",
+    "option_a": "Varme absorberes af sveden, når den fordamper.",
+    "option_b": "Varme absorberes af kroppen, når sveden fordamper.",
+    "option_c": "Temperaturen af vandet i sveden falder, når den fordamper.",
+    "option_d": "Temperaturen af vandet i kroppen stiger, når sveden fordamper."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7082145",
+    "answer": "D",
+    "instruction": "Hvordan skal en linjegraf bruges til at vise afstands- og tidsdata for et bevægende objekt?",
+    "option_a": "Y-aksen skal være mærket som tid, som er den afhængige variabel.",
+    "option_b": "Y-aksen skal være mærket som afstand, som er den uafhængige variabel.",
+    "option_c": "X-aksen skal være mærket som afstand, som er den afhængige variabel.",
+    "option_d": "X-aksen skal være mærket som tid, som er den uafhængige variabel."
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2007_5_39",
+    "answer": "D",
+    "instruction": "Eleverne lærer om naturressourcerne i Maryland. En gruppe elever undersøger information om fornybare naturressourcer i Staten, mens en anden gruppe undersøger information om ikke-fornybare naturressourcer i Staten. De ressourcer, som eleverne undersøger, omfatter planter, dyr, jord, mineraler, vand, kul og olie. Hvilken af ​​følgende menneskelige aktiviteter påvirker en naturressource negativt?",
+    "option_a": "fiskeri i en sø",
+    "option_b": "brug af vand til at producere elektricitet",
+    "option_c": "plantning af indfødte planter langs en søbred",
+    "option_d": "dirigerer afstrømning fra landbrugsjord ned i en sø"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_22",
+    "answer": "A",
+    "instruction": "Pelsen hos nogle dyr bliver tykkere om vinteren og fældes om foråret. Disse observationer viser, hvordan dyr",
+    "option_a": "reagerer på ændringer i miljøet",
+    "option_b": "flytter sig fra sted til sted for at overleve",
+    "option_c": "lagrer fedt til vinteren",
+    "option_d": "konkurrerer med andre dyr om føde"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7006790",
+    "answer": "B",
+    "instruction": "Hvad er årsagen til, at vinduet rasler under tordenvejr?",
+    "option_a": "elektrisk energi",
+    "option_b": "lydenergi",
+    "option_c": "lysenergi",
+    "option_d": "varmeenergi"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7284043",
+    "answer": "C",
+    "instruction": "Elefanter på den afrikanske savanne spiser buske og små træer. Denne adfærd rydder landet og gør det muligt for græs at vokse. Græssere som gazeller spiser græsset. Løver jager gazellerne. Hvilke to organismer i dette scenarie har det mest samarbejdende forhold?",
+    "option_a": "elefanterne og buskene",
+    "option_b": "buskene og løverne",
+    "option_c": "elefanterne og gazellerne",
+    "option_d": "gazellerne og løverne"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7175455",
+    "answer": "D",
+    "instruction": "I Australien kan temperaturen midt på dagen stige til over 110°F (43°C). For at holde deres kroppe kølige slikker kænguruer deres arme og dækker dem med et tykt lag af spyt. Når spytet fordamper, fungerer det som en køle mekanisme og sænker kænguruens kropstemperatur. Hvilken betegnelse beskriver denne aktivitet bedst?",
+    "option_a": "naturligt udvalg",
+    "option_b": "forsvars mekanisme",
+    "option_c": "strukturelle tilpasninger",
+    "option_d": "adfærdsmæssige tilpasninger"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_401714",
+    "answer": "B",
+    "instruction": "I et laboratorieeksperiment tester studerende identiteten af et ukendt pulver. Hvad er den mest passende metode til at flytte pulveret til en vægt?",
+    "option_a": "feje med en børste på et overførselspapir",
+    "option_b": "ske med lab-spatel på overførselspapir",
+    "option_c": "klemme med fingrene og løfte på overførselspapir",
+    "option_d": "hæld fra flaske på overførselspapir"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_409529",
+    "answer": "B",
+    "instruction": "Robert er en fisker, der gerne vil finde en måde at fange flere fisk på. Han besluttede at prøve forskellige størrelser kroge. Robert fangede 4 kattefisk, 3 ørred og 7 aborre, mens han brugte orm som agn. Hvad er den uafhængige (manipulerede) variabel i Roberts undersøgelse?",
+    "option_a": "type af agn",
+    "option_b": "størrelse af krog",
+    "option_c": "type af fisk fanget",
+    "option_d": "antallet af fisk fanget"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7223038",
+    "answer": "C",
+    "instruction": "Der er mange størrelser og farver af stjerner. Hvilken af følgende beskriver bedst kategorien, som Solen ville blive placeret i?",
+    "option_a": "blå superkæmpe stjerner",
+    "option_b": "røde kæmpesubdværg stjerner",
+    "option_c": "gule hovedseriestjerner",
+    "option_d": "hvide dværgstjerner"
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2008_5_24",
+    "answer": "C",
+    "instruction": "Mange naturressourcer findes i Maryland og det omkringliggende område. Nogle af disse naturressourcer er vedvarende og nogle er ikke-vedvarende. Mennesker bruger begge typer af ressourcer i daglige aktiviteter. Brug af naturressourcer producerer ofte affaldsprodukter. Genbrugscentre er steder, hvor folk tager materialer, der kan genbruges til at lave nye produkter. Hvordan påvirker genanvendelse af papir miljøet positivt?",
+    "option_a": "reducerer luftforurening",
+    "option_b": "øger jorderosion",
+    "option_c": "reducerer fældning af træer",
+    "option_d": "øger ødelæggelsen af levesteder"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2010_5_11998",
+    "answer": "A",
+    "instruction": "En morgenglorie er en type blomstrende vinplante, der klatrer på træer og hegn. Hvilken af følgende adfærd hjælper mest en morgenglorieplante med at klatre på et hegn?",
+    "option_a": "Stængler, der krøller sig som reaktion på berøring",
+    "option_b": "Stængler, der hæver sig som reaktion på vand",
+    "option_c": "Blomster, der åbner sig som reaktion på lys",
+    "option_d": "Rødder, der vokser som reaktion på tyngdekraft"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7139493",
+    "answer": "B",
+    "instruction": "Hvad er mest sandsynligt ansvarlig for chinch bugs evne til at overleve gentagne eksponeringer for insekticider?",
+    "option_a": "artsdiversitet",
+    "option_b": "genetisk diversitet",
+    "option_c": "økosystemdiversitet",
+    "option_d": "populationdiversitet"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_14",
+    "answer": "A",
+    "instruction": "Solpaneler anvendes til at absorbere sollys. Hvilken farve panel ville absorbere mest sollys?",
+    "option_a": "sort",
+    "option_b": "grøn",
+    "option_c": "hvid",
+    "option_d": "gul"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2006_9_35",
+    "answer": "A",
+    "instruction": "Hvilken af følgende genetiske tilstande skyldes et problem med segregation?",
+    "option_a": "Trisomi 16: en tilstand forårsaget af, at en zygot modtager tre eksemplarer af kromosom 16",
+    "option_b": "Huntingtons sygdom: en tilstand forårsaget af, at en zygot modtager en muteret dominant allel",
+    "option_c": "Hæmofili: en tilstand forårsaget af, at en zygot modtager en X-kromosom med en bestemt recessiv allel",
+    "option_d": "Seglcelleanæmi: en tilstand forårsaget af, at en zygot modtager en recessiv allel for hæmoglobin fra hver forælder"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2015_8_7",
+    "answer": "B",
+    "instruction": "En studerende opvarmer to gryder med vand på en komfur ved hjælp af den højeste indstilling. Den ene gryde indeholder 1 L vand, og den anden gryde indeholder 3 L vand. Eleven varmer hver gryde op, indtil vandet koger. Hvilken af følgende udsagn beskriver bedst, hvad der sker med vandet i gryderne?",
+    "option_a": "Vandet i begge gryder koger på samme tid.",
+    "option_b": "Vandet i begge gryder koger ved samme temperatur.",
+    "option_c": "3 L vand bliver varmere end 1 L vand før kogning.",
+    "option_d": "3 L vand absorberer varme hurtigere end 1 L vand."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7115063",
+    "answer": "A",
+    "instruction": "Hvad vil sandsynligvis mest forstyrre et vådområde økosystem?",
+    "option_a": "konstruktion af et boligudviklingsområde",
+    "option_b": "plantning af indfødte vilde blomster",
+    "option_c": "en periode med kraftig regn",
+    "option_d": "en lynnedslag"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7144795",
+    "answer": "D",
+    "instruction": "Et bestemt habitat har oplevet mange ændringer i miljøforholdene i løbet af de sidste 75 år. Hvad er mest sandsynligt en egenskab ved en art, der har den bedste chance for at overleve disse miljøændringer?",
+    "option_a": "en population med mange individer",
+    "option_b": "stor artsdiversitet i det nuværende samfund",
+    "option_c": "tilpasninger, der tillader individer at leve i en lang række forskellige forhold",
+    "option_d": "adfærd, der fremmer udviklingen af tilpasninger i nye miljøer"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_400934",
+    "answer": "C",
+    "instruction": "Ifølge det periodiske system for grundstoffer, hvilket sæt af grundstoffer har lignende egenskaber?",
+    "option_a": "H, C, I",
+    "option_b": "He, H, Al",
+    "option_c": "He, Ne, Ar",
+    "option_d": "Na, Ca, Al"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7004410",
+    "answer": "B",
+    "instruction": "En begrænsning af fødenetværk i repræsentationen af et økosystem er, at de ikke",
+    "option_a": "inkluderer producenter i økosystemet.",
+    "option_b": "inkluderer alle arter i økosystemet.",
+    "option_c": "viser forbrugere i økosystemet.",
+    "option_d": "viser rovdyr-byttedyr forhold i økosystemet."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7029505",
+    "answer": "C",
+    "instruction": "Hvordan adskiller blodtyper sig fra hinanden i ABO-blodklassificeringen?",
+    "option_a": "forskellige størrelser af røde blodlegemer",
+    "option_b": "forskellige størrelser af hvide blodlegemer",
+    "option_c": "forskellige markørproteiner på røde blodlegemer",
+    "option_d": "forskellige markørproteiner på hvide blodlegemer"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_LBS10598",
+    "answer": "A",
+    "instruction": "Et isklump smelter og fordamper derefter. Ishumpen og vanddampen har samme",
+    "option_a": "masse.",
+    "option_b": "densitet.",
+    "option_c": "volumen.",
+    "option_d": "temperatur."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7245893",
+    "answer": "B",
+    "instruction": "Hvilken del af fordøjelsessystemet forårsager først kemiske ændringer af maden?",
+    "option_a": "tænderne i munden",
+    "option_b": "spyt i munden",
+    "option_c": "enzymer i maven",
+    "option_d": "enzymer i tyndtarmen"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7246925",
+    "answer": "D",
+    "instruction": "Leucin er en af de aminosyrer, din krop har brug for, men som den ikke kan producere selv. Hvad sker der for at kroppen kan skaffe leucin?",
+    "option_a": "Kroppen omdanner andre aminosyrer til leucin.",
+    "option_b": "Kroppen lagrer kulhydrater, der indeholder leucin.",
+    "option_c": "Kroppen nedbryder fedtsyrer for at skaffe leucin.",
+    "option_d": "Kroppen fordøjer protein i mad for at skaffe leucin."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7138688",
+    "answer": "D",
+    "instruction": "Hvilken procedure hjælper bedst med at afgøre, om en undersøgelse er videnskabeligt gyldig?",
+    "option_a": "at tage noter om tilstanden af udstyr, der anvendes i proceduren",
+    "option_b": "at udføre en undersøgelse med en gruppe af personer",
+    "option_c": "at udføre proceduren grundigt én gang",
+    "option_d": "at gentage en undersøgelse flere gange"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_408700",
+    "answer": "C",
+    "instruction": "Emily lavede en kop te og rørte den med en ske. Skeen blev varm. Hvordan blev varmen fra teen overført til skeen?",
+    "option_a": "konvektion",
+    "option_b": "stråling",
+    "option_c": "ledning",
+    "option_d": "fordampning"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7100608",
+    "answer": "B",
+    "instruction": "Michaels familie bygger et nyt hus. De vil gerne bruge elektricitet genereret af vedvarende ressourcer. Hvilken af disse strømforsyninger vil hjælpe familien med at opnå sit mål?",
+    "option_a": "benzinmotor",
+    "option_b": "soltagpaneler",
+    "option_c": "kulfyrede kraftværker",
+    "option_d": "kernekraftværk"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7133648",
+    "answer": "C",
+    "instruction": "Hvilken opgave i køkkenet er et eksempel på en fysisk ændring?",
+    "option_a": "steger et æg",
+    "option_b": "bager en kage",
+    "option_c": "smelter smør",
+    "option_d": "riste brød"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_401244",
+    "answer": "D",
+    "instruction": "Hvilken stentype er mest nyttig i studiet af levende organismer?",
+    "option_a": "basalt",
+    "option_b": "marmor",
+    "option_c": "granit",
+    "option_d": "kalksten"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_400397",
+    "answer": "C",
+    "instruction": "Hvilket af disse adfærdsmønstre lærte en bjørn sandsynligvis fra sit miljø?",
+    "option_a": "drikke vand",
+    "option_b": "spise fisk",
+    "option_c": "åbne skraldespandslåg",
+    "option_d": "beskytte sine unger"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7245088",
+    "answer": "D",
+    "instruction": "Hvilket beskriver sammensætningen af kulhydrater?",
+    "option_a": "lipider, der binder sig til at danne fosfolipider",
+    "option_b": "monomerer, der binder sig til at danne polymerer",
+    "option_c": "aminosyrer, der binder sig til at danne polypeptider",
+    "option_d": "saccharider, der binder sig til at danne polysaccharider"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_408809",
+    "answer": "C",
+    "instruction": "I mus, visse arter viser ufuldstændig dominans i pelsfarve. Afkom af en sort (BB) mus og en hvid (bb) mus er grå (Bb) mus. En krydsning mellem to grå mus vil mest sandsynligt producere afkom med hvilken procentdel af pelsfarver?",
+    "option_a": "25% sort, 75% grå",
+    "option_b": "25% grå, 75% hvid",
+    "option_c": "25% hvid, 25% sort, 50% grå",
+    "option_d": "25% grå, 25% sort, 50% hvid"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7068863",
+    "answer": "C",
+    "instruction": "En elev undersøgte virkningen af jern på planters vækst. Fire identiske planter modtog forskellige mængder jerntilskud ved vanding. Denne undersøgelse kunne have været forbedret, hvis der var",
+    "option_a": "regnorme i jorden.",
+    "option_b": "færre planter i eksperimentet.",
+    "option_c": "planter, der modtog vand uden jerntilskud.",
+    "option_d": "planter, der modtog forskellige mængder sollys."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7166880",
+    "answer": "D",
+    "instruction": "Clay holder øje med vejret for at forberede sig til en tur til stranden i morgen. Vejrudsigt forudsiger at et lavtryk vil bevæge sig ind over natten. Hvilken type vejr kan Clay mest sandsynligt forvente om morgenen?",
+    "option_a": "diset",
+    "option_b": "solrig",
+    "option_c": "klart og køligere",
+    "option_d": "skyet og regnvejr"
+  },
+  {
+    "id": "ARC-Challenge/validation/ACTAAP_2007_7_25",
+    "answer": "A",
+    "instruction": "Hvilken af følgende er ikke en sikkerhedsregel i et naturfagslokale?",
+    "option_a": "Mål væsker præcist i en kolbe.",
+    "option_b": "Skær aldrig i genstande, mens du holder dem i dine hænder.",
+    "option_c": "Brug sikkerhedsbriller, når du håndterer farlige stoffer.",
+    "option_d": "Når du registrerer lugte, skal du lade dampe falde mod din næse i stedet for at læne dit ansigt ned over kilden."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7018445",
+    "answer": "D",
+    "instruction": "Hvilket materiale vil lyden rejse hurtigst igennem?",
+    "option_a": "kork",
+    "option_b": "vand",
+    "option_c": "luft",
+    "option_d": "stål"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7033653",
+    "answer": "C",
+    "instruction": "Hvilken enhed er den bedste til at måle afstande mellem Jorden og andre solsystemer i universet?",
+    "option_a": "mil",
+    "option_b": "kilometer",
+    "option_c": "lysår",
+    "option_d": "astronomiske enheder"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2006_5_29",
+    "answer": "D",
+    "instruction": "Fire stænger af ens tykkelse, men lavet af forskellige metaller, blev testet med ens vægt for at se, hvilken var mest fleksibel. Hvilken af følgende er den bedste måde at rapportere resultaterne af denne undersøgelse?",
+    "option_a": "En liste over hver type af stang brugt",
+    "option_b": "En skitse af hver stang før testning",
+    "option_c": "En tabel der viser, hvor meget hver stang vejede",
+    "option_d": "En søjlediagram, der viser hvor meget hver stang bøjede sig"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7159268",
+    "answer": "A",
+    "instruction": "Efter den sidste istid forårsagede smeltningen af polare og bjergagtige iskapper, at vandstanden i oceanerne steg. Hvad er mest sandsynligt en følge af stigende vandstand?",
+    "option_a": "øget saltindhold i eksisterende kystnære vådområder",
+    "option_b": "øget antal organismer i eksisterende rev",
+    "option_c": "fald i antallet af tidevand hver dag",
+    "option_d": "reduktion i dybden af havbunden"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_400885",
+    "answer": "D",
+    "instruction": "Hvilken ligning er en afbalanceret kemisk ligning?",
+    "option_a": "2NaOH + CaBr_{2} -> Ca(OH)_{2} + NaBr",
+    "option_b": "NO + Cl_{2} -> NOCl",
+    "option_c": "CaCO_{3} -> CaO + 2CO_{2}",
+    "option_d": "2AlCl_{3} + 3Mg -> 3MgCl_{2} + 2Al"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7038273",
+    "answer": "A",
+    "instruction": "Mens du udfører et eksperiment, indsamler en studerende flere forskellige vandtemperaturer, to masse målinger og tre volumen målinger. Hvad ville være den bedste måde at organisere data på?",
+    "option_a": "i en tabel",
+    "option_b": "i en graf",
+    "option_c": "i en skriftlig beretning",
+    "option_d": "illustreret med billeder"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_407574",
+    "answer": "A",
+    "instruction": "Hvilken gas frigives af producenter, som forbrugerne tager ind for at overleve?",
+    "option_a": "ilt",
+    "option_b": "kvælstof",
+    "option_c": "vanddamp",
+    "option_d": "kuldioxid"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_1998_4_8",
+    "answer": "B",
+    "instruction": "Hvor ville det være MEST farligt at arbejde med elektriske værktøjer?",
+    "option_a": "i en garage",
+    "option_b": "ved siden af en swimmingpool",
+    "option_c": "nær en tv eller computer",
+    "option_d": "i en kølig kælder"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7128695",
+    "answer": "C",
+    "instruction": "En forsker foretager en opdagelse under en undersøgelse, men undlader at opretholde klare optegnelser over de udførte tests. På hvilken måde påvirker manglende optegnelser en forskers arbejde?",
+    "option_a": "Det ugyldiggør procedurerne og konklusionerne.",
+    "option_b": "Det gør de data, der er opnået i studiet, forkerte.",
+    "option_c": "Det forhindrer andre forskere i at validere resultaterne.",
+    "option_d": "Det hindrer andre forskere i at udvikle nye hypoteser."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400178",
+    "answer": "C",
+    "instruction": "Hvilken blanding kan adskilles i dens ingredienser?",
+    "option_a": "kartoffelchips",
+    "option_b": "chokoladekage",
+    "option_c": "frugtsalat",
+    "option_d": "røræg"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7189823",
+    "answer": "A",
+    "instruction": "En vulkan bryder ud og dækker det omkringliggende område med lava og vulkansk aske. Når økosystemet begynder at komme sig, hvilken type plante vil mest sandsynligt kolonisere land i området omkring udbruddet først?",
+    "option_a": "mosser",
+    "option_b": "vilde blomster",
+    "option_c": "løvtræer",
+    "option_d": "nåletræsbuske"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_412683",
+    "answer": "D",
+    "instruction": "Hvad er hastigheden af en 2-Hz bølge, der har en bølgelængde på 10 m?",
+    "option_a": "5 m/s",
+    "option_b": "8 m/s",
+    "option_c": "12 m/s",
+    "option_d": "20 m/s"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_184258",
+    "answer": "A",
+    "instruction": "Hvilken af følgende strømekarakteristika påvirker direkte aflejringer i en strøm mest?",
+    "option_a": "gradient",
+    "option_b": "højde over havet",
+    "option_c": "basisniveau",
+    "option_d": "vandkvalitet"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_192168",
+    "answer": "D",
+    "instruction": "Videnskabelige modeller er meget almindelige. Til hvilket formål nedenfor ville en fysisk model være mindst hjælpsom?",
+    "option_a": "simulering af videnskabelige fænomener",
+    "option_b": "forenkling af en kompleks idé",
+    "option_c": "tillade visualisering",
+    "option_d": "visning af data"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_LBS10399",
+    "answer": "D",
+    "instruction": "Et mikroskop forstørrer et objekt med en forstørrelse på 50x. Hvor langt er objektet, hvis billedet ser ud til at være 0.5 cm langt?",
+    "option_a": "100 cm",
+    "option_b": "25 cm",
+    "option_c": "2.5 cm",
+    "option_d": "0.01 cm"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7228603",
+    "answer": "C",
+    "instruction": "Hvad er resultatet af udvekslingen af homologe kromosomdele under processen af meiosis?",
+    "option_a": "tilfældige mutationer",
+    "option_b": "fald i antallet af gameter",
+    "option_c": "afkom med unikke kombinationer af træk",
+    "option_d": "fald i antallet af alleller på hvert kromosom"
+  },
+  {
+    "id": "ARC-Challenge/validation/MEA_2013_5_3",
+    "answer": "D",
+    "instruction": "Solen er klassificeret som en stjerne. Hvilken karakteristisk identificerer Solen som en stjerne?",
+    "option_a": "Solen spinner på sin akse.",
+    "option_b": "Solen er placeret uden for Mælkevejen.",
+    "option_c": "Solen er en del af Karlsvognen.",
+    "option_d": "Solen producerer lys og energi i en kernefysisk reaktion."
+  },
+  {
+    "id": "ARC-Challenge/validation/NCEOGA_2013_8_38",
+    "answer": "C",
+    "instruction": "Om vinteren er pelsen på arktisk ræv hvid. Om sommeren mørkner pelsen til en rødlig brun farve. Hvad er den mest sandsynlige årsag til, at rævens pels skifter farve?",
+    "option_a": "mængden af ​​sollys til stede",
+    "option_b": "rævens habitat",
+    "option_c": "rævens gener",
+    "option_d": "rævens alder"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7221095",
+    "answer": "A",
+    "instruction": "Hvilket af følgende er et abiotisk element i et økosystem?",
+    "option_a": "den gennemsnitlige årlige nedbør i økosystemet",
+    "option_b": "typerne af producenter, der findes i økosystemet",
+    "option_c": "størrelsen af ​​en rovdyrpopulation i økosystemet",
+    "option_d": "mikroorganismerne, der lever i jorden i økosystemet"
+  },
+  {
+    "id": "ARC-Challenge/validation/MEAP_2005_5_1",
+    "answer": "C",
+    "instruction": "Vanddamp eksisterer i atmosfæren som ___.",
+    "option_a": "en synlig gas",
+    "option_b": "en synlig væske",
+    "option_c": "en usynlig gas",
+    "option_d": "en usynlig væske"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_406939",
+    "answer": "C",
+    "instruction": "Hvad er en måde, hvorpå en papir kan gennemgå en kemisk ændring?",
+    "option_a": "fold papiret på midten",
+    "option_b": "blød papiret i vand",
+    "option_c": "brænd papiret med ild",
+    "option_d": "skær papiret med en saks"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7219415",
+    "answer": "C",
+    "instruction": "Hvilket eksempel er en funktion af den selektivt permeable membran i en celle?",
+    "option_a": "at støtte cellens form",
+    "option_b": "at producere proteiner til cellen",
+    "option_c": "at begrænse kemikalier, der diffunderer ud af cellen",
+    "option_d": "at opbevare affaldsprodukter for cellen"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_1999_8_22",
+    "answer": "B",
+    "instruction": "Hvilken slags bro bruger kabler for støtte?",
+    "option_a": "en tverrdragstsbro",
+    "option_b": "en hængebro",
+    "option_c": "en bjælkebro",
+    "option_d": "en konsolbro"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2006_9_33",
+    "answer": "D",
+    "instruction": "Geparder er kommet tæt på udryddelse på grund af jagt, tørke og sygdom. Der er nu meget lidt genetisk variation i gepardpopulationer. Hvad er resultatet af den begrænsede genetiske variation i de nuværende gepardpopulationer sammenlignet med tidligere gepardpopulationer med mere variation?",
+    "option_a": "Geparder i de nuværende populationer er mere resistente over for nye sygdomme.",
+    "option_b": "Overlevelsesraten for unge geparder er øget i de nuværende populationer.",
+    "option_c": "Geparder i de nuværende populationer er mindre i stand til at formere sig med andre arter.",
+    "option_d": "De nuværende gepardpopulationer er mindre tilbøjelige til at kunne tilpasse sig miljømæssige ændringer."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7135310",
+    "answer": "C",
+    "instruction": "Hvorfor er udgangsenergien fra en maskine altid mindre end indgangsenergien?",
+    "option_a": "Noget af energien ødelægges, mens maskinen arbejder.",
+    "option_b": "Maskinen skal overvinde konstant kraft af magnetisme.",
+    "option_c": "Brugbar energi aftager, da energi overføres til omgivelserne.",
+    "option_d": "Noget af energien frigives som varme, når den bliver konverteret."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_414131",
+    "answer": "C",
+    "instruction": "Hvilket beskriver en egenskab hos alle elementer?",
+    "option_a": "Alle elementer er metaller.",
+    "option_b": "Alle elementer har seks elektroner.",
+    "option_c": "Alle elementer er rene stoffer.",
+    "option_d": "Alle elementer eksisterer i fast fase."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7112753",
+    "answer": "B",
+    "instruction": "For at lokalisere en billepopulation, skal forskere bruge et højt specialiseret udstyr. Hvilken faktor ville sandsynligvis begrænse evnen til at lokalisere biller?",
+    "option_a": "klima",
+    "option_b": "omkostninger",
+    "option_c": "prøvestørrelse",
+    "option_d": "politik"
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2009_5_16",
+    "answer": "D",
+    "instruction": "Studerende besøgte Morris W. Offit teleskopet beliggende på Maryland Space Grant Observatory i Baltimore. De lærte om stjerner, planeter og månen. Studerende optog nedenstående information. • Stjernemønstre forbliver de samme, men deres positioner på himlen synes at ændre sig. • Solen, planeterne og månen ser ud til at bevæge sig på himlen. • Proxima Centauri er den nærmeste stjerne til vores solsystem. • Polaris er en stjerne, der er en del af et mønster af stjerner kaldet den Lille Bjørn. Hvilket udsagn forklarer bedst, hvorfor solen ser ud til at bevæge sig på tværs af himlen hver dag?",
+    "option_a": "Solen roterer omkring Jorden.",
+    "option_b": "Jorden roterer omkring solen.",
+    "option_c": "Solen roterer om sin akse.",
+    "option_d": "Jorden roterer om sin akse."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7236023",
+    "answer": "B",
+    "instruction": "En luftmasse befinder sig på en højde af 1000 meter i lavtrykscentrummet i en storm på den nordlige halvkugle. Hvad beskriver bedst bevægelsen af luftpartiklerne i denne luftmasse på grund af stormforhold og Jordens rotation, når luftmassen bevæger sig udad?",
+    "option_a": "Luftpartikler bevæger sig opad og mod venstre.",
+    "option_b": "Luftpartikler bevæger sig opad og mod højre.",
+    "option_c": "Luftpartikler bevæger sig nedad og mod venstre.",
+    "option_d": "Luftpartikler bevæger sig nedad og mod højre."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7270008",
+    "answer": "C",
+    "instruction": "Overflade minedrift af kul indebærer fjernelse af al vegetation og klipper over kul, der udvindes. Hvilke to af Jordens subsystemer er mest umiddelbart påvirket af overflade minedrift?",
+    "option_a": "lithosphere og atmosphere",
+    "option_b": "biosphere og hydrosphere",
+    "option_c": "lithosphere og biosphere",
+    "option_d": "atmosphere og hydrosphere"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7099768",
+    "answer": "D",
+    "instruction": "Når en bowlingkugle frigives fra en kastende persons hånd, er energien i bolden delvis",
+    "option_a": "lagret i bolden, indtil den rammer keglerne.",
+    "option_b": "øget, når der påføres friktion på bolden.",
+    "option_c": "omdannet fra kinetisk energi til gravitationel potentiel energi.",
+    "option_d": "omdannet til varme og lyd, når den rammer gulvet."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7269238",
+    "answer": "D",
+    "instruction": "Dieselmotorer kan brænde mange slags brændstof. Hvilket brændstof ville være det mest fornyelige brændstof til en dieselmotor?",
+    "option_a": "konventionel dieselfuel",
+    "option_b": "destilleret kerosin",
+    "option_c": "konventionelt produceret vegetabilsk olie",
+    "option_d": "økologisk produceret vegetabilsk olie"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7187915",
+    "answer": "A",
+    "instruction": "Amanda og Jake lærte om kinetisk og potentiel energi inden for en simpel elektrisk kreds. Den kreds, de studerer, har en batteri, ledninger og en glødelampe. Hvad er en form for potentiel energi i kredsen?",
+    "option_a": "kemisk energi i batteriet",
+    "option_b": "lysenergi fra glødelampen",
+    "option_c": "varmeenergi tabt fra de elektriske ledninger",
+    "option_d": "elektrisk energi, der bevæger sig gennem glødelampen"
+  },
+  {
+    "id": "ARC-Challenge/validation/OHAT_2011_8_3",
+    "answer": "D",
+    "instruction": "Hvilken handling viser en kemisk forandring?",
+    "option_a": "Langt hår klippes og tørres.",
+    "option_b": "En træblyant skærpes og knækker.",
+    "option_c": "En isbit smelter og bliver til en klar væske.",
+    "option_d": "En jernsøm bliver orange og flager på overfladen."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7159775",
+    "answer": "A",
+    "instruction": "Janette foretager en undersøgelse for at se, hvilke fødevarer der får hende til at føle sig mere træt. Hun spiser en af ​​fire forskellige fødevarer hver dag på samme tid i fire dage og registrerer derefter, hvordan hun føler sig. Hun beder sin ven Carmen om at udføre den samme undersøgelse for at se, om hun får lignende resultater. Hvad ville gøre det sværest at replikere undersøgelsen?",
+    "option_a": "måling af mængden af træthed",
+    "option_b": "sørge for, at de samme fødevarer spises",
+    "option_c": "optagelse af observationer i den samme graf",
+    "option_d": "sørge for, at fødevarerne er ved samme temperatur"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_402239",
+    "answer": "C",
+    "instruction": "Hvad er den bedste måde at bevare naturressourcer i hjemmet på?",
+    "option_a": "Smid al glas i skraldespanden.",
+    "option_b": "Brug papirhåndklæder til at tørre op efter spild.",
+    "option_c": "Forkort tiden i brusebadet.",
+    "option_d": "Vand plænen hver dag."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_184013",
+    "answer": "C",
+    "instruction": "Hvilken af følgende ville være mindst destruktivt for landet?",
+    "option_a": "et jordskælv med en magnitud på 7,2",
+    "option_b": "en tropisk stormflod",
+    "option_c": "en elektrisk storm",
+    "option_d": "et vulkanudbrud"
+  },
+  {
+    "id": "ARC-Challenge/validation/NCEOGA_2013_8_4",
+    "answer": "D",
+    "instruction": "Hvilket udsagn bedst forklarer, hvorfor den samlede masse af produkt(erne) ville være mindre end den samlede vægt af reaktanterne efter en kemisk reaktion?",
+    "option_a": "Der opstod en fysisk ændring.",
+    "option_b": "Atomene, der var involveret i reaktionen, mistede masse.",
+    "option_c": "Der blev dannet bundfald i den nye opløsning.",
+    "option_d": "Der blev frigivet gasser til atmosfæren."
+  },
+  {
+    "id": "ARC-Challenge/validation/ACTAAP_2013_7_17",
+    "answer": "D",
+    "instruction": "En gruppe ønsker at finde ud af, om antallet af vandfugle, der flyver gennem Arkansas, ændrer sig hvert år. Hvilken metode skal de bruge for at indsamle denne information?",
+    "option_a": "Fang så mange fugle som muligt på ét år. Indsaml data om placeringen af hver fugl.",
+    "option_b": "På den første forårsdag næste år, tæl antallet af fugle på den største sø i staten. Sammenlign dataene med sidste år.",
+    "option_c": "Placer en observatør på en placering på delstatsgrænsen. Få den person til at tælle fuglene, når de flyver ind i staten. Gør dette i to år.",
+    "option_d": "Vælg én dag om året under migrationen. Tæl antallet af fugle på ti forskellige søer i hele staten. Gør dette på samme dag hvert år i ti år."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7183015",
+    "answer": "A",
+    "instruction": "En nylig artikel i en videnskabelig journal forklarer forholdet mellem konvektionsstrømme og pladetektonik. Når væske i mantlen cirkulerer, får det jordskorpepladerne til at bevæge sig. Hvad er mest sandsynligt årsagen til at væsken inden i Jorden cirkulerer?",
+    "option_a": "energioverførsler",
+    "option_b": "global opvarmning",
+    "option_c": "tidlige variationer",
+    "option_d": "oceanstrømme"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2014_8_17",
+    "answer": "D",
+    "instruction": "Hvilket af følgende er et eksempel på ukønnet formering?",
+    "option_a": "Skildpadder lægger befrugtede æg i en grav i sandet.",
+    "option_b": "Frø dannes i fyrretræskegler efter at pollen når keglerne.",
+    "option_c": "Fisk frigiver ægceller og spermier på overfladen af vandet.",
+    "option_d": "Træer sender rod-lignende udvidelser, der producerer nye stængler."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_401286",
+    "answer": "B",
+    "instruction": "Mange truede dyr bliver fanget, mærket og derefter sat tilbage i deres levested. Mærket kan være et stykke kodeplastik eller metal, der placeres et sikkert sted på kroppen. Hvad er den mest sandsynlige grund til at mærke et dyr?",
+    "option_a": "at overvåge deres spisevaner",
+    "option_b": "at overvåge deres vandringsvaner",
+    "option_c": "at overvåge deres sovevaner",
+    "option_d": "at overvåge deres reproduktive vaner"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7207358",
+    "answer": "C",
+    "instruction": "Hvilken af disse aktiviteter beskriver bedst den moderne teori om atomet?",
+    "option_a": "eksperimenterne fra John Dalton i begyndelsen af 1800-tallet",
+    "option_b": "diskussionerne mellem to vigtige forskere",
+    "option_c": "forskningen af mange forskere over mange år",
+    "option_d": "Demokrits ideer om atomer for over 2000 år siden"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7015435",
+    "answer": "A",
+    "instruction": "Hvad er produkterne af en reaktion mellem en stærk syre og en stærk base?",
+    "option_a": "en salt og vand",
+    "option_b": "to forskellige elementer",
+    "option_c": "en svag syre og en svag base",
+    "option_d": "hydrogenioner og hydroxidioner"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7044678",
+    "answer": "A",
+    "instruction": "Hvilken udsagn bedst forklarer hvad der sker med et blad, når det har mistet meget vigtig vand?",
+    "option_a": "Dets turgortryk falder.",
+    "option_b": "Dets atmosfæretryk falder.",
+    "option_c": "Dets hastighed af transpiration øges.",
+    "option_d": "Dets hastighed af fotosyntese øges."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_400905",
+    "answer": "D",
+    "instruction": "Solen er cirka 1,5 x 10^8 km fra Jorden. Lysets hastighed er 3,0 x 10^8 m/sek. Hvad er afstanden fra Solen til Jorden i lyssekunder?",
+    "option_a": "2,0 lyssekunder",
+    "option_b": "0,5 lyssekunder",
+    "option_c": "2,0 x 10^-3 lyssekunder",
+    "option_d": "5,0 x 10^2 lyssekunder"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_LBS10040",
+    "answer": "D",
+    "instruction": "Hvad producerer fotosyntese, som hjælper planter med at vokse?",
+    "option_a": "vand",
+    "option_b": "ilt",
+    "option_c": "protein",
+    "option_d": "sukker"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_8_41",
+    "answer": "D",
+    "instruction": "I et biluheld hjælper sikkerhedssele med at forebygge skader ved at påvirke med en kraft",
+    "option_a": "mindre end kraften fra en bevægende passager",
+    "option_b": "større end kraften fra den bevægende bil",
+    "option_c": "i samme retning som bilens bevægelse",
+    "option_d": "i modsat retning af passagerens bevægelse"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7141908",
+    "answer": "C",
+    "instruction": "Forskere har fundet en ny art af en kompleks organisme i bunden af havet. Organismen er mest sandsynligt",
+    "option_a": "encellet.",
+    "option_b": "en form for bakterie.",
+    "option_c": "opbygget af flere celler.",
+    "option_d": "uden en organiseret kerne."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_406029",
+    "answer": "D",
+    "instruction": "Til en naturvidenskabelig aktivitet skulle Mia tegne et billede af månen hver aften. Hvis Mia tegnede en nymåne, hvilken type måne tegnede Mia så cirka en uge senere?",
+    "option_a": "gibbous",
+    "option_b": "fuldmåne",
+    "option_c": "nymåne",
+    "option_d": "første kvartal"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7105123",
+    "answer": "C",
+    "instruction": "Fossile optegnelser indikerer, at arter ændringer generelt",
+    "option_a": "stopper når en art dannes.",
+    "option_b": "accelerer med stabile betingelser.",
+    "option_c": "finder sted over mange generationer.",
+    "option_d": "er uafhængige af miljøet."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400339",
+    "answer": "C",
+    "instruction": "Hvilken udsagn er ikke en grund til at træer vil vokse i forskellige højder i en skov?",
+    "option_a": "Nogle kræver mindre sollys end andre.",
+    "option_b": "Træerne blev plantet i forskellige år.",
+    "option_c": "Fugle bygger reder i de lavere træer.",
+    "option_d": "De højere træer har kun blade på de øverste grene."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415366",
+    "answer": "B",
+    "instruction": "Træer har brug for ilt. Rødder tæt på jordoverfladen optager den ilt, som træet har brug for. Hvilke organismer hjælper træer med at få ilt?",
+    "option_a": "Spætter, der laver huller i træet",
+    "option_b": "Regnorme, der laver huller i jorden nær træet",
+    "option_c": "Svampe, der vokser ved træets rod",
+    "option_d": "Egern, der spiser valnødder på jorden nær træet"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7168123",
+    "answer": "B",
+    "instruction": "Anita sprintede rundt om banen på sin skole. Ved afslutningen af ​​løbet indåndede hun mere luft i sine lunger, og hendes hjerterytme var steget. Hvilke systemer regulerer Anitas vejrtrækningsfrekvens og hjertefrekvens?",
+    "option_a": "muskulære og skeletale",
+    "option_b": "nervesystemet og det endokrine system",
+    "option_c": "fordøjelses- og udskillelsessystemet",
+    "option_d": "respiratoriske og kredsløbssystemet"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7141400",
+    "answer": "A",
+    "instruction": "En bonde planter majs på en mark hvert år i flere år. Hvert år bemærker han, at hans produktion af majs pr. acre er faldet, selvom vejrforholdene har været meget ens. Ændring i hvilken abiotisk faktor forårsager mest sandsynligt faldet i produktionen af majs?",
+    "option_a": "fald i jordnæringsstoffer",
+    "option_b": "øget nedbør",
+    "option_c": "øget vindhastighed",
+    "option_d": "fald i sollys"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2012_8_23636",
+    "answer": "D",
+    "instruction": "Hvilken af følgende processer tager normalt længst tid?",
+    "option_a": "Varm lava køler ned og danner ny sten.",
+    "option_b": "Vanddamp kondenserer for at danne en sky.",
+    "option_c": "En seismisk bølge rejser sig gennem mantelen.",
+    "option_d": "En havbund formes mellem to kontinenter."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_406705",
+    "answer": "B",
+    "instruction": "Anna's klasse tællede antallet af sommerfugle i skolehaven som en opgave. Annas resultater var forskellige fra resten af klassen. Hvad skal hun gøre?",
+    "option_a": "Ændre opgaven.",
+    "option_b": "Lade resultaterne være.",
+    "option_c": "Matche sine resultater med klassen.",
+    "option_d": "Bed læreren om at tælle for hende."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7186148",
+    "answer": "B",
+    "instruction": "En studerende blander en kop varm kakao med en ske. Hvordan overføres varmen mellem den varme kakao og den del af skeen, som er i kakaoen?",
+    "option_a": "Konduktion overfører energi fra skeen til den varme kakao.",
+    "option_b": "Konduktion overfører energi fra den varme kakao til skeen.",
+    "option_c": "Konvektion overfører energi fra skeen til den varme kakao.",
+    "option_d": "Konvektion overfører energi fra den varme kakao til skeen."
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_28",
+    "answer": "B",
+    "instruction": "Store fugle har spist små dyr i et område. Hvis alle store fugle døde af en sygdom, ville antallet af små dyr i området sandsynligvis",
+    "option_a": "falde",
+    "option_b": "stige",
+    "option_c": "forblive det samme"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7005478",
+    "answer": "B",
+    "instruction": "Menneskekroppens temperatur er relativt konstant. Hvilket er en feedbackmekanisme, der hjælper med at opretholde kroppens normale temperatur i et koldt miljø?",
+    "option_a": "Vand frigøres fra huden.",
+    "option_b": "Muskler ryster i små bevægelser.",
+    "option_c": "Hjerterytmen sænkes.",
+    "option_d": "Lungerne tager mere luft ind."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2009_8_5",
+    "answer": "D",
+    "instruction": "Hvad ville være mest effektivt til at reducere lufttrafiktrængsel på en travl lufthavn?",
+    "option_a": "at give præstationsfeedback til piloter",
+    "option_b": "at give flyoplysninger til passagerer",
+    "option_c": "at øge antallet af fly på lufthavnen",
+    "option_d": "at øge antallet af landingsbaner på lufthavnen"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7037573",
+    "answer": "D",
+    "instruction": "Hvordan er den bedste praksis at følge ved afslutning af et eksperiment?",
+    "option_a": "at være forsigtig når du håndterer varme glasvarer",
+    "option_b": "at slukke for brænderne, når du ikke bruger dem",
+    "option_c": "at studere laboratorieprocedurer inden du udfører eksperimentet",
+    "option_d": "at spørge din lærer om proceduren til bortskaffelse af kemikalier"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2012_5_8",
+    "answer": "B",
+    "instruction": "Cameron er på udkig efter et nyt skrivebord. Han vil sikre sig, at skrivebordet vil passe ind i hjørnet af hans værelse. Når Cameron shopper efter det nye skrivebord, hvad vil bedst hjælpe ham med at sikre sig, at skrivebordet vil passe?",
+    "option_a": "et billede der viser tæppet i hans værelse",
+    "option_b": "en diagram over målene på hans værelse",
+    "option_c": "en tegning der viser, hvordan man samler et skrivebord",
+    "option_d": "en liste over værktøjer han har brug for til at samle skrivebordet"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7092295",
+    "answer": "C",
+    "instruction": "Hvilken handling skaber konkurrence mellem miljøhensyn og økonomisk gevinst?",
+    "option_a": "beskyttelse af truede dyrearter",
+    "option_b": "genindførelse af vilde dyr i deres naturlige levesteder",
+    "option_c": "brug af skovområder til at bygge huse",
+    "option_d": "brug af bybusser til transport"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7131828",
+    "answer": "C",
+    "instruction": "I mange tropiske områder kan myg bære på en parasit, der kan forårsage en smitsom sygdom blandt mennesker. Hvad beskriver bedst denne type forhold mellem myg og mennesker?",
+    "option_a": "rovdyr-bytte",
+    "option_b": "konkurrence om ressourcer",
+    "option_c": "biotiske faktorer, der interagerer med hinanden",
+    "option_d": "energioverførsel mellem producent og forbruger"
+  },
+  {
+    "id": "ARC-Challenge/validation/TIMSS_2003_8_pg31",
+    "answer": "B",
+    "instruction": "Ventilering kan få et træfyr til at brænde varmere, fordi ventileringen",
+    "option_a": "gør maden varm nok til at brænde",
+    "option_b": "tilføjer mere ilt, der er nødvendigt for at brænde",
+    "option_c": "øger mængden af træ der er til at brænde",
+    "option_d": "giver den nødvendige energi til at holde ilden i gang"
+  },
+  {
+    "id": "ARC-Challenge/validation/ACTAAP_2007_7_5",
+    "answer": "B",
+    "instruction": "Der udføres en eksperiment i en forseglet beholder. Beholderen begynder ved en temperatur på 70 grader F og en lufttryk på 20 psi. Beholderen opvarmes og trykket indeni stiger jævnt med stigende temperatur. Hvis beholderen køles ned til 70 grader F igen, hvad vil lufttrykket være?",
+    "option_a": "10 psi",
+    "option_b": "20 psi",
+    "option_c": "30 psi",
+    "option_d": "40 psi"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7120908",
+    "answer": "D",
+    "instruction": "En glideflyver er et motorløst fly. Udover størrelse, hvad ville være de vigtigste ting at overveje, når man designer en glideflyver til at dække en lang afstand?",
+    "option_a": "Miljøpåvirkning og masse",
+    "option_b": "Omkostninger og miljøpåvirkning",
+    "option_c": "Styrke og omkostninger",
+    "option_d": "Masse og styrke"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_180443",
+    "answer": "C",
+    "instruction": "Hvilken fase af Månen opstår efter en tiltagende gibbous?",
+    "option_a": "aftagende gibbous",
+    "option_b": "tiltagende crescent",
+    "option_c": "fuldmåne",
+    "option_d": "ny måne"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7238963",
+    "answer": "A",
+    "instruction": "En kløftet hage hos mennesker er kodet af den dominante allele C. En hage uden kløft er kodet af den recessive allele c. En mand med en cc allelkombination for trækket producerer en zygote med en kvinde med en Cc allelkombination for trækket. Hvilke allelkombinationer kunne forekomme i zygoten?",
+    "option_a": "Cc eller cc",
+    "option_b": "CC eller Cc",
+    "option_c": "Kun CC",
+    "option_d": "Kun Cc"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_184765",
+    "answer": "B",
+    "instruction": "Hvad er den mest sandsynlige konsekvens af at fælde store sammenhængende skovområder?",
+    "option_a": "Procentdelen af oxygen i området vil stige.",
+    "option_b": "Erosionsmængden i området vil stige.",
+    "option_c": "Artsdiversiteten i området vil stige.",
+    "option_d": "Jordnæringsstofferne i området vil stige."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7235813",
+    "answer": "D",
+    "instruction": "Kulstof cirkulerer gennem forskellige reservoirer på Jorden. Tiden det tager at danne disse reservoirer varierer meget. Hvilken proces i kulstofcyklussen tager millioner af år at danne det angivne reservoir?",
+    "option_a": "Inkorporering af kulstof gennem fordøjelsen i dyrevæv",
+    "option_b": "Udsivning af kulstof i atmosfæren under vejrtrækning",
+    "option_c": "Atmosfærisk kulstof inkorporeret i sukker i planter",
+    "option_d": "Nedbrydning af kulstof i plantevæv for at danne olie"
+  },
+  {
+    "id": "ARC-Challenge/validation/OHAT_2007_5_24",
+    "answer": "B",
+    "instruction": "I en skov, hvordan hjælper nedbrydere andre organismer med at overleve?",
+    "option_a": "De frigiver ilt i luften, som dyr trækker vejret af.",
+    "option_b": "De tilfører næringsstoffer til jorden, som planter bruger til at vokse.",
+    "option_c": "De giver ly i skove, hvor dyr kan gemme sig.",
+    "option_d": "De bruger sollys til at lave mad til planter og dyr."
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2007_8_15",
+    "answer": "C",
+    "instruction": "Menneskelige handlinger påvirker miljøet. Hvilken menneskelig handling påvirker det mindste område af miljøet?",
+    "option_a": "at brænde en skov",
+    "option_b": "at brænde fossile brændstoffer",
+    "option_c": "at grave en ny losseplads",
+    "option_d": "at sprøjte afgrøder med kemikalier"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7162838",
+    "answer": "D",
+    "instruction": "Laboratorierotte blev fodret med blåbær, jordbær eller spinat kosttilskud sammen med deres almindelige mad. Efter otte uger blev rotterne testet for hukommelse og motoriske færdigheder. Rotterne, der fik blåbærtilskuddet, viste den største forbedring. Hvad er den uafhængige (manipulerede) variabel i undersøgelsen?",
+    "option_a": "motoriske færdigheds testen",
+    "option_b": "aldringprocessen",
+    "option_c": "hukommelsestesten",
+    "option_d": "kosttilskuddene"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_405973",
+    "answer": "B",
+    "instruction": "Flere forskellige slags fugle lever på en lille ø. En storm ødelægger størstedelen af planterne, som fuglene lever af og bygger deres reder i. Hvilken slags fugl vil mest sandsynligt overleve på øen?",
+    "option_a": "fuglene som har den største mængde",
+    "option_b": "fuglene som er mest i stand til at tilpasse sig",
+    "option_c": "fuglene som kan flyve længst",
+    "option_d": "fuglene med de stærkeste næb"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2000_8_10",
+    "answer": "B",
+    "instruction": "Hvilken udsagn er en holdning?",
+    "option_a": "Mange planter er grønne.",
+    "option_b": "Mange planter er smukke.",
+    "option_c": "Planter kræver sollys.",
+    "option_d": "Planter kan vokse på forskellige steder."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7103180",
+    "answer": "B",
+    "instruction": "Hvilken biome har mest vegetation?",
+    "option_a": "ørken",
+    "option_b": "skov",
+    "option_c": "græsland",
+    "option_d": "tundra"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7221865",
+    "answer": "C",
+    "instruction": "En gruppe elever observerede dannelse af bobler, da vandet kogte. Hvad skete der med stoffet på grund af den fysiske ændring af vandet?",
+    "option_a": "Der blev skabt ny materie i boblerne.",
+    "option_b": "Gammel materie blev ødelagt, da vandet blev til gas.",
+    "option_c": "Materialet blev bevaret, da det ændrede form.",
+    "option_d": "Materialets sammensætning ændrede sig."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7242743",
+    "answer": "D",
+    "instruction": "Proteiner, der syntetiseres i ribosomale underenheder, gennemgår omfattende post-translational modifikation og pakkes og dirigeres til det passende mål. Hvilken strukturel komponent af en celle er involveret i en sådan modifikation?",
+    "option_a": "endoplasmatiske reticulum",
+    "option_b": "lysome",
+    "option_c": "mitokondrie",
+    "option_d": "Golgi-apparatet"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7103565",
+    "answer": "C",
+    "instruction": "Højtryksområder forhindrer luften i at stige op i de koldere regioner af atmosfæren, hvor vand kan kondensere. Hvad er mest sandsynligt at ske, hvis et højtryksområde bliver i et område i lang tid?",
+    "option_a": "tåge",
+    "option_b": "regn",
+    "option_c": "tørke",
+    "option_d": "tornado"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415541",
+    "answer": "D",
+    "instruction": "Hvilket af disse objekter vil mest sandsynligt flyde i vand?",
+    "option_a": "glas kugle",
+    "option_b": "stål kugle",
+    "option_c": "hård gummi bold",
+    "option_d": "bordtennisbold"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_9",
+    "answer": "A",
+    "instruction": "En elev tager en isterningebakke ud af fryseren og placerer den på et bord. Isterningerne er faste og kolde. Eleven glemmer at lægge isterningebakken tilbage i fryseren. Dagen efter bør isterningerne være",
+    "option_a": "flydende og varmere",
+    "option_b": "fast og varmere",
+    "option_c": "flydende og koldere",
+    "option_d": "fast og koldere"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7097318",
+    "answer": "D",
+    "instruction": "En egern tabte en agern ned fra en gren af en egetræ. Hvad vil ændre sig, når agern falder fra træet til jorden?",
+    "option_a": "agernens masse",
+    "option_b": "kraften på agern",
+    "option_c": "agernens densitet",
+    "option_d": "agernens hastighed"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_8_20",
+    "answer": "B",
+    "instruction": "Nedenstående ligning viser de produkter, der dannes, når en opløsning af sølvnitrat (AgNO3) reagerer med en opløsning af natriumchlorid (NaCl). AgNO3 \u0002+ NaCl (Reaktanter) -> NaNO3 \u0002+ AgCl (Produkter) I denne ligning er den samlede masse af reaktanterne",
+    "option_a": "større end den samlede masse af produkterne",
+    "option_b": "lig med den samlede masse af produkterne",
+    "option_c": "lig med massen af AgCl",
+    "option_d": "mindre end massen af AgCl"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415397",
+    "answer": "C",
+    "instruction": "Hvilken ændring skaber en struktur på jordens overflade?",
+    "option_a": "En oversvømmelse får folk til at forlade en by.",
+    "option_b": "Et jordskælv skaber bølger i et felt.",
+    "option_c": "En vulkan laver ny jord med lava.",
+    "option_d": "En jordskreds i en bugt skaber en tidevandsbølge."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7246348",
+    "answer": "A",
+    "instruction": "Hvilken egenskab dannes ikke som følge af, at tektoniske plader divergerer?",
+    "option_a": "grav",
+    "option_b": "kløftdal",
+    "option_c": "havbassin",
+    "option_d": "midtatlantiske ryg"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7270200",
+    "answer": "A",
+    "instruction": "Forskere har forklaret, hvordan aminosyrer, kulhydrater, nukleinsyrer og fedtsyrer alle kunne have været syntetiseret på Jorden, før levende organismer opstod. Hvilken af ​​følgende opdagelser ville mest støtte påstanden om, at liv spontant blev genereret fra disse biokemikalier?",
+    "option_a": "Disse kemikalier kan selv-samle sig til en struktur, der replikerer sig selv.",
+    "option_b": "Disse kemikalier bliver brugt af levende organismer i dag.",
+    "option_c": "Disse kemikalier findes på en anden planet.",
+    "option_d": "Disse kemikalier kan selv-samle sig til et virus."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415026",
+    "answer": "C",
+    "instruction": "Hvilke dyr ville mest sandsynligt blive hjulpet af oversvømmelse i en kystnær zone?",
+    "option_a": "hjorte",
+    "option_b": "vaskebjørne",
+    "option_c": "alligatorer",
+    "option_d": "koyoter"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7143518",
+    "answer": "D",
+    "instruction": "Bævere er kendt for at bygge dæmninger på tværs af floder og bække ved at fælde træer og samle grene og buske. Bestanden af bævere i USA er faldet på grund af fangst af mennesker. Hvad er en økologisk konsekvens, der mest sandsynligt opstår ved en nedgang i bæverpopulationen?",
+    "option_a": "en betydelig nedgang i fiskepopulationer",
+    "option_b": "en betydelig stigning i skovsøkosystemer",
+    "option_c": "en betydelig stigning i vandfordampning",
+    "option_d": "en betydelig nedgang i antallet af damhabitater"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7032340",
+    "answer": "D",
+    "instruction": "Af de følgende valgmuligheder, hvilken repræsenterer den naturlige verden ved hjælp af en model?",
+    "option_a": "at læse en bog om et prærie-hunde samfund",
+    "option_b": "at se på et billede af et prærie-hunde samfund",
+    "option_c": "at undersøge et prærie-hunde samfund ved hjælp af internettet",
+    "option_d": "at observere et prærie-hunde samfund i en udstilling i ​​zooen"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_415263",
+    "answer": "C",
+    "instruction": "Hvad af følgende findes i en eukaryot celle, men ikke i en prokaryot celle?",
+    "option_a": "DNA",
+    "option_b": "cytoplasma",
+    "option_c": "en kerne",
+    "option_d": "en cellemembran"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7090720",
+    "answer": "B",
+    "instruction": "Ethanol er en alternativ brændstof lavet af majs. Hvad er en af de ugunstige virkninger ved at bruge ethanol som brændstof?",
+    "option_a": "nedsat omkostning ved brændstofproduktion",
+    "option_b": "fald i jordbrugets jord til rådighed for produktion af fødevarer",
+    "option_c": "stigning i forbruget af fossile brændstoffer",
+    "option_d": "øget CO2-udslip fra at køre biler"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_410964",
+    "answer": "D",
+    "instruction": "Studerende undersøger, hvordan en dørklokke fungerer. Hvad er mest sandsynligt en observation lavet under undersøgelsen?",
+    "option_a": "Alle dørklokker laver smukke lyde.",
+    "option_b": "Et batteri er den bedste strømkilde til en dørklokke.",
+    "option_c": "De fleste foretrækker at bruge en dørklokke i stedet for at banke.",
+    "option_d": "Dørklokken bruger en stykke ledning viklet rundt om en magnet."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7057313",
+    "answer": "A",
+    "instruction": "Hjertemusklen beskrives bedst som",
+    "option_a": "samme slags celler, der arbejder sammen.",
+    "option_b": "forskellige systemer, der arbejder sammen.",
+    "option_c": "samme slags organer, der danner et system.",
+    "option_d": "forskellige organer, der udfører en funktion."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_402101",
+    "answer": "D",
+    "instruction": "Hvilke træk kan findes på overfladen af både Jorden og Månen?",
+    "option_a": "planter",
+    "option_b": "have",
+    "option_c": "dyr",
+    "option_d": "bjerge"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2010_8_12010",
+    "answer": "C",
+    "instruction": "Nogle bakteriearter producerer en substans, som er giftig for insekter, men harmløs for mennesker. Videnskabsfolk har isoleret genet, der styrer produktionen af denne substans. Hvilket af følgende er den bedste grund til at indsætte dette gen i majsplanter?",
+    "option_a": "Majsen vil vokse hurtigere.",
+    "option_b": "Mindre gødning vil være nødvendigt.",
+    "option_c": "Færre pesticider vil være nødvendige.",
+    "option_d": "Majsen vil være mere næringsrig."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7038133",
+    "answer": "B",
+    "instruction": "En elev planlægger en undersøgelse for at beregne hastighederne af forskellige kugler, når de ruller ned ad en rampe. Hvilken information er mindst nødvendig for eleven at registrere?",
+    "option_a": "størrelsen på hver bold",
+    "option_b": "tykkelsen af rampen",
+    "option_c": "længden af rampen",
+    "option_d": "tiden det tager bolden at rejse"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_407169",
+    "answer": "D",
+    "instruction": "Hvis et habitat med en lille dam går igennem en lang tørke, hvad er så mest sandsynligt at ske med mange af fiskene i dammen?",
+    "option_a": "De ville tilpasse sig den tørre miljø.",
+    "option_b": "De ville leve på andre vandkilder.",
+    "option_c": "De ville flytte til et andet habitat.",
+    "option_d": "De ville være ude af stand til at overleve."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7103215",
+    "answer": "C",
+    "instruction": "En studerende vil bestemme virkningen af hvidløg på væksten af en svampespecie. Flere prøver af svampekulturer dyrkes i samme mængde agar og lys. Hver prøve tilføjes en forskellig mængde hvidløg. Hvad er den uafhængige variabel i denne undersøgelse?",
+    "option_a": "mængde agar",
+    "option_b": "mængde lys",
+    "option_c": "mængde hvidløg",
+    "option_d": "mængde vækst"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2013_8_29432",
+    "answer": "B",
+    "instruction": "Hvilken af følgende dele af en plantecelle har en funktion, der er mest lignende funktionen af et dyrs skelet?",
+    "option_a": "cellemembran",
+    "option_b": "cellevæg",
+    "option_c": "kloroplaster",
+    "option_d": "kerne"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7018008",
+    "answer": "A",
+    "instruction": "Hvilken beskrivelse passer bedst på en atoms elektriske egenskab?",
+    "option_a": "neutral",
+    "option_b": "isolerede",
+    "option_c": "positivt ladet",
+    "option_d": "negativt ladet"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7166530",
+    "answer": "B",
+    "instruction": "Ira skulle lave en laboratorieundersøgelse efter skole. Han fik materialer, kemikalier, udstyr og beskyttelsesudstyr fra sin lærer. Han udførte hurtigt, men forsigtigt, trinnene i den skriftlige eksperimentprocedure. For at spare tid besluttede han at optage sine observationer og resultater senere. Hvad vil højst sandsynligt blive påvirket negativt af hans beslutning?",
+    "option_a": "evnen til at følge anvisninger",
+    "option_b": "evnen til at skrive en gyldig rapport",
+    "option_c": "evnen til at følge sikkerhedsretningslinjer",
+    "option_d": "evnen til at komme med en konklusion"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400047",
+    "answer": "B",
+    "instruction": "En elev efterlod en chokoladebar i solen på en varm dag. Hvad ændrede sig, mens chokoladen smeltede?",
+    "option_a": "dens masse",
+    "option_b": "dens form",
+    "option_c": "dens vægt",
+    "option_d": "dens sammensætning"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7044100",
+    "answer": "C",
+    "instruction": "På hvilken måde kan jordnæringsstoffer i landbrugsjorden blive udtømt?",
+    "option_a": "overgræsning",
+    "option_b": "vindhvirvling",
+    "option_c": "øget kunstvanding",
+    "option_d": "øget gødskning"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7075145",
+    "answer": "A",
+    "instruction": "Hvilken af disse processer gør det muligt for celler at optage vand?",
+    "option_a": "osmose",
+    "option_b": "mitose",
+    "option_c": "fotosyntese",
+    "option_d": "respiration"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_192290",
+    "answer": "D",
+    "instruction": "Selvom de tilhører samme familie, er ørne og pelikaner forskellige. Hvad er en forskel mellem dem?",
+    "option_a": "deres præference for at spise fisk",
+    "option_b": "deres evne til at flyve",
+    "option_c": "deres reproduktionsmetode",
+    "option_d": "deres metode til at fange mad"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7093975",
+    "answer": "D",
+    "instruction": "Hvad er en naturlig årsag til floders udtørring?",
+    "option_a": "forurening",
+    "option_b": "erosion",
+    "option_c": "grundvandstanden stiger",
+    "option_d": "mangel på nedbør"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7085820",
+    "answer": "D",
+    "instruction": "Når vand begynder at fryse, molekylerne af vandet",
+    "option_a": "får termisk energi",
+    "option_b": "bevæger sig mere frit",
+    "option_c": "stiger i størrelse",
+    "option_d": "sænker farten"
+  },
+  {
+    "id": "ARC-Challenge/validation/MEA_2016_5_6",
+    "answer": "C",
+    "instruction": "En ballon fyldt med vand placeres i en fryser. Hvilken egenskab ved vandet vil ændre sig, når vandet når dets frysepunkt?",
+    "option_a": "farve",
+    "option_b": "masse",
+    "option_c": "tilstand",
+    "option_d": "vægt"
+  },
+  {
+    "id": "ARC-Challenge/validation/NCEOGA_2013_5_43",
+    "answer": "B",
+    "instruction": "Hvad skal der ske, før der kan dannes skyer?",
+    "option_a": "Vanddamp skal blive varmere.",
+    "option_b": "Vanddamp skal miste varmeenergi.",
+    "option_c": "Nedbør skal begynde at falde og løbe af.",
+    "option_d": "Transpiration skal tilføje vanddamp til atmosfæren."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7250023",
+    "answer": "A",
+    "instruction": "Alle celler, både prokaryote og eukaryote, har nogle fælles træk. Hvilket celletilbehør findes i både prokaryote og eukaryote celler?",
+    "option_a": "ribosom",
+    "option_b": "kloroplastmembran",
+    "option_c": "kerne",
+    "option_d": "endoplasmisk reticulum"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7003955",
+    "answer": "D",
+    "instruction": "Hvilken type ladning har enkeltstående hårstrå, når de står op på grund af statisk elektricitet?",
+    "option_a": "neutrale ladninger",
+    "option_b": "neutral afladning",
+    "option_c": "permanent positiv ladning",
+    "option_d": "midlertidige positive ladninger"
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2010_5_18",
+    "answer": "D",
+    "instruction": "Vind er en naturlig ressource, der gavner den sydøstlige strand af Chesapeake-bugten. Hvordan kan disse vinde bedst gavne mennesker?",
+    "option_a": "Vindene kunne blæse olieudslip ind i bugten.",
+    "option_b": "Vindene kunne konverteres til fossilt brændstof.",
+    "option_c": "Vindene kunne blæse luftforurening mod land.",
+    "option_d": "Vindene kunne konverteres til elektrisk energi."
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_2",
+    "answer": "D",
+    "instruction": "Hvor lang tid tager det omtrent for Jorden at lave en revolution rundt om Solen?",
+    "option_a": "en dag",
+    "option_b": "en uge",
+    "option_c": "en måned",
+    "option_d": "et år"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_411306",
+    "answer": "D",
+    "instruction": "Nogle forskellige typer af planter har fællestræk. Hvilket træk har de fleste planter til fælles?",
+    "option_a": "størrelsen af deres rødder",
+    "option_b": "formen på deres blade",
+    "option_c": "farven på deres blomster",
+    "option_d": "strukturen af deres celler"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7241115",
+    "answer": "C",
+    "instruction": "Hvilken begivenhed muliggjorde sandsynligvis den eksplosion af pattedyrs diversitet, der opstod i kridtperioden?",
+    "option_a": "dannelse af superkontinentet Pangea",
+    "option_b": "intens vulkansk aktivitet",
+    "option_c": "koldere temperaturer",
+    "option_d": "stigende havniveauer"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7042735",
+    "answer": "C",
+    "instruction": "I naturvidenskabstimen laves en opløsning af vand og en ugiftig forbindelse. Hvad skal der ske med opløsningen, når demonstrationen er færdig?",
+    "option_a": "Den skal hældes ud i afløbet.",
+    "option_b": "Den skal hældes i en genanvendelsesbeholder.",
+    "option_c": "Den skal hældes i en affaldsbeholder.",
+    "option_d": "Den skal placeres i en beholder til farligt affald."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2004_9_13",
+    "answer": "D",
+    "instruction": "Hvad er den primære type belastning, som en fast skruestik udøver på en trædel?",
+    "option_a": "træk",
+    "option_b": "skær",
+    "option_c": "torsion",
+    "option_d": "tryk"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_176015",
+    "answer": "D",
+    "instruction": "En gruppe studerende undersøger to stoffer for at afgøre, hvilket der er almindeligt salt, og hvilket der er almindeligt sukker. Hvordan vil de studerende bedst identificere hvert stof?",
+    "option_a": "ved at lægge mærke til om de opløses i vand",
+    "option_b": "ved at undersøge farven på stoffet",
+    "option_c": "ved at observere om de klæber til en overflade",
+    "option_d": "ved at undersøge krystals formen"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7215180",
+    "answer": "C",
+    "instruction": "Forskere indsamler granitprøver i bjergene i det vestlige Nevada. Hvilket af disse formater er bedst til at vise og sammenligne procentdelen af mineraler fundet i en granitprøve?",
+    "option_a": "søjlediagram",
+    "option_b": "linjediagram",
+    "option_c": "cirkeldiagram",
+    "option_d": "spredningsplot"
+  },
+  {
+    "id": "ARC-Challenge/validation/TIMSS_2007_4_pg26",
+    "answer": "B",
+    "instruction": "Et dyr har seks ben. Hvad er det mest sandsynligt at være?",
+    "option_a": "en edderkop",
+    "option_b": "en flue",
+    "option_c": "en øgle",
+    "option_d": "en tusindben"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_177818",
+    "answer": "C",
+    "instruction": "Tidsintervallet mellem nat og dag på Jorden varierer i løbet af året. Denne tidsvariation forklares primært af",
+    "option_a": "Solens position.",
+    "option_b": "Månens position.",
+    "option_c": "Jordens hældningsvinkel",
+    "option_d": "Jordens afstand fra Solen"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_405487",
+    "answer": "B",
+    "instruction": "Ét år begyndte eg-træerne i en park at producere flere agern end normalt. Året efter steg også bestanden af jordegern i parken. Hvad forklarer bedst, hvorfor der var flere jordegern det næste år?",
+    "option_a": "Skyggefulde områder øgedes.",
+    "option_b": "Fødekilder øgedes.",
+    "option_c": "Iltniveauerne øgedes.",
+    "option_d": "Tilgængeligt vand øgedes."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400612",
+    "answer": "C",
+    "instruction": "Overfladen af Jorden ændrer sig konstant på grund af forvitring og erosion. Sammenlignet med Jorden er der lidt forvitring og erosion på Månen på grund af",
+    "option_a": "manglen på tyngdekraft på Månen.",
+    "option_b": "den tynde atmosfære på Månen.",
+    "option_c": "manglen på luft og vand på Månen.",
+    "option_d": "manglen på levende væsener på Månen."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400655",
+    "answer": "A",
+    "instruction": "Hvad er den største ændring, der kan observeres mellem sommer og vinter?",
+    "option_a": "mængden af dagslys",
+    "option_b": "højden af oceanbølgerne",
+    "option_c": "antallet af storme",
+    "option_d": "størrelsen af skyerne"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415735",
+    "answer": "C",
+    "instruction": "Anya placerede en isterning på fortovet på en varm dag. Isterningen smeltede snart og dannede en vandpyt. Hvilken proces fik isterningen til at smelte?",
+    "option_a": "Varmen overførtes gennem isterningen ved konvektion.",
+    "option_b": "Varmen overførtes fra luften til isterningen ved stråling.",
+    "option_c": "Varmen overførtes fra luften og fortovet ved konduktion.",
+    "option_d": "Varmen overførtes gennem isterningen til fortovet ved konduktion."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2005_8_5",
+    "answer": "D",
+    "instruction": "Merkur, den planet som er nærmest Solen, har ekstreme overfladetemperaturer, der varierer fra 465 °C i sollys til -180 °C i mørke. Hvorfor er der sådan en stor temperaturforskel på Merkur?",
+    "option_a": "Planeten er for lille til at holde på varmen.",
+    "option_b": "Planeten bliver opvarmet på kun den ene side.",
+    "option_c": "Planeten reflekterer varme fra dens mørke side.",
+    "option_d": "Planeten mangler en atmosfære til at holde på varmen."
+  },
+  {
+    "id": "ARC-Challenge/validation/TIMSS_2003_8_pg14",
+    "answer": "B",
+    "instruction": "Hvorfor ville mandlige insekter blive behandlet for at forhindre spermproduktion?",
+    "option_a": "For at øge antallet af kvindelige insekter",
+    "option_b": "For at reducere den samlede insektbestand",
+    "option_c": "For at producere nye arter af insekter",
+    "option_d": "For at forhindre insekter i at parre sig"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_20",
+    "answer": "D",
+    "instruction": "Hovedfunktionen af et træs stamme er at levere",
+    "option_a": "luft",
+    "option_b": "frugt",
+    "option_c": "sollys",
+    "option_d": "støtte"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7017990",
+    "answer": "A",
+    "instruction": "Hvilken handling repræsenterer ikke en sikkerhedsprocedure i laboratoriet?",
+    "option_a": "smage kemiske prøver",
+    "option_b": "bruge varmebestandige handsker, hvis glasvarer er varme",
+    "option_c": "binde langt hår tilbage",
+    "option_d": "vaske en kemisk stænk med masser af vand"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7264023",
+    "answer": "D",
+    "instruction": "Hvilket af disse elementer er ikke sandsynligt at blive fundet i en organisk forbindelse?",
+    "option_a": "kulstof",
+    "option_b": "hydrogen",
+    "option_c": "nitrogen",
+    "option_d": "kalium"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7138513",
+    "answer": "A",
+    "instruction": "En ø har mange slags fugle, ingen naturlige slanger og få store rovdyr. Brune slanger spiser fugleæg. Hvad er den mest sandsynlige følge af, at brune slanger bliver frigivet ved et uheld på øen?",
+    "option_a": "flere slanger og færre fugle",
+    "option_b": "flere slanger og flere fugle",
+    "option_c": "færre slanger og færre fugle",
+    "option_d": "færre slanger og flere fugle"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_401663",
+    "answer": "B",
+    "instruction": "Hvilke objekter kan en studerende lægge i en kompostbeholder for at spare på ressourcer?",
+    "option_a": "gødning",
+    "option_b": "bønneplanter",
+    "option_c": "glas kolber",
+    "option_d": "plastik pipetter"
+  },
+  {
+    "id": "ARC-Challenge/validation/ACTAAP_2011_5_3",
+    "answer": "C",
+    "instruction": "Når vand flyder ned ad floder og strømme, samler det en stor mængde sediment op. Hvad vil der sandsynligvis ske med sedimentpartiklerne, som vandet transporterer, når vandet i en flod eller en strøm først har flydt hurtigt og derefter begynder at sakke af?",
+    "option_a": "Mængden af større sedimentpartikler, som vandet transporterer, vil øges.",
+    "option_b": "Mængden af mindre sedimentpartikler, som vandet transporterer, vil øges.",
+    "option_c": "Mængden af større sedimentpartikler, som vandet transporterer, vil mindskes.",
+    "option_d": "Mængden af mindre sedimentpartikler, som vandet transporterer, vil mindskes."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7195440",
+    "answer": "B",
+    "instruction": "Hvert år ryddes cirka 50 millioner hektar tropisk regnskov. Hvilken effekt ville sandsynligvis mest sandsynligt resultere i fjernelsen af ​​disse skove?",
+    "option_a": "en nedgang i jord erosion",
+    "option_b": "en nedgang i biodiversitet",
+    "option_c": "en forbedring af luftkvaliteten",
+    "option_d": "en forbedring af vandkvaliteten"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7220378",
+    "answer": "C",
+    "instruction": "Klimaforandringer kan muligvis reducere mængden af is, der flyder på verdenshavene. Hvordan kan denne ændring mest sandsynligt ændre fødevareforsyningen til rådighed for marine forbrugerorganismer?",
+    "option_a": "ved at formindske mængden af salt, der opløses i havvandet",
+    "option_b": "ved at øge vandets evne til at adskille sig i forskellige lag",
+    "option_c": "ved at ændre temperaturforholdene, som encellede producenter kræver",
+    "option_d": "ved at forhindre organismer i at reagere hurtigt på ændringer i miljøet"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7234483",
+    "answer": "B",
+    "instruction": "Hvilken egenskab udviklede præbiotiske stoffer først, som er afhængig af den aktuelle, dominerende teori om livets oprindelse på Jorden?",
+    "option_a": "Stabil adskillelse fra deres omgivelser",
+    "option_b": "Samling i selv-reproducerende strukturer",
+    "option_c": "Opbevaring af egenskaber i kemisk kodet form",
+    "option_d": "Akumulering af energilagrende molekyler"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7179358",
+    "answer": "B",
+    "instruction": "En klimaksebrand-økosystem kræver periodisk skovbrand for at opretholde stabilitet. Hvad ville sandsynligvis ske, hvis man forhindrer naturlige brande i at opstå i dette økosystem?",
+    "option_a": "Fyrretræarter ville formere sig hurtigere.",
+    "option_b": "Løvtræsarter ville erstatte fyrretræsarter.",
+    "option_c": "Brandområder ville være lettere at kontrollere.",
+    "option_d": "Træer ville sprede sig til tidligere ikke-skovklædte områder."
+  },
+  {
+    "id": "ARC-Challenge/validation/NCEOGA_2013_8_40",
+    "answer": "C",
+    "instruction": "Hvordan vil rygning af tobak sandsynligvis have en negativ indvirkning på en persons evne til at lykkes med fysiske aktiviteter?",
+    "option_a": "Det interfererer med balance og koordination.",
+    "option_b": "Det mindsker evnen til at træffe hurtige beslutninger.",
+    "option_c": "Det mindsker udholdenhed og kardiovaskulær effektivitet.",
+    "option_d": "Det mindsker hastigheden and kraften i muskelkontraktioner."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7100695",
+    "answer": "D",
+    "instruction": "Hvilken geologisk struktur vil sandsynligvis tage længst tid at forme?",
+    "option_a": "en forkastning",
+    "option_b": "en sinkhole",
+    "option_c": "en flod meandring",
+    "option_d": "en bjergkæde"
+  },
+  {
+    "id": "ARC-Challenge/validation/MEA_2016_5_7",
+    "answer": "B",
+    "instruction": "En elev observerer, at en encellet organisme og et planteløv har lignende grønne dele. Eleverne mener, at begge organismer bruger de grønne dele til at leve. Hvilket bevis støtter konklusionen om, at begge organismer har brug for de grønne dele for at overleve?",
+    "option_a": "Begge organismer bruger de grønne dele til at bevæge sig.",
+    "option_b": "Begge organismer dør, hvis de grønne dele fjernes.",
+    "option_c": "De grønne dele i begge organismer observeres at lave lys.",
+    "option_d": "De grønne dele i begge organismer kan lave flere grønne dele."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7027230",
+    "answer": "A",
+    "instruction": "Hvilket emneområde ville være bedst at undersøge for at finde måder at reducere miljøproblemer forårsaget af mennesker?",
+    "option_a": "konvertering af sollys til elektricitet",
+    "option_b": "søge efter nye kulressourcer",
+    "option_c": "finde reservoirer, der indeholder olie",
+    "option_d": "konvertering af skove til landbrugsjord"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7245053",
+    "answer": "B",
+    "instruction": "Hvilket af følgende forbindelser er en organisk forbindelse?",
+    "option_a": "vand (H2O)",
+    "option_b": "hexan (C6H14)",
+    "option_c": "ammoniak (NH3)",
+    "option_d": "svovldioxid (SO2)"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_8_12",
+    "answer": "A",
+    "instruction": "En hovedfunktion af en plantes frø er at",
+    "option_a": "opbevare mad til at blive brugt under tidlig udvikling",
+    "option_b": "tiltrække pollen til at blive brugt under udvikling",
+    "option_c": "optage lysenergi til at blive brugt under fotosyntese",
+    "option_d": "producere klorofyl til at blive brugt under fotosyntese"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7189035",
+    "answer": "D",
+    "instruction": "Scott kiggede på resultaterne af en krydsning mellem røde og hvide blomster. Hvilket er det mest sandsynlige resultat af en krydsning, der viser ufuldstændig dominans?",
+    "option_a": "0% lyserøde blomster",
+    "option_b": "25% hvide blomster",
+    "option_c": "50% røde blomster",
+    "option_d": "100% lyserøde blomster"
+  },
+  {
+    "id": "ARC-Challenge/validation/LEAP_2006_8_10412",
+    "answer": "B",
+    "instruction": "Jolie ønskede at spise et hårdkogt æg til morgenmad. Hun lagde ægget i kogende vand i femten minutter. Da hun brød skallen, var den flydende del af ægget blevet fast. Dette skyldtes, at",
+    "option_a": "varme fjernede vandet fra ægget.",
+    "option_b": "varme ændrede de kemiske bindinger i ægget.",
+    "option_c": "kogning fik de faste dele af ægget til at stige til overfladen.",
+    "option_d": "bakterierne i det flydende æg blev dræbt."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400172",
+    "answer": "A",
+    "instruction": "Hvilken videnskabsmand hævdede, at Jorden var universets centrum?",
+    "option_a": "Aristoteles",
+    "option_b": "Copernicus",
+    "option_c": "Einstein",
+    "option_d": "Newton"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2005_5_21",
+    "answer": "D",
+    "instruction": "Hun-sæler vender normalt tilbage til de samme strande år efter år for at føde. Hvis de gentagne gange forstyrres af mennesker på disse strande, hvordan vil sælerne sandsynligvis reagere?",
+    "option_a": "De vil ændre farve.",
+    "option_b": "De vil føde flere hvalpe.",
+    "option_c": "De vil jage efter mad oftere.",
+    "option_d": "De vil føde på forskellige strande."
+  },
+  {
+    "id": "ARC-Challenge/validation/MEA_2010_8_11",
+    "answer": "A",
+    "instruction": "Når bevægelsen af flydende vandmolekyler falder, hvad sker der højest sandsynligt?",
+    "option_a": "Det flydende vand danner en fast form.",
+    "option_b": "Det flydende vand kondenserer.",
+    "option_c": "Det flydende vand gennemgår en kemisk forandring.",
+    "option_d": "Det flydende vand bliver til en damp."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7187058",
+    "answer": "A",
+    "instruction": "Hver aften læser Johnny ved siden af en lampe, der er tændt af en glødepære. Hvad er den bedste indikation på, at overførslen af elektrisk energi til lampen er ineffektiv?",
+    "option_a": "Pæren bliver varm.",
+    "option_b": "Pæren producerer lys.",
+    "option_c": "Lampen bruger kobbertråde.",
+    "option_d": "Lampen kan slukkes på en kontakt."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7185133",
+    "answer": "A",
+    "instruction": "Tracey lærte om strukturel organisering hos dyr. Hvad er den bedste strukturelle organisering for et æg?",
+    "option_a": "en celle",
+    "option_b": "en væv",
+    "option_c": "et system",
+    "option_d": "et organ"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7183733",
+    "answer": "B",
+    "instruction": "I Everglades er kropsformen af den amerikanske alligator tæt relateret til vanddybden. Når vandstanden stiger for højt, spredes dyrearter over et større område, hvilket fører til en nedgang i kropsformen på grund af manglende evne til at finde tilstrækkelige fødekilder. Når vandstanden falder, samles dyrearterne i mindre områder, hvilket giver alligatorerne mulighed for at jage mere effektivt. Dette scenarie er et eksempel på, hvordan overlevelsen af alligatorer afhænger af begrænsningen af hvilken faktor?",
+    "option_a": "nedbrydningshastighed",
+    "option_b": "byttedyrs habitatområde",
+    "option_c": "producentudgang",
+    "option_d": "vandomsætning"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7205345",
+    "answer": "D",
+    "instruction": "Når bordsalt (NaCl) produceres, hvilket af følgende beskriver bedst handlingerne fra natrium (Na) og klor (Cl) atomerne?",
+    "option_a": "Natriumatome erstatter kloratomer.",
+    "option_b": "Natrium- og kloratomer blander sig sammen.",
+    "option_c": "Natriumatomer opløses i kloratomer.",
+    "option_d": "Natrium- og kloratomer binder sig kemisk sammen."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_176838",
+    "answer": "A",
+    "instruction": "Hvilken af disse er ikke en funktion af det kardiovaskulære system?",
+    "option_a": "nedbryde mad til næringsstoffer",
+    "option_b": "transportere næringsstoffer og ilt",
+    "option_c": "fjerne affaldsprodukter fra kroppen",
+    "option_d": "forsvare kroppen mod fremmede indtrængere"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2002_5_6",
+    "answer": "D",
+    "instruction": "Kolibrier kan svæve i luften og flyve meget hurtigt. Dette gavner kolibrien i alle følgende, undtagen",
+    "option_a": "at undslippe rovdyr hurtigt.",
+    "option_b": "at nå blomster nemt.",
+    "option_c": "at blive på ét sted for at drikke nektar.",
+    "option_d": "at holde æggene varme."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7166180",
+    "answer": "B",
+    "instruction": "Plantevækst påvirkes af miljømæssige faktorer såsom tyngdekraften. Hvis en frø er tilladt at spire og vokse, mens den er på siden, hvad er mest sandsynligt at ske?",
+    "option_a": "Rødder vil vokse nedad, stilke vil vokse nedad",
+    "option_b": "Rødder vil vokse nedad, stilke vil vokse opad",
+    "option_c": "Rødder vil vokse opad, stilke vil vokse nedad",
+    "option_d": "Rødder vil vokse opad, stilke vil vokse opad"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2012_5_23632",
+    "answer": "C",
+    "instruction": "En studerende observerede en sten lavet af mange små sandpartikler arrangeret i lysfarvede lag og mørkefarvede lag. Hvilket af følgende udsagn beskriver, hvordan denne type sten sandsynligvis blev dannet?",
+    "option_a": " ler blev knust og frosset under en gletsjer.",
+    "option_b": " Lava fra en vulkan kølede hurtigt i vand.",
+    "option_c": "Flodsedimenter blev langsomt komprimeret og sammensat.",
+    "option_d": "Mineralforekomster hærdet til fast sten i underjordiske huler."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7267593",
+    "answer": "A",
+    "instruction": "Hvilke af disse naturkatastrofer er de mest uforudsigelige?",
+    "option_a": "jordskælv",
+    "option_b": "orkaner",
+    "option_c": "tornadoer",
+    "option_d": "snestorme"
+  },
+  {
+    "id": "ARC-Challenge/validation/NAEP_2005_8_S11+14",
+    "answer": "B",
+    "instruction": "Hvilket af følgende organer kan et menneske IKKE overleve tabet af?",
+    "option_a": "Appendikset",
+    "option_b": "Leveren",
+    "option_c": "En lunge",
+    "option_d": "En nyre"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7218750",
+    "answer": "C",
+    "instruction": "Hvilken type vandreservoir kan altid sørge for ferskvand?",
+    "option_a": "indlandssøer",
+    "option_b": "floddeltaer",
+    "option_c": "bjerggletsjere",
+    "option_d": "tropiske have"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7026198",
+    "answer": "A",
+    "instruction": "Grundstoffet krypton er en gas, der viser næsten ingen kemisk aktivitet. Hvad skal en studerende se efter på grundstoffernes periodiske system for at finde et andet grundstof med lignende egenskaber?",
+    "option_a": "et grundstof i samme gruppe",
+    "option_b": "et grundstof i samme periode",
+    "option_c": "et grundstof med samme nettoopladning",
+    "option_d": "et grundstof med samme atommasse"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7081760",
+    "answer": "B",
+    "instruction": "For at klassificere en nyopdaget organisme undersøger en videnskabsmand organismens struktur, DNA og livscyklus. Videnskabsmanden vil sandsynligvis bruge resultaterne af undersøgelsen til at",
+    "option_a": "skabe nye videnskabelige metoder.",
+    "option_b": "revidere videnskabelig viden.",
+    "option_c": "dan nye hypoteser.",
+    "option_d": "afvise videnskabelige teorier."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7130603",
+    "answer": "C",
+    "instruction": "Hvilken af de listede størrelser måles i en enhed, der er anderledes end joule?",
+    "option_a": "varme",
+    "option_b": "lys",
+    "option_c": "effekt",
+    "option_d": "arbejde"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7074865",
+    "answer": "C",
+    "instruction": "Hvad er sandt om alger, bakterier og blomsterplanter?",
+    "option_a": "De er uorganiske.",
+    "option_b": "De har alle klorofyl.",
+    "option_c": "De er sammensat af celler.",
+    "option_d": "De ernærer sig alle fra andre organismer."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7042700",
+    "answer": "D",
+    "instruction": "Hvilket apparat ville ikke være nødvendigt under en dyre dissektion?",
+    "option_a": "handsker",
+    "option_b": "briller",
+    "option_c": "laboratoriefrakke",
+    "option_d": "sikkerhedsbruser"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7071365",
+    "answer": "D",
+    "instruction": "Hvilket sammenligning af sommerfugle og natsværmere er en faktuel udsagn?",
+    "option_a": "Sommerfugle er smukkere og sjovere at kigge på end natsværmere.",
+    "option_b": "Sommerfugle er bedre til at flyve end natsværmere.",
+    "option_c": "Sommerfugle og natsværmere er meget gladere i løbet af dagen.",
+    "option_d": "Sommerfugle og natsværmere har lige antal ben."
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2007_4_52",
+    "answer": "C",
+    "instruction": "Planter og dyr har brug for mad til vækst. Hvad sker der med størstedelen af den mad, som planter producerer?",
+    "option_a": "Mad frigives som gas.",
+    "option_b": "Mad omdannes til vand.",
+    "option_c": "Mad opbevares til senere brug.",
+    "option_d": "Mad bruges til at absorbere sollys."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7026443",
+    "answer": "D",
+    "instruction": "Hvilken egenskab ved en husdyrhund er arvelig?",
+    "option_a": "Hunden undgår en huskat.",
+    "option_b": "Hunden hopper op på en sofa.",
+    "option_c": "Hunden ruller rundt på kommando.",
+    "option_d": "Hunden savler når den lugter mad."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7008138",
+    "answer": "B",
+    "instruction": "Hvilken udsagn beskriver asteroider og kometer?",
+    "option_a": "Asteroider er faste, og kometer er gaseøse.",
+    "option_b": "Asteroider er faste, og kometer er gaseøse.",
+    "option_c": "Både asteroider og kometer er faste.",
+    "option_d": "Både asteroider og kometer er gaseøse."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_402104",
+    "answer": "D",
+    "instruction": "At dumpe giftige kemikalier i en dam vil sandsynligvis resultere i",
+    "option_a": "en stigning i oxygenniveauet i dammen.",
+    "option_b": "planter nær dammen vokser hurtigere.",
+    "option_c": "de giftige kemikalier har ingen effekt på dammen.",
+    "option_d": "fisk i dammen bliver skadet eller dør ud."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7086013",
+    "answer": "D",
+    "instruction": "Humboldt River Basinet er en af ​​de vigtigste kilder til flere ikke-fornybare ressourcer. Hvilke af disse ikke-fornybare ressourcer produceres fra Humboldt River Basinet?",
+    "option_a": "kul fra bjergaflejringer",
+    "option_b": "olie og gas fra underjordiske reservoirer",
+    "option_c": "elektrisk energi fra vandkraftgeneratorer",
+    "option_d": "mineraler fra minedrift til guld, sølv og kobber"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7248238",
+    "answer": "D",
+    "instruction": "Myggefisk fundet på øerne i Bahamas lever i forskellige isolerede ferskvandssøer, der engang var en enkelt vandkilde. Når flere han- og hunmyggefisk tages fra to isolerede søer og placeres i en enkelt sø, er den avlspræference for hver myggefisk for fisk fra dens egen oprindelige sø. Hvad er den mest sandsynlige årsag til denne avlspræference?",
+    "option_a": "Tilgængeligheden af mad påvirkede avlspræferencerne hos fiskene.",
+    "option_b": "Konkurrence om en passende partner påvirkede avlspræferencerne.",
+    "option_c": "Rovdyr i søen påvirkede avlspræferencerne hos fiskene.",
+    "option_d": "Artsdannelse på grund af reproduktiv isolation påvirkede avlspræferencerne."
+  }
+]

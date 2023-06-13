@@ -1,0 +1,2682 @@
+[
+  {
+    "id": "ARC-Challenge/validation/Mercury_7099103",
+    "answer": "D",
+    "instruction": "Dâu rừng đen sinh sản vô tính bằng cách rất dễ dàng tạo ra các rễ mới khi nhánh chạm đất. Chúng cũng sinh sản qua hoa với phương thức sinh sản bằng cách hòa quyện tinh trùng và trứng. Lợi ích của cây dâu rừng đen khi có khả năng sinh sản vô tính và sinh sản qua hoa như thế nào?",
+    "option_a": "Nó cho phép cây sinh trưởng cao hơn.",
+    "option_b": "Nó tạo ra hoa thu hút sâu bọ.",
+    "option_c": "Nó tạo ra trái dâu đen có hương vị thơm ngon hơn.",
+    "option_d": "Nó cho phép cây dâu rừng đen thích nghi với điều kiện mới."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2006_9_31-v1",
+    "answer": "C",
+    "instruction": "Câu nào sau đây mô tả năng lượng cơ học của một chiếc xe đẩy ở yên tĩnh ở đỉnh một đồi dốc dựng dọc cao?",
+    "option_a": "Chiếc xe không có năng lượng cơ học.",
+    "option_b": "Năng lượng cơ học của chiếc xe là tất cả động năng.",
+    "option_c": "Năng lượng cơ học của chiếc xe là tất cả tích năng.",
+    "option_d": "Năng lượng cơ học của chiếc xe được chia đều giữa năng lượng tiềm năng và động năng."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7090738",
+    "answer": "A",
+    "instruction": "Câu hỏi nào có thể được trả lời thông qua nghiên cứu khoa học?",
+    "option_a": "Tia năng lượng mặt trời ảnh hưởng đến việc hình thành mây như thế nào?",
+    "option_b": "Tại sao hổ lại đẹp hơn thanh long?",
+    "option_c": "Môn học nào là tốt nhất để học đại học?",
+    "option_d": "Liệu con người có nên đầu tư vào du lịch không gian?"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7130883",
+    "answer": "B",
+    "instruction": "Một lớp kỹ thuật đã được hướng dẫn để phát triển một robot. Robot phải được thiết kế bằng năng lượng điện từ là nguồn điện duy nhất. Chủ đề nào là lớp kỹ thuật đang học?",
+    "option_a": "sử dụng pin và năng lượng hóa học",
+    "option_b": "cách sử dụng năng lượng bức xạ và thu bằng năng lượng mặt trời",
+    "option_c": "chuyển đổi năng lượng động thành năng lượng tiềm năng",
+    "option_d": "cách chuyển đổi năng lượng nhiệt thành năng lượng điện"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7190155",
+    "answer": "B",
+    "instruction": "Rất nhiều loài thực vật và động vật sống trong rừng mưa Amazon. Kết quả có thể xảy ra nhất định khi các khu vực rừng này bị chặt phá?",
+    "option_a": "tăng sự hiện diện của động vật",
+    "option_b": "giảm sản xuất oxy",
+    "option_c": "tăng lượng mưa",
+    "option_d": "giảm khí thải"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_177398",
+    "answer": "B",
+    "instruction": "Một chiếc xe di chuyển theo hướng đông-bắc với tốc độ 50 km/h tượng trưng cho điều gì sau đây?",
+    "option_a": "tốc độ",
+    "option_b": "vận tốc",
+    "option_c": "gia tốc",
+    "option_d": "giảm tốc"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7246995",
+    "answer": "C",
+    "instruction": "Một số tế bào thực vật cần năng lượng để vận chuyển chất dinh dưỡng xuyên qua màng tế bào. Loại biến đổi năng lượng nào mà các tế bào thực vật này sử dụng để đưa phân tử dinh dưỡng vào bên trong màng tế bào?",
+    "option_a": "năng lượng nhiệt thành năng lượng động",
+    "option_b": "năng lượng tiềm năng thành năng lượng ánh sáng",
+    "option_c": "năng lượng hóa học thành năng lượng động",
+    "option_d": "năng lượng động thành năng lượng tiềm năng"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_189490",
+    "answer": "A",
+    "instruction": "Sự quan sát của Gregor Mendel đối với cây đậu là một ví dụ về",
+    "option_a": "bằng chứng nghiên cứu hỗ trợ một lý thuyết khoa học.",
+    "option_b": "một kết luận được kiểm tra bằng giả thuyết.",
+    "option_c": "thử nghiệm ngẫu nhiên trong một thí nghiệm.",
+    "option_d": "bằng chứng cho và chống lại một mô hình khoa học."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7139790",
+    "answer": "C",
+    "instruction": "Một con bạch tuộc có các tế bào đặc biệt trong da gọi là tế bào sắc tố giúp bạch tuộc thay đổi màu sắc gần như ngay lập tức. Tế bào sắc tố này rất có thể giúp bạch tuộc",
+    "option_a": "bơi nhanh hơn.",
+    "option_b": "thở chậm hơn.",
+    "option_c": "ẩn nấp tránh kẻ săn mồi.",
+    "option_d": "điều hòa nhiệt độ cơ thể."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7282608",
+    "answer": "C",
+    "instruction": "Nước thải từ các ngôi nhà không phải đều giống nhau. Nước thải xám ám chỉ nước thải từ bồn rửa chén và bồn tắm. Nó không chứa chất thải sinh học của con người, vì vậy nó có thể tái sử dụng thay vì được xử lý như nước thải. Các việc sử dụng nước thải xám này cho thấy việc quản lý tài nguyên tốt là gì?",
+    "option_a": "rửa chén và uống",
+    "option_b": "uống và tưới hoa giường",
+    "option_c": "tưới hoa giường và tưới cây",
+    "option_d": "tưới cây và rửa chén"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7145513",
+    "answer": "B",
+    "instruction": "Các quá trình sống yêu cầu năng lượng. Các quá trình sinh hoá liên quan đến các phản ứng cụ thể. Đặc điểm nào của các quá trình sinh hoá là chung cho tất cả động vật?",
+    "option_a": "hoạt động ở bất kỳ mức độ pH nào",
+    "option_b": "nhiệt được giải phóng như một sản phẩm",
+    "option_c": "chỉ sử dụng quá trình hô hấp không khí",
+    "option_d": "lượng năng lượng hấp thụ"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7018148",
+    "answer": "B",
+    "instruction": "PHẦN LỚN các nguyên tố được tìm thấy trên Bảng tuần hoàn các Nguyên tố là",
+    "option_a": "khí.",
+    "option_b": "kim loại.",
+    "option_c": "chất lỏng.",
+    "option_d": "phi kim."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_401294",
+    "answer": "B",
+    "instruction": "Hình dạng lá của cây trồng sống tốt trong khí hậu mưa nhiều thường là",
+    "option_a": "đỏ và bóng.",
+    "option_b": "rộng và phẳng.",
+    "option_c": "dày và nhẫn.",
+    "option_d": "sắc và hẹp."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7207410",
+    "answer": "C",
+    "instruction": "Người theo đuổi cơn bão là những người tiến cận gần với cơn bão để quan sát và đo đạc. Kiến thức mà những người theo đuổi cơn bão đóng góp đã giúp cải tiến những lý thuyết về hình thành cơn bão như thế nào?",
+    "option_a": "quan điểm của họ về tổn hại của cơn bão",
+    "option_b": "kinh nghiệm cá nhân của họ trong cơn bão",
+    "option_c": "dữ liệu của họ thu thập được ở đầu cơn bão",
+    "option_d": "niềm nhiệt tình của họ trong nghiên cứu những cơn bão khác nhau"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_8_2015_11",
+    "answer": "A",
+    "instruction": "Trong các lựa chọn dưới đây, điều nào mô tả tốt nhất khối lượng của một khối băng rắn?",
+    "option_a": "lượng vật chất trong khối",
+    "option_b": "không gian mà khối chiếm",
+    "option_c": "lực hấp dẫn tác động lên khối",
+    "option_d": "khoảng cách giữa các phân tử trong khối"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7201705",
+    "answer": "A",
+    "instruction": "Ở nhiều nơi trên thế giới, đất quá khô cằn để canh tác được sử dụng cho chăn nuôi gia súc. Thả quá nhiều gia súc có thể phá hủy các loài thực vật bản địa và làm suy yếu lớp đất tự nhiên. Làm sao thả quá mức gia súc có thể gây sa mạc hóa?",
+    "option_a": "bằng cách tăng tốc độ mòn lớp đất mặt",
+    "option_b": "bằng cách cho các loài không bản địa lan rộng trên đất",
+    "option_c": "bằng cách giảm lượng thức ăn có sẵn cho gia súc",
+    "option_d": "bằng cách làm cho đất hấp thụ mưa nhanh hơn"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7133858",
+    "answer": "B",
+    "instruction": "Vật liệu có thể trải qua các thay đổi khác nhau. Thay đổi nào dưới đây là phản ứng hóa học nhất?",
+    "option_a": "Muối tan chảy",
+    "option_b": "Gỗ đốt cháy",
+    "option_c": "Nước sôi",
+    "option_d": "Nước đá tan chảy"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2003_5_31",
+    "answer": "D",
+    "instruction": "Trong các hành vi sau đây, hành vi nào không phải là bản năng?",
+    "option_a": "một con chim xây tổ",
+    "option_b": "một con rùa lấp đất vào trứng của nó",
+    "option_c": "một con gấu ngủ đông vào mùa đông",
+    "option_d": "một con ngựa kéo cái cày"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7198380",
+    "answer": "D",
+    "instruction": "Các loài gặm nhấm thực vật khác nhau sống trong cùng sinh thái hệ. Nhân tố nào có khả năng tăng lên nhiều nhất, gây ra sự cạnh tranh về tài nguyên giữa các loài gặm nhấm?",
+    "option_a": "sự đậu trường của đất",
+    "option_b": "số lượng nhà sản xuất trong khu vực",
+    "option_c": "lượng mảnh vụn thức ăn được để lại bởi lãnh thổ động vật",
+    "option_d": "tốc độ di chuyển của người tiêu dùng chính vào khu vực"
+  },
+  {
+    "id": "ARC-Challenge/validation/LEAP_2012_8_10441",
+    "answer": "C",
+    "instruction": "Một loài thằn lằn chủ yếu ăn trái cây của một loại cây cụ thể. Nếu một virus giết chết hầu hết các cây này, con thằn lằn nào sẽ có khả năng sống sót nhất?",
+    "option_a": "thằn lằn có thể leo cao hơn trên cây trái",
+    "option_b": "thằn lằn có màu sắc đậm hơn",
+    "option_c": "thằn lằn có thể tìm thấy các loại thức ăn khác",
+    "option_d": "thằn lằn sinh sản nhiều con hơn"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7217053",
+    "answer": "B",
+    "instruction": "Tiến hóa sinh học có thể xảy ra thông qua tất cả các quá trình bên dưới, trừ:",
+    "option_a": "cạnh tranh.",
+    "option_b": "hoá thạch hóa.",
+    "option_c": "biến thiên.",
+    "option_d": "thích nghi."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7233660",
+    "answer": "C",
+    "instruction": "Một số nhà khoa học lý thuyết hóa rằng chuyển động tấm lục địa có thể thay đổi mực nước biển trên Trái đất. Tính chất của chuyển động tấm lục địa sẽ hạn chế những thay đổi khả thi nào trong mực nước biển?",
+    "option_a": "bằng cách chỉ gây ra những thay đổi nhỏ",
+    "option_b": "bằng cách thay đổi chỉ một vài lưu vực đại dương cụ thể",
+    "option_c": "bằng cách gây ra những thay đổi xảy ra ở tốc độ rất chậm",
+    "option_d": "bằng cách gây ra những thay đổi đôi đối với nhau với hiệu ứng đối lập và bằng nhau"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7115395",
+    "answer": "A",
+    "instruction": "Những thay đổi nào có thể ảnh hưởng tiêu cực đến hệ sinh thái nhất?",
+    "option_a": "xây dựng đường",
+    "option_b": "trồng cây",
+    "option_c": "thêm nguồn nước ngọt",
+    "option_d": "tạo khu bảo tồn thiên nhiên"
+  },
+  {
+    "id": "ARC-Challenge/validation/MSA_2013_8_3",
+    "answer": "D",
+    "instruction": "Các nhà địa chất đã xác định ra bảy tấm kiến tectonic chính tại bề mặt Trái Đất. Bằng chứng nào cho biết rằng các tấm kiến tectonic va chạm với nhau nhất?",
+    "option_a": "Gió bào mòn các hình thái đá bề mặt.",
+    "option_b": "Hóa thạch có từ hàng nghìn năm trước.",
+    "option_c": "Các viên đá nhỏ bị bỏ lại khi sông băng rút lại.",
+    "option_d": "Các tầng đá cũ hơn đặt phía trên tầng đá mới hơn."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7205135",
+    "answer": "C",
+    "instruction": "Làm thế nào các hạt trong một khối sắt bị ảnh hưởng khi khối sắt được nấu chảy?",
+    "option_a": "Các hạt nặng hơn.",
+    "option_b": "Các hạt chứa ít năng lượng hơn.",
+    "option_c": "Các hạt di chuyển nhanh hơn.",
+    "option_d": "Khối lượng các hạt tăng lên."
+  },
+  {
+    "id": "ARC-Challenge/validation/ACTAAP_2010_5_10",
+    "answer": "A",
+    "instruction": "Sara bật đèn pin và giơ một vật lên ánh sáng. Làm thế nào để cô ấy biết được vật đó là vật không trong suốt?",
+    "option_a": "Không có ánh sáng nào lọt vào được.",
+    "option_b": "Một số ánh sáng sẽ phản xạ.",
+    "option_c": "Ánh sáng sẽ bị uốn theo một góc độ.",
+    "option_d": "Ánh sáng sẽ lọt vào được một cách rõ ràng."
+  },
+  {
+    "id": "ARC-Challenge/validation/TIMSS_2003_8_pg29",
+    "answer": "E",
+    "instruction": "Cơ quan nào SAU ĐÂY KHÔNG đặt ở bụng?",
+    "option_a": "gan",
+    "option_b": "thận",
+    "option_c": "dạ dày",
+    "option_d": "bàng quang",
+    "option_e": "tim"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7181685",
+    "answer": "A",
+    "instruction": "Đặc điểm về màu sắc của hoa rất đa dạng ở một số loài cây hoa hồng, dẫn đến sự hình thành của các loài hoa có màu sắc khác nhau. Làm thế nào để sự đa dạng về màu sắc của hoa trong cây hoa hồng đã xuất hiện?",
+    "option_a": "thông qua đột biến",
+    "option_b": "thông qua thụ phấn",
+    "option_c": "thông qua tự nhiên lựa chọn",
+    "option_d": "thông qua sự sinh sản không kết hợp"
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2011_5_20",
+    "answer": "D",
+    "instruction": "Chuột túi tuyết lột lông hai lần mỗi năm. Vào mùa hè, lông của chuột túi có màu nâu. Vào mùa đông, lông của chúng có màu trắng. Câu nào sau đây là giải thích tốt nhất cho lý do chuột túi lột lông?",
+    "option_a": "Lột lông giúp chuột túi giữ gìn sạch sẽ.",
+    "option_b": "Lột lông giúp chuột túi di chuyển nhanh hơn.",
+    "option_c": "Lột lông giữ cho nhà của chuột túi được ấm áp.",
+    "option_d": "Lột lông giúp chuột túi hòa nhập vào môi trường sống của chúng."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7008120",
+    "answer": "A",
+    "instruction": "Các ngôi sao nhị phân được sử dụng bởi các nhà khoa học để xác định khối lượng của một ngôi sao.",
+    "option_a": "khối lượng.",
+    "option_b": "độ sáng.",
+    "option_c": "khoảng cách từ Trái đất.",
+    "option_d": "khoảng cách từ Mặt Trời."
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_13",
+    "answer": "B",
+    "instruction": "Một cậu bé có thể nhìn thấy khuôn mặt của mình khi nhìn vào một cái ao yên tĩnh. Thuộc tính vật lý nào của cái ao làm cho điều này xảy ra?",
+    "option_a": "độ dẻo dai",
+    "option_b": "khả năng phản chiếu",
+    "option_c": "nhiệt độ",
+    "option_d": "thể tích"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_1",
+    "answer": "B",
+    "instruction": "Một học sinh đã gieo hai hạt đậu trong hai chiếc chậu giống nhau chứa cùng loại đất. Anh ấy đặt một chậu trong tủ quần áo và chậu còn lại gần cửa sổ có nắng. Mỗi ngày, anh ấy đổ 15 milliliters nước vào mỗi chậu. Yếu tố nào khác nhau giữa hai chậu?",
+    "option_a": "lượng nước",
+    "option_b": "lượng ánh sáng",
+    "option_c": "loại đất",
+    "option_d": "loại hạt giống"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7141698",
+    "answer": "B",
+    "instruction": "Khi có sấm sét xảy ra, nó làm nóng không khí xung quanh. Khí nóng được mở rộng và tạo ra tiếng sấm. Năng lượng của sấm sét được chuyển đổi thành loại năng lượng nào để tạo ra tiếng sấm?",
+    "option_a": "điều chế",
+    "option_b": "cơ học",
+    "option_c": "hạt nhân",
+    "option_d": "bức xạ"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_407314",
+    "answer": "A",
+    "instruction": "Hai lớp học đã tiến hành cùng một cuộc điều tra. Mỗi lớp có kết quả khác nhau. Phương pháp tốt nhất cho học sinh xác định tại sao kết quả khác nhau là gì?",
+    "option_a": "Xem xét các bước đã thực hiện trong cuộc điều tra.",
+    "option_b": "Thay đổi giả thuyết của cuộc điều tra.",
+    "option_c": "Nghiên cứu dữ liệu về các cuộc điều tra tương tự.",
+    "option_d": "Tiến hành một cuộc điều tra khác."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_406781",
+    "answer": "C",
+    "instruction": "Sự tương tác nào giữa động vật làm tốt nhất để kiểm soát dân số của một loài?",
+    "option_a": "Động vật hoang dã đánh dấu lãnh thổ của mình",
+    "option_b": "Cá remora đi cùng cá mập",
+    "option_c": "Sư tử săn mồi lên vằn",
+    "option_d": "Bầy sói đi lại theo nhóm"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400845",
+    "answer": "B",
+    "instruction": "Sấm sét có thể tạo ra tất cả các dạng năng lượng sau trừ",
+    "option_a": "năng lượng nhiệt.",
+    "option_b": "năng lượng mặt trời.",
+    "option_c": "năng lượng ánh sáng.",
+    "option_d": "năng lượng điện."
+  },
+  {
+    "id": "ARC-Challenge/validation/ACTAAP_2009_5_5",
+    "answer": "B",
+    "instruction": "Janet được cho một số khoáng vật để xác định. Một trong những mẫu của cô ấy có màu vàng. Khoáng vật nào trong các lựa chọn sau đây là có khả năng cao màu vàng?",
+    "option_a": "Talc",
+    "option_b": "Lưu huỳnh (Sulfur)",
+    "option_c": "Thạch cao (Gypsum)",
+    "option_d": "Hematite"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7171938",
+    "answer": "D",
+    "instruction": "Thủy triều của Địa Trái Đất bị ảnh hưởng mạnh bởi Mặt Trăng. Trong các giai đoạn sao trăng nào thủy triều thấp nhất trên Trái Đất?",
+    "option_a": "trăng tròn và trăng sáng đầy đủ",
+    "option_b": "trăng đầy và trăng mới",
+    "option_c": "sáng cuối và trăng mới",
+    "option_d": "sáng đầu và sáng cuối"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415354",
+    "answer": "C",
+    "instruction": "Hành vi nào trong những hành vi sau mà cá heo có thể học được?",
+    "option_a": "ăn cá nhỏ",
+    "option_b": "bơi trong nước mặn",
+    "option_c": "cân bằng quả bóng trên mũi",
+    "option_d": "thở qua lỗ thở"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_17",
+    "answer": "C",
+    "instruction": "Đặc điểm nào mèo có thể thừa hưởng từ cha mẹ của nó?",
+    "option_a": "có sẹo",
+    "option_b": "đuổi đồ chơi",
+    "option_c": "có lông trắng",
+    "option_d": "biết tên của nó"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7251685",
+    "answer": "B",
+    "instruction": "Hoạt động nào mang lại hiệu quả cao nhất trong việc đảm bảo chức năng đúng đắn của tế bào xương?",
+    "option_a": "tăng tần suất hô hấp",
+    "option_b": "tiêu thụ thực phẩm giàu khoáng chất",
+    "option_c": "giảm tập luyện căng thẳng",
+    "option_d": "uống nước không chứa ion"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7267995",
+    "answer": "C",
+    "instruction": "Một số loài thực vật và động vật phụ thuộc lẫn nhau. Loài động vật nào sau đây giúp hàng ngàn loài thực vật giao phối?",
+    "option_a": "Sóc",
+    "option_b": "Sâu đất",
+    "option_c": "Ong mật",
+    "option_d": "Bọ cánh cứng"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7193043",
+    "answer": "B",
+    "instruction": "Những loại cây không bản địa có thể chiếm đóng các khu vực từng được bao phủ bởi các loại cây bản địa. Quá trình phi sinh thái nào ít có khả năng gây ra sự xâm nhập của các loại cây không bản địa?",
+    "option_a": "lụt",
+    "option_b": "phong hóa",
+    "option_c": "các trận bão cát",
+    "option_d": "những sông băng tan ra"
+  },
+  {
+    "id": "ARC-Challenge/validation/VASoL_2008_5_28",
+    "answer": "C",
+    "instruction": "Tàu ngầm đã khám phá nhiều bộ phận của đại dương. Khi tàu ngầm đi xuống, các nhà khoa học quan sát rằng có sự tăng về -",
+    "option_a": "lượng ánh sáng",
+    "option_b": "nhiệt độ nước",
+    "option_c": "áp suất nước",
+    "option_d": "các loài sinh vật đại dương"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7154263",
+    "answer": "B",
+    "instruction": "Phytoplankton là những loài vi sinh vật giống cây nhỏ bé, sống phân tán trong các nguồn nước như đại dương. Chúng hấp thụ khí carbon dioxide trong quá trình quang hợp. Điều gì sẽ xảy ra nếu dân số của phytoplankton bị tiêu diệt?",
+    "option_a": "Nhiệt độ biển sẽ giảm.",
+    "option_b": "Khí nhà kính sẽ tăng.",
+    "option_c": "Lượng oxy trong khí quyển sẽ tăng.",
+    "option_d": "Mực nước biển sẽ giảm mạnh."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7032743",
+    "answer": "C",
+    "instruction": "Đặc điểm nào của hổ mang tích cực hơn để học hỏi hơn là thừa kế?",
+    "option_a": "tốc độ",
+    "option_b": "bộ lông đốm",
+    "option_c": "chiến lược săn mồi",
+    "option_d": "móng vuốt không thể thu vào được"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_19",
+    "answer": "B",
+    "instruction": "Khi mèo con trưởng thành, trọng lượng cơ thể của chúng thường",
+    "option_a": "giảm",
+    "option_b": "tăng",
+    "option_c": "giữ nguyên"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7115273",
+    "answer": "C",
+    "instruction": "Sự phát triển lớn của tảo trên mặt hồ làm cho yếu tố phiotic nào không thể đến được đáy hồ?",
+    "option_a": "nước",
+    "option_b": "muối",
+    "option_c": "ánh sáng",
+    "option_d": "oxy"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7205555",
+    "answer": "A",
+    "instruction": "Nước có nhiều tính chất hóa học đặc biệt. Tính chất nào của nước làm cho nước trở thành một dung môi tốt của các muối tinh thể?",
+    "option_a": "độ phân cực mạnh",
+    "option_b": "điện dẫn kém",
+    "option_c": "độ nhớt cao",
+    "option_d": "độ pH thấp"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7192990",
+    "answer": "A",
+    "instruction": "Các đám cháy rừng xảy ra ở nhiều khu vực do điều kiện hạn hán. Nếu điều kiện hạn hán tiếp tục kéo dài trong một khoảng thời gian dài, điều này có thể gây nguy hiểm cho sự tái sinh của cây?",
+    "option_a": "giảm độ dày của đất",
+    "option_b": "giảm lượng xói mòn",
+    "option_c": "tăng số lượng vi khuẩn",
+    "option_d": "tăng sản xuất oxi"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_408859",
+    "answer": "A",
+    "instruction": "Cá sấu Mỹ thường xuất hiện ở các vùng đầm lầy ở Florida. Chúng được biết đến là ăn ếch, rùa, cá, chuột và chim. Vai trò nào mà một con cá sấu Mỹ đóng trong hệ sinh thái của nó?",
+    "option_a": "người tiêu dùng",
+    "option_b": "phân hủy sinh vật",
+    "option_c": "thợ săn thiếu sống",
+    "option_d": "nhà sản xuất"
+  },
+  {
+    "id": "ARC-Challenge/validation/TIMSS_2007_4_pg90",
+    "answer": "C",
+    "instruction": "Sue đo lường mức độ đường sẽ tan trong một cốc nước lạnh, một cốc nước ấm và một cốc nước nóng. Cô ấy có thể quan sát được điều gì nhất là đúng?",
+    "option_a": "Nước lạnh tan được nhiều đường nhất.",
+    "option_b": "Nước ấm tan được nhiều đường nhất.",
+    "option_c": "Nước nóng tan được nhiều đường nhất.",
+    "option_d": "Nước lạnh, nước ấm và nước nóng đều tan được cùng lượng đường."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_180058",
+    "answer": "A",
+    "instruction": "Một hóa thạch được phát hiện tại Colorado được xác nhận có niên đại từ đầu kỷ Mesozoic. Một năm sau, một hóa thạch tương tự được phát hiện ở Wyoming cũng có niên đại từ đầu kỷ Mesozoic. Hai sinh vật này có khả năng đã sống trong",
+    "option_a": "môi trường giống nhau vào thời điểm gần nhất.",
+    "option_b": "môi trường giống nhau trong các thời điểm khác nhau.",
+    "option_c": "những môi trường khác nhau vào thời điểm gần nhau.",
+    "option_d": "những môi trường khác nhau trong các thời điểm khác nhau."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400050",
+    "answer": "C",
+    "instruction": "Khi nhiệt độ trong nhà thấp hơn nhiệt độ được chọn trên bộ điều khiển nhiệt độ thì điều gì sẽ xảy ra?",
+    "option_a": "Lò sưởi sẽ quá nóng.",
+    "option_b": "Bộ điều khiển nhiệt độ sẽ trở nên nóng.",
+    "option_c": "Lò sưởi sẽ tự động bật.",
+    "option_d": "Bộ điều khiển nhiệt độ sẽ phát ra âm thanh bíp."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_1998_8_13",
+    "answer": "D",
+    "instruction": "Vấn đề tranh cãi chính nào không liên quan đến việc sử dụng năng lượng hạt nhân?",
+    "option_a": "việc xử lý các sản phẩm chất thải hạt nhân",
+    "option_b": "những nguy hiểm về sức khỏe tại các khu vực xung quanh nhà máy hạt nhân",
+    "option_c": "sự ô nhiễm nhiệt của các cơ sở nước sử dụng để làm mát",
+    "option_d": "tình trạng thất nghiệp do chuyển sang năng lượng điện hạt nhân"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_4",
+    "answer": "A",
+    "instruction": "Chất thể nào không có khối lượng xác định và hình dạng xác định?",
+    "option_a": "khí",
+    "option_b": "chất lỏng",
+    "option_c": "chất rắn"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7233678",
+    "answer": "A",
+    "instruction": "Các nhà khoa học tin rằng sự di chuyển lục địa trong lịch sử địa chất của Trái đất đã ảnh hưởng đáng kể đến các chu kỳ của Trái đất về khí hậu ấm hơn hoặc lạnh hơn. Điều nào mô tả đặc điểm của các lục địa trên Trái đất có khả năng gây ra thay đổi trong khí hậu toàn cầu khi chúng di chuyển?",
+    "option_a": "Vị trí của lục địa ảnh hưởng đến khả năng phản xạ bề mặt của nó.",
+    "option_b": "Độ sâu của các mảng lục địa xác định nhiệt dung cụ thể của chúng.",
+    "option_c": "Sự di chuyển lục địa hấp thụ lượng năng lượng động lớn.",
+    "option_d": "Nhiệt độ của một lục địa bị ảnh hưởng bởi đại dương gần nhất của nó."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_LBS10666",
+    "answer": "B",
+    "instruction": "Thực vật thường không cần ăn các sinh vật khác vì thực vật",
+    "option_a": "không cần năng lượng thực phẩm để sống.",
+    "option_b": "biến ánh sáng thành năng lượng thực phẩm.",
+    "option_c": "lấy toàn bộ năng lượng thực phẩm từ đất.",
+    "option_d": "giữ năng lượng thực phẩm được lưu trữ trong rễ của chúng."
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_8_38",
+    "answer": "A",
+    "instruction": "Một chất trong trạng thái rắn có",
+    "option_a": "hình dạng và thể tích xác định",
+    "option_b": "hình dạng xác định, nhưng không có thể tích xác định",
+    "option_c": "không có hình dạng xác định, nhưng có thể tích xác định",
+    "option_d": "không có hình dạng xác định và không có thể tích xác định"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2004_8_28",
+    "answer": "A",
+    "instruction": "Nếu bóng golf được chuyển từ Trái đất lên Mặt trăng, các đặc tính có thể đo được của nó sẽ thay đổi như thế nào?",
+    "option_a": "Nó sẽ có cùng khối lượng nhưng trọng lượng khác nhau.",
+    "option_b": "Nó sẽ có cùng trọng lượng nhưng khối lượng khác nhau.",
+    "option_c": "Nó sẽ có cùng mật độ nhưng khối lượng khác nhau.",
+    "option_d": "Nó sẽ có cùng khối lượng nhưng mật độ khác nhau."
+  },
+  {
+    "id": "ARC-Challenge/validation/LEAP__7_10354",
+    "answer": "D",
+    "instruction": "Giáo viên khoa học của Joanne đã cảnh báo lớp học nên hoài nghi khi tìm hiểu về những khám phá khoa học mới. Tại sao việc hoài nghi về những khám phá khoa học mới lại quan trọng?",
+    "option_a": "bởi vì nhiều khám phá khoa học không dựa trên sự thật",
+    "option_b": "bởi vì phần lớn các khám phá khoa học không có giá trị khoa học",
+    "option_c": "bởi vì phần lớn các nhà khoa học mắc lỗi khi sáng tạo ra những khám phá khoa học",
+    "option_d": "bởi vì tất cả những khám phá khoa học phải được kiểm tra một cách phản biện trước khi được chấp nhận"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2003_8_25",
+    "answer": "B",
+    "instruction": "Trong ô tô, thành phần nào sau đây được thiết kế đặc biệt để đưa phản hồi cho tài xế?",
+    "option_a": "vô lăng",
+    "option_b": "đồng hồ tốc độ",
+    "option_c": "pedal phanh",
+    "option_d": "chìa khóa xe"
+  },
+  {
+    "id": "ARC-Challenge/validation/TIMSS_2011_8_pg63",
+    "answer": "C",
+    "instruction": "Trong các định nghĩa sau, cái nào nói về hợp chất?",
+    "option_a": "Các chất khác nhau được trộn lẫn với nhau",
+    "option_b": "Các nguyên tử và phân tử được trộn lẫn với nhau",
+    "option_c": "Các nguyên tử của các nguyên tố khác nhau kết hợp với nhau",
+    "option_d": "Các nguyên tử của cùng một nguyên tố kết hợp với nhau"
+  },
+  {
+    "id": "ARC-Challenge/validation/AIMS_2009_4_29",
+    "answer": "D",
+    "instruction": "Một tủ lạnh sử dụng điện để tạo ra một nơi lạnh để lưu trữ thực phẩm. Tác động tiêu cực nào mà việc sử dụng tủ lạnh gây ra cho môi trường?",
+    "option_a": "Việc sử dụng nhiên liệu điện để làm lạnh thực phẩm có thể tốn kém.",
+    "option_b": "Nếu điện mất đi, thực phẩm sẽ bị hỏng và khiến bạn ốm.",
+    "option_c": "Lưu trữ thực phẩm lâu hơn giảm số lần đi mua sắm và sử dụng xăng dầu.",
+    "option_d": "Tủ lạnh cũ chứa hóa chất và chiếm diện tích trong bãi chôn rác."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_LBS10472",
+    "answer": "B",
+    "instruction": "Cây có các mô chuyên biệt ở đầu thân cây. Những mô này giúp cây làm gì?",
+    "option_a": "tiêu hóa thức ăn",
+    "option_b": "phát triển cao hơn",
+    "option_c": "tạo thức ăn",
+    "option_d": "hấp thụ nước"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415491",
+    "answer": "C",
+    "instruction": "Trái đất quay quanh Mặt trời một vòng trong một năm. Khoảng bao nhiêu lần mặt trăng quay quanh Trái đất trong một năm?",
+    "option_a": "1",
+    "option_b": "7",
+    "option_c": "13",
+    "option_d": "28"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2011_5_17673",
+    "answer": "A",
+    "instruction": "Jose có hai nam châm thanh đứng. Anh ta đẩy hai đầu của hai nam châm lại gần nhau và sau đó thả ra. Hai nam châm xa nhau nhanh chóng. Lựa chọn nào sau đây giải thích tốt nhất tại sao điều này xảy ra?",
+    "option_a": "Các cực Bắc của hai nam châm đang đối diện nhau.",
+    "option_b": "Một nam châm là cực Bắc và một nam châm là cực Nam.",
+    "option_c": "Đầu nam châm đẩy lẫn nhau nhưng tâm nam châm hút nhau.",
+    "option_d": "Một nam châm đang tích trữ năng lượng và một nam châm đang giải phóng năng lượng."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_416648",
+    "answer": "A",
+    "instruction": "Cá nhân và volvox đều có thể tái sản sinh bằng phương pháp sinh dục. Sự khác nhau giữa sự sinh sản tình dục của volvox và cá nhân là gì?",
+    "option_a": "Các đám vi sinh vật volvox sản xuất gamet.",
+    "option_b": "Các tế bào volvox trải qua quá trình liên kết.",
+    "option_c": "Các đám vi sinh vật volvox sản xuất con cái đơn bào.",
+    "option_d": "Các tế bào volvox sinh sản bằng phương pháp nảy mầm thân thuộc."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7207620",
+    "answer": "A",
+    "instruction": "Một số dụng cụ ghi lại mức độ ôxy trong tầng ozon thuộc không khí của Trái Đất. Ghi lại dữ liệu này trong nhiều năm là một ví dụ về",
+    "option_a": "xây dựng bằng chứng thông qua việc điều tra liên tục.",
+    "option_b": "xác định giả thiết hỗ trợ dữ liệu.",
+    "option_c": "đưa ra kết luận về bằng chứng từ kết quả.",
+    "option_d": "đề xuất dữ liệu dễ hiểu."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7164850",
+    "answer": "A",
+    "instruction": "Một lớp học Khoa học đã thiết kế một áp phích để cho thấy sự hình thành các đảo chắn sóng dọc theo bờ biển Florida. Các học sinh đã cho thấy tác động của gió, sóng và thủy triều lên cát tạo nên các đảo này. Trong áp phích, cặp hệ thống nào mà các học sinh nên nói ảnh hưởng nhất đến sự hình thành các đảo chắn sóng?",
+    "option_a": "thủy quyển và khí quyển",
+    "option_b": "khí quyển và đá lít",
+    "option_c": "sinh quyển và thủy quyển",
+    "option_d": "đá lít và sinh quyển"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7011270",
+    "answer": "B",
+    "instruction": "Khoảng bao lâu mặt trăng cần để hoàn thành một vòng quanh Trái đất?",
+    "option_a": "7 ngày",
+    "option_b": "30 ngày",
+    "option_c": "90 ngày",
+    "option_d": "365 ngày"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7090598",
+    "answer": "C",
+    "instruction": "Quá trình nào liên quan đến việc chuyển đi một lượng lớn nhiệt năng?",
+    "option_a": "công nghiệp hóa",
+    "option_b": "kết tủa",
+    "option_c": "phủ bì",
+    "option_d": "cố kết"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_412337",
+    "answer": "D",
+    "instruction": "Trong quá trình điều tra, nhiệt được truyền từ chất lỏng đến môi trường xung quanh. Cặp giải thích nào sau đây có thể giải thích được kết quả này tốt nhất?",
+    "option_a": "Nhiệt độ của chất lỏng tăng, hoặc chất lỏng trở thành khí.",
+    "option_b": "Nhiệt độ của chất lỏng tăng, hoặc chất lỏng trở thành rắn.",
+    "option_c": "Nhiệt độ của chất lỏng giảm, hoặc chất lỏng trở thành khí.",
+    "option_d": "Nhiệt độ của chất lỏng giảm, hoặc chất lỏng trở thành rắn."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_1998_8_2",
+    "answer": "C",
+    "instruction": "Cấu trúc tế bào làm cho tế bào thực vật cứng hơn tế bào động vật có tên là gì?",
+    "option_a": "Màng tế bào.",
+    "option_b": "Hồng cầu.",
+    "option_c": "Tường tế bào.",
+    "option_d": "Ri bô xơ."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7124338",
+    "answer": "D",
+    "instruction": "Đầu óc chủ động hỏi và suy nghĩ sẽ rất hữu ích cho một nhà khoa học vì nó sẽ đưa nhà khoa học đến ",
+    "option_a": "trở nên sáng tạo hơn.",
+    "option_b": "không tin tưởng vào công việc của các nhà khoa học khác.",
+    "option_c": "làm việc để chấp nhận các giả thiết được xuất bản.",
+    "option_d": "tiến hành nghiên cứu để xác nhận hoặc bác bỏ các lý thuyết."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_405454",
+    "answer": "D",
+    "instruction": "Công cụ nào để nấu ăn thay đổi môi trường ít nhất?",
+    "option_a": "lò nướng gas",
+    "option_b": "chảo chiên điện",
+    "option_c": "lò vi sóng",
+    "option_d": "bếp nắng"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7007875",
+    "answer": "B",
+    "instruction": "Nhân tố nào tạo ra gió?",
+    "option_a": "tác động của sóng",
+    "option_b": "năng lượng mặt trời",
+    "option_c": "cây đang lay động",
+    "option_d": "lực hấp dẫn"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_417146",
+    "answer": "A",
+    "instruction": "Hầu hết khí oxi trong khí quyển được sản xuất bởi tảo. Tảo sống chủ yếu ở đâu?",
+    "option_a": "vùng ven biển",
+    "option_b": "đại dương sâu",
+    "option_c": "ao hồ nhỏ",
+    "option_d": "hồ lớn"
+  },
+  {
+    "id": "ARC-Challenge/validation/LEAP_2004_8_10397",
+    "answer": "B",
+    "instruction": "Khi người ta đi trên Mặt Trăng, họ thấy mình có thể nhảy cao hơn làm trên Trái Đất. Tại sao điều này lại đúng?",
+    "option_a": "Không khí trên Mặt Trăng không có.",
+    "option_b": "Mặt Trăng tạo ra lực hút nhỏ hơn Trái Đất.",
+    "option_c": "Bộ đồ không gian giúp họ nhảy cao hơn.",
+    "option_d": "Mặt Trăng quay nhanh hơn Trái Đất."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_407695",
+    "answer": "D",
+    "instruction": "Juan và LaKeisha lăn các vật dụng xuống dốc. Họ muốn xem cái nào lăn xa nhất. Họ nên làm gì để có thể lặp lại cuộc điều tra của mình?",
+    "option_a": "Chia các vật dụng thành các nhóm.",
+    "option_b": "Thay đổi độ cao của dốc.",
+    "option_c": "Chọn các vật dụng khác để lăn.",
+    "option_d": "Ghi lại các chi tiết của cuộc điều tra."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7158673",
+    "answer": "D",
+    "instruction": "Ana là một vận động viên chạy địa hình. Sau khi kết thúc cuộc đua, cô ấy nhận ra rằng cô ấy cảm thấy nóng do sự giải phóng năng lượng nhiệt. Nguồn năng lượng nhiệt nào là khả năng cao nhất?",
+    "option_a": "ma sát từ không khí",
+    "option_b": "nhiệt được hấp thụ từ mặt trời",
+    "option_c": "năng lượng cơ học được hấp thụ",
+    "option_d": "chuyển đổi năng lượng xảy ra trong cơ thể của cô ấy"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7018515",
+    "answer": "C",
+    "instruction": "Lý do có thể chính xác nhất khiến âm thanh truyền nhanh hơn trong nước mặn so với nước ngọt là do nước mặn",
+    "option_a": "đàn hồi hơn.",
+    "option_b": "hấp thụ nhiệt nhanh hơn.",
+    "option_c": "có mật độ cao hơn.",
+    "option_d": "phản xạ âm thanh tốt hơn."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_412551",
+    "answer": "D",
+    "instruction": "Cú đêm có hai màu sắc khác nhau là đỏ và xám. Cú đêm màu xám có lợi thế gì hơn so với cú đêm màu đỏ trong môi trường sống bao gồm các cây có vỏ sồi màu đậm?",
+    "option_a": "Làm tổ",
+    "option_b": "Cho ăn",
+    "option_c": "Giống",
+    "option_d": "Trốn tránh"
+  },
+  {
+    "id": "ARC-Challenge/validation/VASoL_2008_5_19",
+    "answer": "D",
+    "instruction": "Ba vận động viên bóng chày điều tra xem ai có thể ném bóng chày xa nhất. Họ đánh dấu một khu vực trên sân chơi cho cuộc điều tra của họ. Họ nên giữ điều gì là không đổi?",
+    "option_a": "Chiều cao của các vận động viên",
+    "option_b": "Màu sắc của những quả bóng chày được ném",
+    "option_c": "Thứ tự các vận động viên ném",
+    "option_d": "Vị trí mà các vận động viên đứng để ném"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7120890",
+    "answer": "A",
+    "instruction": "Cái nào miêu tả tốt nhất việc sóng truyền năng lượng?",
+    "option_a": "chuông đang reo tại một tòa nhà",
+    "option_b": "một chiếc lá rơi từ cây",
+    "option_c": "một quả bóng trượt xuống đồi",
+    "option_d": "một lá cờ lung lay trong gió"
+  },
+  {
+    "id": "ARC-Challenge/validation/AKDE&ED_2008_8_44",
+    "answer": "A",
+    "instruction": "Đặc điểm nào chỉ áp dụng cho động vật thuộc một trong các nhóm phân loại sau đây: bò sát, thú, chim, lưỡng cư, hoặc cá?",
+    "option_a": "có lông",
+    "option_b": "đẻ trứng",
+    "option_c": "có chân lướt nước",
+    "option_d": "hô hấp bằng mang"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415348",
+    "answer": "D",
+    "instruction": "Đặc điểm di truyền nào của một cây là được kế thừa?",
+    "option_a": "một nhánh cây thông bị gãy",
+    "option_b": "một hốc trên cây sồi",
+    "option_c": "một vết sẹo trên cây phong",
+    "option_d": "một thân cây nảy lớn trên cây hồ đào"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7014368",
+    "answer": "C",
+    "instruction": "Dòng dài duy trì là những cơn sóng đại dương đánh vào bãi biển với góc rất nhỏ. Ở những khu vực có dòng dài duy trì, chúng ảnh hưởng như thế nào đến các khu vực đất liền?",
+    "option_a": "Chúng xây dựng các dãy núi.",
+    "option_b": "Chúng gây ra động đất.",
+    "option_c": "Chúng di chuyển cát, tạo ra cồn cát.",
+    "option_d": "Chúng tạo ra các con sông muối nội địa."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7245193",
+    "answer": "C",
+    "instruction": "Một khu vực nông thôn đã được lấy đi hết đất để xây dựng đường, nhưng không bao giờ xây đường. Khu vực bắt đầu mọc lại. Loài sinh vật nào có thể xuất hiện trước?",
+    "option_a": "cây",
+    "option_b": "cây bụi",
+    "option_c": "rê sinh và rêu",
+    "option_d": "cỏ dại và cỏ chân chày"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7251668",
+    "answer": "D",
+    "instruction": "Một quần thể daphnia cho thấy sự di chuyển theo chiều dọc từ đáy ao sâu một mét vào ban ngày đến mặt nước vào ban đêm. Quần thể daphnia này có thể đang phản ứng với yếu tố nào nhất?",
+    "option_a": "độ pH của nước",
+    "option_b": "độ trong suốt của nước",
+    "option_c": "áp suất của nước",
+    "option_d": "nhiệt độ của nước"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2013_8_29421",
+    "answer": "A",
+    "instruction": "Khi mồ hôi của người phát tán, người ta cảm thấy mát mẻ hơn. Câu nào sau đây miêu tả tốt nhất lý do tại sao đổ mồ hôi giúp người ta cảm thấy mát mẻ?",
+    "option_a": "Nhiệt được hấp thụ bởi mồ hôi khi phát tán.",
+    "option_b": "Nhiệt được hấp thụ bởi cơ thể khi mồ hôi phát tán.",
+    "option_c": "Nhiệt độ của nước trong mồ hôi giảm khi phát tán.",
+    "option_d": "Nhiệt độ của nước trong cơ thể tăng lên khi mồ hôi phát tán."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7082145",
+    "answer": "D",
+    "instruction": "Làm thế nào để sử dụng đồ thị đường để hiển thị dữ liệu khoảng cách và thời gian cho một vật di chuyển?",
+    "option_a": "Trục y nên được ghi nhãn là thời gian, đó là biến phụ thuộc.",
+    "option_b": "Trục y nên được ghi nhãn là khoảng cách, đó là biến độc lập.",
+    "option_c": "Trục x nên được ghi nhãn là khoảng cách, đó là biến phụ thuộc.",
+    "option_d": "Trục x nên được ghi nhãn là thời gian, đó là biến độc lập."
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2007_5_39",
+    "answer": "D",
+    "instruction": "Học sinh đang tìm hiểu về tài nguyên tự nhiên ở Maryland. Một nhóm học sinh nghiên cứu thông tin về các tài nguyên tự nhiên có thể tái tạo ở tiểu bang. Nhóm còn lại nghiên cứu thông tin về các tài nguyên tự nhiên không thể tái tạo ở tiểu bang. Các tài nguyên mà các học sinh điều tra bao gồm thực vật, động vật, đất, khoáng sản, nước, than đá và dầu. Hoạt động con người nào sau đây ảnh hưởng tiêu cực đến một tài nguyên tự nhiên?",
+    "option_a": "đánh cá trên hồ",
+    "option_b": "sử dụng nước để sản xuất điện",
+    "option_c": "trồng cây bản địa dọc bờ hồ",
+    "option_d": "điều hướng chảy xối từ đất trồng vào hồ"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_22",
+    "answer": "A",
+    "instruction": "Lông của một số loài động vật trở nên dày hơn vào mùa đông và rụng vào mùa xuân. Những quan sát này cho thấy cách thức động vật",
+    "option_a": "phản ứng với các thay đổi trong môi trường",
+    "option_b": "di chuyển từ nơi này sang nơi khác để sinh tồn",
+    "option_c": "tích trữ mỡ vào mùa đông",
+    "option_d": "cạnh tranh với các loài khác để tìm kiếm thức ăn"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7006790",
+    "answer": "B",
+    "instruction": "Trong những giải thích sau, cái nào tốt nhất để giải thích nguyên nhân của cửa sổ rung lắc trong một trận sấm sét?",
+    "option_a": "năng lượng điện",
+    "option_b": "năng lượng âm thanh",
+    "option_c": "năng lượng ánh sáng",
+    "option_d": "năng lượng nhiệt"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7284043",
+    "answer": "C",
+    "instruction": "Voi trên đồng cỏ châu Phi ăn bụi cây và cây nhỏ. Hành vi này làm cho đất trống rộng và giúp cỏ mọc. Những loài động vật ăn cỏ như linh dương ăn cỏ. Sư tử săn mồi linh dương. Với hai sinh vật nào trong tình huống này có mối quan hệ hợp tác nhất?",
+    "option_a": "những con voi và những cái bụi cây",
+    "option_b": "những cái bụi cây và sư tử",
+    "option_c": "những con voi và linh dương",
+    "option_d": "linh dương và sư tử"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7175455",
+    "answer": "D",
+    "instruction": "Ở Australia, nhiệt độ vào giữa ngày có thể vọt lên đến hơn 110°F (43°C). Để giữ cho cơ thể mát mẻ, chuột túi liếm tay của chúng và bao phủ chúng bằng một lớp nước dãi đặc. Khi nước dãi bay hơi, nó hoạt động như một cơ chế làm mát và giảm nhiệt độ cơ thể của chuột túi. Thuật ngữ nào miêu tả hoạt động này tốt nhất?",
+    "option_a": "lựa chọn tự nhiên",
+    "option_b": "cơ chế phòng thủ",
+    "option_c": "thích nghi cấu trúc",
+    "option_d": "thích nghi hành vi"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_401714",
+    "answer": "B",
+    "instruction": "Trong một thí nghiệm lab, học sinh đang kiểm tra danh tính của một bột không xác định. Phương pháp nào là phù hợp nhất để chuyển bột đó lên cân?",
+    "option_a": "Lau bột bằng bàn chải lên giấy chuyển",
+    "option_b": "Sử dụng thìa lab để múc bột lên giấy chuyển",
+    "option_c": "Kẹp bột bằng ngón tay và đưa lên giấy chuyển",
+    "option_d": "Đổ bột từ chai lên giấy chuyển"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_409529",
+    "answer": "B",
+    "instruction": "Robert là một ngư dân muốn tìm cách bắt thêm cá. Anh ấy quyết định thử các kích thước khác nhau của lưỡi câu. Robert bắt được 4 cá trê, 3 cá hồi và 7 cá chép khi sử dụng sâu làm mồi. Điều gì là biến độc lập (được điều khiển) trong cuộc điều tra của Robert?",
+    "option_a": "loại mồi",
+    "option_b": "kích thước lưỡi câu",
+    "option_c": "loại cá được bắt",
+    "option_d": "số lượng cá được bắt"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7223038",
+    "answer": "C",
+    "instruction": "Có nhiều kích cỡ và màu sắc của các ngôi sao. Điều gì trong số sau mô tả tốt nhất hạng mục mà Mặt Trời sẽ được đặt vào?",
+    "option_a": "Nhóm sao siêu khổng lồ màu xanh lam",
+    "option_b": "Nhóm sao khổng lồ đỏ",
+    "option_c": "Nhóm sao chuỗi chính màu vàng",
+    "option_d": "Nhóm sao lùn trắng"
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2008_5_24",
+    "answer": "C",
+    "instruction": "Maryland và khu vực xung quanh có nhiều tài nguyên thiên nhiên. Một số trong số này là tài nguyên tái tạo và một số khác là tài nguyên không tái tạo. Con người sử dụng cả hai loại tài nguyên này trong các hoạt động hàng ngày. Việc sử dụng tài nguyên thiên nhiên thường gây ra các sản phẩm thải. Các trung tâm tái chế là nơi con người mang các vật liệu có thể tái sử dụng để sản xuất các sản phẩm mới. Làm thế nào việc tái chế giấy có tác động tích cực đến môi trường?",
+    "option_a": "giảm ô nhiễm không khí",
+    "option_b": "tăng xói mòn đất",
+    "option_c": "giảm số lượng cây bị chặt",
+    "option_d": "tăng phá hủy môi trường sống"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2010_5_11998",
+    "answer": "A",
+    "instruction": "Bẹ dây là loại cây leo có hoa mọc trên cây và hàng rào. Hành vi nào sau đây giúp bẹ dây leo trèo trên hàng rào nhất?",
+    "option_a": "Các thân cây uốn cong như phản ứng với sự chạm",
+    "option_b": "Các thân cây phình to lên phản ứng với nước",
+    "option_c": "Các bông hoa nở ra phản ứng với ánh sáng",
+    "option_d": "Các rễ mọc phản ứng với trọng lực"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7139493",
+    "answer": "B",
+    "instruction": "Cái nào có thể gây ra khả năng sinh tồn của bọ xít muỗi đối với nhiều loại thuốc trừ sâu?",
+    "option_a": "đa dạng loài",
+    "option_b": "đa dạng di truyền",
+    "option_c": "đa dạng hệ sinh thái",
+    "option_d": "đa dạng quần thể"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_14",
+    "answer": "A",
+    "instruction": "Tấm pin mặt trời được sử dụng để hấp thụ ánh nắng mặt trời. Màu tấm pin nào sẽ hấp thụ nhiều ánh nắng nhất?",
+    "option_a": "đen",
+    "option_b": "xanh lá",
+    "option_c": "trắng",
+    "option_d": "vàng"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2006_9_35",
+    "answer": "A",
+    "instruction": "Các bệnh di truyền nào sau đây là kết quả của một vấn đề về phân tách?",
+    "option_a": "Trisomy 16: một loại bệnh khi một phôi nhận được ba bản sao của nhiễm sắc thể 16",
+    "option_b": "Bệnh Huntington: một loại bệnh khi một phôi nhận được một allel ác tính đột biến",
+    "option_c": "Hemophilia: một loại bệnh khi một phôi nhận được một nhiễm sắc thể X với một allel vô hiệu hoá đặc biệt",
+    "option_d": "Thalassemia: một loại bệnh khi một phôi nhận được một allel vô hiệu hoá cho huyết quản từ từ mỗi bậc cha mẹ"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2015_8_7",
+    "answer": "B",
+    "instruction": "Một sinh viên đun hai cái chảo nước trên bếp bằng cách sử dụng thiết lập nhiệt độ cao nhất. Một cái chảo chứa 1 L nước và cái chảo kia chứa 3 L nước. Sinh viên đun từng chảo đến khi nước sôi. Câu nào sau đây mô tả tốt nhất những điều sảy ra với nước trong các cái chảo?",
+    "option_a": "Nước trong cả hai cái chảo sôi cùng một lúc.",
+    "option_b": "Nước trong cả hai cái chảo sôi ở cùng nhiệt độ.",
+    "option_c": "3 L nước nóng hơn 1 L nước trước khi sôi.",
+    "option_d": "3 L nước hấp thụ nhiệt nhanh hơn 1 L nước."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7115063",
+    "answer": "A",
+    "instruction": "Trong các điều sau đây, điều gì có thể gây ảnh hưởng đến hệ sinh thái vùng đầm lầy nhất?",
+    "option_a": "xây dựng khu phố dân cư",
+    "option_b": "trồng hoa dại bản địa",
+    "option_c": "một thời gian mưa lớn",
+    "option_d": "một vụ sét đánh"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7144795",
+    "answer": "D",
+    "instruction": "Một môi trường sống cụ thể đã trải qua nhiều thay đổi về điều kiện môi trường trong suốt 75 năm qua. Đặc điểm nào là khả năng sống sót tốt nhất của một loài khi phải chịu những thay đổi môi trường này?",
+    "option_a": "một quần thể với nhiều cá thể",
+    "option_b": "đa dạng về loài trong cộng đồng hiện tại",
+    "option_c": "thích nghi cho phép cá thể sống trong nhiều điều kiện khác nhau",
+    "option_d": "hành vi thúc đẩy sự phát triển thích nghi trong môi trường mới"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_400934",
+    "answer": "C",
+    "instruction": "Theo bảng tuần hoàn các nguyên tố, tập hợp nguyên tố nào có các đặc tính tương tự nhau?",
+    "option_a": "H, C, I",
+    "option_b": "He, H, Al",
+    "option_c": "He, Ne, Ar",
+    "option_d": "Na, Ca, Al"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7004410",
+    "answer": "B",
+    "instruction": "Một giới hạn của các mạng thức ăn trong việc đại diện cho một hệ sinh thái là chúng không",
+    "option_a": "bao gồm những người sản xuất trong hệ sinh thái.",
+    "option_b": "bao gồm tất cả các loài trong hệ sinh thái.",
+    "option_c": "hiển thị những người tiêu dùng trong hệ sinh thái.",
+    "option_d": "hiển thị mối quan hệ săn mồi - bị săn mồi trong hệ sinh thái."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7029505",
+    "answer": "C",
+    "instruction": "Bạn cần làm gì để phân loại nhóm máu theo phân loại ABO?",
+    "option_a": "Kích thước khác nhau của các tế bào máu đỏ",
+    "option_b": "Kích thước khác nhau của các tế bào bạch cầu",
+    "option_c": "Các protein đánh dấu khác nhau trên tế bào máu đỏ",
+    "option_d": "Các protein đánh dấu khác nhau trên tế bào bạch cầu"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_LBS10598",
+    "answer": "A",
+    "instruction": "Một khối đá tan ra rồi bay hơi. Khối đá và hơi nước có cùng",
+    "option_a": "khối lượng.",
+    "option_b": "mật độ.",
+    "option_c": "thể tích.",
+    "option_d": "nhiệt độ."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7245893",
+    "answer": "B",
+    "instruction": "Phần nào của hệ tiêu hóa làm thay đổi hóa học đầu tiên đối với thực phẩm?",
+    "option_a": "răng trong miệng",
+    "option_b": "nước bọt trong miệng",
+    "option_c": "men trong dạ dày",
+    "option_d": "men trong ruột non"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7246925",
+    "answer": "D",
+    "instruction": "Leucine là một trong các axit amin cần thiết cho cơ thể nhưng không thể tổng hợp được. Quá trình nào sau đây xảy ra để cơ thể con người có thể thu được leucine?",
+    "option_a": "Cơ thể chuyển đổi các axit amin khác thành leucine.",
+    "option_b": "Cơ thể lưu trữ các carbohydrates chứa leucine.",
+    "option_c": "Cơ thể phân hủy axit béo để lấy leucine.",
+    "option_d": "Cơ thể tiêu hóa protein trong thức ăn để lấy leucine."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7138688",
+    "answer": "D",
+    "instruction": "Phương pháp nào giúp tìm ra xem một nghiên cứu có tính khoa học không?",
+    "option_a": "ghi chép trạng thái của thiết bị trong quá trình thực hiện",
+    "option_b": "tiến hành thí nghiệm với một nhóm người",
+    "option_c": "tiến hành quá trình đầy đủ một lần",
+    "option_d": "lặp lại quá trình nghiên cứu nhiều lần"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_408700",
+    "answer": "C",
+    "instruction": "Emily đã pha một cốc trà và khuấy bằng một thìa. Thìa trở nên ấm. Làm sao nhiệt từ trà được truyền qua thìa?",
+    "option_a": "sự lưu thông",
+    "option_b": "sự bức xạ",
+    "option_c": "sự dẫn nhiệt",
+    "option_d": "sự bay hơi"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7100608",
+    "answer": "B",
+    "instruction": "Gia đình của Michael đang xây một căn nhà mới. Họ muốn sử dụng điện được tạo ra bởi các nguồn năng lượng tái tạo. Loại nguồn năng lượng nào sau đây sẽ giúp gia đình đạt được mục tiêu của mình?",
+    "option_a": "động cơ xăng",
+    "option_b": "tấm năng lượng mặt trời trên mái nhà",
+    "option_c": "nhà máy nhiệt điện than",
+    "option_d": "nhà máy điện hạt nhân"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7133648",
+    "answer": "C",
+    "instruction": "Công việc nào trong nhà bếp là ví dụ về sự thay đổi vật lý?",
+    "option_a": "rán trứng",
+    "option_b": "nướng bánh",
+    "option_c": "chảy bơ",
+    "option_d": "nướng bánh mì"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_401244",
+    "answer": "D",
+    "instruction": "Loại đá nào là hữu ích nhất trong việc nghiên cứu lịch sử của các sinh vật sống?",
+    "option_a": "đá bazan",
+    "option_b": "đá hoa",
+    "option_c": "đá granit",
+    "option_d": "đá vôi"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_400397",
+    "answer": "C",
+    "instruction": "Điều gì trong những hành vi sau một con gấu có thể học được từ môi trường sống của nó?",
+    "option_a": "uống nước",
+    "option_b": "ăn cá",
+    "option_c": "mở nắp thùng rác",
+    "option_d": "bảo vệ con non của nó"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7245088",
+    "answer": "D",
+    "instruction": "Mô tả tổng hợp của carbohydrate?",
+    "option_a": "Các lipid nối liền tạo thành phospholipids",
+    "option_b": "Các mạch nhỏ nối liền tạo thành các khối lớn",
+    "option_c": "Các amino axit nối liền tạo thành polypeptid",
+    "option_d": "Các saccharid nối liền tạo thành polysaccharid"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_408809",
+    "answer": "C",
+    "instruction": "Ở chuột, một loài vật nhất định có sự không hoàn toàn áp đảo trong màu lông. Những con chuột con của một con chuột đen (BB) và một con chuột trắng (bb) sẽ là những con chuột màu xám (Bb). Một phép lai giữa hai con chuột màu xám sẽ có khả năng tạo ra quần thể con với tỷ lệ phần trăm màu lông nào?",
+    "option_a": "25% đen, 75% xám",
+    "option_b": "25% xám, 75% trắng",
+    "option_c": "25% trắng, 25% đen, 50% xám",
+    "option_d": "25% xám, 25% đen, 50% trắng"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7068863",
+    "answer": "C",
+    "instruction": "Một học sinh nghiên cứu tác động của sắt đến sự phát triển của cây. Bốn cây giống nhau được tưới nước với lượng bổ sung sắt khác nhau. Nghiên cứu này có thể được cải thiện nếu có",
+    "option_a": "chú dằn chân đất trong đất.",
+    "option_b": "ít cây hơn trong thí nghiệm.",
+    "option_c": "những cây được tưới nước mà không có bổ sung sắt.",
+    "option_d": "những cây được chiếu ánh sáng một cách khác nhau."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7166880",
+    "answer": "D",
+    "instruction": "Clay đang theo dõi thời tiết để chuẩn bị cho chuyến đi đến bãi biển vào ngày mai. Dự báo cho biết một hệ thống áp thấp sẽ di chuyển vào đêm nay. Sáng sớm ngày hôm sau, Clay có thể mong đợi thời tiết loại nào nhất?",
+    "option_a": "sương mù",
+    "option_b": "nắng",
+    "option_c": "trời quang và lạnh hơn",
+    "option_d": "nhiều mây và mưa"
+  },
+  {
+    "id": "ARC-Challenge/validation/ACTAAP_2007_7_25",
+    "answer": "A",
+    "instruction": "Quy tắc an toàn nào không áp dụng cho phòng thí nghiệm khoa học?",
+    "option_a": "Đo lường chính xác lượng chất lỏng vào bình đựng.",
+    "option_b": "Không bao giờ cắt đối tượng trong khi giữ chúng trong tay.",
+    "option_c": "Đeo kính bảo hộ khi xử lý các chất độc hại.",
+    "option_d": "Khi ghi chú mùi, vỗ hơi khí đến mũi của bạn thay vì đưa mặt vào nguồn khí."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7018445",
+    "answer": "D",
+    "instruction": "Âm thanh sẽ đi qua vật liệu nào nhanh nhất?",
+    "option_a": "liège",
+    "option_b": "nước",
+    "option_c": "không khí",
+    "option_d": "thép"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7033653",
+    "answer": "C",
+    "instruction": "Đơn vị nào là tốt nhất để đo khoảng cách giữa Trái đất và các hệ thống mặt trời khác trong vũ trụ?",
+    "option_a": "dặm",
+    "option_b": "kilômét",
+    "option_c": "năm ánh sáng",
+    "option_d": "đơn vị thiên văn"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2006_5_29",
+    "answer": "D",
+    "instruction": "Bốn thanh động như nhau nhưng được làm bằng các kim loại khác nhau đã được thử nghiệm với cùng lượng trọng lượng để xem loại nào linh hoạt nhất. Phương án nào sau đây là cách tốt nhất để báo cáo kết quả của thí nghiệm này?",
+    "option_a": "một danh sách của mỗi loại thanh được sử dụng",
+    "option_b": "một bản phác thảo của mỗi thanh trước khi thử nghiệm",
+    "option_c": "một bảng thể hiện trọng lượng của từng thanh",
+    "option_d": "một biểu đồ cột thể hiện mức độ uốn cong của từng thanh"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7159268",
+    "answer": "A",
+    "instruction": "Sau kỷ băng hà cuối cùng, sự tan chảy của các băng ở cực bắc và dãy núi đã làm tăng mực nước của đại dương. Điều gì là có thể gây ra tăng mực nước của đại dương?",
+    "option_a": "tăng nồng độ muối của các vùng đầm lầy ven biển hiện có",
+    "option_b": "tăng số lượng sinh vật trên rạn san hô hiện có",
+    "option_c": "giảm số lần thủy triều trong ngày",
+    "option_d": "giảm độ sâu của đáy đại dương"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_400885",
+    "answer": "D",
+    "instruction": "Phương trình hóa học nào là phương trình hóa học cân bằng?",
+    "option_a": "2NaOH + CaBr_{2} -> Ca(OH)_{2} + NaBr",
+    "option_b": "NO + Cl_{2} -> NOCl",
+    "option_c": "CaCO_{3} -> CaO + 2CO_{2}",
+    "option_d": "2AlCl_{3} + 3Mg -> 3MgCl_{2} + 2Al"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7038273",
+    "answer": "A",
+    "instruction": "Trong quá trình thực hiện một thí nghiệm, một học sinh thu thập một số độ nhiệt khác nhau của nước, hai đo lường khối lượng và ba đo lường thể tích khác nhau. Cách nào sau đây là tốt nhất để tổ chức dữ liệu?",
+    "option_a": "trong một bảng",
+    "option_b": "trong một biểu đồ",
+    "option_c": "trong một câu chuyện viết",
+    "option_d": "minh hoạ bằng hình ảnh"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_407574",
+    "answer": "A",
+    "instruction": "Khí nào được các nhà sản xuất sinh ra để người tiêu dùng hít vào để sống?",
+    "option_a": "oxygen",
+    "option_b": "nitrogen",
+    "option_c": "hơi nước",
+    "option_d": "carbon dioxide"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_1998_4_8",
+    "answer": "B",
+    "instruction": "Nơi làm việc với dụng cụ điện nguy hiểm nhất là ở đâu?",
+    "option_a": "trong một gara",
+    "option_b": "bên hồ bơi",
+    "option_c": "gần truyền hình hoặc máy tính",
+    "option_d": "trong một tầng hầm mát"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7128695",
+    "answer": "C",
+    "instruction": "Một nhà khoa học khám phá ra một điều gì đó trong quá trình nghiên cứu nhưng lại không đưa ra những bản ghi chính xác về các thử nghiệm đã thực hiện. Thiếu bản ghi chính xác ảnh hưởng như thế nào đến công việc của một nhà khoa học?",
+    "option_a": "Nó vô hiệu hóa các thủ tục và kết luận. ",
+    "option_b": "Nó làm cho dữ liệu thu thập được trong nghiên cứu không chính xác. ",
+    "option_c": "Nó ngăn các nhà khoa học khác xác nhận kết quả.",
+    "option_d": "Nó cấm các nhà khoa học khác phát triển các giả thuyết mới."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400178",
+    "answer": "C",
+    "instruction": "Mixture nào có thể phân tách thành các thành phần của nó?",
+    "option_a": "khoai tây chiên",
+    "option_b": "bánh sô cô la",
+    "option_c": "salad trái cây",
+    "option_d": "trứng đánh tan"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7189823",
+    "answer": "A",
+    "instruction": "Một con núi lửa phun trào và phủ kín khu vực xung quanh bằng dung nham và tro núi lửa. Khi hệ sinh thái bắt đầu phục hồi, loại cây nào sẽ là loại cây đầu tiên xâm chiếm đất ở khu vực xung quanh vụ nổ?",
+    "option_a": "rêu",
+    "option_b": "hoa dại",
+    "option_c": "cây lá rộng",
+    "option_d": "cây bụi xanh quanh năm"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_412683",
+    "answer": "D",
+    "instruction": "Tốc độ sóng 2 Hz có bước sóng là 10 m là bao nhiêu?",
+    "option_a": "5 m/s",
+    "option_b": "8 m/s",
+    "option_c": "12 m/s",
+    "option_d": "20 m/s"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_184258",
+    "answer": "A",
+    "instruction": "Đặc điểm nào trong các đặc điểm dòng chảy sau đây ảnh hưởng trực tiếp nhất đến quá trình bồi tụ của dòng chảy?",
+    "option_a": "độ dốc",
+    "option_b": "độ cao so với mực nước biển",
+    "option_c": "mực nước biển tối thiểu",
+    "option_d": "chất lượng nước"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_192168",
+    "answer": "D",
+    "instruction": "Các mô hình khoa học rất phổ biến. Mục đích dưới đây cần ít nhất một mô hình vật lý?",
+    "option_a": "mô phỏng hiện tượng khoa học",
+    "option_b": "đơn giản hóa một ý tưởng phức tạp",
+    "option_c": "cho phép trực quan hóa",
+    "option_d": "hiển thị dữ liệu"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_LBS10399",
+    "answer": "D",
+    "instruction": "Một kính hiển vi phóng đại đối tượng lên tới 50 lần. Đối tượng có kích thước là bao nhiêu nếu hình ảnh của nó là 0,5 cm?",
+    "option_a": "100 cm",
+    "option_b": "25 cm",
+    "option_c": "2,5 cm",
+    "option_d": "0,01 cm"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7228603",
+    "answer": "C",
+    "instruction": "Kết quả nào sau đây là kết quả của sự trao đổi các phần nối đồng bộ của các nhiễm sắc thể trong quá trình meiosis?",
+    "option_a": "Thay đổi ngẫu nhiên",
+    "option_b": "Giảm số lượng gamete",
+    "option_c": "Con cái có sự kết hợp đặc trưng khác nhau",
+    "option_d": "Giảm số lượng allèle trên mỗi nhiễm sắc thể"
+  },
+  {
+    "id": "ARC-Challenge/validation/MEA_2013_5_3",
+    "answer": "D",
+    "instruction": "Mặt Trời được phân loại là một ngôi sao. Đặc điểm nào xác định Mặt Trời là một ngôi sao?",
+    "option_a": "Mặt Trời quay quanh trục của nó.",
+    "option_b": "Mặt Trời đặt ở bên ngoài dải Ngân Hà.",
+    "option_c": "Mặt Trời là một phần của chòm sao Đôi Giáp.",
+    "option_d": "Mặt Trời tạo ra ánh sáng và năng lượng trong một phản ứng hạt nhân."
+  },
+  {
+    "id": "ARC-Challenge/validation/NCEOGA_2013_8_38",
+    "answer": "C",
+    "instruction": "Vào mùa đông, bộ lông của con cáo ánh sáng là màu trắng. Vào mùa hè, bộ lông chuyển sang màu nâu đỏ. Điều gì là nguyên nhân chính gây thay đổi màu sắc của bộ lông cáo?",
+    "option_a": "lượng ánh sáng hiện có",
+    "option_b": "môi trường sống của con cáo",
+    "option_c": "gen của con cáo",
+    "option_d": "tuổi tác của con cáo"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7221095",
+    "answer": "A",
+    "instruction": "Trong sinh thái học, thành phần phi sinh học nào sau đây là phi sinh thái?",
+    "option_a": "lượng mưa trung bình hàng năm trong sinh thái hệ",
+    "option_b": "các loại nhà sản xuất được tìm thấy trong sinh thái hệ",
+    "option_c": "quần thể dân số của kẻ săn mồi trong sinh thái hệ",
+    "option_d": "vi sinh vật sống trong đất của sinh thái hệ"
+  },
+  {
+    "id": "ARC-Challenge/validation/MEAP_2005_5_1",
+    "answer": "C",
+    "instruction": "Hơi nước tồn tại trong khí quyển dưới dạng ___.",
+    "option_a": "một khí hiện diện",
+    "option_b": "một chất lỏng hiện diện",
+    "option_c": "một khí vô hình",
+    "option_d": "một chất lỏng vô hình"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_406939",
+    "answer": "C",
+    "instruction": "Cách nào để một tờ giấy trải qua quá trình biến đổi hóa học?",
+    "option_a": "gấp giấy đôi",
+    "option_b": "ngâm giấy trong nước",
+    "option_c": "đốt giấy bằng lửa",
+    "option_d": "cắt giấy bằng kéo"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7219415",
+    "answer": "C",
+    "instruction": "Ví dụ nào là chức năng của màng thấm xuyên được lựa chọn của một tế bào?",
+    "option_a": "hỗ trợ cho hình dạng của tế bào",
+    "option_b": "sản xuất protein cho tế bào",
+    "option_c": "hạn chế chất phân tán ra khỏi tế bào",
+    "option_d": "lưu trữ sản phẩm chất thải cho tế bào"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_1999_8_22",
+    "answer": "B",
+    "instruction": "Loại cầu nào sử dụng cáp để hỗ trợ?",
+    "option_a": "cầu khung chữ A",
+    "option_b": "cầu treo",
+    "option_c": "cầu dầm",
+    "option_d": "cầu cắt kéo"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2006_9_33",
+    "answer": "D",
+    "instruction": "Tê giác đã đến gần ngưỡng tuyệt chủng do bị săn bắn, hạn hán và bệnh tật. Hiện tại, đa dạng gen của các quần thể tê giác rất thấp. Điều gì sau đây là kết quả của sự đa dạng gen giới hạn trong các quần thể tê giác hiện tại so với các quần thể tê giác trước đây có nhiều đa dạng hơn?",
+    "option_a": "Tê giác trong các quần thể hiện tại có khả năng chống lại các bệnh tật mới hơn.",
+    "option_b": "Tỷ lệ sống sót của tê giác con tăng lên trong các quần thể hiện tại.",
+    "option_c": "Tê giác trong các quần thể hiện tại ít có khả năng lai giống với các loài khác.",
+    "option_d": "Các quần thể tê giác hiện tại ít có khả năng thích nghi với các thay đổi môi trường."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7135310",
+    "answer": "C",
+    "instruction": "Tại sao năng lượng đầu ra của máy luôn ít hơn năng lượng đầu vào?",
+    "option_a": "Một số lượng năng lượng bị phá huỷ khi máy hoạt động.",
+    "option_b": "Máy phải vượt qua lực từ trường không đổi.",
+    "option_c": "Năng lượng hữu ích giảm khi năng lượng được chuyển sang môi trường xung quanh.",
+    "option_d": "Một số lượng năng lượng được giải phóng dưới dạng nhiệt khi được chuyển đổi."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_414131",
+    "answer": "C",
+    "instruction": "Mô tả thuộc tính chung của tất cả các nguyên tố?",
+    "option_a": "Tất cả các nguyên tố đều là kim loại.",
+    "option_b": "Tất cả các nguyên tố đều có sáu electron.",
+    "option_c": "Tất cả các nguyên tố đều là chất tinh khiết.",
+    "option_d": "Tất cả các nguyên tố tồn tại ở dạng chất rắn."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7112753",
+    "answer": "B",
+    "instruction": "Để xác định một quần thể bọ cánh cứng, các nhà khoa học cần sử dụng một thiết bị đặc biệt chuyên dụng. Yếu tố nào có khả năng giới hạn khả năng xác định bọ cánh cứng nhất?",
+    "option_a": "khí hậu",
+    "option_b": "chi phí",
+    "option_c": "kích thước mẫu",
+    "option_d": "chính trị"
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2009_5_16",
+    "answer": "D",
+    "instruction": "Học sinh đã đến thăm kính viễn vọng Morris W. Offit tại Trạm quan sát Vũ trụ Maryland Space Grant Observatory ở Baltimore. Họ đã học về các ngôi sao, hành tinh và mặt trăng. Học sinh đã ghi lại thông tin dưới đây. • Mẫu vì sao giữ nguyên nhưng vị trí của chúng trên bầu trời dường như thay đổi. • Mặt trời, các hành tinh và mặt trăng xuất hiện di chuyển trên bầu trời. • Proxima Centauri là ngôi sao gần nhất với hệ mặt trời của chúng ta. • Polaris là một ngôi sao thuộc một mẫu vì sao gọi là Chòm sao Tít Tinh. Câu nào sau đây giải thích tốt nhất vì sao mặt trời xuất hiện di chuyển trên bầu trời mỗi ngày?",
+    "option_a": "Mặt trời quay quanh Trái đất.",
+    "option_b": "Trái đất xoay quanh mặt trời.",
+    "option_c": "Mặt trời quay quanh trục của nó.",
+    "option_d": "Trái đất quay quanh trục của nó."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7236023",
+    "answer": "B",
+    "instruction": "Một khối không khí ở độ cao 1000 mét trong trung tâm áp suất thấp của một cơn bão Bán cầu Bắc. Câu nào sau đây mô tả tốt nhất chuyển động của hạt khí trong khối khí này do điều kiện bão và sự quay của Trái đất khi khối khí di chuyển ra ngoài?",
+    "option_a": "Hạt khí di chuyển lên và sang trái.",
+    "option_b": "Hạt khí di chuyển lên và sang phải.",
+    "option_c": "Hạt khí di chuyển xuống và sang trái.",
+    "option_d": "Hạt khí di chuyển xuống và sang phải."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7270008",
+    "answer": "C",
+    "instruction": "Việc khai thác đá phiến bề mặt để lấy than đòi hỏi phải loại bỏ toàn bộ thảm thực vật và đá trên mặt đất phía trên lượng than được khai thác. Hệ thống nào trong hai hệ thống con của Trái Đất bị ảnh hưởng mạnh nhất bởi quá trình này?",
+    "option_a": "litosphere và khí quyển",
+    "option_b": "sinh quyển và thủy quyển",
+    "option_c": "litosphere và sinh quyển",
+    "option_d": "khí quyển và thủy quyển"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7099768",
+    "answer": "D",
+    "instruction": "Khi quả bóng chuyền được thả ra khỏi tay của người chơi, năng lượng trong quả bóng được lưu giữ một phần.",
+    "option_a": "được lưu trữ trong quả bóng cho đến khi chạm vào chân chân đích.",
+    "option_b": "tăng lên khi ma sát được áp dụng vào quả bóng.",
+    "option_c": "được chuyển đổi từ năng lượng động thành năng lượng tiềm năng trọng lực.",
+    "option_d": "được chuyển đổi thành nhiệt và âm thanh khi va chạm với sàn."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7269238",
+    "answer": "D",
+    "instruction": "Động cơ diesel có thể đốt nhiều loại nhiên liệu khác nhau. Nhiên liệu nào sẽ là nhiên liệu tái tạo nhất cho động cơ diesel?",
+    "option_a": "Nhiên liệu diesel truyền thống",
+    "option_b": "Dầu lửa đã chưng cất",
+    "option_c": "Dầu thực vật sản xuất theo phương pháp truyền thống",
+    "option_d": "Dầu thực vật sản xuất hữu cơ"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7187915",
+    "answer": "A",
+    "instruction": "Amanda và Jake đã tìm hiểu về các dạng năng lượng động và tiềm năng trong một mạch điện đơn giản. Mạch điện mà họ đang nghiên cứu có pin, dây dẫn và bóng đèn. Loại năng lượng tiềm năng nào có trong mạch điện này?",
+    "option_a": "năng lượng hóa học trong pin",
+    "option_b": "năng lượng ánh sáng từ bóng đèn",
+    "option_c": "năng lượng nhiệt bị mất từ dây dẫn điện",
+    "option_d": "năng lượng điện di chuyển qua bóng đèn"
+  },
+  {
+    "id": "ARC-Challenge/validation/OHAT_2011_8_3",
+    "answer": "D",
+    "instruction": "Hành động nào cho thấy sự thay đổi hóa học?",
+    "option_a": "Tóc dài được cắt và sấy khô.",
+    "option_b": "Viết bằng bút chì gỗ và bị gãy.",
+    "option_c": "Viên đá lạnh tan và trở thành chất lỏng trong suốt.",
+    "option_d": "Đinh sắt trở nên màu cam và bong tróc ở mặt bề mặt."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7159775",
+    "answer": "A",
+    "instruction": "Janette tiến hành điều tra để xem thực phẩm nào khiến cô ấy cảm thấy mệt mỏi hơn. Cô ăn một trong bốn loại thực phẩm khác nhau mỗi ngày vào cùng thời điểm trong bốn ngày và sau đó ghi lại cảm giác của mình. Cô yêu cầu bạn của mình, Carmen, thực hiện cùng một điều tra để xem liệu cô ấy có nhận được kết quả tương tự không. Điều gì sẽ làm cho việc nghiên cứu khó để tái lặp?",
+    "option_a": "đo lường lượng mệt mỏi",
+    "option_b": "đảm bảo cùng loại thực phẩm được ăn",
+    "option_c": "ghi lại quan sát trên cùng biểu đồ",
+    "option_d": "đảm bảo thực phẩm ở cùng nhiệt độ"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_402239",
+    "answer": "C",
+    "instruction": "Cách tốt nhất để bảo vệ tài nguyên thiên nhiên trong gia đình là gì?",
+    "option_a": "Vứt tất cả thủy tinh vào thùng rác.",
+    "option_b": "Sử dụng khăn giấy để lau dọn chất bẩn.",
+    "option_c": "Rút ngắn thời gian tắm.",
+    "option_d": "Tưới cỏ mỗi ngày."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_184013",
+    "answer": "C",
+    "instruction": "Trong những sự kiện sau đây, sự kiện nào sẽ gây ít thiệt hại nhất cho đất đai?",
+    "option_a": "một trận động đất cường độ 7,2",
+    "option_b": "sóng bão nhiệt đới",
+    "option_c": "một trận bão điện",
+    "option_d": "một vụ phun trào núi lửa"
+  },
+  {
+    "id": "ARC-Challenge/validation/NCEOGA_2013_8_4",
+    "answer": "D",
+    "instruction": "Giải thích tại sao tổng khối lượng sản phẩm sẽ ít hơn tổng trọng lượng của các chất phản ứng sau một phản ứng hóa học?",
+    "option_a": "Đã xảy ra một thay đổi vật lý.",
+    "option_b": "Các nguyên tử tham gia phản ứng đã mất khối lượng.",
+    "option_c": "Kết tủa được tạo ra trong dung dịch mới.",
+    "option_d": "Khí đã được thải ra khỏi khí quyển."
+  },
+  {
+    "id": "ARC-Challenge/validation/ACTAAP_2013_7_17",
+    "answer": "D",
+    "instruction": "Một nhóm muốn tìm hiểu liệu số lượng chim nước bay qua Arkansas có thay đổi mỗi năm hay không. Họ nên sử dụng phương pháp nào để thu thập thông tin?",
+    "option_a": "Bắt càng nhiều con chim có thể trong một năm. Thu thập dữ liệu về vị trí của mỗi con chim.",
+    "option_b": "Vào ngày đầu tiên của mùa xuân năm tới, đếm số lượng chim nước tại hồ lớn nhất của tiểu bang. So sánh dữ liệu với năm trước.",
+    "option_c": "Đặt một người quan sát tại một vị trí trên biên giới tiểu bang. Cho người đó đếm số lượng chim khi chúng bay vào tiểu bang. Làm điều này trong hai năm.",
+    "option_d": "Chọn một ngày trong năm khi chim di trú. Đếm số lượng chim tại mười hồ khác nhau trên toàn tiểu bang. Làm điều này vào cùng một ngày hàng năm trong mười năm."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7183015",
+    "answer": "A",
+    "instruction": "Một bài báo gần đây trong một tạp chí khoa học giải thích mối quan hệ giữa dòng chảy nhiệt và địa chấn vỉa hạt. Khi chất lỏng trong lõi quyển trái đất tuần hoàn, nó làm cho các tấm vỏ chuyển động. Điều gì có khả năng gây ra sự tuần hoàn các chất lỏng bên trong Trái Đất?",
+    "option_a": "truyền năng lượng",
+    "option_b": "làm nóng toàn cầu",
+    "option_c": "biến đổi triều cường",
+    "option_d": "dòng chảy đại dương"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2014_8_17",
+    "answer": "D",
+    "instruction": "Trong các ví dụ sau đâu là ví dụ của  sự sinh sản không tình dục?",
+    "option_a": "Rùa đẻ trứng được thụ tinh trong một cái hố trên cát.",
+    "option_b": "Hạt giống hình thành trong nhụy thông sau khi phấn hoa đến nhụy.",
+    "option_c": "Cá xả trứng và tinh trùng tại mặt nước.",
+    "option_d": "Cây gửi ra các chi nhánh giống rễ tạo ra các thân mới."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_401286",
+    "answer": "B",
+    "instruction": "Nhiều động vật có nguy cơ tuyệt chủng bị bắt, gắn thẻ và sau đó được thả trở lại môi trường sống của chúng. Thẻ có thể là một mảnh nhựa hoặc kim loại mã hóa được đặt ở một nơi an toàn trên cơ thể. Lý do chính để gắn thẻ động vật là gì nhất?",
+    "option_a": "theo dõi thói quen ăn uống của chúng",
+    "option_b": "theo dõi thói quen đi lại của chúng",
+    "option_c": "theo dõi thói quen ngủ của chúng",
+    "option_d": "theo dõi thói quen sinh sản của chúng"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7207358",
+    "answer": "C",
+    "instruction": "Lý thuyết nguyên tử hiện đại được mô tả tốt nhất là kết quả của hoạt động nào sau đây?",
+    "option_a": "các thí nghiệm của John Dalton vào đầu thế kỷ 19",
+    "option_b": "các thảo luận giữa hai nhà khoa học quan trọng",
+    "option_c": "nghiên cứu của nhiều nhà khoa học trong nhiều năm",
+    "option_d": "ý tưởng về nguyên tử của Democritus cách đây hơn 2000 năm"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7015435",
+    "answer": "A",
+    "instruction": "Sản phẩm của phản ứng giữa một acid mạnh và một bazơ mạnh là gì?",
+    "option_a": "một muối và nước",
+    "option_b": "hai nguyên tố khác nhau",
+    "option_c": "một acid yếu và một bazơ yếu",
+    "option_d": "ion hydro cation và ion hydroxit anion"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7044678",
+    "answer": "A",
+    "instruction": "Phát biểu nào miêu tả tốt nhất sự thay đổi của lá khi nó mất nước cần thiết?",
+    "option_a": "Áp suất turgor của lá giảm.",
+    "option_b": "Áp suất khí quyển của lá giảm.",
+    "option_c": "Tốc độ transpiration của lá tăng.",
+    "option_d": "Tốc độ quang hợp của lá tăng."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_400905",
+    "answer": "D",
+    "instruction": "Mặt Trời cách Trái Đất khoảng 1,5 x 10^8 km. Tốc độ của ánh sáng là 3,0 x 10^8 m/giây. Khoảng cách từ Mặt Trời đến Trái Đất bằng bao nhiêu giây ánh sáng?",
+    "option_a": "2,0 giây ánh sáng",
+    "option_b": "0,5 giây ánh sáng",
+    "option_c": "2,0 x 10^-3 giây ánh sáng",
+    "option_d": "5,0 x 10^2 giây ánh sáng"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_LBS10040",
+    "answer": "D",
+    "instruction": "Quá trình quang hợp nhưng sản xuất loại gì giúp cây trồng phát triển?",
+    "option_a": "nước",
+    "option_b": "oxy",
+    "option_c": "protein",
+    "option_d": "đường"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_8_41",
+    "answer": "D",
+    "instruction": "Trong tai nạn xe hơi, dây an toàn giúp ngăn ngừa chấn thương bằng cách áp dụng một lực",
+    "option_a": "nhỏ hơn lực của hành khách đang di chuyển",
+    "option_b": "lớn hơn lực của xe đang di chuyển",
+    "option_c": "cùng hướng với chuyển động của xe",
+    "option_d": "ngược hướng với chuyển động của hành khách"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7141908",
+    "answer": "C",
+    "instruction": "Các nhà khoa học đã phát hiện một loài mới của một sinh vật phức tạp ở đáy đại dương. Sinh vật này có khả năng",
+    "option_a": "là đơn bào.",
+    "option_b": "là một hình thái của vi khuẩn.",
+    "option_c": "được làm từ nhiều tế bào.",
+    "option_d": "thiếu hạt nhân được tổ chức."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_406029",
+    "answer": "D",
+    "instruction": "Cho một hoạt động khoa học, Mia đã phải vẽ một bức tranh về Mặt Trăng mỗi đêm. Nếu Mia vẽ một ván trăng mới, loại trăng nào mà Mia sẽ vẽ khoảng một tuần sau?",
+    "option_a": "trăng thưa",
+    "option_b": "trăng tròn",
+    "option_c": "trăng mới",
+    "option_d": "trăng lưỡi liềm đầu tiên"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7105123",
+    "answer": "C",
+    "instruction": "Hóa thạch cho thấy thay đổi loài thông thường diễn ra trong nhiều thế hệ.",
+    "option_a": "dừng lại khi một loài hình thành.",
+    "option_b": "tăng tốc với điều kiện ổn định.",
+    "option_c": "diễn ra trong nhiều thế hệ.",
+    "option_d": "độc lập với môi trường."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400339",
+    "answer": "C",
+    "instruction": "Câu nào không phải là lý do tại sao cây trong rừng lại mọc ở các độ cao khác nhau?",
+    "option_a": "Một số cây yêu cầu ít ánh sáng hơn là những cây khác.",
+    "option_b": "Các cây được trồng vào các năm khác nhau.",
+    "option_c": "Chim đang xây tổ trên các cây thấp hơn.",
+    "option_d": "Các cây cao chỉ có lá ở các nhánh trên cùng."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415366",
+    "answer": "B",
+    "instruction": "Cây cần oxy. Rễ gần bề mặt đất lấy oxy cho cây. Những sinh vật nào giúp cho cây có được oxy?",
+    "option_a": "Chim gõ kiến tạo lỗ trên cây",
+    "option_b": "Ruồi bò đào lỗ gần bề mặt đất",
+    "option_c": "Nấm mọc ở gốc cây",
+    "option_d": "Sóc ăn hạt óc chó trên mặt đất gần cây"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7168123",
+    "answer": "B",
+    "instruction": "Anita chạy nhanh quanh đường chạy ở trường học của cô ấy. Ở cuối chặng đường, cô ấy hít thêm không khí vào phổi và nhịp tim của cô tăng lên. Hệ thống nào điều chỉnh nhịp thở và nhịp tim của Anita?",
+    "option_a": "cơ bắp và xương",
+    "option_b": "thần kinh và nội tiết",
+    "option_c": "tiêu hóa và bài tiết",
+    "option_d": "hô hấp và tuần hoàn"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7141400",
+    "answer": "A",
+    "instruction": "Một nông dân trồng lúa mỗi năm trong một cánh đồng trong vài năm. Mỗi năm, ông ta nhận thấy sản xuất lúa của mình trên mỗi acre đã giảm mặc dù điều kiện thời tiết đã rất tương tự. Thay đổi trong yếu tố phi sinh thái nào là nguyên nhân khả năng gây ra sự giảm sản xuất của lúa?",
+    "option_a": "Giảm dinh dưỡng đất",
+    "option_b": "Tăng lượng mưa",
+    "option_c": "Tăng tốc độ gió",
+    "option_d": "Giảm ánh sáng mặt trời"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2012_8_23636",
+    "answer": "D",
+    "instruction": "Quá trình nào sau đây thường mất nhiều thời gian nhất?",
+    "option_a": "Nham thạch nóng tan chảy và đông lại thành đá mới.",
+    "option_b": "Hơi nước ngưng tụ để tạo thành đám mây.",
+    "option_c": "Sóng địa chấn đi qua lõi trái đất.",
+    "option_d": "Một vực đại dương hình thành giữa hai lục địa."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_406705",
+    "answer": "B",
+    "instruction": "Lớp của Anna đếm số con bướm trong khu vườn trường cho một bài tập. Kết quả của Anna khác với phần còn lại của lớp. Cô ấy nên làm gì?",
+    "option_a": "Thay đổi bài tập.",
+    "option_b": "Để kết quả không đổi.",
+    "option_c": "Phù hợp kết quả của mình với lớp.",
+    "option_d": "Yêu cầu giáo viên đếm giúp cho."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7186148",
+    "answer": "B",
+    "instruction": "Một học sinh đang khuấy một cốc sô cô la nóng bằng một cái muỗng. Sự trao đổi nhiệt xảy ra giữa sô cô la nóng và phần của muỗng ở trong sô cô la nóng như thế nào?",
+    "option_a": "Dẫn nhiệt truyền năng lượng từ muỗng đến sô cô la nóng.",
+    "option_b": "Dẫn nhiệt truyền năng lượng từ sô cô la nóng đến muỗng.",
+    "option_c": "Sự lưu trội truyền năng lượng từ muỗng đến sô cô la nóng.",
+    "option_d": "Sự lưu trội truyền năng lượng từ sô cô la nóng đến muỗng."
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_28",
+    "answer": "B",
+    "instruction": "Những con chim lớn đã ăn những động vật nhỏ trong khu vực này. Nếu tất cả những con chim lớn chết vì một căn bệnh gì đó, số lượng động vật nhỏ trong khu vực có thể",
+    "option_a": "giảm",
+    "option_b": "tăng",
+    "option_c": "không thay đổi"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7005478",
+    "answer": "B",
+    "instruction": "Nhiệt độ cơ thể người có sự ổn định tương đối. Cơ chế phản hồi nào giúp cơ thể người duy trì nhiệt độ bình thường trong một môi trường lạnh?",
+    "option_a": "Nước được giải phóng từ da.",
+    "option_b": "Các cơ nhỏ rung lắc.",
+    "option_c": "Tốc độ nhịp tim chậm lại.",
+    "option_d": "Phổi hít thêm không khí."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2009_8_5",
+    "answer": "D",
+    "instruction": "Phương án nào sau đây sẽ giúp giảm tắc nghẽn giao thông hàng không tại một sân bay đông đúc nhất?",
+    "option_a": "Cung cấp phản hồi về hiệu suất cho các phi công",
+    "option_b": "Cung cấp thông tin chuyến bay cho hành khách",
+    "option_c": "Tăng số lượng máy bay tại sân bay",
+    "option_d": "Tăng số lượng đường băng tại sân bay"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7037573",
+    "answer": "D",
+    "instruction": "Phương pháp tốt nhất để thực hiện một thí nghiệm là gì?",
+    "option_a": "Sử dụng cẩn thận khi xử lý đồ thủy tinh nóng",
+    "option_b": "Tắt bếp khi bạn không sử dụng chúng",
+    "option_c": "Nghiên cứu các quy trình thí nghiệm trước khi thực hiện",
+    "option_d": "Kiểm tra với giáo viên của bạn về quy trình để đổ hóa chất"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2012_5_8",
+    "answer": "B",
+    "instruction": "Cameron đang mua một chiếc bàn mới. Anh ấy muốn đảm bảo rằng chiếc bàn sẽ vừa vào góc của phòng của mình. Khi Cameron tìm mua chiếc bàn mới, điều gì sau đây sẽ giúp anh ấy đảm bảo rằng chiếc bàn sẽ vừa?",
+    "option_a": "một bức tranh cho thấy thảm của phòng của anh ấy",
+    "option_b": "một biểu đồ về kích thước của phòng của anh ấy",
+    "option_c": "một bản vẽ cho thấy cách lắp ghép một chiếc bàn",
+    "option_d": "một danh sách dụng cụ mà anh ấy cần để lắp ghép chiếc bàn"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7092295",
+    "answer": "C",
+    "instruction": "Hành động nào tạo ra sự cạnh tranh giữa đòi hỏi về môi trường và lợi ích kinh tế?",
+    "option_a": "bảo vệ động vật hoang dã có nguy cơ tuyệt chủng",
+    "option_b": "tái giới thiệu các loài vào môi trường sống tự nhiên của chúng",
+    "option_c": "sử dụng đất rừng để xây dựng nhà cửa",
+    "option_d": "sử dụng xe buýt trong thành phố để di chuyển"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7131828",
+    "answer": "C",
+    "instruction": "Ở nhiều vùng nhiệt đới, muỗi có thể mang một tảo ký sinh trùng gây bệnh truyền nhiễm cho con người. Các lựa chọn bên dưới, loại quan hệ nào mô tả tốt nhất giữa con muỗi và con người?",
+    "option_a": "Kẻ săn mồi - con mồi",
+    "option_b": "Cạnh tranh tài nguyên",
+    "option_c": "Nhân tố sống tương tác với nhau",
+    "option_d": "Chuyển hóa năng lượng từ nhà sản xuất đến người tiêu dùng"
+  },
+  {
+    "id": "ARC-Challenge/validation/TIMSS_2003_8_pg31",
+    "answer": "B",
+    "instruction": "Quạt có thể làm cho lửa đốt gỗ nóng hơn vì quạt",
+    "option_a": "làm thức ăn đủ nóng để đốt cháy",
+    "option_b": "thêm oxy cần thiết để đốt cháy",
+    "option_c": "tăng số lượng gỗ cần để đốt",
+    "option_d": "cung cấp năng lượng cần thiết để duy trì ngọn lửa"
+  },
+  {
+    "id": "ARC-Challenge/validation/ACTAAP_2007_7_5",
+    "answer": "B",
+    "instruction": "Một thí nghiệm được thực hiện với một bình kín. Nhiệt độ của bình ban đầu là 70 độ F và áp suất không khí là 20 psi. Bình được đun nóng, và áp suất bên trong bình tăng đều theo nhiệt độ tăng lên. Nếu bình được làm lạnh trở lại 70 độ F, áp suất không khí sẽ là bao nhiêu?",
+    "option_a": "10 psi",
+    "option_b": "20 psi",
+    "option_c": "30 psi",
+    "option_d": "40 psi"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7120908",
+    "answer": "D",
+    "instruction": "Một chiếc glider là một loại máy bay không động cơ. Ngoài kích thước, điều gì chính cần được cân nhắc khi thiết kế một chiếc glider để bay được một khoảng cách lớn?",
+    "option_a": "tác động môi trường và khối lượng",
+    "option_b": "chi phí và tác động môi trường",
+    "option_c": "độ bền và chi phí",
+    "option_d": "khối lượng và độ bền"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_180443",
+    "answer": "C",
+    "instruction": "Chu kỳ mặt trăng nào xảy ra sau khi trăng lưỡi liềm tăng?",
+    "option_a": "trăng lưỡi liềm giảm",
+    "option_b": "trăng mồng tơi tăng",
+    "option_c": "trăng tròn",
+    "option_d": "trăng tối"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7238963",
+    "answer": "A",
+    "instruction": "Một cằm rãnh ở con người được mã hóa bởi gen ái lực C. Một cằm không có rãnh được mã hóa bởi gen rétessif c. Một người đàn ông có tổ hợp gen cc cho đặc tính này sản xuất một zygote với một người phụ nữ có tổ hợp gen Cc cho đặc tính này. Có thể có bao nhiêu tổ hợp gen ở zygote?",
+    "option_a": "Cc hoặc cc",
+    "option_b": "CC hoặc Cc",
+    "option_c": "Chỉ có CC",
+    "option_d": "Chỉ có Cc"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_184765",
+    "answer": "B",
+    "instruction": "Việc đốn hạ khu rừng liên tục lớn sẽ dẫn đến kết quả nào sau đây là phổ biến nhất?",
+    "option_a": "Tỷ lệ oxy trên diện tích sẽ tăng lên.",
+    "option_b": "Lượng xói mòn trong khu vực sẽ tăng lên.",
+    "option_c": "Đa dạng loài trong khu vực sẽ tăng lên.",
+    "option_d": "Dinh dưỡng đất trong khu vực sẽ tăng lên."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7235813",
+    "answer": "D",
+    "instruction": "Carbon lưu thông qua các hồ chứa trên Trái đất. Thời gian để hình thành các hồ chứa này có sự khác biệt lớn. Quá trình nào trong chu kỳ cacbon mất hàng triệu năm để hình thành hồ chứa được chỉ ra?",
+    "option_a": "Hợp nhất cacbon thông qua quá trình tiêu hóa vào các mô động vật",
+    "option_b": "Thải cacbon ra khỏi khí quyển khi thở",
+    "option_c": "Cacbon trong khí quyển hòa tan vào đường trong cây",
+    "option_d": "Phân hủy cacbon trong mô thực vật để hình thành dầu"
+  },
+  {
+    "id": "ARC-Challenge/validation/OHAT_2007_5_24",
+    "answer": "B",
+    "instruction": "Trong rừng, vi sinh vật phân hủy giúp các sinh vật khác sống như thế nào?",
+    "option_a": "Họ thải oxy vào không khí mà động vật hít thở.",
+    "option_b": "Họ đưa chất dinh dưỡng vào đất để cây trồng sử dụng để phát triển.",
+    "option_c": "Họ cung cấp nơi trú ẩn trong rừng cho động vật có thể che giấu.",
+    "option_d": "Họ sử dụng ánh sáng mặt trời để sản xuất thức ăn cho thực vật và động vật."
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2007_8_15",
+    "answer": "C",
+    "instruction": "Hành động của con người ảnh hưởng đến môi trường. Hành động của con người nào ảnh hưởng đến diện tích nhỏ nhất của môi trường?",
+    "option_a": "đốt rừng",
+    "option_b": "đốt nhiên liệu hóa thạch",
+    "option_c": "đào một bãi rác mới",
+    "option_d": "phun thuốc cho cây trồng"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7162838",
+    "answer": "D",
+    "instruction": "Các con chuột thí nghiệm được cho ăn thêm thực phẩm bổ sung dâu tây, việt quất hoặc rau bina, kèm với thức ăn thông thường. Sau tám tuần, các con chuột được thử nghiệm về trí nhớ và kỹ năng chuyển động. Những con chuột được cho thực phẩm bổ sung dâu tây đã cho thấy sự cải thiện nhất. Điều nào là biến số độc lập (được điều chỉnh) của cuộc điều tra?",
+    "option_a": "bài kiểm tra kỹ năng chuyển động",
+    "option_b": "quá trình lão hóa",
+    "option_c": "bài kiểm tra trí nhớ",
+    "option_d": "thực phẩm bổ sung"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_405973",
+    "answer": "B",
+    "instruction": "Nhiều loại chim sống trên một hòn đảo nhỏ. Một trận bão phá hủy hầu hết các loại cây mà chim ăn và lấy tổ. Loại chim nào có khả năng sống sót nhất trên hòn đảo?",
+    "option_a": "những con chim có số lượng lớn nhất",
+    "option_b": "những con chim có khả năng thích nghi tốt nhất",
+    "option_c": "những con chim có thể bay xa nhất",
+    "option_d": "những con chim với mỏ mạnh nhất"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2000_8_10",
+    "answer": "B",
+    "instruction": "Câu nào là quan điểm?",
+    "option_a": "Nhiều loại thực vật có màu xanh lá.",
+    "option_b": "Nhiều loại thực vật rất đẹp.",
+    "option_c": "Thực vật cần ánh sáng mặt trời.",
+    "option_d": "Thực vật có thể sinh trưởng ở nhiều địa điểm khác nhau."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7103180",
+    "answer": "B",
+    "instruction": "Vùng sinh thái nào có nhiều thực vật nhất?",
+    "option_a": "sa mạc",
+    "option_b": "rừng",
+    "option_c": "đồng cỏ",
+    "option_d": "đất ngàn lạnh"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7221865",
+    "answer": "C",
+    "instruction": "Một nhóm học sinh quan sát sự hình thành bong bóng khi nước sôi. Chuyện gì đã xảy ra với chất vì sự thay đổi vật lý của nước?",
+    "option_a": "Chất mới được tạo ra trong các bong bóng.",
+    "option_b": "Chất cũ bị phá hủy khi nước chuyển thành khí.",
+    "option_c": "Chất được bảo tồn khi thay đổi hình thái.",
+    "option_d": "Thành phần của chất bị thay đổi."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7242743",
+    "answer": "D",
+    "instruction": "Các protein được tổng hợp trong các phân đoạn nhỏ của ribosome trải qua quá trình biến đổi sau dịch chuyển, được đóng gói và điều hướng đến địa điểm phù hợp. Bộ phận cấu trúc nào của một tế bào tham gia vào quá trình biến đổi này?",
+    "option_a": "lưới nhện endoplasmic",
+    "option_b": "lysozyme",
+    "option_c": "vi mitochondria",
+    "option_d": "bộ phận Golgi"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7103565",
+    "answer": "C",
+    "instruction": "Hệ thống áp suất cao ngăn không cho không khí đi lên các vùng lạnh hơn trong bầu khí quyển nơi mà nước có thể ngưng tụ. Điều gì sẽ có thể xảy ra nếu hệ thống áp suất cao duy trì trong một khu vực trong một khoảng thời gian dài?",
+    "option_a": "sương mù",
+    "option_b": "mưa",
+    "option_c": "hạn hán",
+    "option_d": "lốc xoáy"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415541",
+    "answer": "D",
+    "instruction": "Đối tượng nào sau đây có khả năng nổi trên mặt nước?",
+    "option_a": "cầu thủy tinh",
+    "option_b": "quả cầu thép",
+    "option_c": "quả cầu cao su cứng",
+    "option_d": "quả bóng bàn"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_9",
+    "answer": "A",
+    "instruction": "Một học sinh lấy khay đá viên từ tủ đông và đặt nó lên một cái bàn. Các đá viên rất đá và rắn. Học sinh quên để lại khay đá viên trong tủ đông. Ngày hôm sau, các đá viên sẽ",
+    "option_a": "dạng lỏng và ấm hơn",
+    "option_b": "vẫn là dạng rắn và ấm hơn",
+    "option_c": "dạng lỏng và lạnh hơn",
+    "option_d": "vẫn là dạng rắn và lạnh hơn"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7097318",
+    "answer": "D",
+    "instruction": "Một con sóc thả một quả sồi từ một cành cây sồi. Trong số các thông số sau, có thông số nào sẽ thay đổi khi quả sồi rơi từ cây xuống đất?",
+    "option_a": "khối lượng của quả sồi",
+    "option_b": "lực tác dụng lên quả sồi",
+    "option_c": "mật độ của quả sồi",
+    "option_d": "vận tốc của quả sồi"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_8_20",
+    "answer": "B",
+    "instruction": "Phương trình bên dưới thể hiện các sản phẩm được tạo thành khi dung dịch nitrat bạc (AgNO3) phản ứng với dung dịch clorua natri (NaCl). AgNO3 + NaCl (chất đầu vào) -> NaNO3 + AgCl (Sản phẩm) Trong phương trình này, khối lượng toàn bộ của chất đầu vào là",
+    "option_a": "lớn hơn tổng khối lượng các sản phẩm",
+    "option_b": "bằng với tổng khối lượng các sản phẩm",
+    "option_c": "bằng với khối lượng AgCl",
+    "option_d": "nhỏ hơn khối lượng AgCl"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415397",
+    "answer": "C",
+    "instruction": "Thay đổi nào tạo thành một cấu trúc trên bề mặt Trái đất?",
+    "option_a": "Lũ lụt khiến người ta rời khỏi một thị trấn.",
+    "option_b": "Một trận động đất gây sóng trên một cánh đồng.",
+    "option_c": "Núi lửa tạo ra đất mới với dung nham.",
+    "option_d": "Một lở đất rơi vào vịnh tạo ra sóng thủy triều."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7246348",
+    "answer": "A",
+    "instruction": "Tính năng nào không được tạo thành do các mảnh kiến tạo bị chia cắt?",
+    "option_a": "Vực sâu",
+    "option_b": "Thung lũng nứt",
+    "option_c": "Hạ lưu đại dương",
+    "option_d": "Dãy núi đại dương"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7270200",
+    "answer": "A",
+    "instruction": " các nhà khoa học đã giải thích cách các axit amin, carbohydrates, nucleic acids, và fatty acids có thể được tổng hợp trên trái đất trước khi các sinh vật sống xuất hiện. Điều gì sau đây sẽ ủng hộ khẳng định rằng sự sống phát sinh tự nhiên từ các hợp chất sinh hóa này?",
+    "option_a": "Những hợp chất này có thể tự lắp ráp thành một cấu trúc tự sao chép.",
+    "option_b": "Những hợp chất này đang được sử dụng bởi các sinh vật sống ngày nay.",
+    "option_c": "Những hợp chất này được tìm thấy trên một hành tinh khác.",
+    "option_d": "Những hợp chất này có thể tự lắp ráp thành một siêu vi."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415026",
+    "answer": "C",
+    "instruction": "Loài động vật nào có thể được giúp đỡ nhất bởi lũ lụt ở khu vực ven biển?",
+    "option_a": "nai",
+    "option_b": "gấu mèo",
+    "option_c": "cá sấu",
+    "option_d": "sói đồng cỏ"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7143518",
+    "answer": "D",
+    "instruction": "Chú sói đực được biết đến với khả năng xây các đập chắn trên sông và con suối bằng cách đốn cây và thu thập cỏ dại và bụi rậm. Dân số chú sói đực ở Hoa Kỳ đã giảm do bị bắt bởi con người. Hậu quả sinh thái nào dưới đây có thể xảy ra khi dân số chú sói đực giảm đi một cách đáng kể?",
+    "option_a": "giảm đáng kể dân số cá",
+    "option_b": "tăng đáng kể hệ sinh thái rừng",
+    "option_c": "tăng đáng kể sự bay hơi nước",
+    "option_d": "giảm đáng kể số lượng môi trường sống của các loài động vật sống trong vùng hồ nước"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7032340",
+    "answer": "D",
+    "instruction": "Trong các lựa chọn sau, cái nào mô tả thế giới tự nhiên bằng mẫu?",
+    "option_a": "đọc một cuốn sách về cộng đồng chuột đồng",
+    "option_b": "nhìn vào một bức tranh về cộng đồng chuột đồng",
+    "option_c": "nghiên cứu cộng đồng chuột đồng bằng Internet",
+    "option_d": "quan sát một cộng đồng chuột đồng trong khu trưng bày tại sở thú"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_415263",
+    "answer": "C",
+    "instruction": "Trong tế bào động vật nhân thực nhưng không có trong tế bào vi khuẩn là gì?",
+    "option_a": "ADN",
+    "option_b": "cytoplasm",
+    "option_c": "hạt nhân",
+    "option_d": "màng tế bào"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7090720",
+    "answer": "B",
+    "instruction": "Ethanol là nhiên liệu thay thế được làm từ ngô. Một trong những tác động bất lợi của việc sử dụng ethanol là gì?",
+    "option_a": "giảm chi phí sản xuất nhiên liệu",
+    "option_b": "giảm diện tích đất nông nghiệp sẵn có cho sản xuất thực phẩm",
+    "option_c": "tăng tiêu thụ nhiên liệu hóa thạch",
+    "option_d": "tăng lượng khí thải carbon từ hoạt động lái xe"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_410964",
+    "answer": "D",
+    "instruction": "Học sinh đang điều tra cách hoạt động của chuông cửa. Nhận xét nào sau đây là có thể được quan sát trong quá trình điều tra?",
+    "option_a": "Tất cả các chuông cửa tạo ra những âm thanh đẹp.",
+    "option_b": "Một viên pin là nguồn điện tốt nhất cho chuông cửa.",
+    "option_c": "Hầu hết mọi người thích dùng chuông cửa hơn là gõ cửa.",
+    "option_d": "Chuông cửa sử dụng một mảnh dây cuộn quanh một nam châm."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7057313",
+    "answer": "A",
+    "instruction": "Cơ tim được mô tả tốt nhất là",
+    "option_a": "cùng loại tế bào hoạt động cùng nhau.",
+    "option_b": "các hệ thống khác nhau hoạt động cùng nhau.",
+    "option_c": "cùng loại cơ quan hình thành một hệ thống.",
+    "option_d": "các cơ quan khác nhau thực hiện một chức năng."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_402101",
+    "answer": "D",
+    "instruction": "Những đặc điểm nào có thể được tìm thấy trên bề mặt của cả Trái đất và Mặt trăng?",
+    "option_a": "các loại thực vật",
+    "option_b": "đại dương",
+    "option_c": "các loài động vật",
+    "option_d": "núi"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2010_8_12010",
+    "answer": "C",
+    "instruction": "Một số loại vi khuẩn sản xuất một chất độc hại đối với côn trùng nhưng không có hại đối với con người. Các nhà khoa học đã phân lập gen điều khiển sản xuất chất này. Lý do tốt nhất để chèn gen này vào cây bắp là gì?",
+    "option_a": "Cây bắp sẽ phát triển nhanh hơn.",
+    "option_b": "Ít phân bón hơn sẽ được sử dụng.",
+    "option_c": "Ít thuốc trừ sâu hơn sẽ được sử dụng.",
+    "option_d": "Cây bắp sẽ giàu dinh dưỡng hơn."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7038133",
+    "answer": "B",
+    "instruction": "Một học sinh lên kế hoạch thực hiện một cuộc điều tra để tính toán tốc độ của các quả bóng khác nhau khi chúng lăn xuống đường dốc. Thông tin nào là không cần thiết nhất phải được học sinh ghi chép?",
+    "option_a": "kích thước của mỗi quả bóng",
+    "option_b": "độ dày của đường dốc",
+    "option_c": "chiều dài của đường dốc",
+    "option_d": "thời gian mà quả bóng mất để di chuyển"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_407169",
+    "answer": "D",
+    "instruction": "Khi một môi trường sống có ao nhỏ trải qua thời kỳ hạn hán dài, điều gì xảy ra với nhiều con cá trong ao?",
+    "option_a": "Chúng sẽ thích nghi với môi trường khô cằn.",
+    "option_b": "Chúng sẽ sống bằng nguồn nước khác.",
+    "option_c": "Chúng sẽ di chuyển đến môi trường sống khác.",
+    "option_d": "Chúng sẽ không thể tồn tại được."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7103215",
+    "answer": "C",
+    "instruction": "Một sinh viên muốn xác định tác động của tỏi đối với sự phát triển của một loài nấm. Một số mẫu nấm được trồng trong cùng một lượng agar và ánh sáng. Mỗi mẫu được cho một lượng tỏi khác nhau. Điều gì là biến số độc lập trong cuộc điều tra này?",
+    "option_a": "Lượng agar",
+    "option_b": "Lượng ánh sáng",
+    "option_c": "Lượng tỏi",
+    "option_d": "Lượng tăng trưởng"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2013_8_29432",
+    "answer": "B",
+    "instruction": "Phần nào sau của tế bào thực vật có chức năng tương tự với xương của động vật?",
+    "option_a": "màng tế bào",
+    "option_b": "tường tế bào",
+    "option_c": "lụy quang",
+    "option_d": "hạt nhân"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7018008",
+    "answer": "A",
+    "instruction": "Đặc tính điện của nguyên tử được mô tả tốt nhất bởi điều gì?",
+    "option_a": "trung tính",
+    "option_b": "cách điện",
+    "option_c": "mang điện tích dương",
+    "option_d": "mang điện tích âm"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7166530",
+    "answer": "B",
+    "instruction": "Ira phải thực hiện một cuộc điều tra thí nghiệm sau giờ học. Anh ấy đã lấy được các vật liệu, hóa chất, trang thiết bị và đồ bảo hộ từ giáo viên của mình. Anh ấy thực hiện các bước trong thí nghiệm theo thủ tục viết ra một cách nhanh chóng, nhưng cẩn thận. Để tiết kiệm thời gian, anh ấy quyết định ghi lại quan sát và kết quả của mình sau đó. Quyết định của anh ấy sẽ ảnh hưởng tiêu cực đến yếu tố nào nhất có thể?",
+    "option_a": "khả năng theo đúng hướng dẫn",
+    "option_b": "khả năng viết báo cáo hợp lệ",
+    "option_c": "khả năng làm theo hướng dẫn an toàn",
+    "option_d": "khả năng đưa ra kết luận"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400047",
+    "answer": "B",
+    "instruction": "Một sinh viên đã để một thanh sô cô la dưới ánh nắng trên một ngày nóng. Khi sô cô la tan chảy, thuộc tính nào bị thay đổi?",
+    "option_a": "khối lượng của nó",
+    "option_b": "hình dạng của nó",
+    "option_c": "trọng lượng của nó",
+    "option_d": "cấu trúc của nó"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7044100",
+    "answer": "C",
+    "instruction": "Những cách nào có thể làm giàu dinh dưỡng đất trong ruộng trồng bị suy giảm?",
+    "option_a": "đàn gia súc chăn thả quá mức",
+    "option_b": "thổi bay đất bởi gió",
+    "option_c": "tăng thêm lượng tưới nước",
+    "option_d": "tăng lượng bón phân"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7075145",
+    "answer": "A",
+    "instruction": "Quá trình nào làm cho các tế bào có thể hấp thụ nước?",
+    "option_a": "thẩm thấu",
+    "option_b": "pha mitô",
+    "option_c": "quang hợp",
+    "option_d": "hô hấp"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_192290",
+    "answer": "D",
+    "instruction": "Mặc dù thuộc cùng họ, một con đại bàng và một con bồn-bồn khác nhau. Điểm khác nhau giữa chúng là gì?",
+    "option_a": "sở thích ăn thịt cá của họ",
+    "option_b": "khả năng bay của họ",
+    "option_c": "phương pháp sinh sản của họ",
+    "option_d": "phương pháp bắt mồi của họ"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7093975",
+    "answer": "D",
+    "instruction": "Điều gì là nguyên nhân tự nhiên dẫn đến sông cạn khô?",
+    "option_a": "ô nhiễm",
+    "option_b": "xói mòn",
+    "option_c": "mực nước dâng cao",
+    "option_d": "thiếu lượng mưa"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7085820",
+    "answer": "D",
+    "instruction": "Khi nước bắt đầu đóng băng, các phân tử của nước",
+    "option_a": "nhận năng lượng nhiệt.",
+    "option_b": "di chuyển tự do hơn.",
+    "option_c": "tăng kích thước.",
+    "option_d": "giảm tốc độ."
+  },
+  {
+    "id": "ARC-Challenge/validation/MEA_2016_5_6",
+    "answer": "C",
+    "instruction": "Một quả bóng đầy nước được đặt trong tủ đông. Thuộc tính nào của nước sẽ thay đổi khi nước đạt tới điểm đông?",
+    "option_a": "màu sắc",
+    "option_b": "khối lượng",
+    "option_c": "trạng thái",
+    "option_d": "trọng lượng"
+  },
+  {
+    "id": "ARC-Challenge/validation/NCEOGA_2013_5_43",
+    "answer": "B",
+    "instruction": "Trước khi đám mây có thể hình thành, điều gì phải xảy ra?",
+    "option_a": "Hơi nước phải được làm nóng.",
+    "option_b": "Hơi nước phải mất năng lượng nhiệt.",
+    "option_c": "Mưa phải bắt đầu rơi và chảy ra.",
+    "option_d": "Sự bốc hơi phải thêm hơi nước vào khí quyển."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7250023",
+    "answer": "A",
+    "instruction": "Tất cả các tế bào, kh prokaryotic và eukaryotic, đều có một vài đặc điểm chung. Đặc điểm nào của tế bào được tìm thấy trong cả tế bào prokaryotic và eukaryotic?",
+    "option_a": "ribosome",
+    "option_b": "màng chloroplast",
+    "option_c": "hạt nhân",
+    "option_d": "reticulum endoplasmic"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7003955",
+    "answer": "D",
+    "instruction": "Các sợi tóc đứng dựng lên do tĩnh điện có điện tích loại nào?",
+    "option_a": "các điện tích trung hòa",
+    "option_b": "sự xả điện trung hòa",
+    "option_c": "điện tích dương vĩnh viễn",
+    "option_d": "các điện tích dương tạm thời"
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2010_5_18",
+    "answer": "D",
+    "instruction": "Gió là một nguồn tài nguyên tự nhiên có lợi cho bờ biển phía đông nam của Vịnh Chesapeake. Làm thế nào để gió này có lợi nhất cho con người?",
+    "option_a": "Gió có thể đẩy những tràn dầu vào vịnh.",
+    "option_b": "Gió có thể được chuyển đổi thành Nhiên liệu hóa thạch.",
+    "option_c": "Gió có thể thổi khí ô nhiễm đến đất liền.",
+    "option_d": "Gió có thể được chuyển đổi thành năng lượng điện."
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_2",
+    "answer": "D",
+    "instruction": "Khoảng bao lâu thì Trái đất quay một vòng quanh Mặt trời?",
+    "option_a": "một ngày",
+    "option_b": "một tuần",
+    "option_c": "một tháng",
+    "option_d": "một năm"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_411306",
+    "answer": "D",
+    "instruction": "Các loại cây khác nhau có những đặc điểm chung. Đặc điểm nào phổ biến nhất ở hầu hết cây?",
+    "option_a": "kích cỡ của rễ cây",
+    "option_b": "hình dạng của lá",
+    "option_c": "màu sắc của hoa",
+    "option_d": "cấu trúc của tế bào"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7241115",
+    "answer": "C",
+    "instruction": "Sự kiện nào có khả năng tạo điều kiện cho sự phát triển đa dạng của động vật có vú trong thời kỳ Creta?",
+    "option_a": "thành lập siêu lục địa Pangaea",
+    "option_b": "hoạt động núi lửa mạnh",
+    "option_c": "nhiệt độ mát mẻ hơn",
+    "option_d": "mực nước biển dâng cao"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7042735",
+    "answer": "C",
+    "instruction": "Trong lớp học khoa học, một dung dịch của nước và hợp chất không độc hại được sản xuất. Sau khi thí nghiệm kết thúc, điều gì nên được thực hiện với dung dịch này?",
+    "option_a": "Nó nên được đổ xuống cống.",
+    "option_b": "Nó nên được đổ vào thùng tái chế.",
+    "option_c": "Nó nên được đổ vào thùng rác.",
+    "option_d": "Nó nên được đặt vào thùng chứa chất thải nguy hiểm."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2004_9_13",
+    "answer": "D",
+    "instruction": "Loại căng thẳng chính mà một đồ gá cố định tác động lên một mảnh gỗ là gì trong các lựa chọn sau?",
+    "option_a": "căng",
+    "option_b": "cắt",
+    "option_c": "xoắn",
+    "option_d": "nén"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_176015",
+    "answer": "D",
+    "instruction": "Một nhóm học sinh đang điều tra hai chất để xác định chúng là muối ăn hay đường. Học sinh nên làm thế nào để xác định mỗi chất?",
+    "option_a": "nhận biết xem chúng có tan trong nước không",
+    "option_b": "nghiên cứu màu của chất",
+    "option_c": "quan sát xem chúng có bám vào bề mặt không",
+    "option_d": "xem xét hình dạng của tinh thể"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7215180",
+    "answer": "C",
+    "instruction": "Các nhà khoa học đang thu thập các mẫu granite trong dãy núi phía Tây Nevada. Định dạng nào là tốt nhất để hiển thị và so sánh phần trăm khoáng chất được tìm thấy trong một mẫu granite?",
+    "option_a": "biểu đồ cột",
+    "option_b": "biểu đồ đường",
+    "option_c": "biểu đồ tròn",
+    "option_d": "biểu đồ phân tán"
+  },
+  {
+    "id": "ARC-Challenge/validation/TIMSS_2007_4_pg26",
+    "answer": "B",
+    "instruction": "Một con vật có sáu chân. Nó có thể là con gì?",
+    "option_a": "một con nhện",
+    "option_b": "một con ruồi",
+    "option_c": "một con thằn lằn",
+    "option_d": "một con rết"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_177818",
+    "answer": "C",
+    "instruction": "Thời lượng giữa đêm và ngày trên Trái Đất thay đổi suốt năm. Sự thay đổi này chủ yếu được giải thích bởi",
+    "option_a": "vị trí của Mặt trời.",
+    "option_b": "vị trí của Mặt trăng.",
+    "option_c": "góc nghiêng của Trái Đất",
+    "option_d": "khoảng cách từ Trái Đất đến Mặt trời"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_405487",
+    "answer": "B",
+    "instruction": "Một năm nào đó, cây sồi trong công viên bắt đầu cho ra nhiều hạt sồi hơn bình thường. Năm sau đó, số lượng sóc trong công viên cũng tăng lên. Điều gì giải thích tốt nhất cho việc có nhiều sóc hơn vào năm sau?",
+    "option_a": "Khu vực bóng mát tăng lên.",
+    "option_b": "Nguồn thức ăn tăng lên.",
+    "option_c": "Mức độ ôxy tăng lên.",
+    "option_d": "Nước có sẵn tăng lên."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400612",
+    "answer": "C",
+    "instruction": "Bề mặt Trái Đất thay đổi liên tục do xói mòn và thủy phân. So với Trái Đất, có rất ít sự xói mòn và thủy phân trên Mặt Trăng do",
+    "option_a": "sự thiếu trọng lực trên Mặt Trăng.",
+    "option_b": "khí quyển mỏng trên Mặt Trăng.",
+    "option_c": "sự thiếu không khí và nước trên Mặt Trăng.",
+    "option_d": "sự thiếu sinh vật sống trên Mặt Trăng."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400655",
+    "answer": "A",
+    "instruction": "Trong các tùy chọn sau, thay đổi lớn nhất có thể quan sát được giữa mùa hè và mùa đông là điều gì?",
+    "option_a": "lượng ánh sáng ban ngày",
+    "option_b": "độ cao sóng đại dương",
+    "option_c": "số lượng cơn bão",
+    "option_d": "kích thước đám mây"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415735",
+    "answer": "C",
+    "instruction": "Anya đặt một viên đá trên lề đường vào một ngày nóng. Viên đá nhanh chóng tan để tạo thành một vũng nước. Quá trình nào đã làm cho viên đá tan chảy?",
+    "option_a": "Nhiệt được truyền qua viên đá theo chiều truyền động.",
+    "option_b": "Nhiệt được truyền từ không khí đến viên đá qua bức xạ.",
+    "option_c": "Nhiệt được truyền từ không khí và vỉa hè qua dẫn nhiệt.",
+    "option_d": "Nhiệt được truyền qua viên đá vào vỉa hè qua dẫn nhiệt."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2005_8_5",
+    "answer": "D",
+    "instruction": "Sao Thủy, hành tinh gần nhất với Mặt Trời, có nhiệt độ bề mặt cực đoan, dao động từ 465 ⁰C dưới ánh sáng mặt trời đến -180 ⁰C trong bóng tối. Tại sao lại có một khoảng nhiệt độ lớn như vậy trên Sao Thủy?",
+    "option_a": "Hành tinh quá nhỏ để giữ nhiệt.",
+    "option_b": "Hành tinh được làm nóng chỉ ở một mặt.",
+    "option_c": "Hành tinh phản xạ nhiệt từ mặt tối của nó.",
+    "option_d": "Hành tinh thiếu bầu khí quyển để giữ nhiệt."
+  },
+  {
+    "id": "ARC-Challenge/validation/TIMSS_2003_8_pg14",
+    "answer": "B",
+    "instruction": "Tại sao côn trùng đực lại được điều trị để ngăn sản xuất tinh trùng?",
+    "option_a": "Để tăng số lượng côn trùng cái",
+    "option_b": "Để giảm tổng số dân số côn trùng",
+    "option_c": "Để sản xuất loài côn trùng mới",
+    "option_d": "Để ngăn côn trùng giao phối"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_20",
+    "answer": "D",
+    "instruction": "Chức năng chính của thân cây là cung cấp",
+    "option_a": "không khí",
+    "option_b": "trái cây",
+    "option_c": "ánh sáng mặt trời",
+    "option_d": "sự hỗ trợ"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7017990",
+    "answer": "A",
+    "instruction": "Hành động nào không đại diện cho quy trình an toàn trong phòng thí nghiệm?",
+    "option_a": "nếm các mẫu hóa chất",
+    "option_b": "sử dụng găng tay chịu nhiệt nếu đồ thủy tinh nóng",
+    "option_c": "buộc tóc dài lại",
+    "option_d": "rửa các vết bắn hóa chất với nhiều nước"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7264023",
+    "answer": "D",
+    "instruction": "Trong các phần tử sau, phần tử nào không có thể tìm thấy trong một hợp chất hữu cơ?",
+    "option_a": "cacbon",
+    "option_b": "hydro",
+    "option_c": "nitơ",
+    "option_d": "kali"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7138513",
+    "answer": "A",
+    "instruction": "Một hòn đảo có nhiều loài chim, không có loài rắn bản địa và ít kẻ săn mồi lớn. Rắn nâu ăn trứng chim. Kết quả có khả năng nhất nếu rắn nâu bị phóng thích vô ý trên đảo là gì?",
+    "option_a": "nhiều rắn hơn và ít chim hơn",
+    "option_b": "nhiều rắn hơn và nhiều chim hơn",
+    "option_c": "ítt rắn hơn và ít chim hơn",
+    "option_d": "ítt rắn hơn và nhiều chim hơn"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_401663",
+    "answer": "B",
+    "instruction": "Học sinh có thể bảo tồn tài nguyên bằng cách đặt những vật phẩm nào trong thùng phân hủy?",
+    "option_a": "phân bón",
+    "option_b": "cây đậu",
+    "option_c": "ống thủy tinh",
+    "option_d": "ống nhựa"
+  },
+  {
+    "id": "ARC-Challenge/validation/ACTAAP_2011_5_3",
+    "answer": "C",
+    "instruction": "Một lượng lớn trầm tích được nước đưa lên khi nước chảy xuống đồi trong sông và suối. Khi nước trong một con sông hoặc một con suối đang chảy nhanh và sau đó bắt đầu chậm lại, thì điều gì có thể xảy ra với các hạt trầm tích mà nước đang mang?",
+    "option_a": "Số lượng các hạt trầm tích lớn được đưa đi bởi nước sẽ tăng lên.",
+    "option_b": "Số lượng các hạt trầm tích nhỏ được đưa đi bởi nước sẽ tăng lên.",
+    "option_c": "Số lượng các hạt trầm tích lớn được đưa đi bởi nước sẽ giảm xuống.",
+    "option_d": "Số lượng các hạt trầm tích nhỏ được đưa đi bởi nước sẽ giảm xuống."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7195440",
+    "answer": "B",
+    "instruction": "Khoảng 50 triệu mẫu Anh đất rừng nhiệt đới bị chặt phá hàng năm. Tác động nào có khả năng xảy ra nhiều nhất do việc chặt phá rừng này?",
+    "option_a": "giảm thiểu sạt lở đất",
+    "option_b": "giảm đa dạng sinh học",
+    "option_c": "cải thiện chất lượng không khí",
+    "option_d": "cải thiện chất lượng nước"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7220378",
+    "answer": "C",
+    "instruction": "Biến đổi khí hậu có thể làm giảm lượng băng trôi trên đại dương của thế giới. Thay đổi này có thể ảnh hưởng như thế nào đến nguồn cung thực phẩm cho các loài động vật ăn thịt biển?",
+    "option_a": "bằng cách giảm lượng muối tan trong nước biển",
+    "option_b": "bằng cách tăng khả năng phân tách nước thành các tầng riêng biệt",
+    "option_c": "bằng cách thay đổi điều kiện nhiệt độ mà các nhà sản xuất một tế bào yêu cầu",
+    "option_d": "bằng cách ngăn chặn các sinh vật phản ứng nhanh chóng với thay đổi môi trường"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7234483",
+    "answer": "B",
+    "instruction": "Lý thuyết hiện tại và chiếm ưu thế về nguồn gốc của sự sống trên Trái đất phụ thuộc vào các chất tiền sinh thái sinh ra tính năng nào đầu tiên?",
+    "option_a": "Sự tách rời ổn định khỏi môi trường xung quanh",
+    "option_b": "Sự lắp ráp thành các cấu trúc tự sao chép",
+    "option_c": "Việc lưu trữ đặc tính dưới dạng mã hóa hóa học",
+    "option_d": "Sự tích lũy các phân tử lưu trữ năng lượng"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7179358",
+    "answer": "B",
+    "instruction": "Một hệ sinh thái cháy tràn cần các đám cháy rừng định kỳ để duy trì sự ổn định. Điều gì sau đây sẽ có khả năng xảy ra nhất nếu ngăn chặn các đám cháy tự nhiên xảy ra trong hệ sinh thái này?",
+    "option_a": "Loài thông sẽ phát sinh nhanh hơn.",
+    "option_b": "Loài lá rộng sẽ thay thế các loài thông.",
+    "option_c": "Các khu vực đốt cháy sẽ dễ dàng kiểm soát hơn.",
+    "option_d": "Cây trồng sẽ lan rộng vào các khu vực trước đây chưa có rừng."
+  },
+  {
+    "id": "ARC-Challenge/validation/NCEOGA_2013_8_40",
+    "answer": "C",
+    "instruction": "Việc hút thuốc lá sẽ ảnh hưởng tiêu cực như thế nào đối với khả năng thành công trong các hoạt động thể chất của một cá nhân?",
+    "option_a": "Nó xâm phạm sự cân bằng và sự phối hợp.",
+    "option_b": "Nó làm giảm khả năng đưa ra quyết định nhanh chóng.",
+    "option_c": "Nó làm giảm sức bền và hiệu suất tim mạch.",
+    "option_d": "Nó làm giảm tốc độ và sức mạnh của các co bóp cơ."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7100695",
+    "answer": "D",
+    "instruction": "Cấu trúc địa chất nào có khả năng mất nhiều thời gian nhất để hình thành?",
+    "option_a": "một lỗi chuyển động",
+    "option_b": "một cái vòm đá",
+    "option_c": "một khúc quanh đường sông",
+    "option_d": "một dãy núi"
+  },
+  {
+    "id": "ARC-Challenge/validation/MEA_2016_5_7",
+    "answer": "B",
+    "instruction": "Một học sinh quan sát thấy một sinh vật 1 tế bào và một chiếc lá cây có các bộ phận màu xanh lá cây tương tự nhau. Học sinh nghĩ rằng cả hai sinh vật đều sử dụng các bộ phận xanh lá cây để sống. Bằng chứng nào nhằm hỗ trợ kết luận rằng cả hai sinh vật đều cần bộ phận xanh lá cây để sống?",
+    "option_a": "Cả hai sinh vật đều sử dụng các bộ phận xanh lá cây để di chuyển.",
+    "option_b": "Cả hai sinh vật đều chết nếu bỏ đi các bộ phận xanh lá cây.",
+    "option_c": "Các bộ phận xanh lá cây trong cả hai sinh vật được quan sát phát ra ánh sáng.",
+    "option_d": "Các bộ phận xanh lá cây trong cả hai sinh vật có thể tạo ra các bộ phận xanh lá cây khác."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7027230",
+    "answer": "A",
+    "instruction": "Lĩnh vực chủ đề nào sẽ là tốt nhất để nghiên cứu tìm cách giảm thiểu vấn đề môi trường do con người gây ra?",
+    "option_a": "chuyển đổi ánh sáng mặt trời thành điện",
+    "option_b": "tìm kiếm dự trữ than mới",
+    "option_c": "tìm kiếm những hồ chứa dầu",
+    "option_d": "chuyển đổi rừng thành đất nông nghiệp"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7245053",
+    "answer": "B",
+    "instruction": "Trong các hợp chất sau, hợp chất nào là hợp chất hữu cơ?",
+    "option_a": "nước (H2O)",
+    "option_b": "hxan (C6H14)",
+    "option_c": "amoniac (NH3)",
+    "option_d": "đioxit lưu huỳnh (SO2)"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_8_12",
+    "answer": "A",
+    "instruction": "Chức năng chính của hạt cây là",
+    "option_a": "lưu trữ thức ăn để sử dụng trong giai đoạn phát triển sớm",
+    "option_b": "thu hút phấn hoa để sử dụng trong giai đoạn phát triển",
+    "option_c": "hấp thụ năng lượng ánh sáng để sử dụng trong quá trình quang hợp",
+    "option_d": "sản xuất chlorophyll để sử dụng trong quá trình quang hợp"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7189035",
+    "answer": "D",
+    "instruction": "Scott đang xem kết quả của phép lai giữa hoa màu đỏ và hoa màu trắng. Kết quả nào là khả năng cao nhất của phép lai cho thấy sự không đầy đủ áp dụng?",
+    "option_a": "0% hoa màu hồng",
+    "option_b": "25% hoa màu trắng",
+    "option_c": "50% hoa màu đỏ",
+    "option_d": "100% hoa màu hồng"
+  },
+  {
+    "id": "ARC-Challenge/validation/LEAP_2006_8_10412",
+    "answer": "B",
+    "instruction": "Jolie muốn ăn một quả trứng luộc cứng cho bữa sáng. Cô ấy đặt trứng vào nước sôi trong mười lăm phút. Khi cô ấy bóp vỡ vỏ trứng, các phần lỏng của trứng đã trở thành đặc. Điều này là do",
+    "option_a": "nhiệt đã loại bỏ nước từ trứng.",
+    "option_b": "nhiệt đã thay đổi liên kết hóa học trong trứng.",
+    "option_c": "sôi đã đưa các phần trứng đặc lên bề mặt.",
+    "option_d": "vi khuẩn sống trong trứng lỏng đã bị tiêu diệt."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400172",
+    "answer": "A",
+    "instruction": "Nhà khoa học nào tuyên bố rằng Trái Đất là trung tâm của vũ trụ?",
+    "option_a": "Aristotle",
+    "option_b": "Copernicus",
+    "option_c": "Einstein",
+    "option_d": "Newton"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2005_5_21",
+    "answer": "D",
+    "instruction": "Các con hải cẩu cái thường quay trở lại các bãi biển cùng mỗi năm để sinh sản. Nếu chúng bị quấy rối nhiều lần bởi con người ở những bãi biển đó, chúng sẽ phản ứng như thế nào?",
+    "option_a": "Chúng sẽ thay đổi màu sắc.",
+    "option_b": "Chúng sẽ sinh nhiều con hơn.",
+    "option_c": "Chúng sẽ đi săn kiếm thức ăn thường xuyên hơn.",
+    "option_d": "Chúng sẽ sinh con ở các bãi biển khác."
+  },
+  {
+    "id": "ARC-Challenge/validation/MEA_2010_8_11",
+    "answer": "A",
+    "instruction": "Khi chuyển động của phân tử nước lỏng chậm lại, điều gì có thể xảy ra?",
+    "option_a": "Nước lỏng chuyển thành rắn.",
+    "option_b": "Nước lỏng ngưng tụ.",
+    "option_c": "Nước lỏng trải qua một phản ứng hóa học.",
+    "option_d": "Nước lỏng chuyển thành hơi nước."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7187058",
+    "answer": "A",
+    "instruction": "Mỗi đêm, Johnny đọc sách bên cạnh một chiếc đèn được chiếu sáng bởi bóng đèn sợi đốt. Điều gì cho thấy chuyển đổi năng lượng điện thành năng lượng sáng của đèn không hiệu quả?",
+    "option_a": "Bóng đèn sẽ nóng lên.",
+    "option_b": "Bóng đèn tỏa sáng.",
+    "option_c": "Đèn sử dụng dây đồng.",
+    "option_d": "Đèn có thể được tắt bằng công tắc."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7185133",
+    "answer": "A",
+    "instruction": "Tracey đang học về tổ chức cấu trúc trong động vật. Loại tổ chức cấu trúc nào được mô tả tốt nhất cho một quả trứng?",
+    "option_a": "một tế bào",
+    "option_b": "một mô",
+    "option_c": "một hệ thống",
+    "option_d": "một cơ quan"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7183733",
+    "answer": "B",
+    "instruction": "Ở Everglades, tình trạng cơ thể của cá sấu Mỹ chặt chẽ liên quan đến độ sâu của nước. Khi mực nước tăng cao, các loài động vật phân tán trên diện rộng, gây giảm điều kiện cơ thể do không tìm thấy đủ nguồn thực phẩm. Khi mực nước giảm, các loài động vật tập trung ở những khu vực nhỏ hơn, cho phép cá sấu săn mồi hiệu quả hơn. Tình huống này là một ví dụ cho thấy sự sống còn của cá sấu phụ thuộc vào việc hạn chế yếu tố nào?",
+    "option_a": "tỷ lệ phân hủy",
+    "option_b": "khu vực sống của con mồi",
+    "option_c": "sản lượng sản xuất",
+    "option_d": "tốc độ tuần hoàn nước"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7205345",
+    "answer": "D",
+    "instruction": "Khi muối bàn (NaCl) được sản xuất, trong số các lựa chọn sau đây, lựa chọn nào miêu tả tốt nhất hành động của các nguyên tử natri (Na) và clo (Cl)?",
+    "option_a": "Các nguyên tử natri thay thế các nguyên tử clo.",
+    "option_b": "Các nguyên tử natri và clo hòa trộn với nhau.",
+    "option_c": "Các nguyên tử natri tan trong các nguyên tử clo.",
+    "option_d": "Các nguyên tử natri và clo kết hợp hóa học với nhau."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_176838",
+    "answer": "A",
+    "instruction": "Chức năng nào sau đây không thuộc về hệ tuần hoàn?",
+    "option_a": "phân hủy thực phẩm thành dưỡng chất",
+    "option_b": "vận chuyển dưỡng chất và oxy",
+    "option_c": "loại bỏ các sản phẩm chất thải khỏi cơ thể",
+    "option_d": "bảo vệ cơ thể chống lại các tác nhân xâm nhập từ bên ngoài"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2002_5_6",
+    "answer": "D",
+    "instruction": "Chim ruồi có thể đứng yên trong không khí và bay nhanh chóng. Việc này có lợi cho chim ruồi ở tất cả các điều sau, trừ",
+    "option_a": "nhanh chóng thoát khỏi kẻ săn mồi.",
+    "option_b": "dễ dàng đến được hoa.",
+    "option_c": "ở đó để uống mật.",
+    "option_d": "giữ cho trứng ấm."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7166180",
+    "answer": "B",
+    "instruction": "Sự phát triển cây trồng bị ảnh hưởng bởi yếu tố môi trường như trọng lực. Nếu một hạt giống được cho phát triển khi bị nghiêng ngang, điều gì sẽ xảy ra nhất?",
+    "option_a": "rễ sẽ phát triển xuống dưới, thân cây sẽ phát triển xuống dưới",
+    "option_b": "rễ sẽ phát triển xuống dưới, thân cây sẽ phát triển lên trên",
+    "option_c": "rễ sẽ phát triển lên trên, thân cây sẽ phát triển xuống dưới",
+    "option_d": "rễ sẽ phát triển lên trên, thân cây sẽ phát triển lên trên"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2012_5_23632",
+    "answer": "C",
+    "instruction": "Một sinh viên quan sát một tảng đá được tạo thành từ nhiều hạt cát nhỏ được sắp xếp thành các lớp có màu nhạt và màu đậm. Câu nào sau đây mô tả cách tạo thành loại đá này nhất?",
+    "option_a": "Đất sét bị nghiền nát và đóng băng dưới sông băng.",
+    "option_b": "Lava từ núi lửa nguội nhanh trong nước.",
+    "option_c": "Các trầm tích sông bị nén chặt và được liên kết với nhau từ từ.",
+    "option_d": "Các tầng kết tủa khoáng chất cứng lại thành đá rắn trong các hang động ngầm."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7267593",
+    "answer": "A",
+    "instruction": "Trong các thiên tai sau đây, thiên tai nào là khó đoán trước nhất?",
+    "option_a": "động đất",
+    "option_b": "bão",
+    "option_c": "lốc xoáy",
+    "option_d": "bão tuyết"
+  },
+  {
+    "id": "ARC-Challenge/validation/NAEP_2005_8_S11+14",
+    "answer": "B",
+    "instruction": "Con người KHÔNG THỂ sống sót nếu mất mất bất kỳ cơ quan nào sau đây?",
+    "option_a": "Ruột thừa",
+    "option_b": "Gan",
+    "option_c": "Một phổi",
+    "option_d": "Một thận"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7218750",
+    "answer": "C",
+    "instruction": "Loại hồ chứa nước nào có thể cung cấp nước ngọt luôn luôn?",
+    "option_a": "các hồ nội địa",
+    "option_b": "vùng đồng bằng sông ngòi",
+    "option_c": "sông băng núi",
+    "option_d": "vùng biển nhiệt đới"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7026198",
+    "answer": "A",
+    "instruction": "Nguyên tố krypton là một loại khí mà hiếm khi có hoạt tính hóa học. Để tìm một nguyên tố khác có tính chất tương tự, một sinh viên nên tìm gì trên Bảng Tuần hoàn các nguyên tố?",
+    "option_a": "một nguyên tố trong cùng nhóm",
+    "option_b": "một nguyên tố trong cùng chu kỳ",
+    "option_c": "một nguyên tố có cùng điện tích",
+    "option_d": "một nguyên tố có cùng khối lượng nguyên tử"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7081760",
+    "answer": "B",
+    "instruction": "Để phân loại một sinh vật mới được phát hiện, nhà khoa học nghiên cứu cấu trúc, DNA và chu kỳ sống của sinh vật đó. Nhà khoa học có thể sử dụng kết quả của cuộc nghiên cứu để",
+    "option_a": "xây dựng các phương pháp khoa học mới.",
+    "option_b": "sửa đổi kiến thức khoa học hiện có.",
+    "option_c": "đưa ra giả thiết mới.",
+    "option_d": "bác bỏ các lý thuyết khoa học."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7130603",
+    "answer": "C",
+    "instruction": "Trong các đơn vị sau đây, đơn vị nào không được đo bằng joule?",
+    "option_a": "nhiệt",
+    "option_b": "ánh sáng",
+    "option_c": "công suất",
+    "option_d": "công việc"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7074865",
+    "answer": "C",
+    "instruction": "Câu nào đúng về tảo, vi khuẩn và thực vật có hoa?",
+    "option_a": "Chúng là vô cơ.",
+    "option_b": "Chúng đều có chlorophyll.",
+    "option_c": "Chúng được tạo thành từ tế bào.",
+    "option_d": "Chúng đều dựa vào các sinh vật khác để nuôi sống."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7042700",
+    "answer": "D",
+    "instruction": "Trong quá trình mổ động vật, dụng cụ nào sẽ không cần thiết?",
+    "option_a": "găng tay",
+    "option_b": "kính bảo hộ",
+    "option_c": "áo choàng phòng thí nghiệm",
+    "option_d": "vòi phun nước cứu hỏa"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7071365",
+    "answer": "D",
+    "instruction": "Phát biểu nào so sánh giữa bướm và bướm đêm là một câu nói có tính chất thực tế?",
+    "option_a": "Bướm đẹp hơn và thú vị hơn để quan sát hơn bướm đêm.",
+    "option_b": "Bướm bay tốt hơn bướm đêm.",
+    "option_c": "Bướm và bướm đêm thoải mái hơn vào ban ngày.",
+    "option_d": "Bướm và bướm đêm có số chân bằng nhau."
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2007_4_52",
+    "answer": "C",
+    "instruction": "Cây cối và động vật cần thức ăn để phát triển. Đa số thức ăn mà cây cối sản xuất có chuyển hóa như thế nào?",
+    "option_a": "Thức ăn được phát ra dưới dạng khí.",
+    "option_b": "Thức ăn được chuyển đổi thành nước.",
+    "option_c": "Thức ăn được lưu trữ để sử dụng trong tương lai.",
+    "option_d": "Thức ăn được sử dụng để hấp thụ năng lượng của ánh sáng mặt trời."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7026443",
+    "answer": "D",
+    "instruction": "Đặc điểm nào của một chú chó cưng được thừa hưởng?",
+    "option_a": "Chó tránh xa mèo cưng.",
+    "option_b": "Chó nhảy lên ghế sofa.",
+    "option_c": "Chó lăn tròn khi được ra lệnh.",
+    "option_d": "Chó chảy nước dãi khi ngửi thấy thức ăn."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7008138",
+    "answer": "B",
+    "instruction": "Câu nào miêu tả về các tiểu hành tinh và sao chổi?",
+    "option_a": "Tiểu hành tinh là khí, và sao chổi là rắn.",
+    "option_b": "Tiểu hành tinh là rắn, và sao chổi là khí.",
+    "option_c": "Cả tiểu hành tinh và sao chổi đều là rắn.",
+    "option_d": "Cả tiểu hành tinh và sao chổi đều là khí."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_402104",
+    "answer": "D",
+    "instruction": "Việc xả chất độc hại vào ao sẽ có khả năng dẫn đến",
+    "option_a": "tăng nồng độ oxy trong ao.",
+    "option_b": "các cây gần ao mọc nhanh hơn.",
+    "option_c": "chất độc không gây tác động đến ao.",
+    "option_d": "các loài cá trong ao bị ảnh hưởng hoặc chết đi."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7086013",
+    "answer": "D",
+    "instruction": "Lưu vực sông Humboldt là một trong những nguồn tài nguyên không thể tái tạo quan trọng nhất. Tài nguyên không thể tái tạo nào được sản xuất từ Lưu vực sông Humboldt?",
+    "option_a": "Than từ các khoáng sản ở núi",
+    "option_b": "Dầu và khí từ các nhà chứa ngầm",
+    "option_c": "Năng lượng điện từ các máy phát thủy điện",
+    "option_d": "Khoáng sản từ khai thác vàng, bạc và đồng"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7248238",
+    "answer": "D",
+    "instruction": "Cá trắm muỗi được tìm thấy trên các đảo Bahamas sống trong các đầm nước ngọt cách ly khác nhau từng là một cơ thể nước duy nhất. Khi một số con cá trắm muỗi đực và cá trắm muỗi cái từ hai đầm cách ly khác nhau được đưa vào một đầm nước đơn lẻ, sự ưa thích giao phối của mỗi con cá trắm muỗi là với cá từ đầm nước ban đầu của nó. Điều gì là nguyên nhân chính dẫn đến sự ưa thích giao phối này?",
+    "option_a": "Sự có sẵn thức ăn ảnh hưởng đến sự ưa thích giao phối của cá.",
+    "option_b": "Sự cạnh tranh cho một người bạn đồng tính phù hợp ảnh hưởng đến sự ưa thích giao phối.",
+    "option_c": "Những kẻ săn mồi trong ao đánh giá ảnh hưởng đến sự ưa thích giao phối của cá.",
+    "option_d": "Quá trình phân loài do cô lập giao phối là nguyên nhân chính dẫn đến sự ưa thích giao phối."
+  }
+]

@@ -1,0 +1,2673 @@
+[
+  {
+    "id": "ARC-Challenge/validation/Mercury_7099103",
+    "answer": "D",
+    "instruction": "Murele negre se reproduc asexuat prin înrădăcinarea tulpinilor noi atunci când ating solul. De asemenea, se reproduc sexual prin florile lor. Care este avantajul plantei de mure de a se putea reproduce sexual și asexuat?",
+    "option_a": "Permite plantelor să crească mai înalte.",
+    "option_b": "Produce flori care atrag insectele.",
+    "option_c": "Produce mure care au mai mult gust.",
+    "option_d": "Permite plantelor de mure să se adapteze la noi condiții."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2006_9_31-v1",
+    "answer": "C",
+    "instruction": "Care dintre următoarele descrie energia mecanică a unui căruț la rest în vârful unui deal abrupt?",
+    "option_a": "Căruțul nu are energie mecanică.",
+    "option_b": "Energia mecanică a căruțului este complet cinetică.",
+    "option_c": "Energia mecanică a căruțului este complet potențială.",
+    "option_d": "Energia mecanică a căruțului este jumătate potențială și jumătate cinetică."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7090738",
+    "answer": "A",
+    "instruction": "Ce întrebare poate fi răspunsă prin investigație științifică?",
+    "option_a": "Cum afectează energia solară formarea norilor?",
+    "option_b": "De ce sunt tigrii mai frumoși decât iguanele?",
+    "option_c": "Care este cel mai bun subiect de studiat la facultate?",
+    "option_d": "Ar trebui oamenii să investească în călătorii spațiale?"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7130883",
+    "answer": "B",
+    "instruction": "O clasă de inginerie a primit instrucțiunea să dezvolte un robot. Robotul trebuie proiectat folosind energia electromagnetică ca sursă unică de putere. Ce temă studiază cel mai probabil clasa de inginerie?",
+    "option_a": "utilizarea bateriilor și a energiei chimice",
+    "option_b": "cum poate fi utilizată energia radiantă și colectoarele solare",
+    "option_c": "convertirea energiei cinetice în energie potențială",
+    "option_d": "cum poate fi convertită energia termică în energie electrică"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7190155",
+    "answer": "B",
+    "instruction": "Multe specii diferite de plante și animale trăiesc în pădurea tropicală amazoniană. Care este cel mai probabil rezultat al suprafețelor mari de defrișări în pădurea tropicală amazoniană?",
+    "option_a": "o creștere a populațiilor de animale",
+    "option_b": "o scădere a producției de oxigen",
+    "option_c": "o creștere a precipitațiilor",
+    "option_d": "o scădere a poluanților"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_177398",
+    "answer": "B",
+    "instruction": "Ce reprezintă o mașină care călătorește în direcția nord-estică cu o viteză de 50 km/h?",
+    "option_a": "viteză",
+    "option_b": "viteza",
+    "option_c": "accelerație",
+    "option_d": "decelerație"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7246995",
+    "answer": "C",
+    "instruction": "Unele celule vegetale au nevoie de energie pentru a transporta nutrienții prin membrana celulară. Ce tip de transformare energetică folosesc aceste celule vegetale pentru a aduce molecula de nutrientă în interiorul membranei celulare?",
+    "option_a": "energie termică în energie cinetică",
+    "option_b": "energie potențială în energie luminată",
+    "option_c": "energie chimică în energie cinetică",
+    "option_d": "energie cinetică în energie potențială"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_189490",
+    "answer": "A",
+    "instruction": "Observația plantelor de mazăre a lui Gregor Mendel este un exemplu de",
+    "option_a": "dovezi bazate pe cercetare care susțin o teorie științifică.",
+    "option_b": "o concluzie care este testată printr-o ipoteză.",
+    "option_c": "testare aleatorie în timpul unui experiment.",
+    "option_d": "dovezi în favoarea și împotriva unui model științific."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7139790",
+    "answer": "C",
+    "instruction": "Un caracatiță are celule speciale în pielea sa numite cromatofori care îi permit caracatiței să-și schimbe culoarea aproape instantaneu. Cromatoforii cel mai probabil ajută caracatița să",
+    "option_a": "înoate mai rapid.",
+    "option_b": "respire mai încet.",
+    "option_c": "se ascundă de prădători.",
+    "option_d": "regleze temperatura corpului."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7282608",
+    "answer": "C",
+    "instruction": "Apele uzate din gospodării nu sunt toate la fel. Apa gri se referă la apele uzate din chiuvete și băi. Nu conține deșeuri biologice umane, astfel că poate fi refolosită în loc să fie tratată ca apă uzată. Care utilizări ale apei gri ilustrează o administrație rațională a resurselor?",
+    "option_a": "spălarea vaselor și băutul de apă",
+    "option_b": "băutul de apă și irigarea grădinilor cu flori",
+    "option_c": "irigarea grădinilor cu flori și udarea copacilor",
+    "option_d": "udarea copacilor și spălarea vaselor"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7145513",
+    "answer": "B",
+    "instruction": "Procesele de viață necesită energie. Procesele biochimice implică reacții specifice. Care este o caracteristică a proceselor biochimice comună tuturor animalelor?",
+    "option_a": "funcționarea la orice nivel de pH",
+    "option_b": "căldura eliberată ca produs",
+    "option_c": "folosirea doar a respirației anaerobe",
+    "option_d": "cantitatea de energie absorbită"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7018148",
+    "answer": "B",
+    "instruction": "MAJORITATEA elementelor găsite în Tabelul Periodic al Elementelor sunt",
+    "option_a": "gaze.",
+    "option_b": "metale.",
+    "option_c": "lichide.",
+    "option_d": "ne-metale."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_401294",
+    "answer": "B",
+    "instruction": "Forma frunzelor plantelor care supraviețuiesc bine într-un climat ploios cel mai adesea este",
+    "option_a": "roșie și strălucitoare.",
+    "option_b": "largă și plată.",
+    "option_c": "groasă și cerată.",
+    "option_d": "ascuțită și îngustă."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7207410",
+    "answer": "C",
+    "instruction": "Vânătorii de furtuni sunt persoane care se apropie de furtuni pentru a le observa și măsura. Ce cunoștințe au adăugat vânătorii de furtuni la studiul furtunilor care au ajutat la modificarea teoriilor formării furtunilor?",
+    "option_a": "punctul lor de vedere privind daunele provocate de furtuni",
+    "option_b": "experiențele lor personale în furtuni",
+    "option_c": "datele lor colectate la începutul furtunilor",
+    "option_d": "entuziasmul lor pentru studierea diferitelor furtuni"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_8_2015_11",
+    "answer": "A",
+    "instruction": "Care dintre următoarele descrie cel mai bine masa unui cub solid de gheață?",
+    "option_a": "cantitatea de materie din bloc",
+    "option_b": "volumul ocupat de bloc",
+    "option_c": "forța gravitațională care acționează asupra blocului",
+    "option_d": "distanța dintre moleculele din bloc"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7201705",
+    "answer": "A",
+    "instruction": "În multe părți ale lumii, terenul prea uscat pentru agricultură este folosit pentru pășunatul animalelor. Supra-pășunatul acestor terenuri distruge plantele autohtone și dezintegrează stratul natural de sol. Cum duce supra-pășunatul la desertificare?",
+    "option_a": "crescând rata la care solul de la suprafață este erodat",
+    "option_b": "permite speciilor non-native să colonizeze terenul",
+    "option_c": "reducând hrana disponibilă pentru animalele domestice",
+    "option_d": "determinând pământul să absoarbă ploaia mai rapid"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7133858",
+    "answer": "B",
+    "instruction": "Materia poate suferi diferite transformări. Care dintre următoarele exemplifică cel mai bine o schimbare chimică?",
+    "option_a": "dizolvarea sării",
+    "option_b": "arderea lemnului",
+    "option_c": "clocotirea apei",
+    "option_d": "topirea gheții"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2003_5_31",
+    "answer": "D",
+    "instruction": "Care dintre acestea nu este un comportament instinctiv?",
+    "option_a": "un pasăre construind un cuib",
+    "option_b": "o broască țestoasă îngropându-și ouăle",
+    "option_c": "un urs hibernând iarna",
+    "option_d": "un cal trăgând un plug"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7198380",
+    "answer": "D",
+    "instruction": "În același ecosistem trăiau diferite specii de rozătoare erbivore. Care factor a crescut cel mai probabil, determinând o competiție mai mare pentru resurse între rozătoare?",
+    "option_a": "fertilitatea solului",
+    "option_b": "populația de producători din zonă",
+    "option_c": "cantitatea de resturi alimentare lăsate de prădători",
+    "option_d": "rata la care consumatorii primari au migrat în zonă"
+  },
+  {
+    "id": "ARC-Challenge/validation/LEAP_2012_8_10441",
+    "answer": "C",
+    "instruction": "O specie de șopârle mănâncă în mare parte fructe dintr-un tip particular de copac. Dacă un virus distruge cea mai mare parte dintre acești copaci, care șopârle individuale vor supraviețui cel mai probabil?",
+    "option_a": "șopârlele care pot urca mai sus în coroana copacilor",
+    "option_b": "șopârlele care au o colorație mai întunecată",
+    "option_c": "șopârlele care pot găsi alte tipuri de alimente",
+    "option_d": "șopârlele care produc mai mulți urmași"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7217053",
+    "answer": "B",
+    "instruction": "Evoluția biologică poate avea loc prin toate acestea cu excepția",
+    "option_a": "competiție.",
+    "option_b": "fosilizare.",
+    "option_c": "variație.",
+    "option_d": "adaptare."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7233660",
+    "answer": "C",
+    "instruction": "Unii oameni de știință teoretizează că mișcarea plăcilor ar putea altera nivelul de apă în mările Pământului. Cum ar limita natura mișcării plăcilor posibilele schimbări ale nivelului mării?",
+    "option_a": "făcând doar schimbări mici",
+    "option_b": "schimbând doar câteva bazine oceanice specifice",
+    "option_c": "determinând producerea schimbărilor la rate foarte lente",
+    "option_d": "cauzând schimbări pereche cu efecte egale și opuse"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7115395",
+    "answer": "A",
+    "instruction": "Care schimbări vor avea cel mai probabil un efect negativ asupra unui ecosistem?",
+    "option_a": "construirea unei șosele",
+    "option_b": "plantarea unui copac",
+    "option_c": "adaugarea unei surse de apă dulce",
+    "option_d": "crearea unui sanctuar natural"
+  },
+  {
+    "id": "ARC-Challenge/validation/MSA_2013_8_3",
+    "answer": "D",
+    "instruction": "Geologii au identificat șapte plăci tehnice majore la suprafața Pământului. Care este cea mai bună dovadă că plăcile tehnice sunt în coliziune?",
+    "option_a": "Vântul erodează formațiunile de rocă la suprafață.",
+    "option_b": "Fosilele datează de mii de ani.",
+    "option_c": "Mici pietre rămân în urma retragerii ghețarilor.",
+    "option_d": "Straturile mai vechi de rocă sunt situate deasupra straturilor mai noi de rocă."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7205135",
+    "answer": "C",
+    "instruction": "Cum sunt afectate particulele dintr-un bloc de fier atunci când acesta este topit?",
+    "option_a": "Particulele câștigă masă.",
+    "option_b": "Particulele conțin mai puțină energie.",
+    "option_c": "Particulele se mișcă mai rapid.",
+    "option_d": "Particulele cresc în volum."
+  },
+  {
+    "id": "ARC-Challenge/validation/ACTAAP_2010_5_10",
+    "answer": "A",
+    "instruction": "Sara aprinde o lanternă și ține un obiect la lumină. Cum va putea să vadă dacă obiectul este opac?",
+    "option_a": "Nicio lumină nu va străluci prin el.",
+    "option_b": "O parte din lumină va fi reflectată.",
+    "option_c": "Lumina va fi refractată sub un anumit unghi.",
+    "option_d": "Lumina va străluci clar prin el."
+  },
+  {
+    "id": "ARC-Challenge/validation/TIMSS_2003_8_pg29",
+    "answer": "E",
+    "instruction": "Care dintre următoarele organe nu se află în abdomen?",
+    "option_a": "ficat",
+    "option_b": "rinichi",
+    "option_c": "stomac",
+    "option_d": "vezica urinară",
+    "option_e": "inimă"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7181685",
+    "answer": "A",
+    "instruction": "Trăsătura pentru culoarea florilor este extrem de variabilă în rândul anumitor specii de plante de trandafiri, ducând la formarea florilor de diferite culori. Cum a survenit variabilitatea culorii florilor la plantele de trandafiri?",
+    "option_a": "prin mutație",
+    "option_b": "prin polenizare",
+    "option_c": "prin selecție naturală",
+    "option_d": "prin reproducere asexuală"
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2011_5_20",
+    "answer": "D",
+    "instruction": "Iepurele de zăpadă își schimbă blana de două ori pe an. În vara, blana iepurelui este maro. În iarnă, blana este albă. Care dintre următoarele afirmații explică cel mai bine avantajul căderii blănii?",
+    "option_a": "Căderea blănii ține iepurele curat.",
+    "option_b": "Căderea blănii ajută iepurele să se miște rapid.",
+    "option_c": "Căderea blănii menține căldura în casa iepurelui.",
+    "option_d": "Căderea blănii ajută iepurele să se încadreze în habitatul său."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7008120",
+    "answer": "A",
+    "instruction": "Stelele binare sunt folosite de către oamenii de știință pentru a determina:",
+    "option_a": "masa",
+    "option_b": "strălucirea",
+    "option_c": "distanța față de Pământ",
+    "option_d": "distanța față de Soare"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_13",
+    "answer": "B",
+    "instruction": "Un băiat își poate vedea fața când privește într-un iaz calm. Care proprietate fizică a iazului face ca acest lucru să se întâmple?",
+    "option_a": "flexibilitatea",
+    "option_b": "reflectivitatea",
+    "option_c": "temperatura",
+    "option_d": "volumul"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_1",
+    "answer": "B",
+    "instruction": "Un elev a plantat două semințe de fasole în două ghivece identice care conțineau același tip de sol. A pus un ghiveci într-un dulap și pe celălalt lângă o fereastră însorită. În fiecare zi, a turnat 15 mililitri de apă în fiecare ghiveci. Care factor a fost diferit pentru cele două ghivece?",
+    "option_a": "cantitatea de apă",
+    "option_b": "cantitatea de lumină",
+    "option_c": "tipul de sol",
+    "option_d": "tipul de sămânță"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7141698",
+    "answer": "B",
+    "instruction": "Când apare fulgerul, încălzește aerul din jur. Aerul cald se dilată și produce tunete. Energia fulgerului se convertește în ce tip de energie pentru a produce tunete?",
+    "option_a": "gravitațional",
+    "option_b": "mecanic",
+    "option_c": "nuclear",
+    "option_d": "radiație"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_407314",
+    "answer": "A",
+    "instruction": "Studenții din două clase au efectuat aceeași investigație. Fiecare clasă a obținut rezultate diferite. Care este cea mai bună modalitate pentru studenți de a determina de ce rezultatele au fost diferite?",
+    "option_a": "Revizuiți pașii efectuați în timpul investigațiilor.",
+    "option_b": "Schimbați ipoteza investigației.",
+    "option_c": "Cercetați datele despre investigații similare.",
+    "option_d": "Efectuați o investigație diferită."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_406781",
+    "answer": "C",
+    "instruction": "Care interacțiune între animale controlează cel mai bine populația unei specii?",
+    "option_a": "animale sălbatice care își marchează teritoriile",
+    "option_b": "peștiul remora călătorind cu rechini",
+    "option_c": "lei vânând zebre",
+    "option_d": "lupii călătorind în haite"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400845",
+    "answer": "B",
+    "instruction": "Un fulger poate produce toate aceste forme de energie, mai puțin",
+    "option_a": "energie termică.",
+    "option_b": "energie solară.",
+    "option_c": "energie luminată.",
+    "option_d": "energie electrică."
+  },
+  {
+    "id": "ARC-Challenge/validation/ACTAAP_2009_5_5",
+    "answer": "B",
+    "instruction": "Janet a primit câteva minerale pentru a le identifica. Una dintre mostrele sale este de culoare galbenă. Care dintre aceste minerale este cel mai probabil să fie galben?",
+    "option_a": "Talk",
+    "option_b": "Sulf",
+    "option_c": "Gips",
+    "option_d": "Hematită"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7171938",
+    "answer": "D",
+    "instruction": "Înălțimile mareelor oceanice ale Pământului sunt puternic influențate de Luna. În care faze lunare sunt cele mai joase înălțimi ale mareelor oceanice de pe Pământ?",
+    "option_a": "plin și primul sfert",
+    "option_b": "plin și nouă lună",
+    "option_c": "ultimul sfert și nouă lună",
+    "option_d": "primul sfert și ultimul sfert"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415354",
+    "answer": "C",
+    "instruction": "Care dintre aceste comportamente îl învață pe delfin?",
+    "option_a": "să mănânce pești mici",
+    "option_b": "să înoate în apă sărată",
+    "option_c": "să echilibreze o minge pe nasul său",
+    "option_d": "să respire prin orificiul de suflare"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_17",
+    "answer": "C",
+    "instruction": "Care trăsătură ar moșteni cel mai probabil o pisică de la părinții săi?",
+    "option_a": "având o cicatrice",
+    "option_b": "vânând un jucărie",
+    "option_c": "având blană albă",
+    "option_d": "știind numele său"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7251685",
+    "answer": "B",
+    "instruction": "Care activitate asigură cel mai eficient funcționarea corectă a osteocitelor?",
+    "option_a": "creșterea ritmului respirator",
+    "option_b": "consumul de alimente bogate în minerale",
+    "option_c": "reducerea exercițiilor stresante",
+    "option_d": "consumul de apă fără ioni"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7267995",
+    "answer": "C",
+    "instruction": "Unele specii de plante și animale depind unele de altele. Care dintre aceste animale ajută mii de specii de plante să se reproducă?",
+    "option_a": "veverițe",
+    "option_b": "viermi de pământ",
+    "option_c": "albine",
+    "option_d": "gândaci"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7193043",
+    "answer": "B",
+    "instruction": "Plantele non-native pot invadeaza zonele care erau populate odata de specii de plante native. Care este cel mai putin probabil proces abiotic care poate cauza invazia unor astfel de plante?",
+    "option_a": "inundatiile",
+    "option_b": "migrarea solara",
+    "option_c": "furtunile de praf",
+    "option_d": "topirea ghetarilor"
+  },
+  {
+    "id": "ARC-Challenge/validation/VASoL_2008_5_28",
+    "answer": "C",
+    "instruction": "Submarinele au explorat multe părți ale oceanului. Pe măsură ce submarinele coboară, oamenii de știință observă o creștere în -",
+    "option_a": "cantitatea de lumină",
+    "option_b": "temperatura apei",
+    "option_c": "presiunea apei",
+    "option_d": "tipurile de organisme oceanice"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7154263",
+    "answer": "B",
+    "instruction": "Fitoplanctonii sunt organismele microscopice asemănătoare plantelor care plutesc în corpuri de apă, cum ar fi oceanul. Aceștia absoarb dioxidul de carbon în timpul procesului de fotosinteză. Ce s-ar întâmpla cel mai probabil dacă populația de fitoplancton ar fi distrusă?",
+    "option_a": "Temperatura oceanului ar scădea.",
+    "option_b": "Gazele cu efect de seră ar crește.",
+    "option_c": "Nivelul de oxigen din atmosferă ar crește.",
+    "option_d": "Nivelul mărilor s-ar reduce drastic."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7032743",
+    "answer": "C",
+    "instruction": "Care dintre următoarele caracteristici ale ghepardului este mai probabil să fie învățată decât moștenită?",
+    "option_a": "viteza",
+    "option_b": "blana cu pete",
+    "option_c": "strategiile de vânătoare",
+    "option_d": "gheare care nu se retrag"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_19",
+    "answer": "B",
+    "instruction": "Pe măsură ce pisoii cresc și devin pisici, greutatea lor corporală de obicei",
+    "option_a": "scade",
+    "option_b": "crește",
+    "option_c": "rămâne la fel"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7115273",
+    "answer": "C",
+    "instruction": "Ce factor abiotic împiedică lumina să ajungă la fundul unui lac din cauza înfloririi algelor de suprafață?",
+    "option_a": "apa",
+    "option_b": "sarea",
+    "option_c": "lumina",
+    "option_d": "oxigenul"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7205555",
+    "answer": "A",
+    "instruction": "Apa are multe proprietăți chimice unice. Care proprietate a apei face ca aceasta să fie un solvent bun pentru sărurile cristaline?",
+    "option_a": "puternică polaritate",
+    "option_b": "conductivitate slabă",
+    "option_c": "vâscozitate mare",
+    "option_d": "pH scăzut"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7192990",
+    "answer": "A",
+    "instruction": "În multe zone ard pădurile din cauza condițiilor de secetă. Dacă aceste condiții de secetă continuă pentru o perioadă lungă de timp, ce ar putea duce la amenințarea repopulării copacilor?",
+    "option_a": "o scădere a grosimii solului",
+    "option_b": "o scădere a cantității de eroziune",
+    "option_c": "o creștere a populației de bacterii",
+    "option_d": "o creștere a producției de oxigen"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_408859",
+    "answer": "A",
+    "instruction": "Crocodilii americani sunt comuni în zonele umede din Florida. Se știe că mănâncă broaște, țestoase, pești, șoareci și păsări. Ce rol are un crocodil american în ecosistemul său?",
+    "option_a": "consumator",
+    "option_b": "decompozitor",
+    "option_c": "mangiator de resturi",
+    "option_d": "producator"
+  },
+  {
+    "id": "ARC-Challenge/validation/TIMSS_2007_4_pg90",
+    "answer": "C",
+    "instruction": "Sue a măsurat cât de mult zahăr se poate dizolva într-un pahar cu apă rece, un pahar cu apă călduță și un pahar cu apă fierbinte. Ce a observat cel mai probabil?",
+    "option_a": "Apa rece a dizolvat cea mai multă cantitate de zahăr.",
+    "option_b": "Apa călduță a dizolvat cea mai multă cantitate de zahăr.",
+    "option_c": "Apa fierbinte a dizolvat cea mai multă cantitate de zahăr.",
+    "option_d": "Apa rece, apa călduță și apa fierbinte au dizolvat aceeași cantitate de zahăr."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_180058",
+    "answer": "A",
+    "instruction": "Un fosilă descoperită în Colorado datează din perioada timpurie a erei mezozoice. Un an mai târziu, este descoperit un fosil similar în Wyoming, care, de asemenea, datează din perioada timpurie a erei mezozoice. Aceste două organisme au trăit cel mai probabil în",
+    "option_a": "aceeași mediu în jurul aceleiași perioade.",
+    "option_b": "același mediu în diferite momente.",
+    "option_c": "mediul diferit în jurul aceleiași perioade.",
+    "option_d": "mediul diferit la diferite momente."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400050",
+    "answer": "C",
+    "instruction": "Ce se întâmplă atunci când temperatura din casă este mai scăzută decât temperatura selectată pe termostat?",
+    "option_a": "Furnace va supraîncălzi.",
+    "option_b": "Termostatul va deveni fierbinte.",
+    "option_c": "Furnace se va aprinde automat.",
+    "option_d": "Termostatul va emite un sunet de bip."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_1998_8_13",
+    "answer": "D",
+    "instruction": "Care dintre următoarele aspecte nu este o problemă majoră controversată asociată cu utilizarea energiei nucleare?",
+    "option_a": "eliminarea produselor deşeuri radioactive",
+    "option_b": "riscurile pentru sănătate în zonele înconjurătoare centralelor nucleare",
+    "option_c": "poluarea termică a corpurilor de apă utilizate pentru răcire",
+    "option_d": "şomajul datorat conversiei la energie nucleară"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_4",
+    "answer": "A",
+    "instruction": "Care stare de agregare nu are volum definit și formă definită?",
+    "option_a": "gaz",
+    "option_b": "lichid",
+    "option_c": "solid"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7233678",
+    "answer": "A",
+    "instruction": "Oamenii de știință cred că deriva continentelor de-a lungul istoriei geologice a Pământului a avut un impact semnificativ asupra ciclurilor de climă mai caldă și mai rece ale Pământului. Care afirmație descrie o caracteristică a continentelor Pământului care este foarte probabil să provoace schimbări în climatul global atunci când continentele se deplasează?",
+    "option_a": "Locația continentului afectează reflectivitatea sa la suprafață.",
+    "option_b": "Adâncimea plăcii continentale determină căldura specifică.",
+    "option_c": "Deriva continentală absoarbe cantități mari de energie cinetică.",
+    "option_d": "Temperatura unui continent este afectată de oceanul său cel mai apropiat."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_LBS10666",
+    "answer": "B",
+    "instruction": "Plantele de obicei nu au nevoie să mănânce alte organisme deoarece plantele",
+    "option_a": "nu au nevoie de energie din hrană pentru a trăi.",
+    "option_b": "transformă lumina soarelui în energie alimentară.",
+    "option_c": "obțin toată energia alimentară din sol.",
+    "option_d": "țin energia alimentară stocată în rădăcinile lor."
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_8_38",
+    "answer": "A",
+    "instruction": "O substanță în fază solidă (stare) are",
+    "option_a": "o formă și un volum definit",
+    "option_b": "o formă definită, dar fără volum definit",
+    "option_c": "fără o formă definită, dar cu volum definit",
+    "option_d": "fără o formă și fără un volum definit"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2004_8_28",
+    "answer": "A",
+    "instruction": "Cum s-ar modifica proprietățile măsurabile ale unei mingi de golf dacă ar fi mutată de pe Pământ pe Lună?",
+    "option_a": "Ar avea aceeași masă, dar o greutate diferită.",
+    "option_b": "Ar avea aceeași greutate, dar o masă diferită.",
+    "option_c": "Ar avea aceeași densitate, dar o masă diferită.",
+    "option_d": "Ar avea aceeași masă, dar o densitate diferită."
+  },
+  {
+    "id": "ARC-Challenge/validation/LEAP__7_10354",
+    "answer": "D",
+    "instruction": "Profesorul de științe al Joannei a avertizat clasa să fie sceptică atunci când învață despre noi descoperiri științifice. De ce este important să fii sceptic în privința noilor descoperiri din știință?",
+    "option_a": "pentru că multe descoperiri științifice nu se bazează pe fapte",
+    "option_b": "pentru că majoritatea descoperirilor științifice nu au valoare științifică",
+    "option_c": "pentru că majoritatea oamenilor de știință fac erori când formulează descoperirile științifice",
+    "option_d": "pentru că toate descoperirile științifice trebuie examinate critic înainte de a fi acceptate"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2003_8_25",
+    "answer": "B",
+    "instruction": "Într-un automobil, care dintre următoarele componente este proiectată special pentru a oferi feedback șoferului?",
+    "option_a": "volanul",
+    "option_b": "vitezometrul",
+    "option_c": "pedala de frână",
+    "option_d": "cheia de mașină"
+  },
+  {
+    "id": "ARC-Challenge/validation/TIMSS_2011_8_pg63",
+    "answer": "C",
+    "instruction": "Care dintre următoarele definiții descrie un compus?",
+    "option_a": "amestec de substanțe diferite",
+    "option_b": "amestec de atomi și molecule",
+    "option_c": "combinarea atomilor a diferite elemente",
+    "option_d": "combinarea atomilor aceluiași element"
+  },
+  {
+    "id": "ARC-Challenge/validation/AIMS_2009_4_29",
+    "answer": "D",
+    "instruction": "Un frigider folosește energie electrică pentru a crea un spațiu rece în care se pot depozita alimentele. Ce impact negativ poate avea folosirea unui frigider asupra mediului?",
+    "option_a": "Energia electrică necesară pentru menținerea temperaturii joase la interior poate fi costisitoare.",
+    "option_b": "Dacă se întrerupe alimentarea cu energie electrică, alimentele se vor strica și vă pot face rău.",
+    "option_c": "Depozitarea alimentelor pentru o perioadă mai lungă de timp reduce numărul de drumuri la magazin și, implicit, consumul de combustibil.",
+    "option_d": "Vechile frigidere conțin substanțe chimice și ocupă spațiu în gropile de gunoi."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_LBS10472",
+    "answer": "B",
+    "instruction": "Plantele au țesuturi specializate la capătul tulpinilor lor. La ce ajută aceste țesuturi plantele?",
+    "option_a": "să digere hrana",
+    "option_b": "să crească în înălțime",
+    "option_c": "să producă hrană",
+    "option_d": "să absoarbă apa"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415491",
+    "answer": "C",
+    "instruction": "Pământul orbitează în jurul Soarelui o dată pe an. De câte ori orbitează Luna în jurul Pământului într-un an?",
+    "option_a": "1",
+    "option_b": "7",
+    "option_c": "13",
+    "option_d": "28"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2011_5_17673",
+    "answer": "A",
+    "instruction": "Jose are două magneți de bară. Aduce capetele celor doi magneți împreună și apoi îi lasă. Magnetii se mișcă rapid departe. Care din următoarele afirmații explică cel mai bine de ce se întâmplă acest lucru?",
+    "option_a": "Polii nordici ai celor doi magneți se confruntă unul cu celălalt.",
+    "option_b": "Un magnet este un pol nord și un magnet este un pol sud.",
+    "option_c": "Capetele magneților se resping, dar centrele atrag.",
+    "option_d": "Un magnet stochează energie, iar un magnet eliberează energie."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_416648",
+    "answer": "A",
+    "instruction": "Parameciul și volvoxul pot reproduce sexual. Cum este diferită reproducerea sexuală în volvox față de reproducerea sexuală în paramecium?",
+    "option_a": "Colonii de volvox produc gameți.",
+    "option_b": "Celulele din volvox suferă conjugare.",
+    "option_c": "Colonii de volvox produc descendenți unicelulari.",
+    "option_d": "Celulele din volvox se reproduc prin butășire vegetativă."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7207620",
+    "answer": "A",
+    "instruction": "Unele instrumente înregistrează nivelurile de oxigen din stratul de ozon al atmosferei Pământului. Păstrarea unui înregistrări a acestor date timp de mulți ani este un exemplu de",
+    "option_a": "construirea de dovezi prin investigații continue.",
+    "option_b": "identificarea unei ipoteze care susține datele.",
+    "option_c": "tragerea de concluzii despre dovezi din rezultate.",
+    "option_d": "propunerea unor date ușor de înțeles."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7164850",
+    "answer": "A",
+    "instruction": "O clasă de științe a creat un poster pentru a arăta cum s-au format insulele barieră de-a lungul coastei Floridei. Elevii au arătat efectele vântului, valurilor și mareelor asupra nisipului care a format aceste insule. Pe poster, care pereche de sisteme ar trebui să spună elevii că au afectat cel mai mult formarea insulelor barieră?",
+    "option_a": "hidrosfera și atmosfera",
+    "option_b": "atmosfera și litosfera",
+    "option_c": "biosfera și hidrosfera",
+    "option_d": "litosfera și biosfera"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7011270",
+    "answer": "B",
+    "instruction": "Cam cât durează pentru ca Luna să completeze o revoluție în jurul Pământului?",
+    "option_a": "7 zile",
+    "option_b": "30 zile",
+    "option_c": "90 zile",
+    "option_d": "365 zile"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7090598",
+    "answer": "C",
+    "instruction": "Care dintre aceste procese implică transferul unei cantități mari de energie termice?",
+    "option_a": "eroziunea",
+    "option_b": "sedimentarea",
+    "option_c": "subducția",
+    "option_d": "cimentarea"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_412337",
+    "answer": "D",
+    "instruction": "În timpul unei investigații, căldura s-a transferat de la un lichid la mediu. Care pereche de explicații poate justifica cel mai bine acest rezultat?",
+    "option_a": "Temperatura lichidului a crescut sau lichidul a devenit un gaz.",
+    "option_b": "Temperatura lichidului a crescut sau lichidul a devenit un solid.",
+    "option_c": "Temperatura lichidului a scăzut sau lichidul a devenit un gaz.",
+    "option_d": "Temperatura lichidului a scăzut sau lichidul a devenit un solid."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_1998_8_2",
+    "answer": "C",
+    "instruction": "Structura celulară care face ca celula unei plante să fie mai rigidă decât o celulă animală este",
+    "option_a": "membrana celulară.",
+    "option_b": "citoplasma.",
+    "option_c": "peretele celular.",
+    "option_d": "ribosomul."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7124338",
+    "answer": "D",
+    "instruction": "În cazul cercetătorilor de științe, o minte întrebătoare ar fi utilă deoarece îi va conduce să",
+    "option_a": "devină mai creativi.",
+    "option_b": "nu aibă încredere în munca altor cercetători.",
+    "option_c": "muncească pentru a accepta ipoteze publicate.",
+    "option_d": "efectueze cercetări pentru a confirma sau infirma teorii existente."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_405454",
+    "answer": "D",
+    "instruction": "Care instrument de gătit schimbă cel mai puțin mediul?",
+    "option_a": "grătar pe gaz",
+    "option_b": "căldare electrică",
+    "option_c": "cuptor cu microunde",
+    "option_d": "cuptor solar"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7007875",
+    "answer": "B",
+    "instruction": "Care este responsabil pentru crearea vântului?",
+    "option_a": "aciunea undelor",
+    "option_b": "energia solară",
+    "option_c": "mișcarea copacilor",
+    "option_d": "forța gravitațională"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_417146",
+    "answer": "A",
+    "instruction": "Marea majoritate a oxigenului din atmosferă este produsă de alge. Unde trăiesc majoritatea algelor?",
+    "option_a": "oceanul de coastă",
+    "option_b": "oceanul profund",
+    "option_c": "lacuri de apă dulce",
+    "option_d": "lacuri"
+  },
+  {
+    "id": "ARC-Challenge/validation/LEAP_2004_8_10397",
+    "answer": "B",
+    "instruction": "Când oamenii au mers pe Lună, au constatat că pot sări mai sus decât o pot face pe Pământ. De ce este adevărat acest lucru?",
+    "option_a": "Nu există atmosferă pe Lună.",
+    "option_b": "Luna exercită o forță gravitațională mai mică decât Pământul.",
+    "option_c": "Costumele spațiale i-au ajutat să sară mai sus.",
+    "option_d": "Luna se rotește mai repede decât Pământul."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_407695",
+    "answer": "D",
+    "instruction": "Juan și LaKeisha dau drumul la câteva obiecte pe o pantă. Vor să vadă care obiect se rostogolește cel mai departe. Ce ar trebui să facă pentru a repeta investigația?",
+    "option_a": "Puneți obiectele în grupuri.",
+    "option_b": "Schimbați înălțimea pantei.",
+    "option_c": "Alegeți alte obiecte de rulat.",
+    "option_d": "Înregistrați detaliile investigației."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7158673",
+    "answer": "D",
+    "instruction": "Ana este o alergătoare de fond. După ce a terminat o cursă, a observat că simte căldură din cauza eliberării de energie termică. Care este cea mai probabilă sursă a energiei termice?",
+    "option_a": "frecarea din aer",
+    "option_b": "absorbția căldurii de la soare",
+    "option_c": "absorbția energiei mecanice",
+    "option_d": "conversii de energie care apar în corpul ei"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7018515",
+    "answer": "C",
+    "instruction": "Cel mai probabil motiv pentru care sunetul se deplasează mai rapid în apa sărată decât în apa dulce este faptul că apa sărată",
+    "option_a": "este mai elastică.",
+    "option_b": "absorbe căldura mai repede.",
+    "option_c": "are o densitate mai ridicată.",
+    "option_d": "reflectă sunetul mai bine."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_412551",
+    "answer": "D",
+    "instruction": "Bufnițele cu ochii de catifea au două variații de culoare: roșu și gri. Ce avantaj are bufnița gri față de cea roșie într-un habitat format din copaci cu scoarță închisă la culoare?",
+    "option_a": "cuibăritul",
+    "option_b": "hrănirea",
+    "option_c": "reproducerea",
+    "option_d": "ascunderea"
+  },
+  {
+    "id": "ARC-Challenge/validation/VASoL_2008_5_19",
+    "answer": "D",
+    "instruction": "Trei jucători de baseball investighează pentru a afla cine poate arunca o minge de baseball cel mai departe. Aceștia marchează o zonă de investigație pe terenul de joacă. Ce ar trebui să păstreze constant?",
+    "option_a": "Înălțimea jucătorilor",
+    "option_b": "Culoarea mingilor aruncate",
+    "option_c": "Ordinea în care jucătorii aruncă",
+    "option_d": "Locul de unde jucătorii aruncă"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7120890",
+    "answer": "A",
+    "instruction": "Care demonstrează cel mai bine că undele transferă energie?",
+    "option_a": "o clopotniță care sună într-un turn",
+    "option_b": "o frunză care cade de pe un copac",
+    "option_c": "o minge care se rostogolește pe o colină",
+    "option_d": "o steag care se mișcă în vânt"
+  },
+  {
+    "id": "ARC-Challenge/validation/AKDE&ED_2008_8_44",
+    "answer": "A",
+    "instruction": "Care caracteristică se aplică animalelor doar într-unul dintre aceste grupuri taxonomice: reptile, mamifere, păsări, amfibieni sau pești?",
+    "option_a": "au păr",
+    "option_b": "depun ouă",
+    "option_c": "au picioare palmate",
+    "option_d": "respiră prin branhii"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415348",
+    "answer": "D",
+    "instruction": "Care este o caracteristică moștenită a unui copac?",
+    "option_a": "o ramură ruptă de pe un molid",
+    "option_b": "o cavitate dintr-un stejar",
+    "option_c": "o cicatrice de pe un arțar",
+    "option_d": "un trunchi gros de pe un copac de nucă pecană"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7014368",
+    "answer": "C",
+    "instruction": "Curentii lungi de-a lungul litoralului sunt valuri oceanice care lovesc plajele cu un unghi extrem de mic. În zonele în care există curenți lungi de-a lungul litoralului, ce efect au asupra zonelor de uscat?",
+    "option_a": "Construiesc munți.",
+    "option_b": "Provocă cutremure.",
+    "option_c": "Mută nisipul, creând nisipuri.",
+    "option_d": "Creează râuri sărate în interiorul teritoriului."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7245193",
+    "answer": "C",
+    "instruction": "O zonă rurală a fost defrișată până la piatră goală pentru construirea unei șosele, dar drumul nu a fost niciodată construit. Zona a început să se regenereze. Care organisme au reapărut cel mai probabil primii?",
+    "option_a": "arbori",
+    "option_b": "tufișuri",
+    "option_c": "licheni și mușchiuri",
+    "option_d": "iarbă și păpădie"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7251668",
+    "answer": "D",
+    "instruction": "O populație de dafnii prezintă o migrație verticală de la fundul unui iaz cu adâncimea de un metru, în timpul zilei, la suprafața iazului noaptea. La ce factor este cel mai probabil să răspundă populația de dafnii?",
+    "option_a": "pH-ul apei",
+    "option_b": "claritatea apei",
+    "option_c": "presiunea apei",
+    "option_d": "temperatura apei"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2013_8_29421",
+    "answer": "A",
+    "instruction": "Când transpirația unei persoane se evaporă, aceasta se simte mai răcoroasă. Care dintre următoarele afirmații descrie cel mai bine de ce transpirația ajută persoana să se simtă răcoroasă?",
+    "option_a": "Căldura este absorbită de transpirație atunci când aceasta se evaporă.",
+    "option_b": "Corpul absoarbe căldura atunci când transpirația se evaporă.",
+    "option_c": "Temperatura apei din transpirație scade atunci când aceasta se evaporă.",
+    "option_d": "Temperatura apei din corp crește când transpirația se evaporă."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7082145",
+    "answer": "D",
+    "instruction": "Cum ar trebui utilizat un grafic de linii pentru a afișa datele privind distanța și timpul pentru un obiect în mișcare?",
+    "option_a": "Axul y trebuie etichetat ca timp, care este variabila dependentă.",
+    "option_b": "Axul y ar trebui etichetat ca distanță, care este variabila independentă.",
+    "option_c": "Axul x ar trebui etichetat ca distanță, care este variabila dependentă.",
+    "option_d": "Axul x trebuie etichetat ca timp, care este variabila independentă."
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2007_5_39",
+    "answer": "D",
+    "instruction": "Elevii învață despre resursele naturale din Maryland. O grupă de elevi cercetează informații despre resursele naturale regenerabile din stat. Cealaltă grupă cercetează informații despre resursele naturale neregenerabile din stat. Resursele pe care elevii le investighează includ plante, animale, sol, minerale, apă, cărbune și petrol. Care dintre următoarele activități umane afectează negativ o resursă naturală?",
+    "option_a": "pescuitul într-un lac",
+    "option_b": "utilizarea apei pentru a produce energie electrică",
+    "option_c": "plantarea plantelor autohtone de-a lungul malului unui lac",
+    "option_d": "dirijarea scurgerii de pe terenurile arabile într-un lac"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_22",
+    "answer": "A",
+    "instruction": "Blana unor animale devine mai groasă în timpul iernii și este mulsă în primăvară. Aceste observații arată cum animalele",
+    "option_a": "răspund la schimbările din mediu",
+    "option_b": "se deplasează dintr-un loc în altul pentru a supraviețui",
+    "option_c": "își depozitează grăsime pentru iarnă",
+    "option_d": "concurează cu alte animale pentru hrană"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7006790",
+    "answer": "B",
+    "instruction": "Care dintre următoarele explică cel mai bine cauza zdruncinării ferestrelor în timpul furtunii?",
+    "option_a": "energie electrică",
+    "option_b": "energie sonoră",
+    "option_c": "energie luminoasă",
+    "option_d": "energie termică"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7284043",
+    "answer": "C",
+    "instruction": "Pe savana africană, elefanții mănâncă tufișuri și copaci mici. Acest comportament elimină vegetația și permite ierbii să crească. Pășunile precum gazelele mănâncă iarba. Lei pradă gazelele. Care sunt cele două organisme din acest scenariu care se află într-o relație cea mai cooperantă?",
+    "option_a": "elefanții și tufișurile",
+    "option_b": "tufișurile și lei",
+    "option_c": "elefanții și gazelele",
+    "option_d": "gazelele și lei"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7175455",
+    "answer": "D",
+    "instruction": "În Australia, temperatura din timpul zilei poate să urce până la peste 110°F (43°C). Pentru a-și menține corpul răcoros, cangurii își linge brațele, acoperindu-le cu un strat gros de salivă. Pe măsură ce saliva se evaporă, acționează ca un mecanism de răcire și coboară temperatura corpului cangurului. Care este cel mai potrivit termen care descrie această activitate?",
+    "option_a": "selecție naturală",
+    "option_b": "mecanism de apărare",
+    "option_c": "adaptări structurale",
+    "option_d": "adaptări comportamentale"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_401714",
+    "answer": "B",
+    "instruction": "Într-un experiment de laborator, elevii testează identitatea unei pudre necunoscute. Care metodă este cea mai adecvată pentru a muta pudra pe o balanță?",
+    "option_a": "ștergeți cu o perie pe hârtie de transfer",
+    "option_b": "scoateți cu spatula de laborator pe hârtie de transfer",
+    "option_c": "strângeți cu degetele și ridicați pe hârtie de transfer",
+    "option_d": "turnați din sticlă pe hârtie de transfer"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_409529",
+    "answer": "B",
+    "instruction": "Robert este un pescar care dorește să găsească o modalitate de a prinde mai mult pește. A decis să încerce diferite dimensiuni de cârlige. Robert a prins 4 somni, 3 păstrăvi și 7 biban folosind viermi ca momeală. Care este variabila independentă (manipulată) în cercetarea lui Robert?",
+    "option_a": "tipul de momeală",
+    "option_b": "dimensiunea cârligului",
+    "option_c": "tipul de pește prins",
+    "option_d": "numărul de pești prins"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7223038",
+    "answer": "C",
+    "instruction": "Există multe dimensiuni și culori ale stelelor. Care dintre următoarele descrie cel mai bine categoria în care Soarele ar fi plasat?",
+    "option_a": "stele supergigante albastre",
+    "option_b": "stele gigante roșii",
+    "option_c": "stele din secvența principală galbenă",
+    "option_d": "stele pitice albe"
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2008_5_24",
+    "answer": "C",
+    "instruction": "Maryland și zona înconjurătoare sunt bogate în resurse naturale. Unele dintre aceste resurse naturale sunt regenerabile, iar altele sunt neregenerabile. Oamenii folosesc ambele tipuri de resurse în activitățile zilnice. Folosirea resurselor naturale produce adesea deșeuri. Centrele de reciclare sunt locurile unde oamenii duc materiale care pot fi refolosite pentru a produce noi produse. Cum influențează reciclarea hârtiei mediul într-un mod pozitiv?",
+    "option_a": "reduce poluarea aerului",
+    "option_b": "crește eroziunea solului",
+    "option_c": "reduce tăierile de arbori",
+    "option_d": "crește distrugerea habitatelor"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2010_5_11998",
+    "answer": "A",
+    "instruction": "O plantă de dimineață este un tip de plantă cățărătoare care se urcă pe copaci și garduri. Care dintre următoarele comportamente ajută cel mai mult o plantă de dimineață să se cățărească pe un gard? ",
+    "option_a": "tulpinile se încolăcesc în răspuns la atingere",
+    "option_b": "tulpinile se umflă în răspuns la apă",
+    "option_c": "florile se deschid în răspuns la lumină",
+    "option_d": "rădăcinile cresc în răspuns la gravitație"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7139493",
+    "answer": "B",
+    "instruction": "Care este cel mai probabil responsabil pentru capacitatea bug-urilor de cinchină de a supraviețui expunerilor repetate la insecticide?",
+    "option_a": "diversitatea speciilor",
+    "option_b": "diversitatea genetică",
+    "option_c": "diversitatea ecosistemului",
+    "option_d": "diversitatea populației"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_14",
+    "answer": "A",
+    "instruction": "Panourile solare sunt utilizate pentru a absorbi lumina soarelui. Ce culoare de panou ar absorbi cea mai multă lumină solară?",
+    "option_a": "negru",
+    "option_b": "verde",
+    "option_c": "alb",
+    "option_d": "galben"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2006_9_35",
+    "answer": "A",
+    "instruction": "Care dintre următoarele afecțiuni genetice rezultă dintr-un problemă legată de segregare?",
+    "option_a": "Trisomia 16: o afecțiune cauzată atunci când un zigot primește trei copii ale cromozomului 16",
+    "option_b": "Boala Huntington: o afecțiune cauzată atunci când un zigot primește un alel dominant mutat",
+    "option_c": "Hemofilie: o afecțiune cauzată atunci când un zigot primește un cromozom X cu un anumit alel recesiv",
+    "option_d": "Anemia falciformă: o afecțiune cauzată atunci când un zigot primește un alel recesiv pentru hemoglobină de la ambii părinți"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2015_8_7",
+    "answer": "B",
+    "instruction": "Un elev încălzește două tigăi de apă pe un aragaz folosind setarea cea mai înaltă. O tigaie conține 1 L de apă și cealaltă tigaie conține 3 L de apă. Elevul încălzește fiecare tigaie până când apa clocotește. Care dintre următoarele afirmații descrie cel mai bine ceea ce se întâmplă cu apa din tigăi?",
+    "option_a": "Apa din ambele tigăi clocotește în același timp.",
+    "option_b": "Apa din ambele tigăi clocotește la aceeași temperatură.",
+    "option_c": "Cele 3 L de apă se încălzesc mai mult decât cele 1 L de apă înainte de clocotire.",
+    "option_d": "Cele 3 L de apă absorb căldură mai rapid decât cele 1 L de apă."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7115063",
+    "answer": "A",
+    "instruction": "Care dintre următoarele este cel mai probabil să perturbe un ecosistem de mlaștină?",
+    "option_a": "construcția unui ansamblu rezidențial",
+    "option_b": "plantarea de flori sălbatice autohtone",
+    "option_c": "o perioadă de ploi însemnate",
+    "option_d": "o lovitura de trăsnet"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7144795",
+    "answer": "D",
+    "instruction": "Un anumit habitat a experimentat multe schimbări în condițiile de mediu în ultimii 75 de ani. Care este cel mai probabil o caracteristică a unei specii care are cea mai bună șansă de a supraviețui acestor schimbări de mediu?",
+    "option_a": "o populație cu mulți indivizi",
+    "option_b": "o mare diversitate de specii în comunitatea actuală",
+    "option_c": "adaptări care permit indivizilor să trăiască într-o varietate de condiții",
+    "option_d": "comportamente care promovează dezvoltarea de adaptări la noi medii"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_400934",
+    "answer": "C",
+    "instruction": "Conform Tabelului Periodic al Elementelor, care set de elemente are proprietăți similare?",
+    "option_a": "H, C, I",
+    "option_b": "He, H, Al",
+    "option_c": "He, Ne, Ar",
+    "option_d": "Na, Ca, Al"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7004410",
+    "answer": "B",
+    "instruction": "O limitare a reprezentării unui ecosistem prin lanțuri trofice este aceea că acestea nu",
+    "option_a": "includ producătorii din ecosistem.",
+    "option_b": "includ toate speciile din ecosistem.",
+    "option_c": "arată consumatorii din ecosistem.",
+    "option_d": "arată relațiile prădător-pradă în ecosistem."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7029505",
+    "answer": "C",
+    "instruction": "Cum diferă tipurile de sânge unul de altul în clasificarea sângelui ABO?",
+    "option_a": "dimensiuni diferite ale globulelor roșii",
+    "option_b": "dimensiuni diferite ale globulelor albe",
+    "option_c": "diferite proteine marker pe globulele roșii",
+    "option_d": "diferite proteine marker pe globulele albe"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_LBS10598",
+    "answer": "A",
+    "instruction": "Un cub de gheață se topește și apoi se evaporă. Cubul de gheață și aburul de apă au același",
+    "option_a": "masă.",
+    "option_b": "densitate.",
+    "option_c": "volum.",
+    "option_d": "temperatură."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7245893",
+    "answer": "B",
+    "instruction": "Care parte a sistemului digestiv produce primele schimbări chimice la alimente?",
+    "option_a": "dinții din gură",
+    "option_b": "saliva din gură",
+    "option_c": "enzimele din stomac",
+    "option_d": "enzimele din intestinul subțire"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7246925",
+    "answer": "D",
+    "instruction": "Leucina este unul dintre aminoacizii necesari organismului tău, dar care nu se pot produce singuri. Care dintre aceste procese se întâmplă astfel încât corpul uman să poată obține leucina?",
+    "option_a": "Corpul convertește alți aminoacizi în leucină.",
+    "option_b": "Corpul depozitează carbohidrați care conțin leucină.",
+    "option_c": "Corpul descompune acizii grași pentru a obține leucina.",
+    "option_d": "Corpul digeră proteinele din alimente pentru a obține leucina."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7138688",
+    "answer": "D",
+    "instruction": "Care procedură ajută cel mai bine la determinarea validității științifice a unei cercetări?",
+    "option_a": "ținerea de notițe referitoare la condiția echipamentului folosit în procedură",
+    "option_b": "desfășurarea unei cercetări cu un grup de persoane",
+    "option_c": "desfășurarea procedurii cu atenție o singură dată",
+    "option_d": "repetarea cercetării de mai multe ori"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_408700",
+    "answer": "C",
+    "instruction": "Emily a făcut o ceașcă de ceai și a amestecat cu o lingură. Lingura a devenit caldă. Cum s-a transferat căldura de la ceai la lingură?",
+    "option_a": "convecție",
+    "option_b": "radiație",
+    "option_c": "conducție",
+    "option_d": "evaporare"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7100608",
+    "answer": "B",
+    "instruction": "Familia lui Michael construiește o casă nouă. Dorește să folosească electricitate generată din surse regenerabile. Care dintre aceste surse de energie ar ajuta familia să-și atingă obiectivul?",
+    "option_a": "motor cu benzină",
+    "option_b": "panouri solare de acoperiș",
+    "option_c": "centrale termice pe cărbune",
+    "option_d": "centrală nucleară"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7133648",
+    "answer": "C",
+    "instruction": "Care dintre sarcinile executate în bucătărie este un exemplu de schimbare fizică?",
+    "option_a": "prăjirea unui ou",
+    "option_b": "coacerea unui tort",
+    "option_c": "topirea untului",
+    "option_d": "rumenirea pâinii"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_401244",
+    "answer": "D",
+    "instruction": "Care este tipul de rocă cel mai util în studiul istoriei organismelor vii?",
+    "option_a": "bazalt",
+    "option_b": "marmură",
+    "option_c": "granit",
+    "option_d": "calcar"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_400397",
+    "answer": "C",
+    "instruction": "Care dintre aceste comportamente ar fi cel mai probabil învățat de un urs din mediul său?",
+    "option_a": "bând apă",
+    "option_b": "mâncând pește",
+    "option_c": "deschizând capacele de cutii de gunoi",
+    "option_d": "protejându-și puii"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7245088",
+    "answer": "D",
+    "instruction": "Care descrie compoziția carbohidraților?",
+    "option_a": "lipide care se leagă pentru a forma fosfolipide",
+    "option_b": "monomeri care se leagă pentru a forma polimeri",
+    "option_c": "aminoacizi care se leagă pentru a forma polipeptide",
+    "option_d": "saharide care se leagă pentru a forma polizaharide"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_408809",
+    "answer": "C",
+    "instruction": "La șoareci, o anumită specie prezintă dominanță incompletă în colorarea blănii. Descendenții unui șoarece negru (BB) și a unui șoarece alb (bb) sunt șoareci gri (Bb). La împerecherea dintre doi șoareci gri, cu ce procent de culori de blană se vor naște descendenții?",
+    "option_a": "25% negru, 75% gri",
+    "option_b": "25% gri, 75% alb",
+    "option_c": "25% alb, 25% negru, 50% gri",
+    "option_d": "25% gri, 25% negru, 50% alb"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7068863",
+    "answer": "C",
+    "instruction": "Un elev a investigat efectul fierului asupra creșterii plantelor. Patru plante identice au primit o anumită cantitate de supliment de fier atunci când au fost udate. Această investigație ar fi putut fi îmbunătățită dacă ar fi existat",
+    "option_a": "viermi de pământ în sol.",
+    "option_b": "mai puține plante în experiment.",
+    "option_c": "plante care au primit apă fără suplimente de fier.",
+    "option_d": "plante care au primit diferite cantități de lumina soarelui."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7166880",
+    "answer": "D",
+    "instruction": "Clay urmărește vremea pentru a se pregăti pentru o excursie la plajă mâine. Prognoza prezice că un sistem de presiune scăzută se va deplasa peste noapte. Ce tip de vreme poate aștepta cel mai probabil Clay dimineața?",
+    "option_a": "încețoșat",
+    "option_b": "însorit",
+    "option_c": "senin și mai rece",
+    "option_d": "înnorat și ploios"
+  },
+  {
+    "id": "ARC-Challenge/validation/ACTAAP_2007_7_25",
+    "answer": "A",
+    "instruction": "Care dintre următoarele nu este o regulă de siguranță în laboratorul de științe?",
+    "option_a": "Măsurați lichidele cu exactitate într-un pahar gradat.",
+    "option_b": "Nu tăiați obiecte în timp ce le țineți în mâini.",
+    "option_c": "Purtați ochelari de protecție atunci când manevrați substanțe periculoase.",
+    "option_d": "Când notați mirosurile, îndreptați fumul spre nas în loc să vă apropiați de sursă cu fața."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7018445",
+    "answer": "D",
+    "instruction": "Prin ce material s-ar deplasa sunetul cel mai rapid?",
+    "option_a": "plută",
+    "option_b": "apă",
+    "option_c": "aer",
+    "option_d": "oțel"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7033653",
+    "answer": "C",
+    "instruction": "Care este cea mai buna unitate de masura pentru a masura distantel între Pământ și alte sisteme solare din univers?",
+    "option_a": "mile",
+    "option_b": "kilometri",
+    "option_c": "ani-lumină",
+    "option_d": "unitati astronomice"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2006_5_29",
+    "answer": "D",
+    "instruction": "Patru tije de grosime egală, dar confecționate din metale diferite, au fost testate cu cantități egale de greutate pentru a vedea care este cea mai flexibilă. Care dintre următoarele variante este cea mai bună metodă de a raporta rezultatele acestui experiment?",
+    "option_a": "o listă cu fiecare tip de tijă utilizată",
+    "option_b": "un schiță a fiecărei tije înainte de testare",
+    "option_c": "o tabelă care arată cât cântărește fiecare tijă",
+    "option_d": "un grafic cu bare care arată cât de mult s-a îndoit fiecare tijă"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7159268",
+    "answer": "A",
+    "instruction": "După ultima eră glaciară, topirea ghețarilor polari și montani a dus la creșterea nivelului apei din oceane. Ce a dus cel mai probabil la creșterea nivelului apei din ocean?",
+    "option_a": "creșterea conținutului de sare din zonele umede costiere existente",
+    "option_b": "creșterea numărului de organisme din recifele existente",
+    "option_c": "scăderea numărului de maree în fiecare zi",
+    "option_d": "scăderea adâncimii fundului oceanului"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_400885",
+    "answer": "D",
+    "instruction": "Care dintre ecuațiile de mai jos reprezintă o ecuație chimică echilibrată?",
+    "option_a": "2NaOH + CaBr_{2} -> Ca(OH)_{2} + NaBr",
+    "option_b": "NO + Cl_{2} -> NOCl",
+    "option_c": "CaCO_{3} -> CaO + 2CO_{2}",
+    "option_d": "2AlCl_{3} + 3Mg -> 3MgCl_{2} + 2Al"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7038273",
+    "answer": "A",
+    "instruction": "În timp ce conduce un experiment, un student colectează mai multe temperaturi ale apei diferite, două măsurători de masă și trei măsurători de volum. Care dintre acestea ar fi cea mai bună modalitate de a organiza datele?",
+    "option_a": "într-o tabelă",
+    "option_b": "într-un grafic",
+    "option_c": "într-o narativă scrisă",
+    "option_d": "ilustrat cu imagini"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_407574",
+    "answer": "A",
+    "instruction": "Ce gaz este eliberat de producători, pe care consumatorii îl iau pentru a supraviețui?",
+    "option_a": "oxigen",
+    "option_b": "azot",
+    "option_c": "vapor de apă",
+    "option_d": "dioxid de carbon"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_1998_4_8",
+    "answer": "B",
+    "instruction": "Unde ar fi CELE MAI periculoase să lucrați cu instrumente electrice?",
+    "option_a": "într-un garaj",
+    "option_b": "lângă o piscină",
+    "option_c": "aproape de un televizor sau computer",
+    "option_d": "într-un subsol răcoros"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7128695",
+    "answer": "C",
+    "instruction": "Un cercetător face o descoperire în timpul unei investigații, dar nu reușește să mențină evidențe clare ale testelor efectuate. În ce fel afectează lipsa de evidențe munca unui cercetător?",
+    "option_a": "Invalidă procedurile și concluziile.",
+    "option_b": "Face datele obținute în studiu incorecte.",
+    "option_c": "Împiedică alți cercetători să valideze rezultatele.",
+    "option_d": "Împiedică alți oameni de știință să își dezvolte noi ipoteze."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400178",
+    "answer": "C",
+    "instruction": "Care amestec poate fi separat în ingredientele sale?",
+    "option_a": "chipsuri de cartofi",
+    "option_b": "prăjitura cu ciocolată",
+    "option_c": "salată de fructe",
+    "option_d": "ouă ochiuri"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7189823",
+    "answer": "A",
+    "instruction": "Un vulcan erupe și acoperă zona înconjurătoare cu lavă și cenușă vulcanică. Pe măsură ce ecosistemul începe să se recupereze, care dintre următoarele tipuri de plante ar fi cel mai probabil să colonizeze terenul din zona înconjurătoare a erupției?",
+    "option_a": "mușchii",
+    "option_b": "florile sălbatice",
+    "option_c": "copacii din lemn tare",
+    "option_d": "tufișurile de ierburi perene"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_412683",
+    "answer": "D",
+    "instruction": "Care este viteza unei unde de 2 Hz care are o lungime de undă de 10 m?",
+    "option_a": "5 m/s",
+    "option_b": "8 m/s",
+    "option_c": "12 m/s",
+    "option_d": "20 m/s"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_184258",
+    "answer": "A",
+    "instruction": "Care dintre caracteristicile următoare ale unui curs de apă afectează cel mai direct depunerile de pe fundul său?",
+    "option_a": "gradient",
+    "option_b": "elevație",
+    "option_c": "nivel de bază",
+    "option_d": "calitatea apei"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_192168",
+    "answer": "D",
+    "instruction": "Modelele științifice sunt foarte comune. Pentru care dintre următoarele scopuri un model fizic ar fi cel mai puțin util?",
+    "option_a": "simularea fenomenelor științifice",
+    "option_b": "simplificarea unei idei complexe",
+    "option_c": "permite vizualizarea",
+    "option_d": "afișarea datelor"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_LBS10399",
+    "answer": "D",
+    "instruction": "Un microscop mărește un obiect cu o putere de mărire de 50x. Cât de lung este obiectul dacă imaginea sa pare să fie de 0,5 cm?",
+    "option_a": "100 cm",
+    "option_b": "25 cm",
+    "option_c": "2,5 cm",
+    "option_d": "0,01 cm"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7228603",
+    "answer": "C",
+    "instruction": "Care dintre următoarele reprezintă rezultatul schimbului de părți de cromozomi homologi în timpul procesului de meioză?",
+    "option_a": "mutații aleatoare",
+    "option_b": "număr redus de gameți",
+    "option_c": "descendenți cu combinații unice de trăsături",
+    "option_d": "număr redus de alele pe fiecare cromozom"
+  },
+  {
+    "id": "ARC-Challenge/validation/MEA_2013_5_3",
+    "answer": "D",
+    "instruction": "Soarele este clasificat ca fiind o stea. Care caracteristică identifică Soarele ca fiind o stea?",
+    "option_a": "Soarele se învârte în jurul axei sale.",
+    "option_b": "Soarele este localizat în afara galaxiei Calea Lactee.",
+    "option_c": "Soarele face parte din Carul Mare.",
+    "option_d": "Soarele produce lumină și energie într-o reacție nucleară."
+  },
+  {
+    "id": "ARC-Challenge/validation/NCEOGA_2013_8_38",
+    "answer": "C",
+    "instruction": "În timpul iernii, blana vulpii arctice este albă. În timpul verii, blana devine mai închisă la culoare, devenind de culoare maro-roșcat. Ce determină cel mai probabil schimbarea culorii blănii vulpii?",
+    "option_a": "cantitatea de lumină solară prezentă",
+    "option_b": "habitatul vulpii",
+    "option_c": "genele vulpii",
+    "option_d": "vârsta vulpii"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7221095",
+    "answer": "A",
+    "instruction": "Care dintre acestea este un element abiotic într-un ecosistem?",
+    "option_a": "precipitația medie anuală în ecosistem",
+    "option_b": "tipurile de producători găsiți în ecosistem",
+    "option_c": "dimensiunea populației de prădători în ecosistem",
+    "option_d": "microorganismele care trăiesc în solul ecosistemului"
+  },
+  {
+    "id": "ARC-Challenge/validation/MEAP_2005_5_1",
+    "answer": "C",
+    "instruction": "În atmosferă, vaporii de apă există sub formă de ___.",
+    "option_a": "gaz vizibil",
+    "option_b": "lichid vizibil",
+    "option_c": "gaz invizibil",
+    "option_d": "lichid invizibil"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_406939",
+    "answer": "C",
+    "instruction": "Care este o modalitate prin care o bucată de hârtie poate suferi o schimbare chimică?",
+    "option_a": "a îndoi hârtia pe jumătate",
+    "option_b": "a înmuia hârtia în apă",
+    "option_c": "a arde hârtia cu focul",
+    "option_d": "a tăia hârtia cu foarfecele"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7219415",
+    "answer": "C",
+    "instruction": "Care dintre exemple este o funcție a membranei selectiv permeabile a unei celule?",
+    "option_a": "susținerea formei celulei",
+    "option_b": "producerea de proteine pentru celulă",
+    "option_c": "limitarea substanțelor chimice care difuzează din celulă",
+    "option_d": "stocarea deșeurilor pentru celulă"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_1999_8_22",
+    "answer": "B",
+    "instruction": "Care tip de pod folosește cabluri pentru susținere?",
+    "option_a": "un pod grinda",
+    "option_b": "un pod suspendat",
+    "option_c": "un pod cadru",
+    "option_d": "un pod cu console"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2006_9_33",
+    "answer": "D",
+    "instruction": "Gheparzii au ajuns aproape de extinctie din cauza vanatorii, secetei si a bolilor. In prezent, exista foarte putina variatie genetica in populatiile de gheparzi. Care dintre urmatoarele este o consecinta a variatiei genetice limitate din populatiile actuale de gheparzi, comparativ cu populatiile de gheparzi anterioare, cu o variatie mai mare?",
+    "option_a": "Gheparzii din populatiile actuale sunt mai rezistenti la noi boli.",
+    "option_b": "Rata de supravietuire a puietilor de gheparzi este mai mare in populatiile actuale.",
+    "option_c": "Gheparzii din populatiile actuale sunt mai putin capabili sa se imperecheze cu alte specii.",
+    "option_d": "Populatiile actuale de gheparzi sunt mai putin capabile sa se adapteze la schimbarile de mediu."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7135310",
+    "answer": "C",
+    "instruction": "De ce energia de ieșire a unei mașini este întotdeauna mai mică decât energia de intrare?",
+    "option_a": "O parte din energie este distrusă în timp ce mașina funcționează.",
+    "option_b": "Mașina trebuie să învingă forța constantă a magnetismului.",
+    "option_c": "Energia utilă scade pe măsură ce energia este transferată mediului înconjurător.",
+    "option_d": "O parte din energie este eliberată sub formă de căldură când este convertită."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_414131",
+    "answer": "C",
+    "instruction": "Care descrie o proprietate a tuturor elementelor?",
+    "option_a": "Toate elementele sunt metale.",
+    "option_b": "Toate elementele au șase electroni.",
+    "option_c": "Toate elementele sunt substanțe pure.",
+    "option_d": "Toate elementele există în faza solidă."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7112753",
+    "answer": "B",
+    "instruction": "Pentru a localiza o populație de gândaci, oamenii de știință trebuie să folosească un echipament foarte specializat. Care factor ar limita cel mai probabil capacitatea de a localiza gândacii?",
+    "option_a": "climatul",
+    "option_b": "costurile",
+    "option_c": "mărimea eșantionului",
+    "option_d": "politica"
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2009_5_16",
+    "answer": "D",
+    "instruction": "Studenții au vizitat telescopul Morris W. Offit situat la Observatorul Maryland Space Grant din Baltimore. Ei au învățat despre stele, planete și lună. Studenții au înregistrat informațiile de mai jos. • Modul în care sunt aranjate constelațiile rămâne același, dar locațiile lor pe cer par că se schimbă. • Soarele, planetele și luna par să se miște pe cer. • Proxima Centauri este steaua cea mai apropiată de sistemul nostru solar. • Polaris este o stea care face parte dintr-un model de stele numit Ursa Mică. Care dintre afirmațiile de mai jos explică cel mai bine de ce soarele pare că se mișcă pe cer în fiecare zi?",
+    "option_a": "Soarele se rotește în jurul Pământului.",
+    "option_b": "Pământul se rotește în jurul soarelui.",
+    "option_c": "Soarele se rotește în jurul axei sale.",
+    "option_d": "Pământul se rotește în jurul axei sale."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7236023",
+    "answer": "B",
+    "instruction": "O masă de aer se află la o altitudine de 1000 de metri în centrul de presiune scăzută a unei furtuni din emisfera nordică. Care dintre următoarele descrie cel mai bine mișcarea particulelor de aer în această masă de aer din cauza condițiilor furtunii și a rotației Pământului pe măsură ce masa de aer se mișcă în afară?",
+    "option_a": "Particulele de aer se mișcă în sus și la stânga.",
+    "option_b": "Particulele de aer se mișcă în sus și la dreapta.",
+    "option_c": "Particulele de aer se mișcă în jos și la stânga.",
+    "option_d": "Particulele de aer se mișcă în jos și la dreapta."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7270008",
+    "answer": "C",
+    "instruction": "Mineritul la suprafață pentru cărbune implică îndepărtarea întregii vegetații și a rocilor de deasupra cărbunelui exploatat. Care sunt cele două subsisteme ale Pământului afectate cel mai direct de mineritul la suprafață?",
+    "option_a": "litosfera și atmosfera",
+    "option_b": "biosfera și hidrosfera",
+    "option_c": "litosfera și biosfera",
+    "option_d": "atmosfera și hidrosfera"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7099768",
+    "answer": "D",
+    "instruction": "Când o minge de bowling este eliberată din mâna unui jucător, energia din minge este parțial",
+    "option_a": "stocată în minge până când lovește coronițele.",
+    "option_b": "crescută când fricțiunea este aplicată pe minge.",
+    "option_c": "convertită din energia cinetică în energie potențială gravitațională.",
+    "option_d": "convertită în căldură și sunet când face contact cu podeaua."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7269238",
+    "answer": "D",
+    "instruction": "Motoarele diesel pot arde multe tipuri de combustibil. Ce combustibil ar fi cel mai regenerabil pentru un motor diesel?",
+    "option_a": "combustibil diesel convențional",
+    "option_b": "kerosen distilat",
+    "option_c": "ulei vegetal produs convențional",
+    "option_d": "ulei vegetal produs organic"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7187915",
+    "answer": "A",
+    "instruction": "Amanda și Jake au învățat despre formele cinetice și potențiale de energie dintr-un circuit electric simplu. Circuitul pe care îl studiază are o baterie, cabluri și un bec. Care dintre următoarele este o formă de energie potențială în circuit?",
+    "option_a": "energia chimică din baterie",
+    "option_b": "energie luminată din bec",
+    "option_c": "energia termică pierdută din cablurile electrice",
+    "option_d": "energia electrică care curge prin bec"
+  },
+  {
+    "id": "ARC-Challenge/validation/OHAT_2011_8_3",
+    "answer": "D",
+    "instruction": "Care acțiune demonstrează o schimbare chimică?",
+    "option_a": "Părul lung este tăiat și uscat.",
+    "option_b": "Un creion de lemn este ascuțit și se rupe.",
+    "option_c": "Un cub de gheață se topește și devine un lichid clar.",
+    "option_d": "Un cui de fier devine portocaliu și se exfoliază la suprafață."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7159775",
+    "answer": "A",
+    "instruction": "Janette desfășoară o investigație pentru a vedea care alimente o fac să se simtă mai obosită. Mănâncă unul dintre cele patru alimente diferite în fiecare zi la aceeași oră timp de patru zile și apoi înregistrează starea ei. Îi cere prietenei ei Carmen să facă aceeași investigație pentru a vedea dacă obține rezultate similare. Ce ar face investigația cel mai dificil de replicat?",
+    "option_a": "măsurarea cantității de oboseală",
+    "option_b": "asigurarea că se mănâncă aceleași alimente",
+    "option_c": "înregistrarea observațiilor în același tabel",
+    "option_d": "asigurarea că alimentele sunt la aceeași temperatură"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_402239",
+    "answer": "C",
+    "instruction": "Care este cea mai bună modalitate de conservare a resurselor naturale în casă?",
+    "option_a": "Aruncă toate sticlele la gunoi.",
+    "option_b": "Folosește șervețele de hârtie pentru a curăța petele.",
+    "option_c": "Reduce timpul petrecut în duș.",
+    "option_d": "Udă gazonul în fiecare zi."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_184013",
+    "answer": "C",
+    "instruction": "Care dintre următoarele ar fi cel mai puțin distructiv pentru teren?",
+    "option_a": "un cutremur de magnitudine 7.2",
+    "option_b": "o undă de furtună tropicală",
+    "option_c": "o furtună electrică",
+    "option_d": "o erupție vulcanică"
+  },
+  {
+    "id": "ARC-Challenge/validation/NCEOGA_2013_8_4",
+    "answer": "D",
+    "instruction": "Care este cea mai bună explicație de ce masa totală a produselor ar fi mai mică decât greutatea totală a reactanților după o reacție chimică?",
+    "option_a": "A avut loc o schimbare fizică.",
+    "option_b": "Atomii implicați în reacție au pierdut masă.",
+    "option_c": "S-au creat precipitații în noua soluție.",
+    "option_d": "Gazele au fost eliberate către atmosferă."
+  },
+  {
+    "id": "ARC-Challenge/validation/ACTAAP_2013_7_17",
+    "answer": "D",
+    "instruction": "Un grup dorește să afle dacă numărul păsărilor acvatice care zboară prin Arkansas se schimbă în fiecare an. Ce metodă trebuie să utilizeze pentru a aduna această informație?",
+    "option_a": "Prindeți cât mai multe păsări posibil într-un an. Colectați date despre locația fiecărei păsări.",
+    "option_b": "În prima zi a primăverii anul viitor, numărați numărul de păsări de la cel mai mare lac din stat. Comparați datele cu cele de anul trecut.",
+    "option_c": "Puneți un observator la o locație pe linia de stat. Acesta va număra păsările pe măsură ce zboară în stat. Acest lucru se va face timp de doi ani.",
+    "option_d": "Alegeți o singură zi pe an în timpul migrației. Numărați numărul de păsări de la zece lacuri diferite din stat. Faceți acest lucru în aceeași zi în fiecare an, timp de zece ani."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7183015",
+    "answer": "A",
+    "instruction": "Un articol recent dintr-un jurnal de știință explică relația dintre curentul de convecție și plăcile tectonice. Pe măsură ce fluidul din mantaua terestră circulă, acesta determină mișcarea plăcilor crustale. Care cel mai probabil cauzează circulația lichidelor în interiorul Pământului?",
+    "option_a": "transferuri de energie",
+    "option_b": "încălzirea globală",
+    "option_c": "variații de reflux",
+    "option_d": "curenti oceanici"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2014_8_17",
+    "answer": "D",
+    "instruction": "Care dintre următoarele este un exemplu de reproducere asexuală?",
+    "option_a": "Broaștele țestoase depun ouă fertilizate într-o groapă în nisip.",
+    "option_b": "Semințele se formează în conuri de pin după ce polenul ajunge la conuri.",
+    "option_c": "Peștii eliberează celule de ou și celule de spermă la suprafața apei.",
+    "option_d": "Arborele trimite extensii asemănătoare rădăcinilor care produc noi tulpini."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_401286",
+    "answer": "B",
+    "instruction": "Multe animale periclitate sunt capturate, marcate și apoi eliberate înapoi în mediul lor natural. Eticheta poate fi o bucată de plastic sau metal codificată care este plasată undeva în siguranță pe corp. Care este cea mai probabilă rațiune pentru marcarea unui animal?",
+    "option_a": "pentru a monitoriza obiceiurile alimentare",
+    "option_b": "pentru a monitoriza obiceiurile de rătăcire",
+    "option_c": "pentru a monitoriza obiceiurile de somn",
+    "option_d": "pentru a monitoriza obiceiurile reproductive"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7207358",
+    "answer": "C",
+    "instruction": "Care este cea mai bună descriere a teoriei moderne a atomului?",
+    "option_a": "experimentele efectuate de John Dalton la începutul anilor 1800",
+    "option_b": "discuțiile dintre doi oameni de știință importanți",
+    "option_c": "cercetarea multor oameni de știință de-a lungul mai multor ani",
+    "option_d": "ideile lui Democrit privind atomii acum peste 2000 de ani"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7015435",
+    "answer": "A",
+    "instruction": "Care sunt produsele unei reacții între un acid puternic și o bază puternică?",
+    "option_a": "un săruri și apă",
+    "option_b": "două elemente diferite",
+    "option_c": "un acid slab și o bază slabă",
+    "option_d": "ioni de hidrogen și ioni de hidroxid"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7044678",
+    "answer": "A",
+    "instruction": "Care dintre următoarele afirmații explică cel mai bine ce se întâmplă cu o frunză atunci când aceasta pierde apa de care are nevoie?",
+    "option_a": "Scade presiunea de turgescență a frunzei.",
+    "option_b": "Scade presiunea atmosferică a frunzei.",
+    "option_c": "Crește rata de transpirație a frunzei.",
+    "option_d": "Crește rata de fotosinteză a frunzei."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_400905",
+    "answer": "D",
+    "instruction": "Soarele este aproximativ la 1,5 x 10 ^ 8 km distanță de Pământ. Viteza luminii este de 3,0 x 10 ^ 8 metri/secundă. Care este distanța de la Soare la Pământ în secunde de lumină?",
+    "option_a": "2,0 secunde de lumină",
+    "option_b": "0,5 secunde de lumină",
+    "option_c": "2,0 x 10 ^ -3 secunde de lumină",
+    "option_d": "5,0 x 10 ^ 2 secunde de lumină"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_LBS10040",
+    "answer": "D",
+    "instruction": "Ce produce fotosinteza care ajută plantele să crească?",
+    "option_a": "apă",
+    "option_b": "oxigen",
+    "option_c": "proteină",
+    "option_d": "zahăr"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_8_41",
+    "answer": "D",
+    "instruction": "În cazul unui accident de mașină, centura de siguranță ajută la prevenirea rănilor prin aplicarea unei forțe",
+    "option_a": "mai mică decât forța pasagerului în mișcare",
+    "option_b": "mai mare decât forța mașinii în mișcare",
+    "option_c": "în aceeași direcție cu mișcarea mașinii",
+    "option_d": "în direcția opusă mișcării pasagerului"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7141908",
+    "answer": "C",
+    "instruction": "Cercetătorii au descoperit o nouă specie de organism complex în adâncurile oceanului. Organismul cel mai probabil",
+    "option_a": "este unicelular.",
+    "option_b": "este o formă de bacterie.",
+    "option_c": "este format din mai multe celule.",
+    "option_d": "nu are un nucleu organizat."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_406029",
+    "answer": "D",
+    "instruction": "Pentru o activitate științifică, Mia a trebuit să deseneze o imagine a Lunii în fiecare noapte. Dacă Mia a desenat o lună nouă, ce tip de lună a desenat Mia aproximativ o săptămână mai târziu?",
+    "option_a": "gibbous",
+    "option_b": "lună plină",
+    "option_c": "lună nouă",
+    "option_d": "primul pătrar"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7105123",
+    "answer": "C",
+    "instruction": "Înregistrările fosile indică faptul că schimbările de specii se produc în general",
+    "option_a": "opresc atunci când o specie se formează.",
+    "option_b": "accelerează cu condiții stabile.",
+    "option_c": "au loc în decursul multor generații.",
+    "option_d": "sunt independente de mediu."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400339",
+    "answer": "C",
+    "instruction": "Care afirmație nu este o cauză pentru care copacii cresc la diferite înălțimi într-o pădure?",
+    "option_a": "Unii au nevoie de mai puțină lumină solară decât alții.",
+    "option_b": "Copacii au fost plantați în ani diferiți.",
+    "option_c": "Păsările își construiesc cuiburi în copacii mai mici.",
+    "option_d": "Copacii mai înalți au frunze doar pe crengile de sus."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415366",
+    "answer": "B",
+    "instruction": "Copacii au nevoie de oxigen. Rădăcinile aproape de suprafața solului absorb oxigenul de care are nevoie copacul. Care organisme ajută copacii să obțină oxigen?",
+    "option_a": "pițigăi făcând găuri în copac",
+    "option_b": "viermi de pământ facând găuri în solul din apropierea copacului",
+    "option_c": "ciuperci crescând la baza copacului",
+    "option_d": "veverițe ce mănâncă nuci de pe solul din apropierea copacului"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7168123",
+    "answer": "B",
+    "instruction": "Anita a alergat în jurul pistei de atletism de la școala ei. La sfârșitul alergării, își lua mai mult aer în plămâni și ritmul inimii ei crescuse. Ce sisteme reglementează ritmul respirației și al bătăilor inimii pentru Anita?",
+    "option_a": "muscular și scheletic",
+    "option_b": "nervos și endocrin",
+    "option_c": "digestiv și excretor",
+    "option_d": "respirator și circulator"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7141400",
+    "answer": "A",
+    "instruction": "Un fermier plantează porumb într-un câmp în fiecare an timp de mai mulți ani. În fiecare an observă că producția sa de porumb pe acru a scăzut chiar dacă condițiile meteorologice au fost foarte similare. Ce schimbare în care factor abiotic cauzează cel mai probabil scăderea producției de porumb?",
+    "option_a": "scăderea substanțelor nutritive din sol",
+    "option_b": "creșterea precipitațiilor",
+    "option_c": "creșterea vitezei vântului",
+    "option_d": "scăderea luminii solare"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2012_8_23636",
+    "answer": "D",
+    "instruction": "Care dintre procesele următoare durează de obicei cel mai mult timp?",
+    "option_a": "Lava fierbinte se răcește și formează rocă nouă.",
+    "option_b": "Aburii de apă se condensează pentru a forma un nor.",
+    "option_c": "O undă seismică călătorește prin manta.",
+    "option_d": "O golful oceanic se formează între două continente."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_406705",
+    "answer": "B",
+    "instruction": "Clasa Anei a numărat fluturii din grădina școlii pentru o sarcină. Rezultatele Anei au fost diferite față de restul clasei. Ce ar trebui să facă?",
+    "option_a": "Schimba sarcina.",
+    "option_b": "Lăsați rezultatele așa cum sunt.",
+    "option_c": "Asociază rezultatele ei cu cele ale clasei.",
+    "option_d": "Întreabă profesorul să numere pentru ea."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7186148",
+    "answer": "B",
+    "instruction": "Un elev amestecă o cană de ciocolată caldă cu o lingură. Cum este transferată căldura între ciocolata caldă și partea de lingură care se află în ciocolata caldă?",
+    "option_a": "Conducția transferă energia de la lingură la ciocolata caldă.",
+    "option_b": "Conducția transferă energia de la ciocolata caldă la lingură.",
+    "option_c": "Convecția transferă energia de la lingură la ciocolata caldă.",
+    "option_d": "Convecția transferă energia de la ciocolata caldă la lingură."
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_28",
+    "answer": "B",
+    "instruction": "Într-o anumită zonă, păsările mari au fost hrănindu-se cu animale mici. Dacă toate păsările mari ar muri din cauza unei boli, probabilitatea este ca numărul animalelor mici din zonă să",
+    "option_a": "scadă",
+    "option_b": "crească",
+    "option_c": "rămână la fel"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7005478",
+    "answer": "B",
+    "instruction": "Temperatura corpului uman este relativ constantă. Care este un mecanism de feedback care ajută corpul uman să își mențină temperatura normală într-un mediu rece?",
+    "option_a": "Apa este eliberată de pe piele.",
+    "option_b": "Mușchii se agită în mișcări mici.",
+    "option_c": "Ritmicitatea bătăilor inimii încetinește.",
+    "option_d": "Plămânii iau aer suplimentar."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2009_8_5",
+    "answer": "D",
+    "instruction": "Care dintre următoarele ar fi cel mai eficient în reducerea congestiei traficului aerian la un aeroport aglomerat?",
+    "option_a": "oferind feedback privind performanța piloților",
+    "option_b": "oferind informații de zbor pasagerilor",
+    "option_c": "creșterea numărului de aeronave la aeroport",
+    "option_d": "creșterea numărului de piste de decolare/aterizare la aeroport"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7037573",
+    "answer": "D",
+    "instruction": "Care este cea mai bună practică de urmat atunci când efectuați un experiment?",
+    "option_a": "utilizarea prudenței când manipulați vasele de sticlă fierbinți",
+    "option_b": "oprirea arzătoarelor atunci când nu le utilizați",
+    "option_c": "studierea procedurilor de laborator înainte de a efectua experimentul",
+    "option_d": "verificarea cu profesorul dumneavoastră a procedurii pentru eliminarea substanțelor chimice"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2012_5_8",
+    "answer": "B",
+    "instruction": "Cameron cumpără un birou nou. Vrea să se asigure că biroul va încăpea în colțul camerei sale. Când cumpără un birou nou, care dintre următoarele îl va ajuta cel mai mult să fie sigur că biroul va încăpea?",
+    "option_a": "o fotografie care arată covorul din camera sa",
+    "option_b": "un diagramă cu dimensiunile camerei sale",
+    "option_c": "un desen care arată cum să asambleze un birou",
+    "option_d": "o listă cu uneltele de care are nevoie să asambleze biroul"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7092295",
+    "answer": "C",
+    "instruction": "Ce acțiune creează o competiție între preocupările pentru mediu și câștigurile economice?",
+    "option_a": "protejarea animalelor sălbatice pe cale de dispariție",
+    "option_b": "reintroducerea animalelor sălbatice în habitatul lor natural",
+    "option_c": "folosirea terenurilor forestiere pentru construirea de case",
+    "option_d": "utilizarea autobuzelor urbane pentru transport"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7131828",
+    "answer": "C",
+    "instruction": "În multe zone tropicale, țânțarii pot purta un parazit care poate cauza o boală infecțioasă la oameni. Care descrie cel mai bine acest tip de relație între țânțari și oameni?",
+    "option_a": "prădător-pradă",
+    "option_b": "competiție pentru resurse",
+    "option_c": "factori biotici care interacționează între ei",
+    "option_d": "transfer de energie între producător și consumator"
+  },
+  {
+    "id": "ARC-Challenge/validation/TIMSS_2003_8_pg31",
+    "answer": "B",
+    "instruction": "Ventilarea poate face ca un foc de lemn să ardă mai puternic deoarece ventilarea",
+    "option_a": "încălzește mâncarea suficient pentru a arde",
+    "option_b": "adaugă mai mult oxigen necesar pentru ardere",
+    "option_c": "crește cantitatea de lemn disponibil pentru ardere",
+    "option_d": "furnizează energia necesară pentru a menține focul"
+  },
+  {
+    "id": "ARC-Challenge/validation/ACTAAP_2007_7_5",
+    "answer": "B",
+    "instruction": "Se efectuează un experiment cu un recipient etanș. Recipientul începe cu o temperatură de 70 de grade F și o presiune a aerului de 20 psi. Recipientul este încălzit, iar presiunea din interiorul recipientului crește uniform odată cu creșterea temperaturii. Dacă recipientul este răcit înapoi la 70 de grade F, care va fi presiunea aerului?",
+    "option_a": "10 psi",
+    "option_b": "20 psi",
+    "option_c": "30 psi",
+    "option_d": "40 psi"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7120908",
+    "answer": "D",
+    "instruction": "Un planor este un avion fără motor. În afara dimensiunilor, care ar fi principalele aspecte de luat în considerare la proiectarea unui planor care să acopere o distanță mare?",
+    "option_a": "impactul asupra mediului și masa",
+    "option_b": "costul și impactul asupra mediului",
+    "option_c": "rezistența și costul",
+    "option_d": "masa și rezistența"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_180443",
+    "answer": "C",
+    "instruction": "Care este faza Lunii care urmează după cea de Lună în creștere gibboasă?",
+    "option_a": "Lună descrescătoare gibboasă",
+    "option_b": "Lună în creștere în descreștere",
+    "option_c": "Lună plină",
+    "option_d": "Lună nouă"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7238963",
+    "answer": "A",
+    "instruction": "Un bărbat cu o combinație alelică cc pentru trăsătura bărbia cu scobitură produce un zigot cu o femeie cu o combinație alelică Cc pentru trăsătura. Ce combinații alelice ar putea să apară în zigot?",
+    "option_a": "Cc sau cc",
+    "option_b": "CC sau Cc",
+    "option_c": "Numai CC",
+    "option_d": "Numai Cc"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_184765",
+    "answer": "B",
+    "instruction": "Ce va rezulta probabil din tăierea unor zone mari continuu de pădure?",
+    "option_a": "Procentul de oxigen din zonă va creşte.",
+    "option_b": "Cantitatea de eroziune din zonă va creşte.",
+    "option_c": "Diversitatea speciilor din zonă va creşte.",
+    "option_d": "Substanțele nutritive din solul din zonă vor creşte."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7235813",
+    "answer": "D",
+    "instruction": "Carbonul circulă prin diverse rezervoare de pe Pământ. Timpul necesar pentru formarea acestor rezervoare variază într-o mare măsură. Care proces din ciclul carbonului necesită milioane de ani pentru a forma rezervorul indicat?",
+    "option_a": "incorporarea carbonului prin digestie în țesuturile animale",
+    "option_b": "emiterea carbonului în atmosferă prin respirație",
+    "option_c": "carbonul atmosferic incorporat în zaharurile din plante",
+    "option_d": "descompunerea carbonului în țesuturile vegetale pentru a forma petrolul"
+  },
+  {
+    "id": "ARC-Challenge/validation/OHAT_2007_5_24",
+    "answer": "B",
+    "instruction": "Într-o pădure, cum ajută organismele decompozitoare la supraviețuirea altor organisme?",
+    "option_a": "Ele eliberează oxigen în aer pe care animalele îl respiră.",
+    "option_b": "Ele pun nutrienți în sol pe care plantele îi folosesc pentru a crește.",
+    "option_c": "Ele oferă adăpost în păduri unde animalele se pot ascunde.",
+    "option_d": "Ele utilizează lumina soarelui pentru a produce alimente pentru plante și animale."
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2007_8_15",
+    "answer": "C",
+    "instruction": "Acțiunile umane afectează mediul înconjurător. Care dintre următoarele acțiuni umane afectează cea mai mică zonă a mediului?",
+    "option_a": "arde o pădure",
+    "option_b": "arde combustibili fosili",
+    "option_c": "sapă o nouă groapă de gunoi",
+    "option_d": "pulverizează produse chimice asupra culturilor"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7162838",
+    "answer": "D",
+    "instruction": "Șobolanii de laborator au fost hrăniți cu suplimente de afine, căpșuni sau spanac împreună cu hrana lor obișnuită. După opt săptămâni, șobolanilor li s-au administrat teste de memorie și abilități motorii. Șobolanii care au primit suplimentul de afine au arătat cea mai mare îmbunătățire. Care este variabila independentă (manipulată) a investigației?",
+    "option_a": "testul abilităților motorii",
+    "option_b": "procesul de îmbătrânire",
+    "option_c": "testul de memorie",
+    "option_d": "suplimentele"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_405973",
+    "answer": "B",
+    "instruction": "Pe o insulă mică trăiesc mai multe tipuri de păsări. O furtună distruge majoritatea plantelor de care se hrănesc păsările și în care își construiesc cuiburile. Care dintre următoarele tipuri de păsări are cele mai mari șanse să supraviețuiască pe insulă?",
+    "option_a": "păsările care au cel mai mare număr",
+    "option_b": "păsările care sunt cele mai capabile să se adapteze",
+    "option_c": "păsările care pot zbura cel mai departe",
+    "option_d": "păsările cu cele mai puternice ciocuri"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2000_8_10",
+    "answer": "B",
+    "instruction": "Care dintre afirmațiile de mai jos este o opinie?",
+    "option_a": "Multe plante sunt verzi.",
+    "option_b": "Multe plante sunt frumoase.",
+    "option_c": "Plantele au nevoie de lumina soarelui.",
+    "option_d": "Plantele pot crește în diferite locuri."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7103180",
+    "answer": "B",
+    "instruction": "Care bioregiune are cea mai mare vegetație?",
+    "option_a": "desert",
+    "option_b": "pădure",
+    "option_c": "stepă",
+    "option_d": "tundră"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7221865",
+    "answer": "C",
+    "instruction": "Un grup de studenți a observat formarea de bule când apa a dat în clocot. Ce s-a întâmplat cu materia din cauza schimbării fizice a apei?",
+    "option_a": "S-a creat materie nouă în bule.",
+    "option_b": "Materia veche a fost distrusă când apa s-a transformat în gaz.",
+    "option_c": "Materia a fost conservată când a schimbat forma.",
+    "option_d": "Compoziția materiei s-a schimbat."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7242743",
+    "answer": "D",
+    "instruction": "Proteinele care sunt sintetizate în subunitățile ribozomale suferă modificări post-translaționale și sunt ambalate și direcționate spre destinația potrivită. Ce componentă structurală a celulei este implicată în astfel de modificări?",
+    "option_a": "reticulul endoplasmatic",
+    "option_b": "lisozomii",
+    "option_c": "mitochondriile",
+    "option_d": "aparatul Golgi"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7103565",
+    "answer": "C",
+    "instruction": "Sistemele de mare presiune opresc aerul să se ridice în zonele mai reci ale atmosferei unde apa se poate condensa. Care va fi cel mai probabil rezultat dacă un sistem de mare presiune rămâne într-o zonă pentru o perioadă lungă de timp?",
+    "option_a": "ceată",
+    "option_b": "ploaie",
+    "option_c": "secetă",
+    "option_d": "tornadă"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415541",
+    "answer": "D",
+    "instruction": "Care dintre aceste obiecte este cel mai probabil să plutească în apă?",
+    "option_a": "marmură de sticlă",
+    "option_b": "minge de oțel",
+    "option_c": "minge de cauciuc solid",
+    "option_d": "minge de tenis de masă"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_9",
+    "answer": "A",
+    "instruction": "Un student scoate un tocător de cuburi de gheață din congelator și îl pune pe o masă. Cuburile de gheață sunt solide și reci. Studentul uită să pună tocătorul de cuburi de gheață înapoi în congelator. A doua zi, cuburile de gheață ar trebui să fie",
+    "option_a": "lichide și mai calde",
+    "option_b": "solide și mai calde",
+    "option_c": "lichide și mai reci",
+    "option_d": "solide și mai reci"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7097318",
+    "answer": "D",
+    "instruction": "Un veveriță a lăsat să cadă o ghindă de pe o ramură a unui stejar. Care dintre următoarele se va schimba pe măsură ce ghinda cade de la copac la sol?",
+    "option_a": "masa ghindei",
+    "option_b": "forța asupra ghindei",
+    "option_c": "densitatea ghindei",
+    "option_d": "viteza ghindei"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_8_20",
+    "answer": "B",
+    "instruction": "Ecuatia de mai jos arată produsele formate când o soluție de azotat de argint (AgNO3) reacționează cu o soluție de clorură de sodiu (NaCl). AgNO3 \u0002+ NaCl (Reactanți) -> NaNO3 \u0002+ AgCl (Produse) În această ecuație, masa totală a reactanților este",
+    "option_a": "mai mare decât masa totală a produselor",
+    "option_b": "egală cu masa totală a produselor",
+    "option_c": "egală cu masa AgCl",
+    "option_d": "mai mică decât masa AgCl"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415397",
+    "answer": "C",
+    "instruction": "Care schimbare produce o structură la suprafața Pământului?",
+    "option_a": "Inundația face oamenii să părăsească un oraș.",
+    "option_b": "Un cutremur face unde într-un câmp.",
+    "option_c": "Un vulcan produce o nouă teren cu lavă.",
+    "option_d": "Un alunecare de teren într-o golful produce un val tsunami."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7246348",
+    "answer": "A",
+    "instruction": "Care caracteristică nu se formează ca urmare a divergenței plăcilor tectonice?",
+    "option_a": "groapă",
+    "option_b": "vale rift",
+    "option_c": "bazin oceanic",
+    "option_d": "creasta oceanică mijlocie"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7270200",
+    "answer": "A",
+    "instruction": "Oamenii de ştiinţă au explicat cum ar putea fi sintetizaţi acizii amino, carbohidraţii, acizii nucleici şi acizii graşi pe Pământ înainte de apariţia organismelor vii. Care dintre următoarele descoperiri ar sprijini cel mai mult afirmaţia că viaţa a fost generată spontan din aceşti compuşi biochimici?",
+    "option_a": "Aceste substanţe pot să se autoasambleze într-o structură care se replică.",
+    "option_b": "Aceste substanţe sunt utilizate de organismele vii în prezent.",
+    "option_c": "Aceste substanţe sunt găsite pe o altă planetă.",
+    "option_d": "Aceste substanţe se pot autoasambla într-un virus."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415026",
+    "answer": "C",
+    "instruction": "Ce animale ar fi cel mai probabil ajutate de inundațiile dintr-o zonă de coastă?",
+    "option_a": "cerbi",
+    "option_b": "ratoni",
+    "option_c": "crocodili",
+    "option_d": "coioti"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7143518",
+    "answer": "D",
+    "instruction": "Castorii sunt cunoscuți pentru construirea de baraje pe râuri și pâraie prin tăierea copacilor și strângerea de crengi și tufișuri. Populația de castori din Statele Unite a scăzut din cauza prinderii de către oameni. Care este una dintre consecințele ecologice care cel mai probabil apare odată cu o diminuare a populației de castori?",
+    "option_a": "o scădere semnificativă a populațiilor de pești",
+    "option_b": "o creștere semnificativă a ecosistemelor forestiere",
+    "option_c": "o creștere semnificativă a evaporării apei",
+    "option_d": "o scădere semnificativă a numărului de habitate pentru iazuri"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7032340",
+    "answer": "D",
+    "instruction": "Dintre opțiunile enumerate, care reprezintă lumea naturală utilizând un model?",
+    "option_a": "citirea unei cărți despre o comunitate de cârtițe de pe câmpie",
+    "option_b": "privirea unei fotografii a unei comunități de cârtițe de pe câmpie",
+    "option_c": "cercetarea unei comunități de cârtițe de pe câmpie folosind Internetul",
+    "option_d": "observarea unei comunități de cârtițe de pe câmpie într-o expoziție la grădina zoologică"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_415263",
+    "answer": "C",
+    "instruction": "Care dintre următoarele se găseşte într-o celulă eucariotă, dar nu într-o celulă procariotă?",
+    "option_a": "ADN",
+    "option_b": "citoplasma",
+    "option_c": "un nucleu",
+    "option_d": "o membrană celulară"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7090720",
+    "answer": "B",
+    "instruction": "Etanolul este un combustibil alternativ produs din porumb. Care este unul dintre efectele nefavorabile ale utilizării etanolului ca combustibil?",
+    "option_a": "scăderea costului de producere a combustibilului",
+    "option_b": "scăderea suprafeței agricole disponibile pentru producția de alimente",
+    "option_c": "creșterea consumului de combustibili fosili",
+    "option_d": "creșterea amprentei de carbon provenite din conducerea automobilelor"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_410964",
+    "answer": "D",
+    "instruction": "Studenții investighează modul în care funcționează un sonerie de ușă. Care dintre următoarele observații este cel mai probabil să fie făcută în timpul investigației?",
+    "option_a": "Toate soneriile de ușă își fac sunete frumoase.",
+    "option_b": "O baterie este cea mai bună sursă de energie pentru o sonerie de ușă.",
+    "option_c": "Majoritatea oamenilor preferă să folosească soneria de ușă decât să bată la ușă.",
+    "option_d": "Soneria de ușă utilizează o bucată de sârmă înfășurată în jurul unui magnet."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7057313",
+    "answer": "A",
+    "instruction": "Cel mai bine se descrie mușchiul inimii ca fiind",
+    "option_a": "aceeași tipologie de celule care lucrează împreună.",
+    "option_b": "diferite sisteme care lucrează împreună.",
+    "option_c": "aceeași tipologie de organe care formează un sistem.",
+    "option_d": "diferite organe care îndeplinesc o funcție."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_402101",
+    "answer": "D",
+    "instruction": "Ce caracteristici pot fi găsite la suprafața Pământului și a Lunii?",
+    "option_a": "plante",
+    "option_b": "ocean",
+    "option_c": "animale",
+    "option_d": "munți"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2010_8_12010",
+    "answer": "C",
+    "instruction": "Unele specii de bacterii produc o substanță toxică pentru insecte, dar inofensivă pentru oameni. Oamenii de știință au izolat gena care controlează producția acestei substanțe. Care dintre următoarele este cel mai bun motiv pentru inserarea acestei gene în plantele de porumb?",
+    "option_a": "Porumbul va crește mai repede.",
+    "option_b": "Va fi nevoie de mai puțin îngrășământ.",
+    "option_c": "Va fi nevoie de mai puține pesticide.",
+    "option_d": "Porumbul va fi mai nutritiv."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7038133",
+    "answer": "B",
+    "instruction": "Un elev plănuiește o investigație pentru a calcula vitezele diferitelor bile pe măsură ce rulează pe o rampă. Care dintre următoarele informații este cea mai puțin necesară pentru ca elevul să o înregistreze?",
+    "option_a": "mărimea fiecărei bile",
+    "option_b": "grosimea rampei",
+    "option_c": "lungimea rampei",
+    "option_d": "timpul necesar bilei pentru a călători"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_407169",
+    "answer": "D",
+    "instruction": "Dacă un habitat cu o mică baltă trece printr-o perioadă lungă de secetă, cea mai probabilă consecință pentru majoritatea peștilor din baltă este:",
+    "option_a": "Ei se vor adapta la mediul uscat.",
+    "option_b": "Ei vor trăi din alte surse de apă.",
+    "option_c": "Ei se vor muta într-un alt habitat.",
+    "option_d": "Ei nu vor putea supraviețui."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7103215",
+    "answer": "C",
+    "instruction": "Un student dorește să determine efectul usturoiului asupra creșterii unei specii de ciuperci. Mai multe probe de culturi de ciuperci sunt crescute în aceeasi cantitate de agar și lumina. Fiecare probă primește o cantitate diferită de usturoi. Care este variabila independentă în această investigație?",
+    "option_a": "cantitatea de agar",
+    "option_b": "cantitatea de lumină",
+    "option_c": "cantitatea de usturoi",
+    "option_d": "cantitatea de creștere"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2013_8_29432",
+    "answer": "B",
+    "instruction": "Care dintre următoarele părți ale unei celule vegetale are o funcție similară cu funcția unui schelet animal?",
+    "option_a": "membrana celulară",
+    "option_b": "peretele celular",
+    "option_c": "cloroplastul",
+    "option_d": "nucleul"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7018008",
+    "answer": "A",
+    "instruction": "Care dintre următoarele descrie cel mai bine proprietatea electrică a unui atom?",
+    "option_a": "neutru",
+    "option_b": "izolat",
+    "option_c": "cu sarcină pozitivă",
+    "option_d": "cu sarcină negativă"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7166530",
+    "answer": "B",
+    "instruction": "Ira a trebuit să realizeze o investigație de laborator după școală. A obținut materialele, substanțele chimice, echipamentul și echipamentul de protecție de la profesorul său. Într-un mod rapid, dar cu precauție, a efectuat pașii din procedura de experiment scrisă. Pentru a economisi timp, a decis să înregistreze observațiile și rezultatele sale mai târziu. Care va fi cel mai probabil afectat negativ de decizia sa?",
+    "option_a": "abilitatea de a urma instrucțiunile",
+    "option_b": "abilitatea de a scrie un raport valid",
+    "option_c": "abilitatea de a urma ghidurile de securitate",
+    "option_d": "abilitatea de a veni cu o concluzie"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400047",
+    "answer": "B",
+    "instruction": "Un elev a lăsat o bucată de ciocolată în soare într-o zi caldă. Odată cu topirea ciocolatei, care proprietate s-a modificat?",
+    "option_a": "masa sa",
+    "option_b": "forma sa",
+    "option_c": "greutatea sa",
+    "option_d": "compoziția sa"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7044100",
+    "answer": "C",
+    "instruction": "În ce mod se pot epuiza nutrienții solului în terenurile agricole?",
+    "option_a": "supra păscării",
+    "option_b": "eroziunea prin vânt",
+    "option_c": "irigarea sporită",
+    "option_d": "îngrășarea sporită"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7075145",
+    "answer": "A",
+    "instruction": "Care dintre aceste procese face posibil ca celulele să ia apă?",
+    "option_a": "osmoză",
+    "option_b": "mitoză",
+    "option_c": "fotosinteză",
+    "option_d": "respirație"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_192290",
+    "answer": "D",
+    "instruction": "Deși aparțin aceleiași familii, un vultur și un pelicar sunt diferiți. Care este o diferență între ei?",
+    "option_a": "preferința lor pentru hrana din pește",
+    "option_b": "abilitatea lor de a zbura",
+    "option_c": "metoda lor de reproducere",
+    "option_d": "metoda lor de prindere a hranei"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7093975",
+    "answer": "D",
+    "instruction": "Care este o cauză naturală a uscării râurilor?",
+    "option_a": "poluarea",
+    "option_b": "eroziunea",
+    "option_c": "nivelul apelor subterane crește",
+    "option_d": "lipsa precipitațiilor"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7085820",
+    "answer": "D",
+    "instruction": "Pe măsură ce apa începe să înghețe, moleculele de apă",
+    "option_a": "câștigă energie termică.",
+    "option_b": "se mișcă mai liber.",
+    "option_c": "crește în dimensiune.",
+    "option_d": "scade în viteză."
+  },
+  {
+    "id": "ARC-Challenge/validation/MEA_2016_5_6",
+    "answer": "C",
+    "instruction": "Un balon umplut cu apă este pus într-un congelator. Care proprietate a apei se va schimba pe măsură ce apa ajunge la punctul ei de îngheț?",
+    "option_a": "culoarea",
+    "option_b": "masa",
+    "option_c": "starea",
+    "option_d": "greutate"
+  },
+  {
+    "id": "ARC-Challenge/validation/NCEOGA_2013_5_43",
+    "answer": "B",
+    "instruction": "Ce trebuie să se întâmple înainte ca norii să se formeze?",
+    "option_a": "Vaporul de apă trebuie să se încălzească.",
+    "option_b": "Vaporul de apă trebuie să piardă energia termică.",
+    "option_c": "Precipitațiile trebuie să înceapă să cadă și să curgă.",
+    "option_d": "Transpirația trebuie să adauge vapori de apă în atmosferă."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7250023",
+    "answer": "A",
+    "instruction": "Toate celulele, procariote și eucariote, au câteva caracteristici comune. Care caracteristică celulară se găsește atât în celulele procariote, cât și în cele eucariote?",
+    "option_a": "ribosom",
+    "option_b": "membrană cloroplast",
+    "option_c": "nucleu",
+    "option_d": "reticul endoplasmic"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7003955",
+    "answer": "D",
+    "instruction": "Ce tip de sarcină au firele de păr individuale când stau în picioare datorită electricității statice?",
+    "option_a": "sarcini neutre",
+    "option_b": "descărcare neutră",
+    "option_c": "sarcină pozitivă permanentă",
+    "option_d": "sarcini pozitive temporare"
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2010_5_18",
+    "answer": "D",
+    "instruction": "Vântul este o resursă naturală care aduce beneficii malului de sud-est al Golfului Chesapeake. Cum ar putea profita cel mai bine oamenii de aceste vânturi?",
+    "option_a": "Vânturile ar putea aduce petroliul în golful Chesapeake.",
+    "option_b": "Vânturile ar putea fi convertite în combustibili fosili.",
+    "option_c": "Vânturile ar putea aduce poluarea aerului înspre uscat.",
+    "option_d": "Vânturile ar putea fi convertite în energie electrică."
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_2",
+    "answer": "D",
+    "instruction": "Cât timp aproximativ îi ia Pământului să facă o revoluție în jurul Soarelui?",
+    "option_a": "o zi",
+    "option_b": "o săptămână",
+    "option_c": "o lună",
+    "option_d": "un an"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_411306",
+    "answer": "D",
+    "instruction": "Unele tipuri diferite de plante au caracteristici comune. Care caracteristică este cea mai des întâlnită la plante?",
+    "option_a": "mărimea rădăcinilor lor",
+    "option_b": "forma frunzelor lor",
+    "option_c": "culoarea florilor lor",
+    "option_d": "structura celulelor lor"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7241115",
+    "answer": "C",
+    "instruction": "Care este cel mai probabil eveniment care a permis explozia diversității de mamifere care a avut loc în perioada Cretacică?",
+    "option_a": "formarea supercontinentului Pangea",
+    "option_b": "activitate vulcanică intensă",
+    "option_c": "temperaturi mai scăzute",
+    "option_d": "creșterea nivelului mării"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7042735",
+    "answer": "C",
+    "instruction": "În timpul orei de științe se realizează o soluție din apă și un compus ne-toxic. Ce trebuie făcut cu soluția după terminarea demonstrației?",
+    "option_a": "Trebuie versată într-un canal de scurgere.",
+    "option_b": "Trebuie versată într-un container de reciclare.",
+    "option_c": "Trebuie versată într-un container de deșeuri.",
+    "option_d": "Trebuie pusă într-un container pentru eliminarea materialelor periculoase."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2004_9_13",
+    "answer": "D",
+    "instruction": "Care dintre următoarele este tipul principal de stres pe care îl exercită un menghină fixă asupra unei bucăți de lemn?",
+    "option_a": "întindere",
+    "option_b": "tăiere",
+    "option_c": "torsiune",
+    "option_d": "compresiune"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_176015",
+    "answer": "D",
+    "instruction": "Un grup de elevi investighează două substanțe pentru a determina care este sarea de masă și care este zahărul de masă. Care este cea mai bună metodă prin care elevii ar identifica fiecare substanță?",
+    "option_a": "prin observarea dacă se dizolvă în apă",
+    "option_b": "prin studierea culorii substanței",
+    "option_c": "prin observarea dacă se lipesc de o suprafață",
+    "option_d": "prin examinarea formei cristalelor"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7215180",
+    "answer": "C",
+    "instruction": "Oamenii de știință colectează mostre de granit în munții vestici ai Nevadei. Care dintre aceste formate este cel mai bun pentru a afișa și compara procentajul de minerale găsite într-o mostră de granit?",
+    "option_a": "histogramă",
+    "option_b": "grafic liniar",
+    "option_c": "diagramă circulară",
+    "option_d": "grafic cu dispersie"
+  },
+  {
+    "id": "ARC-Challenge/validation/TIMSS_2007_4_pg26",
+    "answer": "B",
+    "instruction": "Un animal are șase picioare. Cel mai probabil ce ar fi?",
+    "option_a": "o păianjen",
+    "option_b": "o muscă",
+    "option_c": "un șopârlă",
+    "option_d": "un lacuste"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_177818",
+    "answer": "C",
+    "instruction": "Durata de timp intre noapte si zi pe Pamant variaza pe parcursul anului. Aceasta varietate de timp este explicata in principal de",
+    "option_a": "pozitia Soarelui.",
+    "option_b": "pozitia Lunii.",
+    "option_c": "unghiul de inclinare al Pamantului",
+    "option_d": "distanta Pamantului fata de Soare"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_405487",
+    "answer": "B",
+    "instruction": "Într-un an, stejarii dintr-un parc au început să producă mai multe ghinde decât de obicei. Următorul an, populația de șoareci-de-câmp din parc a crescut și ea. Care explică cel mai bine de ce au fost mai mulți șoareci-de-câmp în anul următor?",
+    "option_a": "Zonele umbroase au crescut.",
+    "option_b": "Sursele de hrană au crescut.",
+    "option_c": "Nivelurile de oxigen au crescut.",
+    "option_d": "A crescut cantitatea de apă disponibilă."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400612",
+    "answer": "C",
+    "instruction": "Suprafața Pământului se schimbă constant din cauza degradării și eroziunii. În comparație cu Pământul, pe Lună există foarte puțină degradare și eroziune din cauza",
+    "option_a": "lipsei gravitației de pe Lună.",
+    "option_b": "atmosferei subțiri de pe Lună.",
+    "option_c": "lipsei aerului și apei de pe Lună.",
+    "option_d": "lipsei creaturilor vii de pe Lună."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400655",
+    "answer": "A",
+    "instruction": "Care dintre acestea este cea mai mare schimbare care poate fi observată între vară și iarnă?",
+    "option_a": "cantitățile de lumină solară",
+    "option_b": "înălțimile valurilor oceanului",
+    "option_c": "numărul furtunilor",
+    "option_d": "dimensiunile norilor"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415735",
+    "answer": "C",
+    "instruction": "Anya a plasat un cub de gheață pe trotuar într-o zi caldă. Cubul de gheață s-a topit curând pentru a forma o baltă. Ce proces a cauzat topirea cubului de gheață?",
+    "option_a": "Căldura s-a transferat prin cubul de gheață prin convecție.",
+    "option_b": "Căldura s-a transferat din aer la cubul de gheață prin radiație.",
+    "option_c": "Căldura s-a transferat din aer și de pe trotuar prin conducție.",
+    "option_d": "Căldura s-a transferat prin cubul de gheață în trotuar prin conducție."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2005_8_5",
+    "answer": "D",
+    "instruction": "Planeta Mercur, cea mai apropiată de Soare, are temperaturi extreme la suprafață, variind de la 465°C în lumina directă a Soarelui la -180°C în întuneric. De ce există o astfel de gamă largă de temperaturi pe Mercur?",
+    "option_a": "Planeta este prea mică pentru a reține căldura.",
+    "option_b": "Planeta este încălzită doar pe o singură parte.",
+    "option_c": "Planeta reflectă căldură de pe partea sa întunecată.",
+    "option_d": "Planeta lipsește de atmosferă pentru a reține căldura."
+  },
+  {
+    "id": "ARC-Challenge/validation/TIMSS_2003_8_pg14",
+    "answer": "B",
+    "instruction": "De ce ar fi tratați masculii insectelor pentru a preveni producerea de spermă?",
+    "option_a": "Pentru a crește numărul de insecte femele",
+    "option_b": "Pentru a reduce populația totală de insecte",
+    "option_c": "Pentru a produce noi specii de insecte",
+    "option_d": "Pentru a preveni insectele să se împerecheze"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_20",
+    "answer": "D",
+    "instruction": "Funcția principală a trunchiului unui copac este de a asigura",
+    "option_a": "aerul",
+    "option_b": "fructul",
+    "option_c": "lumina soarelui",
+    "option_d": "suportul"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7017990",
+    "answer": "A",
+    "instruction": "Care acțiune nu reprezintă o procedură de siguranță în laborator?",
+    "option_a": "degustarea probelor chimice",
+    "option_b": "folosind mănuși rezistente la căldură dacă vasele de sticlă sunt fierbinți",
+    "option_c": "înnodarea părului lung",
+    "option_d": "spălarea stropului chimic cu multă apă"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7264023",
+    "answer": "D",
+    "instruction": "Care dintre aceste elemente nu se regăsește, de obicei, într-un compus organic?",
+    "option_a": "carbon",
+    "option_b": "hidrogen",
+    "option_c": "azot",
+    "option_d": "potasiu"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7138513",
+    "answer": "A",
+    "instruction": "O insulă are multe tipuri de păsări, nicio specie nativă de șerpi și puțini prădători mari. Șerpii maro mănâncă ouăle de păsări. Care este cel mai probabil rezultat al eliberării accidentale a șerpilor maro pe insulă?",
+    "option_a": "mai mulți șerpi și mai puține păsări",
+    "option_b": "mai mulți șerpi și mai multe păsări",
+    "option_c": "mai puțini șerpi și mai puține păsări",
+    "option_d": "mai puțini șerpi și mai mulți păsări"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_401663",
+    "answer": "B",
+    "instruction": "Un student poate conserva resursele prin plasarea căror obiecte într-un depozit de compost?",
+    "option_a": "îngrășăminte",
+    "option_b": "plante de fasole",
+    "option_c": "becuri de sticlă",
+    "option_d": "pipete din plastic"
+  },
+  {
+    "id": "ARC-Challenge/validation/ACTAAP_2011_5_3",
+    "answer": "C",
+    "instruction": "O cantitate mare de sedimente este colectată de apa în timp ce apa curge în aval în râuri și pâraie. Când apa dintr-un râu sau pârâu curge rapid și începe apoi să încetinească, ce se va întâmpla, cel mai probabil, cu particulele de sediment purtate de apa respectivă?",
+    "option_a": "Cantitatea de particule mai mari de sediment transportate de apă va crește.",
+    "option_b": "Cantitatea de particule mai mici de sediment transportate de apă va crește.",
+    "option_c": "Cantitatea de particule mai mari de sediment transportate de apă va scădea.",
+    "option_d": "Cantitatea de particule mai mici de sediment transportate de apă va scădea."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7195440",
+    "answer": "B",
+    "instruction": "Aproximativ 50 de milioane de acri de pădure tropicală sunt defrișați în fiecare an. Care efect ar rezulta cel mai probabil din defrișarea acestor păduri?",
+    "option_a": "o scădere a eroziunii solului",
+    "option_b": "o scădere a biodiversității",
+    "option_c": "o îmbunătățire a calității aerului",
+    "option_d": "o îmbunătățire a calității apei"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7220378",
+    "answer": "C",
+    "instruction": "Schimbările climatice ar putea să reducă cantitatea de gheață care plutește pe oceanele lumii. Cum poate această schimbare afecta cel mai probabil aprovizionarea cu hrană disponibilă pentru organismele consumatoare marine?",
+    "option_a": "prin reducerea cantității de sare dizolvată în apa oceanului",
+    "option_b": "prin creșterea capacității apei de a se separa în straturi diferite",
+    "option_c": "prin modificarea condițiilor de temperatură de care au nevoie producătorii unicelulari",
+    "option_d": "prin împiedicarea organismelor să răspundă rapid la schimbarea mediului înconjurător"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7234483",
+    "answer": "B",
+    "instruction": "Care este prima proprietate dezvoltată de substanțele prebiotice pe care depinde teoria actuală și dominantă despre originea vieții pe Pământ?",
+    "option_a": "separare stabilă de mediul lor înconjurător",
+    "option_b": "asamblarea în structuri auto-replicabile",
+    "option_c": "stocarea trăsăturilor în formă encodată chimic",
+    "option_d": "accumularea moleculelor stocatoare de energie"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7179358",
+    "answer": "B",
+    "instruction": "Un ecosistem de climax al focului necesită incendii de pădure periodice pentru a păstra stabilitatea. Care dintre următoarele ar fi cel mai probabil rezultat al prevenirii incendiilor naturale în acest ecosistem?",
+    "option_a": "Speciile de pin ar reproduce mai rapid.",
+    "option_b": "Speciile de foioase ar înlocui speciile de pin.",
+    "option_c": "Zonele de ardere ar fi mai ușor de conținut.",
+    "option_d": "Copacii ar răspândi în zone anterior lipsite de pădure."
+  },
+  {
+    "id": "ARC-Challenge/validation/NCEOGA_2013_8_40",
+    "answer": "C",
+    "instruction": "Cum ar putea avea cel mai probabil fumatul tutunului un impact negativ asupra capacității unei persoane de a reuși în activități fizice?",
+    "option_a": "Interferează cu echilibrul și coordonarea.",
+    "option_b": "Scade capacitatea de a lua decizii rapid.",
+    "option_c": "Scade rezistența și eficiența cardiovasculară.",
+    "option_d": "Scade viteza și puterea contracțiilor musculare."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7100695",
+    "answer": "D",
+    "instruction": "Care structură geologică va fi probabil cea mai lent formată?",
+    "option_a": "o falie",
+    "option_b": "o dolină",
+    "option_c": "o meandră de râu",
+    "option_d": "un lanț muntos"
+  },
+  {
+    "id": "ARC-Challenge/validation/MEA_2016_5_7",
+    "answer": "B",
+    "instruction": "Un elev observă că un organism unicelular și o frunză de plantă au părți verzi similare. Elevul consideră că ambele organisme folosesc părțile verzi pentru a trăi. Ce dovadă susține concluzia că ambele organisme au nevoie de părțile verzi pentru a trăi?",
+    "option_a": "Ambele organisme folosesc părțile verzi pentru a se mișca.",
+    "option_b": "Ambele organisme mor dacă părțile verzi sunt îndepărtate.",
+    "option_c": "Părțile verzi din ambele organisme sunt observate facând lumină.",
+    "option_d": "Părțile verzi din ambele organisme pot produce mai multe părți verzi."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7027230",
+    "answer": "A",
+    "instruction": "Care ar fi cea mai bună zonă de cercetare pentru a găsi modalități de reducere a problemelor de mediu cauzate de oameni?",
+    "option_a": "transformarea luminii solare în electricitate",
+    "option_b": "căutarea de noi rezerve de cărbune",
+    "option_c": "găsirea rezervoarelor care conțin petrol",
+    "option_d": "transformarea pădurilor în terenuri agricole"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7245053",
+    "answer": "B",
+    "instruction": "Care dintre următoarele compuși este un compus organic?",
+    "option_a": "apă (H2O)",
+    "option_b": "hexan (C6H14)",
+    "option_c": "amoniac (NH3)",
+    "option_d": "dioxid de sulf (SO2)"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_8_12",
+    "answer": "A",
+    "instruction": "Una dintre principalele funcții ale unei semințe de plante este să",
+    "option_a": "stocheze alimentele care vor fi folosite în perioada de dezvoltare inițială",
+    "option_b": "atragă polenul care va fi folosit în perioada de dezvoltare",
+    "option_c": "absorbă energia luminii care va fi folosită în timpul fotosintezei",
+    "option_d": "producă clorofilă care va fi folosită în timpul fotosintezei"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7189035",
+    "answer": "D",
+    "instruction": "Scott privea rezultatele unei încrucișări între flori roșii și albe. Care este cel mai probabil rezultat al unei încrucișări care demonstrează dominația incompletă?",
+    "option_a": "0% flori roz",
+    "option_b": "25% flori albe",
+    "option_c": "50% flori roșii",
+    "option_d": "100% flori roz"
+  },
+  {
+    "id": "ARC-Challenge/validation/LEAP_2006_8_10412",
+    "answer": "B",
+    "instruction": "Jolie a dorit să mănânce un ou fiert tare la micul dejun. A pus oul în apă clocotită timp de cincisprezece minute. Când a spart coaja, părțile lichide ale oului deveniseră solide. Aceasta s-a întâmplat pentru că",
+    "option_a": "încălzirea a eliminat apa din ou.",
+    "option_b": "încălzirea a schimbat legăturile chimice din ou.",
+    "option_c": "fierberea a adus părțile solide ale oului la suprafață.",
+    "option_d": "bacteriile care trăiau în oul lichid au fost ucise."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400172",
+    "answer": "A",
+    "instruction": "Ce savant a prétendu que la Terre était le centre de l'univers ?",
+    "option_a": "Aristote",
+    "option_b": "Copernic",
+    "option_c": "Einstein",
+    "option_d": "Newton"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2005_5_21",
+    "answer": "D",
+    "instruction": "Focii femele se întorc de obicei la aceleași plaje an de an pentru a naște. Dacă sunt deranjate repetat de oameni la acele plaje, cum vor reacționa cel mai probabil focii?",
+    "option_a": "Ei vor schimba culoarea.",
+    "option_b": "Ei vor naște mai mulți pui.",
+    "option_c": "Ei vor vâna hrană mai des.",
+    "option_d": "Ei vor naște la plaje diferite."
+  },
+  {
+    "id": "ARC-Challenge/validation/MEA_2010_8_11",
+    "answer": "A",
+    "instruction": "Când se încetinește mișcarea moleculelor de apă lichidă, ce se întâmplă cel mai probabil?",
+    "option_a": "Apa lichidă se transformă în solid.",
+    "option_b": "Apa lichidă se condensează.",
+    "option_c": "Apa lichidă suferă o schimbare chimică.",
+    "option_d": "Apa lichidă devine vapori."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7187058",
+    "answer": "A",
+    "instruction": "În fiecare noapte, Johnny citește lângă o lampă iluminată de o sursă de lumină incandescentă. Care este cea mai bună indicație că transferul de energie electrică la lampa este ineficient?",
+    "option_a": "Becul se încălzește.",
+    "option_b": "Becul produce lumină.",
+    "option_c": "Lampă folosește fire din cupru.",
+    "option_d": "Lampa poate fi oprită cu un întrerupător."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7185133",
+    "answer": "A",
+    "instruction": "Tracey învață despre organizarea structurală în animale. Care nivel de organizare structurală descrie cel mai bine un ou?",
+    "option_a": "o celulă",
+    "option_b": "un țesut",
+    "option_c": "un sistem",
+    "option_d": "un organ"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7183733",
+    "answer": "B",
+    "instruction": "În Everglades, condiția corpului crocodilului american este strâns legată de adâncimea apei. Când nivelurile de apă cresc prea mult, speciile de animale se dispersă pe o zonă mai largă, provocând o scădere a condiției corporale din cauza incapacității de a găsi surse suficiente de hrană. Când nivelurile de apă scad, speciile de animale se adună în zone mai mici, permițând crocodililor să vâneze mai eficient. Acest scenariu este un exemplu despre cum supraviețuirea crocodililor depinde de restricționarea căruia factor?",
+    "option_a": "rata de descompunere",
+    "option_b": "zona habitatului prăzii",
+    "option_c": "producția de plante",
+    "option_d": "circulația apei"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7205345",
+    "answer": "D",
+    "instruction": "Când se produce sarea de masă (NaCl), care dintre următoarele descrie cel mai bine acțiunile atomilor de sodiu (Na) și clor (Cl)?",
+    "option_a": "Atomii de sodiu înlocuiesc atomii de clor.",
+    "option_b": "Atomii de sodiu și clor se amestecă.",
+    "option_c": "Atomii de sodiu se dizolvă în atomii de clor.",
+    "option_d": "Atomii de sodiu și clor se leagă chimic."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2002_5_6",
+    "answer": "D",
+    "instruction": "Colibrii pot plana în aer și zbura foarte repede. Acest lucru îi ajută pe colibri în toate situațiile următoare, cu excepția...",
+    "option_a": "evitării rapidă a prădătorilor.",
+    "option_b": "ajungerii ușoare la flori.",
+    "option_c": "stării într-un singur loc pentru a bea nectar.",
+    "option_d": "menținerii ouălor călduroase."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7166180",
+    "answer": "B",
+    "instruction": "Creșterea plantelor este afectată de factori de mediu, cum ar fi gravitația. Dacă o sămânță este lăsată să germineze și să crească când este răsturnată lateral, ce se va întâmpla cel mai probabil?",
+    "option_a": "rădăcinile vor crește în jos, tulpinile vor crește în jos",
+    "option_b": "rădăcinile vor crește în jos, tulpinile vor crește în sus",
+    "option_c": "rădăcinile vor crește în sus, tulpinile vor crește în jos",
+    "option_d": "rădăcinile vor crește în sus, tulpinile vor crește în sus"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2012_5_23632",
+    "answer": "C",
+    "instruction": "Un student a observat o piatră formată din multe particule mici de nisip aranjate în straturi de culoare deschisă și straturi de culoare închisă. Care dintre afirmațiile următoare descrie modul în care acest tip de piatră a luat naștere cel mai probabil?",
+    "option_a": "Argila a fost zdrobită și înghețată sub un ghețar.",
+    "option_b": "Lava dintr-un vulcan s-a răcit rapid în apă.",
+    "option_c": "Sedimentele de pe râu au fost lent compactate și cimentate împreună.",
+    "option_d": "Depozitele minerale s-au solidificat în roci solide în peșteri subterane."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7267593",
+    "answer": "A",
+    "instruction": "Care dintre aceste dezastre naturale sunt cele mai imprevizibile?",
+    "option_a": "cutremure",
+    "option_b": "uragane",
+    "option_c": "tornade",
+    "option_d": "viscoluri"
+  },
+  {
+    "id": "ARC-Challenge/validation/NAEP_2005_8_S11+14",
+    "answer": "B",
+    "instruction": "Un OM NU poate supraviețui pierderii căruia dintre următoarele?",
+    "option_a": "Apendicei",
+    "option_b": "Ficatului",
+    "option_c": "Unui plămân",
+    "option_d": "Unui rinichi"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7218750",
+    "answer": "C",
+    "instruction": "Ce tip de rezervor de apă poate furniza întotdeauna apă dulce?",
+    "option_a": "lacuri de coastă",
+    "option_b": "delta râurilor",
+    "option_c": "ghețari de munte",
+    "option_d": "mări tropicale"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7026198",
+    "answer": "A",
+    "instruction": "Elementul krypton este un gaz care prezintă aproape nicio activitate chimică. Pentru a găsi un alt element cu proprietăți similare, ce ar trebui să caute un elev în Tabelul Periodic al Elementelor?",
+    "option_a": "un element în aceeași grupă",
+    "option_b": "un element în aceeași perioadă",
+    "option_c": "un element cu aceeași sarcină netă",
+    "option_d": "un element cu aceeași masă atomică"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7081760",
+    "answer": "B",
+    "instruction": "Pentru a clasifica un organism nou descoperit, un cercetător investighează structura, ADN-ul și ciclul de viață al organismului. Cel mai probabil, cercetătorul va folosi rezultatele investigației pentru a",
+    "option_a": "construi noi metode științifice.",
+    "option_b": "revizui cunoștințele științifice.",
+    "option_c": "forma noi ipoteze.",
+    "option_d": "demonta teoriile științifice."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7130603",
+    "answer": "C",
+    "instruction": "Care dintre cantitățile enumerate este măsurată într-o unitate diferită de joule?",
+    "option_a": "căldură",
+    "option_b": "lumină",
+    "option_c": "putere",
+    "option_d": "muncă"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7074865",
+    "answer": "C",
+    "instruction": "Care dintre acestea este adevărat despre alge, bacterii și plante cu flori?",
+    "option_a": "Ele sunt anorganice.",
+    "option_b": "Toate au clorofilă.",
+    "option_c": "Ele sunt alcătuite din celule.",
+    "option_d": "Toate se hrănesc cu alte organisme."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7042700",
+    "answer": "D",
+    "instruction": "Ce aparat nu va fi necesar în timpul dissectației unui animal?",
+    "option_a": "mănuși",
+    "option_b": "ochelari de protecție",
+    "option_c": "haină de laborator",
+    "option_d": "duș de siguranță"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7071365",
+    "answer": "D",
+    "instruction": "Care comparație dintre fluturi și molii este o afirmație bazată pe fapte?",
+    "option_a": "Fluturii sunt mai frumoși și mai amuzanți de privit decât molii.",
+    "option_b": "Fluturii sunt mai buni la zbor decât molii.",
+    "option_c": "Fluturii și molii sunt mult mai fericiți în timpul zilei.",
+    "option_d": "Fluturii și molii au același număr de picioare."
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2007_4_52",
+    "answer": "C",
+    "instruction": "Plantele și animalele necesită hrană pentru a crește. Ce se întâmplă cu cea mai mare parte din hrana pe care plantele o produc?",
+    "option_a": "Hrana este eliberată sub formă de gaze.",
+    "option_b": "Hrana este convertită în apă.",
+    "option_c": "Hrana este stocată pentru utilizare ulterioară.",
+    "option_d": "Hrana este folosită pentru a absorbi lumina solară."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7026443",
+    "answer": "D",
+    "instruction": "Care caracteristica a unui câine de companie este moștenită?",
+    "option_a": "Câinele evită un pisoi de companie.",
+    "option_b": "Câinele sare pe o canapea.",
+    "option_c": "Câinele se târăște când primește comanda.",
+    "option_d": "Câinele saliva când simte mirosul hranei."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7008138",
+    "answer": "B",
+    "instruction": "Care dintre afirmații descrie asteroizii și cometele?",
+    "option_a": "Asteroizii sunt solizi, iar cometele sunt gazoși.",
+    "option_b": "Asteroizii sunt solizi, iar cometele sunt gazoase.",
+    "option_c": "Atât asteroizii, cât și cometele sunt solide.",
+    "option_d": "Atât asteroizii, cât și cometele sunt gazoase."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_402104",
+    "answer": "D",
+    "instruction": "Vărsarea substanțelor chimice toxice într-un iaz ar duce cel mai probabil la",
+    "option_a": "o creștere a nivelurilor de oxigen din iaz.",
+    "option_b": "plantele de lângă iaz crescând mai repede.",
+    "option_c": "substanțele chimice toxice nu având niciun efect asupra iazului.",
+    "option_d": "peștii din iaz fiind răniți sau murind."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7086013",
+    "answer": "D",
+    "instruction": "Bazinul râului Humboldt este una dintre cele mai importante surse de mai multe resurse nerenovabile. Care dintre acestea este produsă din bazinul râului Humboldt?",
+    "option_a": "cărbune din depozitele de munte",
+    "option_b": "petrol și gaz din rezervoarele subterane",
+    "option_c": "energie electrică din generatoarele hidroelectrice",
+    "option_d": "minerale din exploatarea aurului, argintului și cuprului"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7248238",
+    "answer": "D",
+    "instruction": "Peştii-sângeţel găsiţi pe insulele din Bahamas trăiesc în diverse bălţi de apă dulce izolate care odinioară formau un singur corp de apă. Când câţiva peşti-sângeţel masculi şi femele de la două bălţi izolate sunt aduși într-o singură baltă, preferinţa de împerechere a fiecărui peşte-sângeţel este pentru peștii din propria baltă originară. Care dintre acestea a dus cel mai probabil la această preferință de împerechere?",
+    "option_a": "Disponibilitatea hranei a influențat preferințele de împerechere ale peștilor.",
+    "option_b": "Competiția pentru un partener potrivit a influențat preferințele de împerechere.",
+    "option_c": "Prădătorii din baltă au influențat preferințele de împerechere ale peștilor.",
+    "option_d": "Specierea datorată izolării reproductive a influențat preferințele de împerechere."
+  }
+]

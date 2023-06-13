@@ -1,0 +1,2682 @@
+[
+  {
+    "id": "ARC-Challenge/validation/Mercury_7099103",
+    "answer": "D",
+    "instruction": "Divé čierne ríbezle sa rozmnožujú asexuálne tým, že sa tvoria nové korene keď sa stonky dotknú zeme. Taktiež sa rozmnožujú sexuálne cez svoje kvety. Aký je výhodou schopnosť čiernej ríbezle rozmnožovať sa sexuálne a asexuálne?",
+    "option_a": "To umožňuje rastlinám rásť vyššie.",
+    "option_b": "Vydáva kvety, ktoré priťahujú hmyz.",
+    "option_c": "Produkuje čierne ríbezle, ktoré majú viac chuti.",
+    "option_d": "To umožňuje ríbezlom prispôsobiť sa novým podmienkam."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2006_9_31-v1",
+    "answer": "C",
+    "instruction": "Ktorá z nasledujúcich možností opisuje mechanickú energiu vozíka v kľude na vrchole strmého kopca?",
+    "option_a": "Vozík nemá žiadnu mechanickú energiu.",
+    "option_b": "Mechanická energia vozíka je zcela kinetická.",
+    "option_c": "Mechanická energia vozíka je úplne potenciálna.",
+    "option_d": "Mechanická energia vozíka je polovičná potenciálna a polovičná kinetická."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7090738",
+    "answer": "A",
+    "instruction": "Ktorá otázka môže byť zodpovedaná pomocou vedeckého skúmania?",
+    "option_a": "Ako ovplyvňuje solárna energia tvorbu oblakov?",
+    "option_b": "Prečo sú tigre krajšie ako iguány?",
+    "option_c": "Aký predmet je najlepšie študovať na vysokých školách?",
+    "option_d": "Mali by ľudia investovať do cestovania do vesmíru?"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7130883",
+    "answer": "B",
+    "instruction": "Inžinierska trieda bola instruovaná na vývoj robota. Robot sa musí navrhnúť s využitím elektromagnetickej energie ako jeho jediného zdroja energie. Akú tému pravdepodobne študuje inžinierska trieda?",
+    "option_a": "použitie batérií a chemickej energie",
+    "option_b": "ako môžu byť využité žiarenie a solárne zbierky",
+    "option_c": "premenu kinetickej energie na potenciálnu energiu",
+    "option_d": "ako môže byť tepelná energia prevedená na elektrickú energiu"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7190155",
+    "answer": "B",
+    "instruction": "V Amazonskom pralese žije mnoho rôznych druhov rastlín a zvierat. Aký je najpravdepodobnejší výsledok veľkých oblastí odlesňovania v Amazonskom pralese?",
+    "option_a": "nárast populácie zvierat",
+    "option_b": "zníženie produkcie kyslíka",
+    "option_c": "zvýšenie zrážok",
+    "option_d": "zníženie znečisťujúcich látok"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_177398",
+    "answer": "B",
+    "instruction": "Auto jazdiace severovýchodným smerom rýchlosťou 50 km/h predstavuje ktorú z nasledujúcich veličín?",
+    "option_a": "rýchlosť",
+    "option_b": "vektor rýchlosti",
+    "option_c": "zrýchlenie",
+    "option_d": "spomalenie"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7246995",
+    "answer": "C",
+    "instruction": "Niektoré bunky rastlín potrebujú energiu na prenos živín cez bunkovú membránu. Aký druh transformácie energie používajú tieto bunky rastlín na prenesenie molekuly živiny dovnútra bunkovej membrány?",
+    "option_a": "tepelná energia na kinetickú energiu",
+    "option_b": "potenciálna energia na svetelnú energiu",
+    "option_c": "chemická energia na kinetickú energiu",
+    "option_d": "kinetická energia na potenciálnu energiu"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_189490",
+    "answer": "A",
+    "instruction": "Pozorovanie hrachu Gregora Mendela je príkladom",
+    "option_a": "výskumných dôkazov podporujúcich vedeckú teóriu.",
+    "option_b": "záveru, ktorý sa testuje hypotézou.",
+    "option_c": "náhodného testovania počas experimentu.",
+    "option_d": "dôkazu pre a proti vedeckému modelu."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7139790",
+    "answer": "C",
+    "instruction": "Štvornohý mäkkýš má špeciálne bunky v svojej koži nazvané chromatofóry, ktoré mu umožňujú takmer okamžite meniť svoju farbu. Chromatofóry s najväčšou pravdepodobnosťou pomáhajú mäkkýšovi",
+    "option_a": "plávať rýchlejšie.",
+    "option_b": "dýchať pomalšie.",
+    "option_c": "skryť sa pred dravcami.",
+    "option_d": "regulovať teplotu tela."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7282608",
+    "answer": "C",
+    "instruction": "Voda z domácnosti nie je všetka rovnaká. Sivá voda sa vzťahuje na odpadovú vodu z umývadiel a vaň. Neobsahuje biologické odpady od ľudí, a preto sa môže použiť znovu namiesto toho, aby sa čistila ako odpadová voda. Ktoré použitia sivej vody ukazujú dobrú starostlivosť?",
+    "option_a": "umývanie riadu a pitie",
+    "option_b": "pitie a zavlažovanie kvetinových záhonov",
+    "option_c": "zavlažovanie kvetinových záhonov a polievanie stromov",
+    "option_d": "polievanie stromov a umývanie riadu"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7145513",
+    "answer": "B",
+    "instruction": "Životné procesy vyžadujú energiu. Biochemické procesy zahŕňajú špecifické reakcie. Aká je charakteristika biochemických procesov, ktorý je spoločná pre všetky zvieratá?",
+    "option_a": "funkcia pri akejkoľvek úrovni pH",
+    "option_b": "teplo uvoľnené ako produkt",
+    "option_c": "použitie len anaeróbnej respirácie",
+    "option_d": "množstvo absorbovanej energie"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7018148",
+    "answer": "B",
+    "instruction": "Väčšina prvkov Tabuľky prvkov je",
+    "option_a": "plynných.",
+    "option_b": "kovových.",
+    "option_c": "kapalných.",
+    "option_d": "nekovových."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_401294",
+    "answer": "B",
+    "instruction": "Tvary listov rastlín, ktoré dobre prežijú v daždivom podnebí, sú zväčša",
+    "option_a": "červené a lesklé.",
+    "option_b": "široké a ploché.",
+    "option_c": "hrubé a voskové.",
+    "option_d": "ostré a úzke."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7207410",
+    "answer": "C",
+    "instruction": "Lovci búrok sú ľudia, ktorí sa dostávajú blízko búrok, aby ich pozorovali a zbierali merania. Aké poznatky pridali lovci búrok k štúdiu búrok, ktoré väčšinou pomohli modifikovať teórie formovania búrok?",
+    "option_a": "ich názory na škody spôsobené búrkami",
+    "option_b": "ich osobné skúsenosti so búrkami",
+    "option_c": "ich zbierané údaje na začiatku búrok",
+    "option_d": "ich nadšenie pre štúdium rôznych búrok"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_8_2015_11",
+    "answer": "A",
+    "instruction": "Ktorá z nasledujúcich možností najlepšie opisuje hmotnosť pevného bloku ľadu?",
+    "option_a": "množstvo hmoty v bloku",
+    "option_b": "množstvo priestoru, ktorý blok zaberá",
+    "option_c": "sila gravitácie pôsobiaca na blok",
+    "option_d": "vzdialenosť medzi molekulami v bloku"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7201705",
+    "answer": "A",
+    "instruction": "Vo väčšine sveta sa pôda, ktorá je príliš suchá na poľnohospodárstvo, využíva na pastvu dobytka. Prepasťovanie týchto pozemkov ničí pôvodné rastliny a rozkladá prírodné pokrytie pôdy. Ako prepadnutie vedie k desertifikácii?",
+    "option_a": "zvýšením rýchlosti erózie ornice",
+    "option_b": "umožnením neautochtonným druhom kolonizovať pôdu",
+    "option_c": "znížením množstva potravy dostupnej pre dobytok",
+    "option_d": "spôsobením rýchlejšieho absorbovania dažďa pôdou"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7133858",
+    "answer": "B",
+    "instruction": "Látka môže podstúpiť rôzne zmeny. Ktorá najlepšie demonštruje chemickú zmenu?",
+    "option_a": "rozpúšťanie soli",
+    "option_b": "horí drevo",
+    "option_c": "varí sa voda",
+    "option_d": "taví sa ľad"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2003_5_31",
+    "answer": "D",
+    "instruction": "Ktoré z týchto správaní nie je inštinktívne?",
+    "option_a": "vták stavajúci hniezdo",
+    "option_b": "korytnačka zakopávajúca svoje vajcia",
+    "option_c": "medveď zimujúci v zime",
+    "option_d": "kôň ťahajúci pluh"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7198380",
+    "answer": "D",
+    "instruction": "V rovnakom ekosystéme žilo niekoľko druhov rastlinožravých hlodavcov. Ktorý faktor najpravdepodobnejšie vzrástol, spôsobujúc viac súťaže o zdroje medzi hlodavcami?",
+    "option_a": "pôrodnosť pôdy",
+    "option_b": "počet producentov v oblasti",
+    "option_c": "množstvo potravinových zvyškov zanechaných predátormi",
+    "option_d": "rýchlosť, akou primárni spotrebitelia vstupujú do oblasti"
+  },
+  {
+    "id": "ARC-Challenge/validation/LEAP_2012_8_10441",
+    "answer": "C",
+    "instruction": "Väčšinu času daný druh jašterice konzumuje ovocie z jedného konkrétneho druhu stromu. Ak vírus zabije väčšinu týchto stromov, ktoré jedince jašteríc pravdepodobne prežijú?",
+    "option_a": "jašterice, ktoré dokážu vyliezť vyššie do ovocných stromov",
+    "option_b": "jašterice s tmavšou farbou",
+    "option_c": "jašterice, ktoré dokážu nájsť iné druhy jedla",
+    "option_d": "jašterice, ktoré produkujú viac potomkov"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7217053",
+    "answer": "B",
+    "instruction": "Biologická evolúcia môže nastať všetkými spôsobmi okrem",
+    "option_a": "súťaže.",
+    "option_b": "zosieňovania.",
+    "option_c": "variacie.",
+    "option_d": "adaptácie."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7233660",
+    "answer": "C",
+    "instruction": "Niektorí vedci teoretizujú o tom, že pohyb dosiek by mohol ovplyvniť úroveň vody v oceánoch Zeme. Akým spôsobom by povaha pohybu dosiek obmedzovala možné zmeny hladiny mora?",
+    "option_a": "tým, že by spôsobovala iba malé zmeny",
+    "option_b": "tým, že by menila iba niekoľko konkrétnych oceánskych bázi",
+    "option_c": "tým, že by spôsobovala zmeny, ktoré by nastávali veľmi pomaly",
+    "option_d": "tým, že by spôsobovala párové zmeny s rovnakými a opačnými účinkami"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7115395",
+    "answer": "A",
+    "instruction": "Ktoré zmeny  najpravdepodobnejšie budú mať negatívny vplyv na ekosystém?",
+    "option_a": "vybudovanie cesty",
+    "option_b": "zasadenie stromu",
+    "option_c": "pridanie zdroja sladkej vody",
+    "option_d": "vytvorenie rezervácie prírody"
+  },
+  {
+    "id": "ARC-Challenge/validation/MSA_2013_8_3",
+    "answer": "D",
+    "instruction": "Geológovia identifikovali sedem hlavných tektonických dosiek na povrchu Zeme. Ktorý dôkaz najlepšie naznačuje, že sa tektonické dosky zrazia?",
+    "option_a": "Vietor eroduje povrchové horninové formácie.",
+    "option_b": "Fosílie sú datované tisíce rokov dozadu.",
+    "option_c": "Malé kamene zostávajú, keď sa ľadovce ustúpia.",
+    "option_d": "Staršie vrstvy hornín sa nachádzajú nad novšími vrstvami hornín."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7205135",
+    "answer": "C",
+    "instruction": "Ako sú častice v bloku železa ovplyvnené, keď sa blok rozpustí?",
+    "option_a": "Častice získavajú hmotnosť.",
+    "option_b": "Častice obsahujú menej energie.",
+    "option_c": "Častice sa pohybujú rýchlejšie.",
+    "option_d": "Častice zväčšujú svoj objem."
+  },
+  {
+    "id": "ARC-Challenge/validation/ACTAAP_2010_5_10",
+    "answer": "A",
+    "instruction": "Sara zapne baterku a podrží objekt pred svetlom. Ako zistí, či je objekt nepriehľadný?",
+    "option_a": "Žiadne svetlo nepronikne.",
+    "option_b": "Niektoré svetlo sa odráža.",
+    "option_c": "Svetlo sa ohne pod určitým uhlom.",
+    "option_d": "Svetlo jasne prenikne."
+  },
+  {
+    "id": "ARC-Challenge/validation/TIMSS_2003_8_pg29",
+    "answer": "E",
+    "instruction": "Ktorý z nasledujúcich orgánov sa NENACHÁDZA v brušnej dutine?",
+    "option_a": "pečeň",
+    "option_b": "oblička",
+    "option_c": "žalúdok",
+    "option_d": "močový mechúr",
+    "option_e": "srdce"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7181685",
+    "answer": "A",
+    "instruction": "Vlastnosť farby kvetu je veľmi variabilná u niektorých druhov ružových rastlín, čo vedie k tvorbe kvetov rôznych farieb. Ako vznikla variabilita farby kvetu u ružových rastlín?",
+    "option_a": "mutáciou",
+    "option_b": "opelením",
+    "option_c": "prírodným výberom",
+    "option_d": "nezahŕňa reprodukciu"
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2011_5_20",
+    "answer": "D",
+    "instruction": "Krajta biela mení srst dvakrát do roka. Letná srst krajty je hnedá. V zime je srst biela. Ktoré z týchto vyhlásení najlepšie vysvetľuje výhodu línania srsti?",
+    "option_a": "Línanie srsti udržuje krajinu čistú.",
+    "option_b": "Línanie srsti pomáha rýchlejšiemu pohybu krajty.",
+    "option_c": "Línanie srsti udržuje príbytok krajty teplý.",
+    "option_d": "Línanie srsti  krajte pomáha zmiznúť v jej prirodzenom prostredí."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7008120",
+    "answer": "A",
+    "instruction": "Binárne hviezdy sa používajú vedcami na určenie hmotnosti hviezdy.",
+    "option_a": "hmotnosti.",
+    "option_b": "jasnosti.",
+    "option_c": "vzdialenosti od Zeme.",
+    "option_d": "vzdialenosti od Slnka."
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_13",
+    "answer": "B",
+    "instruction": "Keď sa chlapec pozrie do pokojného jazierka, vidí svoju tvár. Ktorá fyzikálna vlastnosť jazierka to umožňuje?",
+    "option_a": "pružnosť",
+    "option_b": "odrazivosť",
+    "option_c": "teplota",
+    "option_d": "objem"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_1",
+    "answer": "B",
+    "instruction": "Študent zasadil dve fazuľové semená do dvoch identických nádob obsahujúcich rovnaký typ pôdy. Jednu nádobu umiestnil do skrine a druhú blízko slnečného okna. Každý deň do každej nádoby nalejal 15 mililitrov vody. Ktorý faktor bol pre obe nádoby odlišný?",
+    "option_a": "množstvo vody",
+    "option_b": "množstvo svetla",
+    "option_c": "typ pôdy",
+    "option_d": "typ semena"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7141698",
+    "answer": "B",
+    "instruction": "Keď sa vyskytne blesk, zahrieva okolitý vzduch. Horúci vzduch sa rozpína a vytvára hrom. Aký druh energie vzniká konverziou energie blesku pri tvorbe hromu?",
+    "option_a": "gravitačná",
+    "option_b": "mechanická",
+    "option_c": "jadrová",
+    "option_d": "žiarenia"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_407314",
+    "answer": "A",
+    "instruction": "Študenti z dvoch tried vykonali rovnaké skúmanie. Každá trieda získala odlišné výsledky. Aký je najlepší spôsob, ako študenti určia, prečo sa výsledky líšia?",
+    "option_a": "Preskúmajte kroky podniknuté počas skúmania.",
+    "option_b": "Zmeňte hypotézu skúmania.",
+    "option_c": "Vyhľadajte dáta o podobných skúmaniach.",
+    "option_d": "Vykonajte iné skúmanie."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_406781",
+    "answer": "C",
+    "instruction": "Ktorá interakcia medzi zvieratami najlepšie reguluje populáciu druhu?",
+    "option_a": "divoké zvieratá, ktoré značkujú svoje územia",
+    "option_b": "remora ryby cestujúce s žralokmi",
+    "option_c": "levice, ktoré lovia zebry",
+    "option_d": "vlky cestujúce v smečkách"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400845",
+    "answer": "B",
+    "instruction": "Blesk môže produkovať všetky tieto formy energie okrem",
+    "option_a": "tepelná energia.",
+    "option_b": "slnecná energia.",
+    "option_c": "svetelná energia.",
+    "option_d": "elektrická energia."
+  },
+  {
+    "id": "ARC-Challenge/validation/ACTAAP_2009_5_5",
+    "answer": "B",
+    "instruction": "Janetovi boli zverené niektoré minerály na identifikáciu. Jedna z jeho vzoriek je žltá. Ktorý z týchto minerálov je najpravdepodobnejšie žltý?",
+    "option_a": "Talk",
+    "option_b": "Síra",
+    "option_c": "Sadra",
+    "option_d": "Hematit"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7171938",
+    "answer": "D",
+    "instruction": "Oceánové prílivy Zeme sú silne ovplyvňované Mesiacom. Počas ktorých mesačných fáz sú oceánové prílivy najnižšie na Zemi?",
+    "option_a": "plný mesiac a prvá štvrť",
+    "option_b": "plný mesiac a nov",
+    "option_c": "posledná štvrť a nov",
+    "option_d": "prvá štvrť a posledná štvrť"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415354",
+    "answer": "C",
+    "instruction": "Ktoré z týchto správaní sa delfín naučí?",
+    "option_a": "jedenie malých rýb",
+    "option_b": "plávanie v slanej vode",
+    "option_c": "balancovanie lopty na nose",
+    "option_d": "dýchanie cez dýchaciu bodku"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_17",
+    "answer": "C",
+    "instruction": "Ktorú vlastnosť by najpravdepodobnejšie zdedia mačky od svojich rodičov?",
+    "option_a": "mať jazvu",
+    "option_b": "naháňať hračku",
+    "option_c": "mať biele kožušiny",
+    "option_d": "poznať svoje meno"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7251685",
+    "answer": "B",
+    "instruction": "Ktorá činnosť najefektívnejšie zabezpečuje správne fungovanie osteocytov?",
+    "option_a": "zvýšenie dýchacieho rytmu",
+    "option_b": "konzumácia minerálmi bohatých potravín",
+    "option_c": "zníženie náročného cvičenia",
+    "option_d": "piť vodu bez iónov"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7267995",
+    "answer": "C",
+    "instruction": "Niektoré druhy rastlín a zvierat závisia na sebe navzájom. Ktoré z týchto zvierat pomáhajú tisíckam druhov rastlín pri reprodukcii?",
+    "option_a": "veverice",
+    "option_b": "dážďovky",
+    "option_c": "včely",
+    "option_d": "brouci"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7193043",
+    "answer": "B",
+    "instruction": "Ne-domáce rastliny môžu zaujať oblasti, ktoré kedysi boli osídlené domácimi druhmi rastlín. Ktorý abiotický proces je najmenej pravdepodobné že spôsobí inváziu nerodných rastlín?",
+    "option_a": "záplavy",
+    "option_b": "zvetrávanie",
+    "option_c": "prachové búrky",
+    "option_d": "tavba ľadovcov"
+  },
+  {
+    "id": "ARC-Challenge/validation/VASoL_2008_5_28",
+    "answer": "C",
+    "instruction": "Ponorky preskúmali mnoho častí oceánu. V súlade s klesajúcou hĺbkou sa pozoruje zvýšenie -",
+    "option_a": "množstva svetla",
+    "option_b": "teploty vody",
+    "option_c": "tlaku vody",
+    "option_d": "typov organizmov v oceáne"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7154263",
+    "answer": "B",
+    "instruction": "Fytoplanktón sú rastlinné mikroskopické organizmy, ktoré plávajú vodou v telách ako je oceán. V procese fotosyntézy zahŕňajú oxid uhličitý. Čo by sa s najväčšou pravdepodobnosťou stalo, ak by bola populácia fytoplanktónu zničená?",
+    "option_a": "Teplota morí by klesla.",
+    "option_b": "Skleníkové plyny by sa zvýšili.",
+    "option_c": "Atmosférický kyslík by sa zvýšil.",
+    "option_d": "Hladiny morí by sa dramaticky znížili."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7032743",
+    "answer": "C",
+    "instruction": "Ktorá charakteristika geparda je pravdepodobnejšie naučená ako dedičná?",
+    "option_a": "rychlosť",
+    "option_b": "škvrnitá kožušina",
+    "option_c": "lovné stratégie",
+    "option_d": "nezieľave pazúry"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_19",
+    "answer": "B",
+    "instruction": "Ako sa mačky menia z mačiatok na dospelé mačky, ich váha tela obvykle",
+    "option_a": "znižuje",
+    "option_b": "zvyšuje",
+    "option_c": "zostáva rovnaká"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7115273",
+    "answer": "C",
+    "instruction": "Veľké kvety rias na povrchu jazera zabraňujú, aby sa ktorý abiotický faktor dostal až na dno?",
+    "option_a": "voda",
+    "option_b": "soľ",
+    "option_c": "svetlo",
+    "option_d": "kyslík"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7205555",
+    "answer": "A",
+    "instruction": "Voda má mnoho jedinečných chemických vlastností. Ktorá vlastnosť vody robí z vody dobré rozpúšťadlo krystalických solí?",
+    "option_a": "silná polarita",
+    "option_b": "slabá vodivosť",
+    "option_c": "vysoká viskozita",
+    "option_d": "nízke pH"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7192990",
+    "answer": "A",
+    "instruction": "V mnohých oblastiach dochádza kvôli suchým podmienkam k požiarom lesov. Ak podmienky sucha pretrvávajú po dlhšie obdobie, ktorý z nasledujúcich faktorov by mohol ohroziť obnovu stromov?",
+    "option_a": "zníženie hrúbky pôdy",
+    "option_b": "zníženie množstva erózie",
+    "option_c": "zvýšenie počtu baktérií",
+    "option_d": "zvýšenie produkcie kyslíka"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_408859",
+    "answer": "A",
+    "instruction": "Americkí aligátori sú bežní v bažinách Floridy. Sú známi tým, že jedávajú žaby, korytnačky, ryby, myši a vtáky. Akú úlohu plní americký aligátor vo svojom ekosystéme?",
+    "option_a": "spotrebiteľ",
+    "option_b": "rozkladač",
+    "option_c": "živel",
+    "option_d": "producent"
+  },
+  {
+    "id": "ARC-Challenge/validation/TIMSS_2007_4_pg90",
+    "answer": "C",
+    "instruction": "Sue zmerala, koľko cukru sa rozpustí v pohári s studenou vodou, teplou vodou a horúcou vodou. Čo pravdepodobne pozorovala?",
+    "option_a": "V studenej vode sa rozpustilo najviac cukru.",
+    "option_b": "V teplej vode sa rozpustilo najviac cukru.",
+    "option_c": "V horúcej vode sa rozpustilo najviac cukru.",
+    "option_d": "V studenej, teplej a horúcej vode sa rozpustilo rovnaké množstvo cukru."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_180058",
+    "answer": "A",
+    "instruction": "Fosília objavená v Koloráde pochádza z raného mezozoika. O rok neskôr sa v Wyomingu objaví podobná fosília datujúca sa tiež do raného mezozoika. Tieto dva organizmy pravdepodobne žili v",
+    "option_a": "rovnakom prostredí asi v rovnakom čase.",
+    "option_b": "rovnakom prostredí v rôznych časoch.",
+    "option_c": "rozdielnych prostrediach asi v rovnakom čase.",
+    "option_d": "rozdielnych prostrediach v rôznych časoch."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400050",
+    "answer": "C",
+    "instruction": "Čo sa deje, keď je teplota v dome chladnejšia ako teplota vybraná na termostate?",
+    "option_a": "Kúrenie prehrieva.",
+    "option_b": "Termostat sa zahreje.",
+    "option_c": "Kúrenie sa automaticky zapne.",
+    "option_d": "Termostat vydá zvuk pípania."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_1998_8_13",
+    "answer": "D",
+    "instruction": "Ktorá z nasledujúcich tém nie je hlavným kontroverzným problémom spojeným s používaním jadrovej energie?",
+    "option_a": "skladovanie jadrových odpadových produktov",
+    "option_b": "ohrozenie zdravia v oblastiach okolo jadrových elektrární",
+    "option_c": "termálna polucia vodných tiel používaných na chladenie",
+    "option_d": "nezamestnanosť v dôsledku prechodu na jadrovú energiu"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_4",
+    "answer": "A",
+    "instruction": "Ktorý skupenstvo látky nemá určený objem a tvar?",
+    "option_a": "plyn",
+    "option_b": "kvapalina",
+    "option_c": "pevná látka"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7233678",
+    "answer": "A",
+    "instruction": "Vedci veria, že kontinentálny drift v priebehu geologickej histórie Zeme má významný vplyv na cykly teplejších a chladnejších klímat na Zemi. Ktoré tvrdenie popisuje charakteristiku kontinentov Zeme, ktorá najpravdepodobnejšie spôsobí zmeny v globálnom klíme, keď kontinenty driftujú?",
+    "option_a": "Poloha kontinentu ovplyvňuje jeho povrchovú odrazivosť.",
+    "option_b": "Hĺbka kontinentálnej platne určuje jeho špecifickú tepelnú kapacitu.",
+    "option_c": "Kontinentálny drift pohlcuje veľké množstvá kinetické energie.",
+    "option_d": "Teplota kontinentu je ovplyvnená jeho najbližším oceánom."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_LBS10666",
+    "answer": "B",
+    "instruction": "Rastliny obvykle nepotrebujú jesť iné organizmy, pretože rastliny",
+    "option_a": "nepotrebujú jedlo na prežitie.",
+    "option_b": "premenia slnečné svetlo na potravinovú energiu.",
+    "option_c": "získavajú všetku svoju potravinovú energiu z pôdy.",
+    "option_d": "uchovávajú potravinovú energiu v koreňoch."
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_8_38",
+    "answer": "A",
+    "instruction": "Látka v pevnej fáze (stave) hmoty má",
+    "option_a": "určitý tvar a určitý objem",
+    "option_b": "určitý tvar, ale žiadny určitý objem",
+    "option_c": "žiadny určitý tvar, ale určitý objem",
+    "option_d": "žiadny určitý tvar a žiadny určitý objem"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2004_8_28",
+    "answer": "A",
+    "instruction": "Ako by sa merateľné vlastnosti golfovej loptičky zmenili, ak by bola presunutá z Zeme na Mesiac?",
+    "option_a": "Mala by rovnakú hmotnosť, ale inú váhu.",
+    "option_b": "Mala by rovnakú váhu, ale inú hmotnosť.",
+    "option_c": "Mala by rovnakú hustotu, ale inú hmotnosť.",
+    "option_d": "Mala by rovnakú hmotnosť, ale inú hustotu."
+  },
+  {
+    "id": "ARC-Challenge/validation/LEAP__7_10354",
+    "answer": "D",
+    "instruction": "Vedúca Joanne výučby z vedy upozornila triedu, aby bola skeptická pri učení sa nových vedeckých objavov. Prečo je dôležité byť skeptický voči novým objavom vedy?",
+    "option_a": "pretože mnohé vedecké objavy nie sú založené na faktách",
+    "option_b": "pretože väčšina vedeckých objavov nemá žiadnu vedeckú hodnotu",
+    "option_c": "pretože väčšina vedcov robí chyby pri formulovaní vedeckých objavov",
+    "option_d": "pretože každý vedecký objav musí byť kriticky preskúmaný pred akceptáciou"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2003_8_25",
+    "answer": "B",
+    "instruction": "V automobile, ktorá z nasledujúcich súčiastok je navrhnutá špeciálne na poskytovanie spätného prenosu na vodiča?",
+    "option_a": "riadidlá",
+    "option_b": "tachometer",
+    "option_c": "brzdový pedál",
+    "option_d": "kľúč od auta"
+  },
+  {
+    "id": "ARC-Challenge/validation/TIMSS_2011_8_pg63",
+    "answer": "C",
+    "instruction": "Ktorá z nasledujúcich možností definuje zlúčeninu?",
+    "option_a": "rôzne látky zmiešané spolu",
+    "option_b": "atomy a molekuly zmiešané spolu",
+    "option_c": "atomy rôznych prvkov spojené spolu",
+    "option_d": "atomy rovnakého prvku spojené spolu"
+  },
+  {
+    "id": "ARC-Challenge/validation/AIMS_2009_4_29",
+    "answer": "D",
+    "instruction": "Chladnička používa elektrinu na vytvorenie chladného miesta na uskladnenie potravín. Aký negatívny vplyv má používanie chladničky na životné prostredie?",
+    "option_a": "Energia potrebná na udržanie jedla v chlade môže byť drahá.",
+    "option_b": "Ak dojde k výpadku elektrického prúdu, jedlo sa pokazí a môže spôsobiť ochorenie.",
+    "option_c": "Ukladanie potravín na dlhšiu dobu znižuje nákupy v obchodoch a používanie benzínu.",
+    "option_d": "Staré chladničky obsahujú chemikálie a zabierajú miesto na skládkach."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_LBS10472",
+    "answer": "B",
+    "instruction": "Rastliny majú špecializované tkanivá na koncoch svojich stoniek. Čím tieto tkanivá pomáhajú rastlinám?",
+    "option_a": "tráviť jedlo",
+    "option_b": "rásť vyššie",
+    "option_c": "vyrábať jedlo",
+    "option_d": "vsávať vodu"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415491",
+    "answer": "C",
+    "instruction": "Zem sa raz za rok obehoje okolo Slnka. Koľko krát za rok obieha Mesiac okolo Zeme?",
+    "option_a": "1",
+    "option_b": "7",
+    "option_c": "13",
+    "option_d": "28"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2011_5_17673",
+    "answer": "A",
+    "instruction": "Jose má dva prútové magnety. Zopne koniec jedného magnetu k protikladnému koncu druhého a potom ich pustí. Magnety sa rýchlo odtiahnu od seba. Ktoré z nasledujúcich tvrdení najlepšie vysvetľuje, prečo sa tak stane?",
+    "option_a": "Severné póly oboch magnetov sú navzájom otočené.",
+    "option_b": "Jeden magnet je severný pól a druhý magnet je južný pól.",
+    "option_c": "Koncové časti magnetov sa od seba odpudzujú, no ich stredy priťahujú.",
+    "option_d": "Jeden magnet ukladá energiu a druhý magnet uvoľňuje energiu."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_416648",
+    "answer": "A",
+    "instruction": "Paramecia a volvox môžu reprodukovať sexuálne. Aký je rozdiel medzi sexuálnou reprodukciou vo volvox a parameciu?",
+    "option_a": "Kolonie volvoxu produkujú gaméty.",
+    "option_b": "Bunky volvoxu prechádzajú konjugáciou.",
+    "option_c": "Kolonie volvoxu produkujú jednobunkové potomstvo.",
+    "option_d": "Bunky volvoxu sa rozmnožujú vegetatívnym púčaním."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7207620",
+    "answer": "A",
+    "instruction": "Niektoré prístroje zaznamenávajú úrovne kyslíka v ozónovej vrstve atmosféry Zeme. Udržať záznam o týchto údajoch po mnoho rokov je príkladom",
+    "option_a": "budovanie dôkazov prostredníctvom neustáleho výskumu.",
+    "option_b": "identifikácia hypotézy, ktorá podporuje dáta.",
+    "option_c": "robenie záverov o dôkazoch z výsledkov.",
+    "option_d": "navrhovanie dát, ktoré sú ľahko pochopiteľné."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7164850",
+    "answer": "A",
+    "instruction": "Veda trieda navrhla plagát, ktorý ukazuje, ako vznikli bariérové ostrovy pozdĺž pobrežia Floridy. Študenti ukázali účinky vetra, vĺn a prílivov na piesok, z ktorého sa tieto ostrovy formovali. Na plagáte by študenti mali povedať, ktorá dvojica systémov najviac ovplyvnila tvorbu bariérových ostrovov?",
+    "option_a": "hydrosféra a atmosféra",
+    "option_b": "atmosféra a litosféra",
+    "option_c": "biosféra a hydrosféra",
+    "option_d": "litosféra a biosféra"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7011270",
+    "answer": "B",
+    "instruction": "Zhruba koľko dní potrebuje Mesiac na dokončenie jedného obehu okolo Zeme?",
+    "option_a": "7 dní",
+    "option_b": "30 dní",
+    "option_c": "90 dní",
+    "option_d": "365 dní"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7090598",
+    "answer": "C",
+    "instruction": "Ktorý z týchto procesov zahŕňa prenos veľkého množstva tepelnej energie?",
+    "option_a": "erózia",
+    "option_b": "sedimentácia",
+    "option_c": "subdukcia",
+    "option_d": "vzdelanie"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_412337",
+    "answer": "D",
+    "instruction": "Počas vyšetrovania sa teplo prenieslo z kvapaliny do okolia. Ktorá dvojica vysvetlení môže najlepšie vysvetliť tento výsledok?",
+    "option_a": "Teplota kvapaliny sa zvýšila, alebo kvapalina sa stala plynom.",
+    "option_b": "Teplota kvapaliny sa zvýšila, alebo kvapalina sa stala pevnou látkou.",
+    "option_c": "Teplota kvapaliny sa znížila, alebo kvapalina sa stala plynom.",
+    "option_d": "Teplota kvapaliny sa znížila, alebo kvapalina sa stala pevnou látkou."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_1998_8_2",
+    "answer": "C",
+    "instruction": "Štruktúra bunky, ktorá robí bunku rastliny tvrdšou ako bunku zvieraťa, je",
+    "option_a": "bunková membrána.",
+    "option_b": "cytoplazma.",
+    "option_c": "stena bunky.",
+    "option_d": "ribozóm."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7124338",
+    "answer": "D",
+    "instruction": "Vedeckému pracovníkovi by pomohla zvedavá myseľ, pretože ho zavedie k",
+    "option_a": "väčšej tvorivosti.",
+    "option_b": "nedôvere v prácu iných vedcov.",
+    "option_c": "práci s cieľom prijatia zverejnených hypotéz",
+    "option_d": "vykonávaniu výskumu s cieľom potvrdiť alebo vyvrátiť teórie."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_405454",
+    "answer": "D",
+    "instruction": "Ktorý kuchynský nástroj mení prostredie najmenej?",
+    "option_a": "plynový gril",
+    "option_b": "elektrická fritovacia panvica",
+    "option_c": "mikrovlnná rúra",
+    "option_d": "solárny sporák"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7007875",
+    "answer": "B",
+    "instruction": "Ktorý z nich je zodpovedný za vznik vetra?",
+    "option_a": "pôsobenie vĺn",
+    "option_b": "slnková energia",
+    "option_c": "vánok z stromov",
+    "option_d": "gravitačná sila"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_417146",
+    "answer": "A",
+    "instruction": "Väčšina kyslíka v atmosfére je produkovaná riasami. Kde väčšina rias žije?",
+    "option_a": "pobrežný oceán",
+    "option_b": "hlboký oceán",
+    "option_c": "jazerá",
+    "option_d": "rybníky"
+  },
+  {
+    "id": "ARC-Challenge/validation/LEAP_2004_8_10397",
+    "answer": "B",
+    "instruction": "Keď ľudia chodili na Mesiaci, zistili, že sa môžu vyššie odraziť ako na Zemi. Prečo je to tak?",
+    "option_a": "Na Mesiaci nie je atmosféra.",
+    "option_b": "Mesiac pôsobí menšiu gravitačnú silu ako Zem.",
+    "option_c": "Pri skokoch im pomáhali skafandre.",
+    "option_d": "Mesiac rotuje rýchlejšie ako Zem."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_407695",
+    "answer": "D",
+    "instruction": "Juan a LaKeisha zváľajú niekoľko predmetov po rampách. Chcú vidieť, ktorý predmet sa zvalí najďalej. Čo by mali urobiť, aby mohli experiment opakovať?",
+    "option_a": "Roztrieďte predmety do skupín.",
+    "option_b": "Zmeniť výšku rampe.",
+    "option_c": "Vyberte iné predmety na zváľanie.",
+    "option_d": "Zaznamenajte podrobnosti experimentu."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7158673",
+    "answer": "D",
+    "instruction": "Ana je bežkyňa na prekážkovom behu. Po dokončení preteku si všimla, že má horúco z dôvodu uvoľnenia tepelnej energie. Čo je najpravdepodobnejším zdrojom tepelnej energie?",
+    "option_a": "trenie súvisiace s pohybom vzduchu",
+    "option_b": "absorpcia tepla zo slnka",
+    "option_c": "absorpcia mechanického energie",
+    "option_d": "premena energie v jej tele"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7018515",
+    "answer": "C",
+    "instruction": "Pravdepodobne najdôležitejším dôvodom, prečo zvuk cestuje rýchlejšie v slanej vode ako v sladkej vode, je že slaná voda",
+    "option_a": "je elastická.",
+    "option_b": "vstrebeva teplo rýchlejšie.",
+    "option_c": "má väčšiu hustotu.",
+    "option_d": "lepšie odzrkadluje zvuk."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_412551",
+    "answer": "D",
+    "instruction": "Sýkorovce majú dve farebné varianty: červenú a šedú. Akú výhodu má šedý sýkorník pred červeným sýkorníkom v prostredí tvorení stromami s tmavou kôrou?",
+    "option_a": "hniezdenie",
+    "option_b": "kŕmenie",
+    "option_c": "rozmnožovanie",
+    "option_d": "ukrytie"
+  },
+  {
+    "id": "ARC-Challenge/validation/VASoL_2008_5_19",
+    "answer": "D",
+    "instruction": "Troch baseballových hráčov skúmajú, kto dokáže hodiť baseballovú loptu najďalej. Na ihrisku označia oblasť pre svoje skúmanie. Čo by mali udržiavať konštantné?",
+    "option_a": "Výšku hráčov",
+    "option_b": "Farbu hodenej baseballovej lopty",
+    "option_c": "Poradie, v akom hráči hádzajú",
+    "option_d": "Miesto, odkiaľ hráči hádzajú"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7120890",
+    "answer": "A",
+    "instruction": "Ktorá možnosť najlepšie demonštruje, že vlny prenášajú energiu?",
+    "option_a": "zvon v zvonici",
+    "option_b": "padajúci list zo stromu",
+    "option_c": "lopta kotúľajúca sa dolu po kopci",
+    "option_d": "vlajka sa pohybujúca na vetru"
+  },
+  {
+    "id": "ARC-Challenge/validation/AKDE&ED_2008_8_44",
+    "answer": "A",
+    "instruction": "Ktorá charakteristika platí pre zvieratá len v jednej z týchto taxonomických skupín: plazy, cicavce, vtáky, obojživelníky alebo ryby?",
+    "option_a": "majú srst",
+    "option_b": "kladú vajcia",
+    "option_c": "majú plovacie nohy",
+    "option_d": "dýchajú cez žiabre"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415348",
+    "answer": "D",
+    "instruction": "Ktorá je dedičnou vlastnosťou stromu?",
+    "option_a": "zlomená konáre na borovici",
+    "option_b": "diera v dubu",
+    "option_c": "jazva na javore",
+    "option_d": "hrubý kmeň na lieskovci"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7014368",
+    "answer": "C",
+    "instruction": "Priebežné prúdy sú oceánové vlny, ktoré narazia na pláže pod extrémne malými uhlami. Aké majú účinky na pozemné územia v oblastiach, kde existujú priebežné prúdy?",
+    "option_a": "Budujú hory.",
+    "option_b": "Spôsobujú zemetrasenia.",
+    "option_c": "Presúvajú piesok, vytvárajúc popri pobreží hrádze z piesku.",
+    "option_d": "Vytvárajú vnútrozemské slané rieky."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7245193",
+    "answer": "C",
+    "instruction": "Na vidiek sa vysporiadalo holé územie až k skale pre výstavbu cesty, ale cesta nikdy nebola postavená. Oblasť začala obnovovať. Ktoré organizmy sa pravdepodobne objavili ako prvé?",
+    "option_a": "stromy",
+    "option_b": "kríky",
+    "option_c": "lišajníky a machy",
+    "option_d": "buriny a šťovík"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7251668",
+    "answer": "D",
+    "instruction": "Populácia dafnie sa ukazuje ako vertikálna migrácia z dna jedného metra hlbokého jazera počas dňa na povrch jazera v noci. Najpravdepodobnejším faktorom, na ktorý populácia dafnie reaguje je?",
+    "option_a": "pH vody",
+    "option_b": "priehľadnosť vody",
+    "option_c": "tlak vody",
+    "option_d": "teplota vody"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2013_8_29421",
+    "answer": "A",
+    "instruction": "Keď sa pot osoby vyparí, osoba sa cíti chladnejšie. Ktoré z nasledujúcich tvrdení najlepšie opisuje, prečo potenie pomáha osobe cítiť sa chladno?",
+    "option_a": "Pri vyparovaní sa potu sa absorbuje teplo.",
+    "option_b": "Pri vyparovaní sa potu sa absorbuje teplo z tela.",
+    "option_c": "Teplota vody v potu klesá pri jeho vyparovávaní.",
+    "option_d": "Teplota vody v tele stúpa po vyparovávaní sa potu."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7082145",
+    "answer": "D",
+    "instruction": "Ako by mal byť použitý lomený graf na zobrazenie dát o vzdialenosti a čase pohybujúceho sa objektu?",
+    "option_a": "Os y by mala byť označená ako čas, ktorý je závislou premennou.",
+    "option_b": "Os y by mala byť označená ako vzdialenosť, ktorá je nezávislou premennou.",
+    "option_c": "Os x by mala byť označená ako vzdialenosť, ktorá je závislou premennou.",
+    "option_d": "Os x by mala byť označená ako čas, ktorý je nezávislou premennou."
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2007_5_39",
+    "answer": "D",
+    "instruction": "Študenti sa učia o prírodných zdrojoch v Marylande. Jedna skupina študentov skúma informácie o obnoviteľných prírodných zdrojoch v štáte. Druhá skupina skúma informácie o neobnoviteľných prírodných zdrojoch v štáte. Zdroje, ktoré študenti skúmajú, zahŕňajú rastliny, zvieratá, pôdu, minerály, vodu, uhlie a ropu. Ktorá z nasledujúcich ľudských aktivít ovplyvňuje prírodné zdroje negatívne?",
+    "option_a": "rybolov v jazere",
+    "option_b": "využívanie vody na výrobu elektriny",
+    "option_c": "zasadzovanie miestnych rastlín pozdĺž brehu jazera",
+    "option_d": "zachytávanie odtoku z poľnohospodárskej pôdy do jazera"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_22",
+    "answer": "A",
+    "instruction": "Niektoré zvieratá majú hustší kožuch v zime a v jarnom období sa zbavujú svojho kožucha. Tieto pozorovania ukazujú, ako zvieratá",
+    "option_a": "reagujú na zmeny v prostredí",
+    "option_b": "cestujú z miesta na miesto pre prežitie",
+    "option_c": "ukladajú tuk na zimu",
+    "option_d": "súperia s inými zvieratami o potravu"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7006790",
+    "answer": "B",
+    "instruction": "Ktorá z nasledujúcich možností najlepšie vysvetľuje príčinu kmitania okien počas búrky?",
+    "option_a": "elektrická energia",
+    "option_b": "zvuková energia",
+    "option_c": "svetelná energia",
+    "option_d": "tepelná energia"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7284043",
+    "answer": "C",
+    "instruction": "Sloni na africkej savane jedávajú kroviny a malé stromy. Toto správanie vyčistí pôdu a umožní rast trávy. Pastuchy, ako gazely, zjedia túto trávu. Lev dravý požiera gazely. Ktoré dva organizmy v tomto scenári majú najkooperatívnejší vzťah?",
+    "option_a": "sloni a kroviny",
+    "option_b": "kroviny a levy",
+    "option_c": "sloni a gazely",
+    "option_d": "gazely a levy"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7175455",
+    "answer": "D",
+    "instruction": "V Austrálii môžu byť poludňajšie teploty vyššie ako 110 ° F (43 ° C). Aby si udržali telo chladné, klokani lížu svoje ruky, ktoré pokrývajú hrubou vrstvou slín. Keď sa sliny vyparujú, slúžia ako chladivý mechanizmus a znižujú teplotu tela klokana. Aký termín najlepšie opisuje túto činnosť?",
+    "option_a": "prírodný výber",
+    "option_b": "obranný mechanizmus",
+    "option_c": "štrukturálne adaptácie",
+    "option_d": "behaviorálne adaptácie"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_401714",
+    "answer": "B",
+    "instruction": "V laboratórnom experimente študenti testujú identitu neznámeho prášku. Aká metóda je najvhodnejšia na prenesenie prášku na váhu?",
+    "option_a": "zamete kefou na prenosový papier",
+    "option_b": "vyklopte labutu na prenosový papier",
+    "option_c": "stlačte prstami a zdvihnite na prenosový papier",
+    "option_d": "nalejte z fľaše na prenosový papier"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_409529",
+    "answer": "B",
+    "instruction": "Robert je rybár, ktorý chce nájsť spôsob, ako chytiť viac rýb. Rozhodol sa vyskúšať rôzne veľkosti háčikov. Robert chytil 4 jesetre, 3 pstruhy a 7 okúňov pri používaní červov na návnadu. Ktorá je nezávislá (ovplyvňujúca) premenná v Robertovom výskume?",
+    "option_a": "typ návnady",
+    "option_b": "veľkosť háčika",
+    "option_c": "druh ryby, ktorú chytil",
+    "option_d": "počet chytených rýb"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7223038",
+    "answer": "C",
+    "instruction": "Existuje veľa veľkostí a farieb hviezd. Ktorá z nasledujúcich možností najlepšie opisuje kategóriu, v ktorej by bola umiestnená Slnko?",
+    "option_a": "modré superobičajné hviezdy",
+    "option_b": "červené obrovské hviezdy",
+    "option_c": "žlté hlavné sekvencie hviezd",
+    "option_d": "biele trpasličie hviezdy"
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2008_5_24",
+    "answer": "C",
+    "instruction": "V Marylande a okolí sa nachádza mnoho prírodných zdrojov. Niektoré z týchto prírodných zdrojov sú obnoviteľné a niektoré sú neobnoviteľné. Ľudia používajú oba druhy zdrojov vo svojich každodenných aktivitách. Používanie prírodných zdrojov často produkuje odpadové produkty. V recyklačných centrách ľudia prinášajú materiály, ktoré môžu byť znovu použité na výrobu nových produktov. Aký pozitívny vplyv má recyklácia papiera na životné prostredie?",
+    "option_a": "znižuje znečistenie ovzdušia",
+    "option_b": "zvyšuje eróziu pôdy",
+    "option_c": "znižuje počet pokácených stromov",
+    "option_d": "zvyšuje ničenie životného prostredia"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2010_5_11998",
+    "answer": "A",
+    "instruction": "Ranná slávia je druh popínavého kvetu, ktorý sa vylieza na stromy a ploty. Ktoré z nasledujúcich správaní najviac pomáha rastline rannej slávie vyliezať po plote?",
+    "option_a": "kĺzavé stonky v reakcii na dotyk",
+    "option_b": "nabobtnávanie stoniek v reakcii na vodu",
+    "option_c": "otváranie kvetov v reakcii na svetlo",
+    "option_d": "rast koreňov v reakcii na gravitáciu"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7139493",
+    "answer": "B",
+    "instruction": "Ktorý faktor je zodpovedný za schopnosť chinchovej chyže prežiť opakované vystavenie insekticídom?",
+    "option_a": "diverzita druhov",
+    "option_b": "genetická diverzita",
+    "option_c": "diverzita ekosystémov",
+    "option_d": "diverzita populácie"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_14",
+    "answer": "A",
+    "instruction": "Solárne panely sa používajú na absorbovanie slnečného žiarenia. Ktorá farba panelov by absorbovala najviac slnečného žiarenia?",
+    "option_a": "čierna",
+    "option_b": "zelená",
+    "option_c": "biela",
+    "option_d": "žltá"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2006_9_35",
+    "answer": "A",
+    "instruction": "Ktorá z nasledujúcich genetických podmienok vzniká v dôsledku problému s segregáciou?",
+    "option_a": "Trizómia 16: podmienka, ktorá vzniká, keď zygota dostane tri kópie chromozómu 16.",
+    "option_b": "Huntingtonova choroba: podmienka, ktorá vzniká, keď zygota dostane zmutovaný dominantný alel.",
+    "option_c": "Hemofília: podmienka, ktorá vzniká, keď zygota dostane chromozóm X s konkrétnym recesívnym alelom.",
+    "option_d": "Srkavcová anémia: podmienka, ktorá vznikne, keď zygota získa recesívny alel pre hemoglobín od oboch rodičov."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2015_8_7",
+    "answer": "B",
+    "instruction": "Študent ohrieva dva hrnce vody na sporáku pomocou najvyššieho nastavenia. Jeden hrniec obsahuje 1 L vody a druhý hrniec obsahuje 3 L vody. Študent ohrieva každý hrniec, kým voda nezačne variť. Ktorá z nasledujúcich výrokov najlepšie opisuje, čo sa deje s vodou v hrncoch?",
+    "option_a": "Voda vo všetkých hrncoch varí rovnakým tempom.",
+    "option_b": "Voda vo všetkých hrncoch varí pri rovnakej teplote.",
+    "option_c": "3 L vody sa zohreje viac ako 1 L vody pred varom.",
+    "option_d": "3 L vody absorbuje teplo rýchlejšie ako 1 L vody."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7115063",
+    "answer": "A",
+    "instruction": "Ktorá z nasledujúcich možností najpravdepodobnejšie naruší mokraďový ekosystém?",
+    "option_a": "vybudovanie obytného sídliska",
+    "option_b": "zasadzovanie miestnych divokých kvetov",
+    "option_c": "obdobie silných dažďov",
+    "option_d": "úder blesku"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7144795",
+    "answer": "D",
+    "instruction": "V posledných 75 rokoch sa dané biotopy stretli s mnohými zmenami vektorov prostredia. Ktorá vlastnosť druhu je najpravdepodobnejšia na prežitie takýchto zmien v prostredí?",
+    "option_a": "populácia s mnohými jedincami",
+    "option_b": "veľká diverzita druhov v súčasnej komunite",
+    "option_c": "adaptácie, ktoré umožňujú jedincom žiť v rôznych podmienkach",
+    "option_d": "správanie, ktoré podporuje rozvoj adaptácií v nových prostrediach"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_400934",
+    "answer": "C",
+    "instruction": "Podľa periodického systému prvkov, ktorá skupina prvkov má podobné vlastnosti?",
+    "option_a": "H, C, I",
+    "option_b": "He, H, Al",
+    "option_c": "He, Ne, Ar",
+    "option_d": "Na, Ca, Al"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7004410",
+    "answer": "B",
+    "instruction": "Jedným obmedzením potravinových sietí pri zobrazovaní ekosystému je, že neobsahujú",
+    "option_a": "producentov v ekosystéme.",
+    "option_b": "všetky druhy v ekosystéme.",
+    "option_c": "zobrazujú spotrebiteľov v ekosystéme.",
+    "option_d": "zobrazujú vzťahy dravec-kořist v ekosystéme."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7029505",
+    "answer": "C",
+    "instruction": "Ako sa odlišujú krvné skupiny od seba v klasifikácii krví ABO?",
+    "option_a": "rôzne veľkosti červených krviniek",
+    "option_b": "rôzne veľkosti bielych krviniek",
+    "option_c": "rôzne značkovacie proteíny na červených krvinkách",
+    "option_d": "rôzne značkovacie proteíny na bielych krvinkách"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_LBS10598",
+    "answer": "A",
+    "instruction": "Kocka ľadu sa roztopí a potom vyparí. Kocka ľadu a vodná para majú rovnaký",
+    "option_a": "hmotnosť.",
+    "option_b": "hustotu.",
+    "option_c": "objem.",
+    "option_d": "teplotu."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7245893",
+    "answer": "B",
+    "instruction": "Ktorá časť tráviaceho systému spôsobuje prvotné chemické zmeny v potrave?",
+    "option_a": "zuby v ústach",
+    "option_b": "slina v ústach",
+    "option_c": "enzýmy v žalúdku",
+    "option_d": "enzýmy v tenkom čreve"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7246925",
+    "answer": "D",
+    "instruction": "Leucín je jedna z aminokyselín, ktoré váš organizmus potrebuje, ale nevie si ju sám vyrobiť. Ktorá z týchto možnosti sa deje, aby si ľudský organizmus mohol získať leucín?",
+    "option_a": "Organizmus konvertuje iné aminokyseliny na leucín.",
+    "option_b": "Organizmus ukladá sacharidy obsahujúce leucín.",
+    "option_c": "Organizmus rozkladá mastné kyseliny, aby získal leucín.",
+    "option_d": "Organizmus trávi bielkoviny v strave, aby získal leucín."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7138688",
+    "answer": "D",
+    "instruction": "Ktorá procedúra najlepšie pomáha určiť, či je skúmanie vedecky platné?",
+    "option_a": "pokračovať v poznámkach o stave použitej výbavy v postupe",
+    "option_b": "uskutočniť skúmanie s skupinou ľudí",
+    "option_c": "dôkladne uskutočniť postup jednokrát",
+    "option_d": "opakovať skúmanie niekoľkokrát"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_408700",
+    "answer": "C",
+    "instruction": "Emily si urobila šálku čaju a miešala ju lyžičkou. Lyžička sa zahriala. Ako sa teplo z čaju prenieslo na lyžičku?",
+    "option_a": "konvekciou",
+    "option_b": "žiarením",
+    "option_c": "vedením",
+    "option_d": "vyparovanim"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7100608",
+    "answer": "B",
+    "instruction": "Rodina Michaela staví nový dom. Chcú používať elektrinu vyrobenú z obnoviteľných zdrojov. Ktorý z týchto zdrojov by rodine pomohol splniť ich cieľ?",
+    "option_a": "sporák na benzínový pohon",
+    "option_b": "solárne panelaky na streche",
+    "option_c": "uhlíkové elektrárne",
+    "option_d": "jadrová elektráreň"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7133648",
+    "answer": "C",
+    "instruction": "Ktorá úloha v kuchyni je príkladom fyzickej zmeny?",
+    "option_a": "opekanie vajca",
+    "option_b": "pečenie torty",
+    "option_c": "topenie masla",
+    "option_d": "opekanie chleba"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_401244",
+    "answer": "D",
+    "instruction": "Ktorý typ skaly je najužitočnejší pri skúmaní histórie živých organizmov?",
+    "option_a": "bazalt",
+    "option_b": "mramor",
+    "option_c": "žula",
+    "option_d": "vápenec"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_400397",
+    "answer": "C",
+    "instruction": "Ktoré z týchto správaní pravdepodobne medveď naučil žijúc v svojom prostredí?",
+    "option_a": "piť vodu",
+    "option_b": "jesť ryby",
+    "option_c": "otvárať veky odpadkových košov",
+    "option_d": "chrániť svoje mláďatá"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7245088",
+    "answer": "D",
+    "instruction": "Čo popisuje zloženie sacharidov?",
+    "option_a": "lipidy sa viažu, tvoriac fosfolipidy",
+    "option_b": "monoméry sa viažu, tvoriac polyméry",
+    "option_c": "amino kyseliny sa viažu, tvoriac polypeptidy",
+    "option_d": "sacharidy sa viažu, tvoriac polysacharidy"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_408809",
+    "answer": "C",
+    "instruction": "U myší sa určitý druh prejavuje neúplnou dominanciou pri farbení srsti. Potomstvo čiernej (BB) myši a bielej (bb) myši sú myši sivé (Bb). Z kríženia dvoch sivých myši najpravdepodobnejšie vznikne potomstvo s akým percentom farieb srsti?",
+    "option_a": "25% čiernej, 75% sivej",
+    "option_b": "25% sivej, 75% bielej",
+    "option_c": "25% bielej, 25% čiernej, 50% sivej",
+    "option_d": "25% sivej, 25% čiernej, 50% bielej"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7068863",
+    "answer": "C",
+    "instruction": "Študent skúmal vplyv železa na rast rastlín. Štyri identické rastliny dostávali odlišné množstvo železných doplnkov pri zavlažovaní. Táto skúška by sa dala vylepšiť, ak by tam boli",
+    "option_a": "dáždniky v pôde.",
+    "option_b": "menej rastlín v experimente.",
+    "option_c": "rastliny, ktoré dostali vodu bez železných doplnkov.",
+    "option_d": "rastliny, ktoré dostali rôzne množstvo slnečného žiarenia."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7166880",
+    "answer": "D",
+    "instruction": "Clay sleduje počasie, aby sa pripravil na plánovaný výlet na pláž zajtra. Predpoveď hovorí, že cez noc sa blíži nízkotlaková búrka. Aké počasie je najpravdepodobnejšie, že Clay zazrie ráno?",
+    "option_a": "hmlisté",
+    "option_b": "slnečné",
+    "option_c": "jasné a chladnejšie",
+    "option_d": "zamračené a daždivé"
+  },
+  {
+    "id": "ARC-Challenge/validation/ACTAAP_2007_7_25",
+    "answer": "A",
+    "instruction": "Ktorá z nasledujúcich pravidiel bezpečnosti sa nevzťahuje na vedeckú laboratóriu?",
+    "option_a": "Presne odmerajte tekutiny do baňky.",
+    "option_b": "Nikdy nepretnite predmety, keď ich držíte v rukách.",
+    "option_c": "Pri manipulácii s nebezpečnými látkami nosite okuliare na ochranu zraku.",
+    "option_d": "Pri pociťovaní pachov, vlnite dymy k nosu namiesto toho, aby ste vystavili tvár k zdroju."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7018445",
+    "answer": "D",
+    "instruction": "Akým materiálom by zvuk najrýchlejšie cestoval?",
+    "option_a": "korek",
+    "option_b": "voda",
+    "option_c": "vzduch",
+    "option_d": "oceľ"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7033653",
+    "answer": "C",
+    "instruction": "Ktorá jednotka je najlepšia na meranie vzdialeností medzi Zemou a inými slnečnými systémami vo vesmíre?",
+    "option_a": "míle",
+    "option_b": "kilometre",
+    "option_c": "svetelné roky",
+    "option_d": "astronomické jednotky"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2006_5_29",
+    "answer": "D",
+    "instruction": "Boli otestované štyri tyče rovnakej hrúbky, ale vyrobené z rôznych kovov, s rovnakým množstvom váhy, aby sa zistilo, ktorá je najflexibilnejšia. Ktorá z nasledujúcich možností je najlepším spôsobom, ako vyhodnotiť výsledky tohto experimentu?",
+    "option_a": "zoznam každého typu tyče, ktorý sa použil",
+    "option_b": "skica každej tyče pred testovaním",
+    "option_c": "tabuľka ukazujúca, koľko každá tyč vážila",
+    "option_d": "stĺpcový graf ukazujúci, ako sa každá tyč ohla"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7159268",
+    "answer": "A",
+    "instruction": "Po poslednej dobe ľadovej sa topenie polárnych a horských ľadovcov spôsobilo nárast hladiny oceánov. Z čoho najpravdepodobnejšie plynie nárast hladín oceánov?",
+    "option_a": "zvýšenie solného obsahu existujúcich priemorských mokradí",
+    "option_b": "zvýšenie počtu organizmov v existujúcich útesoch",
+    "option_c": "zníženie počtu prílivov každý deň",
+    "option_d": "zníženie hĺbky oceánového dna"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_400885",
+    "answer": "D",
+    "instruction": "Ktorá rovnica je vyvážená chemická rovnica?",
+    "option_a": "2NaOH + CaBr_{2} -> Ca(OH)_{2} + NaBr",
+    "option_b": "NO + Cl_{2} -> NOCl",
+    "option_c": "CaCO_{3} -> CaO + 2CO_{2}",
+    "option_d": "2AlCl_{3} + 3Mg -> 3MgCl_{2} + 2Al"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7038273",
+    "answer": "A",
+    "instruction": "Pri vykonávaní experimentu študent získava niekoľko rôznych teplôt vody, dve hmotnostné merania a tri objemové merania. Ktorá z týchto možností je najlepším spôsobom usporiadania dát?",
+    "option_a": "v tabuľke",
+    "option_b": "v grafe",
+    "option_c": "v písanej náväznosti",
+    "option_d": "ilustrované obrázkami"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_407574",
+    "answer": "A",
+    "instruction": "Ktorý plyn uvoľňujú producenti, ktorý konzumenti prijímajú pre prežitie?",
+    "option_a": "kyslík",
+    "option_b": "dusík",
+    "option_c": "vodná para",
+    "option_d": "oxid uhličitý"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_1998_4_8",
+    "answer": "B",
+    "instruction": "Kde by bolo NAJNEBEZPEČNEJŠIE pracovať s elektrickými nástrojmi?",
+    "option_a": "v garáži",
+    "option_b": "pri bazéne",
+    "option_c": "blízko televízie alebo počítača",
+    "option_d": "v chladnej pivnici"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7128695",
+    "answer": "C",
+    "instruction": "Vedec pri vykonávaní výskumu urobí objav, ale nepodarí sa mu udržať jasné záznamy o vykonaných testoch. Akým spôsobom ovplyvňuje nedostatok záznamov prácu vedca?",
+    "option_a": "Neplatí postupy a závery.",
+    "option_b": "Robí nesprávne údaje získané štúdiou.",
+    "option_c": "Bráni iným vedcom overiť výsledky.",
+    "option_d": "Zabraňuje iným vedcom vo vývoji nových hypotéz."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400178",
+    "answer": "C",
+    "instruction": "Ktorá zmes sa dá rozdeliť na svoje zložky?",
+    "option_a": "zemiakové lupienky",
+    "option_b": "čokoládový koláč",
+    "option_c": "ovocný šalát",
+    "option_d": "pražená vajcia"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7189823",
+    "answer": "A",
+    "instruction": "Sopka vybuchne a pokryje okolitú oblasť lávou a sopečným popolom. Keď sa ekosystém začne zotavovať, aký typ rastliny bude najpravdepodobnejšie prvým, ktorý osídlí pôdu v oblasti okolo výbuchu?",
+    "option_a": "mechy",
+    "option_b": "divé kvety",
+    "option_c": "tvrdé dreviny",
+    "option_d": "ihličnaté kry"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_412683",
+    "answer": "D",
+    "instruction": "Aká je rýchlosť 2 Hz vlny, ktorej vlnová dĺžka je 10 m?",
+    "option_a": "5 m/s",
+    "option_b": "8 m/s",
+    "option_c": "12 m/s",
+    "option_d": "20 m/s"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_184258",
+    "answer": "A",
+    "instruction": "Ktorá z nasledujúcich charakteristík prúdu najviac priamo ovplyvňuje ukladanie sedimentov?",
+    "option_a": "gradient",
+    "option_b": "výškové zázemie",
+    "option_c": "základná úroveň",
+    "option_d": "kvalita vody"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_192168",
+    "answer": "D",
+    "instruction": "Vedecké modely sú veľmi bežné. Pre aký účel nižšie by bola fyzický model menej užitočný?",
+    "option_a": "simulovať vedecké javy",
+    "option_b": "zjednodušenie komplexnej myšlienky",
+    "option_c": "umožniť vizualizáciu",
+    "option_d": "zobrazenie dát"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_LBS10399",
+    "answer": "D",
+    "instruction": "Mikroskop zväčšuje predmet s 50x zväčšením. Ak dlhý je predmet, ak sa zdá byť jeho obraz dlhý 0,5 cm?",
+    "option_a": "100 cm",
+    "option_b": "25 cm",
+    "option_c": "2,5 cm",
+    "option_d": "0,01 cm"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7228603",
+    "answer": "C",
+    "instruction": "Ktorý z nasledujúcich výsledkov výmeny homozygných častí chromozómov počas procesu meiózy je správny?",
+    "option_a": "náhodné mutácie",
+    "option_b": "znížený počet gamét",
+    "option_c": "potomstvo s jedinečnou kombináciou znakov",
+    "option_d": "znížený počet alel na každom chromozóme"
+  },
+  {
+    "id": "ARC-Challenge/validation/MEA_2013_5_3",
+    "answer": "D",
+    "instruction": "Slnko sa klasifikuje ako hviezda. Ktorá vlastnosť označuje Slnko ako hviezdu?",
+    "option_a": "Slnko sa otáča okolo svojej osi.",
+    "option_b": "Slnko sa nachádza mimo galaxie Mliečna dráha.",
+    "option_c": "Slnko je súčasťou Velkého vozu.",
+    "option_d": "Slnko produkuje svetlo a energiu v jadrovej reakcii."
+  },
+  {
+    "id": "ARC-Challenge/validation/NCEOGA_2013_8_38",
+    "answer": "C",
+    "instruction": "V zime je kožušina arktického líšky bielej farby. V lete sa farba ztmavne na červenohnedú farbu. Čo najpravdepodobnejšie spôsobuje zmenu farby líšky?",
+    "option_a": "množstvo slnečného svetla",
+    "option_b": "stanovište líšky",
+    "option_c": "gény líšky",
+    "option_d": "vek líšky"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7221095",
+    "answer": "A",
+    "instruction": "Ktoré z nasledujúcich je abiotický prvok v ekosystéme?",
+    "option_a": "priemer ročného zrážkového úhrnu v ekosystéme",
+    "option_b": "typy producentov nachádzajúcich sa v ekosystéme",
+    "option_c": "veľkosť populácie dravcov v ekosystéme",
+    "option_d": "mikroorganizmy žijúce v pôde ekosystému"
+  },
+  {
+    "id": "ARC-Challenge/validation/MEAP_2005_5_1",
+    "answer": "C",
+    "instruction": "Vodná para v atmosfére existuje ako ___.",
+    "option_a": "viditeľný plyn",
+    "option_b": "viditeľná kvapalina",
+    "option_c": "neviditeľný plyn",
+    "option_d": "neviditeľná kvapalina"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_406939",
+    "answer": "C",
+    "instruction": "Aký spôsob vedie k tomu, aby list papiera prešiel chémiou zmenu?",
+    "option_a": "zohnúť papier na polovici",
+    "option_b": "namočiť papier do vody",
+    "option_c": "spáliť papier ohňom",
+    "option_d": "rozrezať papier nožnicami"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7219415",
+    "answer": "C",
+    "instruction": "Ktorý príklad predstavuje funkciu selektívne prenosnej membrány bunky?",
+    "option_a": "podpora tvaru bunky",
+    "option_b": "výroba proteínov pre bunku",
+    "option_c": "obmedzenie chemických látok, ktoré difúzne vychádzajú z bunky",
+    "option_d": "skladovanie odpadových produktov pre bunku"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_1999_8_22",
+    "answer": "B",
+    "instruction": "Aký druh mosta používa káble pre podporu?",
+    "option_a": "most s trámikmi",
+    "option_b": "visutý most",
+    "option_c": "most s nosníkom",
+    "option_d": "vysoký most"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2006_9_33",
+    "answer": "D",
+    "instruction": "Gepardy sa dostali na pokraj vyhynutia kvôli lovu, suchu a chorobám. Momentálne existujúce populácie gepardov majú veľmi málo genetických variácií. Ktorá z nasledujúcich možností je dôsledkom obmedzenej genetickej variácie v súčasných populáciách gepardov oproti dávnejším populáciám gepardov s väčšou variabilitou?",
+    "option_a": "Gepardy v súčasných populáciách sú odolnejšie voči novým chorobám.",
+    "option_b": "Prežitkovosť mladých gepardov sa zvýšila v súčasných populáciách.",
+    "option_c": "Gepardy v súčasných populáciách sú menej schopné krížiť sa s inými druhmi.",
+    "option_d": "Súčasné populácie gepardov sú menej pravdepodobné schopné sa prispôsobiť zmenám prostredia."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7135310",
+    "answer": "C",
+    "instruction": "Prečo je výstupná energia stroja vždy nižšia ako vstupná energia?",
+    "option_a": "Niektorá energia sa stráca počas prevádzky stroja.",
+    "option_b": "Stroj musí prekonať konštantnú silu magnetizmu.",
+    "option_c": "Užitočná energia klesá, keď sa energia prenáša do okolia.",
+    "option_d": "Niektorá energia sa uvoľní ako teplo pri konverzii."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_414131",
+    "answer": "C",
+    "instruction": "Aký popisuje vlastnosť všetkých prvkov?",
+    "option_a": "Všetky prvky sú kovy.",
+    "option_b": "Všetky prvky majú šesť elektrónov.",
+    "option_c": "Všetky prvky sú čisté látky.",
+    "option_d": "Všetky prvky existujú v pevnej fáze."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7112753",
+    "answer": "B",
+    "instruction": "Na určenie populácie broukov musia vedci použiť vysokej špecializácie vybavenie. Ktorý faktor by najviac obmedzil schopnosť lokalizovať brouky?",
+    "option_a": "klíma",
+    "option_b": "náklady",
+    "option_c": "veľkosť vzorky",
+    "option_d": "politika"
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2009_5_16",
+    "answer": "D",
+    "instruction": "Študenti navštívili Morris W. Offit teleskop umiestnený na observatóriu Maryland Space Grant v Baltimoru. Zoznámili sa so hviezdami, planétami a mesiacom. Študenti zaznamenali nižšie uvedené informácie. • Vzory hviezd zostávajú rovnaké, ale ich polohy na oblohe sa zdajú meniť. • Slnko, planéty a mesiac sa zdajú pohybovať na oblohe. • Proxima Centauri je najbližšia hviezda k našej slnečnej sústave. • Polaris je hviezda, ktorá patrí k vzoru hviezd nazvanému Malý voz. Ktoré tvrdenie najlepšie vysvetľuje, prečo sa slnko každý deň zdá pohybovať po oblohe?",
+    "option_a": "Slnko obieha okolo Zeme.",
+    "option_b": "Zem sa otáča okolo Slnka.",
+    "option_c": "Slnko sa otáča okolo svojej osi.",
+    "option_d": "Zem sa otáča okolo svojej osi."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7236023",
+    "answer": "B",
+    "instruction": "Hmotnosť vzduchu sa nachádza na nadmorskej výške 1000 metrov v nízkotlakovej oblasti búrky na severnej pologuli. Ktorá z nasledujúcich možností najlepšie opisuje pohyb vzduchových častíc v tejto hmote vzduchu v dôsledku búrkových podmienok a rotácie Zeme, keď sa hmota vzduchu pohybuje von?",
+    "option_a": "Vzduchové častice sa pohybujú nahor a na ľavú stranu.",
+    "option_b": "Vzduchové častice sa pohybujú nahor a na pravú stranu.",
+    "option_c": "Vzduchové častice sa pohybujú nadol a na ľavú stranu.",
+    "option_d": "Vzduchové častice sa pohybujú nadol a na pravú stranu."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7270008",
+    "answer": "C",
+    "instruction": "Banský priemysel vytvárajúci povrchové ťaženie uhlia zahŕňa odstránenie všetkej vegetácie a kameňa nad baníckou činnosťou. Ktoré dva podsystémy Zeme sú najviac ovplyvnené povrchovým banským priemyslom?",
+    "option_a": "litosféra a atmosféra",
+    "option_b": "biosféra a hydrosféra",
+    "option_c": "litosféra a biosféra",
+    "option_d": "atmosféra a hydrosféra"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7099768",
+    "answer": "D",
+    "instruction": "Keď bowler uvoľní bowlingovú guľu zo svojho ruky, energie v guľke je čiastočne",
+    "option_a": "uložená v guli, kým nedosiahne kolíky.",
+    "option_b": "zväčšená ako sa na guľu aplikuje trenie.",
+    "option_c": "premenená z kinetickej energie na gravitačnú potenciálnu energiu.",
+    "option_d": "premenená na teplo a zvuk po kontakte s podlahou."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7269238",
+    "answer": "D",
+    "instruction": "Dieselové motory môžu spaľovať mnoho druhov paliva. Aké palivo by bolo najobnoviteľnejšie palivo pre dieselový motor?",
+    "option_a": "tradičné naftové palivo",
+    "option_b": "destilované petrolejové palivo",
+    "option_c": "tradične vyrábaný rastlinný olej",
+    "option_d": "organicky vyrábaný rastlinný olej"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7187915",
+    "answer": "A",
+    "instruction": "Amanda a Jake sa učili o kinetických a potenciálnych formách energie v jednoduchom elektrickom obvode. Obvod, ktorý študujú, obsahuje batériu, drôty a žiarovku. Ktorá z foriem energie v obvode je potenciálna energia?",
+    "option_a": "chemická energia v batérii",
+    "option_b": "svetelná energia z žiarovky",
+    "option_c": "tepelná energia stratená z elektrických vodičov",
+    "option_d": "elektrická energia pohybujúca sa cez žiarovku"
+  },
+  {
+    "id": "ARC-Challenge/validation/OHAT_2011_8_3",
+    "answer": "D",
+    "instruction": "Ktorá akcia predstavuje chemickú zmenu?",
+    "option_a": "Dlhé vlasy sú zastrihané a vysušené.",
+    "option_b": "Drevená ceruzka je nabrúsená a zlomená.",
+    "option_c": "Kocka ľadu sa topí a stáva sa čírou tekutinou.",
+    "option_d": "Železný klinec sa na povrchu stáva oranžovým a vláknitým."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7159775",
+    "answer": "A",
+    "instruction": "Janette robí výskum, aby zistila, ktoré jedlá ju robia unavenejšou. Jedenie štyroch rôznych jedál každý deň v rovnakom čase počas štyroch dní a potom zaznamená, ako sa cíti. Poprosí svoju kamarátku Carmen, aby urobila rovnaký výskum, aby zistila, či dostane podobné výsledky. Čo by najviac ztiažilo replikáciu výskumu?",
+    "option_a": "meranie množstva únavy",
+    "option_b": "záruka, že sa zjedia rovnaké jedlá",
+    "option_c": "zaznamenávanie pozorovaní v rovnakej tabuľke",
+    "option_d": "záruka, že jedlá majú rovnakú teplotu"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_402239",
+    "answer": "C",
+    "instruction": "Aký je najlepší spôsob ako šetriť prírodné zdroje doma?",
+    "option_a": "Hodiť všetko sklo do koša na smeti.",
+    "option_b": "Používať papierové uteráky na utieranie špiny.",
+    "option_c": "Skrátiť čas strávený sprchovaním.",
+    "option_d": "Polievať trávnik každý deň."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_184013",
+    "answer": "C",
+    "instruction": "Ktorá z nasledujúcich možností by bola najmenej deštruktívna pre pôdu?",
+    "option_a": "zemeplocha s magnitúdou 7,2",
+    "option_b": "tropický búrka",
+    "option_c": "elektrická búrka",
+    "option_d": "vulkanická erupcia"
+  },
+  {
+    "id": "ARC-Challenge/validation/NCEOGA_2013_8_4",
+    "answer": "D",
+    "instruction": "Ako najlepšie vysvetliť, prečo celková hmotnosť produktu (produktov) bude po chemickej reakcii menšia ako celková hmotnosť reaktantu (reaktantov)?",
+    "option_a": "Dochádzalo k fyzickej zmene.",
+    "option_b": "Atomy zúčastnené na reakcii stratili hmotnosť.",
+    "option_c": "V novom roztoku vznikli zrazeniny.",
+    "option_d": "Do atmosféry sa uvoľnili plyny."
+  },
+  {
+    "id": "ARC-Challenge/validation/ACTAAP_2013_7_17",
+    "answer": "D",
+    "instruction": "Skupina chce zistiť, či sa počet vodných vtákov lietajúcich cez Arkansas mení každý rok. Akú metódu by mali použiť na získanie týchto informácií?",
+    "option_a": "Úlovok čo najviac vtákov v jednom roku. Zbierať údaje o umiestnení každého vtáka.",
+    "option_b": "Prvý deň jari budúceho roku spočítajte počet vtákov na najväčšom jazere v štáte. Porovnajte údaje s minulým rokom.",
+    "option_c": "Na štátnej hranici umiestnite pozorovateľa. Nechajte túto osobu počítať vtáky, ktoré lietajú do štátu. Urobte to takto počas dvoch rokov.",
+    "option_d": "Vyberte si jeden deň v roku počas migrácie. Spočítajte počet vtákov na desiatich rôznych jazerách v štáte. Urobte toto vždy v ten istý deň každý rok počas desiatich rokov."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7183015",
+    "answer": "A",
+    "instruction": "V nedávnom článku v odbornom vedeckom časopise sa vysvetľuje vzťah medzi konvekčnými prúdmi a deskovou tektonikou. Keďže sa kvapalina v mantióde cirkuluje, spôsobuje to pohyb zemských kôr. Čo najpravdepodobnejšie spôsobuje cirkuláciu kvapalín vnútri Zeme?",
+    "option_a": "prenosy energie",
+    "option_b": "globálne otepľovanie",
+    "option_c": "prílivové vlny",
+    "option_d": "oceánové prúdy"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2014_8_17",
+    "answer": "D",
+    "instruction": "Ktorá z nasledujúcich možností je príkladom asexuálneho rozmnožovania?",
+    "option_a": "Korytnačky kladú oplodnené vajíčka do jamy v piesku.",
+    "option_b": "V šištičkách stromov sa semená vytvoria po dosiahnutí pylom.",
+    "option_c": "Ryby uvoľňujú vajíčkové bunky a spermie na hladinu vody.",
+    "option_d": "Stromy vysielať koreňové rozšírenia, ktoré vytvárajú nové stonky."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_401286",
+    "answer": "B",
+    "instruction": "Mnohé ohrozené živočíchy sú chytené, označené a potom prepustené späť do svojho prostredia. Označenie môže byť kus kódovaného plastu alebo kovu, ktorý sa umiestni niekde bezpečne na tele. Aký je najpravdepodobnejší dôvod pre označenie zvieraťa?",
+    "option_a": "monitorovať ich stravovacie návyky",
+    "option_b": "monitorovať ich pohybové návyky",
+    "option_c": "monitorovať ich spánkové návyky",
+    "option_d": "monitorovať ich reprodukčné návyky"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7207358",
+    "answer": "C",
+    "instruction": "Najlepším opisom súčasnej teórie atómu je výsledok ktorých z týchto aktivít?",
+    "option_a": "experimentov Johna Daltona v 19. storočí.",
+    "option_b": "diskusií medzi dvoma významnými vedcami.",
+    "option_c": "výskumu mnohých vedcov po mnoho rokov.",
+    "option_d": "nápadov atómov od Demokrita pred viac ako 2000 rokmi."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7015435",
+    "answer": "A",
+    "instruction": "Akoé produkty reakcie silnej kyseliny a silnej zásady?",
+    "option_a": "soľ a voda",
+    "option_b": "dva rôzne prvky",
+    "option_c": "slabá kyselina a slabá zásada",
+    "option_d": "ióny vodíka a hydroxidové ionty"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7044678",
+    "answer": "A",
+    "instruction": "Ktoré tvrdenie najlepšie vysvetľuje, čo sa deje s listom, keď stratí potrebnú vodu?",
+    "option_a": "Klesá jeho turgorový tlak.",
+    "option_b": "Klesá jeho atmosférický tlak.",
+    "option_c": "Jeho rýchlosť transpirácie sa zvyšuje.",
+    "option_d": "Jeho rýchlosť fotosyntézy sa zvyšuje."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_400905",
+    "answer": "D",
+    "instruction": "Slnko je približne vzdialené 1,5 x 10^8 km od Zeme. Rýchlosť svetla je 3,0 x 10^8 m / sek. Aká je vzdialenosť od Slnka k Zemi v svetelných sekundách?",
+    "option_a": "2,0 svetelných sekúnd",
+    "option_b": "0,5 svetelných sekúnd",
+    "option_c": "2,0 x 10^-3 svetelných sekúnd",
+    "option_d": "5,0 x 10^2 svetelných sekúnd"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_LBS10040",
+    "answer": "D",
+    "instruction": "Čo produkuje fotosyntéza, čo pomáha rastlinám rásť?",
+    "option_a": "vodu",
+    "option_b": "kyslík",
+    "option_c": "bielkovinu",
+    "option_d": "cukor"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_8_41",
+    "answer": "D",
+    "instruction": "Pri autonehode pás pomáha zabrániť zraneniam tým, že pôsobí silou.",
+    "option_a": "menšou ako sila pohybujúceho sa pasažiera",
+    "option_b": "väčšou ako sila pohybujúceho sa auta",
+    "option_c": "v smere pohybu auta",
+    "option_d": "v opačnom smere ako pohyb pasažiera"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7141908",
+    "answer": "C",
+    "instruction": "Vedci našli nový druh zložitého organizmu na dne oceánu. Organizmus pravdepodobne",
+    "option_a": "je jednobunkový.",
+    "option_b": "je formou baktérie.",
+    "option_c": "je tvorený viacerými bunkami.",
+    "option_d": "nemá organizované jadro."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_406029",
+    "answer": "D",
+    "instruction": "Pre vedeckú aktivitu mala Mia každú noc kresliť obrázok Mesiaca. Ak nakreslila nový mesiac, aký typ mesiaca nakreslila Mia asi po týždni?",
+    "option_a": "stúpajúci mesiac",
+    "option_b": "plný mesiac",
+    "option_c": "nový mesiac",
+    "option_d": "prvá štvrtina"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7105123",
+    "answer": "C",
+    "instruction": "Fosílne záznamy naznačujú, že zmeny druhov sa zvyčajne",
+    "option_a": "zastavia len vtedy, keď sa vytvorí nový druh.",
+    "option_b": "zrýchľujú sa pri stabilných podmienkach.",
+    "option_c": "prebiehajú cez viacero generácií.",
+    "option_d": "sú nezávislé na prostredí."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400339",
+    "answer": "C",
+    "instruction": "Ktoré tvrdenie nie je dôvodom, prečo rastú stromy v lese na rôznych výškach?",
+    "option_a": "Niektoré potrebujú menej slnečného svetla ako iné.",
+    "option_b": "Stromy boli zasadené v rôznych rokoch.",
+    "option_c": "V nižších stromoch stavajú vtáky hniezda.",
+    "option_d": "Vyššie stromy majú lístie len na horných konároch."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415366",
+    "answer": "B",
+    "instruction": "Stromy potrebujú kyslík. Korene blízko povrchu zeme prijímajú kyslík, ktorý strom potrebuje. Ktoré organizmy pomáhajú stromom získať kyslík?",
+    "option_a": "Drevozobovia robia diery v strome.",
+    "option_b": "Dážďovky robia diery v zemi blízko stromu.",
+    "option_c": "Huby rastúce pri základoch stromu.",
+    "option_d": "Veverice jedľové orechy na zemi blízko stromu."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7168123",
+    "answer": "B",
+    "instruction": "Anita pobehala po dráhe vo svojej škole. Na konci behu si nabrala viac vzduchu do pľúc a jej tepová frekvencia sa zvýšila. Ktoré systémy regulujú Anitine dýchanie a tepovú frekvenciu?",
+    "option_a": "svalový a kostný",
+    "option_b": "nervový a endokrinný",
+    "option_c": "tráviaci a vylučovací",
+    "option_d": "dýchací a obehový"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7141400",
+    "answer": "A",
+    "instruction": "Poľnohospodár každý rok niekoľko rokov sadí kukuricu na poli. Každý rok si všimne, že jeho produkcia kukučky na akr sa znížila, aj keď podmienky počasia boli veľmi podobné. Zmena ktorého abiotického faktora najpravdepodobnejšie spôsobuje zníženie produkcie kukurice?",
+    "option_a": "zníženie pôdných živín",
+    "option_b": "zvýšenie zrážok",
+    "option_c": "zvýšenie rýchlosti vetra",
+    "option_d": "zníženie slnečného svitu"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2012_8_23636",
+    "answer": "D",
+    "instruction": "Ktorý z nasledujúcich procesov zvyčajne trvá najdlhšie?",
+    "option_a": "Horúca lava sa ochladí a vytvorí novú skalu.",
+    "option_b": "Vodná para kondenzuje a tvorí oblak.",
+    "option_c": "Seizmická vlna putuje cez plášť.",
+    "option_d": "Medzi dvoma kontinentmi vzniká oceánska priekopa."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_406705",
+    "answer": "B",
+    "instruction": "Annaina trieda si spočítala počet motýľov v školskej záhrade pre úlohu. Anna však mala iný výsledok ako zvyšok triedy. Čo by mala urobiť?",
+    "option_a": "Zmeniť úlohu.",
+    "option_b": "Nechať výsledky tak.",
+    "option_c": "Zrovnaj svoje výsledky s triedou.",
+    "option_d": "Požiadaj učiteľa, aby spočítal za ňu."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7186148",
+    "answer": "B",
+    "instruction": "Študent mieša lyžičkou horúcu čokoládu v pohári. Ako sa prenáša teplo medzi horúcou čokoládou a miestom lyžičky, ktorá sa nachádza v horúcej čokoláde?",
+    "option_a": "Vedenie prenáša energiu z lyžičky na horúcu čokoládu.",
+    "option_b": "Vedenie prenáša energiu z horúcej čokolády na lyžičku.",
+    "option_c": "Konvekcia prenáša energiu z lyžičky na horúcu čokoládu.",
+    "option_d": "Konvekcia prenáša energiu z horúcej čokolády na lyžičku."
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_28",
+    "answer": "B",
+    "instruction": "V oblasti sa veľké vtáky živia malými zvieratami. Ak by všetky veľké vtáky zomreli na chorobu, pravdepodobne by sa počet malých zvierat v oblasti",
+    "option_a": "znížil",
+    "option_b": "zvýšil",
+    "option_c": "ostal rovnaký"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7005478",
+    "answer": "B",
+    "instruction": "Telesná teplota človeka je relatívne konštantná. Ktorý spätový mechanizmus pomáha ľudskému telu udržiavať normálnu teplotu v chladnom prostredí?",
+    "option_a": "Z kože sa uvoľňuje voda.",
+    "option_b": "Svaly sa triasú v drobných pohyboch.",
+    "option_c": "Znižuje sa počet tepov srdca.",
+    "option_d": "Pľúca prijímajú dodatočný vzduch."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2009_8_5",
+    "answer": "D",
+    "instruction": "Ktorá z týchto možností by bola najúčinnejšia pri znižovaní preplnenia letovej prevádzky na rušnom letisku?",
+    "option_a": "poskytovanie spätných informácií o výkone pilotom",
+    "option_b": "poskytovanie informácií o letoch pasažierom",
+    "option_c": "zvýšenie počtu lietadiel na letisku",
+    "option_d": "zvýšenie počtu dráh na letisku"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7037573",
+    "answer": "D",
+    "instruction": "Aký je najlepší postup pri vykonávaní experimentu?",
+    "option_a": "opatrne zaobchádzať s horúcimi sklenenkami",
+    "option_b": "vypínať varné platne, keď ich nepoužívate",
+    "option_c": "študovať postupy laboratórnych úloh pred vykonaním experimentu",
+    "option_d": "overiť postup likvidácie chemických látok učiteľom"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2012_5_8",
+    "answer": "B",
+    "instruction": "Cameron nakupuje nový stôl. Chce sa uistiť, že stôl sa zmestí do rohu jeho izby. Ak Cameron nakupuje nový stôl, ktorá z nasledujúcich možností mu najlepšie pomôže uistiť sa, že stôl sa tam zmestí?",
+    "option_a": "fotografia, ktorá zobrazuje koberec v jeho izbe",
+    "option_b": "diagram, ktorý zobrazuje merania jeho izby",
+    "option_c": "kresba, ktorá ukazuje, ako zostaviť stôl",
+    "option_d": "zoznam nástrojov, ktoré potrebuje na zostavenie stola"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7092295",
+    "answer": "C",
+    "instruction": "Ktorá akcia vytvára konkurenciu medzi environmentálnymi záujmami a ekonomickými ziskami?",
+    "option_a": "chránenie ohrozených druhov zvierat",
+    "option_b": "opätovné osídlenie zvierat do ich prirodzených biotopov",
+    "option_c": "použitie lesného pozemku na výstavbu domov",
+    "option_d": "použitie mestských autobusov na dopravu"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7131828",
+    "answer": "C",
+    "instruction": "V mnohých tropických oblastiach môžu komáre prenášať parazita, ktorý môže spôsobiť infekčné ochorenie u ľudí. Čo najlepšie opisuje tento typ vzťahu medzi komármi a ľuďmi?",
+    "option_a": "dravec-kořist",
+    "option_b": "súťaž o zdroje",
+    "option_c": "biotické faktory, ktoré vzájomne pôsobia",
+    "option_d": "prenos energie medzi producentom a spotrebiteľom"
+  },
+  {
+    "id": "ARC-Challenge/validation/TIMSS_2003_8_pg31",
+    "answer": "B",
+    "instruction": "Vetrovanie môže urobiť drevený oheň horčejším, pretože vetrovanie",
+    "option_a": "zohreje jedlo dostatočne na to, aby sa spálilo",
+    "option_b": "pridá viac kyslíka potrebného na horenie",
+    "option_c": "zväčší množstvo dreva, ktoré sa má spaľovať",
+    "option_d": "poskytuje energiu potrebnú na udržanie ohňa"
+  },
+  {
+    "id": "ARC-Challenge/validation/ACTAAP_2007_7_5",
+    "answer": "B",
+    "instruction": "Vykoná sa experiment s uzavretým kontajnerom. Kontajner má počiatočnú teplotu 70 stupňov F a atmosférický tlak 20 psi. Kontajner sa zahrieva a tlak vo vnútri kontajnera stúpa rovnomerne s rastúcou teplotou. Ak sa kontajner znovu ochladí na 70 stupňov F, aký bude atmosférický tlak?",
+    "option_a": "10 psi",
+    "option_b": "20 psi",
+    "option_c": "30 psi",
+    "option_d": "40 psi"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7120908",
+    "answer": "D",
+    "instruction": "Glider je motorové lietadlo. Okrem veľkosti, aké by boli hlavné veci, ktoré by sa mali zvážiť pri navrhovaní klzáka, aby dokázal preletieť veľkú vzdialenosť?",
+    "option_a": "ekologický dopad a hmotnosť",
+    "option_b": "náklady a ekologický dopad",
+    "option_c": "pevnosť a náklady",
+    "option_d": "hmotnosť a pevnosť"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_180443",
+    "answer": "C",
+    "instruction": "Ktorá fáza mesiaca nasleduje po rastúcom srpku?",
+    "option_a": "ubúdajúci srpek",
+    "option_b": "rastúci krivúľ",
+    "option_c": "úplnolúď",
+    "option_d": "novolúď"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7238963",
+    "answer": "A",
+    "instruction": "Dvojitý bradavkovitý bradu u ľudí je kódovaný dominantným alelom C. Bradu bez rozštýlenia kóduje recesívny alel c. Muž s kombináciou alelov cc pre znak produkuje zygotu s ženou s kombináciou alel Cc pre znak. Aké kombinácie alelov by mohli nastať v zygote?",
+    "option_a": "Cc alebo cc",
+    "option_b": "CC alebo Cc",
+    "option_c": "len CC",
+    "option_d": "len Cc"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_184765",
+    "answer": "B",
+    "instruction": "Ako najpravdepodobnejší dôsledok intenzívneho kosenia veľkých lesných území možno očakávať?",
+    "option_a": "Percento kyslíka v danej oblasti sa zvýši.",
+    "option_b": "Množstvo erózie v oblasti sa zvýši.",
+    "option_c": "Rozmanitosť druhov v danej oblasti sa zvýši.",
+    "option_d": "Pôdna živina v danej oblasti sa zvýši."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7235813",
+    "answer": "D",
+    "instruction": "Uhlík cirkuluje cez rôzne zásobníky na Zemi. Čas potrebný na formovanie týchto zásobníkov sa veľmi líši. Ktorý proces v uhlíkovom cykle trvá milióny rokov na vytvorenie uvedeného zásobníka?",
+    "option_a": "začlenenie uhlíka do živočíšnych tkanív trávením",
+    "option_b": "uvolnenie uhlíka do atmosféry pri dýchaní",
+    "option_c": "uhlík v atmosfére začlenený do cukrov v rastlinách",
+    "option_d": "rozklad uhlíka v rastlinných tkanivách na vytvorenie ropy"
+  },
+  {
+    "id": "ARC-Challenge/validation/OHAT_2007_5_24",
+    "answer": "B",
+    "instruction": "V lese, ako pomáhajú rozkladače ostatným organizmom prežiť?",
+    "option_a": "Uvoľňujú kyslík do vzduchu, ktorý živočíchy dýchať.",
+    "option_b": "Vkladajú živiny do pôdy, ktoré rastliny používajú na rast.",
+    "option_c": "Poskytujú úkryty v lesoch, kde sa môžu zvieratá schovať.",
+    "option_d": "Používajú slnečné svetlo na výrobu jedla pre rastliny a zvieratá."
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2007_8_15",
+    "answer": "C",
+    "instruction": "Ľudské činnosti ovplyvňujú životné prostredie. Ktorá ľudská činnosť ovplyvňuje najmenšie územie životného prostredia?",
+    "option_a": "vyhorenie lesa",
+    "option_b": "spaľovanie fosílnych palív",
+    "option_c": "vykopanie novej skládky",
+    "option_d": "postrekovanie plodín chemikáliami"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7162838",
+    "answer": "D",
+    "instruction": "Laboratórne potkany boli kŕmené doplnkami boroviek, jahôd alebo špenátu spolu s ich bežnou stravou. Po ôsmich týždňoch dostali potkany testy pamäti a motorických zručností. Potkany, ktoré dostali doplnky borovíc, prejavili najväčšie zlepšenia. Ktorá z nasledujúcich premenných predstavuje nezávislú (manipulovanú) premennú v danej výskumnej práci?",
+    "option_a": "test motorických zručností",
+    "option_b": "proces starnutia",
+    "option_c": "test pamäti",
+    "option_d": "doplnky"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_405973",
+    "answer": "B",
+    "instruction": "Na malej ostrove žije niekoľko druhov vtákov. Búrka zničí väčšinu rastlín, na ktorých vtáky kŕmia a stavajú hniezda. Aký druh vtáka má najväčšiu šancu prežiť na ostrove?",
+    "option_a": "Vtáky, ktorých je najviac.",
+    "option_b": "Vtáky, ktoré sú najschopnejšie sa prispôsobiť.",
+    "option_c": "Vtáky, ktoré dokážu lietať najďalej.",
+    "option_d": "Vtáky s najsilnejšími zobákmi."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2000_8_10",
+    "answer": "B",
+    "instruction": "Ktorá tvrdenie je názor?",
+    "option_a": "Mnoho rastlín je zelených.",
+    "option_b": "Mnoho rastlín je krásnych.",
+    "option_c": "Rastliny potrebujú slnko.",
+    "option_d": "Rastliny môžu rásť na rôznych miestach."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7103180",
+    "answer": "B",
+    "instruction": "Ktorá rastlinná oblasť má najviac vegetácie?",
+    "option_a": "púšť",
+    "option_b": "les",
+    "option_c": "trávnik",
+    "option_d": "tundra"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7221865",
+    "answer": "C",
+    "instruction": "Skupina študentov pozorovala vznik bublín pri varení vody. Čo sa stalo s hmotou kvôli fyzikálnej zmene vody?",
+    "option_a": "V nových bublinách bola vytvorená nová hmota.",
+    "option_b": "Stará hmota sa zničila, keď sa voda zmenila na plyn.",
+    "option_c": "Hmota bola zachovaná pri zmene formy.",
+    "option_d": "Zloženie hmoty sa zmenilo."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7242743",
+    "answer": "D",
+    "instruction": "Bieleniny, ktoré sú syntetizované v subjednotkách ribozómu, prechádzajú rozsiahlymi posttranslačnými úpravami a sú balené a smerované na príslušné miesto. Ktorá štruktúrna zložka bunky sa podieľa na takýchto úpravách?",
+    "option_a": "endoplazmatické retikulum",
+    "option_b": "lyzozómy",
+    "option_c": "mitochondrie",
+    "option_d": "Golgiho aparát"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7103565",
+    "answer": "C",
+    "instruction": "Vysokotlakové systémy bránia vzduchu stúpať do chladnejších oblastí atmosféry, kde sa môže kondenzovať voda. Ak zostane vysokotlakový systém v oblasti dlhú dobu, čo sa pravdepodobne stane?",
+    "option_a": "hmla",
+    "option_b": "dážď",
+    "option_c": "sucho",
+    "option_d": "tornádo"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415541",
+    "answer": "D",
+    "instruction": "Ktorý z týchto objektov najpravdepodobnejšie pláva vo vode?",
+    "option_a": "sklenená guľa",
+    "option_b": "ocelová guľa",
+    "option_c": "gumaová guľa",
+    "option_d": "stolný tenisový guľička"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_9",
+    "answer": "A",
+    "instruction": "Študent vytiahne z mrazničky formu na ľadové kocky a položí ju na stôl. Ľadové kocky sú pevné a studené. Študent zabudne formu na ľadové kocky vrátiť do mrazničky. Ďalší deň by mali byť ľadové kocky",
+    "option_a": "kvapalné a teplejšie",
+    "option_b": "pevné a teplejšie",
+    "option_c": "kvapalné a chladnejšie",
+    "option_d": "pevné a chladnejšie"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7097318",
+    "answer": "D",
+    "instruction": "Veverica upustila z výšky dubu žaluď. Čo sa zmení, keď žaluď padá z drviva na zem?",
+    "option_a": "hmotnosť žaluďa",
+    "option_b": "sila pôsobiaca na žaluď",
+    "option_c": "hustota žaluďa",
+    "option_d": "rýchlosť žaluďa"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_8_20",
+    "answer": "B",
+    "instruction": "Rovnica nižšie ukazuje produkty, ktoré vznikajú pri reakcii roztoku strieborného dusičnanu (AgNO3) s roztokom kuchyňskej soli (NaCl). AgNO3 \u0002+ NaCl (Reaktanty) -> NaNO3 \u0002+ AgCl (Produkty) V tejto rovnici je celková hmotnosť reaktantov",
+    "option_a": "väčšia ako celková hmotnosť produktov",
+    "option_b": "rovná sa celkovej hmotnosti produktov",
+    "option_c": "rovná sa hmotnosti AgCl",
+    "option_d": "menšia ako hmotnosť AgCl"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415397",
+    "answer": "C",
+    "instruction": "Ktorá zmena spôsobuje vznik štruktúry na povrchu Zeme?",
+    "option_a": "Záplava núti ľudí opustiť mesto.",
+    "option_b": "Zemeplocha spôsobuje vlny na poli.",
+    "option_c": "Vulkan vytvára nový pozemok s lávou.",
+    "option_d": "Zosuv pôdy do zátoky spôsobuje prílivovú vlnu."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7246348",
+    "answer": "A",
+    "instruction": "Ktorá črta sa nevytvára v dôsledku divergencie tektonických dosiek?",
+    "option_a": "zákryt",
+    "option_b": "údolí zlomu",
+    "option_c": "oceánska panva",
+    "option_d": "stredooceánsky hrebeň"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7270200",
+    "answer": "A",
+    "instruction": "Vedci vysvetlili, ako mohli byť aminokyseliny, sacharidy, nukleové kyseliny a mastné kyseliny zosyntetizované na Zemi pred tým, než sa objavili živé organizmy. Ktoré z nasledujúcich objavov by najviac podporil tvrdenie, že sa život spontánne vygeneroval z týchto biochemikálií?",
+    "option_a": "Tieto chemikálie sa môžu samo-zostaviť do štruktúry, ktorá sa replikuje.",
+    "option_b": "Tieto chemikálie sa v súčasnosti používajú živými organizmami.",
+    "option_c": "Tieto chemikálie sa nachádzajú na inej planéte.",
+    "option_d": "Tieto chemikálie sa môžu samo-zostaviť do vírusu."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415026",
+    "answer": "C",
+    "instruction": "Ktoré zvieratá by najpravdepodobnejšie boli zachránené povodňou v pobrežnej oblasti?",
+    "option_a": "jelen",
+    "option_b": "mývalovia",
+    "option_c": "aligátori",
+    "option_d": "kóyoty"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7143518",
+    "answer": "D",
+    "instruction": "Bobry sú známe tým, že stavajú hrádze cez rieky a potoky vysekávaním stromov a zberom kefy a kríkov. Populácia bobrov v Spojených štátoch sa znížila v dôsledku lovov ľuďmi. Aký je ekologický dôsledok, ktorý sa najpravdepodobnejšie vyskytuje pri znížení populácie bobrov?",
+    "option_a": "významné zníženie počtu rýb",
+    "option_b": "významný nárast lesov",
+    "option_c": "významný nárast vyparovania vody",
+    "option_d": "významné zníženie počtu habitátov jazier"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7032340",
+    "answer": "D",
+    "instruction": "Z ponúknutých možností, ktorá reprezentuje prírodný svet pomocou modelu?",
+    "option_a": "čítanie knihy o komunite stepných psov",
+    "option_b": "pozretie sa na obrázok komunity stepných psov",
+    "option_c": "skúmanie komunity stepných psov pomocou internetu",
+    "option_d": "pozorovanie komunity stepných psov v expozícii v zoo"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_415263",
+    "answer": "C",
+    "instruction": "Ktorý z nasledujúcich prvokov sa vyskytuje v eukaryotickej bunke, ale nie v prokaryotickej bunke?",
+    "option_a": "DNA",
+    "option_b": "cytoplazma",
+    "option_c": "jadro",
+    "option_d": "bunková membrána"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7090720",
+    "answer": "B",
+    "instruction": "Etanol je alternatívne palivo vyrobené z kukurice. Aký je jeden z nevýhod používania etanolu ako paliva?",
+    "option_a": "zníženie nákladov na výrobu paliva",
+    "option_b": "zníženie dostupnej poľnohospodárskej pôdy na výrobu potravín",
+    "option_c": "zvýšenie spotreby fosílnych palív",
+    "option_d": "zvýšená uhlíková stopa z jazdy automobilov"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_410964",
+    "answer": "D",
+    "instruction": "Študenti skúmajú, ako funguje zvonček na dverách. Ktoré tvrdenie je pravdepodobne pozorovaním, ktoré bolo urobené počas výskumu?",
+    "option_a": "Všetky zvončeky produkujú pekné zvuky.",
+    "option_b": "Batéria je najlepším zdrojom energie pre zvonček na dverách.",
+    "option_c": "Väčšina ľudí uprednostňuje použitie zvončeka pred zaklopaním.",
+    "option_d": "Zvonček používa kus drôtu zabalenej okolo magnetu."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7057313",
+    "answer": "A",
+    "instruction": "Srdcová svalovina sa najlepšie opisuje ako",
+    "option_a": "rovnaký druh buniek, ktoré spolupracujú.",
+    "option_b": "rôzne systémy, ktoré spolupracujú.",
+    "option_c": "rovnaké druhy orgánov tvoriace systém.",
+    "option_d": "rôzne orgány, ktoré plnia funkciu."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_402101",
+    "answer": "D",
+    "instruction": "Ktoré prvky možno nájsť na povrchu Zeme aj Mesiacu?",
+    "option_a": "rastliny",
+    "option_b": "oceány",
+    "option_c": "zvieratá",
+    "option_d": "hory"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2010_8_12010",
+    "answer": "C",
+    "instruction": "Niektoré druhy baktérií produkujú látku, ktorá je jedovatá pre hmyz, ale neškodná pre ľudí. Vedci izolovali gén, ktorý kontroluje produkciu tejto látky. Ktorý z nasledujúcich dôvodov je najlepší pre vloženie tohto génu do rastlín kukurice?",
+    "option_a": "Kukurica bude rásť rýchlejšie.",
+    "option_b": "Bude potrebné menej hnojív.",
+    "option_c": "Bude potrebné menej pesticídov.",
+    "option_d": "Kukurica bude výživnejšia."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7038133",
+    "answer": "B",
+    "instruction": "Študent plánuje vyšetrovanie na výpočet rýchlostí rôznych loptičiek, ako sa kotúľajú po rampách. Ktorý údaj nie je pre študenta najmenej potrebné zaznamenať?",
+    "option_a": "veľkosť každej loptičky",
+    "option_b": "hrúbka rampy",
+    "option_c": "dĺžka rampy",
+    "option_d": "čas, ktorý loptička potrebuje na prejdenie"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_407169",
+    "answer": "D",
+    "instruction": "Ako sa habitat s malým rybníkom prechádza dlhou suchou, čo sa pravdepodobne stane s mnohými rybami v rybníku?",
+    "option_a": "Prispôsobia sa suchému prostrediu.",
+    "option_b": "Žijú z iných zdrojov vody.",
+    "option_c": "Presťahujú sa na iný habitat.",
+    "option_d": "Nebudú schopné prežiť."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7103215",
+    "answer": "C",
+    "instruction": "Študent chce zistiť účinok cesnaku na rast druhu huby. V rovnakej množstve agarovej pôdy a svetla je pestovaných niekoľko vzoriek hubových kultúr. Každej vzorke je podané iné množstvo cesnaku. Aká je nezávislá premenná v tejto štúdii?",
+    "option_a": "množstvo agarovej pôdy",
+    "option_b": "množstvo svetla",
+    "option_c": "množstvo cesnaku",
+    "option_d": "množstvo rastu"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2013_8_29432",
+    "answer": "B",
+    "instruction": "Ktorá z nasledujúcich častí rastlinnej bunky má funkciu najpodobnejšiu funkcii kostí zvierat?",
+    "option_a": "bunková membrána",
+    "option_b": "bunková stena",
+    "option_c": "chloroplast",
+    "option_d": "jadro"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7018008",
+    "answer": "A",
+    "instruction": "Akým spôsobom opisuje elektrickú vlastnosť atómu najlepšie?",
+    "option_a": "neutrálne",
+    "option_b": "izolované",
+    "option_c": "kladne nabité",
+    "option_d": "záporne nabité"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7166530",
+    "answer": "B",
+    "instruction": "Po škole musel Ira vypracovať laboratórnu prácu. Materiály, chemikálie, vybavenie a ochranné pomôcky získal od svojho učiteľa. Rýchlo, ale opatrne, vykonal kroky v písomnom postupe experimentu. Aby ušetril čas, rozhodol sa zaznamenať svoje pozorovania a výsledky neskôr. Čím bude pravdepodobne jeho rozhodnutie negatívne ovplyvnené?",
+    "option_a": "schopnosť dodržiavať pokyny",
+    "option_b": "schopnosť napísať platnú správu",
+    "option_c": "schopnosť dodržiavať bezpečnostné pokyny",
+    "option_d": "schopnosť dospieť k záveru"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400047",
+    "answer": "B",
+    "instruction": "Študent na horúci deň nechal tabuľku čokolády na slnku. Pri rozpúšťaní sa zmenila jedna z jej vlastností. Ktorá?",
+    "option_a": "jej hmotnosť",
+    "option_b": "jej tvar",
+    "option_c": "jej váha",
+    "option_d": "jej zloženie"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7044100",
+    "answer": "C",
+    "instruction": "Ako môžu byť v pôde poľnohospodárskych plodín vyčerpané živiny?",
+    "option_a": "prepásť",
+    "option_b": "veterná erózia",
+    "option_c": "zvýšené zavlažovanie",
+    "option_d": "zvýšené hnojenie"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7075145",
+    "answer": "A",
+    "instruction": "Ktorý z týchto procesov umožňuje bunkám prijímať vodu?",
+    "option_a": "osmóza",
+    "option_b": "mitóza",
+    "option_c": "fotosyntéza",
+    "option_d": "dýchanie"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_192290",
+    "answer": "D",
+    "instruction": "Hoci patria do tej istej rodiny, orol a pelikán sa líšia. Aký je jeden rozdiel medzi nimi?",
+    "option_a": "ich preferencia jesť ryby",
+    "option_b": "ich schopnosť lietať",
+    "option_c": "ich spôsob reprodukcie",
+    "option_d": "ich spôsob, ako chytajú jedlo"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7093975",
+    "answer": "D",
+    "instruction": "Ktorá prírodná príčina spôsobuje vysychanie riek?",
+    "option_a": "znečistenie",
+    "option_b": "erózia",
+    "option_c": "stúpa hladina podzemných vôd",
+    "option_d": "nedostatok zrážok"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7085820",
+    "answer": "D",
+    "instruction": "Ako sa voda začne zamračovať, molekuly vody",
+    "option_a": "získavajú tepelnú energiu.",
+    "option_b": "pohybujú sa voľnejšie.",
+    "option_c": "zväčšujú sa.",
+    "option_d": "snižujú svoju rýchlosť."
+  },
+  {
+    "id": "ARC-Challenge/validation/MEA_2016_5_6",
+    "answer": "C",
+    "instruction": "Do mrazničky sa umiestni balón naplnený vodou. Aká vlastnosť vody sa zmení, keď voda dosiahne svoj bod mrazu?",
+    "option_a": "farba",
+    "option_b": "hmotnosť",
+    "option_c": "stav",
+    "option_d": "hmotnosť"
+  },
+  {
+    "id": "ARC-Challenge/validation/NCEOGA_2013_5_43",
+    "answer": "B",
+    "instruction": "Čo musí nastať, aby sa mohli tvoriť oblaky?",
+    "option_a": "Vodná para musí zohriať.",
+    "option_b": "Vodná para musí stratiť tepelnú energiu.",
+    "option_c": "Zrážky musia začať padať a odtekať.",
+    "option_d": "Transpirácia musí pridávať vodnú paru do atmosféry."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7250023",
+    "answer": "A",
+    "instruction": "Všetky bunky, prokaryotické aj eukaryotické, majú niekoľko spoločných vlastností. Aká bunková funkcia sa nachádza v oboch typoch buniek?",
+    "option_a": "ribozóm",
+    "option_b": "membrána chloroplastov",
+    "option_c": "jadro",
+    "option_d": "endoplazmatické retikulum"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7003955",
+    "answer": "D",
+    "instruction": "Akého typu náboj majú jednotlivé vlasy, keď stojí na konci kvôli statickej elektrine?",
+    "option_a": "neutrálny náboj",
+    "option_b": "neutrálny výboj",
+    "option_c": "trvalý kladný náboj",
+    "option_d": "dočasné kladné náboje"
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2010_5_18",
+    "answer": "D",
+    "instruction": "Vietor je prirodzený zdroj, ktorý prispieva k výhodám juhovýchodného pobrežia zálivu Chesapeake. Ako by tieto vetry mohli najlepšie slúžiť ľuďom?",
+    "option_a": "Vetry by mohli fúkať ropné škvrny do zálivu.",
+    "option_b": "Vetry by mohli byť prevádzkované na fosílne palivá.",
+    "option_c": "Vetry by mohli fúkať znečistený vzduch smerom k pevnine.",
+    "option_d": "Vetry by mohli byť prevádzkované na elektrickú energiu."
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_2",
+    "answer": "D",
+    "instruction": "Koľko času trvá Zemi urobiť jedno obeženie okolo Slnka?",
+    "option_a": "deň",
+    "option_b": "týždeň",
+    "option_c": "mesiac",
+    "option_d": "rok"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_411306",
+    "answer": "D",
+    "instruction": "Niektoré rôzne typy rastlín majú charakteristiky spoločné. Akú charakteristiku má väčšina rastlín?",
+    "option_a": "veľkosť koreňov",
+    "option_b": "tvar listov",
+    "option_c": "farbu kvetov",
+    "option_d": "štruktúru buniek"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7241115",
+    "answer": "C",
+    "instruction": "Ktorá udalosť najpravdepodobnejšie umožnila explóziu rozmanitosti cicavcov, ktorá nastala počas kriedového obdobia?",
+    "option_a": "vytvorenie superkontinentu Pangea",
+    "option_b": "intenzívna vulkanická aktivita",
+    "option_c": "nižšie teploty",
+    "option_d": "stúpajúce hladiny mora"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7042735",
+    "answer": "C",
+    "instruction": "Vedecká trieda pripravuje roztok vody a neškodnej zlúčeniny. Čo treba urobiť s roztokom po skončení predstavenia?",
+    "option_a": "Má sa vyliať do odtoku.",
+    "option_b": "Má sa vyliať do kontajnera na recykláciu.",
+    "option_c": "Má sa vyliať do kontajnera na odpad.",
+    "option_d": "Má sa umiestniť do kontajnera na likvidáciu nebezpečných látok."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2004_9_13",
+    "answer": "D",
+    "instruction": "Aký je hlavný typ namáhania, ktoré pevná svorka pôsobí na kus dreva?",
+    "option_a": "ťahový",
+    "option_b": "skosenie",
+    "option_c": "krútenie",
+    "option_d": "stlačenie"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_176015",
+    "answer": "D",
+    "instruction": "Skupina študentov skúma dve látky, aby určila, ktorá je kuchynská soľ a ktorá je kuchynský cukor. Ako by študenti najlepšie identifikovali každú z látok?",
+    "option_a": "tým, že si všimnú, či sa rozpúšťajú vo vode",
+    "option_b": "tým, že študujú farbu látky",
+    "option_c": "tým, že pozorujú, či sa látky prilepujú na povrch",
+    "option_d": "tým, že skúmajú tvar kryštálu"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7215180",
+    "answer": "C",
+    "instruction": "Vedeckí pracovníci zbierajú vzorky z granitu v horách západného Nevady. Ktorý formát je najlepší na zobrazenie a porovnanie percentuálneho zastúpenia minerálov v jednom vzorci granitu?",
+    "option_a": "stĺpcový graf",
+    "option_b": "čiarový graf",
+    "option_c": "koláčový diagram",
+    "option_d": "rozptylový graf"
+  },
+  {
+    "id": "ARC-Challenge/validation/TIMSS_2007_4_pg26",
+    "answer": "B",
+    "instruction": "Aké zviera má šesť nôh? Čo to pravdepodobne je?",
+    "option_a": "pavúk",
+    "option_b": "muchár",
+    "option_c": "jašter",
+    "option_d": "stonôžka"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_177818",
+    "answer": "C",
+    "instruction": "Dĺžka času medzi nocou a dňom na Zemi sa mení počas roka. Táto časová variabilita je vysvetlená hlavne",
+    "option_a": "polohou Slnka.",
+    "option_b": "polohou Mesiaca.",
+    "option_c": "zemským uhlom náklonu",
+    "option_d": "vzdialenosťou Zeme od Slnka"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_405487",
+    "answer": "B",
+    "instruction": "Jeden rok v parku dubové stromy začali produkovať viac žaludov ako je zvyčajné. Nasledujúci rok sa tiež zvýšila populácia veveričiek v parku. Čo najlepšie vysvetľuje prečo bolo nasledujúceho roku viacej veveričiek?",
+    "option_a": "Zvýšili sa zatienené oblasti.",
+    "option_b": "Zvýšili sa zdroje potravy.",
+    "option_c": "Zvýšili sa hladiny kyslíka.",
+    "option_d": "Zvýšilo sa dostupné voda."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400612",
+    "answer": "C",
+    "instruction": "Zemský povrch sa neustále mení v dôsledku zvetrávania a erózie. V porovnaní so Zemou sa na Mesiaci vyskytuje len malé množstvo zvetrávania a erózie, kvôli",
+    "option_a": "absencii gravitácie na Mesiaci.",
+    "option_b": "tenkej atmosfére na Mesiaci.",
+    "option_c": "absencii vzduchu a vody na Mesiaci.",
+    "option_d": "absencii živých tvorov na Mesiaci."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400655",
+    "answer": "A",
+    "instruction": "Ktorá z týchto zmien, ktoré sa vyskytujú medzi letom a zimou, je najväčšia?",
+    "option_a": "dlžky svetla dňa",
+    "option_b": "výšky vĺn oceána",
+    "option_c": "počet búrok",
+    "option_d": "veľkosť oblakov"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415735",
+    "answer": "C",
+    "instruction": "Anya položila kocku ľadu na chodník počas teplého dňa. Kocka ľadu sa čoskoro rozpustila a vytvorila sa kaluž. Ktorý proces spôsobil rozpustenie kocky ľadu?",
+    "option_a": "Teplota prenášaná cez kocku ľadu konvekciou.",
+    "option_b": "Teplota prenášaná z vzduchu na kocku ľadu žiarením.",
+    "option_c": "Teplota prenášaná z vzduchu a dlažby vedením.",
+    "option_d": "Teplota prenášaná cez kocku ľadu do dlažby vedením."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2005_8_5",
+    "answer": "D",
+    "instruction": "Merkúr, planéta najbližšia k Slnku, má extrémne teploty povrchu, ktoré sa pohybujú od 465°C na slnečnom svetle po -180°C v tieni. Prečo existuje taký veľký rozsah teplôt na Merkúre?",
+    "option_a": "Planéta je príliš malá na to, aby udržala teplo.",
+    "option_b": "Planéta má zohrievanú iba jednu stranu.",
+    "option_c": "Planéta odráža teplo zo svojej tmavej strany.",
+    "option_d": "Planéta nemá atmosféru, ktorá by udržiavala teplo."
+  },
+  {
+    "id": "ARC-Challenge/validation/TIMSS_2003_8_pg14",
+    "answer": "B",
+    "instruction": "Prečo by mužské hmyzie boli ošetrení na zamedzenie produkcie spermií?",
+    "option_a": "Zvýšiť počet samičiek hmyzu",
+    "option_b": "Znížiť celkovú populáciu hmyzu",
+    "option_c": "Produkovať nové druhy hmyzu",
+    "option_d": "Zamedziť hmyzu páreniu"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_20",
+    "answer": "D",
+    "instruction": "Hlavnou funkciou kmeňa stromu je poskytnúť",
+    "option_a": "vzduch",
+    "option_b": "ovocie",
+    "option_c": "slnečné svetlo",
+    "option_d": "podporu"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7017990",
+    "answer": "A",
+    "instruction": "Ktorá akcia nezodpovedá bezpečnostným postupom v laboratóriu?",
+    "option_a": "ochutnávanie chemických vzoriek",
+    "option_b": "používanie tepelne odolných rukavíc, ak sú laboratórne skúmavky horúce",
+    "option_c": "zviazanie vzadu dlhých vlasov",
+    "option_d": "umytie chemikálie splachu veľkým množstvom vody"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7264023",
+    "answer": "D",
+    "instruction": "Ktorý z týchto prvkov sa pravdepodobne nenachádza v organickom zlúčenine?",
+    "option_a": "uhlík",
+    "option_b": "vodík",
+    "option_c": "dusík",
+    "option_d": "draslík"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7138513",
+    "answer": "A",
+    "instruction": "Na ostrove sa vyskytuje množstvo druhov vtákov, ale nie sú tam domáce druhy hadov a veľkých dravcov je tam málo. Hnedé hady jedávajú vtáčie vajcia. Ak by boli hnedé hady na ostrove náhodne vypustené, aký je najpravdepodobnejší výsledok?",
+    "option_a": "viac hadov a menej vtákov",
+    "option_b": "viac hadov a viac vtákov",
+    "option_c": "menej hadov a menej vtákov",
+    "option_d": "menej hadov a viac vtákov"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_401663",
+    "answer": "B",
+    "instruction": "Ako študent môže materiál ušetriť umiestnením akých objektov do kompostového kopy?",
+    "option_a": "hnojivá",
+    "option_b": "rastliny fazule",
+    "option_c": "sklenené baňky",
+    "option_d": "plastové pipety"
+  },
+  {
+    "id": "ARC-Challenge/validation/ACTAAP_2011_5_3",
+    "answer": "C",
+    "instruction": "Veľké množstvo sedimentu je zachytené vodou ako voda odtiekajúca po riekach a potokoch. Ak rýchlo prúdiaca voda v rieke alebo potoku začne spomaľovať, čo sa pravdepodobne stane so sedimentnými časticami, ktoré voda nesie?",
+    "option_a": "Množstvo väčších častíc sedimentu nesených vodou sa zvýši.",
+    "option_b": "Množstvo menších častíc sedimentu nesených vodou sa zvýši.",
+    "option_c": "Množstvo väčších častíc sedimentu nesených vodou sa zníži.",
+    "option_d": "Množstvo menších častíc sedimentu nesených vodou sa zníži."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7195440",
+    "answer": "B",
+    "instruction": "Každoročne sa vypália približne 50 miliónov akrov tropických dažďových lesov. Ktorý účinok by najpravdepodobnejšie vyplýval z odlesňovania?",
+    "option_a": "zníženie erózie pôdy",
+    "option_b": "zníženie biodiverzity",
+    "option_c": "zlepšenie kvality ovzdušia",
+    "option_d": "zlepšenie kvality vody"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7220378",
+    "answer": "C",
+    "instruction": "Zmena klímy by mohla redukovať množstvo ľadu plávajúceho na oceánoch sveta. Ako môže táto zmena najpravdepodobnejšie zmeniť potravné zdroje dostupné pre morské konzumentné organizmy?",
+    "option_a": "tým, že sa zníži množstvo soli rozpustenej v oceánovej vode",
+    "option_b": "tým, že sa zvýši schopnosť vody oddeliť sa do rozličných vrstiev",
+    "option_c": "tým, že sa zmenia teplotné podmienky, ktoré jednobunkoví producenti potrebujú",
+    "option_d": "tým, že organizmy bráni v rýchlej reakcii na environmentálnu zmenu"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7234483",
+    "answer": "B",
+    "instruction": "Na súčasnej, dominantnej teórii pôvodu života na Zemi závisia prebiotické látky, ktoré vlastnosti sa vyvinuli ako prvé?",
+    "option_a": "stabilné oddelenie od svojho prostredia",
+    "option_b": "montáž do samoreplikujúcich štruktúr",
+    "option_c": "skladovanie vlastností v chemicky zakódovanej forme",
+    "option_d": "akumulácia molekúl uchovávajúcich energiu"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7179358",
+    "answer": "B",
+    "instruction": "Ekosystém horúceho klimaxu potrebuje pravidelné lesné požiare na udržanie stability. Ktorý z týchto by bol najpravdepodobnejším dôsledkom zabránenia prírodným požiarom v tomto ekosystéme?",
+    "option_a": "Druhy borovíc by sa rozmnožovali rýchlejšie.",
+    "option_b": "Listnaté druhy by nahradili borovicové druhy.",
+    "option_c": "Hořlavy by bolo ľahšie udržať na uzde.",
+    "option_d": "Stromy by sa rozmnožovali v oblastiach, kde predtým neboli lesy."
+  },
+  {
+    "id": "ARC-Challenge/validation/NCEOGA_2013_8_40",
+    "answer": "C",
+    "instruction": "Ako by fajčenie tabaku najpravdepodobnejšie ovplyvnilo schopnosti jednotlivca uspieť v fyzickej aktivite?",
+    "option_a": "Má vplyv na rovnováhu a koordináciu.",
+    "option_b": "Znižuje schopnosť rýchlo rozhodovať.",
+    "option_c": "Znižuje výdrž a kardiovaskulárnu efektivitu.",
+    "option_d": "Znižuje rýchlosť a silu svalových kontrakcií."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7100695",
+    "answer": "D",
+    "instruction": "Ktorá geologická štruktúra pravdepodobne bude potrebovať najviac času na vytvorenie?",
+    "option_a": "zlyhanie",
+    "option_b": "závrt",
+    "option_c": "ríčna meandrovosť",
+    "option_d": "pohorie"
+  },
+  {
+    "id": "ARC-Challenge/validation/MEA_2016_5_7",
+    "answer": "B",
+    "instruction": "Študent pozoruje, že jednobunkový organizmus a list rastliny majú podobné zelené časti. Študent si myslí, že obe organizmy používajú zelené časti na prežitie. Ktoré dôkazy podporujú záver, že oba organizmy potrebujú zelené časti na prežitie?",
+    "option_a": "Oba organizmy používajú zelené časti na pohyb.",
+    "option_b": "Oba organizmy umierajú, ak sú zelené časti odstránené.",
+    "option_c": "Zelené časti v obidvoch organizmoch sa pozorujú, ako produkujú svetlo.",
+    "option_d": "Zelené časti v obidvoch organizmoch môžu tvoriť viac zelených častí."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7027230",
+    "answer": "A",
+    "instruction": "Ktorá téma by bola najlepšia na výskum s cieľom nájsť spôsoby, ako znížiť environmentálne problémy spôsobené ľuďmi?",
+    "option_a": "prevádzka slnečnej energie na elektrinu",
+    "option_b": "hľadanie nových zásob uhlia",
+    "option_c": "hľadanie zásobníkov obsahujúcich ropu",
+    "option_d": "prevádzka lesov na poľnohospodársku pôdu"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7245053",
+    "answer": "B",
+    "instruction": "Ktorá z nasledujúcich zlúčenín je organickou zlúčeninou?",
+    "option_a": "voda (H2O)",
+    "option_b": "hexán (C6H14)",
+    "option_c": "amoniak (NH3)",
+    "option_d": "oxid siričitý (SO2)"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_8_12",
+    "answer": "A",
+    "instruction": "Hlavnú funkciu semena rastlín tvorí",
+    "option_a": "ukladanie potravy na použitie počas raného vývoja",
+    "option_b": "prilákanie peľu na použitie počas vývoja",
+    "option_c": "prijímanie svetelnej energie na použitie počas fotosyntézy",
+    "option_d": "produkcia chlorofylu na použitie počas fotosyntézy"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7189035",
+    "answer": "D",
+    "instruction": "Scott sa pozeral na výsledky kríženia medzi červenými a bielymi kvetmi. Aké je najpravdepodobnejšie výsledkom kríženia, ktoré preukazuje neúplnú dominanciu?",
+    "option_a": "0% ružových kvetov",
+    "option_b": "25% bielych kvetov",
+    "option_c": "50% červených kvetov",
+    "option_d": "100% ružových kvetov"
+  },
+  {
+    "id": "ARC-Challenge/validation/LEAP_2006_8_10412",
+    "answer": "B",
+    "instruction": "Jolie chcela zjesť vajce natvrdo na raňajky. Vajce dala do horúcej vody na pätnásť minút. Keď rozbila škrupinu, tekuté časti vajca sa zmenili na pevné. To bolo preto, že",
+    "option_a": "ohrev odstránil vodu z vajca.",
+    "option_b": "ohrev zmenil chemické väzby vo vajci.",
+    "option_c": "varzenie priviedlo pevné časti vajca na povrch.",
+    "option_d": "baktérie žijúce v tekutom vajci boli zabité."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400172",
+    "answer": "A",
+    "instruction": "Ktorý vedec tvrdil, že Zem je stred vesmíru?",
+    "option_a": "Aristoteles",
+    "option_b": "Kopernik",
+    "option_c": "Einstein",
+    "option_d": "Newton"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2005_5_21",
+    "answer": "D",
+    "instruction": "Samice tuleňov sa zvyčajne každý rok vracajú na rovnaké pláže, aby rodili. Ak ich na týchto plážach opakovane rušia ľudia, akým spôsobom budú sa najpravdepodobnejšie tuleňovia reagovať?",
+    "option_a": "Zmenia farbu.",
+    "option_b": "Budú rodiť viac mláďat.",
+    "option_c": "Budú častejšie loviť potravu.",
+    "option_d": "Budú rodiť na iných plážach."
+  },
+  {
+    "id": "ARC-Challenge/validation/MEA_2010_8_11",
+    "answer": "A",
+    "instruction": "Keď sa spomalí pohyb molekúl tekutej vody, čo sa pravdepodobne stane?",
+    "option_a": "Tekutá voda sa mení na tuhé skupenstvo.",
+    "option_b": "Tekutá voda kondenzuje.",
+    "option_c": "Tekutá voda prechádza chemickou zmenou.",
+    "option_d": "Tekutá voda sa mení na paru."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7187058",
+    "answer": "A",
+    "instruction": "Každú noc Johnny číta pri lampičke, ktorá sa zapáli pomocou žiarovky s inkandescentným svetlom. Ktorý znak najlepšie naznačuje, že prenos elektrickej energie na lampičku je neefektívny?",
+    "option_a": "Žiarovka sa zahreje.",
+    "option_b": "Žiarovka produkuje svetlo.",
+    "option_c": "Lampička používa medené vodiče.",
+    "option_d": "Lampičku je možné vypnúť vypínačom."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7185133",
+    "answer": "A",
+    "instruction": "Tracey sa učila o štruktúrnej organizácii zvierat. Aká úroveň štruktúrnej organizácie najlepšie opisuje vajce?",
+    "option_a": "bunka",
+    "option_b": "tkanivo",
+    "option_c": "sústava",
+    "option_d": "orgán"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7183733",
+    "answer": "B",
+    "instruction": "V Everglades je stav tela amerického aligátora úzko spojený s hĺbkou vody. Keď sa úroveň vody príliš zvýši, druhy zvierat sa rozptýlia v širšom okolí, čo spôsobuje zníženie stavu tela v dôsledku neschopnosti nájsť dostatočné zdroje potravy. Keď klesnú hladiny vody, druhy zvierat sa zhromažďujú v menších oblastiach, čo umožňuje aligátorom efektívnejšie loviť. Tento scenár je príkladom toho, ako závislosť prežitia aligátorov závisí od obmedzenia ktorej faktoru?",
+    "option_a": "miera rozkladu",
+    "option_b": "oblasť biotopov koristi",
+    "option_c": "úroda výrobcov",
+    "option_d": "obrátky vody"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7205345",
+    "answer": "D",
+    "instruction": "Ak sa vyrába kuchynská soľ (NaCl), ktoré z nasledujúcich najlepšie opisuje správanie sa atómov sodíka (Na) a chloru (Cl)?",
+    "option_a": "Atómy sodíka nahradia atómy chloru.",
+    "option_b": "Atómy sodíka a chloru sa zmiešajú.",
+    "option_c": "Atómy sodíka sa rozpustia v atómoch chloru.",
+    "option_d": "Atómy sodíka a chloru sa chemicky zviažu."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_176838",
+    "answer": "A",
+    "instruction": "Ktorá z týchto činností nie je funkciou obehovej sústavy?",
+    "option_a": "rozkladať jedlo na živiny",
+    "option_b": "dopravovať živiny a kyslík",
+    "option_c": "odstraňovať odpadové produkty z tela",
+    "option_d": "chrániť telo pred cudzími útočníkmi"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2002_5_6",
+    "answer": "D",
+    "instruction": "Kolibrie sa môžu vo vzduchu zdržiavať na mieste a veľmi rýchlo lietať. Toto pomáha kolibrimu vo všetkom nasledujúcom, okrem",
+    "option_a": "rýchlejmu úniku pred dravcami.",
+    "option_b": "ľahkému prístupu k kvetom.",
+    "option_c": "zotrvaniu na mieste pri pití nektáru.",
+    "option_d": "ohrevu vajec."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7166180",
+    "answer": "B",
+    "instruction": "Rastliny rastú pod vplyvom okolitých faktorov, ako je gravitácia. Ak je semienko necháme klíčiť a rásť na boku, čo sa pravdepodobne stane?",
+    "option_a": "korene budú rásť nadol, stonky budú rásť nadol",
+    "option_b": "korene budú rásť nadol, stonky budú rásť nahor",
+    "option_c": "korene budú rásť nahor, stonky budú rásť nadol",
+    "option_d": "korene budú rásť nahor, stonky budú rásť nahor"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2012_5_23632",
+    "answer": "C",
+    "instruction": "Študent pozoroval kameň tvorený mnohými malými časticami piesku usporiadanými do svetlých a tmavých vrstiev. Ktoré tvrdenie najlepšie opisuje, ako sa tento druh kameňa pravdepodobne vytvoril?",
+    "option_a": "Hlina bola rozdrvená a zmrazená pod ľadovcom.",
+    "option_b": "Láva z vyvrcholeného sopky rýchlo vychladla vo vode.",
+    "option_c": "Riekové sedimenty boli pomaly stlačené a zocelené spolu.",
+    "option_d": "Minerálne vklady zatvrdli do pevného kameňa v podzemných jaskyniach."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7267593",
+    "answer": "A",
+    "instruction": "Ktoré z týchto prírodných katastrof sú najmenej predvídateľné?",
+    "option_a": "zemepretrasy",
+    "option_b": "hurikány",
+    "option_c": "tornáda",
+    "option_d": "blizardy"
+  },
+  {
+    "id": "ARC-Challenge/validation/NAEP_2005_8_S11+14",
+    "answer": "B",
+    "instruction": "Človek NEMÔŽE prežiť stratou ktorého z nasledujúcich orgánov?",
+    "option_a": "Dodatok",
+    "option_b": "Pečeň",
+    "option_c": "Pľúca",
+    "option_d": "Obličky"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7218750",
+    "answer": "C",
+    "instruction": "Ktorý druh vodného zdroja by mohol vždy poskytovať sladkú vodu?",
+    "option_a": "vnútrozemské jazerá",
+    "option_b": "deltá riek",
+    "option_c": "horské ľadovce",
+    "option_d": "tropické moria"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7026198",
+    "answer": "A",
+    "instruction": "Prvok krypton je plyn, ktorý preukazuje takmer žiadne chemické účinky. Aký prvok by mal študent hľadať v Periodickej tabuľke prvkov, ktorý má podobné vlastnosti?",
+    "option_a": "prvok v rovnakej skupine",
+    "option_b": "prvok v rovnakom období",
+    "option_c": "prvok s rovnakým čistým nábojom",
+    "option_d": "prvok s rovnakou atómovou hmotnosťou"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7081760",
+    "answer": "B",
+    "instruction": "Aby vedec mohol klasifikovať nové objavené organizmy, musí preskúmať ich štruktúru, DNA a životný cyklus. Vedec pravdepodobne použije výsledky z tejto investigácie na to, aby",
+    "option_a": "vytvoril nové vedecké metódy.",
+    "option_b": "opravil vedecké poznatky.",
+    "option_c": "vytvoril nové hypotézy.",
+    "option_d": "vyvrátil vedecké teórie."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7130603",
+    "answer": "C",
+    "instruction": "Ktorá z uvedených veličín sa meria v jednotkách odlišných od joule?",
+    "option_a": "teplo",
+    "option_b": "svetlo",
+    "option_c": "výkon",
+    "option_d": "práca"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7074865",
+    "answer": "C",
+    "instruction": "Čo z nasledujúcich tvrdení platí pre riasy, baktérie a kvetinové rastliny?",
+    "option_a": "Sú anorganické.",
+    "option_b": "Všetky obsahujú chlorofyl.",
+    "option_c": "Sú zložené z buniek.",
+    "option_d": "Všetky sa živia inými organizmami."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7042700",
+    "answer": "D",
+    "instruction": "Ktorý prístroj by nebol potrebný počas pitvy zvieraťa?",
+    "option_a": "rukavice",
+    "option_b": "okuliare",
+    "option_c": "laboratórne plášť",
+    "option_d": "bezpečnostná sprcha"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7071365",
+    "answer": "D",
+    "instruction": "Ktoré porovnanie motýľov a molí je tvrdenie založené na faktoch?",
+    "option_a": "Motýle sú krajšie a zábavnejšie na pozorovanie ako moly.",
+    "option_b": "Motýle sú lepší v lietaní ako moly.",
+    "option_c": "Motýle a moly sú oveľa šťastnejšie počas dňa.",
+    "option_d": "Motýle a moly majú rovnaký počet nôh."
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2007_4_52",
+    "answer": "C",
+    "instruction": "Rastliny a zvieratá potrebujú potravu pre svoj rast. Čo sa deje s väčšinou potraviny, ktorú rastliny produkujú?",
+    "option_a": "Potravina je uvoľňovaná ako plyn.",
+    "option_b": "Potravina sa mení na vodu.",
+    "option_c": "Potravina sa ukladá pre budúce použitie.",
+    "option_d": "Potravina sa využíva na absorbovanie slnečného svetla."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7026443",
+    "answer": "D",
+    "instruction": "Ktorý znak u domáceho psa sa dedí?",
+    "option_a": "Pes sa vyhýba domácemu mačiatku.",
+    "option_b": "Pes skáče na pohovku.",
+    "option_c": "Pes sa na príkaz prevracia.",
+    "option_d": "Pes slintá, keď cíti jedlo."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7008138",
+    "answer": "B",
+    "instruction": "Ktoré tvrdenie opisuje asteroidy a kométy?",
+    "option_a": "Asteroidy sú tuhé a kométy sú plynné.",
+    "option_b": "Asteroidy sú tuhé a kométy sú plynné.",
+    "option_c": "Asteroidy aj kométy sú tuhé.",
+    "option_d": "Asteroidy aj kométy sú plynné."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_402104",
+    "answer": "D",
+    "instruction": "Dumping toxických chemikálií do rybníka by pravdepodobne viedlo k",
+    "option_a": "zvýšenie hladiny kyslíka v rybníku.",
+    "option_b": "rast rastlín v blízkosti rybníka.",
+    "option_c": "toxické chemikálie nemajú na rybník vplyv.",
+    "option_d": "poškodeniu alebo úhynu rýb v rybníku."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7086013",
+    "answer": "D",
+    "instruction": "Humboldt River Basin je jedným z najdôležitejších zdrojov niekoľkých nerastných surovín. Ktorá z týchto nerastných surovín sa vyrába z Humboldt River Basin?",
+    "option_a": "uhlie z horských zásobníkov",
+    "option_b": "ropa a plyn z podzemných nádrží",
+    "option_c": "elektrická energia z vodných elektrární",
+    "option_d": "minerály z ťažby zlata, striebra a medi"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7248238",
+    "answer": "D",
+    "instruction": "Komárovce zo Bahamských ostrovov žijú v rôznych izolovaných sladkovodných jazerách, ktoré kedysi tvorili jedno telo vody. Keď sa niekoľko mužských a ženských komároviek z dvoch izolovaných jazier umiestni do jedného jazera, preferencia rozmnožovania každej komárovky sa uplatní na ryby z vlastného pôvodného jazera. Ktorý z týchto faktorov najpravdepodobnejšie spôsobil túto preferenciu rozmnožovania?",
+    "option_a": "Dostupnosť potravy ovplyvnila preferencie rozmnožovania rýb.",
+    "option_b": "Konkurencia o vhodného partnera ovplyvnila preferencie rozmnožovania.",
+    "option_c": "Predátory v jazere ovplyvnili preferencie rozmnožovania komároviek.",
+    "option_d": "Druhová odlišnosť v dôsledku reprodukčnej izolácie ovplyvnila preferencie rozmnožovania."
+  }
+]

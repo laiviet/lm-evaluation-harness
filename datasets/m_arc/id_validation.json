@@ -1,0 +1,2682 @@
+[
+  {
+    "id": "ARC-Challenge/validation/Mercury_7099103",
+    "answer": "D",
+    "instruction": "Blackberry liar mereproduksi secara aseksual dengan tunas baru yang tumbuh akar saat batang menyentuh tanah. Mereka juga mereproduksi secara seksual melalui bunga mereka. Apa keuntungan dari tanaman blackberry dapat mereproduksi secara seksual dan aseksual?",
+    "option_a": "Ini memungkinkan tanaman tumbuh lebih tinggi.",
+    "option_b": "Ini menghasilkan bunga yang menarik serangga.",
+    "option_c": "Ini menghasilkan blackberry yang memiliki rasa yang lebih enak.",
+    "option_d": "Ini memungkinkan tanaman blackberry untuk beradaptasi dengan kondisi baru."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2006_9_31-v1",
+    "answer": "C",
+    "instruction": "Manakah di antara berikut yang menggambarkan energi mekanik sebuah kereta yang sedang berhenti di puncak bukit terjal?",
+    "option_a": "Kereta tidak memiliki energi mekanik.",
+    "option_b": "Energi mekanik kereta semuanya kinetik.",
+    "option_c": "Energi mekanik kereta semuanya potensial.",
+    "option_d": "Energi mekanik kereta setengah potensial dan setengah kinetik."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7090738",
+    "answer": "A",
+    "instruction": "Pertanyaan apa yang dapat dijawab melalui penyelidikan ilmiah?",
+    "option_a": "Bagaimana energi surya mempengaruhi pembentukan awan?",
+    "option_b": "Mengapa harimau lebih indah daripada iguana?",
+    "option_c": "Apa mata kuliah terbaik untuk dipelajari di perguruan tinggi?",
+    "option_d": "Apakah manusia seharusnya berinvestasi dalam perjalanan antariksa?"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7130883",
+    "answer": "B",
+    "instruction": "Kelas teknik sedang diinstruksikan untuk mengembangkan robot. Robot harus dirancang menggunakan energi elektromagnetik sebagai satu-satunya sumber daya. Topik apa yang kemungkinan besar dipelajari oleh kelas teknik?",
+    "option_a": "penggunaan baterai dan energi kimia",
+    "option_b": "bagaimana energi radiasi dan kolektor surya dapat digunakan",
+    "option_c": "konversi energi kinetik menjadi energi potensial",
+    "option_d": "bagaimana energi termal dapat dikonversi menjadi energi listrik"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7190155",
+    "answer": "B",
+    "instruction": "Banyak spesies tumbuhan dan hewan yang berbeda hidup di hutan hujan Amazon. Apa hasil yang paling mungkin dari daerah hutan yang ditebangi di hutan hujan Amazon?",
+    "option_a": "peningkatan populasi hewan",
+    "option_b": "penurunan produksi oksigen",
+    "option_c": "peningkatan presipitasi",
+    "option_d": "penurunan polutan"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_177398",
+    "answer": "B",
+    "instruction": "Sebuah mobil yang bergerak ke arah timurlaut dengan kecepatan 50 km/jam mewakili yang berikut ini?",
+    "option_a": "kecepatan",
+    "option_b": "kecepatan dan arah",
+    "option_c": "percepatan",
+    "option_d": "perlambatan"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7246995",
+    "answer": "C",
+    "instruction": "Beberapa sel tumbuhan membutuhkan energi untuk mengangkut nutrien melintasi membran sel. Transformasi energi jenis apa yang digunakan sel tumbuhan ini untuk membawa molekul nutrien masuk ke dalam membran sel?",
+    "option_a": "energi termal menjadi energi kinetik",
+    "option_b": "energi potensial menjadi energi cahaya",
+    "option_c": "energi kimia menjadi energi kinetik",
+    "option_d": "energi kinetik dari energi potensial"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_189490",
+    "answer": "A",
+    "instruction": "Pengamatan Gregor Mendel terhadap tanaman kacang merupakan contoh dari",
+    "option_a": "bukti berbasis riset yang mendukung teori ilmiah.",
+    "option_b": "kesimpulan yang diuji melalui hipotesis.",
+    "option_c": "pengujian acak selama eksperimen.",
+    "option_d": "bukti yang mendukung dan menentang model ilmiah."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7139790",
+    "answer": "C",
+    "instruction": "Seekor gurita memiliki sel khusus di kulitnya yang disebut kromatofor yang memungkinkannya mengubah warnanya hampir seketika. Kromatofor kemungkinan besar membantu gurita untuk",
+    "option_a": "berenang lebih cepat.",
+    "option_b": "menghirup udara lebih lambat.",
+    "option_c": "bersembunyi dari predator.",
+    "option_d": "mengatur suhu tubuh."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7282608",
+    "answer": "C",
+    "instruction": "Air limbah dari rumah tidak semuanya sama. Air abu-abu mengacu pada air limbah rumah dari wastafel dan bathtub. Ini tidak mengandung limbah biologis manusia, sehingga dapat digunakan kembali daripada diolah sebagai air limbah. Penggunaan air abu-abu mana yang menunjukkan pengelolaan yang baik?",
+    "option_a": "mencuci piring dan minum",
+    "option_b": "minum dan mengairi bedengan bunga",
+    "option_c": "mengairi bedengan bunga dan menyiram pohon",
+    "option_d": "menyiram pohon dan mencuci piring"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7145513",
+    "answer": "B",
+    "instruction": "Proses kehidupan memerlukan energi. Proses biokimia melibatkan reaksi-reaksi tertentu. Apa yang menjadi ciri-ciri dari proses biokimia yang umum pada semua hewan?",
+    "option_a": "berfungsi pada berbagai level pH",
+    "option_b": "panas dilepaskan sebagai produk",
+    "option_c": "menggunakan hanya respirasi anaerobik",
+    "option_d": "jumlah energi yang diabsorbsi"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7018148",
+    "answer": "B",
+    "instruction": "Sebagian besar unsur yang ditemukan pada Tabel Periodik Unsur adalah",
+    "option_a": "gas.",
+    "option_b": "logam.",
+    "option_c": "cair.",
+    "option_d": "nonlogam."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_401294",
+    "answer": "B",
+    "instruction": "Bentuk daun tanaman yang mampu bertahan dengan baik di iklim hujan biasanya paling sering",
+    "option_a": "merah dan berkilau.",
+    "option_b": "lebar dan rata.",
+    "option_c": "tebal dan berlapis-lapis lilin.",
+    "option_d": "tajam dan sempit."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7207410",
+    "answer": "C",
+    "instruction": "Pemburu badai adalah orang-orang yang mendekati badai untuk mengamati dan mengukurnya. Apa pengetahuan yang telah ditambahkan oleh pemburu badai ke dalam studi badai yang paling membantu dalam memodifikasi teori pembentukan badai?",
+    "option_a": "pandangan mereka tentang kerusakan badai",
+    "option_b": "pengalaman pribadi mereka dalam badai",
+    "option_c": "data yang dikumpulkan pada awal badai",
+    "option_d": "antusiasme mereka dalam mempelajari badai yang berbeda"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_8_2015_11",
+    "answer": "A",
+    "instruction": "Mana di antara yang berikut ini yang paling menggambarkan massa sebuah blok es padat?",
+    "option_a": "jumlah materi dalam blok tersebut",
+    "option_b": "jumlah ruang yang ditempati blok tersebut",
+    "option_c": "gayatari yang bekerja pada blok tersebut",
+    "option_d": "jarak antar molekul dalam blok tersebut"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7201705",
+    "answer": "A",
+    "instruction": "Di banyak bagian dunia, tanah yang terlalu kering untuk berpertanian digunakan untuk menggembalakan ternak. Penggembalaan berlebihan dari tanah-tanah ini menghancurkan tanaman asli dan merusak tutupan tanah alami. Bagaimana penggembalaan berlebihan dapat menyebabkan terjadinya desertifikasi?",
+    "option_a": "dengan meningkatkan laju erosi tanah atas",
+    "option_b": "dengan memungkinkan spesies non-asli untuk mengkolonisasi tanah",
+    "option_c": "dengan mengurangi makanan yang tersedia untuk ternak",
+    "option_d": "dengan menyebabkan tanah menyerap hujan lebih cepat"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7133858",
+    "answer": "B",
+    "instruction": "Materi dapat mengalami perubahan yang berbeda. Mana yang paling baik menunjukkan perubahan kimia?",
+    "option_a": "garam larut",
+    "option_b": "kayu terbakar",
+    "option_c": "air mendidih",
+    "option_d": "es mencair"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2003_5_31",
+    "answer": "D",
+    "instruction": "Manakah dari berikut ini yang bukan perilaku naluri?",
+    "option_a": "sebuah burung membangun sarang",
+    "option_b": "seekor kura-kura mengubur telurnya",
+    "option_c": "seekor beruang tidur musim dingin",
+    "option_d": "sebuah kuda menarik bajak"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7198380",
+    "answer": "D",
+    "instruction": "Beberapa spesies rodentia herbivora tinggal pada ekosistem yang sama. Faktor yang paling mungkin meningkat yang menyebabkan kompetisi lebih besar untuk sumber daya antara rodentia adalah?",
+    "option_a": "kesuburan tanah",
+    "option_b": "populasi produsen di daerah tersebut",
+    "option_c": "jumlah sisa makanan yang ditinggalkan oleh predator",
+    "option_d": "laju konsumen primer pindah ke daerah tersebut"
+  },
+  {
+    "id": "ARC-Challenge/validation/LEAP_2012_8_10441",
+    "answer": "C",
+    "instruction": "Jenis kadal kebanyakan memakan buah dari satu jenis pohon tertentu. Jika virus membunuh sebagian besar pohon-pohon ini, kadal individu mana yang kemungkinan akan selamat?",
+    "option_a": "kadal yang bisa memanjat lebih tinggi ke pohon buah",
+    "option_b": "kadal yang memiliki warna yang lebih gelap",
+    "option_c": "kadal yang bisa menemukan jenis makanan lain",
+    "option_d": "kadal yang menghasilkan keturunan lebih banyak"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7217053",
+    "answer": "B",
+    "instruction": "Evolusi biologis bisa terjadi melalui semuanya kecuali",
+    "option_a": "kompetisi.",
+    "option_b": "fosilisasi.",
+    "option_c": "variasi.",
+    "option_d": "adaptasi."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7233660",
+    "answer": "C",
+    "instruction": "Beberapa ilmuwan mengemukakan bahwa pergerakan lempeng dapat mengubah level air di laut Bumi. Bagaimana sifat pergerakan lempeng membatasi perubahan yang mungkin terjadi pada level air laut?",
+    "option_a": "dengan membuat hanya perubahan kecil",
+    "option_b": "dengan mengubah hanya beberapa cekungan laut tertentu",
+    "option_c": "dengan menyebabkan perubahan terjadi pada tingkat yang sangat lambat",
+    "option_d": "dengan menyebabkan perubahan berpasangan dengan efek yang sama besarnya tetapi berlawanan arah"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7115395",
+    "answer": "A",
+    "instruction": "Perubahan apa yang paling mungkin memiliki efek negatif pada sebuah ekosistem?",
+    "option_a": "membangun jalan",
+    "option_b": "menanam pohon",
+    "option_c": "menambahkan sumber air tawar",
+    "option_d": "membuat tempat perlindungan alam"
+  },
+  {
+    "id": "ARC-Challenge/validation/MSA_2013_8_3",
+    "answer": "D",
+    "instruction": "Geologis telah mengidentifikasi tujuh lempeng tektonik utama di permukaan Bumi. Bukti mana yang paling menunjukkan bahwa lempengan tektonik saling bertabrakan?",
+    "option_a": "Angin mengikis formasi batuan permukaan.",
+    "option_b": "Fosil berasal dari ribuan tahun yang lalu.",
+    "option_c": "Batu kecil tertinggal ketika gletser mundur.",
+    "option_d": "Lapisan batuan yang lebih tua terletak di atas lapisan batuan yang lebih baru."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7205135",
+    "answer": "C",
+    "instruction": "Bagaimana partikel-partikel pada sebuah blok besi dipengaruhi ketika blok tersebut meleleh?",
+    "option_a": "Partikel-partikel tersebut bertambah massanya.",
+    "option_b": "Partikel-partikel tersebut mengandung lebih sedikit energi.",
+    "option_c": "Partikel-partikel tersebut bergerak lebih cepat.",
+    "option_d": "Partikel-partikel tersebut meningkatkan volumenya."
+  },
+  {
+    "id": "ARC-Challenge/validation/ACTAAP_2010_5_10",
+    "answer": "A",
+    "instruction": "Sara menyalakan senter dan mengangkat objek ke cahaya. Bagaimana dia akan bisa tahu jika objek tersebut tidak tembus cahaya?",
+    "option_a": "Tidak ada cahaya yang akan tembus.",
+    "option_b": "Beberapa cahaya akan dipantulkan.",
+    "option_c": "Cahaya akan membengkok pada sudut tertentu.",
+    "option_d": "Cahaya akan tembus dengan jelas."
+  },
+  {
+    "id": "ARC-Challenge/validation/TIMSS_2003_8_pg29",
+    "answer": "E",
+    "instruction": "Organ mana dari berikut ini yang TIDAK terletak di dalam perut?",
+    "option_a": "hati",
+    "option_b": "ginjal",
+    "option_c": "perut",
+    "option_d": "kandung kemih",
+    "option_e": "jantung"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7181685",
+    "answer": "A",
+    "instruction": "Variasi warna bunga pada tanaman mawar jenis tertentu sangatlah bervariasi, sehingga membentuk bunga dengan warna yang berbeda-beda. Bagaimana variasi warna bunga pada tanaman mawar terjadi?",
+    "option_a": "melalui mutasi",
+    "option_b": "melalui penyerbukan",
+    "option_c": "melalui seleksi alam",
+    "option_d": "melalui reproduksi aseksual"
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2011_5_20",
+    "answer": "D",
+    "instruction": "Kelinci salju melepas bulunya dua kali setahun. Pada musim panas, bulu kelinci berwarna cokelat. Pada musim dingin, bulunya berwarna putih. Pernyataan manakah yang paling baik menjelaskan keuntungan melepas bulu?",
+    "option_a": "Melepas bulu menjaga kelinci tetap bersih.",
+    "option_b": "Melepas bulu membantu kelinci bergerak dengan cepat.",
+    "option_c": "Melepas bulu menjaga kehangatan rumah kelinci.",
+    "option_d": "Melepas bulu membantu kelinci menyatu dengan habitatnya."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7008120",
+    "answer": "A",
+    "instruction": "Bintang biner digunakan oleh para ilmuwan untuk menentukan",
+    "option_a": "massa.",
+    "option_b": "kecerahan.",
+    "option_c": "jarak dari Bumi.",
+    "option_d": "jarak dari Matahari."
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_13",
+    "answer": "B",
+    "instruction": "Seorang anak laki-laki dapat melihat wajahnya ketika dia melihat ke dalam kolam yang tenang. Sifat fisik dari kolam yang membuat ini terjadi adalah?",
+    "option_a": "kelenturan",
+    "option_b": "reflektivitas",
+    "option_c": "suhu",
+    "option_d": "volume"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_1",
+    "answer": "B",
+    "instruction": "Seorang siswa menanam dua biji kacang dalam dua pot yang identik yang berisi jenis tanah yang sama. Dia menempatkan satu pot di dalam lemari dan yang lainnya di dekat jendela yang terkena sinar matahari. Setiap harinya, ia menuangkan 15 mililiter air ke setiap pot. Faktor apa yang berbeda untuk kedua pot?",
+    "option_a": "jumlah air",
+    "option_b": "jumlah cahaya",
+    "option_c": "jenis tanah",
+    "option_d": "jenis biji"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7141698",
+    "answer": "B",
+    "instruction": "Ketika petir terjadi, ia memanaskan udara di sekitarnya. Udara panas mengembang dan menghasilkan suara guntur. Energi dari petir diubah menjadi jenis energi apa untuk menghasilkan suara guntur?",
+    "option_a": "gravitasi",
+    "option_b": "mekanik",
+    "option_c": "nuklir",
+    "option_d": "radiasi"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_407314",
+    "answer": "A",
+    "instruction": "Siswa dari dua kelas melakukan investigasi yang sama. Setiap kelas mendapatkan hasil yang berbeda. Metode terbaik apa yang dapat digunakan siswa untuk mengetahui mengapa hasilnya berbeda?",
+    "option_a": "Ulas langkah-langkah yang diambil selama investigasi.",
+    "option_b": "Ubah hipotesis investigasi.",
+    "option_c": "Cari data pada investigasi serupa.",
+    "option_d": "Lakukan investigasi yang berbeda."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_406781",
+    "answer": "C",
+    "instruction": "Interaksi antara binatang mana yang paling baik mengendalikan populasi suatu spesies?",
+    "option_a": "binatang liar menandai wilayahnya",
+    "option_b": "ikan remora bepergian dengan hiu",
+    "option_c": "singa memburu zebra",
+    "option_d": "serigala berkelompok melakukan perjalanan"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400845",
+    "answer": "B",
+    "instruction": "Petir dapat menghasilkan semua jenis energi berikut kecuali",
+    "option_a": "energi panas.",
+    "option_b": "energi surya.",
+    "option_c": "energi cahaya.",
+    "option_d": "energi listrik."
+  },
+  {
+    "id": "ARC-Challenge/validation/ACTAAP_2009_5_5",
+    "answer": "B",
+    "instruction": "Janet diberi beberapa mineral untuk diidentifikasi. Salah satu sampelnya berwarna kuning. Mineral yang paling mungkin berwarna kuning adalah yang mana?",
+    "option_a": "Talk",
+    "option_b": "Sulfur",
+    "option_c": "Gypsum",
+    "option_d": "Hematite"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7171938",
+    "answer": "D",
+    "instruction": "Pasang surut laut bumi sangat dipengaruhi oleh Bulan. Pada fase-fase bulan mana pasang surut laut paling rendah di bumi?",
+    "option_a": "purnama dan seperempat pertama",
+    "option_b": "purnama dan bayangan",
+    "option_c": "seperempat terakhir dan bayangan",
+    "option_d": "seperempat pertama dan terakhir"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415354",
+    "answer": "C",
+    "instruction": "Perilaku mana yang dipelajari oleh lumba-lumba?",
+    "option_a": "memakan ikan kecil",
+    "option_b": "berenang di air asin",
+    "option_c": "menyeimbangkan bola di hidungnya",
+    "option_d": "menghirup udara melalui lubang kupingnya"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_17",
+    "answer": "C",
+    "instruction": "Ciri yang paling mungkin akan diwarisi oleh seekor kucing dari orang tuanya adalah?",
+    "option_a": "memiliki bekas luka",
+    "option_b": "mengejar mainan",
+    "option_c": "memiliki bulu putih",
+    "option_d": "mengetahui namanya"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7251685",
+    "answer": "B",
+    "instruction": "Aktivitas yang paling efektif untuk memastikan fungsi yang tepat dari osteosit?",
+    "option_a": "meningkatkan laju pernapasan",
+    "option_b": "mengonsumsi makanan yang kaya mineral",
+    "option_c": "mengurangi olahraga yang menekan",
+    "option_d": "minum air bebas ion"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7267995",
+    "answer": "C",
+    "instruction": "Beberapa jenis tumbuhan dan hewan saling bergantung satu sama lain. Hewan mana yang membantu ribuan jenis tumbuhan untuk bereproduksi?",
+    "option_a": "tupai",
+    "option_b": "cacing tanah",
+    "option_c": "lebah madu",
+    "option_d": "kumbang"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7193043",
+    "answer": "B",
+    "instruction": "Tanaman non-asli dapat mengambil alih area yang dulunya dihuni oleh spesies tanaman asli. Proses abiotik mana yang paling tidak mungkin menyebabkan invasi tanaman non-asli?",
+    "option_a": "banjir",
+    "option_b": "pelapukan",
+    "option_c": "badai debu",
+    "option_d": "lereng es mencair"
+  },
+  {
+    "id": "ARC-Challenge/validation/VASoL_2008_5_28",
+    "answer": "C",
+    "instruction": "Kapal selam telah menjelajahi banyak bagian dari samudra. Saat kapal selam turun, para ilmuwan mengamati bahwa ada peningkatan pada -",
+    "option_a": "jumlah cahaya",
+    "option_b": "suhu air",
+    "option_c": "tekanan air",
+    "option_d": "jenis organisme laut"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7154263",
+    "answer": "B",
+    "instruction": "Fitoplankton adalah organisme mikroskopik seperti tumbuhan yang mengambang di air misalnya di laut. Mereka menyerap karbondioksida selama proses fotosintesis. Apa yang kemungkinan besar terjadi jika populasi fitoplankton dihancurkan?",
+    "option_a": "Suhu laut akan menurun.",
+    "option_b": "Gas rumah kaca akan meningkat.",
+    "option_c": "Oksigen atmosfer akan meningkat.",
+    "option_d": "Permukaan laut akan menurun secara drastis."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7032743",
+    "answer": "C",
+    "instruction": "Karakteristik cheetah yang lebih mungkin dipelajari daripada diwariskan adalah yang mana?",
+    "option_a": "kecepatan",
+    "option_b": "bulu berbintik-bintik",
+    "option_c": "strategi berburu",
+    "option_d": "cakar yang tidak dapat ditarik"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_19",
+    "answer": "B",
+    "instruction": "Saat anak kucing tumbuh menjadi kucing dewasa, biasanya berat badannya",
+    "option_a": "menurun",
+    "option_b": "meningkat",
+    "option_c": "tetap sama"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7115273",
+    "answer": "C",
+    "instruction": "Lembab besar alga di permukaan danau menghambat faktor abiotik apa yang mencapai dasar?",
+    "option_a": "air",
+    "option_b": "garam",
+    "option_c": "cahaya",
+    "option_d": "oksigen"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7205555",
+    "answer": "A",
+    "instruction": "Air memiliki banyak sifat kimia yang unik. Sifat apa dari air yang membuat air menjadi pelarut garam kristal?",
+    "option_a": "polaritas yang kuat",
+    "option_b": "konduktivitas yang lemah",
+    "option_c": "viskositas yang tinggi",
+    "option_d": "pH yang rendah"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7192990",
+    "answer": "A",
+    "instruction": "Kebakaran hutan terjadi di banyak daerah karena kondisi kekeringan. Jika kondisi kekeringan berlanjut untuk jangka waktu yang lama, yang mungkin menyebabkan ancaman terhadap kembalinya populasi pohon?",
+    "option_a": "penurunan tebalnya tanah",
+    "option_b": "penurunan jumlah erosi",
+    "option_c": "peningkatan populasi bakteri",
+    "option_d": "peningkatan produksi oksigen"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_408859",
+    "answer": "A",
+    "instruction": "Buaya Amerika sering ditemukan di daerah basah Florida. Mereka dikenal memakan katak, kura-kura, ikan, tikus, dan burung. Peran apa yang dimainkan oleh buaya Amerika dalam ekosistemnya?",
+    "option_a": "konsumen",
+    "option_b": "pengurai",
+    "option_c": "petarung",
+    "option_d": "produsen"
+  },
+  {
+    "id": "ARC-Challenge/validation/TIMSS_2007_4_pg90",
+    "answer": "C",
+    "instruction": "Sue mengukur seberapa banyak gula yang dapat larut dalam satu cangkir air dingin, satu cangkir air hangat, dan satu cangkir air panas. Apa yang kemungkinan besar ia amati?",
+    "option_a": "Air dingin melarutkan gula paling banyak.",
+    "option_b": "Air hangat melarutkan gula paling banyak.",
+    "option_c": "Air panas melarutkan gula paling banyak.",
+    "option_d": "Air dingin, air hangat, dan air panas semuanya melarutkan jumlah gula yang sama."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_180058",
+    "answer": "A",
+    "instruction": "Fosil yang ditemukan di Colorado berasal dari awal Era Mesozoikum. Setahun kemudian fosil serupa ditemukan di Wyoming yang juga berasal dari awal Era Mesozoikum. Dua organisme ini kemungkinan hidup di",
+    "option_a": "lingkungan yang sama pada waktu yang hampir sama.",
+    "option_b": "lingkungan yang sama pada waktu yang berbeda.",
+    "option_c": "lingkungan yang berbeda pada waktu yang hampir sama.",
+    "option_d": "lingkungan yang berbeda pada waktu yang berbeda."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400050",
+    "answer": "C",
+    "instruction": "Apa yang terjadi ketika suhu di dalam rumah lebih dingin dibanding suhu yang dipilih di termostat?",
+    "option_a": "Pemanas akan mengalami overheat.",
+    "option_b": "Termostat akan menjadi panas.",
+    "option_c": "Pemanas akan secara otomatis menyala.",
+    "option_d": "Termostat akan memberikan suara beeping."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_1998_8_13",
+    "answer": "D",
+    "instruction": "Masalah kontroversial utama yang tidak terkait dengan penggunaan tenaga nuklir adalah yang mana?",
+    "option_a": "pembuangan limbah nuklir",
+    "option_b": "bahaya kesehatan di daerah sekitar pembangkit listrik nuklir",
+    "option_c": "polusi termal pada perairan yang digunakan untuk pendinginan",
+    "option_d": "pengangguran akibat konversi menjadi tenaga nuklir"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_4",
+    "answer": "A",
+    "instruction": "Bentuk zat yang tidak memiliki volume dan bentuk yang pasti adalah?",
+    "option_a": "gas",
+    "option_b": "cair",
+    "option_c": "padat"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7233678",
+    "answer": "A",
+    "instruction": "Para ilmuwan percaya bahwa pergeseran benua selama sejarah geologis Bumi memiliki dampak signifikan pada siklus iklim Bumi yang lebih hangat dan lebih dingin. Pernyataan manakah yang menggambarkan karakteristik benua Bumi yang paling mungkin menyebabkan perubahan iklim global saat benua-benua tersebut bergeser?",
+    "option_a": "Lokasi benua memengaruhi reflektivitas permukaannya.",
+    "option_b": "Kedalaman lempeng benua menentukan kalor spesifiknya.",
+    "option_c": "Pergeseran benua menyerap jumlah energi kinetik yang besar.",
+    "option_d": "Suhu benua dipengaruhi oleh samudra terdekatnya."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_LBS10666",
+    "answer": "B",
+    "instruction": "Tanaman biasanya tidak perlu memakan organisme lain karena tanaman",
+    "option_a": "tidak membutuhkan energi makanan untuk hidup.",
+    "option_b": "mengubah sinar matahari menjadi energi makanan.",
+    "option_c": "mendapatkan seluruh energi makanan mereka dari tanah.",
+    "option_d": "menyimpan energi makanan di dalam akar mereka."
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_8_38",
+    "answer": "A",
+    "instruction": "Sebuah zat dalam fase padat memiliki",
+    "option_a": "bentuk dan volume yang pasti",
+    "option_b": "bentuk yang pasti, tetapi tidak ada volume yang pasti",
+    "option_c": "tidak memiliki bentuk yang pasti, tetapi memiliki volume yang pasti",
+    "option_d": "tidak memiliki bentuk maupun volume yang pasti"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2004_8_28",
+    "answer": "A",
+    "instruction": "Bagaimana sifat-sifat yang dapat diukur dari bola golf akan berubah jika dipindahkan dari Bumi ke Bulan?",
+    "option_a": "Bola tersebut akan memiliki massa yang sama, tetapi berat yang berbeda.",
+    "option_b": "Bola tersebut akan memiliki berat yang sama, tetapi massa yang berbeda.",
+    "option_c": "Bola tersebut akan memiliki densitas yang sama, tetapi massa yang berbeda.",
+    "option_d": "Bola tersebut akan memiliki massa yang sama, tetapi densitas yang berbeda."
+  },
+  {
+    "id": "ARC-Challenge/validation/LEAP__7_10354",
+    "answer": "D",
+    "instruction": "Guru sains Joanne memperingatkan kelas untuk bersikap skeptis saat belajar tentang penemuan sains baru. Mengapa penting untuk bersikap skeptis tentang penemuan baru dalam ilmu pengetahuan?",
+    "option_a": "karena banyak penemuan sains tidak didasarkan pada fakta",
+    "option_b": "karena kebanyakan penemuan sains tidak memiliki nilai ilmiah",
+    "option_c": "karena kebanyakan ilmuwan melakukan kesalahan saat merumuskan penemuan sains",
+    "option_d": "karena semua penemuan sains harus diperiksa secara kritis sebelum dapat diterima"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2003_8_25",
+    "answer": "B",
+    "instruction": "Dalam sebuah mobil, komponen berikut yang mana yang didesain khusus untuk memberikan umpan balik kepada pengemudi?",
+    "option_a": "roda kemudi",
+    "option_b": "speedometer",
+    "option_c": "pedal rem",
+    "option_d": "kunci mobil"
+  },
+  {
+    "id": "ARC-Challenge/validation/TIMSS_2011_8_pg63",
+    "answer": "C",
+    "instruction": "Yang mana dari berikut yang mendefinisikan senyawa?",
+    "option_a": "berbagai zat dicampur bersama",
+    "option_b": "atom dan molekul dicampur bersama",
+    "option_c": "atom unsur yang berbeda digabungkan bersama",
+    "option_d": "atom unsur yang sama digabungkan bersama"
+  },
+  {
+    "id": "ARC-Challenge/validation/AIMS_2009_4_29",
+    "answer": "D",
+    "instruction": "Sebuah kulkas menggunakan listrik untuk menciptakan tempat dingin untuk menyimpan makanan. Dampak negatif apa yang dimiliki penggunaan kulkas terhadap lingkungan?",
+    "option_a": "Listrik yang diperlukan untuk menjaga makanan dingin dapat mahal.",
+    "option_b": "Jika listrik padam, makanan akan membusuk dan membuat Anda sakit.",
+    "option_c": "Menyimpan makanan lebih lama mengurangi perjalanan ke toko bahan makanan dan penggunaan bensin.",
+    "option_d": "Kulkas lama mengandung bahan kimia dan memenuhi ruang di tempat pembuangan sampah."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_LBS10472",
+    "answer": "B",
+    "instruction": "Tumbuhan memiliki jaringan khusus di ujung batang mereka. Apa yang dilakukan jaringan tersebut membantu tumbuhan lakukan?",
+    "option_a": "mencerna makanan",
+    "option_b": "tumbuh lebih tinggi",
+    "option_c": "membuat makanan",
+    "option_d": "menyerap air"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415491",
+    "answer": "C",
+    "instruction": "Bumi mengitari Matahari sekali setahun. Sekitar berapa kali bulan mengitari Bumi dalam setahun?",
+    "option_a": "1",
+    "option_b": "7",
+    "option_c": "13",
+    "option_d": "28"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2011_5_17673",
+    "answer": "A",
+    "instruction": "Jose memiliki dua magnet batang. Dia mendorong ujung kedua magnet bersama-sama dan kemudian melepaskannya. Magnet bergerak menjauh dengan cepat. Pernyataan di bawah ini yang terbaik menjelaskan mengapa ini terjadi?",
+    "option_a": "Kutub utara kedua magnet saling menghadap.",
+    "option_b": "Satu magnet adalah kutub utara dan satu magnet adalah kutub selatan.",
+    "option_c": "Ujung magnet saling tolak tetapi pusat saling tarik.",
+    "option_d": "Satu magnet menyimpan energi dan satu magnet melepaskan energi."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_416648",
+    "answer": "A",
+    "instruction": "Paramecium dan volvox keduanya dapat bereproduksi secara seksual. Bagaimana reproduksi seksual pada volvox berbeda dengan reproduksi seksual pada paramecium?",
+    "option_a": "Kolon volvox memproduksi gamet.",
+    "option_b": "Sel volvox mengalami konjugasi.",
+    "option_c": "Kolon volvox memproduksi keturunan sel satu sel.",
+    "option_d": "Sel volvox bereproduksi dengan tunas vegetatif."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7207620",
+    "answer": "A",
+    "instruction": "Beberapa alat merekam tingkat oksigen di lapisan ozon atmosfer Bumi. Menjaga catatan data ini selama bertahun-tahun adalah contoh dari",
+    "option_a": "membangun bukti melalui investigasi yang berlangsung terus-menerus.",
+    "option_b": "mengidentifikasi hipotesis yang mendukung data.",
+    "option_c": "membuat kesimpulan tentang bukti dari hasil.",
+    "option_d": "mengusulkan data yang mudah dipahami."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7164850",
+    "answer": "A",
+    "instruction": "Kelas sains merancang poster untuk menunjukkan bagaimana pulau penghalang di sepanjang pantai Florida terbentuk. Para siswa menunjukkan efek angin, gelombang, dan pasang surut pada pasir yang membentuk pulau-pulau tersebut. Pada poster tersebut, pasangan sistem yang paling mempengaruhi pembentukan pulau penghalang adalah?",
+    "option_a": "hidrosfera dan atmosfer",
+    "option_b": "atmosfer dan litosfera",
+    "option_c": "biosfera dan hidrosfera",
+    "option_d": "litosfera dan biosfera"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7011270",
+    "answer": "B",
+    "instruction": "Berapa lama waktu yang dibutuhkan Bulan untuk melakukan satu revolusi mengelilingi Bumi?",
+    "option_a": "7 hari",
+    "option_b": "30 hari",
+    "option_c": "90 hari",
+    "option_d": "365 hari"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7090598",
+    "answer": "C",
+    "instruction": "Proses yang melibatkan transfer energi termal yang besar adalah?",
+    "option_a": "erosi",
+    "option_b": "sedimentasi",
+    "option_c": "subduksi",
+    "option_d": "semenasi"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_412337",
+    "answer": "D",
+    "instruction": "Saat investigasi, panas berpindah dari cairan ke lingkungan. Pasangan penjelasan mana yang paling tepat untuk hasil ini?",
+    "option_a": "Suhu cairan meningkat, atau cairan menjadi gas.",
+    "option_b": "Suhu cairan meningkat, atau cairan menjadi padat.",
+    "option_c": "Suhu cairan menurun, atau cairan menjadi gas.",
+    "option_d": "Suhu cairan menurun, atau cairan menjadi padat."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_1998_8_2",
+    "answer": "C",
+    "instruction": "Struktur sel yang membuat sel tumbuhan lebih kaku daripada sel hewan adalah",
+    "option_a": "membran sel.",
+    "option_b": "sitoplasma.",
+    "option_c": "dinding sel.",
+    "option_d": "ribosom."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7124338",
+    "answer": "D",
+    "instruction": "Seorang ilmuwan akan sangat terbantu dengan pikiran yang penuh dengan pertanyaan karena hal tersebut akan membawa ilmuwan untuk",
+    "option_a": "menjadi lebih kreatif.",
+    "option_b": "tidak percaya pada hasil kerja ilmuwan lain.",
+    "option_c": "bekerja untuk menerima hipotesis yang telah dipublikasikan.",
+    "option_d": "melakukan penelitian untuk mengonfirmasi atau membantah teori."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_405454",
+    "answer": "D",
+    "instruction": "Alat memasak mana yang paling sedikit mengubah lingkungan?",
+    "option_a": "grill gas",
+    "option_b": "wajan penggorengan listrik",
+    "option_c": "oven microwave",
+    "option_d": "kompor tenaga surya"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7007875",
+    "answer": "B",
+    "instruction": "Yang bertanggung jawab dalam menciptakan angin?",
+    "option_a": "gerakan gelombang",
+    "option_b": "energi matahari",
+    "option_c": "pohon berayun",
+    "option_d": "gayagravitasi"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_417146",
+    "answer": "A",
+    "instruction": "Sebagian besar oksigen dalam atmosfer dibuat oleh alga. Di mana sebagian besar alga hidup?",
+    "option_a": "laut pantai",
+    "option_b": "laut dalam",
+    "option_c": "kolam",
+    "option_d": "danau"
+  },
+  {
+    "id": "ARC-Challenge/validation/LEAP_2004_8_10397",
+    "answer": "B",
+    "instruction": "Ketika manusia berjalan di Bulan, mereka menemukan bahwa mereka bisa melompat lebih tinggi daripada di Bumi. Kenapa hal ini terjadi?",
+    "option_a": "Tidak ada atmosfer di Bulan.",
+    "option_b": "Bulan memiliki gaya gravitasi yang lebih rendah daripada Bumi.",
+    "option_c": "Pakaian antariksa membantu mereka melompat lebih tinggi.",
+    "option_d": "Bulan berotasi lebih cepat daripada Bumi."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_407695",
+    "answer": "D",
+    "instruction": "Juan dan LaKeisha menggulingkan beberapa objek di atas sebuah landasan. Mereka ingin melihat objek mana yang terguling paling jauh. Apa yang harus mereka lakukan agar mereka dapat mengulangi penyelidikan mereka?",
+    "option_a": "Mengelompokkan objek-objek tersebut.",
+    "option_b": "Mengubah tinggi landasan.",
+    "option_c": "Memilih objek yang berbeda untuk digulingkan.",
+    "option_d": "Mencatat detail dari penyelidikan."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7158673",
+    "answer": "D",
+    "instruction": "Ana adalah pelari lintas alam. Setelah menyelesaikan perlombaan, dia menyadari merasa panas karena pelepasan energi termal. Sumber energi termal yang paling mungkin adalah yang mana?",
+    "option_a": "gesekan dari udara",
+    "option_b": "penyerapan panas dari matahari",
+    "option_c": "energi mekanik yang diserap",
+    "option_d": "konversi energi yang terjadi di dalam tubuhnya"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7018515",
+    "answer": "C",
+    "instruction": "Alasan yang paling mungkin mengapa suara merambat lebih cepat di air laut daripada di air tawar adalah karena air laut",
+    "option_a": "lebih elastis.",
+    "option_b": "menyerap panas lebih cepat.",
+    "option_c": "memiliki densitas yang lebih tinggi.",
+    "option_d": "memantulkan suara dengan lebih baik."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_412551",
+    "answer": "D",
+    "instruction": "Burung hantu serak memiliki dua variasi warna: merah dan abu-abu. Apa keuntungan yang dimiliki oleh burung hantu serak berwarna abu-abu dibandingkan burung hantu serak berwarna merah pada habitat yang terdiri dari pohon dengan kulit kayu berwarna gelap?",
+    "option_a": "Pembiakan",
+    "option_b": "Pengasuhan",
+    "option_c": "Pembiakan",
+    "option_d": "Pengelapan"
+  },
+  {
+    "id": "ARC-Challenge/validation/VASoL_2008_5_19",
+    "answer": "D",
+    "instruction": "Tiga pemain bisbol menyelidiki siapa yang bisa melempar bola bisbol paling jauh. Mereka menandai area di lapangan bermain untuk penyelidikan mereka. Apa yang harus mereka pertahankan sebagai konstan?",
+    "option_a": "Tinggi pemain",
+    "option_b": "Warna bola bisbol yang dilempar",
+    "option_c": "Urutan pemain melempar",
+    "option_d": "Tempat dari mana pemain melempar"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7120890",
+    "answer": "A",
+    "instruction": "Mana yang paling baik untuk menunjukkan bahwa gelombang mentransfer energi?",
+    "option_a": "sebuah lonceng berdentang di menara",
+    "option_b": "sehelai daun jatuh dari pohon",
+    "option_c": "sebuah bola bergulir ke bawah bukit",
+    "option_d": "sebuah bendera bergerak dalam angin"
+  },
+  {
+    "id": "ARC-Challenge/validation/AKDE&ED_2008_8_44",
+    "answer": "A",
+    "instruction": "Karakteristik mana yang hanya dimiliki oleh hewan dalam satu kelompok taksonomi berikut: reptil, mamalia, burung, amfibi, atau ikan?",
+    "option_a": "memiliki bulu",
+    "option_b": "bertelur",
+    "option_c": "memiliki kaki berselaput",
+    "option_d": "bernafas dengan insang"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415348",
+    "answer": "D",
+    "instruction": "Karakteristik warisan dari pohon adalah yang mana?",
+    "option_a": "cabang yang patah pada pohon pinus",
+    "option_b": "lubang pada pohon ek",
+    "option_c": "bekas luka pada pohon maple",
+    "option_d": "batang yang tebal pada pohon pecan"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7014368",
+    "answer": "C",
+    "instruction": "Arus pantai yang panjang adalah gelombang laut yang menghantam pantai dengan sudut yang sangat kecil. Di daerah mana arus pantai yang panjang berada, efek apa yang dimilikinya pada area daratan?",
+    "option_a": "Mereka membangun gunung-gunung.",
+    "option_b": "Mereka menyebabkan gempa bumi.",
+    "option_c": "Mereka memindahkan pasir, menciptakan landak pasir.",
+    "option_d": "Mereka menciptakan sungai air asin di daratan."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7245193",
+    "answer": "C",
+    "instruction": "Sebuah area pedesaan dibersihkan sampai ke batuan untuk melakukan konstruksi jalan, namun jalan itu tidak pernah dibangun. Area tersebut mulai tumbuh kembali. Organisme mana yang paling mungkin muncul kembali terlebih dahulu?",
+    "option_a": "pohon",
+    "option_b": "semak belukar",
+    "option_c": "lichen dan lumut",
+    "option_d": "rumput liar dan crabgrass"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7251668",
+    "answer": "D",
+    "instruction": "Populasi daphnia menunjukkan migrasi vertikal dari dasar kolam yang berkedalaman satu meter pada siang hari ke permukaan kolam pada malam hari. Faktor apa yang paling mungkin memengaruhi populasi daphnia?",
+    "option_a": "pH air",
+    "option_b": "kejernihan air",
+    "option_c": "tekanan air",
+    "option_d": "suhu air"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2013_8_29421",
+    "answer": "A",
+    "instruction": "Ketika keringat seseorang menguap, orang tersebut merasa lebih dingin. Pernyataan mana di bawah ini yang paling baik menggambarkan mengapa berkeringat membantu seseorang merasa sejuk?",
+    "option_a": "Panas diserap oleh keringat saat menguap.",
+    "option_b": "Panas diserap oleh tubuh saat keringat menguap.",
+    "option_c": "Suhu air dalam keringat turun saat menguap.",
+    "option_d": "Suhu air dalam tubuh meningkat saat keringat menguap."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7082145",
+    "answer": "D",
+    "instruction": "Bagaimana grafik garis harus digunakan untuk menampilkan data jarak dan waktu untuk objek yang bergerak?",
+    "option_a": "Sumbu y harus diberi label sebagai waktu, yang merupakan variabel tergantung.",
+    "option_b": "Sumbu y harus diberi label sebagai jarak, yang merupakan variabel independen.",
+    "option_c": "Sumbu x harus diberi label sebagai jarak, yang merupakan variabel tergantung.",
+    "option_d": "Sumbu x harus diberi label sebagai waktu, yang merupakan variabel independen."
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2007_5_39",
+    "answer": "D",
+    "instruction": "Siswa sedang mempelajari sumber daya alam di Maryland. Satu kelompok siswa meneliti informasi tentang sumber daya alam terbarukan di negara itu. Kelompok lain meneliti informasi tentang sumber daya alam tak terbarukan di negara itu. Sumber daya yang diteliti siswa termasuk tumbuhan, hewan, tanah, mineral, air, batu bara, dan minyak. Kegiatan manusia berikut yang mana yang berdampak negatif pada sumber daya alam tersebut?",
+    "option_a": "mencari ikan di sebuah danau",
+    "option_b": "menggunakan air untuk menghasilkan listrik",
+    "option_c": "menanam tanaman asli di sepanjang tepi danau",
+    "option_d": "mengarahkan limpasan air dari lahan pertanian ke dalam danau"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_22",
+    "answer": "A",
+    "instruction": "Bulu beberapa hewan menjadi lebih tebal di musim dingin dan rontok di musim semi. Pengamatan ini menunjukkan bagaimana hewan-hewan tersebut",
+    "option_a": "merespon perubahan di lingkungan",
+    "option_b": "bergerak dari tempat ke tempat untuk bertahan hidup",
+    "option_c": "menyimpan lemak untuk musim dingin",
+    "option_d": "bertanding dengan hewan lain untuk mencari makanan"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7006790",
+    "answer": "B",
+    "instruction": "Penjelasan manakah di bawah ini yang paling tepat untuk menjelaskan penyebab jendela bergetar saat badai petir?",
+    "option_a": "energi listrik",
+    "option_b": "energi suara",
+    "option_c": "energi cahaya",
+    "option_d": "energi panas"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7284043",
+    "answer": "C",
+    "instruction": "Gajah di savana Afrika makan semak-semak dan pohon-pohon kecil. Perilaku ini membersihkan lahan dan memungkinkan rumput tumbuh. Hewan pakan seperti kijang memakan rumput. Singa memburu kijang. Organisme apa yang berada dalam hubungan yang paling kooperatif di dalam skenario ini?",
+    "option_a": "gajah dan semak-semak",
+    "option_b": "semak-semak dan singa",
+    "option_c": "gajah dan kijang",
+    "option_d": "kijang dan singa"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7175455",
+    "answer": "D",
+    "instruction": "Di Australia, suhu tengah hari dapat mencapai lebih dari 110°F (43°C). Agar tetap dingin, kanguru menjilat tangannya, melapisi dengan lapisan air liur yang tebal. Ketika air liur menguap, itu bertindak sebagai mekanisme pendinginan dan menurunkan suhu tubuh kanguru. Istilah mana yang paling tepat menggambarkan aktivitas ini?",
+    "option_a": "seleksi alam",
+    "option_b": "mekanisme pertahanan",
+    "option_c": "adaptasi struktural",
+    "option_d": "adaptasi perilaku"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_401714",
+    "answer": "B",
+    "instruction": "Dalam eksperimen laboratorium, siswa sedang menguji identitas serbuk yang tidak diketahui. Metode mana yang paling cocok untuk memindahkan serbuk ke timbangan?",
+    "option_a": "Sapukan dengan sikat ke kertas transfer",
+    "option_b": "Timbang dengan spatula laboratorium ke kertas transfer",
+    "option_c": "Cubit dengan jari dan angkat ke kertas transfer",
+    "option_d": "Tuangkan dari botol ke kertas transfer"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_409529",
+    "answer": "B",
+    "instruction": "Robert adalah seorang nelayan yang ingin menemukan cara untuk menangkap lebih banyak ikan. Dia memutuskan untuk mencoba ukuran kail yang berbeda. Robert menangkap 4 ikan lele, 3 ikan trout, dan 7 ikan gabus saat menggunakan cacing sebagai umpan. Variabel bebas (dimanipulasi) yang mana yang digunakan dalam investigasi Robert?",
+    "option_a": "jenis umpan",
+    "option_b": "ukuran kail",
+    "option_c": "jenis ikan yang ditangkap",
+    "option_d": "jumlah ikan yang ditangkap"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7223038",
+    "answer": "C",
+    "instruction": "Terdapat banyak ukuran dan warna bintang. Mana yang paling cocok untuk mendeskripsikan kategori di mana Matahari akan ditempatkan?",
+    "option_a": "bintang super raksasa biru",
+    "option_b": "bintang raksasa merah",
+    "option_c": "bintang urutan utama kuning",
+    "option_d": "bintang katai putih"
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2008_5_24",
+    "answer": "C",
+    "instruction": "Banyak sumber daya alam ditemukan di Maryland dan daerah sekitarnya. Beberapa sumber daya alam ini dapat diperbarui dan ada yang tidak dapat diperbarui. Orang menggunakan kedua jenis sumber daya dalam aktivitas sehari-hari. Penggunaan sumber daya alam seringkali menghasilkan produk limbah. Pusat daur ulang tempat orang mengambil bahan yang dapat digunakan kembali untuk membuat produk baru. Bagaimana daur ulang kertas berdampak positif pada lingkungan?",
+    "option_a": "mengurangi polusi udara",
+    "option_b": "meningkatkan erosi tanah",
+    "option_c": "mengurangi pohon yang ditebang",
+    "option_d": "meningkatkan penghancuran habitat"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2010_5_11998",
+    "answer": "A",
+    "instruction": "Bunga kembang kebun adalah jenis tanaman rambat yang memanjat pohon dan pagar. Yang mana dari perilaku berikut ini yang paling membantu tanaman bunga kembang kebun merambat di pagar?",
+    "option_a": "Batang yang melengkung sebagai respons terhadap sentuhan",
+    "option_b": "Batang yang membengkak sebagai respons terhadap air",
+    "option_c": "Bunga yang mekar sebagai respons terhadap cahaya",
+    "option_d": "Akar yang tumbuh sebagai respons terhadap gravitasi"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7139493",
+    "answer": "B",
+    "instruction": "Apa yang kemungkinan paling bertanggung jawab atas kemampuan kutu kecil untuk bertahan hidup dari penggunaan insektisida yang berulang?",
+    "option_a": "keragaman spesies",
+    "option_b": "keragaman genetik",
+    "option_c": "keragaman ekosistem",
+    "option_d": "keragaman populasi"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_14",
+    "answer": "A",
+    "instruction": "Panel surya digunakan untuk menyerap sinar matahari. Panel berwarna apa yang akan menyerap sinar matahari paling banyak?",
+    "option_a": "hitam",
+    "option_b": "hijau",
+    "option_c": "putih",
+    "option_d": "kuning"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2006_9_35",
+    "answer": "A",
+    "instruction": "Kondisi genetik berikut ini yang disebabkan oleh masalah pada segregasi adalah yang mana?",
+    "option_a": "Trisomi 16: sebuah kondisi yang terjadi ketika zigot menerima tiga salinan kromosom 16.",
+    "option_b": "Penyakit Huntington: sebuah kondisi yang terjadi ketika zigot menerima alel dominan bermutasi.",
+    "option_c": "Hemofilia: sebuah kondisi yang terjadi ketika zigot menerima kromosom X dengan alel resesif tertentu.",
+    "option_d": "Anemia sel sabit: sebuah kondisi yang terjadi ketika zigot menerima alel resesif untuk hemoglobin dari kedua orang tua."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2015_8_7",
+    "answer": "B",
+    "instruction": "Seorang siswa memanaskan dua panci air di atas kompor dengan menggunakan pengaturan tertinggi. Satu panci berisi 1 L air dan panci lainnya berisi 3 L air. Siswa memanaskan masing-masing panci hingga air mendidih. Pernyataan manakah yang paling menjelaskan apa yang terjadi pada air dalam panci?",
+    "option_a": "Air dalam kedua panci mendidih pada saat yang sama.",
+    "option_b": "Air dalam kedua panci mendidih pada suhu yang sama.",
+    "option_c": "3 L air menjadi lebih panas daripada 1 L air sebelum mendidih.",
+    "option_d": "3 L air menyerap panas lebih cepat daripada 1 L air."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7115063",
+    "answer": "A",
+    "instruction": "Manakah dari yang berikut yang paling mungkin mengganggu ekosistem lahan basah?",
+    "option_a": "pembangunan sebuah perumahan",
+    "option_b": "penanaman bunga liar asli",
+    "option_c": "periode hujan lebat",
+    "option_d": "kilat yang menyambar"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7144795",
+    "answer": "D",
+    "instruction": "Sebuah habitat tertentu mengalami banyak perubahan dalam kondisi lingkungan selama 75 tahun terakhir. Yang manakah yang kemungkinan menjadi karakteristik spesies yang memiliki peluang terbaik untuk bertahan hidup dari perubahan lingkungan ini?",
+    "option_a": "populasi yang banyak individunya",
+    "option_b": "keanekaragaman spesies yang besar dalam komunitas saat ini",
+    "option_c": "adaptasi yang memungkinkan individu hidup di berbagai kondisi",
+    "option_d": "perilaku yang mendorong perkembangan adaptasi di lingkungan baru"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_400934",
+    "answer": "C",
+    "instruction": "Menurut tabel periodik unsur, mana dari kelompok unsur berikut memiliki sifat yang serupa?",
+    "option_a": "H, C, I",
+    "option_b": "He, H, Al",
+    "option_c": "He, Ne, Ar",
+    "option_d": "Na, Ca, Al"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7004410",
+    "answer": "B",
+    "instruction": "Salah satu keterbatasan jaring-jaring makanan dalam mewakili sebuah ekosistem adalah bahwa mereka tidak",
+    "option_a": "termasuk produsen dalam ekosistem.",
+    "option_b": "termasuk seluruh spesies dalam ekosistem.",
+    "option_c": "menunjukkan konsumen dalam ekosistem.",
+    "option_d": "menunjukkan hubungan predator-mangsa dalam ekosistem."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7029505",
+    "answer": "C",
+    "instruction": "Bagaimana jenis-jenis golongan darah berbeda satu sama lain dalam klasifikasi darah ABO?",
+    "option_a": "ukuran sel darah merah yang berbeda",
+    "option_b": "ukuran sel darah putih yang berbeda",
+    "option_c": "protei penanda yang berbeda pada sel darah merah",
+    "option_d": "protei penanda yang berbeda pada sel darah putih"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_LBS10598",
+    "answer": "A",
+    "instruction": "Sebuah kubus es mencair dan kemudian menguap. Kubus es dan uap air memiliki",
+    "option_a": "massa.",
+    "option_b": "densitas.",
+    "option_c": "volume.",
+    "option_d": "suhu."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7245893",
+    "answer": "B",
+    "instruction": "Bagian sistem pencernaan mana yang pertama kali menyebabkan perubahan kimia pada makanan?",
+    "option_a": "gigi di mulut",
+    "option_b": "air liur di mulut",
+    "option_c": "enzim di lambung",
+    "option_d": "enzim di usus kecil"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7246925",
+    "answer": "D",
+    "instruction": "Leusin adalah salah satu asam amino yang diperlukan oleh tubuh tetapi tidak dapat diproduksi. Apa yang terjadi sehingga tubuh manusia dapat memperoleh leusin?",
+    "option_a": "Tubuh mengubah asam amino lain menjadi leusin.",
+    "option_b": "Tubuh menyimpan karbohidrat yang mengandung leusin.",
+    "option_c": "Tubuh memecah asam lemak untuk memperoleh leusin.",
+    "option_d": "Tubuh mencerna protein dalam makanan untuk memperoleh leusin."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7138688",
+    "answer": "D",
+    "instruction": "Prosedur mana yang terbaik untuk menentukan apakah suatu investigasi ilmiah valid?",
+    "option_a": "mencatat kondisi peralatan yang digunakan dalam prosedur",
+    "option_b": "melakukan investigasi dengan sekelompok orang",
+    "option_c": "melakukan prosedur secara teliti satu kali",
+    "option_d": "mengulangi investigasi beberapa kali"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_408700",
+    "answer": "C",
+    "instruction": "Emily membuat segelas teh dan mengaduknya dengan sendok. Sendok menjadi panas. Bagaimana panas dari teh ditransfer ke sendok?",
+    "option_a": "konveksi",
+    "option_b": "radiasi",
+    "option_c": "konduksi",
+    "option_d": "penguapan"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7100608",
+    "answer": "B",
+    "instruction": "Keluarga Michael sedang membangun rumah baru. Mereka ingin menggunakan listrik yang dihasilkan dari sumber daya terbarukan. Sumber daya listrik yang manakah yang akan membantu keluarga mencapai tujuannya?",
+    "option_a": "mesin bensin",
+    "option_b": "panel surya atap",
+    "option_c": "pembangkit listrik batubara",
+    "option_d": "pembangkit listrik nuklir"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7133648",
+    "answer": "C",
+    "instruction": "Tugas di dapur mana yang merupakan contoh perubahan fisik?",
+    "option_a": "menggoreng telur",
+    "option_b": "memanggang kue",
+    "option_c": "melelehkan mentega",
+    "option_d": "memanggang roti"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_401244",
+    "answer": "D",
+    "instruction": "Batuan jenis apa yang paling berguna dalam mempelajari sejarah organisme hidup?",
+    "option_a": "basalt",
+    "option_b": "marmer",
+    "option_c": "granit",
+    "option_d": "batu kapur"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_400397",
+    "answer": "C",
+    "instruction": "Perilaku mana yang kemungkinan dipelajari beruang dari lingkungan tempat tinggalnya?",
+    "option_a": "minum air",
+    "option_b": "makan ikan",
+    "option_c": "membuka penutup tempat sampah",
+    "option_d": "melindungi anaknya"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7245088",
+    "answer": "D",
+    "instruction": "Apa yang menggambarkan komposisi karbohidrat?",
+    "option_a": "lipida bergabung untuk membentuk fosfolipida",
+    "option_b": "monomer bergabung untuk membentuk polimer",
+    "option_c": "asam amino bergabung untuk membentuk polipeptida",
+    "option_d": "sakarida bergabung untuk membentuk polisakarida"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_408809",
+    "answer": "C",
+    "instruction": "Pada tikus, spesies tertentu menunjukkan dominansi incompleteness dalam pewarnaan bulu. Anak tikus dari tikus hitam (BB) dan tikus putih (bb) adalah tikus abu-abu (Bb). Persilangan antara dua tikus abu-abu kemungkinan besar akan menghasilkan keturunan dengan presentase warna bulu yang berapa persen?",
+    "option_a": "25% hitam, 75% abu-abu",
+    "option_b": "25% abu-abu, 75% putih",
+    "option_c": "25% putih, 25% hitam, 50% abu-abu",
+    "option_d": "25% abu-abu, 25% hitam, 50% putih"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7068863",
+    "answer": "C",
+    "instruction": "Seorang siswa menyelidiki efek besi terhadap pertumbuhan tanaman. Empat tanaman identik menerima suplemen zat besi yang berbeda ketika disiram. Investigasi ini dapat ditingkatkan jika ada",
+    "option_a": "cacing tanah di dalam tanah.",
+    "option_b": "sedikit tanaman dalam percobaan.",
+    "option_c": "tanaman yang menerima air tanpa suplemen besi.",
+    "option_d": "tanaman yang menerima jumlah cahaya matahari yang berbeda."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7166880",
+    "answer": "D",
+    "instruction": "Clay sedang memperhatikan cuaca untuk mempersiapkan perjalanan ke pantai besok. Ramalan cuaca memprediksi bahwa sistem tekanan rendah akan datang semalam. Cuaca seperti apa yang paling mungkin diharapkan Clay di pagi hari?",
+    "option_a": "berkabut",
+    "option_b": "cerah",
+    "option_c": "cerah dan dingin",
+    "option_d": "berawan dan hujan"
+  },
+  {
+    "id": "ARC-Challenge/validation/ACTAAP_2007_7_25",
+    "answer": "A",
+    "instruction": "Mana yang bukan aturan keselamatan untuk laboratorium sains?",
+    "option_a": "Ukur cairan dengan akurat ke dalam gelas ukur.",
+    "option_b": "Jangan pernah memotong benda sambil memegangnya dengan tanganmu.",
+    "option_c": "Kenakan kaca mata pelindung saat menangani zat berbahaya.",
+    "option_d": "Saat mencium bau, ayunkan asap ke hidung Anda daripada menghadapkan wajah Anda ke sumbernya."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7018445",
+    "answer": "D",
+    "instruction": "Melalui bahan apa suara akan merambat dengan lebih cepat?",
+    "option_a": "kork",
+    "option_b": "air",
+    "option_c": "udara",
+    "option_d": "baja"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7033653",
+    "answer": "C",
+    "instruction": "Satuan yang terbaik untuk mengukur jarak antara Bumi dan sistem tata surya lain di alam semesta adalah?",
+    "option_a": "mil",
+    "option_b": "kilometer",
+    "option_c": "tahun cahaya",
+    "option_d": "satuan astronomi"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2006_5_29",
+    "answer": "D",
+    "instruction": "Empat batang dengan ketebalan sama tetapi terbuat dari logam yang berbeda diuji dengan bobot yang sama untuk melihat mana yang paling lentur. Mana dari berikut ini yang merupakan cara terbaik untuk melaporkan hasil dari eksperimen ini?",
+    "option_a": "daftar setiap jenis batang yang digunakan",
+    "option_b": "sketsa setiap batang sebelum diuji",
+    "option_c": "tabel yang menunjukkan berat masing-masing batang",
+    "option_d": "grafik batang yang menunjukkan seberapa banyak setiap batang yang membengkok"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7159268",
+    "answer": "A",
+    "instruction": "Setelah zaman es terakhir, pelelehan es di kutub dan pegunungan menyebabkan tingkat air samudra naik. Apa yang kemungkinan besar dihasilkan dari peningkatan tingkat air laut?",
+    "option_a": "peningkatan kandungan garam pada daerah rawa tepi yang sudah ada",
+    "option_b": "peningkatan jumlah organisme pada karang yang sudah ada",
+    "option_c": "pengurangan jumlah pasang setiap hari",
+    "option_d": "pengurangan kedalaman lantai samudra"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_400885",
+    "answer": "D",
+    "instruction": "Manakah persamaan kimia yang seimbang?",
+    "option_a": "2NaOH + CaBr_{2} -> Ca(OH)_{2} + NaBr",
+    "option_b": "NO + Cl_{2} -> NOCl",
+    "option_c": "CaCO_{3} -> CaO + 2CO_{2}",
+    "option_d": "2AlCl_{3} + 3Mg -> 3MgCl_{2} + 2Al"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7038273",
+    "answer": "A",
+    "instruction": "Saat melakukan eksperimen, seorang siswa mengumpulkan beberapa percobaan suhu air yang berbeda, dua pengukuran massa, dan tiga pengukuran volume. Yang manakah cara terbaik untuk mengorganisir data ini?",
+    "option_a": "dalam bentuk tabel",
+    "option_b": "dalam bentuk grafik",
+    "option_c": "dalam bentuk narasi tertulis",
+    "option_d": "diilustrasikan dengan gambar"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_407574",
+    "answer": "A",
+    "instruction": "Gas mana yang dilepaskan oleh produsen yang diambil oleh konsumen untuk bertahan hidup?",
+    "option_a": "oksigen",
+    "option_b": "nitrogen",
+    "option_c": "uap air",
+    "option_d": "karbon dioksida"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_1998_4_8",
+    "answer": "B",
+    "instruction": "Di mana letaknya PALING berbahaya untuk bekerja dengan alat-alat listrik?",
+    "option_a": "di dalam garasi",
+    "option_b": "di samping kolam renang",
+    "option_c": "dekat televisi atau komputer",
+    "option_d": "di ruang bawah tanah yang dingin"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7128695",
+    "answer": "C",
+    "instruction": "Seorang ilmuwan membuat penemuan saat melakukan investigasi, namun gagal untuk membuat catatan yang jelas mengenai tes yang dilakukan. Bagaimana kurangnya pencatatan dapat mempengaruhi pekerjaan seorang ilmuwan?",
+    "option_a": "Ini membuat prosedur dan kesimpulan tidak valid.",
+    "option_b": "Ini membuat data yang diperoleh dalam studi tidak benar.",
+    "option_c": "Ini mencegah ilmuwan lain memvalidasi hasil.",
+    "option_d": "Ini menghambat ilmuwan lain untuk mengembangkan hipotesis baru."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400178",
+    "answer": "C",
+    "instruction": "Campuran manakah yang dapat dipisahkan menjadi bahan-bahannya?",
+    "option_a": "keripik kentang",
+    "option_b": "kue coklat",
+    "option_c": "es buah",
+    "option_d": "telur dadar"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7189823",
+    "answer": "A",
+    "instruction": "Sebuah gunung berapi meletus dan menutup daerah sekitarnya dengan lava dan abu vulkanik. Saat ekosistem mulai pulih, jenis tumbuhan mana yang kemungkinan besar akan menjadi yang pertama menyebar di tanah di sekitar letusan?",
+    "option_a": "lumut",
+    "option_b": "bunga liar",
+    "option_c": "pohon keras",
+    "option_d": "semak hijau"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_412683",
+    "answer": "D",
+    "instruction": "Berapakah kecepatan gelombang dengan frekuensi 2 Hz dan panjang gelombang 10 m?",
+    "option_a": "5 m/s",
+    "option_b": "8 m/s",
+    "option_c": "12 m/s",
+    "option_d": "20 m/s"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_184258",
+    "answer": "A",
+    "instruction": "Karakteristik aliran berikut yang paling langsung mempengaruhi deposisi aliran?",
+    "option_a": "kemiringan",
+    "option_b": "ketinggian",
+    "option_c": "tingkat dasar",
+    "option_d": "kualitas air"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_192168",
+    "answer": "D",
+    "instruction": "Model ilmiah sangat umum. Untuk tujuan di bawah ini, model fisik paling tidak membantu?",
+    "option_a": "mensimulasikan fenomena ilmiah",
+    "option_b": "menyederhanakan ide kompleks",
+    "option_c": "memungkinkan visualisasi",
+    "option_d": "menampilkan data"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_LBS10399",
+    "answer": "D",
+    "instruction": "Sebuah mikroskop memperbesar objek dengan magnifikasi 50x. Berapa panjang objek jika gambarnya terlihat sepanjang 0,5 cm?",
+    "option_a": "100 cm",
+    "option_b": "25 cm",
+    "option_c": "2,5 cm",
+    "option_d": "0,01 cm"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7228603",
+    "answer": "C",
+    "instruction": "Hasil pertukaran bagian kromosom homolog selama proses meiosis menghasilkan yang mana dari berikut?",
+    "option_a": "mutasi acak",
+    "option_b": "pengurangan jumlah gamet",
+    "option_c": "keturunan dengan kombinasi sifat unik",
+    "option_d": "pengurangan jumlah alel pada setiap kromosom"
+  },
+  {
+    "id": "ARC-Challenge/validation/MEA_2013_5_3",
+    "answer": "D",
+    "instruction": "Matahari diklasifikasikan sebagai bintang. Karakteristik apa yang mengidentifikasi Matahari sebagai bintang?",
+    "option_a": "Matahari berputar pada sumbunya.",
+    "option_b": "Matahari terletak di luar galaksi Bima Sakti.",
+    "option_c": "Matahari adalah bagian dari Little Dipper.",
+    "option_d": "Matahari menghasilkan cahaya dan energi dalam reaksi nuklir."
+  },
+  {
+    "id": "ARC-Challenge/validation/NCEOGA_2013_8_38",
+    "answer": "C",
+    "instruction": "Di musim dingin, bulu rubah arktik berwarna putih. Di musim panas, bulu menjadi lebih gelap dan berwarna coklat kemerahan. Apa yang kemungkinan paling menyebabkan perubahan warna pada bulu rubah?",
+    "option_a": "jumlah cahaya matahari yang tersedia",
+    "option_b": "habitat rubah",
+    "option_c": "gen rubah",
+    "option_d": "umur rubah"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7221095",
+    "answer": "A",
+    "instruction": "Mana yang merupakan elemen abiotik dalam suatu ekosistem?",
+    "option_a": "curah hujan tahunan rata-rata dalam ekosistem",
+    "option_b": "jenis-jenis produsen yang ditemukan dalam ekosistem",
+    "option_c": "besarnya populasi predator dalam ekosistem",
+    "option_d": "mikroorganisme yang hidup di tanah ekosistem"
+  },
+  {
+    "id": "ARC-Challenge/validation/MEAP_2005_5_1",
+    "answer": "C",
+    "instruction": "Uap air ada di atmosfer sebagai ___.",
+    "option_a": "gas yang terlihat",
+    "option_b": "cairan yang terlihat",
+    "option_c": "gas yang tidak terlihat",
+    "option_d": "cairan yang tidak terlihat"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_406939",
+    "answer": "C",
+    "instruction": "Apa cara agar selembar kertas dapat mengalami perubahan kimia?",
+    "option_a": "melipat kertas menjadi dua",
+    "option_b": "merendam kertas dalam air",
+    "option_c": "membakar kertas dengan api",
+    "option_d": "memotong kertas dengan gunting"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7219415",
+    "answer": "C",
+    "instruction": "Manakah contoh fungsi membran semipermeabel pada sel?",
+    "option_a": "menopang bentuk sel",
+    "option_b": "membuat protein untuk sel",
+    "option_c": "membatasi zat kimia yang berdifusi keluar dari sel",
+    "option_d": "menyimpan limbah produk untuk sel"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_1999_8_22",
+    "answer": "B",
+    "instruction": "Jenis jembatan yang menggunakan kabel untuk dukungan adalah?",
+    "option_a": "jembatan truss",
+    "option_b": "jembatan gantung",
+    "option_c": "jembatan balok",
+    "option_d": "jembatan cantilever"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2006_9_33",
+    "answer": "D",
+    "instruction": "Harimau kancil hampir punah karena perburuan, kekeringan, dan penyakit. Saat ini, variasi genetik harimau kancil sangat sedikit di populasi. Dibandingkan dengan populasi harimau kancil sebelumnya yang memiliki variasi lebih banyak, yang mana dari berikut merupakan hasil dari variasi genetik yang terbatas pada populasi harimau kancil saat ini?",
+    "option_a": "Harimau kancil pada populasi saat ini lebih tahan terhadap penyakit baru.",
+    "option_b": "Angka kelangsungan hidup harimau kancil muda meningkat pada populasi saat ini.",
+    "option_c": "Harimau kancil pada populasi saat ini kurang mampu untuk kawin silang dengan spesies lain.",
+    "option_d": "Populasi harimau kancil saat ini kurang mungkin untuk beradaptasi dengan perubahan lingkungan."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7135310",
+    "answer": "C",
+    "instruction": "Mengapa energi output mesin selalu lebih sedikit dari energi input?",
+    "option_a": "Sebagian energinya dihancurkan ketika mesin beroperasi.",
+    "option_b": "Mesin harus mengatasi gaya magnetisme yang konstan.",
+    "option_c": "Energi yang berguna menurun ketika energi dipindahkan ke sekitarnya.",
+    "option_d": "Sebagian energinya dilepaskan sebagai panas ketika diubah."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_414131",
+    "answer": "C",
+    "instruction": "Apa yang menggambarkan sifat dari semua unsur?",
+    "option_a": "Semua unsur adalah logam.",
+    "option_b": "Semua unsur memiliki enam elektron.",
+    "option_c": "Semua unsur adalah zat murni.",
+    "option_d": "Semua unsur ada dalam fase padat."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7112753",
+    "answer": "B",
+    "instruction": "Untuk menemukan populasi kumbang, ilmuwan harus menggunakan alat yang sangat spesialisasi. Faktor apa yang paling mungkin membatasi kemampuan untuk menemukan kumbang?",
+    "option_a": "iklim",
+    "option_b": "biaya",
+    "option_c": "ukuran sampel",
+    "option_d": "politik"
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2009_5_16",
+    "answer": "D",
+    "instruction": "Siswa-siswa mengunjungi teleskop Morris W. Offit yang terletak di Observatorium Dana Antariksa Maryland di Baltimore. Mereka belajar tentang bintang, planet, dan bulan. Siswa-siswa mencatat informasi berikut. • Pola bintang tetap sama, tetapi lokasi mereka di langit terlihat berubah. • Matahari, planet, dan bulan terlihat bergerak di langit. • Proxima Centauri adalah bintang terdekat dari sistem tata surya kita. • Polaris adalah bintang yang menjadi bagian dari pola bintang yang disebut sebagai Little Dipper. Pernyataan manakah yang terbaik menjelaskan mengapa matahari muncul bergerak melintasi langit setiap hari?",
+    "option_a": "Matahari berputar mengelilingi Bumi.",
+    "option_b": "Bumi berputar mengelilingi matahari.",
+    "option_c": "Matahari berputar pada sumbunya.",
+    "option_d": "Bumi berputar pada sumbunya."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7236023",
+    "answer": "B",
+    "instruction": "Sejumlah besar udara berada pada ketinggian 1000 meter di pusat tekanan rendah dari badai belahan bumi utara. Yang mana dari hal-hal berikut yang paling baik menggambarkan gerakan partikel udara dalam massa udara ini akibat kondisi badai dan rotasi Bumi saat massa udara bergerak ke luar?",
+    "option_a": "Partikel udara bergerak ke atas dan ke kiri.",
+    "option_b": "Partikel udara bergerak ke atas dan ke kanan.",
+    "option_c": "Partikel udara bergerak ke bawah dan ke kiri.",
+    "option_d": "Partikel udara bergerak ke bawah dan ke kanan."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7270008",
+    "answer": "C",
+    "instruction": "Pertambangan permukaan untuk batu bara melibatkan penghilangan semua vegetasi dan batuan di atas batu bara yang ditambang. Subsistem bumi yang paling cepat terpengaruh oleh pertambangan permukaan adalah?",
+    "option_a": "litosfer dan atmosfer",
+    "option_b": "biosfer dan hidrosfer",
+    "option_c": "litosfer dan biosfer",
+    "option_d": "atmosfer dan hidrosfer"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7099768",
+    "answer": "D",
+    "instruction": "Ketika bola boling dilepas dari tangan pemain boling, energi dalam bola sebagian tersimpan di dalam bola hingga bola tersebut mengenai pin.",
+    "option_a": "tersimpan di dalam bola hingga bola tersebut mengenai pin.",
+    "option_b": "bertambah ketika melewati permukaan licin pada bola.",
+    "option_c": "dikonversi dari energi kinetik menjadi energi potensial gravitasi.",
+    "option_d": "dikonversi menjadi panas dan bunyi ketika bola tersebut bersentuhan dengan lantai."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7269238",
+    "answer": "D",
+    "instruction": "Mesin diesel dapat membakar banyak jenis bahan bakar. Bahan bakar apa yang paling terbarukan untuk mesin diesel?",
+    "option_a": "bahan bakar diesel konvensional",
+    "option_b": "kerosin distilasi",
+    "option_c": "minyak nabati yang diproduksi secara konvensional",
+    "option_d": "minyak nabati yang diproduksi secara organik"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7187915",
+    "answer": "A",
+    "instruction": "Amanda dan Jake mempelajari bentuk energi kinetik dan potensial pada sebuah rangkaian listrik sederhana. Rangkaian yang mereka pelajari terdiri dari sebuah baterai, kabel, dan bola lampu. Manakah yang merupakan bentuk energi potensial pada rangkaian tersebut?",
+    "option_a": "energi kimia pada baterai",
+    "option_b": "energi cahaya dari bola lampu",
+    "option_c": "energi panas yang hilang dari kabel listrik",
+    "option_d": "energi listrik yang bergerak melalui bola lampu"
+  },
+  {
+    "id": "ARC-Challenge/validation/OHAT_2011_8_3",
+    "answer": "D",
+    "instruction": "Tindakan mana yang menunjukkan perubahan kimia?",
+    "option_a": "Rambut panjang dipotong dan dikeringkan.",
+    "option_b": "Pensil kayu diasah dan patah.",
+    "option_c": "Sebuah kubus es mencair dan menjadi cairan yang jernih.",
+    "option_d": "Paku besi berubah menjadi coklat kemerahan dan mengelupas pada permukaannya."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7159775",
+    "answer": "A",
+    "instruction": "Janette melakukan investigasi untuk melihat makanan mana yang membuatnya merasa lebih lelah. Dia makan satu dari empat makanan yang berbeda setiap hari pada waktu yang sama selama empat hari, dan kemudian mencatat bagaimana perasaannya. Dia meminta temannya, Carmen, untuk melakukan investigasi yang sama untuk melihat apakah dia mendapatkan hasil yang serupa. Apa yang membuat investigasi ini paling sulit untuk direplikasi?",
+    "option_a": "mengukur jumlah kelelahan",
+    "option_b": "memastikan makanan yang sama di makan",
+    "option_c": "mencatat pengamatan dalam tabel yang sama",
+    "option_d": "memastikan makanan berada pada suhu yang sama"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_402239",
+    "answer": "C",
+    "instruction": "Apa cara terbaik untuk melestarikan sumber daya alam di rumah?",
+    "option_a": "Buang semua kaca ke tempat sampah.",
+    "option_b": "Gunakan handuk kertas untuk membersihkan tumpahan.",
+    "option_c": "Perpendek waktu mandi.",
+    "option_d": "Sirami rumput setiap hari."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_184013",
+    "answer": "C",
+    "instruction": "Manakah dari berikut yang paling tidak merusak tanah?",
+    "option_a": "gempa bumi magnitudo 7.2",
+    "option_b": "ombak badai tropis",
+    "option_c": "badai petir",
+    "option_d": "letusan gunung berapi"
+  },
+  {
+    "id": "ARC-Challenge/validation/NCEOGA_2013_8_4",
+    "answer": "D",
+    "instruction": "Pernyataan manakah yang paling tepat menjelaskan mengapa massa total produk akan kurang dari total berat reaktan setelah suatu reaksi kimia?",
+    "option_a": "Terjadi perubahan fisik.",
+    "option_b": "Atom-atom yang terlibat dalam reaksi kehilangan massa.",
+    "option_c": "Endapan terbentuk dalam larutan yang baru.",
+    "option_d": "Gas dilepaskan ke atmosfer."
+  },
+  {
+    "id": "ARC-Challenge/validation/ACTAAP_2013_7_17",
+    "answer": "D",
+    "instruction": "Sebuah kelompok ingin mengetahui apakah jumlah burung air yang terbang melalui Arkansas berubah setiap tahunnya. Metode apa yang harus mereka gunakan untuk mengumpulkan informasi ini?",
+    "option_a": "Menangkap sebanyak mungkin burung dalam satu tahun. Mengumpulkan data tentang lokasi setiap burung.",
+    "option_b": "Pada hari pertama musim semi tahun depan, hitung jumlah burung di danau terbesar di negara bagian tersebut. Bandingkan data dengan tahun lalu.",
+    "option_c": "Tempatkan pengamat di lokasi di garis negara bagian. Meminta orang tersebut menghitung burung saat mereka terbang masuk ke negara bagian. Lakukan selama dua tahun.",
+    "option_d": "Pilih satu hari dalam setahun selama masa migrasi. Hitung jumlah burung di sepuluh danau berbeda di seluruh negara bagian. Lakukan pada hari yang sama setiap tahun selama sepuluh tahun."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7183015",
+    "answer": "A",
+    "instruction": "Artikel terbaru dalam jurnal ilmiah menjelaskan hubungan antara arus konveksi dan tektonik lempeng. Ketika fluida dalam mantel beredar, itu menyebabkan lempeng kerak bergerak. Apa kemungkinan yang paling menimbulkan sirkulasi cairan di dalam Bumi?",
+    "option_a": "transfer energi",
+    "option_b": "pemanasan global",
+    "option_c": "variasi pasang surut",
+    "option_d": "arus laut"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2014_8_17",
+    "answer": "D",
+    "instruction": "Manakah dari berikut ini yang merupakan contoh reproduksi aseksual?",
+    "option_a": "Kura-kura bertelur di liang di pasir.",
+    "option_b": "Benih terbentuk di dalam bulir pinus setelah serbuk sari mencapai bulir tersebut.",
+    "option_c": "Ikan melepaskan sel telur dan sel sperma di permukaan air.",
+    "option_d": "Pohon mengirimkan perpanjangan seperti akar yang menghasilkan tunas baru."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_401286",
+    "answer": "B",
+    "instruction": "Banyak binatang yang terancam punah ditangkap, ditandai, dan kemudian dilepaskan kembali ke lingkungan mereka. Tanda tersebut mungkin berupa potongan plastik atau logam berkode yang ditempatkan di suatu tempat aman pada tubuh. Apa alasan paling mungkin untuk menandai binatang tersebut?",
+    "option_a": "untuk memantau kebiasaan makan mereka",
+    "option_b": "untuk memantau kebiasaan berkeliaran mereka",
+    "option_c": "untuk memantau kebiasaan tidur mereka",
+    "option_d": "untuk memantau kebiasaan reproduksi mereka"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7207358",
+    "answer": "C",
+    "instruction": "Teori modern tentang atom paling baik digambarkan sebagai hasil dari aktivitas berikut?",
+    "option_a": "eksperimen John Dalton pada awal 1800-an",
+    "option_b": "diskusi antara dua ilmuwan penting",
+    "option_c": "penelitian banyak ilmuwan selama bertahun-tahun",
+    "option_d": "ide atom oleh Democritus lebih dari 2000 tahun yang lalu"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7015435",
+    "answer": "A",
+    "instruction": "Apa produk dari reaksi antara asam kuat dan basa kuat?",
+    "option_a": "garam dan air",
+    "option_b": "dua unsur yang berbeda",
+    "option_c": "asam lemah dan basa lemah",
+    "option_d": "ion hidrogen dan ion hidroksida"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7044678",
+    "answer": "A",
+    "instruction": "Pernyataan mana yang paling baik menjelaskan apa yang terjadi pada daun saat kehilangan air yang dibutuhkan?",
+    "option_a": "Tekanan turgor turun.",
+    "option_b": "Tekanan atmosfer turun.",
+    "option_c": "Laju transpirasi meningkat.",
+    "option_d": "Laju fotosintesis meningkat."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_400905",
+    "answer": "D",
+    "instruction": " Matahari berjarak sekitar 1,5 x 10^8 km dari Bumi. Kecepatan cahaya adalah 3,0 x 10^8 m/detik. Berapakah jarak dari Matahari ke Bumi dalam detik cahaya?",
+    "option_a": "2,0 detik cahaya",
+    "option_b": "0,5 detik cahaya",
+    "option_c": "2,0 x 10^-3 detik cahaya",
+    "option_d": "5,0 x 10^2 detik cahaya"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_LBS10040",
+    "answer": "D",
+    "instruction": "Apa yang diproduksi oleh fotosintesis yang membantu pertumbuhan tanaman?",
+    "option_a": "air",
+    "option_b": "oksigen",
+    "option_c": "protein",
+    "option_d": "gula"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_8_41",
+    "answer": "D",
+    "instruction": "Dalam kecelakaan mobil, sabuk pengaman membantu mencegah cedera dengan memberikan gaya",
+    "option_a": "lebih kecil dari gaya penumpang yang bergerak",
+    "option_b": "lebih besar dari gaya mobil yang bergerak",
+    "option_c": "searah dengan gerakan mobil",
+    "option_d": "berlawanan arah dengan gerak penumpang"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7141908",
+    "answer": "C",
+    "instruction": "Ilmuwan menemukan spesies baru dari organisme kompleks di dasar laut. Organisme tersebut kemungkinan besar",
+    "option_a": "bersel satu.",
+    "option_b": "adalah bentuk bakteri.",
+    "option_c": "terdiri dari banyak sel.",
+    "option_d": "tidak memiliki inti yang terorganisir."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_406029",
+    "answer": "D",
+    "instruction": "Untuk aktivitas sains, Mia harus menggambar gambar Bulan setiap malam. Jika Mia menggambar bulan baru, jenis bulan apa yang digambar Mia sekitar satu minggu kemudian?",
+    "option_a": "gibbous",
+    "option_b": "bulan purnama",
+    "option_c": "bulan baru",
+    "option_d": "kuarter pertama"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7105123",
+    "answer": "C",
+    "instruction": "Catatan fosil menunjukkan bahwa perubahan spesies umumnya terjadi",
+    "option_a": "berhenti ketika spesies terbentuk.",
+    "option_b": "mempercepat under kondisi yang stabil.",
+    "option_c": "terjadi selama beberapa generasi.",
+    "option_d": "tidak bergantung pada lingkungan."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400339",
+    "answer": "C",
+    "instruction": "Pernyataan manakah yang bukan merupakan alasan mengapa pohon tumbuh dengan tinggi yang berbeda di hutan?",
+    "option_a": "Beberapa membutuhkan sinar matahari lebih sedikit daripada yang lain.",
+    "option_b": "Pohon-pohon ditanam pada tahun yang berbeda.",
+    "option_c": "Burung sedang membuat sarang di pohon-pohon yang lebih pendek.",
+    "option_d": "Hanya pada cabang-cabang atas, pohon yang lebih tinggi memiliki daun."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415366",
+    "answer": "B",
+    "instruction": "Pohon membutuhkan oksigen. Akar yang dekat dengan permukaan tanah mengambil oksigen yang diperlukan oleh pohon. Organisme apa yang membantu pohon mendapatkan oksigen?",
+    "option_a": "Burung sikatan membuat lubang di pohon",
+    "option_b": "Cacing tanah membuat lubang di tanah dekat pohon",
+    "option_c": "Jamur tumbuh di pangkal pohon",
+    "option_d": "Tupai makan kenari di tanah dekat pohon"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7168123",
+    "answer": "B",
+    "instruction": "Anita berlari cepat mengelilingi trek di sekolahnya. Di akhir lariannya, ia mengambil lebih banyak udara ke dalam paru-parunya dan denyut jantungnya meningkat. Sistem apa yang mengatur laju pernafasan dan detak jantung Anita?",
+    "option_a": "otot dan rangka",
+    "option_b": "saraf dan endokrin",
+    "option_c": "pencernaan dan ekskresi",
+    "option_d": "pernafasan dan peredaran darah"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7141400",
+    "answer": "A",
+    "instruction": "Seorang petani menanam jagung di ladang setiap tahun selama beberapa tahun. Setiap tahun ia melihat bahwa produksinya jagung per hektar berkurang meskipun kondisi cuaca sangat mirip. Perubahan dalam faktor abiotik yang paling mungkin menyebabkan penurunan produksi jagung adalah?",
+    "option_a": "berkurangnya nutrisi tanah",
+    "option_b": "peningkatan curah hujan",
+    "option_c": "peningkatan kecepatan angin",
+    "option_d": "berkurangnya sinar matahari"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2012_8_23636",
+    "answer": "D",
+    "instruction": "Proses berikut ini biasanya memakan waktu terlama yang mana?",
+    "option_a": "Lava panas mendingin dan membentuk batuan baru.",
+    "option_b": "Uap air mengembun untuk membentuk awan.",
+    "option_c": "Gelombang seismik bergerak melalui mantel bumi.",
+    "option_d": "Cekungan samudra terbentuk di antara dua benua."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_406705",
+    "answer": "B",
+    "instruction": "Kelas Anna menghitung jumlah kupu-kupu di taman sekolah untuk sebuah tugas. Hasil Anna berbeda dengan hasil siswa lainnya. Apa yang seharusnya dia lakukan?",
+    "option_a": "Ubah tugas tersebut.",
+    "option_b": "Biarkan hasilnya seperti itu.",
+    "option_c": "Sesuaikan hasilnya dengan hasil kelas.",
+    "option_d": "Mintalah guru untuk menghitung untuknya."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7186148",
+    "answer": "B",
+    "instruction": "Seorang siswa sedang mencampur secangkir coklat panas dengan sendok. Bagaimana panas ditransfer antara coklat panas dan bagian dari sendok yang berada di dalam coklat panas?",
+    "option_a": "Konduksi mentransfer energi dari sendok ke coklat panas.",
+    "option_b": "Konduksi mentransfer energi dari coklat panas ke sendok.",
+    "option_c": "Konveksi mentransfer energi dari sendok ke coklat panas.",
+    "option_d": "Konveksi mentransfer energi dari coklat panas ke sendok."
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_28",
+    "answer": "B",
+    "instruction": "Burung-burung besar telah memakan hewan-hewan kecil di suatu daerah. Jika semua burung-burung besar mati karena suatu penyakit, jumlah hewan-hewan kecil di daerah tersebut kemungkinan akan",
+    "option_a": "berkurang",
+    "option_b": "bertambah",
+    "option_c": "tetap sama"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7005478",
+    "answer": "B",
+    "instruction": "Suhu tubuh manusia relatif konstan. Mekanisme umpan balik apa yang membantu tubuh manusia menjaga suhu normalnya di lingkungan yang dingin?",
+    "option_a": "Air dilepaskan dari kulit.",
+    "option_b": "Otot bergetar dalam gerakan kecil.",
+    "option_c": "Laju detak jantung melambat.",
+    "option_d": "Paru-paru mengambil udara tambahan."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2009_8_5",
+    "answer": "D",
+    "instruction": "Manakah dari berikut yang paling efektif dalam mengurangi kemacetan lalu lintas udara di bandara sibuk?",
+    "option_a": "memberikan umpan balik kinerja kepada pilot",
+    "option_b": "memberikan informasi penerbangan kepada penumpang",
+    "option_c": "menambah jumlah pesawat di bandara",
+    "option_d": "menambah jumlah landasan pacu di bandara"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7037573",
+    "answer": "D",
+    "instruction": "Apa praktik terbaik yang harus diikuti saat menyelesaikan sebuah eksperimen?",
+    "option_a": "menggunakan hati-hati saat menangani peralatan kaca yang panas",
+    "option_b": "mematikan tungku saat tidak digunakan",
+    "option_c": "mempelajari prosedur laboratorium sebelum melakukan eksperimen",
+    "option_d": "memeriksa prosedur pembuangan bahan kimia bersama guru Anda"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2012_5_8",
+    "answer": "B",
+    "instruction": "Cameron sedang berbelanja untuk meja baru. Dia ingin memastikan meja tersebut muat di sudut ruangannya. Ketika Cameron berbelanja untuk meja baru, hal apakah yang paling membantunya memastikan meja tersebut muat?",
+    "option_a": "foto yang menunjukkan karpet di ruangannya",
+    "option_b": "diagram pengukuran ruangannya",
+    "option_c": "gambar yang menunjukkan cara merakit meja",
+    "option_d": "daftar alat yang diperlukan untuk merakit meja"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7092295",
+    "answer": "C",
+    "instruction": "Aksi yang mana yang menciptakan persaingan antara kepedulian lingkungan dan keuntungan ekonomi?",
+    "option_a": "melindungi satwa liar yang terancam punah",
+    "option_b": "memperkenalkan kembali satwa liar ke habitat alamiah mereka",
+    "option_c": "menggunakan lahan hutan untuk membangun rumah",
+    "option_d": "menggunakan bus kota untuk transportasi"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7131828",
+    "answer": "C",
+    "instruction": "Di banyak daerah tropis, nyamuk bisa membawa parasit yang dapat menyebabkan penyakit menular pada manusia. Apakah yang terbaik menggambarkan hubungan antara nyamuk dan manusia?",
+    "option_a": "pemangsa-mangsa",
+    "option_b": "kompetisi untuk sumber daya",
+    "option_c": "faktor biotik yang saling berinteraksi",
+    "option_d": "transfer energi antara produsen dan konsumen"
+  },
+  {
+    "id": "ARC-Challenge/validation/TIMSS_2003_8_pg31",
+    "answer": "B",
+    "instruction": "Membuat api kayu menjadi lebih panas dengan mengibaskan udara karena mengibaskan udara",
+    "option_a": "membuat makanan cukup panas untuk terbakar",
+    "option_b": "menambahkan lebih banyak oksigen yang diperlukan untuk pembakaran",
+    "option_c": "meningkatkan jumlah kayu yang tersedia untuk dibakar",
+    "option_d": "menyediakan energi yang diperlukan untuk menjaga api tetap menyala"
+  },
+  {
+    "id": "ARC-Challenge/validation/ACTAAP_2007_7_5",
+    "answer": "B",
+    "instruction": "Sebuah eksperimen dilakukan dengan sebuah wadah tertutup. Wadah tersebut awalnya memiliki suhu 70 derajat Fahrenheit dan tekanan udara sebesar 20 psi. Wadah tersebut dipanaskan, dan tekanan di dalam wadah meningkat seiring dengan kenaikan suhu. Jika wadah tersebut didinginkan kembali hingga 70 derajat Fahrenheit, berapa tekanan udara di dalamnya?",
+    "option_a": "10 psi",
+    "option_b": "20 psi",
+    "option_c": "30 psi",
+    "option_d": "40 psi"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7120908",
+    "answer": "D",
+    "instruction": "Sebuah glider adalah pesawat terbang tanpa mesin. Selain ukuran, apa saja hal utama yang perlu dipertimbangkan saat mendesain glider untuk menempuh jarak jauh?",
+    "option_a": "dampak lingkungan dan massa",
+    "option_b": "biaya dan dampak lingkungan",
+    "option_c": "kekuatan dan biaya",
+    "option_d": "massa dan kekuatan"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_180443",
+    "answer": "C",
+    "instruction": "Tahap bulan apa yang terjadi setelah gibbous semakin membesar?",
+    "option_a": "gibbous semakin mengecil",
+    "option_b": "bulan sabit semakin membesar",
+    "option_c": "bulan purnama",
+    "option_d": "bulan baru"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7238963",
+    "answer": "A",
+    "instruction": "Dalam manusia, dagu rahang belah disandikan oleh alel dominan C. Dagu tanpa belahan disandikan oleh alel resesif c. Seorang pria dengan kombinasi alel cc untuk sifat tersebut menghasilkan zigot dengan seorang wanita dengan kombinasi alel Cc untuk sifat tersebut. Kombinasi alel apa saja yang bisa terjadi pada zigot?",
+    "option_a": "Cc atau cc",
+    "option_b": "CC atau Cc",
+    "option_c": "Hanya CC",
+    "option_d": "Hanya Cc"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_184765",
+    "answer": "B",
+    "instruction": "Apa yang paling mungkin terjadi akibat penebangan hutan secara besar-besaran?",
+    "option_a": "Persentase oksigen di atas area akan meningkat.",
+    "option_b": "Jumlah erosi di area tersebut akan meningkat.",
+    "option_c": "Keragaman spesies di area tersebut akan meningkat.",
+    "option_d": "Nutrisi tanah di area tersebut akan meningkat."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7235813",
+    "answer": "D",
+    "instruction": "Siklus karbon berputar melalui berbagai reservoir di Bumi. Waktu yang dibutuhkan untuk membentuk reservoir ini sangat bervariasi. Proses apa dalam siklus karbon yang membutuhkan jutaan tahun untuk membentuk reservoir yang ditunjukkan?",
+    "option_a": "inkorporasi karbon melalui pencernaan menjadi jaringan hewan",
+    "option_b": "pelepasan karbon ke atmosfer saat bernafas",
+    "option_c": "karbon atmosfer yang terinkorporasi menjadi gula dalam tumbuhan",
+    "option_d": "penguraian karbon dalam jaringan tumbuhan untuk membentuk minyak"
+  },
+  {
+    "id": "ARC-Challenge/validation/OHAT_2007_5_24",
+    "answer": "B",
+    "instruction": "Di dalam hutan, bagaimana dekomposer membantu organisme lain untuk bertahan hidup?",
+    "option_a": "Mereka melepaskan oksigen ke udara yang dihirup oleh hewan.",
+    "option_b": "Mereka menambahkan nutrisi ke dalam tanah yang digunakan oleh tumbuhan untuk tumbuh.",
+    "option_c": "Mereka menyediakan tempat berlindung di hutan tempat hewan dapat bersembunyi.",
+    "option_d": "Mereka menggunakan sinar matahari untuk membuat makanan bagi tumbuhan dan hewan."
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2007_8_15",
+    "answer": "C",
+    "instruction": "Tindakan manusia mempengaruhi lingkungan. Tindakan manusia mana yang mempengaruhi area lingkungan paling kecil?",
+    "option_a": "membakar hutan",
+    "option_b": "membakar bahan bakar fosil",
+    "option_c": "menggali tempat pembuangan sampah baru",
+    "option_d": "menyemprot tanaman dengan bahan kimia"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7162838",
+    "answer": "D",
+    "instruction": "Tikus laboratorium diberi suplemen blueberry, strawberry, atau bayam bersama makanan mereka yang biasa. Setelah delapan minggu, tikus-tikus tersebut diberikan tes keterampilan motor dan memori. Tikus yang diberi suplemen blueberry menunjukkan peningkatan paling banyak. Yang merupakan variabel independen (dimanipulasi) dari investigasi?",
+    "option_a": "tes keterampilan motor",
+    "option_b": "proses penuaan",
+    "option_c": "tes memori",
+    "option_d": "suplemen"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_405973",
+    "answer": "B",
+    "instruction": "Beberapa jenis burung hidup di sebuah pulau kecil. Badai menghancurkan sebagian besar tanaman tempat burung memperoleh makanan dan membangun sarang. Jenis burung mana yang paling mungkin bertahan hidup di pulau tersebut?",
+    "option_a": "burung yang memiliki jumlah terbanyak",
+    "option_b": "burung yang paling mampu beradaptasi",
+    "option_c": "burung yang bisa terbang terjauh",
+    "option_d": "burung dengan paruh terkuat"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2000_8_10",
+    "answer": "B",
+    "instruction": "Pernyataan mana yang merupakan pendapat?",
+    "option_a": "Banyak tanaman berwarna hijau.",
+    "option_b": "Banyak tanaman indah.",
+    "option_c": "Tanaman membutuhkan sinar matahari.",
+    "option_d": "Tanaman dapat tumbuh di tempat yang berbeda."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7103180",
+    "answer": "B",
+    "instruction": "Bioma mana yang memiliki vegetasi paling banyak?",
+    "option_a": "gurun",
+    "option_b": "hutan",
+    "option_c": "padang rumput",
+    "option_d": "tundra"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7221865",
+    "answer": "C",
+    "instruction": "Sebuah kelompok siswa mengamati terbentuknya gelembung saat air mendidih. Apa yang terjadi pada materi karena perubahan fisik pada air?",
+    "option_a": "Materi baru tercipta dalam gelembung.",
+    "option_b": "Materi lama hancur saat air berubah menjadi gas.",
+    "option_c": "Materi dikonservasikan saat berubah bentuk.",
+    "option_d": "Komposisi materi berubah."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7242743",
+    "answer": "D",
+    "instruction": "Protein yang disintesis dalam subunit ribosom mengalami modifikasi paska-translasi yang luas dan dikemas serta diarahkan ke tujuan yang sesuai. Komponen struktural dari sel yang terlibat dalam modifikasi tersebut adalah?",
+    "option_a": "retikulum endoplasma",
+    "option_b": "lisosom",
+    "option_c": "mitokondria",
+    "option_d": "aparatus Golgi"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7103565",
+    "answer": "C",
+    "instruction": "Sistem tekanan tinggi mencegah udara naik ke daerah yang lebih dingin di atmosfer di mana air bisa mengembun. Apa yang kemungkinan besar terjadi jika sistem tekanan tinggi tetap berada di area tersebut untuk jangka waktu yang lama?",
+    "option_a": "kabut",
+    "option_b": "hujan",
+    "option_c": "kekeringan",
+    "option_d": "puting beliung"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415541",
+    "answer": "D",
+    "instruction": "Objek manakah yang kemungkinan besar akan mengapung di air?",
+    "option_a": "marmer kaca",
+    "option_b": "bola baja",
+    "option_c": "bola karet keras",
+    "option_d": "bola tenis meja"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_9",
+    "answer": "A",
+    "instruction": "Seorang siswa mengambil baki es dari dalam freezer dan meletakkannya di atas meja. Cube es merupakan benda padat dan dingin. Ternyata, si siswa lupa meletakkan baki es kembali ke dalam freezer. Keesokan harinya, cube es tersebut seharusnya berada dalam keadaan",
+    "option_a": "cair dan lebih hangat",
+    "option_b": "padat dan lebih hangat",
+    "option_c": "cair dan lebih dingin",
+    "option_d": "padat dan lebih dingin"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7097318",
+    "answer": "D",
+    "instruction": "Seekor tupai menjatuhkan sebuah buah oak dari atas cabang pohon. Mana dari yang berikut ini yang akan berubah saat buah oak jatuh dari pohon ke tanah?",
+    "option_a": "massa buah oak",
+    "option_b": "gayanya pada buah oak",
+    "option_c": "densitas buah oak",
+    "option_d": "kecepatan buah oak"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_8_20",
+    "answer": "B",
+    "instruction": "Persamaan di bawah menunjukkan produk yang terbentuk saat larutan perak nitrat (AgNO3) bereaksi dengan larutan natrium klorida (NaCl). AgNO3 \u0002+ NaCl (Reaktan) -> NaNO3 \u0002+ AgCl (Produk) Pada persamaan ini, massa total reaktan adalah",
+    "option_a": "lebih besar daripada massa total produk",
+    "option_b": "sama dengan massa total produk",
+    "option_c": "sama dengan massa AgCl",
+    "option_d": "kurang dari massa AgCl"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415397",
+    "answer": "C",
+    "instruction": "Perubahan apa yang membuat struktur pada permukaan Bumi?",
+    "option_a": "Banjir membuat orang meninggalkan sebuah kota.",
+    "option_b": "Gempa bumi membuat gelombang di sebuah lapangan.",
+    "option_c": "Gunung berapi membuat tanah baru dengan lava.",
+    "option_d": "Longsor ke dalam sebuah teluk membuat gelombang pasang."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7246348",
+    "answer": "A",
+    "instruction": "Fitur mana yang tidak terbentuk akibat lempeng tektonik saling menjauh?",
+    "option_a": "palung",
+    "option_b": "lembah patahan",
+    "option_c": "cakrawala samudra",
+    "option_d": "punggungan tengah samudra"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7270200",
+    "answer": "A",
+    "instruction": "Para ilmuwan telah menjelaskan bagaimana asam amino, karbohidrat, asam nukleat, dan asam lemak semua dapat disintesis di Bumi sebelum organisme hidup muncul. Penemuan berikut ini yang paling mendukung klaim bahwa kehidupan secara spontan muncul dari bahan kimia tersebut adalah?",
+    "option_a": "Bahan kimia ini dapat menyusun diri sendiri menjadi struktur yang bereplikasi.",
+    "option_b": "Bahan kimia ini digunakan oleh organisme hidup saat ini.",
+    "option_c": "Bahan kimia ini ditemukan di planet lain.",
+    "option_d": "Bahan kimia ini dapat menyusun diri menjadi virus."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415026",
+    "answer": "C",
+    "instruction": "Hewan apa yang kemungkinan akan dibantu oleh banjir di daerah pesisir?",
+    "option_a": "rusa",
+    "option_b": "rakun",
+    "option_c": "buaya",
+    "option_d": "coyote"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7143518",
+    "answer": "D",
+    "instruction": "Berang-berang dikenal membangun bendungan di sungai dan anak sungai dengan menebang pohon dan mengumpulkan rerumputan dan semak. Populasi berang-berang di Amerika Serikat telah menurun karena perangkap manusia. Konsekuensi ekologis apa yang kemungkinan besar terjadi dengan penurunan populasi berang-berang?",
+    "option_a": "penurunan signifikan populasi ikan",
+    "option_b": "kenaikan signifikan ekosistem hutan",
+    "option_c": "kenaikan signifikan evaporasi air",
+    "option_d": "penurunan signifikan jumlah habitat kolam"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7032340",
+    "answer": "D",
+    "instruction": "Dari pilihan yang tertera, yang mana yang merepresentasikan dunia alam menggunakan model?",
+    "option_a": "membaca buku tentang komunitas tupai prairie",
+    "option_b": "melihat gambar komunitas tupai prairie",
+    "option_c": "mencari tahu komunitas tupai prairie menggunakan Internet",
+    "option_d": "mengamati komunitas tupai prairie dalam pameran di kebun binatang"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_415263",
+    "answer": "C",
+    "instruction": "Apa yang terdapat pada sel eukariotik tetapi tidak pada sel prokariotik?",
+    "option_a": "DNA",
+    "option_b": "sitoplasma",
+    "option_c": "inti sel",
+    "option_d": "membran sel"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7090720",
+    "answer": "B",
+    "instruction": "Etanol adalah bahan bakar alternatif yang dibuat dari jagung. Apa salah satu dampak buruk dari penggunaan etanol sebagai bahan bakar?",
+    "option_a": "pengurangan biaya produksi bahan bakar",
+    "option_b": "pengurangan lahan pertanian yang tersedia untuk produksi makanan",
+    "option_c": "peningkatan konsumsi bahan bakar fosil",
+    "option_d": "peningkatan jejak karbon dari penggunaan mobil"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_410964",
+    "answer": "D",
+    "instruction": "Siswa sedang menyelidiki bagaimana bel pintu bekerja. Mana yang kemungkinan besar merupakan pengamatan yang dibuat selama penyelidikan?",
+    "option_a": "Semua bel pintu mengeluarkan suara yang indah.",
+    "option_b": "Baterai adalah sumber daya terbaik untuk bel pintu.",
+    "option_c": "Kebanyakan orang lebih suka menggunakan bel pintu daripada mengetuk.",
+    "option_d": "Bel pintu menggunakan sepotong kawat yang dililitkan di sekitar magnet."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7057313",
+    "answer": "A",
+    "instruction": "Jantung adalah otot yang terbaik dijelaskan sebagai",
+    "option_a": "sel-sel yang sama bekerja bersama.",
+    "option_b": "berbagai sistem bekerja bersama.",
+    "option_c": "organ yang sama membentuk sistem.",
+    "option_d": "organ yang berbeda melakukan fungsi."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_402101",
+    "answer": "D",
+    "instruction": "Fitur apa yang dapat ditemukan di permukaan Bumi dan Bulan?",
+    "option_a": "tanaman",
+    "option_b": "laut",
+    "option_c": "hewan",
+    "option_d": "gunung"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2010_8_12010",
+    "answer": "C",
+    "instruction": "Beberapa spesies bakteri menghasilkan zat yang beracun bagi serangga tetapi tidak berbahaya bagi manusia. Para ilmuwan telah mengisolasi gen yang mengontrol produksi zat ini. Mana yang menjadi alasan terbaik untuk memasukkan gen ini ke dalam tanaman jagung?",
+    "option_a": "Jagung akan tumbuh lebih cepat.",
+    "option_b": "Membutuhkan lebih sedikit pupuk.",
+    "option_c": "Membutuhkan lebih sedikit pestisida.",
+    "option_d": "Jagung akan lebih berkhasiat."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7038133",
+    "answer": "B",
+    "instruction": "Seorang siswa merencanakan investigasi untuk menghitung kecepatan bola-bola yang berbeda saat mereka meluncur turun dari sebuah landasan. Informasi apa yang paling tidak perlu bagi siswa untuk mencatat?",
+    "option_a": "ukuran masing-masing bola",
+    "option_b": "ketebalan dari landasan",
+    "option_c": "panjang dari landasan",
+    "option_d": "waktu yang dibutuhkan bola untuk bepergian"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_407169",
+    "answer": "D",
+    "instruction": "Jika lingkungan habitat dengan kolam kecil mengalami kekeringan yang panjang, hal berikut yang paling mungkin terjadi pada banyak ikan di kolam adalah apa?",
+    "option_a": "Mereka akan beradaptasi dengan lingkungan yang kering.",
+    "option_b": "Mereka akan hidup dari sumber air lain.",
+    "option_c": "Mereka akan pindah ke habitat lain.",
+    "option_d": "Mereka akan tidak dapat bertahan hidup."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7103215",
+    "answer": "C",
+    "instruction": "Seorang siswa ingin menentukan efek bawang putih terhadap pertumbuhan spesies jamur. Beberapa sampel budaya jamur ditanam dalam jumlah agar dan cahaya yang sama. Setiap sampel diberikan jumlah bawang putih yang berbeda. Apa variabel independen dalam penyelidikan ini?",
+    "option_a": "jumlah agar",
+    "option_b": "jumlah cahaya",
+    "option_c": "jumlah bawang putih",
+    "option_d": "jumlah pertumbuhan"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2013_8_29432",
+    "answer": "B",
+    "instruction": "Bagian dari sel tumbuhan mana yang memiliki fungsi paling mirip dengan fungsi kerangka hewan?",
+    "option_a": "membran sel",
+    "option_b": "dinding sel",
+    "option_c": "kloroplas",
+    "option_d": "nukleus"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7018008",
+    "answer": "A",
+    "instruction": "Apa yang paling baik menjelaskan sifat listrik atom?",
+    "option_a": "netral",
+    "option_b": "diisolasi",
+    "option_c": "dengan muatan positif",
+    "option_d": "dengan muatan negatif"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7166530",
+    "answer": "B",
+    "instruction": "Ira harus membuat investigasi laboratorium setelah sekolah. Dia mendapatkan bahan, bahan kimia, peralatan, dan perlindungan dari gurunya. Dengan cepat, namun hati-hati, dia melakukan langkah-langkah dalam prosedur eksperimen tertulis. Untuk menghemat waktu, dia memutuskan untuk mencatat hasil observasi dan hasilnya nanti. Yang kemungkinan akan terpengaruh negatif oleh keputusannya itu?",
+    "option_a": "kemampuan untuk mengikuti petunjuk",
+    "option_b": "kemampuan untuk menulis laporan yang valid",
+    "option_c": "kemampuan untuk mengikuti pedoman keselamatan",
+    "option_d": "kemampuan untuk mencapai kesimpulan"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400047",
+    "answer": "B",
+    "instruction": "Seorang siswa meninggalkan sebatang coklat di bawah sinar matahari pada hari yang panas. Ketika coklat mencair, yang mana sifatnya yang berubah?",
+    "option_a": "massanya",
+    "option_b": "bentuknya",
+    "option_c": "beratnya",
+    "option_d": "komposisinya"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7044100",
+    "answer": "C",
+    "instruction": "Bagaimana cara nutrisi tanah di lahan pertanian bisa berkurang?",
+    "option_a": "pemaksaan ternak",
+    "option_b": "erosi angin",
+    "option_c": "irigasi yang meningkat",
+    "option_d": "pemupukan yang meningkat"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7075145",
+    "answer": "A",
+    "instruction": "Proses apa yang membuat sel dapat menyerap air?",
+    "option_a": "osmosis",
+    "option_b": "mitosis",
+    "option_c": "fotosintesis",
+    "option_d": "respirasi"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_192290",
+    "answer": "D",
+    "instruction": "Meskipun mereka termasuk dalam keluarga yang sama, burung elang dan burung pelikan berbeda. Apa satu perbedaan antara mereka?",
+    "option_a": "preferensi mereka dalam makan ikan",
+    "option_b": "kemampuan mereka untuk terbang",
+    "option_c": "metode reproduksi mereka",
+    "option_d": "metode mereka dalam menangkap makanan"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7093975",
+    "answer": "D",
+    "instruction": "Apa yang menjadi penyebab alami sungai mengering?",
+    "option_a": "polusi",
+    "option_b": "erosi",
+    "option_c": "naiknya permukaan air",
+    "option_d": "kurangnya curah hujan"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7085820",
+    "answer": "D",
+    "instruction": "Saat air mulai membeku, molekul air",
+    "option_a": "mendapatkan energi termal.",
+    "option_b": "bergerak lebih bebas.",
+    "option_c": "bertambah ukurannya.",
+    "option_d": "berkurang kecepatannya."
+  },
+  {
+    "id": "ARC-Challenge/validation/MEA_2016_5_6",
+    "answer": "C",
+    "instruction": "Balon yang diisi air diletakkan di dalam freezer. Sifat air yang mana yang berubah saat air mencapai titik bekunya?",
+    "option_a": "warna",
+    "option_b": "massa",
+    "option_c": "keadaan",
+    "option_d": "bobot"
+  },
+  {
+    "id": "ARC-Challenge/validation/NCEOGA_2013_5_43",
+    "answer": "B",
+    "instruction": "Apa yang harus terjadi sebelum awan dapat terbentuk?",
+    "option_a": "Uap air harus menjadi lebih hangat.",
+    "option_b": "Uap air harus kehilangan energi panas.",
+    "option_c": "Hujan harus mulai turun dan mengalir.",
+    "option_d": "Transpirasi harus menambahkan uap air ke atmosfer."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7250023",
+    "answer": "A",
+    "instruction": "Semua sel, prokariotik dan eukariotik, memiliki beberapa fitur umum. Fitur sel mana yang ditemukan pada sel prokariotik dan eukariotik?",
+    "option_a": "ribosom",
+    "option_b": "membran kloroplas",
+    "option_c": "inti sel",
+    "option_d": "retikulum endoplasma"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7003955",
+    "answer": "D",
+    "instruction": "Jenis muatan apa yang dimiliki setiap helai rambut saat berdiri tegak karena listrik statis?",
+    "option_a": "muatan netral",
+    "option_b": "pengosongan netral",
+    "option_c": "muatan positif permanen",
+    "option_d": "muatan positif sementara"
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2010_5_18",
+    "answer": "D",
+    "instruction": "Angin adalah sumber daya alam yang bermanfaat bagi pantai tenggara Teluk Chesapeake. Bagaimana angin ini bisa memberikan manfaat terbaik bagi manusia?",
+    "option_a": "Angin dapat membawa tumpahan minyak ke teluk.",
+    "option_b": "Angin dapat diubah menjadi bahan bakar fosil.",
+    "option_c": "Angin dapat membawa polusi udara ke daratan.",
+    "option_d": "Angin dapat diubah menjadi energi listrik."
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_2",
+    "answer": "D",
+    "instruction": "Berapa lama waktu yang dibutuhkan Bumi untuk melakukan satu revolusi mengelilingi Matahari?",
+    "option_a": "sehari",
+    "option_b": "seminggu",
+    "option_c": "sebulan",
+    "option_d": "setahun"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_411306",
+    "answer": "D",
+    "instruction": "Beberapa jenis tanaman memiliki karakteristik yang sama. Karakteristik apa yang paling banyak dibagikan oleh sebagian besar tanaman?",
+    "option_a": "ukuran akar mereka",
+    "option_b": "bentuk daun mereka",
+    "option_c": "warna bunga mereka",
+    "option_d": "struktur sel mereka"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7241115",
+    "answer": "C",
+    "instruction": "Peristiwa apa yang paling mungkin menyebabkan ledakan keanekaragaman mamalia yang terjadi selama periode Kretaseus?",
+    "option_a": "pembentukan benua super Pangea",
+    "option_b": "aktivitas gunung berapi yang intens",
+    "option_c": "suhu yang lebih dingin",
+    "option_d": "peningkatan permukaan laut"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7042735",
+    "answer": "C",
+    "instruction": "Di kelas sains, larutan air dan senyawa yang tidak beracun disiapkan. Apa yang harus dilakukan dengan larutan tersebut saat presentasi selesai?",
+    "option_a": "Larutan harus dibuang ke saluran pembuangan.",
+    "option_b": "Larutan harus dibuang ke tempat daur ulang.",
+    "option_c": "Larutan harus dibuang ke wadah sampah.",
+    "option_d": "Larutan harus diletakkan di dalam wadah pembuangan bahan berbahaya."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2004_9_13",
+    "answer": "D",
+    "instruction": "Apakah jenis stres primer yang dihasilkan oleh kunci muka tetap pada kayu?",
+    "option_a": "Tarik",
+    "option_b": "Geser",
+    "option_c": "Torsi",
+    "option_d": "Tekanan"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_176015",
+    "answer": "D",
+    "instruction": "Sebuah kelompok siswa sedang menyelidiki dua zat untuk menentukan mana yang merupakan garam meja dan mana yang merupakan gula meja. Bagaimana siswa-siswa tersebut dapat mengidentifikasi setiap zat dengan baik?",
+    "option_a": "dengan memperhatikan apakah mereka larut dalam air",
+    "option_b": "dengan mempelajari warna zat",
+    "option_c": "dengan mengamati apakah mereka menempel pada permukaan",
+    "option_d": "dengan memeriksa bentuk kristal"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7215180",
+    "answer": "C",
+    "instruction": "Ilmuwan sedang mengumpulkan sampel granit di pegunungan barat Nevada. Format mana yang terbaik untuk menampilkan dan membandingkan persentase mineral yang ditemukan dalam satu sampel granit?",
+    "option_a": "diagram batang",
+    "option_b": "diagram garis",
+    "option_c": "diagram lingkaran",
+    "option_d": "plot pencar"
+  },
+  {
+    "id": "ARC-Challenge/validation/TIMSS_2007_4_pg26",
+    "answer": "B",
+    "instruction": "Hewan tersebut memiliki enam kaki. Apa yang paling mungkin menjadi hewan tersebut?",
+    "option_a": "laba-laba",
+    "option_b": "lalat",
+    "option_c": "cicak",
+    "option_d": "lipan"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_177818",
+    "answer": "C",
+    "instruction": "Panjang waktu antara malam dan siang di Bumi bervariasi sepanjang tahun. Variasi waktu ini dapat dijelaskan terutama oleh",
+    "option_a": "posisi Matahari.",
+    "option_b": "posisi Bulan.",
+    "option_c": "sudut kemiringan Bumi",
+    "option_d": "jarak Bumi dari Matahari"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_405487",
+    "answer": "B",
+    "instruction": "Suatu tahun, pohon-pohon oak di sebuah taman mulai menghasilkan lebih banyak biji-biji oak dari biasanya. Tahun berikutnya, populasi tupai di taman juga meningkat. Mana yang menjelaskan mengapa ada lebih banyak tupai tahun berikutnya?",
+    "option_a": "Daerah yang teduh meningkat.",
+    "option_b": "Sumber makanan meningkat.",
+    "option_c": "Tingkat oksigen meningkat.",
+    "option_d": "Air yang tersedia meningkat."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400612",
+    "answer": "C",
+    "instruction": "Permukaan Bumi selalu berubah karena pelapukan dan erosi. Dibandingkan dengan Bumi, terdapat sedikit pelapukan dan erosi pada Bulan karena",
+    "option_a": "tidak adanya gravitasi di Bulan.",
+    "option_b": "atmosfer yang tipis di Bulan.",
+    "option_c": "tidak adanya udara dan air di Bulan.",
+    "option_d": "tidak adanya makhluk hidup di Bulan."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400655",
+    "answer": "A",
+    "instruction": "Apa yang merupakan perubahan terbesar yang dapat diamati antara musim panas dan musim dingin?",
+    "option_a": "jumlah cahaya matahari",
+    "option_b": "ketinggian gelombang laut",
+    "option_c": "jumlah badai",
+    "option_d": "besar awan"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_415735",
+    "answer": "C",
+    "instruction": "Anya meletakkan satu kubus es di atas trotoar pada hari yang panas. Kubus es tersebut cepat mencair membentuk genangan. Proses apa yang menyebabkan kubus es tersebut mencair?",
+    "option_a": "Panas ditransfer melalui kubus es secara konveksi.",
+    "option_b": "Panas ditransfer dari udara ke kubus es melalui radiasi.",
+    "option_c": "Panas ditransfer dari udara dan trotoar melalui konduksi.",
+    "option_d": "Panas ditransfer melalui kubus es ke trotoar melalui konduksi."
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2005_8_5",
+    "answer": "D",
+    "instruction": "Merkurius, planet yang paling dekat dengan Matahari, memiliki suhu permukaan yang ekstrem, bervariasi dari 465°C saat terkena sinar matahari hingga -180°C di kegelapan. Mengapa terdapat rentang suhu yang begitu besar di Merkurius?",
+    "option_a": "Planet ini terlalu kecil untuk menahan panas.",
+    "option_b": "Planet ini dipanaskan hanya di satu sisi.",
+    "option_c": "Planet ini memantulkan panas dari sisinya yang gelap.",
+    "option_d": "Planet ini tidak memiliki atmosfer untuk menahan panas."
+  },
+  {
+    "id": "ARC-Challenge/validation/TIMSS_2003_8_pg14",
+    "answer": "B",
+    "instruction": "Mengapa serangga jantan diberi perlakuan untuk mencegah produksi sperma?",
+    "option_a": "Untuk meningkatkan jumlah serangga betina",
+    "option_b": "Untuk mengurangi total populasi serangga",
+    "option_c": "Untuk menghasilkan spesies serangga yang baru",
+    "option_d": "Untuk mencegah serangga melakukan perkawinan"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_4_20",
+    "answer": "D",
+    "instruction": "Fungsi utama batang pohon adalah sebagai penyedia",
+    "option_a": "udara",
+    "option_b": "buah",
+    "option_c": "sinar matahari",
+    "option_d": "dukungan"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7017990",
+    "answer": "A",
+    "instruction": "Tindakan apa yang tidak mewakili prosedur keselamatan di lab?",
+    "option_a": "mencicipi sampel bahan kimia",
+    "option_b": "menggunakan sarung tangan tahan panas jika peralatan kaca masih panas",
+    "option_c": "menyisir rambut panjang ke belakang",
+    "option_d": "membersihkan percikan bahan kimia dengan banyak air"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7264023",
+    "answer": "D",
+    "instruction": "Elemen berikut yang paling tidak mungkin ditemukan dalam senyawa organik adalah?",
+    "option_a": "karbon",
+    "option_b": "hidrogen",
+    "option_c": "nitrogen",
+    "option_d": "kalium"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7138513",
+    "answer": "A",
+    "instruction": "Sebuah pulau memiliki banyak jenis burung, tidak ada spesies ular asli, dan sedikit predator besar. Ular coklat memakan telur burung. Apa yang paling mungkin terjadi jika ular coklat dilepaskan secara tidak sengaja di pulau tersebut?",
+    "option_a": "lebih banyak ular dan lebih sedikit burung",
+    "option_b": "lebih banyak ular dan lebih banyak burung",
+    "option_c": "lebih sedikit ular dan lebih sedikit burung",
+    "option_d": "lebih sedikit ular dan lebih banyak burung"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_401663",
+    "answer": "B",
+    "instruction": "Seorang siswa dapat menghemat sumber daya dengan menaruh objek apa di dalam tumpukan kompos?",
+    "option_a": "pupuk",
+    "option_b": "tanaman kacang",
+    "option_c": "gelas kimia",
+    "option_d": "pipet plastik"
+  },
+  {
+    "id": "ARC-Challenge/validation/ACTAAP_2011_5_3",
+    "answer": "C",
+    "instruction": "Sejumlah besar endapan diangkat oleh air saat air mengalir menuruni bukit di sungai dan aliran air. Ketika air di sungai atau aliran air mengalir dengan cepat lalu mulai melambat, apa yang mungkin terjadi pada partikel endapan yang dibawa oleh air?",
+    "option_a": "Jumlah partikel endapan yang lebih besar yang dibawa air akan meningkat.",
+    "option_b": "Jumlah partikel endapan yang lebih kecil yang dibawa air akan meningkat.",
+    "option_c": "Jumlah partikel endapan yang lebih besar yang dibawa air akan berkurang.",
+    "option_d": "Jumlah partikel endapan yang lebih kecil yang dibawa air akan berkurang."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7195440",
+    "answer": "B",
+    "instruction": "Sekitar 50 juta hektar hutan hujan tropis ditebang setiap tahun. Efek paling mungkin yang terjadi akibat penjarangan hutan ini adalah?",
+    "option_a": "penurunan pengikisan tanah",
+    "option_b": "penurunan keanekaragaman hayati",
+    "option_c": "peningkatan kualitas udara",
+    "option_d": "peningkatan kualitas air"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7220378",
+    "answer": "C",
+    "instruction": "Perubahan iklim mungkin mengurangi jumlah es yang mengapung di samudera dunia. Bagaimana perubahan ini kemungkinan besar akan mengubah pasokan makanan yang tersedia bagi organisme konsumen laut?",
+    "option_a": "dengan mengurangi jumlah garam yang larut di air laut",
+    "option_b": "dengan meningkatkan kemampuan air untuk terpisah menjadi lapisan-lapisan yang berbeda",
+    "option_c": "dengan mengubah kondisi suhu yang dibutuhkan oleh produsen sel satu",
+    "option_d": "dengan mencegah organisme untuk merespons dengan cepat terhadap perubahan lingkungan"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7234483",
+    "answer": "B",
+    "instruction": "Teori dominan saat ini mengenai asal usul kehidupan di Bumi bergantung pada substansi prebiotik yang mengembangkan sifat apa terlebih dahulu?",
+    "option_a": "pemisahan yang stabil dari lingkungan mereka",
+    "option_b": "perakitan menjadi struktur yang mampu menggandakan diri sendiri",
+    "option_c": "penyimpanan sifat dalam bentuk yang terenkripsi secara kimiawi",
+    "option_d": "akumulasi molekul penyimpan energi"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7179358",
+    "answer": "B",
+    "instruction": "Ekosistem kebakaran puncak memerlukan kebakaran hutan berkala untuk menjaga kestabilannya. Mana di antara hal berikut yang kemungkinan besar terjadi jika kebakaran alami dicegah terjadi dalam ekosistem ini?",
+    "option_a": "Spesies pinus akan bereproduksi dengan lebih cepat.",
+    "option_b": "Spesies lebaran akan menggantikan spesies pinus.",
+    "option_c": "Kawasan terbakar akan lebih mudah terkendali.",
+    "option_d": "Pohon akan menyebar ke area yang sebelumnya belum ditumbuhi hutan."
+  },
+  {
+    "id": "ARC-Challenge/validation/NCEOGA_2013_8_40",
+    "answer": "C",
+    "instruction": "Bagaimana merokok tembakau kemungkinan besar berdampak negatif pada kemampuan seseorang untuk berhasil dalam aktivitas fisik?",
+    "option_a": "Merokok tembakau mengganggu keseimbangan dan koordinasi.",
+    "option_b": "Merokok tembakau mengurangi kemampuan membuat keputusan dengan cepat.",
+    "option_c": "Merokok tembakau mengurangi daya tahan dan efisiensi kardiovaskular.",
+    "option_d": "Merokok tembakau mengurangi kecepatan dan kekuatan kontraksi otot."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7100695",
+    "answer": "D",
+    "instruction": "Struktur geologi mana yang kemungkinan akan memakan waktu paling lama untuk terbentuk?",
+    "option_a": "patahan",
+    "option_b": "lubang resapan",
+    "option_c": "mekander sungai",
+    "option_d": "pegunungan"
+  },
+  {
+    "id": "ARC-Challenge/validation/MEA_2016_5_7",
+    "answer": "B",
+    "instruction": "Seorang siswa mengamati bahwa organisme satu sel dan daun tanaman memiliki bagian hijau yang serupa. Siswa berpikir bahwa kedua organisme menggunakan bagian hijau tersebut untuk hidup. Bukti apa yang mendukung kesimpulan bahwa kedua organisme membutuhkan bagian hijau untuk hidup?",
+    "option_a": "Kedua organisme menggunakan bagian hijau untuk bergerak.",
+    "option_b": "Kedua organisme akan mati jika bagian hijau dihapus.",
+    "option_c": "Bagian hijau pada kedua organisme teramati menghasilkan cahaya.",
+    "option_d": "Bagian hijau pada kedua organisme dapat membuat lebih banyak bagian hijau."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7027230",
+    "answer": "A",
+    "instruction": "Bidang topik apa yang paling baik untuk diteliti guna menemukan cara mengurangi masalah lingkungan yang disebabkan oleh manusia?",
+    "option_a": "mengubah sinar matahari menjadi listrik",
+    "option_b": "mencari cadangan batubara baru",
+    "option_c": "mencari waduk yang berisi minyak",
+    "option_d": "mengubah hutan menjadi lahan pertanian"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7245053",
+    "answer": "B",
+    "instruction": "Manakah dari senyawa-senyawa berikut yang merupakan senyawa organik?",
+    "option_a": "air (H2O)",
+    "option_b": "heksana (C6H14)",
+    "option_c": "amonia (NH3)",
+    "option_d": "dioksida sulfur (SO2)"
+  },
+  {
+    "id": "ARC-Challenge/validation/NYSEDREGENTS_2014_8_12",
+    "answer": "A",
+    "instruction": "Fungsi utama dari biji tanaman adalah untuk",
+    "option_a": "menyimpan makanan yang akan digunakan selama perkembangan awal",
+    "option_b": "menarik serbuk sari yang akan digunakan selama perkembangan",
+    "option_c": "menyerap energi cahaya yang akan digunakan selama fotosintesis",
+    "option_d": "memproduksi klorofil yang akan digunakan selama fotosintesis"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7189035",
+    "answer": "D",
+    "instruction": "Scott sedang melihat hasil persilangan antara bunga merah dan putih. Apa hasil yang paling mungkin dari persilangan yang menunjukkan dominansi tidak lengkap?",
+    "option_a": "0% bunga pink",
+    "option_b": "25% bunga putih",
+    "option_c": "50% bunga merah",
+    "option_d": "100% bunga pink"
+  },
+  {
+    "id": "ARC-Challenge/validation/LEAP_2006_8_10412",
+    "answer": "B",
+    "instruction": "Jolie ingin makan telur rebus untuk sarapan. Dia memasukkan telur dalam air mendidih selama lima belas menit. Ketika dia memecahkan kulitnya, bagian cair dari telur telah menjadi padat. Ini terjadi karena",
+    "option_a": "pemanasan menghilangkan air dari telur.",
+    "option_b": "pemanasan mengubah ikatan kimia dalam telur.",
+    "option_c": "mendidih membawa bagian telur padat ke permukaan.",
+    "option_d": "bakteri yang hidup di dalam telur cair mati."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_400172",
+    "answer": "A",
+    "instruction": "Ilmuwan mana yang mengklaim bahwa Bumi adalah pusat alam semesta?",
+    "option_a": "Aristoteles",
+    "option_b": "Copernicus",
+    "option_c": "Einstein",
+    "option_d": "Newton"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2005_5_21",
+    "answer": "D",
+    "instruction": "Anjing laut betina biasanya kembali ke pantai yang sama setiap tahun untuk melahirkan. Jika mereka terus-menerus diganggu oleh manusia di pantai-pantai tersebut, bagaimana anjing laut kemungkinan akan merespons?",
+    "option_a": "Mereka akan mengubah warnanya.",
+    "option_b": "Mereka akan melahirkan anak anjing laut yang lebih banyak.",
+    "option_c": "Mereka akan mencari makanan lebih sering.",
+    "option_d": "Mereka akan melahirkan di pantai yang berbeda."
+  },
+  {
+    "id": "ARC-Challenge/validation/MEA_2010_8_11",
+    "answer": "A",
+    "instruction": "Ketika gerakan molekul air cair melambat, apa yang kemungkinan terjadi?",
+    "option_a": "Air cair membentuk zat padat.",
+    "option_b": "Air cair mengembun.",
+    "option_c": "Air cair mengalami perubahan kimia.",
+    "option_d": "Air cair menjadi uap."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7187058",
+    "answer": "A",
+    "instruction": "Setiap malam, Johnny membaca di dekat lampu yang dinyalakan oleh bola lampu pijar. Indikasi terbaik bahwa transfer energi listrik ke lampu tersebut tidak efisien adalah?",
+    "option_a": "Bohlam menjadi panas.",
+    "option_b": "Bohlam memproduksi cahaya.",
+    "option_c": "Lampu menggunakan kabel tembaga.",
+    "option_d": "Lampu dapat dimatikan dengan saklar."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7185133",
+    "answer": "A",
+    "instruction": "Tracey sedang belajar tentang organisasi struktural pada hewan. Tingkat manakah dari organisasi struktural yang paling tepat untuk menjelaskan sebuah telur?",
+    "option_a": "sel",
+    "option_b": "jaringan",
+    "option_c": "sistem",
+    "option_d": "organ"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7183733",
+    "answer": "B",
+    "instruction": "Di Everglades, kondisi tubuh buaya Amerika berkaitan erat dengan kedalaman air. Ketika tingkat air naik terlalu tinggi, spesies hewan menyebar ke area yang lebih luas, menyebabkan penurunan kondisi tubuh karena tidak dapat menemukan sumber makanan yang cukup. Ketika tingkat air turun, spesies hewan berkumpul di area yang lebih kecil, memungkinkan buaya berburu dengan lebih efektif. Skenario ini adalah contoh bagaimana kelangsungan hidup buaya bergantung pada pembatasan faktor yang mana?",
+    "option_a": "tingkat dekomposisi",
+    "option_b": "luas habitat mangsa",
+    "option_c": "output produsen",
+    "option_d": "perputaran air"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7205345",
+    "answer": "D",
+    "instruction": "Saat garam dapur (NaCl) diproduksi, tindakan atom natrium (Na) dan klorin (Cl) berikut ini yang terbaik dijelaskan sebagai...",
+    "option_a": "Atom natrium menggantikan atom klorin.",
+    "option_b": "Atom natrium dan klorin bercampur bersama.",
+    "option_c": "Atom natrium melarut dalam atom klorin.",
+    "option_d": "Atom natrium dan klorin terikat secara kimia."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_176838",
+    "answer": "A",
+    "instruction": "Manakah di antara berikut yang bukan merupakan fungsi dari sistem peredaran darah?",
+    "option_a": "mencerna makanan menjadi nutrisi",
+    "option_b": "mengangkut nutrisi dan oksigen",
+    "option_c": "mengeluarkan limbah dari tubuh",
+    "option_d": "mempertahankan tubuh dari serangan asing"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2002_5_6",
+    "answer": "D",
+    "instruction": "Burung kolibri dapat melayang di udara dan terbang dengan sangat cepat. Hal ini menguntungkan burung kolibri pada semua hal berikut kecuali",
+    "option_a": "melarikan diri dengan cepat dari pemangsa.",
+    "option_b": "mudah mencapai bunga.",
+    "option_c": "tetap di satu tempat untuk minum nektar.",
+    "option_d": "menjaga suhu telur agar tetap hangat."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7166180",
+    "answer": "B",
+    "instruction": "Pertumbuhan tanaman dipengaruhi oleh faktor lingkungan seperti gravitasi. Jika sebuah biji diizinkan untuk berkecambah dan tumbuh saat posisinya miring, yang kemungkinan terjadi?",
+    "option_a": "akar akan tumbuh ke bawah, batang akan tumbuh ke bawah",
+    "option_b": "akar akan tumbuh ke bawah, batang akan tumbuh ke atas",
+    "option_c": "akar akan tumbuh ke atas, batang akan tumbuh ke bawah",
+    "option_d": "akar akan tumbuh ke atas, batang akan tumbuh ke atas"
+  },
+  {
+    "id": "ARC-Challenge/validation/MCAS_2012_5_23632",
+    "answer": "C",
+    "instruction": "Seorang murid mengamati sebuah batu yang terdiri dari banyak partikel pasir yang disusun dalam lapisan berwarna terang dan lapisan berwarna gelap. Pernyataan mana di bawah ini yang menjelaskan bagaimana jenis batu ini kemungkinan terbentuk?",
+    "option_a": "Tanah liat dihancurkan dan membeku di bawah gletser.",
+    "option_b": "Lava dari gunung berapi cepat membeku di air.",
+    "option_c": "Sedimen sungai perlahan-lahan terkompresi dan direkatkan bersama.",
+    "option_d": "Endapan mineral mengeras menjadi batu padat di dalam gua bawah tanah."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7267593",
+    "answer": "A",
+    "instruction": "Bencana alam mana yang paling sulit diprediksi?",
+    "option_a": "gempa bumi",
+    "option_b": "badai topan",
+    "option_c": "puting beliung",
+    "option_d": "badai salju"
+  },
+  {
+    "id": "ARC-Challenge/validation/NAEP_2005_8_S11+14",
+    "answer": "B",
+    "instruction": "Manusia TIDAK DAPAT bertahan hidup dengan kehilangan yang mana dari berikut ini?",
+    "option_a": "Apendiks",
+    "option_b": "Hati",
+    "option_c": "Paru-paru",
+    "option_d": "Ginjal"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7218750",
+    "answer": "C",
+    "instruction": "Jenis waduk air mana yang selalu dapat menyediakan air tawar?",
+    "option_a": "danau di daratan",
+    "option_b": "delta sungai",
+    "option_c": "gunung es",
+    "option_d": "laut tropis"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7026198",
+    "answer": "A",
+    "instruction": "Elemen kripton adalah gas yang hampir tidak menunjukkan aktivitas kimia. Untuk mencari elemen lain dengan sifat yang serupa, apa yang harus dicari siswa di dalam Tabel Periodik Unsur?",
+    "option_a": "suatu unsur dalam golongan yang sama",
+    "option_b": "suatu unsur dalam periode yang sama",
+    "option_c": "suatu unsur dengan muatan bersih yang sama",
+    "option_d": "suatu unsur dengan massa atom yang sama"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7081760",
+    "answer": "B",
+    "instruction": "Untuk mengklasifikasikan organisme yang baru ditemukan, seorang ilmuwan menyelidiki struktur, DNA, dan siklus hidup dari organisme tersebut. Ilmuwan kemungkinan besar akan menggunakan hasil penyelidikan untuk",
+    "option_a": "membuat metode ilmiah baru.",
+    "option_b": "merevisi pengetahuan ilmiah.",
+    "option_c": "membentuk hipotesis baru.",
+    "option_d": "membantah teori ilmiah."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7130603",
+    "answer": "C",
+    "instruction": "Manakah dari jumlah yang terdaftar diukur dalam satuan selain joule?",
+    "option_a": "kalor",
+    "option_b": "cahaya",
+    "option_c": "daya",
+    "option_d": "kerja"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7074865",
+    "answer": "C",
+    "instruction": "Yang mana diantaranya benar tentang alga, bakteri, dan tanaman berbunga?",
+    "option_a": "Mereka bersifat anorganik.",
+    "option_b": "Mereka semua memiliki klorofil.",
+    "option_c": "Mereka terdiri dari sel-sel.",
+    "option_d": "Mereka semua bertahan hidup dengan memakan organisme lain."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7042700",
+    "answer": "D",
+    "instruction": "Alat apa yang tidak dibutuhkan selama penyembelihan hewan?",
+    "option_a": "sarung tangan",
+    "option_b": "kacamata pelindung",
+    "option_c": "jas lab",
+    "option_d": "shower keamanan"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7071365",
+    "answer": "D",
+    "instruction": "Pernyataan yang mengandung fakta dalam perbandingan kupu-kupu dan ngengat adalah yang mana?",
+    "option_a": "Kupu-kupu lebih cantik dan lebih menyenangkan untuk ditonton daripada ngengat.",
+    "option_b": "Kupu-kupu lebih baik dalam terbang daripada ngengat.",
+    "option_c": "Kupu-kupu dan ngengat merasa jauh lebih bahagia di siang hari.",
+    "option_d": "Kupu-kupu dan ngengat memiliki jumlah kaki yang sama."
+  },
+  {
+    "id": "ARC-Challenge/validation/MDSA_2007_4_52",
+    "answer": "C",
+    "instruction": "Tumbuhan dan hewan membutuhkan makanan untuk pertumbuhan. Apa yang terjadi pada sebagian besar makanan yang diproduksi oleh tumbuhan?",
+    "option_a": "Makanan dilepaskan sebagai gas.",
+    "option_b": "Makanan diubah menjadi air.",
+    "option_c": "Makanan disimpan untuk digunakan di masa depan.",
+    "option_d": "Makanan digunakan untuk menyerap sinar matahari."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7026443",
+    "answer": "D",
+    "instruction": "Ciri perilaku anjing peliharaan yang diwariskan(adalah)?",
+    "option_a": "Anjing menghindari kucing peliharaan.",
+    "option_b": "Anjing melompat ke atas sofa.",
+    "option_c": "Anjing berguling atas perintah.",
+    "option_d": "Anjing meneteskan liurnya saat merasakan makanan yang wangi."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7008138",
+    "answer": "B",
+    "instruction": "Pernyataan mana yang menggambarkan asteroid dan komet?",
+    "option_a": "Asteroid adalah gas, dan komet adalah padat.",
+    "option_b": "Asteroid adalah padat, dan komet adalah gas.",
+    "option_c": "Baik asteroid maupun komet adalah padat.",
+    "option_d": "Baik asteroid maupun komet adalah gas."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_SC_402104",
+    "answer": "D",
+    "instruction": "Membuang bahan kimia beracun ke dalam kolam paling mungkin akan menghasilkan",
+    "option_a": "peningkatan level oksigen di dalam kolam.",
+    "option_b": "tanaman yang ada di dekat kolam tumbuh lebih cepat.",
+    "option_c": "bahan kimia beracun tidak memberikan efek apa-apa pada kolam.",
+    "option_d": "ikan di dalam kolam terluka atau mati."
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7086013",
+    "answer": "D",
+    "instruction": "DASAR sungai Humboldt adalah salah satu sumber daya non-renewable paling penting. Sumber daya non-renewable manakah yang dihasilkan dari dasar sungai Humboldt?",
+    "option_a": "batu bara dari deposit pegunungan",
+    "option_b": "minyak dan gas dari reservoir bawah tanah",
+    "option_c": "energi listrik dari pembangkit listrik hidroelektrik",
+    "option_d": "mineral dari penambangan emas, perak, dan tembaga"
+  },
+  {
+    "id": "ARC-Challenge/validation/Mercury_7248238",
+    "answer": "D",
+    "instruction": "Ikan penghisap nyamuk yang ditemukan di pulau-pulau Bahama hidup di berbagai kolam air tawar terisolasi yang pada awalnya adalah satu badan air. Ketika beberapa ikan penghisap nyamuk jantan dan betina diambil dari dua kolam terisolasi dan ditempatkan ke dalam satu kolam, preferensi perkawinan setiap ikan penghisap nyamuk adalah untuk ikan dari kolam asalnya. Yang mana dari pilihan ini yang paling mungkin menyebabkan preferensi perkawinan ini?",
+    "option_a": "Ketersediaan makanan memengaruhi preferensi perkawinan ikan.",
+    "option_b": "Persaingan untuk pasangan yang cocok memengaruhi preferensi perkawinan.",
+    "option_c": "Predator di kolam memengaruhi preferensi perkawinan ikan.",
+    "option_d": "Spesiasi karena isolasi reproduksi memengaruhi preferensi perkawinan."
+  }
+]
