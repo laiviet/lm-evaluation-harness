@@ -1,8 +1,15 @@
 import argparse
+import glob
 import json
 import logging
 import fnmatch
 import os
+
+
+if os.path.exists('/mnt/localssd/'):
+    os.environ['TRANSFORMERS_CACHE'] = '/mnt/localssd/cache'
+
+
 
 from lm_eval import tasks, evaluator
 
@@ -36,12 +43,13 @@ def parse_args():
     parser = argparse.ArgumentParser()
     parser.add_argument("--model", default='hf-auto')
     parser.add_argument("--model_alias", type=str, required=True)
+    parser.add_argument("--task_alias", type=str, default='open_llm', required=True)
     parser.add_argument("--model_args", default="")
-    parser.add_argument("--tasks", default=None, choices=MultiChoice(tasks.ALL_TASKS))
+    parser.add_argument("--tasks", default='arc_vi,mmlu_vi,hellaswag_vi,truthfulqa_vi')
     parser.add_argument("--provide_description", action="store_true")
-    parser.add_argument("--num_fewshot", type=int, default=0)
-    parser.add_argument("--batch_size", type=str, default=None)
-    parser.add_argument("--device", type=str, default=None)
+    # parser.add_argument("--num_fewshot", type=int, default=0)
+    parser.add_argument("--batch_size", type=int, default=1)
+    parser.add_argument("--device", type=str, default='cuda')
     parser.add_argument("--output_path", default=None)
     parser.add_argument("--limit", type=float, default=None,
                         help="Limit the number of examples per task. "
@@ -79,20 +87,17 @@ def main():
         print(
             "WARNING: --limit SHOULD ONLY BE USED FOR TESTING. REAL METRICS SHOULD NOT BE COMPUTED USING LIMIT."
         )
+    task_names = args.tasks.split(',')
+    task_names = pattern_match(task_names, tasks.ALL_TASKS)
 
-    if args.tasks is None:
-        task_names = tasks.ALL_TASKS
-    else:
-        task_names = pattern_match(args.tasks.split(","), tasks.ALL_TASKS)
+    output_filename = f'{args.task_alias}-{args.model_alias}.json'
+    output_file = os.path.join('logs', output_filename)
+    existing_output_files = glob.glob('logs/*.json') + glob.glob('logs/*/*.json')
+    existing_filenames = [os.path.basename(x) for x in existing_output_files]
 
-    task_names = [task_names[0]]
-    task_name = task_names[0]
-    model_alias = args.model_alias
-
-    output_file = f'logs/{task_name}_{model_alias}.json'
-
-    if os.path.exists(output_file):
-        print(f"Skipping {task_name} {model_alias}. Log file exists at {output_file}")
+    if output_filename in existing_filenames:
+        i = existing_filenames.index(output_filename)
+        print(f"Skipping {args.task_alias}. Log file exists at {existing_output_files[i]}")
         return
 
     print(f"Selected Tasks: {task_names}")
@@ -117,8 +122,6 @@ def main():
         output_base_path=args.output_base_path,
     )
 
-
-
     dumped = json.dumps(results, indent=2)
     with open(output_file, 'w') as f:
         json.dump(results, f, indent=2, ensure_ascii=False)
@@ -127,11 +130,6 @@ def main():
         os.makedirs(os.path.dirname(args.output_path), exist_ok=True)
         with open(args.output_path, "w") as f:
             f.write(dumped)
-
-    print(
-        f"{args.model} ({args.model_args}), limit: {args.limit}, provide_description: {args.provide_description}, "
-        f"num_fewshot: {args.num_fewshot}, batch_size: {args.batch_size}"
-    )
     print(evaluator.make_table(results))
 
 
