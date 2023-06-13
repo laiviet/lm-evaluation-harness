@@ -1,0 +1,23 @@
+{
+  "results": {
+    "hellaswag_hu": {
+      "acc": 0.31879929886064856,
+      "acc_stderr": 0.004877892181685683,
+      "acc_norm": 0.3785056967572305,
+      "acc_norm_stderr": 0.005076808255387223
+    }
+  },
+  "versions": {
+    "hellaswag_hu": 1
+  },
+  "config": {
+    "model": "hf-auto",
+    "model_args": "pretrained=/sensei-fs/users/daclai/uoChatGPT/llama-7B",
+    "batch_size": "1",
+    "device": "cuda",
+    "no_cache": false,
+    "limit": null,
+    "bootstrap_iters": 100000,
+    "description_dict": {}
+  }
+}

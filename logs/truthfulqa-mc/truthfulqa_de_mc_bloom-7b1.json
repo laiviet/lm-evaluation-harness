@@ -1,0 +1,23 @@
+{
+  "results": {
+    "truthfulqa_de_mc": {
+      "mc1": 0.24746192893401014,
+      "mc1_stderr": 0.015382646812261827,
+      "mc2": 0.4351673407370902,
+      "mc2_stderr": 0.015914493454090475
+    }
+  },
+  "versions": {
+    "truthfulqa_de_mc": 1
+  },
+  "config": {
+    "model": "hf-auto",
+    "model_args": "pretrained=/sensei-fs/users/daclai/uoChatGPT/bloom-7b1",
+    "batch_size": "1",
+    "device": "cuda",
+    "no_cache": false,
+    "limit": null,
+    "bootstrap_iters": 100000,
+    "description_dict": {}
+  }
+}

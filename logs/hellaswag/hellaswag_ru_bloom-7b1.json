@@ -1,0 +1,23 @@
+{
+  "results": {
+    "hellaswag_ru": {
+      "acc": 0.2975625539257981,
+      "acc_stderr": 0.004748207348707273,
+      "acc_norm": 0.32538826574633306,
+      "acc_norm_stderr": 0.004865915900810558
+    }
+  },
+  "versions": {
+    "hellaswag_ru": 1
+  },
+  "config": {
+    "model": "hf-auto",
+    "model_args": "pretrained=bigscience/bloom-7b1",
+    "batch_size": 1,
+    "device": "cuda",
+    "no_cache": false,
+    "limit": null,
+    "bootstrap_iters": 100000,
+    "description_dict": {}
+  }
+}

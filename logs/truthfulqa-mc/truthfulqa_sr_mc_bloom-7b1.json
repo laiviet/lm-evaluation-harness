@@ -1,0 +1,23 @@
+{
+  "results": {
+    "truthfulqa_sr_mc": {
+      "mc1": 0.2875318066157761,
+      "mc1_stderr": 0.016154400981864346,
+      "mc2": 0.4611856949025646,
+      "mc2_stderr": 0.01648960635223338
+    }
+  },
+  "versions": {
+    "truthfulqa_sr_mc": 1
+  },
+  "config": {
+    "model": "hf-auto",
+    "model_args": "pretrained=bigscience/bloom-7b1",
+    "batch_size": "1",
+    "device": "cuda",
+    "no_cache": false,
+    "limit": null,
+    "bootstrap_iters": 100000,
+    "description_dict": {}
+  }
+}

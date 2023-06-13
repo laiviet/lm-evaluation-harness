@@ -1,0 +1,23 @@
+{
+  "results": {
+    "arc_kn_challenge": {
+      "acc": 0.25524475524475526,
+      "acc_stderr": 0.025826334320570847,
+      "acc_norm": 0.2762237762237762,
+      "acc_norm_stderr": 0.026485626798716456
+    }
+  },
+  "versions": {
+    "arc_kn_challenge": 0
+  },
+  "config": {
+    "model": "hf-auto",
+    "model_args": "pretrained=/sensei-fs/users/daclai/uoChatGPT/llama-7B",
+    "batch_size": "1",
+    "device": "cuda",
+    "no_cache": false,
+    "limit": null,
+    "bootstrap_iters": 100000,
+    "description_dict": {}
+  }
+}

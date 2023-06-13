@@ -1,0 +1,23 @@
+{
+  "results": {
+    "truthfulqa_ru_mc": {
+      "mc1": 0.24556962025316456,
+      "mc1_stderr": 0.015323515145952671,
+      "mc2": 0.40851860840920967,
+      "mc2_stderr": 0.015225752517489843
+    }
+  },
+  "versions": {
+    "truthfulqa_ru_mc": 1
+  },
+  "config": {
+    "model": "hf-auto",
+    "model_args": "pretrained=/sensei-fs/users/daclai/uoChatGPT/llama-7B",
+    "batch_size": "1",
+    "device": "cuda",
+    "no_cache": false,
+    "limit": null,
+    "bootstrap_iters": 100000,
+    "description_dict": {}
+  }
+}
