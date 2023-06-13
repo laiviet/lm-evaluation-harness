@@ -24,31 +24,35 @@ _CITATION = """
 }
 """
 
-
 LANGS = 'ar,bn,ca,da,de,es,eu,fr,gu,hi,hr,hu,hy,id,it,kn,ml,mr,ne,nl,pt,ro,ru,sk,sr,sv,ta,te,uk,vi,zh'.split(',')
 
 
 def create_all_tasks():
     """Creates a dictionary of tasks from a list of subjects
     :return: {task_name: task}
-        e.g. {hendrycksTest-abstract_algebra: Task, hendrycksTest-anatomy: Task}
+        e.g. {arc_vi: Task, arc_bn: Task}
     """
-    return {f"arc_challenge_{lang}": create_task(lang) for lang in LANGS}
+    return {f"arc_{lang}": create_task(lang) for lang in LANGS}
 
 
 def create_task(lang):
+
     class ATest(MultilingualARC):
         def __init__(self):
             super().__init__(lang)
-            self.DATASET_NAME = f"arc_challenge_{lang}"
 
     return ATest
 
 
 class MultilingualARC(MultipleChoiceTask):
-    VERSION = 0
-    DATASET_PATH = 'datasets/m_arc'
-    NUM_FEW_SHOT = 25
+
+    def __init__(self, lang, **kwargs):
+        self.VERSION = 0
+        self.lang = lang
+        self.DATASET_NAME = f"arc_{lang}"
+        self.DATASET_PATH = 'datasets/m_arc'
+        self.NUM_FEW_SHOT = 25
+        super().__init__(**kwargs)
 
     def has_training_docs(self):
         return True
@@ -88,5 +92,3 @@ class MultilingualARC(MultipleChoiceTask):
 
     def doc_to_decontamination_query(self, doc):
         return doc["query"]
-
-

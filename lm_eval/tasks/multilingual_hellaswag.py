@@ -25,11 +25,36 @@ _CITATION = """
 }
 """
 
+LANGS = 'ar,bn,ca,da,de,es,eu,fr,gu,hi,hr,hu,hy,id,it,kn,ml,mr,ne,nl,pt,ro,ru,sk,sr,sv,ta,te,uk,vi,zh'.split(',')
+
+
+def create_all_tasks():
+    """Creates a dictionary of tasks from a list of subjects
+    :return: {task_name: task}
+        e.g. {hellaswag_vi: Task, hellaswag_en: Task}
+    """
+    return {f"hellaswag_{lang}": create_task(lang) for lang in LANGS}
+
+
+def create_task(lang):
+    class ATest(HellaSwag):
+        def __init__(self):
+            super().__init__(lang)
+
+
+    return ATest
+
 
 class HellaSwag(MultipleChoiceTask):
-    VERSION = 1
-    DATASET_PATH = "datasets/m_hellaswag"
-    NUM_FEW_SHOT = 10
+
+    def __init__(self, lang, **kwargs):
+        self.VERSION = 1
+        self.lang = lang
+        self.DATASET_NAME = f"hellaswag_{lang}"
+        self.DATASET_PATH = 'datasets/m_hellaswag'
+        self.NUM_FEW_SHOT = 0
+        super().__init__(**kwargs)
+
 
     def has_training_docs(self):
         return False
@@ -74,130 +99,3 @@ class HellaSwag(MultipleChoiceTask):
 
     def doc_to_decontamination_query(self, doc):
         return doc["query"]
-
-
-LANGS = 'ar,bn,ca,da,de,es,eu,fr,gu,hi,hr,hu,hy,id,it,kn,ml,mr,ne,nl,pt,ro,ru,sk,sr,sv,ta,te,uk,vi,zh'.split(',')
-
-
-class deHellaSwag(HellaSwag):
-    DATASET_NAME = "de"
-
-
-class arHellaSwag(HellaSwag):
-    DATASET_NAME = "ar"
-
-
-class bnHellaSwag(HellaSwag):
-    DATASET_NAME = "bn"
-
-
-class caHellaSwag(HellaSwag):
-    DATASET_NAME = "ca"
-
-
-class daHellaSwag(HellaSwag):
-    DATASET_NAME = "da"
-
-
-class esHellaSwag(HellaSwag):
-    DATASET_NAME = "es"
-
-
-class euHellaSwag(HellaSwag):
-    DATASET_NAME = "eu"
-
-
-class frHellaSwag(HellaSwag):
-    DATASET_NAME = "fr"
-
-
-class guHellaSwag(HellaSwag):
-    DATASET_NAME = "gu"
-
-
-class hiHellaSwag(HellaSwag):
-    DATASET_NAME = "hi"
-
-
-class hrHellaSwag(HellaSwag):
-    DATASET_NAME = "hr"
-
-
-class huHellaSwag(HellaSwag):
-    DATASET_NAME = "hu"
-
-
-class hyHellaSwag(HellaSwag):
-    DATASET_NAME = "hy"
-
-
-class idHellaSwag(HellaSwag):
-    DATASET_NAME = "id"
-
-
-class itHellaSwag(HellaSwag):
-    DATASET_NAME = "it"
-
-
-class knHellaSwag(HellaSwag):
-    DATASET_NAME = "kn"
-
-
-class mlHellaSwag(HellaSwag):
-    DATASET_NAME = "ml"
-
-
-class mrHellaSwag(HellaSwag):
-    DATASET_NAME = "mr"
-
-
-class neHellaSwag(HellaSwag):
-    DATASET_NAME = "ne"
-
-
-class nlHellaSwag(HellaSwag):
-    DATASET_NAME = "nl"
-
-
-class ptHellaSwag(HellaSwag):
-    DATASET_NAME = "pt"
-
-
-class roHellaSwag(HellaSwag):
-    DATASET_NAME = "ro"
-
-
-class ruHellaSwag(HellaSwag):
-    DATASET_NAME = "ru"
-
-
-class skHellaSwag(HellaSwag):
-    DATASET_NAME = "sk"
-
-
-class srHellaSwag(HellaSwag):
-    DATASET_NAME = "sr"
-
-
-class svHellaSwag(HellaSwag):
-    DATASET_NAME = "sv"
-
-
-class taHellaSwag(HellaSwag):
-    DATASET_NAME = "ta"
-
-
-class teHellaSwag(HellaSwag):
-    DATASET_NAME = "te"
-
-
-class ukHellaSwag(HellaSwag):
-    DATASET_NAME = "uk"
-
-
-class viHellaSwag(HellaSwag):
-    DATASET_NAME = "vi"
-
-
-class zhHellaSwag(HellaSwag):
-    DATASET_NAME = "zh"

@@ -70,19 +70,10 @@ def open_llm_evaluate(
         assert isinstance(model, lm_eval.base.LM)
         lm = model
 
-    if not no_cache:
-        lm = lm_eval.base.CachingLM(
-            lm,
-            "lm_cache/"
-            + model
-            + "_"
-            + model_args.replace("=", "-").replace(",", "_").replace("/", "-")
-            + ".db",
-        )
-
     task_dict = lm_eval.tasks.get_task_dict(tasks)
 
     if check_integrity:
+        print('| Check integrity of tasks')
         run_task_tests(task_list=tasks)
 
     results = evaluate(
@@ -118,7 +109,6 @@ decontaminate_suffix = "_decontaminate"
 def evaluate(
     lm,
     task_dict,
-    provide_description=None,
     limit=None,
     bootstrap_iters=100000,
     description_dict=None,
@@ -132,8 +122,6 @@ def evaluate(
         Language Model
     :param task_dict: dict[str, Task]
         Dictionary of tasks. Tasks will be taken to have name task.EVAL_HARNESS_NAME if defined and type(task).__name__ otherwise.
-    :param provide_description: bool
-        Not implemented, and this option is deprecated and will be removed in a future version in favor of a different description providing method
     :param limit: int, optional
         Limit the number of examples per task (only use this for testing)
     :param bootstrap_iters:
@@ -150,12 +138,6 @@ def evaluate(
     # TODO: completely refactor this entire function to not be a huge mess, ideally breaking it down into smaller pieces
 
     # TODO: todo: implement proper description-providing system
-    assert not provide_description  # not implemented.
-    if provide_description is not None:
-        # nudge people to not specify it at all
-        print(
-            "WARNING: provide_description is deprecated and will be removed in a future version in favor of description_dict"
-        )
 
     decontaminate = decontamination_ngrams_path is not None
 
@@ -190,9 +172,11 @@ def evaluate(
         # default to test doc, fall back to val doc if validation unavailable
         # TODO: the test-fallback-to-val system isn't final, we should revisit it at some point
         if task.has_test_docs():
+            print('Using test docs for task "{}"'.format(task_name))
             task_doc_func = task.test_docs
             task_set = "test"  # Required for caching in the decontamination
         elif task.has_validation_docs():
+            print('Using validation docs for task "{}"'.format(task_name))
             task_set = "val"  # Required for caching in the decontamination
             task_doc_func = task.validation_docs
         else:
@@ -203,6 +187,7 @@ def evaluate(
         rnd = random.Random()
         rnd.seed(42)
         rnd.shuffle(task_docs)
+
         print(f"Task: {task_name}; number of docs: {len(task_docs)}")
 
         if write_out:

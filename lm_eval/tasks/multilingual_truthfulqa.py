@@ -68,14 +68,15 @@ def create_all_tasks():
     :return: {task_name: task}
         e.g. {hendrycksTest-abstract_algebra: Task, hendrycksTest-anatomy: Task}
     """
-    return {f"truthfulqa_mc_{lang}": create_task(lang) for lang in LANGS}
+    return {f"truthfulqa_{lang}": create_task(lang) for lang in LANGS}
 
 
 def create_task(lang):
     class ATest(TruthfulQAMultipleChoice):
         def __init__(self):
+
+            self.DATASET_NAME = f"truthfulqa_{lang}"
             super().__init__(lang)
-            self.DATASET_NAME = f"truthfulqa_mc_{lang}"
 
     return ATest
 

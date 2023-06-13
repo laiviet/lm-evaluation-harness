@@ -4,64 +4,66 @@ from typing import List, Union
 import sacrebleu
 import lm_eval.base
 
-from . import superglue
-from . import glue
-from . import arc
-from . import coqa
-from . import race
-from . import webqs
 from . import anli
-from . import wsc273
-from . import winogrande
-from . import quac
-from . import hellaswag
-from . import swag
-from . import openbookqa
-from . import squad
-from . import naturalqs
-from . import sat
+from . import arc
 from . import arithmetic
+from . import asdiv
+from . import bigbench
+from . import blimp
+from . import cbt
+from . import coqa
+from . import crowspairs
+from . import drop
+from . import glue
+from . import gsm8k
+from . import headqa
+from . import hellaswag
+from . import hendrycks_ethics
+from . import hendrycks_math
+from . import hendrycks_test
+from . import json
 from . import lambada
+from . import lambada_cloze
+from . import lambada_multilingual
+from . import logiqa
+from . import mathqa
+from . import mc_taco
+from . import mgsm
+from . import multilingual_arc
+from . import multilingual_mmlu
+from . import multilingual_hellaswag
+from . import multilingual_truthfulqa
+from . import mutual
+from . import naturalqs
+from . import openbookqa
+from . import pawsx
+from . import pile
 from . import piqa
 from . import prost
-from . import mc_taco
-from . import triviaqa
 from . import pubmedqa
-from . import sciq
-from . import qasper
 from . import qa4mre
-from . import translation
-from . import headqa
-from . import mathqa
-from . import hendrycks_ethics
-from . import drop
-from . import unscramble
-from . import logiqa
-from . import hendrycks_test
-from . import hendrycks_math
-from . import cbt
-from . import lambada_cloze
-from . import pile
-from . import wikitext
-from . import lambada_multilingual
-from . import mutual
-from . import truthfulqa
-from . import blimp
-from . import asdiv
-from . import gsm8k
+from . import qasper
+from . import quac
+from . import race
+from . import sat
+from . import sciq
+from . import squad
 from . import storycloze
+from . import superglue
+from . import swag
 from . import toxigen
-from . import crowspairs
-from . import json
+from . import translation
+from . import triviaqa
+from . import truthfulqa
+from . import unscramble
+from . import webqs
+from . import wikitext
+from . import winogrande
+from . import wsc273
 from . import xcopa
-from . import bigbench
+from . import xnli
 from . import xstorycloze
 from . import xwinograd
-from . import pawsx
-from . import xnli
-from . import mgsm
-from . import truthfulqa_multilingual
-from . import arc_multilingual
 
 ########################################
 # Translation tasks
@@ -72,7 +74,6 @@ gpt3_translation_benchmarks = {
     "wmt14": ["en-fr", "fr-en"],  # French
     "wmt16": ["en-ro", "ro-en", "de-en", "en-de"],  # German, Romanian
 }
-
 
 # 28 total
 selected_translation_benchmarks = {
@@ -87,78 +88,17 @@ all_translation_benchmarks = {
     for ts in sacrebleu.get_available_testsets()
 }
 
-
 ########################################
 # All tasks
 ########################################
 
-LANGS = 'ar,bn,ca,da,de,es,eu,fr,gu,hi,hr,hu,hy,id,it,kn,ml,mr,ne,nl,pt,ro,ru,sk,sr,sv,ta,te,uk,vi,zh'.split(',')
-
-
 TASK_REGISTRY = {
-    # ARC Multilingual
-    "arc_ar_easy": arc_multilingual.arArcEasy,
-    "arc_ar_challenge": arc_multilingual.arArcChallenge,
-    "arc_bn_easy": arc_multilingual.bnArcEasy,
-    "arc_bn_challenge": arc_multilingual.bnArcChallenge,
-    "arc_ca_easy": arc_multilingual.caArcEasy,
-    "arc_ca_challenge": arc_multilingual.caArcChallenge,
-    "arc_da_easy": arc_multilingual.daArcEasy,
-    "arc_da_challenge": arc_multilingual.daArcChallenge,
-    "arc_de_easy": arc_multilingual.deArcEasy,
-    "arc_de_challenge": arc_multilingual.deArcChallenge,
-    "arc_es_easy": arc_multilingual.esArcEasy,
-    "arc_es_challenge": arc_multilingual.esArcChallenge,
-    "arc_eu_easy": arc_multilingual.euArcEasy,
-    "arc_eu_challenge": arc_multilingual.euArcChallenge,
-    "arc_fr_easy": arc_multilingual.frArcEasy,
-    "arc_fr_challenge": arc_multilingual.frArcChallenge,
-    "arc_gu_easy": arc_multilingual.guArcEasy,
-    "arc_gu_challenge": arc_multilingual.guArcChallenge,
-    "arc_hi_easy": arc_multilingual.hiArcEasy,
-    "arc_hi_challenge": arc_multilingual.hiArcChallenge,
-    "arc_hr_easy": arc_multilingual.hrArcEasy,
-    "arc_hr_challenge": arc_multilingual.hrArcChallenge,
-    "arc_hu_easy": arc_multilingual.huArcEasy,
-    "arc_hu_challenge": arc_multilingual.huArcChallenge,
-    "arc_hy_easy": arc_multilingual.hyArcEasy,
-    "arc_hy_challenge": arc_multilingual.hyArcChallenge,
-    "arc_id_easy": arc_multilingual.idArcEasy,
-    "arc_id_challenge": arc_multilingual.idArcChallenge,
-    "arc_it_easy": arc_multilingual.itArcEasy,
-    "arc_it_challenge": arc_multilingual.itArcChallenge,
-    "arc_kn_easy": arc_multilingual.knArcEasy,
-    "arc_kn_challenge": arc_multilingual.knArcChallenge,
-    "arc_ml_easy": arc_multilingual.mlArcEasy,
-    "arc_ml_challenge": arc_multilingual.mlArcChallenge,
-    "arc_mr_easy": arc_multilingual.mrArcEasy,
-    "arc_mr_challenge": arc_multilingual.mrArcChallenge,
-    "arc_ne_easy": arc_multilingual.neArcEasy,
-    "arc_ne_challenge": arc_multilingual.neArcChallenge,
-    "arc_nl_easy": arc_multilingual.nlArcEasy,
-    "arc_nl_challenge": arc_multilingual.nlArcChallenge,
-    "arc_pt_easy": arc_multilingual.ptArcEasy,
-    "arc_pt_challenge": arc_multilingual.ptArcChallenge,
-    "arc_ro_easy": arc_multilingual.roArcEasy,
-    "arc_ro_challenge": arc_multilingual.roArcChallenge,
-    "arc_ru_easy": arc_multilingual.ruArcEasy,
-    "arc_ru_challenge": arc_multilingual.ruArcChallenge,
-    "arc_sk_easy": arc_multilingual.skArcEasy,
-    "arc_sk_challenge": arc_multilingual.skArcChallenge,
-    "arc_sr_easy": arc_multilingual.srArcEasy,
-    "arc_sr_challenge": arc_multilingual.srArcChallenge,
-    "arc_sv_easy": arc_multilingual.svArcEasy,
-    "arc_sv_challenge": arc_multilingual.svArcChallenge,
-    "arc_ta_easy": arc_multilingual.taArcEasy,
-    "arc_ta_challenge": arc_multilingual.taArcChallenge,
-    "arc_te_easy": arc_multilingual.teArcEasy,
-    "arc_te_challenge": arc_multilingual.teArcChallenge,
-    "arc_uk_easy": arc_multilingual.ukArcEasy,
-    "arc_uk_challenge": arc_multilingual.ukArcChallenge,
-    "arc_vi_easy": arc_multilingual.viArcEasy,
-    "arc_vi_challenge": arc_multilingual.viArcChallenge,
-    "arc_zh_easy": arc_multilingual.zhArcEasy,
-    "arc_zh_challenge": arc_multilingual.zhArcChallenge,
+    # Multilingual OpenLLM Evaluation
+    **multilingual_arc.create_all_tasks(),
+    **multilingual_mmlu.create_all_tasks(),
+    **multilingual_truthfulqa.create_all_tasks(),
+    **multilingual_hellaswag.create_all_tasks(),
+
     # GLUE
     "cola": glue.CoLA,
     "mnli": glue.MNLI,
@@ -227,66 +167,6 @@ TASK_REGISTRY = {
     "ethics_utilitarianism_original": hendrycks_ethics.EthicsUtilitarianismOriginal,
     "ethics_utilitarianism": hendrycks_ethics.EthicsUtilitarianism,
     "ethics_virtue": hendrycks_ethics.EthicsVirtue,
-    "truthfulqa_mc": truthfulqa.TruthfulQAMultipleChoice,
-    "truthfulqa_gen": truthfulqa.TruthfulQAGeneration,
-    "truthfulqa_ar_mc": truthfulqa_multilingual.arTruthfulQAMultipleChoice,
-    "truthfulqa_ar_gen": truthfulqa_multilingual.arTruthfulQAGeneration,
-    "truthfulqa_bn_mc": truthfulqa_multilingual.bnTruthfulQAMultipleChoice,
-    "truthfulqa_bn_gen": truthfulqa_multilingual.bnTruthfulQAGeneration,
-    "truthfulqa_ca_mc": truthfulqa_multilingual.caTruthfulQAMultipleChoice,
-    "truthfulqa_ca_gen": truthfulqa_multilingual.caTruthfulQAGeneration,
-    "truthfulqa_da_mc": truthfulqa_multilingual.daTruthfulQAMultipleChoice,
-    "truthfulqa_da_gen": truthfulqa_multilingual.daTruthfulQAGeneration,
-    "truthfulqa_de_mc": truthfulqa_multilingual.deTruthfulQAMultipleChoice,
-    "truthfulqa_de_gen": truthfulqa_multilingual.deTruthfulQAGeneration,
-    "truthfulqa_es_mc": truthfulqa_multilingual.esTruthfulQAMultipleChoice,
-    "truthfulqa_es_gen": truthfulqa_multilingual.esTruthfulQAGeneration,
-    "truthfulqa_eu_mc": truthfulqa_multilingual.euTruthfulQAMultipleChoice,
-    "truthfulqa_eu_gen": truthfulqa_multilingual.euTruthfulQAGeneration,
-    "truthfulqa_fr_mc": truthfulqa_multilingual.frTruthfulQAMultipleChoice,
-    "truthfulqa_fr_gen": truthfulqa_multilingual.frTruthfulQAGeneration,
-    "truthfulqa_gu_mc": truthfulqa_multilingual.guTruthfulQAMultipleChoice,
-    "truthfulqa_gu_gen": truthfulqa_multilingual.guTruthfulQAGeneration,
-    "truthfulqa_hi_mc": truthfulqa_multilingual.hiTruthfulQAMultipleChoice,
-    "truthfulqa_hi_gen": truthfulqa_multilingual.hiTruthfulQAGeneration,
-    "truthfulqa_hr_mc": truthfulqa_multilingual.hrTruthfulQAMultipleChoice,
-    "truthfulqa_hr_gen": truthfulqa_multilingual.hrTruthfulQAGeneration,
-    "truthfulqa_hu_mc": truthfulqa_multilingual.huTruthfulQAMultipleChoice,
-    "truthfulqa_hu_gen": truthfulqa_multilingual.huTruthfulQAGeneration,
-    "truthfulqa_hy_mc": truthfulqa_multilingual.hyTruthfulQAMultipleChoice,
-    "truthfulqa_hy_gen": truthfulqa_multilingual.hyTruthfulQAGeneration,
-    "truthfulqa_id_mc": truthfulqa_multilingual.idTruthfulQAMultipleChoice,
-    "truthfulqa_id_gen": truthfulqa_multilingual.idTruthfulQAGeneration,
-    "truthfulqa_it_mc": truthfulqa_multilingual.itTruthfulQAMultipleChoice,
-    "truthfulqa_it_gen": truthfulqa_multilingual.itTruthfulQAGeneration,
-    "truthfulqa_kn_mc": truthfulqa_multilingual.knTruthfulQAMultipleChoice,
-    "truthfulqa_kn_gen": truthfulqa_multilingual.knTruthfulQAGeneration,
-    "truthfulqa_ml_mc": truthfulqa_multilingual.mlTruthfulQAMultipleChoice,
-    "truthfulqa_ml_gen": truthfulqa_multilingual.mlTruthfulQAGeneration,
-    "truthfulqa_mr_mc": truthfulqa_multilingual.mrTruthfulQAMultipleChoice,
-    "truthfulqa_mr_gen": truthfulqa_multilingual.mrTruthfulQAGeneration,
-    "truthfulqa_ne_mc": truthfulqa_multilingual.neTruthfulQAMultipleChoice,
-    "truthfulqa_ne_gen": truthfulqa_multilingual.neTruthfulQAGeneration,
-    "truthfulqa_nl_mc": truthfulqa_multilingual.nlTruthfulQAMultipleChoice,
-    "truthfulqa_nl_gen": truthfulqa_multilingual.nlTruthfulQAGeneration,
-    "truthfulqa_pt_mc": truthfulqa_multilingual.ptTruthfulQAMultipleChoice,
-    "truthfulqa_pt_gen": truthfulqa_multilingual.ptTruthfulQAGeneration,
-    "truthfulqa_ro_mc": truthfulqa_multilingual.roTruthfulQAMultipleChoice,
-    "truthfulqa_ro_gen": truthfulqa_multilingual.roTruthfulQAGeneration,
-    "truthfulqa_ru_mc": truthfulqa_multilingual.ruTruthfulQAMultipleChoice,
-    "truthfulqa_ru_gen": truthfulqa_multilingual.ruTruthfulQAGeneration,
-    "truthfulqa_sv_mc": truthfulqa_multilingual.svTruthfulQAMultipleChoice,
-    "truthfulqa_sv_gen": truthfulqa_multilingual.svTruthfulQAGeneration,
-    "truthfulqa_ta_mc": truthfulqa_multilingual.taTruthfulQAMultipleChoice,
-    "truthfulqa_ta_gen": truthfulqa_multilingual.taTruthfulQAGeneration,
-    "truthfulqa_te_mc": truthfulqa_multilingual.teTruthfulQAMultipleChoice,
-    "truthfulqa_te_gen": truthfulqa_multilingual.teTruthfulQAGeneration,
-    "truthfulqa_uk_mc": truthfulqa_multilingual.ukTruthfulQAMultipleChoice,
-    "truthfulqa_uk_gen": truthfulqa_multilingual.ukTruthfulQAGeneration,
-    "truthfulqa_vi_mc": truthfulqa_multilingual.viTruthfulQAMultipleChoice,
-    "truthfulqa_vi_gen": truthfulqa_multilingual.viTruthfulQAGeneration,
-    "truthfulqa_zh_mc": truthfulqa_multilingual.zhTruthfulQAMultipleChoice,
-    "truthfulqa_zh_gen": truthfulqa_multilingual.zhTruthfulQAGeneration,
 
     # dialogue
     "mutual": mutual.MuTual,
@@ -316,6 +196,7 @@ TASK_REGISTRY = {
     #   e.g. anli, arithmetic, openai_translations, harness_translations
     # hendrycksTest (57 tasks)
     **hendrycks_test.create_all_tasks(),
+
     # e.g. wmt14-fr-en
     **translation.create_tasks_from_benchmarks(gpt3_translation_benchmarks),
     # chef's selection, mostly wmt20
@@ -452,7 +333,6 @@ TASK_REGISTRY = {
     **xnli.construct_tasks(),
     **mgsm.construct_tasks(),
 }
-
 
 ALL_TASKS = sorted(list(TASK_REGISTRY))
 

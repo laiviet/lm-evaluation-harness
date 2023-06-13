@@ -263,16 +263,18 @@ class BaseLM(LM):
         # pull longest context sample from request
         if len(re_ord.get_reordered()) > 0:
             _, context_enc, continuation_enc = re_ord.get_reordered()[0]
-            max_context = len((context_enc + continuation_enc)[-(self.max_length + 1) :][:-1])
+            max_context = len((context_enc + continuation_enc)[-(self.max_length + 1):][:-1])
             if (self.batch_size == 'auto'):
-                
+
                 if override_bs is None:
                     print('Passed argument batch_size = auto. Detecting largest batch size')
-                    @find_executable_batch_size(starting_batch_size=512) # if OOM, then halves batch_size and tries again
+
+                    @find_executable_batch_size(
+                        starting_batch_size=512)  # if OOM, then halves batch_size and tries again
                     def forward_batch(batch_size):
                         test_batch = torch.ones((batch_size, max_context), device=self.device).long()
                         for _ in range(5):
-                            out = F.log_softmax(self._model_call(test_batch), dim = -1).cpu()
+                            out = F.log_softmax(self._model_call(test_batch), dim=-1).cpu()
                         return batch_size
 
                     batch_size = forward_batch()
@@ -285,8 +287,8 @@ class BaseLM(LM):
             adaptive_batch_size = 0 if override_bs is None else override_bs
 
         for chunk in utils.chunks(
-            tqdm(re_ord.get_reordered(), disable=disable_tqdm),
-            self.batch_size if self.batch_size != "auto" else adaptive_batch_size,
+                tqdm(re_ord.get_reordered(), disable=disable_tqdm),
+                self.batch_size if self.batch_size != "auto" else adaptive_batch_size,
         ):
             inps = []
             cont_toks_list = []
@@ -313,7 +315,7 @@ class BaseLM(LM):
 
                 # when too long to fit in context, truncate from the left
                 inp = torch.tensor(
-                    (context_enc + continuation_enc)[-(self.max_length + 1) :][:-1],
+                    (context_enc + continuation_enc)[-(self.max_length + 1):][:-1],
                     dtype=torch.long,
                 ).to(self.device)
                 (inplen,) = inp.shape
@@ -346,12 +348,11 @@ class BaseLM(LM):
             ).cpu()  # [batch, padding_length, vocab]
 
             for (cache_key, _, _), logits, inp, inplen, cont_toks in zip(
-                chunk, multi_logits, inps, inplens, cont_toks_list
+                    chunk, multi_logits, inps, inplens, cont_toks_list
             ):
-
                 # Slice to original seq length
                 contlen = len(cont_toks)
-                logits = logits[inplen - contlen : inplen].unsqueeze(
+                logits = logits[inplen - contlen: inplen].unsqueeze(
                     0
                 )  # [1, seq, vocab]
 
@@ -403,7 +404,7 @@ class BaseLM(LM):
                 primary_until = None
 
             context_enc = torch.tensor(
-                [self.tok_encode(context)[self.max_gen_toks - self.max_length :]]
+                [self.tok_encode(context)[self.max_gen_toks - self.max_length:]]
             ).to(self.device)
 
             max_gen_tokens = min(
@@ -413,7 +414,7 @@ class BaseLM(LM):
                 context_enc, context_enc.shape[1] + max_gen_tokens, primary_until
             )
 
-            s = self.tok_decode(cont[0].tolist()[context_enc.shape[1] :])
+            s = self.tok_decode(cont[0].tolist()[context_enc.shape[1]:])
 
             for term in until:
                 s = s.split(term)[0]
@@ -435,16 +436,6 @@ class Task(abc.ABC):
         {"question": ..., "answer": ...} or
         {"question": ..., question, answer)
     """
-
-    # The name of the `Task` benchmark as denoted in the HuggingFace datasets Hub
-    # or a path to a custom `datasets` loading script.
-    DATASET_PATH: str = None
-
-    # The name of a subset within `DATASET_PATH`.
-    DATASET_NAME: str = None
-
-    # The number of shots to use for few-shot evaluation.
-    NUM_FEW_SHOT: int = 0
 
     def __init__(self, data_dir=None, cache_dir=None, download_mode=None):
         """
@@ -469,6 +460,10 @@ class Task(abc.ABC):
             - `datasets.DownloadMode.FORCE_REDOWNLOAD`
                 Fresh download and fresh dataset.
         """
+        # The name of the `Task` benchmark as denoted in the HuggingFace datasets Hub
+        # or a path to a custom `datasets` loading script.
+        # The name of the `Task` benchmark as denoted in the HuggingFace datasets Hub
+        # or a path to a custom `datasets` loading script.
         self.download(data_dir, cache_dir, download_mode)
         self._training_docs = None
         self._fewshot_docs = None
@@ -498,6 +493,8 @@ class Task(abc.ABC):
             - `datasets.DownloadMode.FORCE_REDOWNLOAD`
                 Fresh download and fresh dataset.
         """
+
+        # print('| Download dataset from', self.DATASET_PATH, self.DATASET_NAME)
         self.dataset = datasets.load_dataset(
             path=self.DATASET_PATH,
             name=self.DATASET_NAME,
@@ -634,7 +631,7 @@ class Task(abc.ABC):
 
     @utils.positional_deprecated
     def fewshot_context(
-        self, doc, num_fewshot, provide_description=None, rnd=None, description=None
+            self, doc, num_fewshot, provide_description=None, rnd=None, description=None
     ):
         """Returns a fewshot context string that is made up of a prepended description
         (if provided), the `num_fewshot` number of examples, and an appended prompt example.
@@ -654,7 +651,7 @@ class Task(abc.ABC):
             The fewshot context.
         """
         assert (
-            rnd is not None
+                rnd is not None
         ), "A `random.Random` generator argument must be provided to `rnd`"
         assert not provide_description, (
             "The `provide_description` arg will be removed in future versions. To prepend "
@@ -689,13 +686,13 @@ class Task(abc.ABC):
                 fewshotex = [x for x in fewshotex if x != doc][:num_fewshot]
 
             labeled_examples = (
-                "\n\n".join(
-                    [
-                        self.doc_to_text(doc) + self.doc_to_target(doc)
-                        for doc in fewshotex
-                    ]
-                )
-                + "\n\n"
+                    "\n\n".join(
+                        [
+                            self.doc_to_text(doc) + self.doc_to_target(doc)
+                            for doc in fewshotex
+                        ]
+                    )
+                    + "\n\n"
             )
 
         example = self.doc_to_text(doc)
@@ -704,6 +701,8 @@ class Task(abc.ABC):
 
 class MultipleChoiceTask(Task):
     def doc_to_target(self, doc):
+        if len(doc['choices']) <= doc['gold']:
+            print(len(doc['choices']), doc['gold'])
         return " " + doc["choices"][doc["gold"]]
 
     def construct_requests(self, doc, ctx):
@@ -751,13 +750,13 @@ class PerplexityTask(Task, abc.ABC):
         return []
 
     def fewshot_context(
-        self, doc, num_fewshot, provide_description=None, rnd=None, description=None
+            self, doc, num_fewshot, provide_description=None, rnd=None, description=None
     ):
         assert (
-            num_fewshot == 0
+                num_fewshot == 0
         ), "The number of fewshot examples must be 0 for perplexity tasks."
         assert (
-            rnd is not None
+                rnd is not None
         ), "A `random.Random` generator argument must be provided to `rnd`."
         assert not provide_description, (
             "The `provide_description` arg will be removed in future versions. To prepend "
@@ -820,86 +819,6 @@ class PerplexityTask(Task, abc.ABC):
         return len(re.split(r"\s+", doc))
 
 
-def hash_args(attr, args):
-    dat = json.dumps([attr] + list(args))
-    return hashlib.sha256(dat.encode("utf-8")).hexdigest()
-
-
-# class CacheHook:
-#     def __init__(self, cachinglm):
-#         if cachinglm is None:
-#             self.dbdict = None
-#             return
-#
-#         self.dbdict = cachinglm.dbdict
-#
-#     def add_partial(self, attr, req, res):
-#         if self.dbdict is None:
-#             return
-#         hsh = hash_args(attr, req)
-#         self.dbdict[hsh] = res
-
-
-class CachingLM:
-    def __init__(self, lm, cache_db):
-        """LM wrapper that returns cached results if they exist, and uses the underlying LM if not.
-
-        :param lm: LM
-            Underlying LM
-        :param cache_db: str
-            Path to cache db
-        """
-        self.lm = lm
-        self.cache_db = cache_db
-        if os.path.dirname(cache_db):
-            os.makedirs(os.path.dirname(cache_db), exist_ok=True)
-        self.dbdict = SqliteDict(cache_db, autocommit=True)
-
-        # add hook to lm
-        # lm.set_cache_hook(self.get_cache_hook())
-
-    def __getattr__(self, attr):
-        def fn(requests):
-            res = []
-            remaining_reqs = []
-
-            # figure out which ones are cached and which ones are new
-            for req in requests:
-                hsh = hash_args(attr, req)
-                if hsh in self.dbdict:
-                    ob = self.dbdict[hsh]
-
-                    assert ob is not None
-
-                    res.append(ob)
-                else:
-                    res.append(None)
-                    remaining_reqs.append(req)
-
-            # actually run the LM on the requests that do not have cached results
-            rem_res = getattr(self.lm, attr)(remaining_reqs)
-
-            # stick the new ones back into the list and also cache any of the new ones
-            resptr = 0
-            for req, r in zip(remaining_reqs, rem_res):
-                while res[resptr] is not None:
-                    resptr += 1
-
-                res[resptr] = r
-
-                # caching
-                hsh = hash_args(attr, req)
-                self.dbdict[hsh] = r
-            self.dbdict.commit()
-
-            return res
-
-        return fn
-
-    # def get_cache_hook(self):
-    #     return CacheHook(self)
-
-
 REQUEST_RETURN_LENGTHS = {
     "loglikelihood": 2,
     "greedy_until": None,
@@ -931,9 +850,9 @@ class Request:
 
     def __eq__(self, other):
         return (
-            self.request_type == other.request_type
-            and self.args == other.args
-            and self.index == other.index
+                self.request_type == other.request_type
+                and self.args == other.args
+                and self.index == other.index
         )
 
     def __repr__(self):
