@@ -7,7 +7,7 @@ pretrained=sshleifer/tiny-gpt2
 #pretrained=bigscience/bloom-7b1
 
 task_alias=open_llm_vi
-tasks=arc_vi,hellaswag_vi,mmlu_vi,truthfulqa_mc_vi
+tasks=arc_vi,hellaswag_vi,mmlu_vi,truthfulqa_vi
 #tasks=arc_vi
 #tasks=hellaswag_vi
 #tasks=mmlu_vi
